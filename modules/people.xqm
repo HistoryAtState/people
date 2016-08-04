@@ -9,11 +9,11 @@ import module namespace gsh="http://history.state.gov/ns/xquery/geospatialhistor
 declare namespace tei="http://www.tei-c.org/ns/1.0";
 
 declare function people:get-original($url) {
-    let $is-frus := matches($url, '^https?://history\.state\.gov/historicaldocuments')
-    let $is-pocom := matches($url, '^https?://history\.state\.gov/departmenthistory/people')
+    let $is-frus := matches($url, '^https://history\.state\.gov/historicaldocuments')
+    let $is-pocom := matches($url, '^https://history\.state\.gov/departmenthistory/people')
     return
         if ($is-frus) then
-            let $analysis := analyze-string($url, '^https?://history.state.gov/historicaldocuments/([^/]*?)/persons#(.*)$')
+            let $analysis := analyze-string($url, '^https://history.state.gov/historicaldocuments/([^/]*?)/persons#(.*)$')
             let $vol-id := $analysis/fn:match/fn:group[@nr = '1']
             let $person-id := $analysis/fn:match/fn:group[@nr = '2']
             let $name := doc('/db/apps/frus/volumes/' || $vol-id || '.xml')/id($person-id)
@@ -30,7 +30,7 @@ declare function people:get-original($url) {
                     <remark>{$remark}</remark>
                 </original>
         else if ($is-pocom) then
-            let $analysis := analyze-string($url, '^https?://history\.state\.gov/departmenthistory/people/(.*?)$')
+            let $analysis := analyze-string($url, '^https://history\.state\.gov/departmenthistory/people/(.*?)$')
             let $person-id := $analysis/fn:match/fn:group[@nr = '1']
             let $initial := substring($person-id, 1, 1)
             let $person := doc('/db/apps/pocom/people/' || $initial || '/' || $person-id || '.xml')/person
