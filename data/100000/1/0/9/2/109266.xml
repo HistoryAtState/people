@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>109266</id>
+    <authorities>
+        <authority service="viaf">23495616</authority>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Mohammed V</name>
+        </preferred>
+        <alternates>
+            <name>Mohammed Ben Youssef, Sidi</name>
+        </alternates>
+        <originals variants="6">
+            <original source-urls="1">
+                <name>King Mohamed V</name>
+                <source-url>https://history.state.gov/departmenthistory/visits/morocco</source-url>
+            </original>
+            <original source-urls="4">
+                <name>Mohammed V</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv01/persons#p_M2</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv02/persons#p_M7</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv02/persons#p_MV2</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v05/persons#p_MYS1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Morocco, The Sultan of</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv01/persons#p_M4</source-url>
+            </original>
+            <original source-urls="2">
+                <name>Mohammed Ben Youssef, Sidi (Sidi Mohammed V)</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v11p1/persons#p_MBYS1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v11p2/persons#p_MBYS1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Mohamed V (Mohamed ben Youssef)</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v18/persons#p_MVMY1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Mohamed V</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v13/persons#p_MV1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="7">
+        <remark source-urls="1">
+            <p>King, Morocco. Visited U.S. once, 1957</p>
+            <source-url>https://history.state.gov/departmenthistory/visits/morocco</source-url>
+        </remark>
+        <remark source-urls="3">
+            <p>Sultan of Morocco.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv01/persons#p_M2</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv02/persons#p_MV2</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1951v05/persons#p_MYS1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>See Mohammed V.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv01/persons#p_M4</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>The Sultan of. See Mohammed V.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv02/persons#p_M7</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Sultan of Morocco until August 1953.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v11p1/persons#p_MBYS1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v11p2/persons#p_MBYS1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Sultan of Morocco (deposed August 1953; reinstated November 1955) to August 1957, when he assumed title of King</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v18/persons#p_MVMY1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>King of Morocco</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v13/persons#p_MV1</source-url>
+        </remark>
+    </remarks>
+</person>

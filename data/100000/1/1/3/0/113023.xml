@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>113023</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Stibravy, William John</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="3">
+                <name>Stibravy, William J.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1947v02/persons#p_SWJ1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v09/persons#p_SWJ1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v10/persons#p_SWJ2</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Stibravy, William John</name>
+                <source-url>https://history.state.gov/departmenthistory/people/stibravy-william-john</source-url>
+            </original>
+            <original source-urls="1">
+                <name>William J. Stibravy</name>
+                <source-url>https://history.state.gov/departmenthistory/people/stibravy-william-john</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1916</birth-year>
+    <death-year>2013</death-year>
+    <remarks variants="4">
+        <remark source-urls="1">
+            <p>Assistant Chief, Division of Financial Affairs, Department of State</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1947v02/persons#p_SWJ1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Special Assistant to the Director, Office of International Financial and Development Affairs, Bureau of Economic Affairs, Department of State</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v09/persons#p_SWJ1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Special Assistant to the Director of the Office of International Financial and Development Affairs, Bureau of Economic Affairs, Department of State</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v10/persons#p_SWJ2</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Foreign Service Officer. Representative of the U.S.A. to the United Nations Industrial Development Organization (Vienna).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/stibravy-william-john</source-url>
+        </remark>
+    </remarks>
+</person>

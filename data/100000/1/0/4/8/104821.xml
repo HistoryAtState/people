@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>104821</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Gerashchenko, Vladimir Sergeyevich</name>
+        </preferred>
+        <alternates/>
+        <originals variants="4">
+            <original source-urls="1">
+                <name>Geraschenko</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv02/persons#p_G3</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Gereschenko</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv02/persons#p_G4</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Goroshenko</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv02/persons#p_G9</source-url>
+            </original>
+            <original source-urls="3">
+                <name>Gerashchenko, Vladimir Sergeyevich</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv02/persons#p_GVS1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1946v03/persons#p_GVS1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1947v02/persons#p_GVS1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="4">
+        <remark source-urls="3">
+            <p>See Gerashchenko.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv02/persons#p_G3</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv02/persons#p_G4</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv02/persons#p_G9</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Economic Specialist, People’s Commissariat for Foreign Affairs of the Soviet Union.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv02/persons#p_GVS1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Adviser, Soviet Delegation; Chief, Economic Affairs Division, Soviet Ministry of Foreign Affairs</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1946v03/persons#p_GVS1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Chief, Economic Affairs Division, Soviet Foreign Ministry; Soviet Representative on the Trieste Commission on Inquiry, Council of Foreign Ministers</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1947v02/persons#p_GVS1</source-url>
+        </remark>
+    </remarks>
+</person>

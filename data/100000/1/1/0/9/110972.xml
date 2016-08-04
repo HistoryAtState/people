@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>110972</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Primrose, Archibald Philip</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="1">
+                <name>Rosebery</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv01/persons#p_R2</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="1">
+            <title source-urls="1">
+                <name>Earl of Rosebery</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv01/persons#p_R2</source-url>
+            </title>
+        </titles-from-name>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="1">
+        <remark source-urls="1">
+            <p>The Earl of, British Secretary of State for Foreign Affairs, February–August 1886, 1892–1894; Prime Minister, 1894–1895.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv01/persons#p_R2</source-url>
+        </remark>
+    </remarks>
+</person>

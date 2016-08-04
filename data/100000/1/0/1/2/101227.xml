@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>101227</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Berle, Adolf Augustus, Jr.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="6">
+            <original source-urls="2">
+                <name>Berle, Adolf A., Jr.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1943CairoTehran/persons#p_BAA1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945Malta/persons#p_BAAJ1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Berle, Adolph A.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v10/persons#p_BAA2</source-url>
+            </original>
+            <original source-urls="2">
+                <name>Berle, Adolf A.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v12/persons#p_BAA2</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v31/persons#p_BAA1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Berle, Adolf Augustus, Jr.</name>
+                <source-url>https://history.state.gov/departmenthistory/people/berle-adolf-augustus</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Adolf A. Berle Jr.</name>
+                <source-url>https://history.state.gov/departmenthistory/people/berle-adolf-augustus</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Adolf A. Berle, Jr.</name>
+                <source-url>https://history.state.gov/departmenthistory/people/berle-adolf-augustus</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1895</birth-year>
+    <death-year>1971</death-year>
+    <remarks variants="6">
+        <remark source-urls="1">
+            <p>Assistant Secretary of State.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1943CairoTehran/persons#p_BAA1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Assistant Secretary of State, 1938–1944; American Ambassador to Brazil, 1945–1946.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1945Malta/persons#p_BAAJ1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Chairman of the Department of State Task Force on Latin America</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v10/persons#p_BAA2</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Chairman, Task Force on Immediate Latin American Problems, November-December 1960; Chairman, Task Force on Latin America, January 2-July 7, 1961</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v12/persons#p_BAA2</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>former Assistant Secretary of State and Ambassador to Brazil; emeritus professor of law, Columbia University; chairman of the board, Twentieth Century Fund</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v31/persons#p_BAA1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Non-career appointee. Assistant Secretary of State; Ambassador Extraordinary and Plenipotentiary (Brazil).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/berle-adolf-augustus</source-url>
+        </remark>
+    </remarks>
+</person>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>106678</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Johnson, Stephen T.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="1">
+                <name>Johnson, Stephen T.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v02/persons#p_JST_1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="1">
+        <remark source-urls="1">
+            <p>Food for Freedom Division, Office of Food Policy and Programs, International Resources and Food Policy, Bureau of Economic and Business Affairs, Department of State, until 1978; Political Officer in Bucharest from March 1979</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v02/persons#p_JST_1</source-url>
+        </remark>
+    </remarks>
+</person>

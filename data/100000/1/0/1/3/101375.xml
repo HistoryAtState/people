@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>101375</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Blacken, John Dale</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="2">
+                <name>Blacken, John Dale</name>
+                <source-url>https://history.state.gov/departmenthistory/people/blacken-john-dale</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve11p1/persons#p_BJD_1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1930</birth-year>
+    <death-year>2015</death-year>
+    <remarks variants="2">
+        <remark source-urls="1">
+            <p>Foreign Service Officer. Ambassador Extraordinary and Plenipotentiary (Guinea-Bissau).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/blacken-john-dale</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Political Officer, Embassy in Panama, from May 1973 until July 1976; DCM-Counselor at the Embassy in Guyana, from July 1976</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve11p1/persons#p_BJD_1</source-url>
+        </remark>
+    </remarks>
+</person>

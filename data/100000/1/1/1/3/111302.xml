@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>111302</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Reuther, David E.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="1">
+                <name>Reuther, David E.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v02/persons#p_RDE_1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="1">
+        <remark source-urls="1">
+            <p>Country Officer for Iraq, Bureau of Near Eastern and South Asian Affairs, Department of State, from 1977 until 1978; Executive Secretariat Staff from 1978 until 1979; Economic Officer, People’s Republic of China and Mongolian Affairs, Bureau of East Asian and Pacific Affairs, from 1979</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v02/persons#p_RDE_1</source-url>
+        </remark>
+    </remarks>
+</person>

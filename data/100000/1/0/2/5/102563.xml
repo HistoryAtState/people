@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>102563</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Churchill, Marlborough</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="1">
+                <name>Churchill, Marlborough</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1917-72PubDip/persons#p_CM_1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="1">
+        <remark source-urls="1">
+            <p>Brigadier General, USA; Head of the Military Intelligence Branch, Department of War General Staff, from June 1918 (Military Intelligence Division after August 1918)</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1917-72PubDip/persons#p_CM_1</source-url>
+        </remark>
+    </remarks>
+</person>

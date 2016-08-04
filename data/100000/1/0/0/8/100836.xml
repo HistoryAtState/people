@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>100836</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Bane, David Morgan</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="3">
+                <name>Bane, David M.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v02/persons#p_BDM2</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v18/persons#p_BDM2</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v22/persons#p_BDM1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Bane, David Morgan</name>
+                <source-url>https://history.state.gov/departmenthistory/people/bane-david-morgan</source-url>
+            </original>
+            <original source-urls="1">
+                <name>David M. Bane</name>
+                <source-url>https://history.state.gov/departmenthistory/people/bane-david-morgan</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1915</birth-year>
+    <death-year/>
+    <remarks variants="4">
+        <remark source-urls="1">
+            <p>Director, Office of Near Eastern Affairs, Bureau of Near Eastern and South Asian Affairs, Department of State, from May 1959</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v02/persons#p_BDM2</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Deputy Director of the Office of Northeast Asian Affairs, Bureau of Far Eastern Affairs, Department of State, until April 1959; thereafter Director</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v18/persons#p_BDM2</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Director of the Office of Northeast Asian Affairs, Bureau of Far Eastern Affairs, Department of State, until May 1961</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v22/persons#p_BDM1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Foreign Service Officer. Ambassador Extraordinary and Plenipotentiary (Gabon).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/bane-david-morgan</source-url>
+        </remark>
+    </remarks>
+</person>

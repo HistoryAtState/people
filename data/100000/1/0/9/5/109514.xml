@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>109514</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Mulcahy, Edward William</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="6">
+                <name>Mulcahy, Edward W.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v11p1/persons#p_MEW1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v11p2/persons#p_MEW1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v16/persons#p_MEW_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v26/persons#p_MEW_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v28/persons#p_MEW_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve06/persons#p_MEW1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Mulcahy, Edward William</name>
+                <source-url>https://history.state.gov/departmenthistory/people/mulcahy-edward-william</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Edward W. Mulcahy</name>
+                <source-url>https://history.state.gov/departmenthistory/people/mulcahy-edward-william</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1921</birth-year>
+    <death-year>2006</death-year>
+    <remarks variants="6">
+        <remark source-urls="2">
+            <p>Consul at Asmara until October 27, 1952; thereafter, Office of Personnel, Bureau of Administration, Department of State.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v11p1/persons#p_MEW1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v11p2/persons#p_MEW1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Deputy Assistant Secretary of State for African Affairs until March 1976; Ambassador to Tunisia from May 31, 1976</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v16/persons#p_MEW_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Deputy Assistant Secretary of State for African Affairs from 1974</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v26/persons#p_MEW_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>U.S. Ambassador to Chad from 1972 until 1974; Deputy Assistant Secretary of State for African Affairs from 1974 until 1976</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v28/persons#p_MEW_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Ambassador to Chad 1972 to 1974; Deputy Assistant Secretary of State for African Affairs from 1974 to 1976</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve06/persons#p_MEW1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Foreign Service Officer. Ambassador Extraordinary and Plenipotentiary (Tunisia); Ambassador Extraordinary and Plenipotentiary (Chad).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/mulcahy-edward-william</source-url>
+        </remark>
+    </remarks>
+</person>

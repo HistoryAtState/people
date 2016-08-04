@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>111402</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Ríos Valdivia, Alejandro</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="1">
+                <name>Ríos Valdivia, Alejandro</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v21/persons#p_RVA_1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="1">
+        <remark source-urls="1">
+            <p>Chilean Interior Minister, 1972</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v21/persons#p_RVA_1</source-url>
+        </remark>
+    </remarks>
+</person>

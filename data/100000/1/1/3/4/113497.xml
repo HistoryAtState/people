@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>113497</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Thien Minh</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="4">
+                <name>Thien Minh</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v03/persons#p_TM1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v02/persons#p_TM1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v03/persons#p_TM1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v04/persons#p_TM1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="2">
+        <remark source-urls="1">
+            <p>bonze, leader of the Buddhist delegation from Hue</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v03/persons#p_TM1</source-url>
+        </remark>
+        <remark source-urls="3">
+            <p>Buddhist leader</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v02/persons#p_TM1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v03/persons#p_TM1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v04/persons#p_TM1</source-url>
+        </remark>
+    </remarks>
+</person>

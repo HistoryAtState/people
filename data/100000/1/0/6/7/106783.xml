@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>106783</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Judd, Walter H.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="4">
+                <name>Judd, Walter H.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v04p1/persons#p_JWH1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v04p2/persons#p_JWH1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v15p1/persons#p_JWH1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v15p2/persons#p_JWH1</source-url>
+            </original>
+            <original source-urls="5">
+                <name>Judd, Walter</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v09/persons#p_JW1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v17/persons#p_JW1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v38p1/persons#p_JW_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v38p2/persons#p_JW_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve13/persons#p_JW1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Judd, Dr. Walter</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v05/persons#p_JDW1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="1">
+            <title source-urls="1">
+                <name>Dr.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v05/persons#p_JDW1</source-url>
+            </title>
+        </titles-from-name>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="7">
+        <remark source-urls="2">
+            <p>Member of the House of Representatives from Minnesota; member of the House Committee on Foreign Affairs</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1951v04p1/persons#p_JWH1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1951v04p2/persons#p_JWH1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Republican Representative from Minnesota; member, Far East Subcommittee of the House Committee on Foreign Affairs.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v15p1/persons#p_JWH1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v15p2/persons#p_JWH1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Republican Congressman from Minnesota; Member, House Foreign Relations Committee; Member, Delegation at the 12th Regular Session of the General Assembly</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v09/persons#p_JW1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Chairman, Committee of One Million Against the Admission of Communist China to the United Nations</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v05/persons#p_JDW1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Representative (R-Minnesota), 1943–1963</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v17/persons#p_JW1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve13/persons#p_JW1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>member, U.S. House of Representatives (R–Minnesota) from 1943 until 1963</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v38p1/persons#p_JW_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Representative (R–Minnesota), 1943–1963</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v38p2/persons#p_JW_1</source-url>
+        </remark>
+    </remarks>
+</person>

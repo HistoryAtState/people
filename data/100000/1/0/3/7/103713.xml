@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>103713</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Duncan, Donald B.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="4">
+            <original source-urls="1">
+                <name>Duncan, Rear Admiral Donald B.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945Malta/persons#p_D4</source-url>
+            </original>
+            <original source-urls="2">
+                <name>Duncan, Vice Admiral Donald B.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v03p1/persons#p_DVADB1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v03p2/persons#p_DVADB1</source-url>
+            </original>
+            <original source-urls="4">
+                <name>Duncan, Donald B.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v05/persons#p_DDB1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v05p1/persons#p_DUNCANDB1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v05p2/persons#p_DUNCANDB1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v13p1/persons#p_DADB1</source-url>
+            </original>
+            <original source-urls="4">
+                <name>Duncan, Admiral Donald B.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v09p1/persons#p_DAD1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v09p2/persons#p_DAD1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v13p2/persons#p_DADB1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v21/persons#p_DADB1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="3">
+            <title source-urls="1">
+                <name>Rear Admiral</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945Malta/persons#p_D4</source-url>
+            </title>
+            <title source-urls="2">
+                <name>Vice Admiral</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v03p1/persons#p_DVADB1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v03p2/persons#p_DVADB1</source-url>
+            </title>
+            <title source-urls="4">
+                <name>Admiral</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v09p1/persons#p_DAD1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v09p2/persons#p_DAD1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v13p2/persons#p_DADB1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v21/persons#p_DADB1</source-url>
+            </title>
+        </titles-from-name>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="5">
+        <remark source-urls="1">
+            <p>U. S. N., Assistant Chief of Staff (Plans) to the Commander in Chief, United States Fleet; member of the Joint Staff Planners of the Joint Chiefs of Staff.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1945Malta/persons#p_D4</source-url>
+        </remark>
+        <remark source-urls="6">
+            <p>USN, Vice Chief of Naval Operations.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1951v03p1/persons#p_DVADB1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1951v03p2/persons#p_DVADB1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v09p1/persons#p_DAD1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v09p2/persons#p_DAD1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v13p1/persons#p_DADB1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v13p2/persons#p_DADB1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>USN, Deputy Chief of Naval Operations (Operations), from March 1, 1950; promoted to Admiral and appointed Vice Chief of Naval Operations, August 10, 1951.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1951v05/persons#p_DDB1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Admiral, United States Navy: Vice Chief of Naval Operations from August 10, 1951.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v05p1/persons#p_DUNCANDB1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v05p2/persons#p_DUNCANDB1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>USN, Vice Chief of Naval Operations to September 1956</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v21/persons#p_DADB1</source-url>
+        </remark>
+    </remarks>
+</person>

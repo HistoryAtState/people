@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>112088</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Schoenfeld, Hans Frederick Arthur</name>
+        </preferred>
+        <alternates/>
+        <originals variants="5">
+            <original source-urls="2">
+                <name>Schoenfeld, Hans Frederick Arthur</name>
+                <source-url>https://history.state.gov/departmenthistory/people/schoenfeld-hans-frederick-arthur</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv02/persons#p_SHFA1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>H.F. Arthur Schoenfeld</name>
+                <source-url>https://history.state.gov/departmenthistory/people/schoenfeld-hans-frederick-arthur</source-url>
+            </original>
+            <original source-urls="1">
+                <name>H. F. Arthur Schoenfeld</name>
+                <source-url>https://history.state.gov/departmenthistory/people/schoenfeld-hans-frederick-arthur</source-url>
+            </original>
+            <original source-urls="2">
+                <name>Schoenfeld, H. F. Arthur</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv01/persons#p_SHFA1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945Malta/persons#p_SHFA1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Schoenfeld, H. Frederick Arthur</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1946v03/persons#p_SFA1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1889</birth-year>
+    <death-year>1952</death-year>
+    <remarks variants="4">
+        <remark source-urls="1">
+            <p>Foreign Service Officer. Envoy Extraordinary and Minister Plenipotentiary (Hungary); Envoy Extraordinary and Minister Plenipotentiary (Finland); Envoy Extraordinary and Minister Plenipotentiary (Dominican Republic); Envoy Extraordinary and Minister Plenipotentiary (Costa Rica); Envoy Extraordinary and Minister Plenipotentiary (Bulgaria).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/schoenfeld-hans-frederick-arthur</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>United States Representative in Hungary.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv01/persons#p_SHFA1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv02/persons#p_SHFA1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>American Representative in Hungary with the personal rank of Minister.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1945Malta/persons#p_SHFA1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>United States Minister in Hungary</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1946v03/persons#p_SFA1</source-url>
+        </remark>
+    </remarks>
+</person>

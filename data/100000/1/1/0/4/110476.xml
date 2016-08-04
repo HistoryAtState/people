@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>110476</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Peak, John Lee</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="1">
+                <name>Peak, John Lee</name>
+                <source-url>https://history.state.gov/departmenthistory/people/peak-john-lee</source-url>
+            </original>
+            <original source-urls="1">
+                <name>John L. Peak</name>
+                <source-url>https://history.state.gov/departmenthistory/people/peak-john-lee</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1839</birth-year>
+    <death-year>1911</death-year>
+    <remarks variants="1">
+        <remark source-urls="1">
+            <p>Non-career appointee. Envoy Extraordinary and Minister Plenipotentiary (Switzerland).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/peak-john-lee</source-url>
+        </remark>
+    </remarks>
+</person>

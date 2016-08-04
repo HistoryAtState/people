@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>108296</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>MacKnight, Jesse MacKenzie</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="4">
+                <name>MacKnight, Jesse M.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v02p1/persons#p_MACKNIGHTJM1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v02p2/persons#p_MACKNIGHTJM1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v21/persons#p_MKJM2</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v24/persons#p_MKJM2</source-url>
+            </original>
+            <original source-urls="1">
+                <name>MacKnight, Jesse MacKenzie</name>
+                <source-url>https://history.state.gov/departmenthistory/people/macknight-jesse-mackenzie</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Jesse M. MacKnight</name>
+                <source-url>https://history.state.gov/departmenthistory/people/macknight-jesse-mackenzie</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1910</birth-year>
+    <death-year>1990</death-year>
+    <remarks variants="4">
+        <remark source-urls="2">
+            <p>Special Assistant to the Assistant Secretary of State for Public Affairs.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v02p1/persons#p_MACKNIGHTJM1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v02p2/persons#p_MACKNIGHTJM1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Director, Office of Eastern and Southern African Affairs, Bureau of African Affairs, Department of State, from August 1963</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v21/persons#p_MKJM2</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Director, Office of Eastern and Southern African Affairs, Bureau of African Affairs, Department of State, until November 1965</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v24/persons#p_MKJM2</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Foreign Service Officer. Chargé d'Affaires ad interim (Togo).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/macknight-jesse-mackenzie</source-url>
+        </remark>
+    </remarks>
+</person>

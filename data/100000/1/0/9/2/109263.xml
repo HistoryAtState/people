@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>109263</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Mohammed, Ghulam</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="1">
+                <name>Governor General Ghulam Mohammed</name>
+                <source-url>https://history.state.gov/departmenthistory/visits/pakistan</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="1">
+        <remark source-urls="1">
+            <p>Governor General, Pakistan. Visited U.S. once, 1953</p>
+            <source-url>https://history.state.gov/departmenthistory/visits/pakistan</source-url>
+        </remark>
+    </remarks>
+</person>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>113074</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Stookey, Robert Wilson</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="3">
+                <name>Stookey, Robert W.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v12/persons#p_SRW1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v17/persons#p_SRW1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v18/persons#p_SRW1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Stookey, Robert Wilson</name>
+                <source-url>https://history.state.gov/departmenthistory/people/stookey-robert-wilson</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Robert Stookey</name>
+                <source-url>https://history.state.gov/departmenthistory/people/stookey-robert-wilson</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1917</birth-year>
+    <death-year/>
+    <remarks variants="4">
+        <remark source-urls="1">
+            <p>Office of Near Eastern Affairs, Bureau of Near Eastern and South Asian Affairs, Department of State</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v12/persons#p_SRW1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>First Secretary and Counselor of Embassy in Yemen (Taiz); Charge d’Affaires ad interim from January 23, 1963</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v17/persons#p_SRW1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>First Secretary and Counselor of Embassy in Yemen (Taiz); Charge d'Affaires ad interim from January 23, 1963</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v18/persons#p_SRW1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Foreign Service Officer. Chargé d'Affaires ad interim (Yemen).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/stookey-robert-wilson</source-url>
+        </remark>
+    </remarks>
+</person>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>104630</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Funk, Gerald</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="3">
+                <name>Funk, Gerald</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v18/persons#p_FGP_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v21/persons#p_FG_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v30/persons#p_FG_1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="3">
+        <remark source-urls="1">
+            <p>member, National Security Council Staff</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v18/persons#p_FGP_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>member, National Security Council Staff for Sub-Saharan Africa Affairs from December 1978 until January 1981</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v21/persons#p_FG_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>member, National Security Council Staff for North/South Affairs, from December 1978 until January 1981</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v30/persons#p_FG_1</source-url>
+        </remark>
+    </remarks>
+</person>

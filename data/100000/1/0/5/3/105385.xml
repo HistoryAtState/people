@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>105385</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Hailsham, Quinton M.H.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="1">
+                <name>Hailsham, Viscount Quinton M.H.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v07/persons#p_HVQMH1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="1">
+            <title source-urls="1">
+                <name>Viscount</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v07/persons#p_HVQMH1</source-url>
+            </title>
+        </titles-from-name>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="1">
+        <remark source-urls="1">
+            <p>British Lord President of the Council and Minister for Science and Technology; also British representative at the test ban treaty negotiations at Moscow, July 1963</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v07/persons#p_HVQMH1</source-url>
+        </remark>
+    </remarks>
+</person>

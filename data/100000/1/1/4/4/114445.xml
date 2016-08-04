@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>114445</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Wessin y Wessin, Elias</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="1">
+                <name>Wessin y Wessin</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v12/persons#p_WW5</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="1">
+        <remark source-urls="1">
+            <p>Colonel Elias, leader of Dominican coup of September 25, 1963</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v12/persons#p_WW5</source-url>
+        </remark>
+    </remarks>
+</person>

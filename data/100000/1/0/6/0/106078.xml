@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>106078</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Holyoake, Keith J.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="4">
+            <original source-urls="3">
+                <name>Holyoake, Keith</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v04/persons#p_HK1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v05/persons#p_HK1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v05/persons#p_HK1</source-url>
+            </original>
+            <original source-urls="3">
+                <name>Holyoake, Sir Keith</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v26/persons#p_HSK1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v27/persons#p_HSK1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v06/persons#p_HSK1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Prime Minister Holyoake</name>
+                <source-url>https://history.state.gov/departmenthistory/visits/new-zealand</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Prime Minister Keith J. Holyoake</name>
+                <source-url>https://history.state.gov/departmenthistory/visits/new-zealand</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="1">
+            <title source-urls="3">
+                <name>Sir</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v26/persons#p_HSK1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v27/persons#p_HSK1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v06/persons#p_HSK1</source-url>
+            </title>
+        </titles-from-name>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="3">
+        <remark source-urls="6">
+            <p>Prime Minister of New Zealand</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v04/persons#p_HK1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v05/persons#p_HK1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v26/persons#p_HSK1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v27/persons#p_HSK1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v05/persons#p_HK1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v06/persons#p_HSK1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Prime Minister, New Zealand. Visited U.S. 3 times, 1961–1964</p>
+            <source-url>https://history.state.gov/departmenthistory/visits/new-zealand</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Prime Minister, New Zealand. Visited U.S. 3 times, 1968–1971</p>
+            <source-url>https://history.state.gov/departmenthistory/visits/new-zealand</source-url>
+        </remark>
+    </remarks>
+</person>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>110139</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Osborn, David Lawrence</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="4">
+                <name>Osborn, David Lawrence</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v17/persons#p_ODL1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve12/persons#p_osborn-david-lawrence</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve13/persons#p_ODL1</source-url>
+                <source-url>https://history.state.gov/departmenthistory/people/osborn-david-lawrence</source-url>
+            </original>
+            <original source-urls="1">
+                <name>David L. Osborn</name>
+                <source-url>https://history.state.gov/departmenthistory/people/osborn-david-lawrence</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1921</birth-year>
+    <death-year>1994</death-year>
+    <remarks variants="3">
+        <remark source-urls="2">
+            <p>Deputy Chief of Mission in Tokyo until July 1970; thereafter, Consul General in Hong Kong</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v17/persons#p_ODL1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve13/persons#p_ODL1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Consul General in Hong Kong until March 1974</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve12/persons#p_osborn-david-lawrence</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Foreign Service Officer. Ambassador Extraordinary and Plenipotentiary (Burma).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/osborn-david-lawrence</source-url>
+        </remark>
+    </remarks>
+</person>

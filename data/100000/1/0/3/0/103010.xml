@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>103010</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Cross, Charles Tenney</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="5">
+                <name>Cross, Charles T.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v01/persons#p_CCT1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v23/persons#p_CCT1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v24/persons#p_CCT1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v17/persons#p_CCT1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve13/persons#p_CCT1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Cross, Charles Tenney</name>
+                <source-url>https://history.state.gov/departmenthistory/people/cross-charles-tenney</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Charles T. Cross</name>
+                <source-url>https://history.state.gov/departmenthistory/people/cross-charles-tenney</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1922</birth-year>
+    <death-year>2008</death-year>
+    <remarks variants="5">
+        <remark source-urls="1">
+            <p>Officer in Charge of Laos Affairs, Office of Southeast Asian Affairs, Department of State</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v01/persons#p_CCT1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Officer in Charge of Laos Affairs, Office of Southeast Asian Affairs, Bureau of Far Eastern Affairs, Department of State, September 3, 1961-August 4, 1963</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v23/persons#p_CCT1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Officer in Charge of Laos Affairs, Department of State, September 3, 1961–August 4, 1963</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v24/persons#p_CCT1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Ambassador to Singapore, September 15, 1969–November 18, 1971</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v17/persons#p_CCT1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve13/persons#p_CCT1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Foreign Service Officer. Ambassador Extraordinary and Plenipotentiary (Singapore).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/cross-charles-tenney</source-url>
+        </remark>
+    </remarks>
+</person>

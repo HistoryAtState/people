@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>109966</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Nunn, Samuel (Sam) Augustus</name>
+        </preferred>
+        <alternates/>
+        <originals variants="5">
+            <original source-urls="1">
+                <name>Nunn, Sam</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v10/persons#p_NS1</source-url>
+            </original>
+            <original source-urls="4">
+                <name>Nunn, Samuel (Sam) Augustus</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v35/persons#p_NSA_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve14p2/persons#p_NS_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v28/persons#p_NS_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1981-88v03/persons#p_NS_1</source-url>
+            </original>
+            <original source-urls="2">
+                <name>Nunn, Samuel</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v39/persons#p_NS3</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v21/persons#p_NS_1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Nunn, Samuel Augustus</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve03/persons#p_NSA1</source-url>
+            </original>
+            <original source-urls="2">
+                <name>Nunn, Samuel A.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v01/persons#p_NSA_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v13/persons#p_NSA_1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="5">
+        <remark source-urls="2">
+            <p>Democratic Senator from Georgia</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v10/persons#p_NS1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve03/persons#p_NSA1</source-url>
+        </remark>
+        <remark source-urls="5">
+            <p>Senator (D-Georgia)</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v35/persons#p_NSA_1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve14p2/persons#p_NS_1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v01/persons#p_NSA_1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v21/persons#p_NS_1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1981-88v03/persons#p_NS_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Senator (D–Georgia)</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v39/persons#p_NS3</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Senator (D–Georgia) from 1972 until 1997</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v13/persons#p_NSA_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Senator (D—Georgia)</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v28/persons#p_NS_1</source-url>
+        </remark>
+    </remarks>
+</person>

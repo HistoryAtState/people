@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>106372</id>
+    <authorities>
+        <authority service="viaf">30339847</authority>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Ikeda, Hayato</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="2">
+                <name>Ikeda, Hiyato</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v14p1/persons#p_IH1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v14p2/persons#p_IH1</source-url>
+            </original>
+            <original source-urls="5">
+                <name>Ikeda, Hayato</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v23p1/persons#p_IH2</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v18/persons#p_IH3</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v22/persons#p_IH1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v29p1/persons#p_IH1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v29p2/persons#p_IH3</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Prime Minister Ikeda</name>
+                <source-url>https://history.state.gov/departmenthistory/visits/japan</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="7">
+        <remark source-urls="2">
+            <p>Japanese Minister of Finance to October 1952; Minister of International Trade and Industry, October–November 1952; Personal Representative of the Japanese Prime Minister, October–November 1953; Secretary General of the Liberal Party from July 1954.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v14p1/persons#p_IH1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v14p2/persons#p_IH1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Secretary-General of the Liberal Party in Japan to November 1955; Minister of Finance, December 1956–July 1957</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v23p1/persons#p_IH2</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Japanese Minister without Portfolio, June–December 1958; Minister of Trade and Industry, June 1959–July 1960; Prime Minister from July 1960</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v18/persons#p_IH3</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Prime Minister of Japan</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v22/persons#p_IH1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Japanese Prime Minister until November 1964</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v29p1/persons#p_IH1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Prime Minister of Japan from July 1960 to November 1964</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v29p2/persons#p_IH3</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Prime Minister, Japan. Visited U.S. 2 times, 1961–1963</p>
+            <source-url>https://history.state.gov/departmenthistory/visits/japan</source-url>
+        </remark>
+    </remarks>
+</person>

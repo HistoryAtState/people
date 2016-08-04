@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>108245</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Ma, Thao</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="1">
+                <name>Ma, Thao</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v28/persons#p_MT1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="1">
+        <remark source-urls="1">
+            <p>General, Commander of the Royal Lao Air Force until September 1966; Deputy Chief of Staff for Operations of the Royal Air Force until October 1966</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v28/persons#p_MT1</source-url>
+        </remark>
+    </remarks>
+</person>

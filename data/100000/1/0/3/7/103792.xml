@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>103792</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Eaton, John Henry</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="1">
+                <name>Eaton, John Henry</name>
+                <source-url>https://history.state.gov/departmenthistory/people/eaton-john-henry</source-url>
+            </original>
+            <original source-urls="1">
+                <name>John H. Eaton</name>
+                <source-url>https://history.state.gov/departmenthistory/people/eaton-john-henry</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1790</birth-year>
+    <death-year>1856</death-year>
+    <remarks variants="1">
+        <remark source-urls="1">
+            <p>Non-career appointee. Envoy Extraordinary and Minister Plenipotentiary (Spain).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/eaton-john-henry</source-url>
+        </remark>
+    </remarks>
+</person>

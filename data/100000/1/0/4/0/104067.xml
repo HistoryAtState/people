@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>104067</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Etzel, Franz</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="7">
+                <name>Etzel, Franz</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v06p1/persons#p_ETZELF1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v06p2/persons#p_ETZELF1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v04/persons#p_EF1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v07p1/persons#p_EF1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v07p2/persons#p_EF1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v08/persons#p_EF1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v09/persons#p_EF2</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="4">
+        <remark source-urls="2">
+            <p>Vice President of the High Authority of the European Coal and Steel Community.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v06p1/persons#p_ETZELF1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v06p2/persons#p_ETZELF1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>one of the three “Wise Men” of the Common Market</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v04/persons#p_EF1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>German Finance Minister</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v07p1/persons#p_EF1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v07p2/persons#p_EF1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>German Minister of Finance</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v08/persons#p_EF1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v09/persons#p_EF2</source-url>
+        </remark>
+    </remarks>
+</person>

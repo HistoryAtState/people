@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>109492</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Mubarak, Hosni</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="2">
+                <name>Mubarak, Hosni</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v26/persons#p_MH_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v08/persons#p_MH_1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Mubarek, Hosni</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve09p1/persons#p_MH_1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>President Hosni Mubarak</name>
+                <source-url>https://history.state.gov/departmenthistory/visits/egypt</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="4">
+        <remark source-urls="1">
+            <p>Major General; Egyptian Vice President</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v26/persons#p_MH_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Egyptian Vice President from 1975 until 1981</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve09p1/persons#p_MH_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Vice President of Egypt from 1975</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v08/persons#p_MH_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>President, Egypt. Visited U.S. 23 times, 1982–2010</p>
+            <source-url>https://history.state.gov/departmenthistory/visits/egypt</source-url>
+        </remark>
+    </remarks>
+</person>

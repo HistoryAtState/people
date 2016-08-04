@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>102902</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Cotton, Joseph Potter</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="1">
+                <name>Cotton, Joseph Potter</name>
+                <source-url>https://history.state.gov/departmenthistory/people/cotton-joseph-potter</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Joseph P. Cotton</name>
+                <source-url>https://history.state.gov/departmenthistory/people/cotton-joseph-potter</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1875</birth-year>
+    <death-year>1931</death-year>
+    <remarks variants="1">
+        <remark source-urls="1">
+            <p>Non-career appointee. Under Secretary of State.</p>
+            <source-url>https://history.state.gov/departmenthistory/people/cotton-joseph-potter</source-url>
+        </remark>
+    </remarks>
+</person>

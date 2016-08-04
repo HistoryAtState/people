@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>114576</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Wiley, Alexander</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="10">
+                <name>Wiley, Alexander</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1947v02/persons#p_WA2</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v04p1/persons#p_WA1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v04p2/persons#p_WA1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v05p1/persons#p_WILEYA1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v05p2/persons#p_WILEYA1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v09/persons#p_WA1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v12/persons#p_WA1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v14/persons#p_WA2</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v16/persons#p_WA2</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v17/persons#p_WA2</source-url>
+            </original>
+            <original source-urls="2">
+                <name>Wiley, Senator Alexander</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v02p1/persons#p_WILEYSA1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v02p2/persons#p_WILEYSA1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="1">
+            <title source-urls="2">
+                <name>Senator</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v02p1/persons#p_WILEYSA1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v02p2/persons#p_WILEYSA1</source-url>
+            </title>
+        </titles-from-name>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="7">
+        <remark source-urls="1">
+            <p>United States Senator from Wisconsin</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1947v02/persons#p_WA2</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Senator from Wisconsin</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1951v04p1/persons#p_WA1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1951v04p2/persons#p_WA1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>(R–Wisconsin), Chairman of the Senate Foreign Relations Committee, 1953–1954.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v02p1/persons#p_WILEYSA1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v02p2/persons#p_WILEYSA1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Republican Senator from Wisconsin and Chairman of the Senate Foreign Relations Committee after January 1953.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v05p1/persons#p_WILEYA1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v05p2/persons#p_WILEYA1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Republican Senator from Wisconsin; ranking Republican on the Senate Foreign Relations Committee</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v09/persons#p_WA1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Republican Senator from Wisconsin, member of the Senate Foreign Relations Committee and the Senate Judiciary Commitee</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v12/persons#p_WA1</source-url>
+        </remark>
+        <remark source-urls="3">
+            <p>Republican Senator from Wisconsin; member of the Senate Foreign Relations Committee and the Senate Judiciary Commitee; ranking Republican member of those Committees</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v14/persons#p_WA2</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v16/persons#p_WA2</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v17/persons#p_WA2</source-url>
+        </remark>
+    </remarks>
+</person>

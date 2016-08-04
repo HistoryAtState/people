@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>100886</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Barnard, John L.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="8">
+                <name>Barnard, John L.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v03p1/persons#p_BJL1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v03p2/persons#p_BJL1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v04p1/persons#p_BJL1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v04p2/persons#p_BJL1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v05p1/persons#p_BARNARDJL1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v05p2/persons#p_BARNARDJL1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v07p1/persons#p_BJL1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v07p2/persons#p_BJL1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="4">
+        <remark source-urls="2">
+            <p>Office of European Regional Affairs, Department of State.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1951v03p1/persons#p_BJL1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1951v03p2/persons#p_BJL1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Intelligence Adviser, Bureau of European Affairs, Department of State; transferred to the Office of European Regional Affairs in the fall of 1951</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1951v04p1/persons#p_BJL1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1951v04p2/persons#p_BJL1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Office of European Regional Affairs, Department of State, February–August 1952; Assistant United Nations Adviser in the Bureau of European Affairs after November 1952.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v05p1/persons#p_BARNARDJL1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v05p2/persons#p_BARNARDJL1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Office of Western European Affairs, Department of State, until November 1952; thereafter Assistant United Nations Adviser, Bureau of European Affairs.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v07p1/persons#p_BJL1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v07p2/persons#p_BJL1</source-url>
+        </remark>
+    </remarks>
+</person>

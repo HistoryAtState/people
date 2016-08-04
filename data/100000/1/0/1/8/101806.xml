@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>101806</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Brown, Gordon S.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="3">
+                <name>Brown, Gordon S.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v27/persons#p_BGS_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v36/persons#p_BGS1</source-url>
+                <source-url>https://history.state.gov/departmenthistory/people/brown-gordon-s</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1936</birth-year>
+    <death-year/>
+    <remarks variants="3">
+        <remark source-urls="1">
+            <p>Office of Fuels and Energy, Bureau of Economic and Business Affairs, Department of State</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v27/persons#p_BGS_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Office of Fuels and Energy, International Resources and Food Policy, Bureau of Economic and Business Affairs, Department of State from August 1969 until July 1973</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v36/persons#p_BGS1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Foreign Service Officer. Ambassador Extraordinary and Plenipotentiary (Mauritania).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/brown-gordon-s</source-url>
+        </remark>
+    </remarks>
+</person>

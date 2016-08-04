@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>107448</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Kriesberg, Martin</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="1">
+                <name>Kriesberg, Martin</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v02/persons#p_KM_3</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="1">
+        <remark source-urls="1">
+            <p>Coordinator, International Organization Affairs, Office of International Cooperation and Development, Department of Agriculture; member, U.S. Delegation to the 20th session of the Food and Agriculture Organization conference, 1980</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v02/persons#p_KM_3</source-url>
+        </remark>
+    </remarks>
+</person>

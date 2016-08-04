@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>107994</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Linehan, John Andrew, Jr.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="1">
+                <name>Linehan, John A., Jr.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v23/persons#p_LJA1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Linehan, John Andrew, Jr.</name>
+                <source-url>https://history.state.gov/departmenthistory/people/linehan-john-andrew</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1924</birth-year>
+    <death-year>2005</death-year>
+    <remarks variants="2">
+        <remark source-urls="1">
+            <p>Office of Southwest Pacific Affairs, Bureau of Far Eastern Affairs, Department of State, January 1961-February 1962</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v23/persons#p_LJA1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Foreign Service Officer. Ambassador Extraordinary and Plenipotentiary (Sierra Leone).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/linehan-john-andrew</source-url>
+        </remark>
+    </remarks>
+</person>

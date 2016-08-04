@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>103024</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Crowley, John Joseph, Jr.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="4">
+            <original source-urls="1">
+                <name>Crowley, John J.. Jr.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v31/persons#p_CJJ1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Crowley, John J.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v37/persons#p_CJJ_1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Crowley, John Joseph, Jr.</name>
+                <source-url>https://history.state.gov/departmenthistory/people/crowley-john-joseph-jr</source-url>
+            </original>
+            <original source-urls="1">
+                <name>John J. Crowley Jr.</name>
+                <source-url>https://history.state.gov/departmenthistory/people/crowley-john-joseph-jr</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1928</birth-year>
+    <death-year>1995</death-year>
+    <remarks variants="3">
+        <remark source-urls="1">
+            <p>Officer-in-Charge of Venezuelan Affairs, Office of Colombian-Venezuelan Affairs (after May 1966 Officer-in-Charge of Venezuelan Political Affairs, Office of North Coast Affairs), Bureau of Inter-American Affairs, Department of State, August 1964–August 1966; thereafter Deputy Chief of Mission, Embassy in Ecuador</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v31/persons#p_CJJ1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Chargé d’Affaires, U.S. Embassy, Caracas</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v37/persons#p_CJJ_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Foreign Service Officer. Ambassador Extraordinary and Plenipotentiary (Suriname).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/crowley-john-joseph-jr</source-url>
+        </remark>
+    </remarks>
+</person>

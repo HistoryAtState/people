@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>105243</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Grover, Orrin L.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="2">
+                <name>Grover, Brigadier General Orrin L.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v09p1/persons#p_GBG1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v09p2/persons#p_GBG1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="1">
+            <title source-urls="2">
+                <name>Brigadier General</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v09p1/persons#p_GBG1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v09p2/persons#p_GBG1</source-url>
+            </title>
+        </titles-from-name>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="1">
+        <remark source-urls="2">
+            <p>USAF, Commanding General, Military Air Transport Service, Dhahran Air Force Base, 1952–1953; Commander 1414th Air Base Group at Dhahran, 1953–1954; Commander, Second Air Division at Dhah–ran from late 1954.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v09p1/persons#p_GBG1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v09p2/persons#p_GBG1</source-url>
+        </remark>
+    </remarks>
+</person>

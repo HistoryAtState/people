@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>108157</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Lowrie, Arthur L.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="4">
+                <name>Lowrie, Arthur L.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v27/persons#p_LAL_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve04/persons#p_LAL1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve05p2/persons#p_LAL1</source-url>
+                <source-url>https://history.state.gov/departmenthistory/people/lowrie-arthur-l</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1930</birth-year>
+    <death-year/>
+    <remarks variants="4">
+        <remark source-urls="1">
+            <p>Principal Officer of the Interests Section in Baghdad until September 1975</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v27/persons#p_LAL_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Interests Section, Baghdad, Iraq, from October1972</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve04/persons#p_LAL1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Country Officer for Algeria, Department of State, until June 1972</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve05p2/persons#p_LAL1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Foreign Service Officer. Chargé d'Affaires ad interim (Iraq).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/lowrie-arthur-l</source-url>
+        </remark>
+    </remarks>
+</person>

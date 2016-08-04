@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>109701</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Nelson, Curtis A.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="1">
+                <name>Nelson, Commander Curtis A.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v20/persons#p_NCCA1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="1">
+            <title source-urls="1">
+                <name>Commander</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v20/persons#p_NCCA1</source-url>
+            </title>
+        </titles-from-name>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="1">
+        <remark source-urls="1">
+            <p>Division of Inspection, Atomic Energy Commission</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v20/persons#p_NCCA1</source-url>
+        </remark>
+    </remarks>
+</person>

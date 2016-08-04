@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>108573</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Martin, John Bartlow</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="3">
+                <name>Martin, John Bartlow</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v12/persons#p_MJB2</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v32/persons#p_MJB1</source-url>
+                <source-url>https://history.state.gov/departmenthistory/people/martin-john-bartlow</source-url>
+            </original>
+            <original source-urls="1">
+                <name>John Martin O’Keefe</name>
+                <source-url>https://history.state.gov/departmenthistory/people/martin-john-bartlow</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1915</birth-year>
+    <death-year>1987</death-year>
+    <remarks variants="3">
+        <remark source-urls="1">
+            <p>special envoy to the Dominican Republic, September 1961; Ambassador to the Dominican Republic, March 1962-September 1963</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v12/persons#p_MJB2</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>former Ambassador to the Dominican Republic, March 9, 1962–September 28, 1963</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v32/persons#p_MJB1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Non-career appointee. Ambassador Extraordinary and Plenipotentiary (Kyrgyzstan); Ambassador Extraordinary and Plenipotentiary (Dominican Republic).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/martin-john-bartlow</source-url>
+        </remark>
+    </remarks>
+</person>

@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>113207</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Sunay, Cevdet</name>
+        </preferred>
+        <alternates/>
+        <originals variants="5">
+            <original source-urls="1">
+                <name>Sunay, General Cedvet</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v16/persons#p_SGC1</source-url>
+            </original>
+            <original source-urls="2">
+                <name>Sunay, Cedvet</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v16/persons#p_SC1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v29/persons#p_SC1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Sunay, Cevdet</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v30/persons#p_SC10</source-url>
+            </original>
+            <original source-urls="1">
+                <name>President Cevdet Sunay</name>
+                <source-url>https://history.state.gov/departmenthistory/visits/turkey</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Sunay, Gen. Cevdet</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve01/persons#p_SC10</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="2">
+            <title source-urls="1">
+                <name>General</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v16/persons#p_SGC1</source-url>
+            </title>
+            <title source-urls="1">
+                <name>Gen.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve01/persons#p_SC10</source-url>
+            </title>
+        </titles-from-name>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="5">
+        <remark source-urls="1">
+            <p>Turkish Army Chief of Staff</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v16/persons#p_SGC1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>President of Turkey from March 1966</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v16/persons#p_SC1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>President of Turkey</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v29/persons#p_SC1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve01/persons#p_SC10</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Turkish President until 1973</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v30/persons#p_SC10</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>President, Turkey. Visited U.S. once, 1967</p>
+            <source-url>https://history.state.gov/departmenthistory/visits/turkey</source-url>
+        </remark>
+    </remarks>
+</person>

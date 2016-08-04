@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>103409</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>De Silva, Peer</name>
+        </preferred>
+        <alternates/>
+        <originals variants="4">
+            <original source-urls="1">
+                <name>DeSilva, Peer</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v22/persons#p_DSP2</source-url>
+            </original>
+            <original source-urls="1">
+                <name>De Silva, Peter</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v01/persons#p_DSP1</source-url>
+            </original>
+            <original source-urls="2">
+                <name>De Silva, Peer</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v02/persons#p_DSP1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v03/persons#p_DSP1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>deSilva, Peer</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v27/persons#p_DP1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="4">
+        <remark source-urls="1">
+            <p>Attache and Special Assistant to the Ambassador in Korea until July 1962</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v22/persons#p_DSP2</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Chief of Central Intelligence Agency Station in Saigon</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v01/persons#p_DSP1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Chief of the Central Intelligence Agency Station in Saigon; thereafter Special Assistant for Vietnamese Affairs, Central Intelligence Agency</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v02/persons#p_DSP1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v03/persons#p_DSP1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Special Assistant to the Ambassador for Counter Insurgency, Thailand, 1966–1968</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v27/persons#p_DP1</source-url>
+        </remark>
+    </remarks>
+</person>

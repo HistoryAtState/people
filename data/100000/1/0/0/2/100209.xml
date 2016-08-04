@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>100209</id>
+    <authorities>
+        <authority service="viaf">48722525</authority>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Albright, Edward</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="1">
+                <name>Albright, Edward</name>
+                <source-url>https://history.state.gov/departmenthistory/people/albright-edward</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1873</birth-year>
+    <death-year>1937</death-year>
+    <remarks variants="1">
+        <remark source-urls="1">
+            <p>Non-career appointee. Envoy Extraordinary and Minister Plenipotentiary (Finland); Envoy Extraordinary and Minister Plenipotentiary (Costa Rica).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/albright-edward</source-url>
+        </remark>
+    </remarks>
+</person>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>104310</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Fisher, William Dale</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="3">
+                <name>Fisher, William Dale</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v05p1/persons#p_FISHERWD1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v05p2/persons#p_FISHERWD1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v16/persons#p_FWD1</source-url>
+            </original>
+            <original source-urls="5">
+                <name>Fisher, William D.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v06p1/persons#p_FISHERWD1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v06p2/persons#p_FISHERWD1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v11p1/persons#p_FWD1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v11p2/persons#p_FWD1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v01/persons#p_FWD1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="5">
+        <remark source-urls="2">
+            <p>Counselor of the Embassy in France, February 21–December 21, 1952; thereafter Office of Western European Affairs, Department of State.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v05p1/persons#p_FISHERWD1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v05p2/persons#p_FISHERWD1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Counselor of Embassy in France, February 21–December 21, 1952; thereafter Office of Western European Affairs, Department of State.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v06p1/persons#p_FISHERWD1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v06p2/persons#p_FISHERWD1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Second Secretary and Vice Consul of the Embassy in France until February 21, 1952; Second Secretary and Consul, February 21–December 21, 1952; thereafter, Office of Western European Affairs, Bureau of European Affairs, Department of State.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v11p1/persons#p_FWD1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v11p2/persons#p_FWD1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Member of the Office of Western European Affairs, Department of State.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v16/persons#p_FWD1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>International Relations Officer in the Office of Western European Affairs, Department of State, to September 1956</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v01/persons#p_FWD1</source-url>
+        </remark>
+    </remarks>
+</person>

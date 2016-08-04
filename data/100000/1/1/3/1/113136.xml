@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>113136</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Stutesman, James Flynn</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="1">
+                <name>Stutesman, James Flynn</name>
+                <source-url>https://history.state.gov/departmenthistory/people/stutesman-james-flynn</source-url>
+            </original>
+            <original source-urls="1">
+                <name>James F. Stutesman</name>
+                <source-url>https://history.state.gov/departmenthistory/people/stutesman-james-flynn</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1860</birth-year>
+    <death-year>1917</death-year>
+    <remarks variants="1">
+        <remark source-urls="1">
+            <p>Non-career appointee. Envoy Extraordinary and Minister Plenipotentiary (Bolivia).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/stutesman-james-flynn</source-url>
+        </remark>
+    </remarks>
+</person>

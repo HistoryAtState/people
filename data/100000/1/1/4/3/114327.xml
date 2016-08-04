@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>114327</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Watson, Arthur Kittredge</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="5">
+                <name>Watson, Arthur K.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v05/persons#p_WAK1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v07/persons#p_WAK1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v17/persons#p_WAK1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v41/persons#p_WAK_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve13/persons#p_WAK1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Watson, Arthur Kittredge</name>
+                <source-url>https://history.state.gov/departmenthistory/people/watson-arthur-kittredge</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Arthur K. Watson</name>
+                <source-url>https://history.state.gov/departmenthistory/people/watson-arthur-kittredge</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1919</birth-year>
+    <death-year>1974</death-year>
+    <remarks variants="5">
+        <remark source-urls="1">
+            <p>Ambassador to France April 8, 1970–October 30, 1972</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v05/persons#p_WAK1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Ambassador to France from May 6, 1970</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v07/persons#p_WAK1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Ambassador to France, April 8, 1970–October 30, 1972</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v17/persons#p_WAK1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve13/persons#p_WAK1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>U.S. Ambassador to France from April 1970 until October 1972</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v41/persons#p_WAK_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Non-career appointee. Ambassador Extraordinary and Plenipotentiary (France).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/watson-arthur-kittredge</source-url>
+        </remark>
+    </remarks>
+</person>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>113998</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Van Tuyl Van Serooskerken, Samuel John</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="1">
+                <name>Tuyl van Serooskerken, Baron van (Samuel John van Tuyl van Serooskerken)</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v03/persons#p_TUYLVANSBvSJvTvS1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Van Tuyl van Serooskerken.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v03/persons#p_VANTUYLVANSEROOSKERKEN1</source-url>
+            </original>
+            <original source-urls="2">
+                <name>Van Tuyl Van Serooskerken, Baron Samuel John</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v05p1/persons#p_VANTVSBSJ1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v05p2/persons#p_VANTVSBSJ1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="1">
+            <title source-urls="3">
+                <name>Baron</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v03/persons#p_TUYLVANSBvSJvTvS1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v05p1/persons#p_VANTVSBSJ1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v05p2/persons#p_VANTVSBSJ1</source-url>
+            </title>
+        </titles-from-name>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="3">
+        <remark source-urls="1">
+            <p>Secretary General, Netherlands Ministry of Foreign Affairs, from November 1, 1952.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v03/persons#p_TUYLVANSBvSJvTvS1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>See Tuyl van Serooskerken.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v03/persons#p_VANTUYLVANSEROOSKERKEN1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Secretary-General of the Netherlands Ministry of Foreign Affairs after November 1952.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v05p1/persons#p_VANTVSBSJ1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v05p2/persons#p_VANTVSBSJ1</source-url>
+        </remark>
+    </remarks>
+</person>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>107690</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Latimer, Thomas K.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="2">
+                <name>Latimer, Thomas K.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v02/persons#p_LTK1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve16/persons#p_LT_1</source-url>
+            </original>
+            <original source-urls="3">
+                <name>Latimer, Thomas</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v08/persons#p_LT1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v12/persons#p_LTK1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v21/persons#p_LT_1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Latimer, Tom</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve05p2/persons#p_LT1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="6">
+        <remark source-urls="1">
+            <p>Member of the National Security Council Staff from 1970 until 1972</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v02/persons#p_LTK1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>member, National Security Council staff</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v08/persons#p_LT1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Member of the National Security Council Staff, Office of the Assistant to the President</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v12/persons#p_LTK1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Office of the Assistant to the President, National Security Council Staff, from 1971 until 1972</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v21/persons#p_LT_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Member of the White House staff, 1971</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve05p2/persons#p_LT1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Office of the Assistant to the President, National Security Council Staff from 1971 until 1972</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve16/persons#p_LT_1</source-url>
+        </remark>
+    </remarks>
+</person>

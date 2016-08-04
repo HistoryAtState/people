@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>101863</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Bryan, William Jennings</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="3">
+                <name>Bryan, William Jennings</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1914Supp/persons#p_BWJ1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1915Supp/persons#p_BWJ1</source-url>
+                <source-url>https://history.state.gov/departmenthistory/people/bryan-william-jennings</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1860</birth-year>
+    <death-year>1925</death-year>
+    <remarks variants="3">
+        <remark source-urls="1">
+            <p>Secretary of State of the United States.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1914Supp/persons#p_BWJ1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Secretary of State of the United States until June 9, 1915.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1915Supp/persons#p_BWJ1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Non-career appointee. Secretary of State.</p>
+            <source-url>https://history.state.gov/departmenthistory/people/bryan-william-jennings</source-url>
+        </remark>
+    </remarks>
+</person>

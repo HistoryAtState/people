@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>100759</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Baibakov, Nikolai K.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="1">
+                <name>Baibakov, Nikolai K.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v14/persons#p_BNK1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="1">
+        <remark source-urls="1">
+            <p>Deputy Chairman of the Soviet Council of Ministers and Chairman of the State Planning Commission; also Full Member of the Central Committee of the Communist Party of the Soviet Union</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v14/persons#p_BNK1</source-url>
+        </remark>
+    </remarks>
+</person>

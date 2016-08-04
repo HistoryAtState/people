@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>100017</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Abd al-Baqi, Murthatha Said</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="1">
+                <name>Abd al-Baqi, Murthatha Said</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v27/persons#p_ABMS_1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="1">
+        <remark source-urls="1">
+            <p>Iraqi Foreign Minister until June 23, 1974</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v27/persons#p_ABMS_1</source-url>
+        </remark>
+    </remarks>
+</person>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>104735</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Garrett, John Work</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="2">
+                <name>Garrett, John Work</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1914Supp/persons#p_GJW1</source-url>
+                <source-url>https://history.state.gov/departmenthistory/people/garrett-john-work</source-url>
+            </original>
+            <original source-urls="1">
+                <name>John W. Garrett</name>
+                <source-url>https://history.state.gov/departmenthistory/people/garrett-john-work</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1872</birth-year>
+    <death-year>1942</death-year>
+    <remarks variants="2">
+        <remark source-urls="1">
+            <p>United States Special Agent in Europe.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1914Supp/persons#p_GJW1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Foreign Service Officer. Envoy Extraordinary and Minister Plenipotentiary (Venezuela); Envoy Extraordinary and Minister Plenipotentiary (Netherlands); Envoy Extraordinary and Minister Plenipotentiary (Luxembourg); Ambassador Extraordinary and Plenipotentiary (Italy); Envoy Extraordinary and Minister Plenipotentiary (Argentina).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/garrett-john-work</source-url>
+        </remark>
+    </remarks>
+</person>

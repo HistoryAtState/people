@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>114017</id>
+    <authorities>
+        <authority service="viaf">79062885</authority>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Vassiliou, George</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="1">
+                <name>President George Vassiliou</name>
+                <source-url>https://history.state.gov/departmenthistory/visits/cyprus</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="1">
+        <remark source-urls="1">
+            <p>President, Cyprus. Visited U.S. 3 times, 1989–1992</p>
+            <source-url>https://history.state.gov/departmenthistory/visits/cyprus</source-url>
+        </remark>
+    </remarks>
+</person>

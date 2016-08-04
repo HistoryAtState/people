@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>112307</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Sharp, Dudley C</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="1">
+                <name>Sharp, Dudley C</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v03/persons#p_SDC2</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="1">
+        <remark source-urls="1">
+            <p>Assistant Secretary of the Air Force until January 31, 1959; Under Secretary of the Air Force, August 3–December 11, 1959; thereafter Secretary of the Air Force</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v03/persons#p_SDC2</source-url>
+        </remark>
+    </remarks>
+</person>

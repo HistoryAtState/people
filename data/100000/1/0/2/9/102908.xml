@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>102908</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Coughran, Thomas B.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="1">
+                <name>Coughran, Tom B.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v04/persons#p_CTB1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Coughran, Thomas B.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v05/persons#p_CTB1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="2">
+        <remark source-urls="1">
+            <p>Assistant Secretary of the Treasury, 1958</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v04/persons#p_CTB1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Assistant Secretary of the Treasury for International Affairs until 1958; thereafter Assistant Secretary of the Treasury</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v05/persons#p_CTB1</source-url>
+        </remark>
+    </remarks>
+</person>

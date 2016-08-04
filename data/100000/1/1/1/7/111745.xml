@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>111745</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Russell, Charles Edward</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="1">
+                <name>Russell, Charles Edward</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1917-72PubDip/persons#p_RCE_1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="1">
+        <remark source-urls="1">
+            <p>delegate on the Special Mission to Russia from June 1917 until July 1917; speaker for the Committee on Public Information from October 1917 until February 1918; Committee on Public Information Commissioner in the United Kingdom from May 1918 until July 1918</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1917-72PubDip/persons#p_RCE_1</source-url>
+        </remark>
+    </remarks>
+</person>

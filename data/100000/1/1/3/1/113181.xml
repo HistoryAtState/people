@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>113181</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Sullivan, William C.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="1">
+                <name>Sullivan, William C.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v02/persons#p_SWC1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Sullivan, William</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve01/persons#p_SWC1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="2">
+        <remark source-urls="1">
+            <p>Assistant Director (Domestic Intelligence), Federal Bureau of Investigation until July 1970; Assistant to the Director, Federal Bureau of Investigation, from July 1970 until 1971</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v02/persons#p_SWC1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Director, Office of National Narcotics Intelligence</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve01/persons#p_SWC1</source-url>
+        </remark>
+    </remarks>
+</person>

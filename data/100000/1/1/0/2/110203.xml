@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>110203</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Owsley, Charles H.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="1">
+                <name>Owsley, Charles H.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v11/persons#p_OCH1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="1">
+        <remark source-urls="1">
+            <p>Officer in Charge of International Security Affairs in the Office of United Nations Political and Security Affairs, Bureau of International Oraganization Affairs, Department of State, from September 9, 1956</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v11/persons#p_OCH1</source-url>
+        </remark>
+    </remarks>
+</person>

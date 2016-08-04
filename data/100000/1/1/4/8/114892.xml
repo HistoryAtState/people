@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>114892</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Y Bham Enuol</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="1">
+                <name>Y Bham Enuol</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v05/persons#p_YBE1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="1">
+        <remark source-urls="1">
+            <p>Chairman, United Front for the Struggle of the Oppressed Race (FULRO)</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v05/persons#p_YBE1</source-url>
+        </remark>
+    </remarks>
+</person>

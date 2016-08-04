@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>110910</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Powell, William Frank</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="1">
+                <name>Powell, William Frank</name>
+                <source-url>https://history.state.gov/departmenthistory/people/powell-william-frank</source-url>
+            </original>
+            <original source-urls="1">
+                <name>William F. Powell</name>
+                <source-url>https://history.state.gov/departmenthistory/people/powell-william-frank</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1848</birth-year>
+    <death-year>1920</death-year>
+    <remarks variants="1">
+        <remark source-urls="1">
+            <p>Non-career appointee. Envoy Extraordinary and Minister Plenipotentiary (Haiti); Chargé d'Affaires (Dominican Republic).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/powell-william-frank</source-url>
+        </remark>
+    </remarks>
+</person>

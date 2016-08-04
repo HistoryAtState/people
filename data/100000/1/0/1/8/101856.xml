@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>101856</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Brunthaver, Carroll G.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="3">
+                <name>Brunthaver, Carroll G.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v03/persons#p_BCG1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v04/persons#p_BCG1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve14p1/persons#p_BCG1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="2">
+        <remark source-urls="2">
+            <p>Assistant Secretary of Agriculture for International Affairs and Commodity Programs, 1969-1973; thereafter President, Commodity Credit Corporation</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v03/persons#p_BCG1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v04/persons#p_BCG1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Assistant Secretary of Agriculture for International Affairs and Commodity Programs until January 31, 1974</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve14p1/persons#p_BCG1</source-url>
+        </remark>
+    </remarks>
+</person>

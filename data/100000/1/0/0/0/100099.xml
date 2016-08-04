@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>100099</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Adams, Paul D.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="1">
+                <name>Adams, Major General Paul D.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v11/persons#p_AGPD1</source-url>
+            </original>
+            <original source-urls="4">
+                <name>Adams, General Paul D.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v21/persons#p_AGPD1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v22/persons#p_AGPD1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v24/persons#p_AGPD1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v25/persons#p_AGPD1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Adams, Paul D.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v23/persons#p_APD_1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="2">
+            <title source-urls="1">
+                <name>Major General</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v11/persons#p_AGPD1</source-url>
+            </title>
+            <title source-urls="4">
+                <name>General</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v21/persons#p_AGPD1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v22/persons#p_AGPD1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v24/persons#p_AGPD1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v25/persons#p_AGPD1</source-url>
+            </title>
+        </titles-from-name>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="6">
+        <remark source-urls="1">
+            <p>USA, appointed Commander in Chief, American Land Forces, Lebanon, on July 23, 1958; assumed command on July 26</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v11/persons#p_AGPD1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>USA, Commander in Chief, Strike Command (CINCSTRIKE) until November 1966; concurrently Commander in Chief, Middle East/South Asia and Africa South of the Sahara (CINCMEAFSA)</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v21/persons#p_AGPD1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>USA, Commander in Chief, Strike Command (CINCSTRIKE), until November 1966; also Commander in Chief, Middle East/South Asia and Africa South of the Sahara (CINCMEAFSA), until November 1966</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v22/persons#p_AGPD1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>General, USA; Commander in Chief, Strike Command, until November 1966; concurrently Commander in Chief, Middle East/South Asia and Africa South of the Sahara, November 1963 until November 1966</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v23/persons#p_APD_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Commander in Chief, Strike Command, until November 1966; concurrently Commander in Chief, Middle East/South Asia and Africa South of the Sahara, November 1963–November 1966</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v24/persons#p_AGPD1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Commander in Chief, Strike Command (CINCSTRIKE), until November 1966; also Commander in Chief, Middle East/South Asia and Africa South of the Sahara (CINCMEAFSA), until November 1966</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v25/persons#p_AGPD1</source-url>
+        </remark>
+    </remarks>
+</person>

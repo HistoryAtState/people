@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>108661</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Matsuura, Koichiro</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="1">
+                <name>Matsuura, Koichiro</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v37/persons#p_MK_1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="1">
+        <remark source-urls="1">
+            <p>Counselor, Japanese Embassy in Washington</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v37/persons#p_MK_1</source-url>
+        </remark>
+    </remarks>
+</person>

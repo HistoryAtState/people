@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>104000</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Enthoven, Alain C.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="1">
+                <name>Enthoven, Alain C.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v08/persons#p_EAC1</source-url>
+            </original>
+            <original source-urls="6">
+                <name>Enthoven, Alain</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v06/persons#p_EA1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v07/persons#p_EA1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v10/persons#p_EAC1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v27/persons#p_EA1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v29p1/persons#p_EA1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v29p2/persons#p_EAC1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="4">
+        <remark source-urls="1">
+            <p>Deputy Comptroller of the Department of Defense</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v08/persons#p_EAC1</source-url>
+        </remark>
+        <remark source-urls="3">
+            <p>Assistant Secretary of Defense for Systems Analysis</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v06/persons#p_EA1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v07/persons#p_EA1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v27/persons#p_EA1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Assistant Secretary of Defense for Systems Analysis from September 10, 1965</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v10/persons#p_EAC1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v29p2/persons#p_EAC1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Assistant Secretary of Defense for Systems Analysis, after September 10, 1965</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v29p1/persons#p_EA1</source-url>
+        </remark>
+    </remarks>
+</person>

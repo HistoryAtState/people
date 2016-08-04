@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>105179</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Gregory, Clark S.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="1">
+                <name>Gregory, Clark S.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v12/persons#p_GCS1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="1">
+        <remark source-urls="1">
+            <p>Director, Foreign Operations Administration Mission in Jordan until March 27, 1955; thereafter Director, United States Operations Mission in Iran</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v12/persons#p_GCS1</source-url>
+        </remark>
+    </remarks>
+</person>

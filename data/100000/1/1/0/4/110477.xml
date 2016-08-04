@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>110477</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Peake, Charles Brinsley Pemberton</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="2">
+                <name>Peake, Charles</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1943CairoTehran/persons#p_PC1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv01/persons#p_PC1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Peake, Charles Brinsley Pemberton</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v24/persons#p_PCBP1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="3">
+        <remark source-urls="1">
+            <p>British Representative to the French National Committee, from February 9, 1942; British Political Liaison Officer with the Supreme Allied Commander, with the personal rank of Minister, from October 1, 1943.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1943CairoTehran/persons#p_PC1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>British Consul General, Tangier; British Representative, Paris Conversations Concerning Tangier.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv01/persons#p_PC1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>British Ambassador to Greece</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v24/persons#p_PCBP1</source-url>
+        </remark>
+    </remarks>
+</person>

@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>101201</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Bérard, Armand</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="10">
+                <name>Bérard, Armand</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1947v02/persons#p_BA1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1948v02/persons#p_BA1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1949v03/persons#p_BA2</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v03p1/persons#p_BA1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v03p2/persons#p_BA1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v07p1/persons#p_BA1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v07p2/persons#p_BA1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v26/persons#p_BA1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v13/persons#p_BA2</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v23/persons#p_BA_1</source-url>
+            </original>
+            <original source-urls="7">
+                <name>Berard, Armand</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v05p1/persons#p_BERARDA1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v05p2/persons#p_BERARDA1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v05/persons#p_BA1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v25/persons#p_BA10</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v11/persons#p_BA10</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve05p1/persons#p_BA10</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve05p2/persons#p_BA2</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="11">
+        <remark source-urls="1">
+            <p>Minister Counselor, French Embassy in Washington</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1947v02/persons#p_BA1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Minister Counselor, French Embassy in the United States</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1948v02/persons#p_BA1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Minister Counselor, French Embassy in the United States, until July; French Deputy High Commissioner for Germany, from August 1.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1949v03/persons#p_BA2</source-url>
+        </remark>
+        <remark source-urls="4">
+            <p>French Deputy High Commissioner for Germany.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1951v03p1/persons#p_BA1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1951v03p2/persons#p_BA1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v07p1/persons#p_BA1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v07p2/persons#p_BA1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>French Assistant High Commissioner for Germany.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v05p1/persons#p_BERARDA1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v05p2/persons#p_BERARDA1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Diplomatic Counselor to the President of the French Council from March 1955</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v05/persons#p_BA1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v26/persons#p_BA1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>French Representative at the United Nations from June 1959</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v13/persons#p_BA2</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Permanent Representative of France at the United Nations, 1961</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v25/persons#p_BA10</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>French Permanent Representative to the United Nations after 1967</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v11/persons#p_BA10</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>French Permanent Representative to the United Nations until February 1970</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v23/persons#p_BA_1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>French Representative to the United Nations until February 1970</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve05p1/persons#p_BA10</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve05p2/persons#p_BA2</source-url>
+        </remark>
+    </remarks>
+</person>

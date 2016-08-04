@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>112263</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Seydoux, Roger</name>
+        </preferred>
+        <alternates/>
+        <originals variants="4">
+            <original source-urls="3">
+                <name>Seydoux de Clausonne, Roger</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v05p1/persons#p_SEYDOUXDECLAUSONNER1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v18/persons#p_SCR1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v40/persons#p_SCR1</source-url>
+            </original>
+            <original source-urls="3">
+                <name>Seydoux De Clausonne, Roger</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v05p2/persons#p_SEYDOUXDECLAUSONNER1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v11p1/persons#p_SDCR1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v11p2/persons#p_SDCR1</source-url>
+            </original>
+            <original source-urls="2">
+                <name>Seydoux de Claussonne, Roger</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v06p1/persons#p_SEYDOUXDECLAUSSONNER1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v06p2/persons#p_SEYDOUXDECLAUSSONNER1</source-url>
+            </original>
+            <original source-urls="3">
+                <name>Seydoux, Roger</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v25/persons#p_SR6</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v19/persons#p_SR1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v33/persons#p_SR6</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="8">
+        <remark source-urls="2">
+            <p>Counselor of the French Embassy in the United States until February 1952; Minister of the French Embassy in the United States, December 1952–September 1954.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v05p1/persons#p_SEYDOUXDECLAUSONNER1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v05p2/persons#p_SEYDOUXDECLAUSONNER1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Counselor of the French Embassy in the United States after February 1952; Minister of the French Embassy in the United States, December 1952–September 1954.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v06p1/persons#p_SEYDOUXDECLAUSSONNER1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v06p2/persons#p_SEYDOUXDECLAUSSONNER1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>French Consul General at New York until February 28, 1952; Counselor of the French Embassy in the United States, February 28–December 24, 1952; Minister, December 24, 1952–September 1954; thereafter, Deputy Minister of the Residence General in Tunisia.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v11p1/persons#p_SDCR1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v11p2/persons#p_SDCR1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>French Deputy Minister of the Residence General in Tunisia to September 1955; High Commissioner in Tunisia, September 1955–June 1956; French Ambassador to Tunisia, June–August 1956</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v18/persons#p_SCR1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Permanent Representative of France at the United Nations, 1962–1963</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v25/persons#p_SR6</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>French Permanent Representative to the United Nations</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v19/persons#p_SR1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>French Permanent Representative to the United Nations until July 1967</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v33/persons#p_SR6</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>French Ambassador to the Soviet Union</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v40/persons#p_SCR1</source-url>
+        </remark>
+    </remarks>
+</person>

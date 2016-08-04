@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>110754</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Pinckney, Charles</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="1">
+                <name>Pinckney, Charles</name>
+                <source-url>https://history.state.gov/departmenthistory/people/pinckney-charles</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Charles Pinckney</name>
+                <source-url>https://history.state.gov/departmenthistory/people/pinckney-charles</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1757</birth-year>
+    <death-year>1824</death-year>
+    <remarks variants="1">
+        <remark source-urls="1">
+            <p>Non-career appointee. Minister Plenipotentiary (Spain).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/pinckney-charles</source-url>
+        </remark>
+    </remarks>
+</person>

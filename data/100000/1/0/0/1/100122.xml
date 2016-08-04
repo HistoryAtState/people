@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>100122</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Adoula, Cyrille</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="6">
+                <name>Adoula, Cyrille</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v20/persons#p_CA1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v21/persons#p_AC7</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v23/persons#p_ACY_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v24/persons#p_AC7</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve05p1/persons#p_AC7</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve05p2/persons#p_AC2</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Prime Minister Adoula</name>
+                <source-url>https://history.state.gov/departmenthistory/visits/congo-democratic-republic</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="7">
+        <remark source-urls="1">
+            <p>Congolese Minister of the Interior until July 1961; Prime Minister from August 1961</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v20/persons#p_CA1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Congolese Minister of the Interior until July 1961; Prime Minister of the Congo from August 1961</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v21/persons#p_AC7</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Prime Minister of the Congo from August 2, 1961 until June 30, 1964; Congolese Ambassador to the United States from January 1967</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v23/persons#p_ACY_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Prime Minister of the Congo until July 1964; Ambassador to the United States from January 1967</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v24/persons#p_AC7</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>formerPrime Minister of the Congo until July 1964; Ambassador to the United States from January 1967</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve05p1/persons#p_AC7</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>former Prime Minister of the Congo; Ambassador to the United States from January 1967</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve05p2/persons#p_AC2</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Prime Minister, Democratic Republic of the Congo (Zaire). Visited U.S. once, 1962</p>
+            <source-url>https://history.state.gov/departmenthistory/visits/congo-democratic-republic</source-url>
+        </remark>
+    </remarks>
+</person>

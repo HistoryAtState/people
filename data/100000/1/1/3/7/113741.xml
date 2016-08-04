@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>113741</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Trist, Nicholas Philip</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="1">
+                <name>Trist, Nicholas Philip</name>
+                <source-url>https://history.state.gov/departmenthistory/people/trist-nicholas-philip</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Nicholas P. Trist</name>
+                <source-url>https://history.state.gov/departmenthistory/people/trist-nicholas-philip</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1800</birth-year>
+    <death-year>1874</death-year>
+    <remarks variants="1">
+        <remark source-urls="1">
+            <p>Non-career appointee. Chief Clerk.</p>
+            <source-url>https://history.state.gov/departmenthistory/people/trist-nicholas-philip</source-url>
+        </remark>
+    </remarks>
+</person>

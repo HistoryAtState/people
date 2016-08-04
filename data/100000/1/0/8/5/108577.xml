@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>108577</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Martin, Joseph W., Jr.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="2">
+                <name>Martin, Representative Joseph M., Jr.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v02p1/persons#p_MARTINRJMJ1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v02p2/persons#p_MARTINRJMJ1</source-url>
+            </original>
+            <original source-urls="5">
+                <name>Martin, Joseph W., Jr.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v11/persons#p_MJWJ1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v12/persons#p_MJWJ1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v15/persons#p_MJWJ1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v19/persons#p_MJWJ1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v20/persons#p_MJWJ1</source-url>
+            </original>
+            <original source-urls="2">
+                <name>Martin, Joseph W.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v09/persons#p_MJW1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v04/persons#p_MJW1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="1">
+            <title source-urls="2">
+                <name>Representative</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v02p1/persons#p_MARTINRJMJ1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v02p2/persons#p_MARTINRJMJ1</source-url>
+            </title>
+        </titles-from-name>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="6">
+        <remark source-urls="2">
+            <p>(R–Massachusetts), Minority Leader of the House, 1952; Speaker of the House, 1953–1954.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v02p1/persons#p_MARTINRJMJ1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v02p2/persons#p_MARTINRJMJ1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Republican Representative from Massachusetts</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v11/persons#p_MJWJ1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Republican Representative from Massachusetts; House Minority Leader</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v12/persons#p_MJWJ1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Republican Congressman from Massachusetts; House Minority Leader</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v15/persons#p_MJWJ1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v09/persons#p_MJW1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Republican Representative from Massachusetts; Speaker of the House of Representatives until January 1955; thereafter Minority Leader of the House of Representatives</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v19/persons#p_MJWJ1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v20/persons#p_MJWJ1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Republican Congressman from Massachusetts</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v04/persons#p_MJW1</source-url>
+        </remark>
+    </remarks>
+</person>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>109570</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Murray, Robert J.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="2">
+                <name>Murray, Robert J.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v20/persons#p_MRJ1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v18/persons#p_MRJ_1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Murray, Robert</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve15p2/persons#p_MR_3</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="3">
+        <remark source-urls="1">
+            <p>Deputy Director, Near East and South Asian Affairs, Office of the Assistant Secretary of Defense for International Security Affairs</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v20/persons#p_MRJ1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Staff member, Office of the Secretary of Defense</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve15p2/persons#p_MR_3</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Deputy Assistant Secretary of Defense for Near Eastern, African, and South Asian Affairs</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v18/persons#p_MRJ_1</source-url>
+        </remark>
+    </remarks>
+</person>

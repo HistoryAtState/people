@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>107292</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Knapp, Joseph Burke</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="2">
+                <name>Knapp, Joseph B.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1948v02/persons#p_KJB1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1949v03/persons#p_KJB1</source-url>
+            </original>
+            <original source-urls="3">
+                <name>Knapp, J. Burke</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v03p1/persons#p_KJB1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v03p2/persons#p_KJB1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve10/persons#p_KJB1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Knapp, Burke</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v09/persons#p_KB2</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="5">
+        <remark source-urls="1">
+            <p>Director, Office of Financial and Development Policy, Department of State</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1948v02/persons#p_KJB1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>United States Expert at the Technical Committee on Berlin Currency and Trade.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1949v03/persons#p_KJB1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Attaché in the United Kingdom; assigned to NATO affairs after January 8, 1951.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1951v03p1/persons#p_KJB1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1951v03p2/persons#p_KJB1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Vice President of the International Bank for Reconstruction and Development</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v09/persons#p_KB2</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Vice President of the International Bank for Reconstruction and Development from January 1969 until September 1972; Senior Vice President from October 1972</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve10/persons#p_KJB1</source-url>
+        </remark>
+    </remarks>
+</person>

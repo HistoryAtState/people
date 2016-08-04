@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>101060</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Beaumarchais, Jacques de</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="2">
+                <name>Beaumarchais, Jacques de</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v09/persons#p_BJ1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v15/persons#p_BJ8</source-url>
+            </original>
+            <original source-urls="1">
+                <name>De Beaumarchais, Jacques</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v41/persons#p_DBJ_1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="3">
+        <remark source-urls="1">
+            <p>Chief of Cabinet to the French Foreign Minister</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v09/persons#p_BJ1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Director for the Cabinet of French Foreign Minister Couve de Murville to 1964; Director of Political Affairs in the French central administration from 1965</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v15/persons#p_BJ8</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Political Director, French Foreign Ministry</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v41/persons#p_DBJ_1</source-url>
+        </remark>
+    </remarks>
+</person>

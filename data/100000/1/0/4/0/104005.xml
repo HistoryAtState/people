@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>104005</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Eqbal, Manuchehr</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="1">
+                <name>Eqbal, Dr. Manoutchehr</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v12/persons#p_EDM1</source-url>
+            </original>
+            <original source-urls="2">
+                <name>Eqbal, Manuchehr</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v12/persons#p_EM3</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve04/persons#p_EM3</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="1">
+            <title source-urls="1">
+                <name>Dr.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v12/persons#p_EDM1</source-url>
+            </title>
+        </titles-from-name>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="3">
+        <remark source-urls="1">
+            <p>Iranian Minister of Court, April 8, 1955–April 4, 1957; thereafter Prime Minister and Minister of the Interior</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v12/persons#p_EDM1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Prime Minister of Iran until August 29, 1960</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v12/persons#p_EM3</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Chairman of the Board of Directors and Managing Director, National Iranian Oil Company</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve04/persons#p_EM3</source-url>
+        </remark>
+    </remarks>
+</person>

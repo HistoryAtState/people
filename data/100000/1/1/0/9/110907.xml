@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>110907</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Powell, Joseph L. (“Jody”), Jr.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="7">
+            <original source-urls="1">
+                <name>Powell, Joseph L. (Jody)</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v33/persons#p_PJL_1</source-url>
+            </original>
+            <original source-urls="2">
+                <name>Powell, Jody</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v37/persons#p_PJ_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v08/persons#p_PJ_1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Powell, Joseph L., Jr. “Jody”</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v01/persons#p_PJL_1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Powell, Joseph (Jody)</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v03/persons#p_PJ_1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Powell, Joseph L. (Jody), Jr.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v06/persons#p_PJL_1</source-url>
+            </original>
+            <original source-urls="4">
+                <name>Powell, Joseph L. (“Jody”), Jr.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v18/persons#p_PJ_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v20/persons#p_PJL_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v26/persons#p_PJL_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v30/persons#p_PJLJ_1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Powell, Joseph L., Jr., “Jody,”</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v21/persons#p_PJL_1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="6">
+        <remark source-urls="2">
+            <p>White House Press Secretary from January 1977 until January 1981</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v33/persons#p_PJL_1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v26/persons#p_PJL_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>White House Press Secretary, from January 1977 until January 1981</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v37/persons#p_PJ_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>White House Press Secretary from January 20, 1977, until January 20, 1981</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v01/persons#p_PJL_1</source-url>
+        </remark>
+        <remark source-urls="5">
+            <p>White House Press Secretary</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v03/persons#p_PJ_1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v08/persons#p_PJ_1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v18/persons#p_PJ_1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v20/persons#p_PJL_1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v30/persons#p_PJLJ_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Press Secretary</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v06/persons#p_PJL_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>White House Press Secretary from 1977 until January 1981</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v21/persons#p_PJL_1</source-url>
+        </remark>
+    </remarks>
+</person>

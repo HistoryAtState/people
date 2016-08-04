@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>106525</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>James, Alan G.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="1">
+                <name>James, A.G.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v05/persons#p_JAG1</source-url>
+            </original>
+            <original source-urls="5">
+                <name>James, Alan G.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v07p1/persons#p_JAG1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v07p2/persons#p_JAG1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v08/persons#p_JAG1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v09/persons#p_JAG1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v16/persons#p_JAG1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="4">
+        <remark source-urls="1">
+            <p>Reports and Operations Staff of the Executive Secretariat, Department of State, until November 1959; Technical Staff Officer, Delegation at the Fifth Meeting of Consultation of Minister of Foreign Affairs at Santiago, August 12–18, 1959</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v05/persons#p_JAG1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Reports-Operations Staff, Executive Secretariat, Department of State, until November 1959; thereafter Office of European Regional Affairs, Bureau of European Affairs, Department of State</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v07p1/persons#p_JAG1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v07p2/persons#p_JAG1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Assistant Chief, Report and Operations Staff, Executive Secretariat, Department of State, until November 1959</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v08/persons#p_JAG1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v09/persons#p_JAG1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Political Section, Mission to the North Atlantic Treaty Organization and European Regional Organizations</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v16/persons#p_JAG1</source-url>
+        </remark>
+    </remarks>
+</person>

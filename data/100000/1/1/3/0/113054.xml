@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>113054</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Stokes, Richard R.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="1">
+                <name>Stokes, Richard R.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v10/persons#p_SRR1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="1">
+        <remark source-urls="1">
+            <p>Lord Privy Seal with the British Labour Government until April 1951; British Minister of Materials, July–October 1951.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v10/persons#p_SRR1</source-url>
+        </remark>
+    </remarks>
+</person>

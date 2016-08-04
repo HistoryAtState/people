@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>113664</id>
+    <authorities>
+        <authority service="viaf">39389518</authority>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Touré, Ahmed Sékou</name>
+        </preferred>
+        <alternates/>
+        <originals variants="6">
+            <original source-urls="1">
+                <name>Touré, Sekou</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v13/persons#p_TS1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Touré, Sékou</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v14/persons#p_TAS1</source-url>
+            </original>
+            <original source-urls="3">
+                <name>Toure, Sekou</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v21/persons#p_TAS1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v23/persons#p_TSE_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v24/persons#p_TAS1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Touré, Ahmed Sékou</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve06/persons#p_TAS1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>President Sekou Toure</name>
+                <source-url>https://history.state.gov/departmenthistory/visits/guinea</source-url>
+            </original>
+            <original source-urls="1">
+                <name>President Toure</name>
+                <source-url>https://history.state.gov/departmenthistory/visits/guinea</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="6">
+        <remark source-urls="1">
+            <p>Guinean Prime Minister</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v13/persons#p_TS1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>President of the Republic of Guinea from October 1958</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v14/persons#p_TAS1</source-url>
+        </remark>
+        <remark source-urls="3">
+            <p>President of Guinea</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v21/persons#p_TAS1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v23/persons#p_TSE_1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v24/persons#p_TAS1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>President of Guinea from 1958 to 1984</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve06/persons#p_TAS1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>President, Guinea. Visited U.S. 2 times, 1979–1982</p>
+            <source-url>https://history.state.gov/departmenthistory/visits/guinea</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>President, Guinea. Visited U.S. 2 times, 1959–1962</p>
+            <source-url>https://history.state.gov/departmenthistory/visits/guinea</source-url>
+        </remark>
+    </remarks>
+</person>

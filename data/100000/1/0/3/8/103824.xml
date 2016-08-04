@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>103824</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Eddy, William Alfred</name>
+        </preferred>
+        <alternates/>
+        <originals variants="4">
+            <original source-urls="2">
+                <name>Eddy, William Alfred</name>
+                <source-url>https://history.state.gov/departmenthistory/people/eddy-william-alfred</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v05/persons#p_DWA1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>William A. Eddy</name>
+                <source-url>https://history.state.gov/departmenthistory/people/eddy-william-alfred</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Eddy, William A.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945-50Intel/persons#p_EWA1</source-url>
+            </original>
+            <original source-urls="3">
+                <name>Eddy, Colonel William A.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945Malta/persons#p_ECWA1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v09p1/persons#p_ECWA1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v09p2/persons#p_ECWA1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="1">
+            <title source-urls="3">
+                <name>Colonel</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945Malta/persons#p_ECWA1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v09p1/persons#p_ECWA1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v09p2/persons#p_ECWA1</source-url>
+            </title>
+        </titles-from-name>
+    </names>
+    <birth-year>1896</birth-year>
+    <death-year>1962</death-year>
+    <remarks variants="5">
+        <remark source-urls="1">
+            <p>Non-career appointee. Envoy Extraordinary and Minister Plenipotentiary (Saudi Arabia).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/eddy-william-alfred</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Special Assistant to the Secretary of State for Research and Intelligence, August 1, 1946-October 1, 1947</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1945-50Intel/persons#p_EWA1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>U. S. M. C. (retired), American Minister to Saudi Arabia.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1945Malta/persons#p_ECWA1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>USMC (Ret.), Consultant to the Arabian-American Oil Company.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1951v05/persons#p_DWA1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>USMC (ret.), Consultant to the Arabian–American Oil Company; Former Minister to Saudi Arabia; former Chief of Special Diplomatic Mission to Yemen; former Special Assistant to the Secretary of State for Research and Intelligence; Political Adviser to Tapline at Beirut.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v09p1/persons#p_ECWA1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v09p2/persons#p_ECWA1</source-url>
+        </remark>
+    </remarks>
+</person>

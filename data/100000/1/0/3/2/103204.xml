@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>103204</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Davis, Nathaniel Penistone</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="2">
+                <name>Davis, Nathaniel P.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v04p1/persons#p_DNP1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v04p2/persons#p_DNP1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Davis, Nathaniel Penistone</name>
+                <source-url>https://history.state.gov/departmenthistory/people/davis-nathaniel-penistone</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Nathaniel P. Davis</name>
+                <source-url>https://history.state.gov/departmenthistory/people/davis-nathaniel-penistone</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1895</birth-year>
+    <death-year>1973</death-year>
+    <remarks variants="2">
+        <remark source-urls="2">
+            <p>Minister to Hungry, until May 18, 1951</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1951v04p1/persons#p_DNP1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1951v04p2/persons#p_DNP1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Foreign Service Officer. Envoy Extraordinary and Minister Plenipotentiary (Hungary); Ambassador Extraordinary and Plenipotentiary (Costa Rica).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/davis-nathaniel-penistone</source-url>
+        </remark>
+    </remarks>
+</person>

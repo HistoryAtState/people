@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>108761</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>McCarthy, Leighton</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="1">
+                <name>McCarthy, Leighton</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1943CairoTehran/persons#p_ML3</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="1">
+        <remark source-urls="1">
+            <p>Canadian Ambassador in the United States.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1943CairoTehran/persons#p_ML3</source-url>
+        </remark>
+    </remarks>
+</person>

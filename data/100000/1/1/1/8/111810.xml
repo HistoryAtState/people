@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>111810</id>
+    <authorities>
+        <authority service="viaf">98134159</authority>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Said, Qaboos bin</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="1">
+                <name>Sultan Qaboos bin Said</name>
+                <source-url>https://history.state.gov/departmenthistory/visits/oman</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Said, Qaboos bin</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v18/persons#p_QSS_1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="2">
+        <remark source-urls="1">
+            <p>Sultan, Oman. Visited U.S. 2 times, 1975–1983</p>
+            <source-url>https://history.state.gov/departmenthistory/visits/oman</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Sultan of Oman</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v18/persons#p_QSS_1</source-url>
+        </remark>
+    </remarks>
+</person>

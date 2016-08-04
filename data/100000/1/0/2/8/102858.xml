@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>102858</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Cornelius, Albert M.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="1">
+                <name>Cornelius, Albert M.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1943CairoTehran/persons#p_CAM1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Cornelius, Chief Warrant Officer Albert M.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945Malta/persons#p_C11</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="1">
+            <title source-urls="1">
+                <name>Chief Warrant Officer</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945Malta/persons#p_C11</source-url>
+            </title>
+        </titles-from-name>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="2">
+        <remark source-urls="1">
+            <p>Warrant Officer (jg), U. S. A., assigned to the White House Map Room, member of the President’s party to Cairo.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1943CairoTehran/persons#p_CAM1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>U. S. A., member of the President’s party.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1945Malta/persons#p_C11</source-url>
+        </remark>
+    </remarks>
+</person>

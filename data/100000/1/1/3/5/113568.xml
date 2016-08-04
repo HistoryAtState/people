@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>113568</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Thurber, James P.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="2">
+                <name>Thurber, James P.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v02/persons#p_TJP_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v30/persons#p_TJP_1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="2">
+        <remark source-urls="1">
+            <p>Chief, Policy Guidance Staff, Office of Policy and Plans, United States Information Agency; thereafter Public Affairs Officer, U.S. Embassy in Islamabad</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v02/persons#p_TJP_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Chief, Policy Guidance Staff, Office of Policy and Plans, United States Information Agency until 1978; Chief, Fast Policy Guidance Staff, Associate Directorate for Programs, U.S. International Communication Agency from March 1978 until mid-1978; thereafter Public Affairs Officer, U.S. Embassy in Islamabad</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v30/persons#p_TJP_1</source-url>
+        </remark>
+    </remarks>
+</person>

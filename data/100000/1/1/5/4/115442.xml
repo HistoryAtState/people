@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>115442</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Falaleyev, Fedor Yakovlevich</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="1">
+                <name>Fallalev</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv02/persons#p_F2</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Falaleyev, Marshal of Aviation Fedor Yakovlevich</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv02/persons#p_FMFY1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="1">
+            <title source-urls="1">
+                <name>Marshal of Aviation</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv02/persons#p_FMFY1</source-url>
+            </title>
+        </titles-from-name>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="2">
+        <remark source-urls="1">
+            <p>See Falaleyev.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv02/persons#p_F2</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Chief, Soviet Air Staff.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv02/persons#p_FMFY1</source-url>
+        </remark>
+    </remarks>
+</person>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>115935</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Offie, Carmel</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="1">
+                <name>Offie, Carmel</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv02/persons#p_OC1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="1">
+        <remark source-urls="1">
+            <p>Deputy Political Adviser, Allied Force Headquarters, Caserta.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv02/persons#p_OC1</source-url>
+        </remark>
+    </remarks>
+</person>

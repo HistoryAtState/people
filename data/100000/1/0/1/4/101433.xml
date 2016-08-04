@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>101433</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Bliss, Robert Woods</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="3">
+                <name>Bliss, Robert Woods</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1914Supp/persons#p_BRW1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1916Supp/persons#p_BRW1</source-url>
+                <source-url>https://history.state.gov/departmenthistory/people/bliss-robert-woods</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1875</birth-year>
+    <death-year>1962</death-year>
+    <remarks variants="3">
+        <remark source-urls="1">
+            <p>United States Secretary of Embassy and Chargé d’Affaires in France.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1914Supp/persons#p_BRW1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>U. S. Counselor of Embassy at Paris.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1916Supp/persons#p_BRW1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Foreign Service Officer. Third Assistant Secretary of State; Envoy Extraordinary and Minister Plenipotentiary (Sweden); Ambassador Extraordinary and Plenipotentiary (Argentina).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/bliss-robert-woods</source-url>
+        </remark>
+    </remarks>
+</person>

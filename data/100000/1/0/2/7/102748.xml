@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>102748</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Colombo, Emilio</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="1">
+                <name>Prime Minister Emilio Colombo</name>
+                <source-url>https://history.state.gov/departmenthistory/visits/italy</source-url>
+            </original>
+            <original source-urls="6">
+                <name>Colombo, Emilio</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v08/persons#p_CE1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v31/persons#p_CE1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v41/persons#p_CE_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve15p2/persons#p_CE_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v02/persons#p_CE_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1981-88v13/persons#p_CE_2</source-url>
+            </original>
+            <original source-urls="2">
+                <name>Colombo, Emilo</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v03/persons#p_CE1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v04/persons#p_CE1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="8">
+        <remark source-urls="1">
+            <p>Prime Minister, Italy. Visited U.S. once, 1971</p>
+            <source-url>https://history.state.gov/departmenthistory/visits/italy</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Italian Minister of the Treasury</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v08/persons#p_CE1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Italian Treasury Minister to 1970; Premier, August 1970-January 1972</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v03/persons#p_CE1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Italian Treasury Minister to 1970, Premier, August 1970-January 1972</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v04/persons#p_CE1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Italian Minister of Finance from July 1973 until March 1974; Italian Minister of the Treasury from March 1974 until July 1976</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v31/persons#p_CE1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve15p2/persons#p_CE_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Italian Prime Minister from August 1970 until January 1972</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v41/persons#p_CE_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Italian Foreign Minister</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v02/persons#p_CE_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Italian Minister of Foreign Affairs until August 4, 1983</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1981-88v13/persons#p_CE_2</source-url>
+        </remark>
+    </remarks>
+</person>

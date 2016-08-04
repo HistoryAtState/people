@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>100183</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Aklilu, Abte-Wold Tsahafi</name>
+        </preferred>
+        <alternates/>
+        <originals variants="7">
+            <original source-urls="1">
+                <name>Aklilou</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1946v03/persons#p_AKL1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Wold, Ato Aklilou Abte</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1946v03/persons#p_WAAA1</source-url>
+            </original>
+            <original source-urls="2">
+                <name>Aklilou, Ato Abte-wold</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v11p1/persons#p_AAA1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v11p2/persons#p_AAA1</source-url>
+            </original>
+            <original source-urls="3">
+                <name>Habtewold, Aklilou</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v11p1/persons#p_HA1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v11p2/persons#p_HA1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v18/persons#p_HA1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Aklilou Abte Wolde.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v18/persons#p_AAW1</source-url>
+            </original>
+            <original source-urls="3">
+                <name>Aklilu, Abte-Wold Tsahafi</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v24/persons#p_HWTTA1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve05p1/persons#p_HWTTA1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve05p2/persons#p_AAWT1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Habte-Wold, Tsehafi Ta'izaz Aklilu</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve06/persons#p_HWTTA1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="7">
+        <remark source-urls="1">
+            <p>See Wold</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1946v03/persons#p_AKL1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Head of the Ethiopian Delegation; Deputy Minister of Foreign Affairs of Ethiopia</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1946v03/persons#p_WAAA1</source-url>
+        </remark>
+        <remark source-urls="3">
+            <p>See Habtewold.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v11p1/persons#p_AAA1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v11p2/persons#p_AAA1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v18/persons#p_AAW1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Ethiopian Minister for Foreign Affairs.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v11p1/persons#p_HA1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v11p2/persons#p_HA1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Ethiopian Deputy Prime Minister and, to April 1957, Foreign Minister</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v18/persons#p_HA1</source-url>
+        </remark>
+        <remark source-urls="3">
+            <p>Prime Minister of Ethiopia</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v24/persons#p_HWTTA1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve05p1/persons#p_HWTTA1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve05p2/persons#p_AAWT1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Prime Minister of Ethiopia from April 1961 to March 1, 1974</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve06/persons#p_HWTTA1</source-url>
+        </remark>
+    </remarks>
+</person>

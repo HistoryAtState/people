@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>104904</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Ginsburgh, Robert N.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="2">
+                <name>Ginsburgh, Colonel Robert</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v04/persons#p_GCR1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v05/persons#p_GCR1</source-url>
+            </original>
+            <original source-urls="4">
+                <name>Ginsburgh, Robert N.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v06/persons#p_GRN1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v07/persons#p_GRN1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v28/persons#p_GRN1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v41/persons#p_GRN_1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="1">
+            <title source-urls="2">
+                <name>Colonel</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v04/persons#p_GCR1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v05/persons#p_GCR1</source-url>
+            </title>
+        </titles-from-name>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="5">
+        <remark source-urls="1">
+            <p>member of the National Security Council Staff from summer 1966</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v04/persons#p_GCR1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>USAF, Member of the National Security Council Staff</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v05/persons#p_GCR1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>member, National Security Council Staff</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v06/persons#p_GRN1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v07/persons#p_GRN1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>member of the National Security Council Staff, 1966–1968</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v28/persons#p_GRN1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>member, National Security Council staff</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v41/persons#p_GRN_1</source-url>
+        </remark>
+    </remarks>
+</person>

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>111252</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Reid, Ogden Rogers</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="2">
+                <name>Reid, Ogden Rogers</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v12/persons#p_ROR1</source-url>
+                <source-url>https://history.state.gov/departmenthistory/people/reid-ogden-rogers</source-url>
+            </original>
+            <original source-urls="4">
+                <name>Reid, Ogden R.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v13/persons#p_ROR1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v17/persons#p_ROR1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v18/persons#p_ROR1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v28/persons#p_ROR_1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Reid, Ogden</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v29/persons#p_RO1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1925</birth-year>
+    <death-year/>
+    <remarks variants="6">
+        <remark source-urls="1">
+            <p>Ambassador to Israel from June 1959</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v12/persons#p_ROR1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Ambassador to Israel from July 1959</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v13/persons#p_ROR1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Ambassador to Israel until January 19, 1961</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v17/persons#p_ROR1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v18/persons#p_ROR1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Republican Representative from New York until 1972; Democratic Representative from New York from 1972 until 1975</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v28/persons#p_ROR_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Representative (R–New York)</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v29/persons#p_RO1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Non-career appointee. Ambassador Extraordinary and Plenipotentiary (Israel).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/reid-ogden-rogers</source-url>
+        </remark>
+    </remarks>
+</person>

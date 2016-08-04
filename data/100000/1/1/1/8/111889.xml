@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>111889</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Sanders, Edward</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="1">
+                <name>Sanders, Edward</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v01/persons#p_SE_1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Sanders, Ed</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v08/persons#p_SE_1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="2">
+        <remark source-urls="1">
+            <p>President, American Israel Public Affairs Committee from 1975 until 1976; Deputy National Campaign Director, Carter- Mondale campaign, 1976; Senior Adviser to the President and Special Adviser to the Secretary of State for Jewish Affairs from July 1978 until March 1980</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v01/persons#p_SE_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Adviser to President Carter for Jewish Affairs from July 1978</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v08/persons#p_SE_1</source-url>
+        </remark>
+    </remarks>
+</person>

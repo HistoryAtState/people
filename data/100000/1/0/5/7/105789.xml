@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>105789</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Helou, Charles</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="4">
+                <name>Helou, Charles</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v05/persons#p_HHC1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v18/persons#p_HC7</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v20/persons#p_HC1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v23/persons#p_HC_1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Hélou, Charles</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v11/persons#p_HC2</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="5">
+        <remark source-urls="1">
+            <p>Lebanese Minister of Foreign Affairs, after July 1951.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1951v05/persons#p_HHC1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Lebanese Minister of National Economy and Information after September 23, 1958</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v11/persons#p_HC2</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>President of Lebanon from August 1964</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v18/persons#p_HC7</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>President of Lebanon</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v20/persons#p_HC1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>President of Lebanon until September 1970</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v23/persons#p_HC_1</source-url>
+        </remark>
+    </remarks>
+</person>

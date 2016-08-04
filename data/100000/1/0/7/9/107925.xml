@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>107925</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Lewis, Charles William, Jr.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="2">
+                <name>Lewis, Charles William, Jr.</name>
+                <source-url>https://history.state.gov/departmenthistory/people/lewis-charles-william</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v05/persons#p_LCW1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Charles W. Lewis, Jr.</name>
+                <source-url>https://history.state.gov/departmenthistory/people/lewis-charles-william</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1898</birth-year>
+    <death-year>1988</death-year>
+    <remarks variants="2">
+        <remark source-urls="1">
+            <p>Foreign Service Officer. Chargé d'Affaires ad interim (Pakistan).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/lewis-charles-william</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Consul General in Istanbul.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1951v05/persons#p_LCW1</source-url>
+        </remark>
+    </remarks>
+</person>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>110666</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Phan Hien</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="1">
+                <name>Phan Hien, Member</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v06/persons#p_PHM1</source-url>
+            </original>
+            <original source-urls="4">
+                <name>Phan Hien</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v07/persons#p_PH1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v07/persons#p_PH1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v10/persons#p_PH1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v13/persons#p_PH_1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Hien, Phan</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v07/persons#p_HP1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="1">
+            <title source-urls="1">
+                <name>Member</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v06/persons#p_PHM1</source-url>
+            </title>
+        </titles-from-name>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="6">
+        <remark source-urls="1">
+            <p>Democratic Republic of Vietnam Delegation to the Paris Peace Talks</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v06/persons#p_PHM1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>member, Democratic Republic of Vietnam Delegation to the Paris Peace Talks</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v07/persons#p_PH1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>see Phan Hien</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v07/persons#p_HP1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>member, North Vietnamese Delegation to the Paris Peace Talks</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v07/persons#p_PH1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>member, DRV Delegation to Paris Conference on Vietnam</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v10/persons#p_PH1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Vice Foreign Minister of Vietnam</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v13/persons#p_PH_1</source-url>
+        </remark>
+    </remarks>
+</person>

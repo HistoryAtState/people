@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>105871</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Heseltine, Michael</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="2">
+                <name>Heseltine, Michael</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve01/persons#p_HM2</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1981-88v13/persons#p_HM_1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="2">
+        <remark source-urls="1">
+            <p>British Minister for Aerospace</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve01/persons#p_HM2</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>British Secretary of State for Defence</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1981-88v13/persons#p_HM_1</source-url>
+        </remark>
+    </remarks>
+</person>

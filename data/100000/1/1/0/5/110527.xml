@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>110527</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Pendleton, Miles</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="2">
+                <name>Pendleton, Miles</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v37/persons#p_PM_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1981-88v13/persons#p_PMS_1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="2">
+        <remark source-urls="1">
+            <p>Special Assistant to the Deputy Secretary of State, from 1974 until 1975</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v37/persons#p_PM_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Deputy Director, Office of Northern European Affairs, Bureau of European Affairs, Department of State until December 1982; Member, Falkland Islands Working Group, Department of State from April 1982 until June 1982</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1981-88v13/persons#p_PMS_1</source-url>
+        </remark>
+    </remarks>
+</person>

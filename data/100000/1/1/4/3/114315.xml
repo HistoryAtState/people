@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>114315</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Wasilewska, Wanda</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="2">
+                <name>Wasilewska, Wanda</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv01/persons#p_WW1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945Malta/persons#p_WW1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="2">
+        <remark source-urls="1">
+            <p>head of the Union of Polish Patriots in the Soviet Union, 1943–1944.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv01/persons#p_WW1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Head of the Union of Polish Patriots in the Soviet Union.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1945Malta/persons#p_WW1</source-url>
+        </remark>
+    </remarks>
+</person>

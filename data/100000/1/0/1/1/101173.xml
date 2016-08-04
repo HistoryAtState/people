@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>101173</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Bennet, Douglas Joseph, Jr.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="4">
+            <original source-urls="2">
+                <name>Bennet, Douglas Joseph, Jr.</name>
+                <source-url>https://history.state.gov/departmenthistory/people/bennet-douglas-joseph</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v30/persons#p_BDJJ_1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Douglas J. Bennet, Jr.</name>
+                <source-url>https://history.state.gov/departmenthistory/people/bennet-douglas-joseph</source-url>
+            </original>
+            <original source-urls="3">
+                <name>Bennet, Douglas J., Jr.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v01/persons#p_BDJ_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v02/persons#p_BDJJ_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v03/persons#p_BDJ_1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Bennet, J. Douglas, Jr.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v21/persons#p_BJD_1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1938</birth-year>
+    <death-year/>
+    <remarks variants="5">
+        <remark source-urls="1">
+            <p>Non-career appointee. Assistant Secretary of State for Legislative Affairs; Assistant Secretary of State for International Organization Affairs; Administrator of the Agency for International Development.</p>
+            <source-url>https://history.state.gov/departmenthistory/people/bennet-douglas-joseph</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Staff Director, Senate Budget Committee, until 1977; Assistant Secretary of State for Congressional Affairs from March 18, 1977 until August 2, 1979; thereafter Administrator, Agency for International Development</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v01/persons#p_BDJ_1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Staff Director, Senate Budget Committee, until 1977; Assistant Secretary of State for Congressional Affairs from March 18, 1977, until August 2, 1979; thereafter Administrator of the Agency for International Development</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v02/persons#p_BDJJ_1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v30/persons#p_BDJJ_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Assistant Secretary of State for Congressional Relations from March 1977 until August 1979; Administrator, Agency for International Development, from August 1979</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v03/persons#p_BDJ_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Assistant Secretary of State for Congressional Relations from March 18, 1977, until August 2, 1979; Administrator, Agency for International Development, from August 3, 1979, until January 20, 1981</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v21/persons#p_BJD_1</source-url>
+        </remark>
+    </remarks>
+</person>

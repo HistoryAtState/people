@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>110659</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Pham Ngoc Thao</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="1">
+                <name>Pham Ngoc Thao</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v02/persons#p_PNT1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Pham Ngoc Thao, Colonel</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v03/persons#p_PNTC1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="1">
+            <title source-urls="1">
+                <name>Colonel</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v03/persons#p_PNTC1</source-url>
+            </title>
+        </titles-from-name>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="2">
+        <remark source-urls="1">
+            <p>Colonel, participant in coup attempts against Khanh in February 1965 and Quat in May 1965</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v02/persons#p_PNT1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>participant in coup attempts against Khanh in February 1965 and Quat in May 1965</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v03/persons#p_PNTC1</source-url>
+        </remark>
+    </remarks>
+</person>

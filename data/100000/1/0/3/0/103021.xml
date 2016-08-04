@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>103021</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Crowe, William J., Jr.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="1">
+                <name>Crowe, William J.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve12/persons#p_crowe-william-j</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Crowe, William J., Jr.</name>
+                <source-url>https://history.state.gov/departmenthistory/people/crowe-william-j</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1925</birth-year>
+    <death-year>2007</death-year>
+    <remarks variants="2">
+        <remark source-urls="1">
+            <p>Rear Admiral; Director, East Asia and Pacific Region, Office of the Assistant Secretary of Defense for International Security Affairs</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve12/persons#p_crowe-william-j</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Non-career appointee. Ambassador Extraordinary and Plenipotentiary (United Kingdom).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/crowe-william-j</source-url>
+        </remark>
+    </remarks>
+</person>

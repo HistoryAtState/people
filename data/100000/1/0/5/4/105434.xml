@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>105434</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Hall-Patch, Edmund Leo</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="3">
+                <name>Hall-Patch, Sir Edmund</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1947v02/persons#p_HPSE1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v06p1/persons#p_HALLPATCHSE1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v06p2/persons#p_HALLPATCHSE1</source-url>
+            </original>
+            <original source-urls="5">
+                <name>Hall-Patch, Sir Edmund Leo</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1948v02/persons#p_HPSEL1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v03p1/persons#p_HPEL1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v03p2/persons#p_HPEL1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v04p1/persons#p_HPSEL1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v04p2/persons#p_HPSEL1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="1">
+            <title source-urls="8">
+                <name>Sir</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1947v02/persons#p_HPSE1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1948v02/persons#p_HPSEL1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v03p1/persons#p_HPEL1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v03p2/persons#p_HPEL1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v04p1/persons#p_HPSEL1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v04p2/persons#p_HPSEL1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v06p1/persons#p_HALLPATCHSE1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v06p2/persons#p_HALLPATCHSE1</source-url>
+            </title>
+        </titles-from-name>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="5">
+        <remark source-urls="1">
+            <p>British Deputy Under Secretary of State for Foreign Affairs</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1947v02/persons#p_HPSE1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Deputy Under-Secretary of State, British Foreign Office, May 1946–April 1948; from April 1948, Permanent United Kingdom Representative on the Organization for European Economic Cooperation</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1948v02/persons#p_HPSEL1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Permanent British Representative at the Organization for European Economic Cooperation; Chairman, Executive Committee of the OEEC Council.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1951v03p1/persons#p_HPEL1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1951v03p2/persons#p_HPEL1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Permanent British Representative at the Organization for European Economic Cooperation</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1951v04p1/persons#p_HPSEL1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1951v04p2/persons#p_HPSEL1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Permanent British Representative to the Organization for European Economic Cooperation, April 1948–September 1952; thereafter British Executive Director of the International Monetary Fund and of the International Bank for Reconstruction and Development.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v06p1/persons#p_HALLPATCHSE1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v06p2/persons#p_HALLPATCHSE1</source-url>
+        </remark>
+    </remarks>
+</person>

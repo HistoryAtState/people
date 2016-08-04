@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>114870</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Yang Hsi-kun</name>
+        </preferred>
+        <alternates>
+            <name>Yang Xikun</name>
+        </alternates>
+        <originals variants="3">
+            <original source-urls="1">
+                <name>Yang Hsi K'un</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v05/persons#p_YHK1</source-url>
+            </original>
+            <original source-urls="3">
+                <name>Yang Hsi-kun</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v17/persons#p_YH1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v18/persons#p_YH1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve13/persons#p_YX1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Yang Xikun (Yang Hsi-kun)</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v18/persons#p_YX1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="5">
+        <remark source-urls="1">
+            <p>Vice Foreign Minister, Republic of China</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v05/persons#p_YHK1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>ROC representative to the United Nations General Assembly until 1971; thereafter, Vice Minister of Foreign Affairs</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v17/persons#p_YH1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>see Yang Xikun</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v18/persons#p_YH1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>ROC Vice Minister of Foreign Affairs</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v18/persons#p_YX1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>ROC representative to the United Nations General Assembly until 1971;thereafter, Vice Minister of Foreign Affairs</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve13/persons#p_YX1</source-url>
+        </remark>
+    </remarks>
+</person>

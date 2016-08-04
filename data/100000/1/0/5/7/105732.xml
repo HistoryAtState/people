@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>105732</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Healy, Theresa Ann</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="1">
+                <name>Healy, Theresa Ann</name>
+                <source-url>https://history.state.gov/departmenthistory/people/healy-theresa-ann</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Theresa A. Healy</name>
+                <source-url>https://history.state.gov/departmenthistory/people/healy-theresa-ann</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1932</birth-year>
+    <death-year/>
+    <remarks variants="1">
+        <remark source-urls="1">
+            <p>Foreign Service Officer. Ambassador Extraordinary and Plenipotentiary (Sierra Leone).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/healy-theresa-ann</source-url>
+        </remark>
+    </remarks>
+</person>

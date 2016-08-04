@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>102500</id>
+    <authorities>
+        <authority service="viaf">60735059</authority>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Chiluba, Frederick</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="1">
+                <name>President Frederick Chiluba</name>
+                <source-url>https://history.state.gov/departmenthistory/visits/zambia</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="1">
+        <remark source-urls="1">
+            <p>President, Zambia. Visited U.S. once, 1992</p>
+            <source-url>https://history.state.gov/departmenthistory/visits/zambia</source-url>
+        </remark>
+    </remarks>
+</person>

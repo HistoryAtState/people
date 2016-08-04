@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>102318</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Catto, Henry Edward, Jr.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="4">
+            <original source-urls="1">
+                <name>Catto, Henry E., Jr.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v28/persons#p_CHE_1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Catto, Henry Edward, Jr.</name>
+                <source-url>https://history.state.gov/departmenthistory/people/catto-henry-edward-jr</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Henry E. Catto, Jr.</name>
+                <source-url>https://history.state.gov/departmenthistory/people/catto-henry-edward-jr</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Henry E. Catto</name>
+                <source-url>https://history.state.gov/departmenthistory/people/catto-henry-edward-jr</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1930</birth-year>
+    <death-year>2011</death-year>
+    <remarks variants="2">
+        <remark source-urls="1">
+            <p>U.S. Representative to the United Nations in Geneva from July 1976 until April 1977</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v28/persons#p_CHE_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Non-career appointee. Director of the U.S. Information Agency; Chief of Protocol; Representative of the U.S.A. to the European Office of the United Nations (Geneva); Ambassador Extraordinary and Plenipotentiary (United Kingdom); Ambassador Extraordinary and Plenipotentiary (El Salvador).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/catto-henry-edward-jr</source-url>
+        </remark>
+    </remarks>
+</person>

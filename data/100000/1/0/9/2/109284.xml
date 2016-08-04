@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>109284</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Molloy, Robert W.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="1">
+                <name>Molloy, Col. Robert W.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v13/persons#p_MCRW1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="1">
+            <title source-urls="1">
+                <name>Col.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v13/persons#p_MCRW1</source-url>
+            </title>
+        </titles-from-name>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="1">
+        <remark source-urls="1">
+            <p>USA, Military Attaché of the Embassy in Syria from February 22, 1955</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v13/persons#p_MCRW1</source-url>
+        </remark>
+    </remarks>
+</person>

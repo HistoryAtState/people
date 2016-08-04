@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>103251</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Dean, John Wesley, III</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="1">
+                <name>Dean, John W.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v01/persons#p_DJW_1</source-url>
+            </original>
+            <original source-urls="3">
+                <name>Dean, John W., III</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v02/persons#p_DJW2</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v07/persons#p_DJW2</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v13/persons#p_DJWIII1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Dean, John Wesley, III</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v05/persons#p_DJW2</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="4">
+        <remark source-urls="1">
+            <p>White House Counsel from 1970 until 1973</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v01/persons#p_DJW_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Counsel to the President from July 1970</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v02/persons#p_DJW2</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Counsel to the President July 1970–April 1973</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v05/persons#p_DJW2</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Counsel to the President</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v07/persons#p_DJW2</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v13/persons#p_DJWIII1</source-url>
+        </remark>
+    </remarks>
+</person>

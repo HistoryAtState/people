@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>110439</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Patterson, Anne Woods</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="1">
+                <name>Patterson, Anne Woods</name>
+                <source-url>https://history.state.gov/departmenthistory/people/patterson-anne-woods</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Anne W. Patterson</name>
+                <source-url>https://history.state.gov/departmenthistory/people/patterson-anne-woods</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1949</birth-year>
+    <death-year/>
+    <remarks variants="1">
+        <remark source-urls="1">
+            <p>Foreign Service Officer. Career Ambassador; Assistant Secretary of State for Near Eastern Affairs; Assistant Secretary of State for International Narcotics and Law Enforcement Affairs; Ambassador Extraordinary and Plenipotentiary (Pakistan); Ambassador Extraordinary and Plenipotentiary (El Salvador); Ambassador Extraordinary and Plenipotentiary (Egypt); Ambassador Extraordinary and Plenipotentiary (Colombia).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/patterson-anne-woods</source-url>
+        </remark>
+    </remarks>
+</person>

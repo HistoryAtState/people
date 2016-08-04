@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>102228</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Carraud, Pierre</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="4">
+                <name>Carraud, Pierre</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v05p1/persons#p_CARRAUDP1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v05p2/persons#p_CARRAUDP1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v09p1/persons#p_CP1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v09p2/persons#p_CP1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="2">
+        <remark source-urls="2">
+            <p>Secretary to French Ambassador Bonnet in the United States after April 1953.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v05p1/persons#p_CARRAUDP1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v05p2/persons#p_CARRAUDP1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Second Secretary of the French Embassy in the United States from April 1953.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v09p1/persons#p_CP1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v09p2/persons#p_CP1</source-url>
+        </remark>
+    </remarks>
+</person>

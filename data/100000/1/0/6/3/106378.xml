@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>106378</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Ileo, Joseph</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="1">
+                <name>Iléo, Joseph</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v14/persons#p_IJ1</source-url>
+            </original>
+            <original source-urls="2">
+                <name>Ileo, Joseph</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v20/persons#p_JI1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v23/persons#p_IJO_1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="3">
+        <remark source-urls="1">
+            <p>President of the Republic of the Congo Senate from June 1960</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v14/persons#p_IJ1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>President of the Republic of the Congo Senate; Prime Minister, February–August 1961; Minister of Information and Culture, August 1961–July 1962; Minister Resident in Katanga from January 1963</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v20/persons#p_JI1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>President of the Republic of the Congo Senate; Prime Minister from September 5, 1960 until September 20, 1960 and February 9, 1961 until August 2, 1961; Minister of Information and Culture from August 1961 until July 1962; Minister Resident in Katanga from January 1963</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v23/persons#p_IJO_1</source-url>
+        </remark>
+    </remarks>
+</person>

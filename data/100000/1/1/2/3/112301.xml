@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>112301</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Sharaf, Abdul Hamid</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="5">
+                <name>Sharaf, Abdul Hamid</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v19/persons#p_SAH1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v20/persons#p_SAH1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v23/persons#p_SAH_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v24/persons#p_SAH4</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v08/persons#p_SAH_1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="3">
+        <remark source-urls="2">
+            <p>Jordanian Ambassador to the United States from August 1967</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v19/persons#p_SAH1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v20/persons#p_SAH1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Jordanian Ambassador to the United States</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v23/persons#p_SAH_1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v24/persons#p_SAH4</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Jordanian Chief of the Royal Court from 1976</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v08/persons#p_SAH_1</source-url>
+        </remark>
+    </remarks>
+</person>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>109469</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Motley, Langhorne A.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="2">
+                <name>Motley, Langhorne A.</name>
+                <source-url>https://history.state.gov/departmenthistory/people/motley-langhorne-a</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1981-88v13/persons#p_MLA_2</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1938</birth-year>
+    <death-year/>
+    <remarks variants="2">
+        <remark source-urls="1">
+            <p>Non-career appointee. Assistant Secretary of State for Western Hemisphere Affairs; Ambassador Extraordinary and Plenipotentiary (Brazil).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/motley-langhorne-a</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Ambassador to Brazil from September 19, 1981, until July 6, 1983; Assistant Secretary of State for Inter-American Affairs from July 12, 1983</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1981-88v13/persons#p_MLA_2</source-url>
+        </remark>
+    </remarks>
+</person>

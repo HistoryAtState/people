@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>104682</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Gambiez, Louis Charles Fernand</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="1">
+                <name>Gambiez, General Louis Charles Fernand</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v01/persons#p_GGLCF1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="1">
+            <title source-urls="1">
+                <name>General</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v01/persons#p_GGLCF1</source-url>
+            </title>
+        </titles-from-name>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="1">
+        <remark source-urls="1">
+            <p>Chief of Staff to the Commander-in-Chief of French Forces in Indochina to 1955</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v01/persons#p_GGLCF1</source-url>
+        </remark>
+    </remarks>
+</person>

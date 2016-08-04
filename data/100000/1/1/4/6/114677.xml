@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>114677</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Wilson, James K., Jr.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="2">
+                <name>Wilson, Brigadier General James K., Jr.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v06/persons#p_WBGJKJ1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v07/persons#p_WBGJKJ1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Wilson, Brigadier General James K.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v10/persons#p_WBGJK1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="1">
+            <title source-urls="3">
+                <name>Brigadier General</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v06/persons#p_WBGJKJ1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v07/persons#p_WBGJKJ1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v10/persons#p_WBGJK1</source-url>
+            </title>
+        </titles-from-name>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="2">
+        <remark source-urls="2">
+            <p>USA, Director, Office of Military Assistance Programs, Department of Defense, 1955–1956; Director, Office of Programs and Control, Department of Defense, 1956–1957</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v06/persons#p_WBGJKJ1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v07/persons#p_WBGJKJ1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Director, Office of Military Assistance Programs, International Security Affairs, Department of Defense; Director, Office of Programs and Control, 1956–1957</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v10/persons#p_WBGJK1</source-url>
+        </remark>
+    </remarks>
+</person>

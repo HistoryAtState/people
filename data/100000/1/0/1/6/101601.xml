@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>101601</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Boumédiene, Houari</name>
+        </preferred>
+        <alternates>
+            <name>Boukharouba, Mohammed Ben Brahim</name>
+        </alternates>
+        <originals variants="5">
+            <original source-urls="1">
+                <name>Boumediene, Col. Houari</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v24/persons#p_BHMBBB1</source-url>
+            </original>
+            <original source-urls="5">
+                <name>Boumedienne, Houari</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v15/persons#p_BH_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v25/persons#p_BH_2</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v26/persons#p_BH_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v29/persons#p_BH4</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v36/persons#p_BH1</source-url>
+            </original>
+            <original source-urls="10">
+                <name>Boumediene, Houari</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v27/persons#p_BH_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v37/persons#p_BH_3</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v38p1/persons#p_BH_2</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v38p2/persons#p_BH_2</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve05p2/persons#p_BH1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve09p1/persons#p_BH_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve14p1/persons#p_BHMBBB1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v03/persons#p_BH_2</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v08/persons#p_BH_2</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v13/persons#p_BH_1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Boumedienne, Houari (Mohamed Ben Brahim Boukharouba)</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve06/persons#p_BHMBBB1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>President Houari Boumedienne</name>
+                <source-url>https://history.state.gov/departmenthistory/visits/algeria</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="1">
+            <title source-urls="1">
+                <name>Col.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v24/persons#p_BHMBBB1</source-url>
+            </title>
+        </titles-from-name>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="10">
+        <remark source-urls="1">
+            <p>Algerian Vice Premier of the Ministerial Council and Minister of Defense until June 1965; Head of the Revolutionary Council, June-July 1965; thereafter Prime Minister and Minister of Defense</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v24/persons#p_BHMBBB1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Algerian President</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v15/persons#p_BH_1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v38p1/persons#p_BH_2</source-url>
+        </remark>
+        <remark source-urls="6">
+            <p>President of Algeria</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v25/persons#p_BH_2</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v26/persons#p_BH_1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v27/persons#p_BH_1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v29/persons#p_BH4</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v38p2/persons#p_BH_2</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve05p2/persons#p_BH1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Algerian President until 1976; Chairman of the Revolutionary Council until 1976</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v36/persons#p_BH1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>President of Algeria until December 1978</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v37/persons#p_BH_3</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v03/persons#p_BH_2</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>President of Algeria; Chairman of the Non-Aligned Movement from August 1973 to August 1976</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve06/persons#p_BHMBBB1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>President of Algeria from 1965 until 1978</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve09p1/persons#p_BH_1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v08/persons#p_BH_2</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>President of the Revolutionary Council, People’s Democratic Republic of Algeria</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve14p1/persons#p_BHMBBB1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>President of Algeria from June 19, 1965 until December 27, 1978</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v13/persons#p_BH_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>President, Algeria. Visited U.S. once, 1974</p>
+            <source-url>https://history.state.gov/departmenthistory/visits/algeria</source-url>
+        </remark>
+    </remarks>
+</person>

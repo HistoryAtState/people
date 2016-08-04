@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>110942</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Prem Chand, Dewan</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="1">
+                <name>Prem Chand, Major General Dewan</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v20/persons#p_DPC1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="1">
+            <title source-urls="1">
+                <name>Major General</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v20/persons#p_DPC1</source-url>
+            </title>
+        </titles-from-name>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="1">
+        <remark source-urls="1">
+            <p>United Nations military commander in Katanga</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v20/persons#p_DPC1</source-url>
+        </remark>
+    </remarks>
+</person>

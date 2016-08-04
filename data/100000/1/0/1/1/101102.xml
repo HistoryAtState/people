@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>101102</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Belaúnde, Victor Andrés</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="1">
+                <name>Belaúnde, Victor A.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v11/persons#p_BVA1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Belaunde, Victor Andrés</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v02/persons#p_BVA1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="2">
+        <remark source-urls="1">
+            <p>Peruvian Representative on the United Nations Security Council, June 1955–June 1957</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v11/persons#p_BVA1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>member, Peruvian Delegation to the United Nations</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v02/persons#p_BVA1</source-url>
+        </remark>
+    </remarks>
+</person>

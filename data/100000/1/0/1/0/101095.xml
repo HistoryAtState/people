@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>101095</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Behrendt, Heinz</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="2">
+                <name>Behrendt, Heinz</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v15/persons#p_BH9</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v15/persons#p_BH9</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="2">
+        <remark source-urls="1">
+            <p>Head of the Office of Inter-German Trade in the East German Ministry of Foreign and Inter German Trade</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v15/persons#p_BH9</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>head of the Inner-German Trade Division (Hauptabteilung) of the East German Ministry of Foreign (and Inner-German) Trade; then Deputy Minister of Foreign (and Inner-German Trade) and Deputy Foreign Minister</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v15/persons#p_BH9</source-url>
+        </remark>
+    </remarks>
+</person>

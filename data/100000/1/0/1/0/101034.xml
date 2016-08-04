@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>101034</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Bayulken, Umit Haluk</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="2">
+                <name>Bayulken, Haluk</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v16/persons#p_BH1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v29/persons#p_BH2</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Bayulken, Umit Haluk</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v05/persons#p_BUH1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Bayülken, Ümit Haluk</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v30/persons#p_BUH2</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="4">
+        <remark source-urls="1">
+            <p>Director General of Turkish Ministry of Foreign Affairs</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v16/persons#p_BH1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Turkish Permanent Representative to the United Nations</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v05/persons#p_BUH1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Turkish Foreign Minister from March 1971</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v29/persons#p_BH2</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Turkish Minister of Foreign Affairs until 1974</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v30/persons#p_BUH2</source-url>
+        </remark>
+    </remarks>
+</person>

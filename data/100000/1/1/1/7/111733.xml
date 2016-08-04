@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>111733</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Ruppe, Philip Edward</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="2">
+                <name>Ruppe, Philip E.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v38p1/persons#p_RPE_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v38p2/persons#p_RPE_1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Ruppe, Philip Edward</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve03/persons#p_RPE1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="3">
+        <remark source-urls="1">
+            <p>member, U.S. House of Representatives (R–Michigan)</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v38p1/persons#p_RPE_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Representative (R–Michigan)</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v38p2/persons#p_RPE_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Republican Representative from Michigan, Merchant Marine and Fisheries Committee and Ranking Minority Member, Mines and Mining Subcommittee, Interior and Insular Affairs Committee, U.S. House of Representatives</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve03/persons#p_RPE1</source-url>
+        </remark>
+    </remarks>
+</person>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>100416</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Anderson, Clinton P.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="9">
+                <name>Anderson, Clinton P.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1947v02/persons#p_ACP1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1948v02/persons#p_ACP1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v19/persons#p_ACP1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v20/persons#p_ACP1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v07p1/persons#p_ACP1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v07p2/persons#p_ACP1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v10p2/persons#p_ACP1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v07/persons#p_ACP1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v11/persons#p_ACP1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="7">
+        <remark source-urls="1">
+            <p>Secretary of Agriculture</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1947v02/persons#p_ACP1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Secretary of Agriculture, until May 1948</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1948v02/persons#p_ACP1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Democratic Senator from New Mexico; Chairman, Joint Committee on Atomic Energy, January 1955–January 1957; thereafter Chairman</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v19/persons#p_ACP1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Democratic Senator from New Mexico; Vice Chairman, Joint Committee on Atomic Energy, January 1955–January 1957; thereafter Chairman</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v20/persons#p_ACP1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Senator from New Mexico, Chairman of the Joint Committee on Atomic Energy</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v07p1/persons#p_ACP1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v07p2/persons#p_ACP1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Chairman of the Joint Committee on Atomic Energy</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v10p2/persons#p_ACP1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Democratic Senator from New Mexico</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v07/persons#p_ACP1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v11/persons#p_ACP1</source-url>
+        </remark>
+    </remarks>
+</person>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>110865</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Popple, Paul M.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="5">
+                <name>Popple, Paul M.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v22/persons#p_PPM1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v30/persons#p_PPM1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v19p1/persons#p_PPM1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v20/persons#p_PPM1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v13/persons#p_PPM_1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="5">
+        <remark source-urls="1">
+            <p>Officer in Charge, Government of the Republic of China Affairs, Office of East Asian Affairs, Bureau of Far Eastern Affairs, Department of State, from June 1962</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v22/persons#p_PPM1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Officer in Charge, Republic of China Affairs, Bureau of Far Eastern Affairs, Department of State, until July 1964</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v30/persons#p_PPM1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Director, Office of Research and Analysis for East Asia and Pacific, Bureau of Intelligence and Research, Department of State, from 1971</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v19p1/persons#p_PPM1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Office Director, Office of Research and Analysis for East Asia and Pacific, Department of State</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v20/persons#p_PPM1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Deputy Chief of Mission to the Republic of China from October 1974 until September 1977</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v13/persons#p_PPM_1</source-url>
+        </remark>
+    </remarks>
+</person>

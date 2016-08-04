@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>107840</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Lenin, Vladimir Ilyich Ulyanov</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="1">
+                <name>Lenin, Vladimir</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1917-72PubDip/persons#p_LV_1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Lenin, Nikolay</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv01/persons#p_LN1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Lenin, Nikolay (Vladimir Ilyich Ulyanov)</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945Malta/persons#p_LN1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="3">
+        <remark source-urls="1">
+            <p>President of the Soviet of People’s Commisars from November 8, 1917</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1917-72PubDip/persons#p_LV_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>leader of the Bolshevik Revolution of October–November 1917; Chairman, Council of People’s Commissars of the Soviet Government, 1917–1924.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv01/persons#p_LN1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>leader of the Bolshevik Revolution of October-November 1917; Chairman of the Council of People’s Commissars of the Soviet Union, 1917–1924.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1945Malta/persons#p_LN1</source-url>
+        </remark>
+    </remarks>
+</person>

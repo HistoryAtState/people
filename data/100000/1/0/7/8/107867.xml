@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>107867</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Leroy-Beaulieu, Paul</name>
+        </preferred>
+        <alternates/>
+        <originals variants="6">
+            <original source-urls="1">
+                <name>Leroy-Beaulieau, Paul</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1947v02/persons#p_LBP1</source-url>
+            </original>
+            <original source-urls="3">
+                <name>Beaulieu</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1948v02/persons#p_B1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v03p1/persons#p_B2</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v03p2/persons#p_B2</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Leroy Beaulieu, Paul</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1948v02/persons#p_LBP1</source-url>
+            </original>
+            <original source-urls="3">
+                <name>Leroy-Beaulieu, Paul</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1949v03/persons#p_LBP1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v03p1/persons#p_LBP1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v03p2/persons#p_LBP1</source-url>
+            </original>
+            <original source-urls="4">
+                <name>Leroy-Beaulieu, Michel</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v03p1/persons#p_LBM1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v03p2/persons#p_LBM1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v07p1/persons#p_LBM1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v07p2/persons#p_LBM1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Beaulieu, Leroy</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v05p1/persons#p_BEAULIEUL1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="8">
+        <remark source-urls="1">
+            <p>Economic and Financial Adviser to the French Commander-in-Chief, Germany</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1947v02/persons#p_LBP1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>See Leroy Beaulieu, Paul</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1948v02/persons#p_B1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Economic and Financial Adviser, French High Command in Germany</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1948v02/persons#p_LBP1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Economic and Financial Adviser, French High Command in Germany.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1949v03/persons#p_LBP1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>See Leroy-Beaulieu, Paul.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1951v03p1/persons#p_B2</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1951v03p2/persons#p_B2</source-url>
+        </remark>
+        <remark source-urls="4">
+            <p>Economic Adviser to the French High Commissioner for Germany.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1951v03p1/persons#p_LBM1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1951v03p2/persons#p_LBM1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v07p1/persons#p_LBM1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v07p2/persons#p_LBM1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Chairman, Financial and Economic Board, NATO.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1951v03p1/persons#p_LBP1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1951v03p2/persons#p_LBP1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Chairman of the North Atlantic Treaty Organization Financial and Economic Board.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v05p1/persons#p_BEAULIEUL1</source-url>
+        </remark>
+    </remarks>
+</person>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>105846</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Herrera Lane, Felipe</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="2">
+                <name>Herrera, Felipe</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v04/persons#p_HF1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v05/persons#p_HF1</source-url>
+            </original>
+            <original source-urls="3">
+                <name>Herrera Lane, Felipe</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v31/persons#p_HLF1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v21/persons#p_HLF_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve16/persons#p_HLF_1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="5">
+        <remark source-urls="1">
+            <p>Chilean Minister of Finance from June until October 1953.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v04/persons#p_HF1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>President of the Inter-American Development Bank</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v31/persons#p_HLF1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>former President of the Inter-American Development Bank and Chilean candidate for Secretary-General of the United Nations</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v05/persons#p_HF1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>President of the Inter-American Bank until 1971; member, United Nations Educational, Scientific and Cultural Organization (UNESCO) Commission for the Study of International Education, 1971; Professor of Political Economy, University of Chile and Catholic University, from 1971</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v21/persons#p_HLF_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>President of the Inter-American Bank until 1971; member, United Nations Educational, Scientific and Cultural Organization (UNESCO) Commission for the Study of International Education, 1971; Professor of Political Economy, University of Chile and Catholic University from 1971</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve16/persons#p_HLF_1</source-url>
+        </remark>
+    </remarks>
+</person>

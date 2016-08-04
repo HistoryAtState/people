@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>102658</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Cleveland, Grover</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="1">
+                <name>Grover Cleveland</name>
+                <source-url>https://history.state.gov/cms/apps/presidents/data/presidents.xml#cleveland-grover</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1837</birth-year>
+    <death-year>1908</death-year>
+    <remarks variants="2">
+        <remark source-urls="1">
+            <p>President of the United States, from March 4, 1885 until March 4, 1889</p>
+            <source-url>https://history.state.gov/cms/apps/presidents/data/presidents.xml#cleveland-grover</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>President of the United States, from March 4, 1893 until March 4, 1897</p>
+            <source-url>https://history.state.gov/cms/apps/presidents/data/presidents.xml#cleveland-grover</source-url>
+        </remark>
+    </remarks>
+</person>

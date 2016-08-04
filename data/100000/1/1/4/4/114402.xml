@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>114402</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Weissman, Marvin</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="2">
+                <name>Weissman, Marvin</name>
+                <source-url>https://history.state.gov/departmenthistory/people/weissman-marvin</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve11p1/persons#p_WM_1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1927</birth-year>
+    <death-year/>
+    <remarks variants="2">
+        <remark source-urls="1">
+            <p>Non-career appointee. Ambassador Extraordinary and Plenipotentiary (Costa Rica); Ambassador Extraordinary and Plenipotentiary (Bolivia).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/weissman-marvin</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Director, Office of Central American Affairs, Bureau of Inter-American Affairs, Department of State as of 1976; U.S. Ambassador to Costa Rica from June 28, 1977, until March 22, 1980</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve11p1/persons#p_WM_1</source-url>
+        </remark>
+    </remarks>
+</person>

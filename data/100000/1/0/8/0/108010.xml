@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>108010</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Lippmann, Walter S.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="1">
+                <name>Lippman, Walter</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1917-72PubDip/persons#p_LW_1</source-url>
+            </original>
+            <original source-urls="5">
+                <name>Lippmann, Walter</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1946v03/persons#p_LW1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v04/persons#p_LW1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v01/persons#p_LW1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v04/persons#p_LW1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v05/persons#p_LW1</source-url>
+            </original>
+            <original source-urls="2">
+                <name>Lippmann, Walter S.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v02/persons#p_LWS1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v03/persons#p_LWS1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="6">
+        <remark source-urls="1">
+            <p>journalist and adviser to President Wilson</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1917-72PubDip/persons#p_LW_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>American syndicated columnist and commentator on public and international affairs</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1946v03/persons#p_LW1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>columnist</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v04/persons#p_LW1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>newspaper columnist</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v01/persons#p_LW1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>journalist and author</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v02/persons#p_LWS1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v03/persons#p_LWS1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>author and journalist</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v04/persons#p_LW1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v05/persons#p_LW1</source-url>
+        </remark>
+    </remarks>
+</person>

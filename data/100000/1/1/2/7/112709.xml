@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>112709</id>
+    <authorities>
+        <authority service="viaf">35252197</authority>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Soeharto</name>
+        </preferred>
+        <alternates/>
+        <originals variants="5">
+            <original source-urls="1">
+                <name>Suharto, General</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v26/persons#p_Suharto1</source-url>
+            </original>
+            <original source-urls="8">
+                <name>Suharto</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v06/persons#p_Suharto1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v17/persons#p_S1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v20/persons#p_Suharto1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v27/persons#p_Suharto_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v38p1/persons#p_S_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v38p2/persons#p_S_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve12/persons#p_suharto</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve13/persons#p_Suharto1</source-url>
+            </original>
+            <original source-urls="2">
+                <name>Suharto, Mohammed</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v18/persons#p_SM3</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v13/persons#p_SM_1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>President Soeharto</name>
+                <source-url>https://history.state.gov/departmenthistory/visits/indonesia</source-url>
+            </original>
+            <original source-urls="1">
+                <name>President Suharto</name>
+                <source-url>https://history.state.gov/departmenthistory/visits/indonesia</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="1">
+            <title source-urls="1">
+                <name>General</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v26/persons#p_Suharto1</source-url>
+            </title>
+        </titles-from-name>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="6">
+        <remark source-urls="1">
+            <p>Indonesia Army, Commander of the Indonesian Army's Strategic Reserve Command (KOSTRAD) until October 16, 1965, Chief of Staff of the Indonesia Army and Chairman of Presidium and First Minister of Defense and Security Sector; after March 12, 1967 Acting President of Indonesia</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v26/persons#p_Suharto1</source-url>
+        </remark>
+        <remark source-urls="7">
+            <p>President of Indonesia</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v06/persons#p_Suharto1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v17/persons#p_S1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v18/persons#p_SM3</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v20/persons#p_Suharto1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v27/persons#p_Suharto_1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v38p2/persons#p_S_1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve13/persons#p_Suharto1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Indonesian President</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v38p1/persons#p_S_1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve12/persons#p_suharto</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Acting President of Indonesia from 1967 until 1968; President of Indonesia from 1968 until 1998</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v13/persons#p_SM_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>President, Indonesia. Visited U.S. 4 times, 1970–1995</p>
+            <source-url>https://history.state.gov/departmenthistory/visits/indonesia</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>President, Indonesia. Visited U.S. 2 times, 1975–1982</p>
+            <source-url>https://history.state.gov/departmenthistory/visits/indonesia</source-url>
+        </remark>
+    </remarks>
+</person>

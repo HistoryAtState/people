@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>113302</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Taft, William Howard</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="1">
+                <name>Taft, William Howard</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1916Supp/persons#p_TWH1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>William Howard Taft</name>
+                <source-url>https://history.state.gov/cms/apps/presidents/data/presidents.xml#taft-william-howard</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1857</birth-year>
+    <death-year>1930</death-year>
+    <remarks variants="2">
+        <remark source-urls="1">
+            <p>Ex-President of the United States; chairman of the Central Committee of the American Red Cross.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1916Supp/persons#p_TWH1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>President of the United States, from March 4, 1909 until March 4, 1913</p>
+            <source-url>https://history.state.gov/cms/apps/presidents/data/presidents.xml#taft-william-howard</source-url>
+        </remark>
+    </remarks>
+</person>

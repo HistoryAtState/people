@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>116241</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Vlasov, Andrey Andreyevich</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="1">
+                <name>Vlasov, Lieutenant General Andrey Andreyevich</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv02/persons#p_VLGAA1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="1">
+            <title source-urls="1">
+                <name>Lieutenant General</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv02/persons#p_VLGAA1</source-url>
+            </title>
+        </titles-from-name>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="1">
+        <remark source-urls="1">
+            <p>organizer of the “Russian Army of Liberation” (an anti-Soviet military force under German auspices).</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv02/persons#p_VLGAA1</source-url>
+        </remark>
+    </remarks>
+</person>

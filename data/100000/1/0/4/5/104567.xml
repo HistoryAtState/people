@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>104567</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Freymond, Jacques</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="4">
+                <name>Freymond, Jacques</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve01/persons#p_FJ2</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve05p1/persons#p_FJ2</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve05p2/persons#p_FJ3</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve06/persons#p_FJ2</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="2">
+        <remark source-urls="1">
+            <p>Vice President, International Committee of the Red Cross, 1965–1971; acting President, February–June 1969</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve01/persons#p_FJ2</source-url>
+        </remark>
+        <remark source-urls="3">
+            <p>Vice President of the International Committee of the Red Cross from April 1969</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve05p1/persons#p_FJ2</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve05p2/persons#p_FJ3</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve06/persons#p_FJ2</source-url>
+        </remark>
+    </remarks>
+</person>

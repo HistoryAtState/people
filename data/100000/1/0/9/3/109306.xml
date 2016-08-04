@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>109306</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Montgomery, Bernard Law</name>
+        </preferred>
+        <alternates/>
+        <originals variants="7">
+            <original source-urls="1">
+                <name>Montgomery, Sir Bernard</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1943CairoTehran/persons#p_MSB1</source-url>
+            </original>
+            <original source-urls="2">
+                <name>Montgomery, Field Marshal Sir Bernard</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv01/persons#p_MFMSB1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945Malta/persons#p_M10</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Montgomery, Bernard Law</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv02/persons#p_MFMSB1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Montgomery, Field-Marshal Bernard Law</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1947v02/persons#p_M1</source-url>
+            </original>
+            <original source-urls="2">
+                <name>Montgomery of Alamein, Field Marshal Viscount (Bernard L. Montgomery)</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v03p1/persons#p_MAFMVBLM1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v03p2/persons#p_MAFMVBLM1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Montgomery of Alamein, Field Marshal Bernard L.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v08/persons#p_MAFLBL1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Montgomery, Field Marshal Bernard Law (Viscount Montgomery of Alamein)</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v24/persons#p_MFMBLVMA1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="5">
+            <title source-urls="1">
+                <name>Sir</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1943CairoTehran/persons#p_MSB1</source-url>
+            </title>
+            <title source-urls="2">
+                <name>Field Marshal Sir</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv01/persons#p_MFMSB1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945Malta/persons#p_M10</source-url>
+            </title>
+            <title source-urls="1">
+                <name>Field-Marshal</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1947v02/persons#p_M1</source-url>
+            </title>
+            <title source-urls="3">
+                <name>Field Marshal Viscount</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v03p1/persons#p_MAFMVBLM1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v03p2/persons#p_MAFMVBLM1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v24/persons#p_MFMBLVMA1</source-url>
+            </title>
+            <title source-urls="1">
+                <name>Field Marshal</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v08/persons#p_MAFLBL1</source-url>
+            </title>
+        </titles-from-name>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="7">
+        <remark source-urls="1">
+            <p>General, Commanding Officer of the British Eighth Army.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1943CairoTehran/persons#p_MSB1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Commander in Chief, British Forces of Occupation in Germany.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv01/persons#p_MFMSB1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv02/persons#p_MFMSB1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Commander in Chief, British Twenty-first Army Group.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1945Malta/persons#p_M10</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Chief of Staff of British Forces of Occupation in Germany and Military Governor, 1945–1946; Chief of the Imperial General Staff from 1946</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1947v02/persons#p_M1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Chairman, Commanders in Chief Committee, Western Union Defense Organization, from March 1951; Deputy Supreme Allied Commander Europe.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1951v03p1/persons#p_MAFMVBLM1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1951v03p2/persons#p_MAFMVBLM1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Viscount, Deputy Supreme Allied Commander in Europe.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v08/persons#p_MAFLBL1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Deputy Supreme Commander, Allied Powers, Europe</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v24/persons#p_MFMBLVMA1</source-url>
+        </remark>
+    </remarks>
+</person>

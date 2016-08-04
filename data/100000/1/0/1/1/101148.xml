@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>101148</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Ben Bella, Ahmed</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="2">
+                <name>Ben Bella, Mohammed</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v17/persons#p_BBA1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v18/persons#p_BBA1</source-url>
+            </original>
+            <original source-urls="4">
+                <name>Ben Bella, Ahmed</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v21/persons#p_BBA1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v23/persons#p_BBA_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v24/persons#p_BBA1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v29/persons#p_BBA1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="5">
+        <remark source-urls="2">
+            <p>Algerian nationalist leader</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v17/persons#p_BBA1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v18/persons#p_BBA1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>President and Prime Minister of Algeria</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v21/persons#p_BBA1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>President and Prime Minister of Algeria until June 1965; concurrently Minister of the Interior, From December 1964 until June 1965</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v23/persons#p_BBA_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>President and Prime Minister of Algeria until June 1965; concurrently Minister of the Interior, December 1964–June 1965; overthrown by a military coup and imprisoned in June 1965</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v24/persons#p_BBA1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>former President of Algeria</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v29/persons#p_BBA1</source-url>
+        </remark>
+    </remarks>
+</person>

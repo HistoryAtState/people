@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>104570</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Fried, Edward R.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="5">
+                <name>Fried, Edward R.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v08/persons#p_FER1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v09/persons#p_FER1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v15/persons#p_FER1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v34/persons#p_FER1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v37/persons#p_FER_1</source-url>
+            </original>
+            <original source-urls="2">
+                <name>Fried, Edward</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v12/persons#p_FE1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v03/persons#p_FE_1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="7">
+        <remark source-urls="1">
+            <p>Member, Policy Planning Council, Department of State, until October 24, 1965; Deputy Assistant Secretary of State for International Resources, Bureau of Economic Affairs, October 24, 1965–August 15, 1967; thereafter, Staff Member, National Security Council</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v08/persons#p_FER1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>member, Policy Planning Council, Department of State, until October 24, 1965; Deputy Assistant Secretary of State for International Resource, Bureau of Economic Affairs, October 24, 1965–August 15, 1967; thereafter, staff member, National Security Council</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v09/persons#p_FER1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>senior member, National Security Council staff</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v12/persons#p_FE1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>member of the Policy Planning Council, Department of State, until October 24, 1965; Deputy Assistant Secretary of State for International Resources, Bureau of Economic Affairs, October 24, 1965–August 15, 1967; thereafter member of the National Security Council staff</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v15/persons#p_FER1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Member, Policy Planning Council, Department of State, until October 24, 1965; Deputy Assistant Secretary of State for International Resources, Bureau of Economic Affairs, October 24, 1965–August 15, 1967; thereafter member, National Security Council Staff</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v34/persons#p_FER1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>White House Consultant on International Energy; U.S. Executive Director, International Bank for Reconstruction and Development, from 1977 until 1979</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v37/persons#p_FER_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>U.S. Director, International Bank for Reconstruction and Development</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v03/persons#p_FE_1</source-url>
+        </remark>
+    </remarks>
+</person>

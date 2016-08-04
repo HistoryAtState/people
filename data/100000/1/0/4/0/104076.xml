@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>104076</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Evans, John W.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="3">
+                <name>Evans, John W.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v04/persons#p_EJW1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v09p1/persons#p_EJW1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v09p2/persons#p_EJW1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="2">
+        <remark source-urls="1">
+            <p>Deputy Director, Office of International Materials Policy, Department of State, from November 21, 1951; Director from August 4, 1952; Acting Director, Office of Economic Defense and Trade Policy, from May 1, 1954.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v04/persons#p_EJW1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Deputy Director, Office of International Materials Policy, Bureau of Economic Affairs, Department of State, until August 4, 1952; Director, August 4, 1952–May 1, 1954; Acting Director, Office of Economic Defense and Trade Policy, May 1–September 10, 1954; thereafter Director of Commercial Policy, General Agreement on Tariffs and Trade Secretariat.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v09p1/persons#p_EJW1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v09p2/persons#p_EJW1</source-url>
+        </remark>
+    </remarks>
+</person>

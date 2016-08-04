@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>113825</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Turnage, William V.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="5">
+                <name>Turnage, William V.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v08/persons#p_TWV1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v09/persons#p_TWV1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v05/persons#p_TWV1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v15/persons#p_TWV1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v12/persons#p_TWV1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="5">
+        <remark source-urls="1">
+            <p>Deputy Director of the Office of Financial and Development Policy, Department of State</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v08/persons#p_TWV1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Deputy Director, Office of International Financial and Development Affairs, Bureau of Economic Affairs, Department of State</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v09/persons#p_TWV1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Deputy Director, Office of International Finance and Development, Department of State, until October 1959; Acting Director, October 1959–February 1960; Special Assistant to the Assistant Secretary of State for Economic Affairs from November 1959</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v05/persons#p_TWV1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Acting Director, Office of International Finance and Development Affairs, Bureau of Economic Affairs, Department of State, October 1959–February 1960; Special Assistant to the Assistant Secretary of State for Economic Affairs from November 1959</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v15/persons#p_TWV1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Director, Office of Inter-American Regional Economic Affairs, Bureau of Inter-American Affairs, from June 11, 1961</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v12/persons#p_TWV1</source-url>
+        </remark>
+    </remarks>
+</person>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>101513</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Bolton, John R.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="1">
+                <name>Bolton, John R.</name>
+                <source-url>https://history.state.gov/departmenthistory/people/bolton-john-r</source-url>
+            </original>
+            <original source-urls="1">
+                <name>John Robert Bolton</name>
+                <source-url>https://history.state.gov/departmenthistory/people/bolton-john-r</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1948</birth-year>
+    <death-year/>
+    <remarks variants="1">
+        <remark source-urls="1">
+            <p>Non-career appointee. Under Secretary of State for Arms Control and International Security Affairs; Assistant Secretary of State for International Organization Affairs; Representative of the U.S.A. to the United Nations.</p>
+            <source-url>https://history.state.gov/departmenthistory/people/bolton-john-r</source-url>
+        </remark>
+    </remarks>
+</person>

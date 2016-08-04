@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>100659</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Atiqi, Abdul Rahman al-</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="2">
+                <name>al-Atiqi (al-Ateeqy), Abdul Rahman</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v17/persons#p_alAAR1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v18/persons#p_alAAR1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Atiqi, Abdul Rahman al-</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v25/persons#p_AAR_1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>al-Atiqi (Atiiqi, Ateegi), Abdul Rahman</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v36/persons#p_AAAAR1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="3">
+        <remark source-urls="1">
+            <p>Kuwaiti Ambassador to the United States, June–December 1962</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v17/persons#p_alAAR1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Kuwaiti Ambassador to the United States, June-December 1962</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v18/persons#p_alAAR1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Kuwaiti Minister of Oil and Finance</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v25/persons#p_AAR_1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v36/persons#p_AAAAR1</source-url>
+        </remark>
+    </remarks>
+</person>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>113799</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Tuch, Hans N.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="2">
+                <name>Tuch, Hans N.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v25/persons#p_THN1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v30/persons#p_THN_1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Tuch, Hans</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v17/persons#p_TH1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="3">
+        <remark source-urls="1">
+            <p>Deputy Assistant Director (Soviet Union and Eastern Europe), United States Information Agency, 1963</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v25/persons#p_THN1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Deputy Chief of Mission in the Embassy in Bulgaria, July 1965–July 1967</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v17/persons#p_TH1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Deputy Assistant Director, Office of Assistant Director, Broadcasting Service, United States Information Agency until 1978; Deputy Associate Director, Associate Directorate for Broadcasting, U.S. International Communication Agency, from 1978; acting Associate Director (VOA), from 1980</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v30/persons#p_THN_1</source-url>
+        </remark>
+    </remarks>
+</person>

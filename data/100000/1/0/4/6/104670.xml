@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>104670</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Gallman, Waldemar John</name>
+        </preferred>
+        <alternates/>
+        <originals variants="4">
+            <original source-urls="2">
+                <name>Gallman, Waldemar John</name>
+                <source-url>https://history.state.gov/departmenthistory/people/gallman-waldemar-john</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v05/persons#p_FWJ1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Waldemar J. Gallman</name>
+                <source-url>https://history.state.gov/departmenthistory/people/gallman-waldemar-john</source-url>
+            </original>
+            <original source-urls="11">
+                <name>Gallman, Waldemar J.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945Malta/persons#p_GWJ1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1948v02/persons#p_GWJ1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1949v03/persons#p_GWJ1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v09p1/persons#p_GWJ1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v09p2/persons#p_GWJ1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v11p1/persons#p_GWJ1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v11p2/persons#p_GWJ1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v12/persons#p_GWJ1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v13/persons#p_GWJ1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v11/persons#p_GWJ2</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v12/persons#p_GWJ2</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Gallman, Waldemar</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1947v02/persons#p_GW1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1899</birth-year>
+    <death-year>1980</death-year>
+    <remarks variants="9">
+        <remark source-urls="1">
+            <p>Foreign Service Officer. Director General of the Foreign Service; Ambassador Extraordinary and Plenipotentiary (South Africa); Ambassador Extraordinary and Plenipotentiary (Poland); Ambassador Extraordinary and Plenipotentiary (Iraq).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/gallman-waldemar-john</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Counselor, American Embassy, London.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1945Malta/persons#p_GWJ1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Minister Counselor of the United States Embassy in the United Kingdom</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1947v02/persons#p_GW1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Counselor of the United States Embassy in the United Kingdom, until July 1948; from July 1948, Ambassador in Poland</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1948v02/persons#p_GWJ1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>United States Ambassador in Poland.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1949v03/persons#p_GWJ1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Ambassador in the Union of South Africa, from October 18, 1951.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1951v05/persons#p_FWJ1</source-url>
+        </remark>
+        <remark source-urls="4">
+            <p>Ambassador to the Union of South Africa until August 15, 1954; Ambassador to Iraq from November 3, 1954.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v09p1/persons#p_GWJ1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v09p2/persons#p_GWJ1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v11p1/persons#p_GWJ1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v11p2/persons#p_GWJ1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Ambassador to Iraq</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v12/persons#p_GWJ1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v13/persons#p_GWJ1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Ambassador to Iraq until December 14, 1958</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v11/persons#p_GWJ2</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v12/persons#p_GWJ2</source-url>
+        </remark>
+    </remarks>
+</person>

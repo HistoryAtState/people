@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>104772</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Gavin, James Maurice</name>
+        </preferred>
+        <alternates/>
+        <originals variants="4">
+            <original source-urls="3">
+                <name>Gavin, James M.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v13/persons#p_GJM1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v14/persons#p_GJM2</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v15/persons#p_GJM2</source-url>
+            </original>
+            <original source-urls="2">
+                <name>Gavin, Lieutenant General James M.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v04/persons#p_GLGJM1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v05/persons#p_GLGJM1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Gavin, James Maurice</name>
+                <source-url>https://history.state.gov/departmenthistory/people/gavin-james-maurice</source-url>
+            </original>
+            <original source-urls="1">
+                <name>James M. Gavin</name>
+                <source-url>https://history.state.gov/departmenthistory/people/gavin-james-maurice</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="1">
+            <title source-urls="2">
+                <name>Lieutenant General</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v04/persons#p_GLGJM1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v05/persons#p_GLGJM1</source-url>
+            </title>
+        </titles-from-name>
+    </names>
+    <birth-year>1907</birth-year>
+    <death-year>1990</death-year>
+    <remarks variants="6">
+        <remark source-urls="1">
+            <p>Ambassador to France, March 1961–September 1962</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v13/persons#p_GJM1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Ambassador to France from March 1961</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v14/persons#p_GJM2</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Ambassador to France until September 1962</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v15/persons#p_GJM2</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>USA, Ret., author of War and Peace in the Space Age and former Ambassador to France</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v04/persons#p_GLGJM1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>USA (ret.), former Ambassador to France</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v05/persons#p_GLGJM1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Non-career appointee. Ambassador Extraordinary and Plenipotentiary (France).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/gavin-james-maurice</source-url>
+        </remark>
+    </remarks>
+</person>

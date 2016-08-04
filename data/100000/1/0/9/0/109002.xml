@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>109002</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Melbourne, Roy M.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="7">
+                <name>Melbourne, Roy M.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv01/persons#p_MRM1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv02/persons#p_MRM1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v10p2/persons#p_MRM1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v24/persons#p_MRM3</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve05p1/persons#p_MRM3</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve05p2/persons#p_MRM1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve06/persons#p_MRM3</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="4">
+        <remark source-urls="2">
+            <p>Acting United States Representative in Rumania.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv01/persons#p_MRM1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv02/persons#p_MRM1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Chargé of the Embassy in Finland</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v10p2/persons#p_MRM1</source-url>
+        </remark>
+        <remark source-urls="3">
+            <p>Country Director for West Africa, Bureau of African Affairs, Department of State, from June 1966</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v24/persons#p_MRM3</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve05p1/persons#p_MRM3</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve06/persons#p_MRM3</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Country Director for West Africa, Bureau of African Affairs, Department of State</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve05p2/persons#p_MRM1</source-url>
+        </remark>
+    </remarks>
+</person>

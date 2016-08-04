@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>102094</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Cale, Edward G.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="3">
+                <name>Cale, Edward G.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v04/persons#p_CEG1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v06/persons#p_CEG1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v07/persons#p_CEG1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="2">
+        <remark source-urls="1">
+            <p>Deputy Director, Office of Middle American Affairs, Department of State, from October 3, 1949; Director, Office of Regional American Affairs, from September 16, 1954 until January 1956.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v04/persons#p_CEG1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Director, Office of Regional American Affairs, Bureau of Inter-American Affairs, Department of State, until June 3, 1956; thereafter, Economic Counselor, Embassy in Argentina</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v06/persons#p_CEG1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v07/persons#p_CEG1</source-url>
+        </remark>
+    </remarks>
+</person>

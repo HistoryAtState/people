@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>114253</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Wang Bingnan</name>
+        </preferred>
+        <alternates>
+            <name>Wang Ping-nan</name>
+        </alternates>
+        <originals variants="4">
+            <original source-urls="3">
+                <name>Wang Ping-Nan</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v14p1/persons#p_WPN1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v14p2/persons#p_WPN1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v16/persons#p_WPN1</source-url>
+            </original>
+            <original source-urls="2">
+                <name>Wang Ping-nan</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v02/persons#p_WP1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v03/persons#p_WP1</source-url>
+            </original>
+            <original source-urls="3">
+                <name>Wang Ping-nan (Wang Bingnan)</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v19/persons#p_WPWB1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v22/persons#p_WPWB1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v30/persons#p_WPWB1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Wang Peng Nan (Wang Ping-nan)</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v24/persons#p_WPNWP1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="8">
+        <remark source-urls="2">
+            <p>Director of the Foreign Ministry Staff Office, People’s Republic of China, 1952–1954; Secretary General of the People’s Republic of China Delegation at the Geneva Conference, 1954; Assistant Minister of Foreign Affairs from October 1954.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v14p1/persons#p_WPN1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v14p2/persons#p_WPN1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Director of the Staff Office of the Ministry of Foreign Affairs, People’s Republic of China; Secretary General of the People’s Republic of China Delegation at the Geneva Conference.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v16/persons#p_WPN1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Assistant Minister of Foreign Affairs of the People’s Republic of China to March 1955; thereafter, Ambassador of Poland; representative of the People’s Republic of China in ambassadorial talks with the United States from August 1955</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v02/persons#p_WP1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Assistant Minister of Foreign Affairs of the People’s Republic of China to March 1955; thereafter, Ambassador to Poland; representative of the People’s Republic of China in ambassadorial talks with the United States from August 1955</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v03/persons#p_WP1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Ambassador of the People’s Republic of China to Poland, 1958–1960; Representative of the People’s Republic of China in Ambassadorial talks with the United States from September 1958</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v19/persons#p_WPWB1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Ambassador from the People's Republic of China to Poland</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v22/persons#p_WPWB1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>People's Republic of China Ambassador to Poland and Chinese Delegate to the Geneva Conference</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v24/persons#p_WPNWP1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Ambassador of the People's Republic of China to Poland; representative of the People's Republic of China in ambassadorial talks with the United States until April 1964</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v30/persons#p_WPWB1</source-url>
+        </remark>
+    </remarks>
+</person>

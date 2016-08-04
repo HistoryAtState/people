@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>111126</id>
+    <authorities>
+        <authority service="viaf">18567753</authority>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Ramgoolam, Seewoosagur</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="1">
+                <name>Prime Minister Seewoosagur Ramgoolam</name>
+                <source-url>https://history.state.gov/departmenthistory/visits/mauritius</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="1">
+        <remark source-urls="1">
+            <p>Prime Minister, Mauritius. Visited U.S. 5 times, 1968–1981</p>
+            <source-url>https://history.state.gov/departmenthistory/visits/mauritius</source-url>
+        </remark>
+    </remarks>
+</person>

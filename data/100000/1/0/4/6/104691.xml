@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>104691</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Gantz, David A.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="4">
+                <name>Gantz, David A.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v21/persons#p_GDA_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve11p1/persons#p_GD_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve11p2/persons#p_GD_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve16/persons#p_GDA_1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="4">
+        <remark source-urls="1">
+            <p>Staff Member of the Office of the Assistant Legal Adviser for Inter-American Affairs, Department of State, from 1970</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v21/persons#p_GDA_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Assistant Legal Advisor for Inter-American Affairs from February 1973; Assistant Legal Advisor for European Affairs from July 1976</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve11p1/persons#p_GD_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Assistant Legal Adviser for Inter-American Affairs from February 1973; Assistant Legal Adviser for European Affairs from July 1976</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve11p2/persons#p_GD_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>member, Office of the Assistant Legal Adviser staff for Inter-American Affairs, Department of State from 1970</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve16/persons#p_GDA_1</source-url>
+        </remark>
+    </remarks>
+</person>

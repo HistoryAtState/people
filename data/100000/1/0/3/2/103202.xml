@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>103202</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Davis, Monnett Bain</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="2">
+                <name>Davis, Monnett Bain</name>
+                <source-url>https://history.state.gov/departmenthistory/people/davis-monnett-bain</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v05/persons#p_DMB1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Monnett B. Davis</name>
+                <source-url>https://history.state.gov/departmenthistory/people/davis-monnett-bain</source-url>
+            </original>
+            <original source-urls="2">
+                <name>Davis, Monnett B.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v09p1/persons#p_DMB1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v09p2/persons#p_DMB1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1893</birth-year>
+    <death-year>1953</death-year>
+    <remarks variants="3">
+        <remark source-urls="1">
+            <p>Foreign Service Officer. Ambassador Extraordinary and Plenipotentiary (Panama); Ambassador Extraordinary and Plenipotentiary (Israel); Envoy Extraordinary and Minister Plenipotentiary (Denmark).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/davis-monnett-bain</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Ambassador to Israel, from February 26, 1951.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1951v05/persons#p_DMB1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Ambassador to Israel until December 26, 1953.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v09p1/persons#p_DMB1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v09p2/persons#p_DMB1</source-url>
+        </remark>
+    </remarks>
+</person>

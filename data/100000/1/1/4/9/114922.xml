@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>114922</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Ylitalo, John Raymond</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="1">
+                <name>Ylitalo, J. Raymond</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve10/persons#p_YJR1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Ylitalo, John Raymond</name>
+                <source-url>https://history.state.gov/departmenthistory/people/ylitalo-john-raymond</source-url>
+            </original>
+            <original source-urls="1">
+                <name>J. Raymond Ylitalo</name>
+                <source-url>https://history.state.gov/departmenthistory/people/ylitalo-john-raymond</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1916</birth-year>
+    <death-year>1987</death-year>
+    <remarks variants="2">
+        <remark source-urls="1">
+            <p>U.S. Ambassador to Paraguay from August 1969</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve10/persons#p_YJR1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Foreign Service Officer. Ambassador Extraordinary and Plenipotentiary (Paraguay).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/ylitalo-john-raymond</source-url>
+        </remark>
+    </remarks>
+</person>

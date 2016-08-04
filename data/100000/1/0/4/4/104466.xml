@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>104466</id>
+    <authorities>
+        <authority service="viaf">18702971</authority>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Fournier, Rafael Angel Calderon</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="1">
+                <name>President Rafael Angel Calderon Fournier</name>
+                <source-url>https://history.state.gov/departmenthistory/visits/costa-rica</source-url>
+            </original>
+            <original source-urls="1">
+                <name>President-elect Rafael Angel Calderon Fournier</name>
+                <source-url>https://history.state.gov/departmenthistory/visits/costa-rica</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="2">
+        <remark source-urls="1">
+            <p>President, Costa Rica. Visited U.S. 2 times, 1991–1993</p>
+            <source-url>https://history.state.gov/departmenthistory/visits/costa-rica</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>President-elect, Costa Rica. Visited U.S. once, 1990</p>
+            <source-url>https://history.state.gov/departmenthistory/visits/costa-rica</source-url>
+        </remark>
+    </remarks>
+</person>

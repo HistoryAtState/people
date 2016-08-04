@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>111376</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Ridgway, Rozanne Lejeanne</name>
+        </preferred>
+        <alternates/>
+        <originals variants="4">
+            <original source-urls="3">
+                <name>Ridgway, Rozanne Lejeanne</name>
+                <source-url>https://history.state.gov/departmenthistory/people/ridgway-rozanne-lejeanne</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v20/persons#p_RRL_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v26/persons#p_RR_1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Rozanne L. Ridgway</name>
+                <source-url>https://history.state.gov/departmenthistory/people/ridgway-rozanne-lejeanne</source-url>
+            </original>
+            <original source-urls="2">
+                <name>Ridgway, Rozanne</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v06/persons#p_RR1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v07/persons#p_RR1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Ridgway, Rozanne L.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve10/persons#p_RRL1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1935</birth-year>
+    <death-year/>
+    <remarks variants="6">
+        <remark source-urls="1">
+            <p>Foreign Service Officer. Counselor; Assistant Secretary of State for European and Eurasian Affairs; Ambassador Extraordinary and Plenipotentiary (German Democratic Republic); Ambassador Extraordinary and Plenipotentiary (Finland).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/ridgway-rozanne-lejeanne</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Political Officer of the Embassy in Oslo</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v06/persons#p_RR1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Political Officer, Embassy in Oslo, Norway</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v07/persons#p_RR1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Political Officer, U.S. Embassy in Oslo from January 1969 until June 1970; Department International Relations Officer from June of 1970 until May 1971; Office of Ecuador and Peru, Bureau of Inter-American Affairs from May 1971</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve10/persons#p_RRL1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Counselor of the Department of State from March 20, 1980, until February 24, 1981</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v20/persons#p_RRL_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>U.S. Ambassador to Finland from 1977 until 1980</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v26/persons#p_RR_1</source-url>
+        </remark>
+    </remarks>
+</person>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>112099</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Schreiber, Phyllis</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="1">
+                <name>Schreiber, Mrs. Phyllis (Barchard)</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945Malta/persons#p_S4</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="1">
+            <title source-urls="1">
+                <name>Mrs.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945Malta/persons#p_S4</source-url>
+            </title>
+        </titles-from-name>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="1">
+        <remark source-urls="1">
+            <p>wife of Lieutenant General Schreiber.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1945Malta/persons#p_S4</source-url>
+        </remark>
+    </remarks>
+</person>

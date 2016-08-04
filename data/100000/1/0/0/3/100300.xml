@@ -1,0 +1,245 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>100300</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Allen, George Venable</name>
+        </preferred>
+        <alternates/>
+        <originals variants="6">
+            <original source-urls="2">
+                <name>Allen, George Venable</name>
+                <source-url>https://history.state.gov/departmenthistory/people/allen-george-venable</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv02/persons#p_AGV1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>George V. Allen</name>
+                <source-url>https://history.state.gov/departmenthistory/people/allen-george-venable</source-url>
+            </original>
+            <original source-urls="48">
+                <name>Allen, George V.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1943CairoTehran/persons#p_AGV1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945-50Intel/persons#p_AGV1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv01/persons#p_AGV1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945Malta/persons#p_AGV1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1947v02/persons#p_AGV1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1949v03/persons#p_AGV1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1950-55Intel/persons#p_AGV1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v04p1/persons#p_AGV1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v04p2/persons#p_AGV1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v08/persons#p_AGV1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v09p1/persons#p_AGV1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v09p2/persons#p_AGV1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v11p1/persons#p_AGV1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v11p2/persons#p_AGV1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v13p1/persons#p_AGV1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v13p2/persons#p_AGV1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v14p1/persons#p_AGV1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v14p2/persons#p_AGV1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v15p1/persons#p_AGV1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v15p2/persons#p_AGV1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v02/persons#p_AGV1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v03/persons#p_AGV1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v08/persons#p_AGV1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v10/persons#p_AGV1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v11/persons#p_AGV1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v12/persons#p_AGV1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v13/persons#p_AGV1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v14/persons#p_AGV1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v15/persons#p_AGV1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v16/persons#p_AGV1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v18/persons#p_AGV1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v21/persons#p_AGV1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v23p1/persons#p_AGV1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v24/persons#p_AGV1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v27/persons#p_AGV1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v02/persons#p_AGV1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v03/persons#p_AGV1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v05/persons#p_AGV1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v06/persons#p_AGV1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v10p1/persons#p_AGV1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v10p2/persons#p_AGV1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v11/persons#p_AGV1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v13/persons#p_AGV1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v14/persons#p_AGV1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v15/persons#p_AGV1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v17/persons#p_AGV1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v18/persons#p_AGV1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v19/persons#p_AGV1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Allen, George B.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v09/persons#p_AGB1</source-url>
+            </original>
+            <original source-urls="3">
+                <name>Allen, George</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v08/persons#p_AG1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v09/persons#p_AG1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v06/persons#p_AG2</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Allen</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v12/persons#p_AGV1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1903</birth-year>
+    <death-year>1970</death-year>
+    <remarks variants="32">
+        <remark source-urls="1">
+            <p>Foreign Service Officer. Director of the U.S. Information Agency; Director of the Foreign Service Institute; Career Ambassador; Assistant Secretary of State for Public Affairs; Assistant Secretary of State for Near Eastern Affairs; Ambassador Extraordinary and Plenipotentiary (socialist-federalist-republic-of-yugoslavia); Ambassador Extraordinary and Plenipotentiary (Nepal); Ambassador Extraordinary and Plenipotentiary (Iran); Ambassador Extraordinary and Plenipotentiary (India); Ambassador Extraordinary and Plenipotentiary (Greece).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/allen-george-venable</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Assistant Chief, Division of Near Eastern Affairs, Department of State; member of the American Delegation to the Moscow Conference of Foreign Ministers, October 19–30, 1943.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1943CairoTehran/persons#p_AGV1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Assistant Secretary of State for Public Affairs, March 31, 1948-November 28, 1949</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1945-50Intel/persons#p_AGV1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Deputy Director, Office of Near Eastern and African Affairs, Department of State.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv01/persons#p_AGV1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv02/persons#p_AGV1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Chief, Division of Middle Eastern Affairs, and Executive Officer, Office of Near Eastern and African Affairs, Department of State.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1945Malta/persons#p_AGV1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>United States Ambassador in Iran</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1947v02/persons#p_AGV1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Assistant Secretary of State for Public Affairs.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1949v03/persons#p_AGV1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Assistant Secretary of State for Public Affairs from March 31, 1948 to November 28, 1949; Assistant Secretary of State for Near Eastern, South Asian and African Affairs from January 24, 1955 to November 1957; Director of the United States Information Agency from November 15, 1957 to 1960</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1950-55Intel/persons#p_AGV1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Ambassador to Yugoslavia</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1951v04p1/persons#p_AGV1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1951v04p2/persons#p_AGV1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Ambassador to Yugoslavia, January 25, 1950–March 11, 1953.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v08/persons#p_AGV1</source-url>
+        </remark>
+        <remark source-urls="4">
+            <p>Ambassador to Yugoslavia until March 11, 1953; Ambassador to India and Nepal, May 4, 1953–November 30, 1954.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v09p1/persons#p_AGV1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v09p2/persons#p_AGV1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v11p1/persons#p_AGV1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v11p2/persons#p_AGV1</source-url>
+        </remark>
+        <remark source-urls="4">
+            <p>Ambassador in Yugoslavia to March 11, 1953; Ambassador in India from May 4, 1953.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v13p1/persons#p_AGV1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v13p2/persons#p_AGV1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v15p1/persons#p_AGV1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v15p2/persons#p_AGV1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Ambassador in India, May 1953–November 1954.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v14p1/persons#p_AGV1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v14p2/persons#p_AGV1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Assistant Secretary of State for Near Eastern, South Asian, and African Affairs to August 1957; thereafter Ambassador to Greece</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v02/persons#p_AGV1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v03/persons#p_AGV1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Assistant Secretary of State for Near Eastern, South Asian, and African Affairs to July 1956</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v08/persons#p_AGV1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Assistant Secretary of State for Near Eastern, South Asian, and African Affairs, January 24, 1955–July 26, 1956; Ambassador to Greece, October 12, 1956–November 13, 1957; appointed Director, United States Information Agency, November 1, 1957</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v09/persons#p_AGB1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Assistant Secretary of State for Near Eastern, South Asian, and African Affairs, January 24, 1955–July 26, 1956; Ambassador to Greece, October 12, 1956–November 13, 1957; appointed Director, United States Information Agency, November 15, 1957</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v10/persons#p_AGV1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Assistant Secretary of State for Near Eastern, South Asian, and African Affairs, January 24, 1955–July 26, 1956; Ambassador to Greece, October 12, 1956–November 13, 1957; appointed Director of the United States Information Agency, November 15, 1957</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v11/persons#p_AGV1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Assistant Secretary of State for Near Eastern, South Asian, and African Affairs, January 24, 1955–July 26, 1956; Ambassador to Greece, October 12, 1956–November 13, 1957; Director of the United States Information Agency from November 15, 1957</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v12/persons#p_AGV1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Assistant Secretary of State for Near Eastern, South Asian, and African Affairs, January 24, 1955–July 26, 1956</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v13/persons#p_AGV1</source-url>
+        </remark>
+        <remark source-urls="3">
+            <p>Assistant Secretary of State for Near Eastern, South Asian, and African Affairs, January 24, 1955–July 26, 1956; Ambassador to Greece, October 12, 1956–November 13, 1957; Director, United States Information Agency, from November 15, 1957</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v14/persons#p_AGV1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v15/persons#p_AGV1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v16/persons#p_AGV1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Assistant Secretary of State for Near Eastern, South Asian, and African Affairs, January 1955–August 1956; Ambassador to Greece, October 1956–November 1957; Director of the U.S. Information Agency from November 1957</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v18/persons#p_AGV1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Assistant Secretary of State for Near Eastern, South Asian, and African Affairs to August 1956; thereafter Ambassador to Greece</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v21/persons#p_AGV1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Assistant Secretary of State for Near Eastern, South Asian, and African Affairs to August 1957</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v23p1/persons#p_AGV1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Assistant Secretary of State for Near Eastern, South Asian, and African Affairs until July 1956; Ambassador to Greece, October 1956–November 1957; thereafter Director, U.S. Information Agency</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v24/persons#p_AGV1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Assistant Secretary of State for Near Eastern, South Asian, and African Affairs, January 1955–August 1956; Ambassador to Greece, October 1956–November 1957; Director of the U.S. Information Agency, from November 1957</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v27/persons#p_AGV1</source-url>
+        </remark>
+        <remark source-urls="7">
+            <p>Director, United States Information Agency</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v02/persons#p_AGV1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v10p1/persons#p_AGV1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v10p2/persons#p_AGV1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v13/persons#p_AGV1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v14/persons#p_AGV1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v15/persons#p_AGV1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v18/persons#p_AGV1</source-url>
+        </remark>
+        <remark source-urls="6">
+            <p>Director of the United States Information Agency</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v03/persons#p_AGV1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v05/persons#p_AGV1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v08/persons#p_AG1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v09/persons#p_AG1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v11/persons#p_AGV1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v19/persons#p_AGV1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Director, United States Information Agency Amoedo, Julio, Argentine Ambassador to Cuba</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v06/persons#p_AGV1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>George V., Director, United States Information Agency</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v12/persons#p_AGV1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Director, U.S. Information Agency</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v17/persons#p_AGV1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Deputy Special Assistant for Vietnamese Affairs, Central Intelligence Agency</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v06/persons#p_AG2</source-url>
+        </remark>
+    </remarks>
+</person>

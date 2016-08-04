@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>100562</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Arif, Mohammad Rafiq</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="1">
+                <name>Arif, General Rafiq</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v12/persons#p_AGR1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Arif, Mohammad Rafiq</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v12/persons#p_AMR2</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="1">
+            <title source-urls="1">
+                <name>General</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v12/persons#p_AGR1</source-url>
+            </title>
+        </titles-from-name>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="2">
+        <remark source-urls="1">
+            <p>Chief of Staff of the Iraqi Armed Forces</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v12/persons#p_AGR1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>General, Iraqi Army; Chief of Staff of the Armed Forces until July 14, 1958</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v12/persons#p_AMR2</source-url>
+        </remark>
+    </remarks>
+</person>

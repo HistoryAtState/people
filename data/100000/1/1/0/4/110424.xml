@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>110424</id>
+    <authorities>
+        <authority service="viaf">25917881</authority>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Pastrana, Andres</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="1">
+                <name>President Andres Pastrana</name>
+                <source-url>https://history.state.gov/departmenthistory/visits/colombia</source-url>
+            </original>
+            <original source-urls="1">
+                <name>President-elect Andres Pastrana</name>
+                <source-url>https://history.state.gov/departmenthistory/visits/colombia</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="2">
+        <remark source-urls="1">
+            <p>President, Colombia. Visited U.S. 6 times, 1998–2002</p>
+            <source-url>https://history.state.gov/departmenthistory/visits/colombia</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>President-elect, Colombia. Visited U.S. once, 1998</p>
+            <source-url>https://history.state.gov/departmenthistory/visits/colombia</source-url>
+        </remark>
+    </remarks>
+</person>

@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>107951</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Lie, Trygve Halvdan</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="3">
+                <name>Lie, Trygve</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945Malta/persons#p_LT1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945v01/persons#p_LT1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1946v03/persons#p_LT1</source-url>
+            </original>
+            <original source-urls="2">
+                <name>Lie, Trygve Halvdan</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1948v02/persons#p_LTH1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v05/persons#p_LTH2</source-url>
+            </original>
+            <original source-urls="11">
+                <name>Lie, Trygve H.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v03p1/persons#p_LTH1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v03p2/persons#p_LTH1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v04p1/persons#p_LTH1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v04p2/persons#p_LTH1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v02p1/persons#p_LIETH1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v02p2/persons#p_LIETH1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v03/persons#p_LIETH1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v11p1/persons#p_LTH1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v11p2/persons#p_LTH1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v15p1/persons#p_LTH1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v15p2/persons#p_LTH1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="8">
+        <remark source-urls="1">
+            <p>Norwegian Minister of Foreign Affairs.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1945Malta/persons#p_LT1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Norwegian Minister for Foreign Affairs; Chairman of Norwegian Delegation.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1945v01/persons#p_LT1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Secretary-General of the United Nations</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1946v03/persons#p_LT1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1948v02/persons#p_LTH1</source-url>
+        </remark>
+        <remark source-urls="3">
+            <p>Secretary-General of the United Nations.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1951v03p1/persons#p_LTH1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1951v03p2/persons#p_LTH1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1951v05/persons#p_LTH2</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Secretary-General, United Nations</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1951v04p1/persons#p_LTH1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1951v04p2/persons#p_LTH1</source-url>
+        </remark>
+        <remark source-urls="3">
+            <p>Secretary-General of the United Nations until April 10, 1953.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v02p1/persons#p_LIETH1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v02p2/persons#p_LIETH1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v03/persons#p_LIETH1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Secretary-General of the United Nations until April 10, 3953.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v11p1/persons#p_LTH1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v11p2/persons#p_LTH1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Secretary-General of the United Nations to April 10, 1953.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v15p1/persons#p_LTH1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v15p2/persons#p_LTH1</source-url>
+        </remark>
+    </remarks>
+</person>

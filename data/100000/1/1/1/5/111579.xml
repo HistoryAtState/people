@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>111579</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Roosevelt, Franklin D.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="13">
+                <name>Roosevelt, Franklin D.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1915Supp/persons#p_RFD1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1943CairoTehran/persons#p_RFD1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945-50Intel/persons#p_RFD1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv01/persons#p_RFD1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv02/persons#p_RFD1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945Malta/persons#p_RFD1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v08/persons#p_RFD1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v14/persons#p_RFD1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v15/persons#p_RFD_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v16/persons#p_RFD_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v38p1/persons#p_RFD_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v38p2/persons#p_RFD_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v30/persons#p_RFD_1</source-url>
+            </original>
+            <original source-urls="2">
+                <name>Roosevelt, Franklin Delano</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1947v02/persons#p_RFD1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v01/persons#p_RFD_1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Franklin D. Roosevelt</name>
+                <source-url>https://history.state.gov/cms/apps/presidents/data/presidents.xml#roosevelt-franklin-d</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1882</birth-year>
+    <death-year>1945</death-year>
+    <remarks variants="13">
+        <remark source-urls="1">
+            <p>Assistant Secretary of the Navy of the United States.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1915Supp/persons#p_RFD1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>President of the United States, March 4, 1933–April 12, 1945.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1943CairoTehran/persons#p_RFD1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>President of the United States until April 12, 1945</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1945-50Intel/persons#p_RFD1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>President of the United States, 1933–April 12, 1945.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv01/persons#p_RFD1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv02/persons#p_RFD1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>President of the United States and Commander in Chief of the Army and Navy.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1945Malta/persons#p_RFD1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>President of the United States, 1933–1945</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1947v02/persons#p_RFD1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Under Secretary of Commerce until June 1965</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v08/persons#p_RFD1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>former President of the United States (1933–1945)</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v14/persons#p_RFD1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>President of the United States from March 1933 until April 1945</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v15/persons#p_RFD_1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>President of the United States from 1933 until 1945</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v16/persons#p_RFD_1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v01/persons#p_RFD_1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>President of the United States from March 4, 1933, until April 12, 1945</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v38p1/persons#p_RFD_1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v30/persons#p_RFD_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>President of the United States, March 4, 1933–April 12, 1945</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v38p2/persons#p_RFD_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>President of the United States, from March 4, 1933 until April 12, 1945</p>
+            <source-url>https://history.state.gov/cms/apps/presidents/data/presidents.xml#roosevelt-franklin-d</source-url>
+        </remark>
+    </remarks>
+</person>

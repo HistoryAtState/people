@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>100946</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Barrows, Leland Judd</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="4">
+                <name>Barrows, Leland</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v09p1/persons#p_BL1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v09p2/persons#p_BL1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v01/persons#p_BL1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v01/persons#p_BL1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Barrows, Leland Judd</name>
+                <source-url>https://history.state.gov/departmenthistory/people/barrows-leland-judd</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Leland Barrows</name>
+                <source-url>https://history.state.gov/departmenthistory/people/barrows-leland-judd</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1906</birth-year>
+    <death-year>1988</death-year>
+    <remarks variants="4">
+        <remark source-urls="2">
+            <p>Deputy Chief of the Mutual Security Agency Mission in Italy until May 22, 1952; Deputy Chief of the Mutual Security Agency Mission in Greece, May 22–October 1, 1952; Chief of Mission in Greece, October 1, 1952–October 15, 1954; thereafter Chief of Mission in Vietnam.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v09p1/persons#p_BL1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v09p2/persons#p_BL1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Director of the United States Operations Mission in Vietnam</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v01/persons#p_BL1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Director of the United States Operations Mission in Vietnam to December 1958</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v01/persons#p_BL1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Foreign Service Officer. Ambassador Extraordinary and Plenipotentiary (Togo); Ambassador Extraordinary and Plenipotentiary (Cameroon).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/barrows-leland-judd</source-url>
+        </remark>
+    </remarks>
+</person>

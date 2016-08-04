@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>113928</id>
+    <authorities>
+        <authority service="viaf">24146782</authority>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Valencia, Guillermo León</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="1">
+                <name>Valencia, Guillermo León</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v31/persons#p_VGL1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>President-elect Valencia</name>
+                <source-url>https://history.state.gov/departmenthistory/visits/colombia</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="2">
+        <remark source-urls="1">
+            <p>President of Colombia until August 7, 1966</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v31/persons#p_VGL1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>President-elect, Colombia. Visited U.S. once, 1962</p>
+            <source-url>https://history.state.gov/departmenthistory/visits/colombia</source-url>
+        </remark>
+    </remarks>
+</person>

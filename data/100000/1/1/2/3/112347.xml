@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>112347</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Shelest, Petro Y.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="1">
+                <name>Shelest, Petro Y.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v14/persons#p_SPY1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="1">
+        <remark source-urls="1">
+            <p>First Secretary of the Central Committee of the Communist Party of Ukraine until May 21, 1972; then Soviet Deputy Prime Minister; also Member of the Politburo of the Central Committee of the Communist Party of the Soviet Union</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v14/persons#p_SPY1</source-url>
+        </remark>
+    </remarks>
+</person>

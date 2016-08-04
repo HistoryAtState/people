@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>108106</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Loosch, Reinhard</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="1">
+                <name>Loosch, Dr. Reinhard</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve01/persons#p_LDR2</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="1">
+            <title source-urls="1">
+                <name>Dr.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve01/persons#p_LDR2</source-url>
+            </title>
+        </titles-from-name>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="1">
+        <remark source-urls="1">
+            <p>Chief, International Scientific Affairs Section, Ministry of Education and Science, Federal Republic of Germany</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve01/persons#p_LDR2</source-url>
+        </remark>
+    </remarks>
+</person>

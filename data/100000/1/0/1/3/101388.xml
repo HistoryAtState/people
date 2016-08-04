@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>101388</id>
+    <authorities>
+        <authority service="viaf">84213389</authority>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Blair, Tony</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="1">
+                <name>Prime Minister Tony Blair</name>
+                <source-url>https://history.state.gov/departmenthistory/visits/united-kingdom</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="1">
+        <remark source-urls="1">
+            <p>Prime Minister, United Kingdom. Visited U.S. 22 times, 1997–2007</p>
+            <source-url>https://history.state.gov/departmenthistory/visits/united-kingdom</source-url>
+        </remark>
+    </remarks>
+</person>

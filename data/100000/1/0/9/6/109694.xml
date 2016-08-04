@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>109694</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Neidle, Alan F.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="5">
+                <name>Neidle, Alan F.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v02/persons#p_NAF1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve14p1/persons#p_NAF1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve14p2/persons#p_NAF_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v01/persons#p_NAF_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v02/persons#p_NAF_1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Neidle, A.F.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v06/persons#p_NAF1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="5">
+        <remark source-urls="1">
+            <p>Office of the Legal Adviser, Department of State, until 1959; thereafter Office of the Assistant Legal Adviser for Inter-American Affairs, Department of State</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v02/persons#p_NAF1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Office of the Legal Adviser, Department of State</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v06/persons#p_NAF1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Special Assistant Director, Policy Planning and Reports Staff, Bureau of International Organization Affairs, Department of State</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve14p1/persons#p_NAF1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Chief, Political Affairs Division, International Relations Bureau, Arms Control and Disarmament Agency until 1973; Chief, CCD and UN Division, International Relations Bureau from 1973 until 1974; staff member, Policy Planning and Reports Staff, Bureau of International Organization Affairs, Department of State 1974; Special Assistant and Director, Policy Planning and Reports Staff from 1974</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve14p2/persons#p_NAF_1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Director and Special Assistant, Policy Planning and Reports Staff, Bureau of International Organization Affairs, Department of State; thereafter Deputy Assistant Director, Multilateral Affairs Bureau, Arms Control and Disarmament Agency</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v01/persons#p_NAF_1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v02/persons#p_NAF_1</source-url>
+        </remark>
+    </remarks>
+</person>

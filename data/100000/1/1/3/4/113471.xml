@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>113471</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Thanom Kittikachorn</name>
+        </preferred>
+        <alternates/>
+        <originals variants="6">
+            <original source-urls="1">
+                <name>Kittikachorn, Lieutenant General Thanom</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v15/persons#p_KLGT1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Thanon Kittikachorn</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v23/persons#p_TK2</source-url>
+            </original>
+            <original source-urls="6">
+                <name>Thanom Kittikachorn</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v04/persons#p_TK2</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v05/persons#p_TK2</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v27/persons#p_TK2</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v06/persons#p_TK2</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v09/persons#p_TK_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve12/persons#p_thanom-kittikachorn</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Thanom Kittikachon</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v07/persons#p_TK1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Thanom, Kittikatchorn</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v28/persons#p_TK1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Thanom Kittikachorn, Field Marshal</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v20/persons#p_TK5</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="2">
+            <title source-urls="1">
+                <name>Lieutenant General</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v15/persons#p_KLGT1</source-url>
+            </title>
+            <title source-urls="1">
+                <name>Field Marshal</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v20/persons#p_TK5</source-url>
+            </title>
+        </titles-from-name>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="9">
+        <remark source-urls="1">
+            <p>Thai Prime Minister and Minister of Defense, January–October 1958; Deputy Prime Minister and Minister of Defense from February 1959</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v15/persons#p_KLGT1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Thai Deputy Prime Minister and Defense Minister until December 1963; thereafter Prime Minister and Defense Minister</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v23/persons#p_TK2</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Field Marshal, Thai Prime Minister and Defense Minister</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v04/persons#p_TK2</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Thai Prime Minister and Defense Minister</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v05/persons#p_TK2</source-url>
+        </remark>
+        <remark source-urls="3">
+            <p>Prime Minister of Thailand</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v07/persons#p_TK1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v28/persons#p_TK1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v09/persons#p_TK_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Field Marshal, RTA, Prime Minister of Thailand</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v27/persons#p_TK2</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Prime Minister and Minister of Defense of Thailand</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v06/persons#p_TK2</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>RTA; Prime Minister of Thailand, 1969–1971; Thai Foreign Minister from 1972</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v20/persons#p_TK5</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Thai Prime Minister until February 26 1973</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve12/persons#p_thanom-kittikachorn</source-url>
+        </remark>
+    </remarks>
+</person>

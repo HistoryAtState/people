@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>115627</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Hunt, Irvin L.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="1">
+                <name>Hunt, Colonel Irvin L.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv02/persons#p_HCIL1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="1">
+            <title source-urls="1">
+                <name>Colonel</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv02/persons#p_HCIL1</source-url>
+            </title>
+        </titles-from-name>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="1">
+        <remark source-urls="1">
+            <p>U. S. A., Officer in Charge of Civil Affairs, Third Army and American Forces in Germany, 1918–1920.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv02/persons#p_HCIL1</source-url>
+        </remark>
+    </remarks>
+</person>

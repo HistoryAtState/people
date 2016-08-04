@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>110915</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Power, Thomas F., Jr.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="3">
+                <name>Power, Thomas F., Jr.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v05/persons#p_PTF1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v11p1/persons#p_PTF1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v11p2/persons#p_PTF1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="2">
+        <remark source-urls="1">
+            <p>Principal Secretary, United Nations Mission in Libya; Personal Representative in Libya of the United Nations Secretary-General.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1951v05/persons#p_PTF1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Personal Representative of the United Nations Secretary-General in Libya; Principal Secretary of the United Nations Mission in Libya until 1952; Resident Representative of the United Nations Technical Assistance Board in Libya from 1952.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v11p1/persons#p_PTF1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v11p2/persons#p_PTF1</source-url>
+        </remark>
+    </remarks>
+</person>

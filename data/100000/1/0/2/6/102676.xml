@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>102676</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Clough, Ralph N.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="5">
+                <name>Clough, Ralph N.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v02/persons#p_CRN1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v03/persons#p_CRN1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v19/persons#p_CRN1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v22/persons#p_CRN1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v30/persons#p_CRN1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="4">
+        <remark source-urls="2">
+            <p>Deputy Director of the Office of Chinese Affairs, Department of State, July 1955–June 1957; thereafter Director</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v02/persons#p_CRN1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v03/persons#p_CRN1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Director, Office of Chinese Affairs, Bureau of Far Eastern Affairs, Department of State, through July 1958</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v19/persons#p_CRN1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Counsellor of Embassy and Deputy Chief of Mission in the Republic of China from August 1961</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v22/persons#p_CRN1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Counselor of Embassy, Consul General, and Deputy Chief of Mission at the Embassy in Taiwan until August 1965</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v30/persons#p_CRN1</source-url>
+        </remark>
+    </remarks>
+</person>

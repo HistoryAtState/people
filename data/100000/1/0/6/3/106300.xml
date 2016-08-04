@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>106300</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Huntington, Samuel P.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="2">
+                <name>Huntington, Samuel</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v37/persons#p_HS_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v06/persons#p_HUS_1</source-url>
+            </original>
+            <original source-urls="6">
+                <name>Huntington, Samuel P.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v01/persons#p_HSP_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v02/persons#p_HSP_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v13/persons#p_HSP_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v20/persons#p_HSP_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v26/persons#p_HS_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v30/persons#p_HSP_1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="7">
+        <remark source-urls="1">
+            <p>Member of the National Security Council Staff</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v37/persons#p_HS_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>co-editor, Foreign Policy, until 1977; member, National Security Council staff, National Security Planning, from February 1977 until August 1978; thereafter Director, Harvard University Center for International Affairs</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v01/persons#p_HSP_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>member, National Security Council staff, National Security Planning, from February 1977 until August 1978; thereafter Director, Harvard University Center for International Affairs</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v02/persons#p_HSP_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>coordinator of security planning for the National Security Council from 1977 until 1978</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v06/persons#p_HUS_1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>member, National Security Council Staff for National Security Planning from February 1977 until August 1978</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v13/persons#p_HSP_1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v20/persons#p_HSP_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Member, National Security Council Staff and White House Coordinator of Security Planning from 1977 until 1978</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v26/persons#p_HS_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>member, National Security Council Staff for National Security Planning, from February 1977 until August 1978; thereafter, Director, Harvard University Center for International Affairs</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v30/persons#p_HSP_1</source-url>
+        </remark>
+    </remarks>
+</person>

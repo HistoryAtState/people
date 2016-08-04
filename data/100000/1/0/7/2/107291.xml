@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>107291</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Knabenshue, Paul</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="2">
+                <name>Knabenshue, Paul</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1914Supp/persons#p_KP1</source-url>
+                <source-url>https://history.state.gov/departmenthistory/people/knabenshue-paul</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1883</birth-year>
+    <death-year>1942</death-year>
+    <remarks variants="2">
+        <remark source-urls="1">
+            <p>United States Vice and Deputy Consul General at Cairo.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1914Supp/persons#p_KP1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Foreign Service Officer. Minister Resident/Consul General (Iraq).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/knabenshue-paul</source-url>
+        </remark>
+    </remarks>
+</person>

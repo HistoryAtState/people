@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>113924</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Valdes, Philip H.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="6">
+                <name>Valdes, Philip H.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v01/persons#p_VPH1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v02/persons#p_VPH1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v13/persons#p_VPH1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v05/persons#p_VPH1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v06/persons#p_VPH1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v14/persons#p_VPH1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="4">
+        <remark source-urls="1">
+            <p>Officer in Charge of French Affairs, Department of State</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v01/persons#p_VPH1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Office of Western European Affairs, Bureau of European Affairs, Department of State, from June 1959</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v02/persons#p_VPH1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v13/persons#p_VPH1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Office of Soviet Union Affairs, Bureau of European Affairs, Department of State</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v05/persons#p_VPH1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v06/persons#p_VPH1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Officer in Charge of Multilateral Political Relations, Office of Soviet Union Affairs, Bureau of European Affairs, Department of State, to July 1964; Political Officer at the Embassy in Moscow August 1964–1966</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v14/persons#p_VPH1</source-url>
+        </remark>
+    </remarks>
+</person>

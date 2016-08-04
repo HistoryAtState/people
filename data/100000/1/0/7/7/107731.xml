@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>107731</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Lay, George Washington</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="1">
+                <name>Lay, George Washington</name>
+                <source-url>https://history.state.gov/departmenthistory/people/lay-george-washington</source-url>
+            </original>
+            <original source-urls="1">
+                <name>George W. Lay</name>
+                <source-url>https://history.state.gov/departmenthistory/people/lay-george-washington</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1798</birth-year>
+    <death-year>1860</death-year>
+    <remarks variants="1">
+        <remark source-urls="1">
+            <p>Non-career appointee. Chargé d'Affaires (Sweden).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/lay-george-washington</source-url>
+        </remark>
+    </remarks>
+</person>

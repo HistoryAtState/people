@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>106236</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Huggins, Godfrey M.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="2">
+                <name>Huggins, Sir Godfrey M.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v11p1/persons#p_HSGM1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v11p2/persons#p_HSGM1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="1">
+            <title source-urls="2">
+                <name>Sir</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v11p1/persons#p_HSGM1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v11p2/persons#p_HSGM1</source-url>
+            </title>
+        </titles-from-name>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="1">
+        <remark source-urls="2">
+            <p>Prime Minister, Minister of External Affairs, and Minister of Defense of the Federation of Rhodesia and Nyasaland from September 7, 1953.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v11p1/persons#p_HSGM1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v11p2/persons#p_HSGM1</source-url>
+        </remark>
+    </remarks>
+</person>

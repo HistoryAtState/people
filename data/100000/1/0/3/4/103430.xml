@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>103430</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>De Vos, Peter John</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="1">
+                <name>De Vos, Peter John</name>
+                <source-url>https://history.state.gov/departmenthistory/people/de-vos-peter-john</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Peter J. de Vos</name>
+                <source-url>https://history.state.gov/departmenthistory/people/de-vos-peter-john</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Peter Jon de Vos</name>
+                <source-url>https://history.state.gov/departmenthistory/people/de-vos-peter-john</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1938</birth-year>
+    <death-year>2008</death-year>
+    <remarks variants="1">
+        <remark source-urls="1">
+            <p>Foreign Service Officer. Ambassador Extraordinary and Plenipotentiary (Tanzania); Ambassador Extraordinary and Plenipotentiary (Mozambique); Ambassador Extraordinary and Plenipotentiary (Liberia); Ambassador Extraordinary and Plenipotentiary (Guinea-Bissau); Ambassador Extraordinary and Plenipotentiary (Costa Rica); Ambassador Extraordinary and Plenipotentiary (Cape Verde).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/de-vos-peter-john</source-url>
+        </remark>
+    </remarks>
+</person>

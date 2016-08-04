@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>113483</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Theberge, James Daniel</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="2">
+                <name>Theberge, James Daniel</name>
+                <source-url>https://history.state.gov/departmenthistory/people/theberge-james-daniel</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve11p1/persons#p_TJD_1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>James D. Theberge</name>
+                <source-url>https://history.state.gov/departmenthistory/people/theberge-james-daniel</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1930</birth-year>
+    <death-year>1988</death-year>
+    <remarks variants="2">
+        <remark source-urls="1">
+            <p>Non-career appointee. Ambassador Extraordinary and Plenipotentiary (Nicaragua); Ambassador Extraordinary and Plenipotentiary (Chile).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/theberge-james-daniel</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>U.S. Ambassador to Nicaragua from August 11, 1975, until June 8, 1977</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve11p1/persons#p_TJD_1</source-url>
+        </remark>
+    </remarks>
+</person>

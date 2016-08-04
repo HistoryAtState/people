@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>107484</id>
+    <authorities>
+        <authority service="viaf">8182528</authority>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Kubitschek de Oliveira, Juscelino</name>
+        </preferred>
+        <alternates/>
+        <originals variants="5">
+            <original source-urls="4">
+                <name>Kubitschek de Oliveira, Juscelino</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v06/persons#p_KOJ1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v07/persons#p_KOJ1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v06/persons#p_KOJ1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v38p1/persons#p_KOJ_1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Kubitschek de Oliviera, Dr. Juscelino</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v05/persons#p_KODJ1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Kubitscheck, Juscelino</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v12/persons#p_KJ5</source-url>
+            </original>
+            <original source-urls="2">
+                <name>Kubitschek, Juscelino</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v31/persons#p_KJ1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v38p2/persons#p_KJ_2</source-url>
+            </original>
+            <original source-urls="1">
+                <name>President-elect Kubitschek</name>
+                <source-url>https://history.state.gov/departmenthistory/visits/brazil</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="1">
+            <title source-urls="1">
+                <name>Dr.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v05/persons#p_KODJ1</source-url>
+            </title>
+        </titles-from-name>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="5">
+        <remark source-urls="2">
+            <p>President of Brazil from January 1956</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v06/persons#p_KOJ1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v07/persons#p_KOJ1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>President of Brazil</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v05/persons#p_KODJ1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v06/persons#p_KOJ1</source-url>
+        </remark>
+        <remark source-urls="3">
+            <p>former President of Brazil</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v12/persons#p_KJ5</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v31/persons#p_KJ1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v38p2/persons#p_KJ_2</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Brazilian President from 1956 until 1961</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v38p1/persons#p_KOJ_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>President-elect, Brazil. Visited U.S. once, 1956</p>
+            <source-url>https://history.state.gov/departmenthistory/visits/brazil</source-url>
+        </remark>
+    </remarks>
+</person>

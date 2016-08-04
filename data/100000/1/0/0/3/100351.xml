@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>100351</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Alsop, Joseph W.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="5">
+                <name>Alsop, Joseph</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1949v03/persons#p_AJ1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v01/persons#p_AJ1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v04/persons#p_AJ1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v07/persons#p_AJ1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v13/persons#p_AJ1</source-url>
+            </original>
+            <original source-urls="2">
+                <name>Alsop, Joseph W.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v04/persons#p_AJW1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v05/persons#p_AJW1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="4">
+        <remark source-urls="1">
+            <p>and Stewart, syndicated American news columnists.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1949v03/persons#p_AJ1</source-url>
+        </remark>
+        <remark source-urls="3">
+            <p>syndicated columnist</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v01/persons#p_AJ1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v04/persons#p_AJ1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v07/persons#p_AJ1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>journalist, author, and syndicated columnist</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v04/persons#p_AJW1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v05/persons#p_AJW1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>syndicated columnist for the Washington Post</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v13/persons#p_AJ1</source-url>
+        </remark>
+    </remarks>
+</person>

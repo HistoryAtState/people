@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>106350</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Iakovos</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="2">
+                <name>Iakovos</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v16/persons#p_Iakovos1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v21/persons#p_IA_1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Iakovos, Archbishop</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v29/persons#p_IA1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="1">
+            <title source-urls="1">
+                <name>Archbishop</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v29/persons#p_IA1</source-url>
+            </title>
+        </titles-from-name>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="3">
+        <remark source-urls="1">
+            <p>Orthodox Archbishop of North and South America</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v16/persons#p_Iakovos1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Orthodox Archbishop of North and South America (former Turkish citizen)</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v29/persons#p_IA1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Archbishop of the Greek Orthodox Diocese of North and South America</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v21/persons#p_IA_1</source-url>
+        </remark>
+    </remarks>
+</person>

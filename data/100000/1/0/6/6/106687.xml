@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>106687</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Johnston, Ernest B., Jr.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="2">
+                <name>Johnston, Ernest</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v03/persons#p_JE2</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v04/persons#p_JE2</source-url>
+            </original>
+            <original source-urls="4">
+                <name>Johnston, Ernest B., Jr.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v13/persons#p_JEBJ1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v02/persons#p_JEBJ_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1981-88v03/persons#p_JE_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1981-88v13/persons#p_JEB_1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Johnston, Ernst B.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v37/persons#p_JEB_1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="6">
+        <remark source-urls="2">
+            <p>Member, National Security Council Staff</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v03/persons#p_JE2</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v04/persons#p_JE2</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>member, National Security Council Operations Staff (International Economic Policy) until September 1971</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v13/persons#p_JEBJ1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Deputy Assistant Secretary of State for Economic and Business Affairs, from 1979 until 1981</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v37/persons#p_JEB_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Special Assistant to the Under Secretary of State for Economic Affairs, until mid-1979; Deputy Assistant Secretary of State for International Trade Policy, Bureau of Economic and Business Affairs, from 1979 until 1980; Deputy Assistant Secretary of State for Economic and Business Affairs from 1980</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v02/persons#p_JEBJ_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Deputy Assistant Secretary of State, Bureau of Economic and Business Affairs</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1981-88v03/persons#p_JE_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Deputy Assistant Secretary of State for Economic and Business Affairs</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1981-88v13/persons#p_JEB_1</source-url>
+        </remark>
+    </remarks>
+</person>

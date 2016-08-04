@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>106142</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Hosmer, Craig</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="3">
+                <name>Hosmer, Craig</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v07/persons#p_HC6</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v11/persons#p_HC6</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve14p2/persons#p_HC_1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="2">
+        <remark source-urls="2">
+            <p>Republican Representative from California</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v07/persons#p_HC6</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v11/persons#p_HC6</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>member, U.S. House of Representatives (R-California) until December 31, 1974; president, American Nuclear Energy Council from 1975</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve14p2/persons#p_HC_1</source-url>
+        </remark>
+    </remarks>
+</person>

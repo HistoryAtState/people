@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>101178</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Bennett, Jack F.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="3">
+                <name>Bennett, Jack</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1948v02/persons#p_BJ2</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v15/persons#p_BJ_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v37/persons#p_BJ_1</source-url>
+            </original>
+            <original source-urls="5">
+                <name>Bennett, Jack F.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v03/persons#p_BJF1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v21/persons#p_BJF_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v31/persons#p_BJF1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v36/persons#p_BJF1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve16/persons#p_BJF_1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="7">
+        <remark source-urls="1">
+            <p>Finance Adviser, Office of Military Government (United States Zone)</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1948v02/persons#p_BJ2</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Deputy Under Secretary of the Treasury for International Monetary Affairs until July 1974; thereafter Under Secretary for Monetary Affairs</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v03/persons#p_BJF1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Deputy Under Secretary of the Treasury for Monetary Affairs from 1971 until 1974; Under Secretary of the Treasury for Monetary Affairs from 1974</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v15/persons#p_BJ_1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Deputy Under Secretary of the Treasury for International Monetary Affairs</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v21/persons#p_BJF_1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve16/persons#p_BJF_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Deputy Under Secretary of the Treasury for Monetary Affairs until 1974; Under Secretary of the Treasury for Monetary Affairs from 1974 until 1975</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v31/persons#p_BJF1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Under Secretary of the Treasury for International Monetary Affairs from 1971 until 1974</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v36/persons#p_BJF1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Under Secretary of the Treasury for Monetary Affairs</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v37/persons#p_BJ_1</source-url>
+        </remark>
+    </remarks>
+</person>

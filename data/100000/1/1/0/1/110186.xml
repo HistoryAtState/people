@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>110186</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Overby, Andrew N.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="1">
+                <name>Overby, Andrew N</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v04/persons#p_OAN1</source-url>
+            </original>
+            <original source-urls="11">
+                <name>Overby, Andrew N.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v05p1/persons#p_OVERBYAN1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v05p2/persons#p_OVERBYAN1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v04/persons#p_OAN1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v06/persons#p_OAN1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v07/persons#p_OAN1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v08/persons#p_OAN1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v09/persons#p_OAN1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v10/persons#p_OAN1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v16/persons#p_OAN1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v24/persons#p_OAN1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v27/persons#p_OAN1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="6">
+        <remark source-urls="1">
+            <p>Assistant Secretary of the Treasury from January 24, 1952 until February 28, 1957.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v04/persons#p_OAN1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Assistant Secretary of the Treasury, January 24, 1952–February 28, 1957.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v05p1/persons#p_OVERBYAN1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v05p2/persons#p_OVERBYAN1</source-url>
+        </remark>
+        <remark source-urls="4">
+            <p>Assistant Secretary of the Treasury until 1957</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v04/persons#p_OAN1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v09/persons#p_OAN1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v10/persons#p_OAN1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v27/persons#p_OAN1</source-url>
+        </remark>
+        <remark source-urls="3">
+            <p>Assistant Secretary of the Treasury until February 28, 1957</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v06/persons#p_OAN1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v07/persons#p_OAN1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v16/persons#p_OAN1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Assistant Secretary of the Treasury to February 1957</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v08/persons#p_OAN1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Assistant Secretry of the Treasury until 1957</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v24/persons#p_OAN1</source-url>
+        </remark>
+    </remarks>
+</person>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>112967</id>
+    <authorities>
+        <authority service="viaf">28699723</authority>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Stephanopoulos, Konstandinos</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="1">
+                <name>President Konstandinos Stephanopoulos</name>
+                <source-url>https://history.state.gov/departmenthistory/visits/greece</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="1">
+        <remark source-urls="1">
+            <p>President, Greece. Visited U.S. once, 1996</p>
+            <source-url>https://history.state.gov/departmenthistory/visits/greece</source-url>
+        </remark>
+    </remarks>
+</person>

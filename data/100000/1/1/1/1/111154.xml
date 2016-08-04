@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>111154</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Rankin, Karl Lott</name>
+        </preferred>
+        <alternates/>
+        <originals variants="5">
+            <original source-urls="2">
+                <name>Rankin, Karl L.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1947v02/persons#p_RKL1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v11/persons#p_RKL1</source-url>
+            </original>
+            <original source-urls="5">
+                <name>Rankin, Karl Lott</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v14p1/persons#p_RKL1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v14p2/persons#p_RKL1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v02/persons#p_RKL1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v03/persons#p_RKL1</source-url>
+                <source-url>https://history.state.gov/departmenthistory/people/rankin-karl-lott</source-url>
+            </original>
+            <original source-urls="2">
+                <name>Rankin, Karl</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v10/persons#p_RK1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v10p2/persons#p_RK1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Rankin, Carl</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v16/persons#p_RC1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Karl L. Rankin</name>
+                <source-url>https://history.state.gov/departmenthistory/people/rankin-karl-lott</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1898</birth-year>
+    <death-year>1991</death-year>
+    <remarks variants="7">
+        <remark source-urls="1">
+            <p>Counselor of the United States Legation in Austria</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1947v02/persons#p_RKL1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Chargé d’Affaires in the Republic of China to April 1953; thereafter Ambassador.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v14p1/persons#p_RKL1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v14p2/persons#p_RKL1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Ambassador in the Republic of China to December 1957</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v02/persons#p_RKL1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v03/persons#p_RKL1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Ambassador to the Republic of China until December 30, 1957</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v10/persons#p_RK1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v11/persons#p_RKL1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Ambassador to Yugoslavia from February 1958</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v10p2/persons#p_RK1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Ambassador to Yugoslavia until April 1961</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v16/persons#p_RC1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Foreign Service Officer. Ambassador Extraordinary and Plenipotentiary (socialist-federalist-republic-of-yugoslavia); Ambassador Extraordinary and Plenipotentiary (China).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/rankin-karl-lott</source-url>
+        </remark>
+    </remarks>
+</person>

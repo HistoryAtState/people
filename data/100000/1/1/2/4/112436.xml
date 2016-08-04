@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>112436</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Shvernik, Nikolay Mikhailovich</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="3">
+                <name>Shvernik, Nikolay Mikhailovich</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v04p1/persons#p_SNM1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v04p2/persons#p_SNM1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v08/persons#p_SNM1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="2">
+        <remark source-urls="2">
+            <p>Chairman, Presidium of the Supreme Soviet of the Union of Soviet Socialist Republics; Candidate Member of the Politburo of the Communist Party</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1951v04p1/persons#p_SNM1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1951v04p2/persons#p_SNM1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Chairman of the Presidium of the Supreme Soviet of the Soviet Union, 1946–1953; Chairman, Soviet All–Union Central Council of Trade Unions, from March 1953; Vice President of the Executive Bureau of the World Federation of Trade Unions; Candidate–Member, Politburo of the Communist Party of the Soviet Union, 1946–October 1952; member, Presidium, Communist Party of the Soviet Union, October 1952–March 1953.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v08/persons#p_SNM1</source-url>
+        </remark>
+    </remarks>
+</person>

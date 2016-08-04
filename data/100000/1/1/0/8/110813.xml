@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>110813</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Plowden, Edwin N.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="4">
+                <name>Plowden, Sir Edwin</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v03p1/persons#p_PSE1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v03p2/persons#p_PSE1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v04p1/persons#p_PSE1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v04p2/persons#p_PSE1</source-url>
+            </original>
+            <original source-urls="3">
+                <name>Plowden, Sir Edwin N.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v05p1/persons#p_PLOWDENSEN1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v05p2/persons#p_PLOWDENSEN1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v27/persons#p_PSEN1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Plowden, Edwin N.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v03/persons#p_PEN1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="1">
+            <title source-urls="7">
+                <name>Sir</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v03p1/persons#p_PSE1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v03p2/persons#p_PSE1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v04p1/persons#p_PSE1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v04p2/persons#p_PSE1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v05p1/persons#p_PLOWDENSEN1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v05p2/persons#p_PLOWDENSEN1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v27/persons#p_PSEN1</source-url>
+            </title>
+        </titles-from-name>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="5">
+        <remark source-urls="2">
+            <p>Chief Planning Officer and Chairman of the British Economic Planning Board; Vice Chairman, Temporary Council Committee, North Atlantic Council, from September 1951.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1951v03p1/persons#p_PSE1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1951v03p2/persons#p_PSE1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Chief Planning Officer and Chairman, British Economic Planning Board; Vice Chairman, Temporary Council Committee, North Atlantic Council, from September 1951</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1951v04p1/persons#p_PSE1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1951v04p2/persons#p_PSE1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Chief Planning Officer in the British Treasury, until 1953; British Adviser on Atomic Energy Organization, 1953–1954.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v05p1/persons#p_PLOWDENSEN1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v05p2/persons#p_PLOWDENSEN1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Chairman of the British Atomic Energy Authority</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v27/persons#p_PSEN1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Chairman, British Atomic Energy Authority</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v03/persons#p_PEN1</source-url>
+        </remark>
+    </remarks>
+</person>

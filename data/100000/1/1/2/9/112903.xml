@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>112903</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Stang, David P.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="1">
+                <name>Stang, David P.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve01/persons#p_SDP2</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="1">
+        <remark source-urls="1">
+            <p>Assistant to the Under Secretary, Department of Interior; Counsel to the Senate Interior and Insular Affairs Committee form October 1972</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve01/persons#p_SDP2</source-url>
+        </remark>
+    </remarks>
+</person>

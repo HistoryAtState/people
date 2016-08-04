@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>104698</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Garcia, Carlos P.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="5">
+                <name>Garcia, Carlos P.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v16/persons#p_GCP1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v22/persons#p_GCP1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v15/persons#p_GCP1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v16/persons#p_GCP1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v23/persons#p_GCP1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>President Garcia</name>
+                <source-url>https://history.state.gov/departmenthistory/visits/philippines</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="5">
+        <remark source-urls="1">
+            <p>Vice President and Secretary for Foreign Affairs of the Philippines; Head of the Philippine Delegation at the Geneva Conference.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v16/persons#p_GCP1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Philippine Vice President and Foreign Secretary to March 1957; thereafter President</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v22/persons#p_GCP1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>President of the Philippines</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v15/persons#p_GCP1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v16/persons#p_GCP1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>President of the Philippines until December 1961</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v23/persons#p_GCP1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>President, Philippines. Visited U.S. once, 1958</p>
+            <source-url>https://history.state.gov/departmenthistory/visits/philippines</source-url>
+        </remark>
+    </remarks>
+</person>

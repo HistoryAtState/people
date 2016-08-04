@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>109225</id>
+    <authorities>
+        <authority service="viaf">121635174</authority>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Mitsotakis, Konstantinos</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="1">
+                <name>Mitsotakis, Konstantine</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v16/persons#p_MK2</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Mitsotakis, Konstantinos</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v21/persons#p_MK_1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Prime Minister Constantine Mitsotakis</name>
+                <source-url>https://history.state.gov/departmenthistory/visits/greece</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="3">
+        <remark source-urls="1">
+            <p>Greek Finance Minister, February 1964–July 1965</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v16/persons#p_MK2</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Greek Foreign Minister from 1980 until 1981</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v21/persons#p_MK_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Prime Minister, Greece. Visited U.S. 3 times, 1990–1992</p>
+            <source-url>https://history.state.gov/departmenthistory/visits/greece</source-url>
+        </remark>
+    </remarks>
+</person>

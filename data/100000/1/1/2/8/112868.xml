@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>112868</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Spruance, Raymond Ames</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="1">
+                <name>Spruance, Adm. Raymond A.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v22/persons#p_SARA1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Spruance, Raymond Ames</name>
+                <source-url>https://history.state.gov/departmenthistory/people/spruance-raymond-ames</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="1">
+            <title source-urls="1">
+                <name>Adm.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v22/persons#p_SARA1</source-url>
+            </title>
+        </titles-from-name>
+    </names>
+    <birth-year>1886</birth-year>
+    <death-year>1969</death-year>
+    <remarks variants="2">
+        <remark source-urls="1">
+            <p>Ambassador to the Philippines to April 1955</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v22/persons#p_SARA1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Non-career appointee. Ambassador Extraordinary and Plenipotentiary (Philippines).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/spruance-raymond-ames</source-url>
+        </remark>
+    </remarks>
+</person>

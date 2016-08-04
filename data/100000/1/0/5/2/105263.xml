@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>105263</id>
+    <authorities>
+        <authority service="viaf">34412820</authority>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Guebuza, Armando</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="1">
+                <name>President Armando Guebuza</name>
+                <source-url>https://history.state.gov/departmenthistory/visits/mozambique</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="1">
+        <remark source-urls="1">
+            <p>President, Mozambique. Visited U.S. once, 2005</p>
+            <source-url>https://history.state.gov/departmenthistory/visits/mozambique</source-url>
+        </remark>
+    </remarks>
+</person>

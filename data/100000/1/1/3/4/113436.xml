@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>113436</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Teitgen, Pierre-Henri</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="5">
+                <name>Teitgen, Pierre-Henri</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1947v02/persons#p_TPH1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v04p1/persons#p_TPH1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v04p2/persons#p_TPH1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v05p1/persons#p_TEITGENPH1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v05p2/persons#p_TEITGENPH1</source-url>
+            </original>
+            <original source-urls="4">
+                <name>Teitgen, Pierre Henri</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v06p1/persons#p_TEITGENPH1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v06p2/persons#p_TEITGENPH1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v07p1/persons#p_TPH1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v07p2/persons#p_TPH1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="5">
+        <remark source-urls="1">
+            <p>French Deputy Premier</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1947v02/persons#p_TPH1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>French Delegate to the Sixth Session of the United Nations General Assembly and to the Consultative Assembly, Council of Europe</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1951v04p1/persons#p_TPH1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1951v04p2/persons#p_TPH1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>President of the Mouvement Républicain Populaire, May 1952–May 1956; Vice President of the French Council of Ministers, June 1953–June 1954; French Representative to the Consultative Assembly of the Council of Europe and French Delegate to the Common Assembly of the European Coal and Steel Community.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v05p1/persons#p_TEITGENPH1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v05p2/persons#p_TEITGENPH1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>President of the Mouvement Rèpublicain Populaire in France after May 1952; Vice President of the Council of Ministers, June 1953–June 1954; French Representative to the Consultative Assembly of the Council of Europe and French Representative to the Common Assembly of the European Coal and Steel Community.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v06p1/persons#p_TEITGENPH1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v06p2/persons#p_TEITGENPH1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Vice President of the French Council of Ministers, June 1953–June 1954.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v07p1/persons#p_TPH1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v07p2/persons#p_TPH1</source-url>
+        </remark>
+    </remarks>
+</person>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>110435</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Patrício, Rui</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="1">
+                <name>Patricio, Rui</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v41/persons#p_PR_1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Patricio, Rui Manuel</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve06/persons#p_PRM1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Patrício, Rui d’Espiney</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve15p2/persons#p_PRE_1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="3">
+        <remark source-urls="1">
+            <p>Portuguese Foreign Minister</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v41/persons#p_PR_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Portuguese Foreign Minister from 1970 to 1974</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve06/persons#p_PRM1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Portuguese Minister of Foreign Affairs from 1970 until 1974</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve15p2/persons#p_PRE_1</source-url>
+        </remark>
+    </remarks>
+</person>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>111928</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Saqisli, Muhammad</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="2">
+                <name>Saqisli (Saqezli, Saqizli, Saghisli, Saquizli), Muhammad</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v11p1/persons#p_SSSS1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v11p2/persons#p_SSSS1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="1">
+        <remark source-urls="2">
+            <p>Libyan Minister of Education and Governor of Cyrenaica until August 1953; Head of the Royal Cabinet, August 1953–February 18, 1954; Prime Minister and Foreign Minister, February 18–April 12, 1954.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v11p1/persons#p_SSSS1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v11p2/persons#p_SSSS1</source-url>
+        </remark>
+    </remarks>
+</person>

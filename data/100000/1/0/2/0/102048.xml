@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>102048</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Byrnes, James Francis</name>
+        </preferred>
+        <alternates/>
+        <originals variants="4">
+            <original source-urls="2">
+                <name>Byrnes, James Francis</name>
+                <source-url>https://history.state.gov/departmenthistory/people/byrnes-james-francis</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv02/persons#p_BJF1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>James F. Byrnes</name>
+                <source-url>https://history.state.gov/departmenthistory/people/byrnes-james-francis</source-url>
+            </original>
+            <original source-urls="7">
+                <name>Byrnes, James F.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1943CairoTehran/persons#p_BJF1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945-50Intel/persons#p_BJF1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv01/persons#p_BJF1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945Malta/persons#p_BJF1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1947v02/persons#p_BJF1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1949v03/persons#p_BJF1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v04/persons#p_BJF1</source-url>
+            </original>
+            <original source-urls="2">
+                <name>Byrnes, James</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v38p1/persons#p_BJ_2</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v38p2/persons#p_BJ_2</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1879</birth-year>
+    <death-year>1972</death-year>
+    <remarks variants="9">
+        <remark source-urls="1">
+            <p>Non-career appointee. Secretary of State.</p>
+            <source-url>https://history.state.gov/departmenthistory/people/byrnes-james-francis</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Director of War Mobilization; Secretary of State, July 1945–January 1947.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1943CairoTehran/persons#p_BJF1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Secretary of State, July 3, 1945-January 21, 1947</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1945-50Intel/persons#p_BJF1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Director, Office of War Mobilization and Reconversion (to April 2); Secretary of State (from July 3).</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv01/persons#p_BJF1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv02/persons#p_BJF1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Director, Office of War Mobilization and Reconversion.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1945Malta/persons#p_BJF1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Secretary of State, July 1945–January 1947</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1947v02/persons#p_BJF1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Secretary of State, 1945–1947.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1949v03/persons#p_BJF1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Secretary of State, 1945–1947</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v04/persons#p_BJF1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v38p2/persons#p_BJ_2</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Secretary of State from 1945 until 1947</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v38p1/persons#p_BJ_2</source-url>
+        </remark>
+    </remarks>
+</person>

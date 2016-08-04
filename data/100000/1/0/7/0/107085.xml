@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>107085</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Khalidy, Awni</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="2">
+                <name>Khalidy, Awni</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v03/persons#p_KHALIDYA1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v11/persons#p_KA1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="2">
+        <remark source-urls="1">
+            <p>Representative of Iraq on the United Nations Trusteeship Council, 1952; Acting Permanent Representative to the United Nations until May 1954; thereafter, Permanent Representative.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v03/persons#p_KHALIDYA1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Iraqi Representative at the United Nations through 1955</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v11/persons#p_KA1</source-url>
+        </remark>
+    </remarks>
+</person>

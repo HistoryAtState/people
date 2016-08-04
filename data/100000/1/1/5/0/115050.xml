@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>115050</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Zimmermann, Warren</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="3">
+                <name>Zimmermann, Warren</name>
+                <source-url>https://history.state.gov/departmenthistory/people/zimmermann-warren</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve15p1/persons#p_ZW2</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1981-88v03/persons#p_ZW_1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Zimmerman, Warren</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve14p1/persons#p_ZW2</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1934</birth-year>
+    <death-year>2004</death-year>
+    <remarks variants="4">
+        <remark source-urls="1">
+            <p>Foreign Service Officer. Assistant Secretary of State for Population, Refugees, and Migration Affairs; Ambassador Extraordinary and Plenipotentiary (socialist-federalist-republic-of-yugoslavia).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/zimmermann-warren</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Policy Planning Staff, Bureau of European Affairs, Department of State</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve14p1/persons#p_ZW2</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Political Officer, Embassy Soviet Union</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve15p1/persons#p_ZW2</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Deputy Chief of Mission, Moscow Embassy</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1981-88v03/persons#p_ZW_1</source-url>
+        </remark>
+    </remarks>
+</person>

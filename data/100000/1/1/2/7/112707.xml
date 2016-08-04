@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>112707</id>
+    <authorities>
+        <authority service="viaf">45725019</authority>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Socarras, Prio</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="1">
+                <name>President Prio Socarras</name>
+                <source-url>https://history.state.gov/departmenthistory/visits/cuba</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="1">
+        <remark source-urls="1">
+            <p>President, Cuba. Visited U.S. once, 1948</p>
+            <source-url>https://history.state.gov/departmenthistory/visits/cuba</source-url>
+        </remark>
+    </remarks>
+</person>

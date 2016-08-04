@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>100102</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Adams, Robert W.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="2">
+                <name>Adams, Robert A. W.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v11p1/persons#p_ARAW1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v11p2/persons#p_ARAW1</source-url>
+            </original>
+            <original source-urls="3">
+                <name>Adams, Robert W.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v08/persons#p_ARW1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v31/persons#p_ARW1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v32/persons#p_WAR1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Adams, Robert A.W.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v15/persons#p_ARAW1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="5">
+        <remark source-urls="2">
+            <p>Second Secretary and Consul of the Office of the United States Political Adviser to the Supreme Commander for Allied Powers at Tokyo until April 28, 1952; Second Secretary and Consul of the Embassy in Japan, April 28, 1952–October 14, 1953; Second Secretary and Consul of the Embassy in India, October 14, 1953–September 27, 1954; thereafter, First Secretary and Consul.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v11p1/persons#p_ARAW1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v11p2/persons#p_ARAW1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Deputy Officer in Charge of Economic Affairs, Office of South Asian Affairs, Department of State, to August 1956; thereafter Officer in Charge of Indian, Ceylon, and Nepal Affairs</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v08/persons#p_ARW1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Officer in Charge of India, Ceylon, and Nepal Affairs until September 1958; Deputy Director, Office of South Asian Affairs, Bureau of Near Eastern and South Asian Affairs, Department of State, September 1958–August 1959; thereafter Acting Director until August 1960</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v15/persons#p_ARAW1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Chief of the Political Section of the Embassy in Mexico until February 1964; Deputy Assistant Secretary of State for Inter-American Affairs to March 1965; Special Assistant to the Under Secretary of State for Economic Affairs March 1965– May 1966</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v31/persons#p_ARW1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Deputy Assistant Secretary of State for Inter-American Affairs, 1964–1965</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v32/persons#p_WAR1</source-url>
+        </remark>
+    </remarks>
+</person>

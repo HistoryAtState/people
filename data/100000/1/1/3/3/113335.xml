@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>113335</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Tam Chau</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="2">
+                <name>Tam Chau, bonze</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v03/persons#p_TC1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v04/persons#p_TC1</source-url>
+            </original>
+            <original source-urls="4">
+                <name>Tam Chau</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v01/persons#p_TC1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v02/persons#p_TC1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v03/persons#p_TC1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v04/persons#p_TC1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="1">
+            <title source-urls="2">
+                <name>bonze</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v03/persons#p_TC1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v04/persons#p_TC1</source-url>
+            </title>
+        </titles-from-name>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="4">
+        <remark source-urls="2">
+            <p>member of Buddhist delegation from Hue; became Chairman of the Intersect Committee for the Defense of Buddhism</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v03/persons#p_TC1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v04/persons#p_TC1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Buddhist leader</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v01/persons#p_TC1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Buddhist leader and head of Vien Hoa Dao, the Institute for the Propagation of the Faith (Buddhist Institute)</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v02/persons#p_TC1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v03/persons#p_TC1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>leader of Buddhists in Saigon</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v04/persons#p_TC1</source-url>
+        </remark>
+    </remarks>
+</person>

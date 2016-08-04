@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>101373</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Black, Robert B.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="1">
+                <name>Black, Robert B.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v10/persons#p_BRB1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="1">
+        <remark source-urls="1">
+            <p>Economist in the Bureau of the Budget, 1949–1952; Budget Examiner in the Mutual Security Agency from October 12, 1952; Chief of Near East Programs in the Office of the Deputy Director for Program and Planning in the Foreign Operations Administration after March 28, 1954.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v10/persons#p_BRB1</source-url>
+        </remark>
+    </remarks>
+</person>

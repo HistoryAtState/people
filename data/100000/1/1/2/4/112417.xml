@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>112417</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Shriver, Robert Sargent, Jr.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="5">
+            <original source-urls="2">
+                <name>Shriver, Sargent</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v12/persons#p_SRSJ1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v01/persons#p_SS1</source-url>
+            </original>
+            <original source-urls="4">
+                <name>Shriver, R. Sargent</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v22/persons#p_SRSJ1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve01/persons#p_SRSJ1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v01/persons#p_SRS_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v02/persons#p_SRS_1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Shriver, Robert Sargent</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v41/persons#p_SRS_1</source-url>
+            </original>
+            <original source-urls="4">
+                <name>Shriver, R. Sargent, Jr.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v12/persons#p_SRSJ1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v25/persons#p_SRSJ1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve05p1/persons#p_SRSJ1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve05p2/persons#p_SRSJ1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Shriver, Robert Sargent, Jr.</name>
+                <source-url>https://history.state.gov/departmenthistory/people/shriver-robert-sargent</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1915</birth-year>
+    <death-year>2011</death-year>
+    <remarks variants="11">
+        <remark source-urls="1">
+            <p>Director of the Peace Corps</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v12/persons#p_SRSJ1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Director, Peace Corps</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v01/persons#p_SS1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Jr., Director of the Peace Corps until 1966</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v22/persons#p_SRSJ1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>U.S. Ambassador to France until March 1970</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v41/persons#p_SRS_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>U.S. Ambassador to France, May 1968–March 1970</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve01/persons#p_SRSJ1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Democratic Vice Presidential nominee, 1972</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v01/persons#p_SRS_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>first Director of the Peace Corps from 1961 until 1966; Director of the Office of Economic Opportunity from 1964 until 1968; Ambassador to France from 1968 until 1970</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v02/persons#p_SRS_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Ambassador to France from April 1968</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v12/persons#p_SRSJ1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Director of the Peace Corps until 1966</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v25/persons#p_SRSJ1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Ambassador to France until March 1970</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve05p1/persons#p_SRSJ1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve05p2/persons#p_SRSJ1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Non-career appointee. Ambassador Extraordinary and Plenipotentiary (France).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/shriver-robert-sargent</source-url>
+        </remark>
+    </remarks>
+</person>

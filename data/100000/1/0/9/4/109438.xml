@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>109438</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Morse, John H.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="3">
+                <name>Morse, John H.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v29/persons#p_MJH1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v39/persons#p_MJH1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve01/persons#p_MJH1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="2">
+        <remark source-urls="2">
+            <p>Deputy Assistant Secretary of Defense for European and North Atlantic Treaty Organization Affairs</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v29/persons#p_MJH1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve01/persons#p_MJH1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Deputy Assistant Secretary for European and NATO Affairs, Bureau of International Security Affairs, Department of Defense from 1971 to 1973</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v39/persons#p_MJH1</source-url>
+        </remark>
+    </remarks>
+</person>

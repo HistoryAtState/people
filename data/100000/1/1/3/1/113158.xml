@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>113158</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Sukarno</name>
+        </preferred>
+        <alternates/>
+        <originals variants="6">
+            <original source-urls="1">
+                <name>Sukarno, Dr. Ahmed</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v21/persons#p_SDA1</source-url>
+            </original>
+            <original source-urls="6">
+                <name>Sukarno</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v22/persons#p_Sukarno1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v23/persons#p_S2</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v01/persons#p_Sukarno1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v26/persons#p_Sukarno1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v27/persons#p_Sukarno1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v20/persons#p_Sukarno1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Sukarno, Ahmed</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v02/persons#p_Sukarno1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Sukarno (also Soekarno), Dr. Achmed</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v17/persons#p_Sukarno1</source-url>
+            </original>
+            <original source-urls="2">
+                <name>Sukarno, Achmed</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v01/persons#p_SA2</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v02/persons#p_Sukarno1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>President Sukarno</name>
+                <source-url>https://history.state.gov/departmenthistory/visits/indonesia</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="1">
+            <title source-urls="2">
+                <name>Dr.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v21/persons#p_SDA1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v17/persons#p_Sukarno1</source-url>
+            </title>
+        </titles-from-name>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="8">
+        <remark source-urls="4">
+            <p>President of Indonesia</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v21/persons#p_SDA1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v22/persons#p_Sukarno1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v23/persons#p_S2</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v01/persons#p_Sukarno1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>President of Indonesia; also Prime Minister from July 1959</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v02/persons#p_Sukarno1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>President of Indonesia, concurrently Prime Minister from 1959</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v17/persons#p_Sukarno1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>President and Prime Minister of Indonesia</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v01/persons#p_SA2</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v02/persons#p_Sukarno1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>President of Indonesia, until March 12, 1967</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v26/persons#p_Sukarno1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>President of Indonesia until March 12, 1967</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v27/persons#p_Sukarno1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>former President of Indonesia</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v20/persons#p_Sukarno1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>President, Indonesia. Visited U.S. 4 times, 1956–1961</p>
+            <source-url>https://history.state.gov/departmenthistory/visits/indonesia</source-url>
+        </remark>
+    </remarks>
+</person>

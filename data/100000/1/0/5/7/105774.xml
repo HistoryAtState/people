@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>105774</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Heinz, Luther C.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="2">
+                <name>Heinz, Rear Adm. Luther C.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v01/persons#p_HRALC1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v02/persons#p_HLC1</source-url>
+            </original>
+            <original source-urls="3">
+                <name>Heinz, Rear Admiral Luther C.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v03/persons#p_HRALC1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v22/persons#p_HRALC1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v23/persons#p_HRALC1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Heinz, Luther C.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v09/persons#p_HLC1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="2">
+            <title source-urls="2">
+                <name>Rear Adm.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v01/persons#p_HRALC1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v02/persons#p_HLC1</source-url>
+            </title>
+            <title source-urls="3">
+                <name>Rear Admiral</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v03/persons#p_HRALC1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v22/persons#p_HRALC1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v23/persons#p_HRALC1</source-url>
+            </title>
+        </titles-from-name>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="6">
+        <remark source-urls="1">
+            <p>Director for Far Eastern Affairs, International Security Affairs, Department of Defense; Member, Presidential Task Force on Vietnam,April-May 1961; Member, Interdepartmental Task Force on Vietnam from May 1961</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v01/persons#p_HRALC1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Regional Director for the Far East, Office of International Security Affairs, Department of Defense</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v02/persons#p_HLC1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>USN, Regional Director for the Far East, Office of the Assistant Secretary of Defense for International Security Affairs</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v03/persons#p_HRALC1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>USN, Director, Far East Region, Office of the Assistant Secretary of Defense for International Security Affairs</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v22/persons#p_HRALC1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Director, Far East Region, Office of the Assistant Secretary of Defense for International Security Affairs</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v23/persons#p_HRALC1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Director of Military Assistance, International Security Affairs, Department of Defense, from January 1966</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v09/persons#p_HLC1</source-url>
+        </remark>
+    </remarks>
+</person>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>109405</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Morley, Robert</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="2">
+                <name>Morley, Robert</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve08/persons#p_MR7</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1981-88v13/persons#p_MRB_2</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="2">
+        <remark source-urls="1">
+            <p>Bureau of Near Eastern and South Asian Affairs, Department of State</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve08/persons#p_MR7</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Deputy Director, Office of Policy Planning Coordination, Bureau of Inter-American Affairs, Department of State until August 1982; Office of Mexican Affairs, Bureau of Inter-American Affairs, Department of State from August 1982 until August 1983; thereafter, Director, Office of Southern Cone Affairs, Bureau of Inter-American Affairs, Department of State</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1981-88v13/persons#p_MRB_2</source-url>
+        </remark>
+    </remarks>
+</person>

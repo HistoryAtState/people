@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>100250</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Alger, Frederick Moulton, Jr.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="5">
+                <name>Alger, Frederick M., Jr.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v05p1/persons#p_ALGERFMJ1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v05p2/persons#p_ALGERFMJ1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v04/persons#p_AFMJ1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v18/persons#p_AFMJ1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v27/persons#p_AFMJ1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Alger, Frederick Moulton, Jr.</name>
+                <source-url>https://history.state.gov/departmenthistory/people/alger-frederick-moulton</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Frederick M. Alger Jr.</name>
+                <source-url>https://history.state.gov/departmenthistory/people/alger-frederick-moulton</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1907</birth-year>
+    <death-year>1967</death-year>
+    <remarks variants="4">
+        <remark source-urls="2">
+            <p>Ambassador in Belgium, July 22, 1953–March 27, 1957.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v05p1/persons#p_ALGERFMJ1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v05p2/persons#p_ALGERFMJ1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Ambassador to Belgium until March 27, 1957</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v04/persons#p_AFMJ1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v27/persons#p_AFMJ1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Ambassador to Belgium to March 1957</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v18/persons#p_AFMJ1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Non-career appointee. Ambassador Extraordinary and Plenipotentiary (Belgium).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/alger-frederick-moulton</source-url>
+        </remark>
+    </remarks>
+</person>

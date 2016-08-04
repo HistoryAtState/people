@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>102623</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Clarke, Richard A.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="2">
+                <name>Clarke, Richard A.</name>
+                <source-url>https://history.state.gov/departmenthistory/people/clarke-richard-a</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1981-88v13/persons#p_CRA_1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1950</birth-year>
+    <death-year/>
+    <remarks variants="2">
+        <remark source-urls="1">
+            <p>Non-career appointee. Assistant Secretary of State for Politico-Military Affairs.</p>
+            <source-url>https://history.state.gov/departmenthistory/people/clarke-richard-a</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Deputy Director, Office of Policy Analysis, Bureau of Politico-Military Affairs, Department of State until September 1983; thereafter, Director, Office of Policy Analysis</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1981-88v13/persons#p_CRA_1</source-url>
+        </remark>
+    </remarks>
+</person>

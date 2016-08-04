@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>103476</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Diehl, William W.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="2">
+                <name>Diehl, William W.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v14p1/persons#p_DWW1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v14p2/persons#p_DWW1</source-url>
+            </original>
+            <original source-urls="2">
+                <name>Diehl, William</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v01/persons#p_DW1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v02/persons#p_DW2</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="3">
+        <remark source-urls="2">
+            <p>a senior official in the Economic Section of Supreme Command, Allied Powers, Japan to April 1952; thereafter Treasury Attaché at the Embassy in Japan.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v14p1/persons#p_DWW1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v14p2/persons#p_DWW1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Chief of the Far East Division, Office of International Finance, Department of the Treasury; Member of the Interdepartmental Task Force on Vietnam from May 1961; Member of the Staley Group</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v01/persons#p_DW1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Chief of the Far East Division, Office of International Finance, Department of Treasury</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v02/persons#p_DW2</source-url>
+        </remark>
+    </remarks>
+</person>

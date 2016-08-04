@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>105254</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Grunwald, Henry Anatole</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="1">
+                <name>Grunwald, Henry A.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v13/persons#p_GHA1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Grunwald, Henry Anatole</name>
+                <source-url>https://history.state.gov/departmenthistory/people/grunwald-henry-anatole</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1922</birth-year>
+    <death-year>2005</death-year>
+    <remarks variants="2">
+        <remark source-urls="1">
+            <p>managing editor of Time magazine</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v13/persons#p_GHA1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Non-career appointee. Ambassador Extraordinary and Plenipotentiary (Austria).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/grunwald-henry-anatole</source-url>
+        </remark>
+    </remarks>
+</person>

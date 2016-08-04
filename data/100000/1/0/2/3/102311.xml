@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>102311</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Castro, Raúl</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="1">
+                <name>Castro Ruz, Raúl</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v06/persons#p_CRR1</source-url>
+            </original>
+            <original source-urls="2">
+                <name>Castro Ruz, Raul</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v10/persons#p_CRR2</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v11/persons#p_CRR2</source-url>
+            </original>
+            <original source-urls="2">
+                <name>Castro, Raúl</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v26/persons#p_CR_2</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v30/persons#p_CRF_1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="5">
+        <remark source-urls="1">
+            <p>Commander in Chief of the Cuban Armed Forces from February 1959; also Minister of the Revolutionary Armed Forces from October 1959</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v06/persons#p_CRR1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Cuban Minister of the Armed Forces</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v10/persons#p_CRR2</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Minister of the Armed Forces of Cuba</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v11/persons#p_CRR2</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>U.S. Ambassador to Argentina from 1977 until 1980</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v26/persons#p_CR_2</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>President of the Council of State and President of the Council of Ministers of Cuba</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v30/persons#p_CRF_1</source-url>
+        </remark>
+    </remarks>
+</person>

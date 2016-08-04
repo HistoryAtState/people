@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>103882</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Einstein, Lewis David</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="2">
+                <name>Einstein, Lewis</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1915Supp/persons#p_EL1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1916Supp/persons#p_EL1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Einstein, Lewis David</name>
+                <source-url>https://history.state.gov/departmenthistory/people/einstein-lewis-david</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Lewis Einstein</name>
+                <source-url>https://history.state.gov/departmenthistory/people/einstein-lewis-david</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1877</birth-year>
+    <death-year>1967</death-year>
+    <remarks variants="3">
+        <remark source-urls="1">
+            <p>United States Special Agent at Sofia with rank of Chargé d’Affaires.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1915Supp/persons#p_EL1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>U. S. Special Agent at Sofia with rank of Chargé d’Affaires.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1916Supp/persons#p_EL1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Non-career appointee. Envoy Extraordinary and Minister Plenipotentiary (Czechoslovakia); Envoy Extraordinary and Minister Plenipotentiary (Costa Rica).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/einstein-lewis-david</source-url>
+        </remark>
+    </remarks>
+</person>

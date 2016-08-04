@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>104732</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Garran, Isham Peter</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="3">
+                <name>Garran, Isham Peter</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv01/persons#p_GIP1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv02/persons#p_GIP1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v12/persons#p_GIP1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Garran, Peter</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v15/persons#p_GP8</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="3">
+        <remark source-urls="2">
+            <p>Second Secretary, Western Department, British Foreign Office.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv01/persons#p_GIP1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv02/persons#p_GIP1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Commercial Minister of the British Embassy in the United States from January 7, 1955</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v12/persons#p_GIP1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>British Ambassador to the Netherlands from 1964</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v15/persons#p_GP8</source-url>
+        </remark>
+    </remarks>
+</person>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>100923</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Barre, Raymond O. J.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="4">
+            <original source-urls="1">
+                <name>Prime Minister Raymond O. J. Barre</name>
+                <source-url>https://history.state.gov/departmenthistory/visits/france</source-url>
+            </original>
+            <original source-urls="3">
+                <name>Barre, Raymond</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v03/persons#p_BR2</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v04/persons#p_BR2</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v03/persons#p_BR_1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Barré, Raymond</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v31/persons#p_BR1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Barre, Raymond O. J.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v26/persons#p_BR_1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="5">
+        <remark source-urls="1">
+            <p>Prime Minister, France. Visited U.S. once, 1977</p>
+            <source-url>https://history.state.gov/departmenthistory/visits/france</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Vice President for Financial Affairs, Commission of the European Communities</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v03/persons#p_BR2</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v04/persons#p_BR2</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>member, General Council of the Bank of France, 1973; French Minister of Foreign Trade, January–August 1976; French Minister of Economy and Finance from August 1976; French Prime Minister from August 1976</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v31/persons#p_BR1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Prime Minister of France; Minister of Economy and Finance of France until March 1978</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v03/persons#p_BR_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Prime Minister of France from 1976 until 1981</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v26/persons#p_BR_1</source-url>
+        </remark>
+    </remarks>
+</person>

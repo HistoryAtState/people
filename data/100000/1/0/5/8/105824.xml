@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>105824</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Henry, Paul-Marc</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="2">
+                <name>Henry, Paul-Marc</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v05/persons#p_HPM1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve07/persons#p_HPM1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="1">
+        <remark source-urls="2">
+            <p>Assistant Administrator and Associate Director, Bureau of Operations and Programming, UNDP; Coordinator, UN Relief Operations in Dacca (UNROD), 1971</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v05/persons#p_HPM1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve07/persons#p_HPM1</source-url>
+        </remark>
+    </remarks>
+</person>

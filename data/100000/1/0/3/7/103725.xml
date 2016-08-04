@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>103725</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Dunn, John M.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="1">
+                <name>Dunn John M.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v01/persons#p_DJM1</source-url>
+            </original>
+            <original source-urls="2">
+                <name>Dunn, John M.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v31/persons#p_DJM1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v37/persons#p_DJM_1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="3">
+        <remark source-urls="1">
+            <p>Special Assistant to the Director, United States Operations Mission in Saigon</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v01/persons#p_DJM1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Executive Director, Council on International Economic Policy from 1975</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v31/persons#p_DJM1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Acting Executive Director, Council on International Economic Policy, from 1975 until 1976</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v37/persons#p_DJM_1</source-url>
+        </remark>
+    </remarks>
+</person>

@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>108519</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Marjolin, Robert Ernest</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="8">
+                <name>Marjolin, Robert E.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v03p1/persons#p_MRE1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v03p2/persons#p_MRE1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v04p1/persons#p_MRE1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v04p2/persons#p_MRE1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v04/persons#p_MRE1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v27/persons#p_MRE1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v13/persons#p_MRE1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v13/persons#p_MRE2</source-url>
+            </original>
+            <original source-urls="3">
+                <name>Marjolin, Robert Ernest</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v05/persons#p_MRE1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v06p1/persons#p_MARJOLINRE1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v06p2/persons#p_MARJOLINRE1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Marjolin, Robert</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v09/persons#p_MRE2</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="8">
+        <remark source-urls="2">
+            <p>Secretary General, Organization for European Economic Cooperation.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1951v03p1/persons#p_MRE1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1951v03p2/persons#p_MRE1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Secretary General, Organization for European Economic Cooperation</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1951v04p1/persons#p_MRE1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1951v04p2/persons#p_MRE1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Secretary General of the Organization for European Cooperation.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1951v05/persons#p_MRE1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Secretary General of the Organization for European Economic Cooperation.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v06p1/persons#p_MARJOLINRE1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v06p2/persons#p_MARJOLINRE1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Technical Adviser in the Cabinet of the British Secretary of State for Foreign Affairs from February 1956</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v04/persons#p_MRE1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v27/persons#p_MRE1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Vice President, European Economic Community Commission</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v09/persons#p_MRE2</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Vice President of the Commission of the European Economic Community</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v13/persons#p_MRE1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Vice President of the European Economic Community</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v13/persons#p_MRE2</source-url>
+        </remark>
+    </remarks>
+</person>

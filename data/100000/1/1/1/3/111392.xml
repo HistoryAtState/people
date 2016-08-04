@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>111392</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Riley, Herbert D.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="4">
+            <original source-urls="1">
+                <name>Riley, Vice Admiral H.D.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v01/persons#p_RVAHD1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Riley, Vice Admiral H. D.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v16/persons#p_RVAHD1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Riley, Vice Adm. Herbert D.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v02/persons#p_RVAHD1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Riley, Vice Admiral Herbert D.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v08/persons#p_RVAHD1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="2">
+            <title source-urls="3">
+                <name>Vice Admiral</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v01/persons#p_RVAHD1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v16/persons#p_RVAHD1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v08/persons#p_RVAHD1</source-url>
+            </title>
+            <title source-urls="1">
+                <name>Vice Adm.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v02/persons#p_RVAHD1</source-url>
+            </title>
+        </titles-from-name>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="3">
+        <remark source-urls="2">
+            <p>USN, Chief of Staff to the Commander in Chief, Pacific, from February 1958</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v01/persons#p_RVAHD1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v16/persons#p_RVAHD1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Director, Joint Staff, Joint Chiefs of Staff</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v02/persons#p_RVAHD1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Director, Joint Staff, Joint Chiefs of Staff, from February 25, 1962</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v08/persons#p_RVAHD1</source-url>
+        </remark>
+    </remarks>
+</person>

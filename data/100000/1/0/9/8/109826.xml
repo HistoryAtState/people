@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>109826</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Nguyen Van Toan</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="2">
+                <name>Nguyen Van Toan</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v08/persons#p_NVT2</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v09/persons#p_NVT_2</source-url>
+            </original>
+            <original source-urls="2">
+                <name>Toan, Nguyen Van</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v08/persons#p_TNV2</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v09/persons#p_NVT_2alt1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="3">
+        <remark source-urls="1">
+            <p>Lieutenant General, ARVN, Commander (MR –2) from May 10, 1972</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v08/persons#p_NVT2</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>see Nguyen Van Toan</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v08/persons#p_TNV2</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v09/persons#p_NVT_2alt1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Lieutenant General, ARVN, Commander (MR–2)</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v09/persons#p_NVT_2</source-url>
+        </remark>
+    </remarks>
+</person>

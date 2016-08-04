@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>113003</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Stevenson, John Reese</name>
+        </preferred>
+        <alternates/>
+        <originals variants="4">
+            <original source-urls="8">
+                <name>Stevenson, John R.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v02/persons#p_SJR2</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v05/persons#p_SJR1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v17/persons#p_SJR2</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v36/persons#p_SJR2</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve01/persons#p_SJR2</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve03/persons#p_SJR2</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve10/persons#p_SJR2</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve13/persons#p_SJR2</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Stevenson, John</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v28/persons#p_SJ_4</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Stevenson, John Reese</name>
+                <source-url>https://history.state.gov/departmenthistory/people/stevenson-john-reese</source-url>
+            </original>
+            <original source-urls="1">
+                <name>John R. Stevenson</name>
+                <source-url>https://history.state.gov/departmenthistory/people/stevenson-john-reese</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1921</birth-year>
+    <death-year>1997</death-year>
+    <remarks variants="9">
+        <remark source-urls="1">
+            <p>Legal Adviser of the Department of State from July 1969</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v02/persons#p_SJR2</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>U.S. Representative to the United Nations Committee on the Peaceful Uses of the Seabed and the Ocean Floor Beyond the Limits of National Jurisdiction, 1972</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v05/persons#p_SJR1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Legal Adviser, Department of State, from July 8, 1969</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v17/persons#p_SJR2</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve13/persons#p_SJR2</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Legal Adviser, Department of State</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v28/persons#p_SJ_4</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Legal Adviser of the Department of State from July 1969 until December 1972</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v36/persons#p_SJR2</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Legal Adviser, Department of State, July 1969–January 1973; Chairman, U.S. Delegation to The Hague Conference on Hijacking, 1970; Chairman, Inter–Agency Law of the Sea Task Force</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve01/persons#p_SJR2</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>U.S. Representative to the United Nations Standing Committee for the Peaceful Uses of the Sea-Bed and Ocean Floor Beyond the Limits of National Jurisdiction; Special Representative of the President and Chief of the United States Delegation to the Third United Nations Law of the Sea Conference, until August 21, 1975; Public Chairman of the Law of the Sea Advisory Board and Senior Adviser to the United States Delegation to the Third United Nations Conference on the Law of the Sea from June 1976</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve03/persons#p_SJR2</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Legal Advisor from July 1969</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve10/persons#p_SJR2</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Non-career appointee. Legal Adviser.</p>
+            <source-url>https://history.state.gov/departmenthistory/people/stevenson-john-reese</source-url>
+        </remark>
+    </remarks>
+</person>

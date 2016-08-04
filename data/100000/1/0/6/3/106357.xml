@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>106357</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Ichimada, Hisato</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="1">
+                <name>Ichamada, Hisato</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v23p1/persons#p_IH1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Ichimada, Hisato</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v18/persons#p_IH2</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="2">
+        <remark source-urls="1">
+            <p>Japanese Finance Minister to December 1956 and again from July 1957</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v23p1/persons#p_IH1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Japanese Finance Minister, July 1957–June 1958</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v18/persons#p_IH2</source-url>
+        </remark>
+    </remarks>
+</person>

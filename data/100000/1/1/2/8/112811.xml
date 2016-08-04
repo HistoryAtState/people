@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>112811</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Spear, Moncrieff Johnston</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="3">
+                <name>Spear, Moncrieff J.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v27/persons#p_SMJ1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v20/persons#p_SMJ1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v02/persons#p_SMJ_1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Spear, Moncrieff Johnston</name>
+                <source-url>https://history.state.gov/departmenthistory/people/spear-moncrieff-johnston</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Moncrieff J. Spear</name>
+                <source-url>https://history.state.gov/departmenthistory/people/spear-moncrieff-johnston</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1921</birth-year>
+    <death-year/>
+    <remarks variants="4">
+        <remark source-urls="1">
+            <p>Country Director for Thailand, Department of State, from July 1967; Country Director for Thailand and Burma after January 1968</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v27/persons#p_SMJ1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Country Director, Thailand/Burma, Bureau of East Asian and Pacific Affairs, Department of State, until October 1970</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v20/persons#p_SMJ1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Deputy Coordinator for Human Rights, Office of the Deputy Secretary of State, until mid-1977; member, Panama Canal Treaty Task Force, from mid-1977 until 1979</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v02/persons#p_SMJ_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Foreign Service Officer. Chargé d'Affaires ad interim (Bahamas, The).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/spear-moncrieff-johnston</source-url>
+        </remark>
+    </remarks>
+</person>

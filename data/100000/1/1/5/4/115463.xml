@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>115463</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Flanigan, Howard A.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="1">
+                <name>Flanigan, Rear Admiral Howard A.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv02/persons#p_FRAHA1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="1">
+            <title source-urls="1">
+                <name>Rear Admiral</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv02/persons#p_FRAHA1</source-url>
+            </title>
+        </titles-from-name>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="1">
+        <remark source-urls="1">
+            <p>U. S. N., member of the Joint Military Transportation Committee, Joint Chiefs of Staff, and of the Combined Military Transportation Committee, Combined Chiefs of Staff.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv02/persons#p_FRAHA1</source-url>
+        </remark>
+    </remarks>
+</person>

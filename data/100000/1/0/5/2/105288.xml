@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>105288</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Guillaume, Augustin Léon</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="2">
+                <name>Guillaume, Augustin</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v05p1/persons#p_GUILLAUMEA1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v05p2/persons#p_GUILLAUMEA1</source-url>
+            </original>
+            <original source-urls="2">
+                <name>Guillaume, General Augustin</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v11p1/persons#p_GGA1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v11p2/persons#p_GGA1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Guillaume, General Augustin Léon</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v01/persons#p_GGAL1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="1">
+            <title source-urls="3">
+                <name>General</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v11p1/persons#p_GGA1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v11p2/persons#p_GGA1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v01/persons#p_GGAL1</source-url>
+            </title>
+        </titles-from-name>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="3">
+        <remark source-urls="2">
+            <p>General, French Army; Chief of Staff of the French Army, after March 1954.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v05p1/persons#p_GUILLAUMEA1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v05p2/persons#p_GUILLAUMEA1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>French Army; Resident General in Morocco until May 20, 1954; thereafter, Inspector General of French Forces in North Africa.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v11p1/persons#p_GGA1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v11p2/persons#p_GGA1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Chief of the General Staff of the French Armed Forces to March 1956</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v01/persons#p_GGAL1</source-url>
+        </remark>
+    </remarks>
+</person>

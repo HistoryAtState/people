@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>108314</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>MacVeagh, Isaac Wayne</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="1">
+                <name>MacVeagh, Isaac Wayne</name>
+                <source-url>https://history.state.gov/departmenthistory/people/macveagh-isaac-wayne</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Wayne MacVeagh</name>
+                <source-url>https://history.state.gov/departmenthistory/people/macveagh-isaac-wayne</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1833</birth-year>
+    <death-year>1917</death-year>
+    <remarks variants="1">
+        <remark source-urls="1">
+            <p>Non-career appointee. Minister Resident (Turkey); Ambassador Extraordinary and Plenipotentiary (Italy).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/macveagh-isaac-wayne</source-url>
+        </remark>
+    </remarks>
+</person>

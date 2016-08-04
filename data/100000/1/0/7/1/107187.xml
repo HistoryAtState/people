@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>107187</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Kim Yong-shik</name>
+        </preferred>
+        <alternates>
+            <name>Kim Yong-sik</name>
+        </alternates>
+        <originals variants="3">
+            <original source-urls="1">
+                <name>Kim Yong-sik</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v22/persons#p_KY1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Kim Yong Shik (Kim Yong-Sik)</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v19p1/persons#p_KYS1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Kim Yong-shik</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve12/persons#p_kim-yong-shik</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="3">
+        <remark source-urls="1">
+            <p>Foreign Minister of Korea from March 1963</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v22/persons#p_KY1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>ROK Foreign Minister from 1971 until 1972</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v19p1/persons#p_KYS1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>South Korean Foreign Minister from June 4, 1971 until December 2, 1973</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve12/persons#p_kim-yong-shik</source-url>
+        </remark>
+    </remarks>
+</person>

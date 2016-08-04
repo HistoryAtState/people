@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>102709</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Cohen, William Sebastian</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="5">
+                <name>Cohen, William S.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v38p1/persons#p_CWS_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v38p2/persons#p_CWS_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v01/persons#p_CWS_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v03/persons#p_CWS_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v13/persons#p_CWS_1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Cohen, William Sebastian</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve03/persons#p_CWS1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="6">
+        <remark source-urls="1">
+            <p>member, U.S. House of Representatives (R–Maine) from January 3, 1973</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v38p1/persons#p_CWS_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Representative (R–Maine) from January 3, 1973</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v38p2/persons#p_CWS_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Republican Representative from Maine</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve03/persons#p_CWS1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>member, U.S. House of Representatives (R-Maine) until January 3, 1979; thereafter, Senator</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v01/persons#p_CWS_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>member, U.S. House of Representatives (R–Maine) until 1978; Senator (R–Maine) from 1979</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v03/persons#p_CWS_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>member, U.S. House of Representatives (R–Maine) from January 1973 until January 1979; Senator (R–Maine) from January 1979 until January 1997</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v13/persons#p_CWS_1</source-url>
+        </remark>
+    </remarks>
+</person>

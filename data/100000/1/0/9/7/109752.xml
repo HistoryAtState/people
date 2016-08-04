@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>109752</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Newlin, Michael H.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="5">
+                <name>Newlin, Michael H.</name>
+                <source-url>https://history.state.gov/departmenthistory/people/newlin-michael-h</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v02/persons#p_NMH2</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v05/persons#p_NMH1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v23/persons#p_NMH_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v21/persons#p_NMH_1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1926</birth-year>
+    <death-year/>
+    <remarks variants="5">
+        <remark source-urls="1">
+            <p>Foreign Service Officer. Representative of the U.S.A. to the Vienna Office of the United Nations (Vienna); Ambassador Extraordinary and Plenipotentiary (Algeria).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/newlin-michael-h</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Office of United Nations Political and Security Affairs, Bureau of International Organization Affairs, Department of State, from June 1958</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v02/persons#p_NMH2</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Counselor for Political and Security Affairs, U.S. Mission to the United Nations, 1971</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v05/persons#p_NMH1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Polit General in Jerusalem from 1975 until 1980</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v23/persons#p_NMH_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Deputy Assistant Secretary of State for International Organization Affairs from 1980 until 1981</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v21/persons#p_NMH_1</source-url>
+        </remark>
+    </remarks>
+</person>

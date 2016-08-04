@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>113740</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Tri Quang</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="2">
+                <name>Tri Quang, bonze</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v03/persons#p_TQ1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v04/persons#p_TQ1</source-url>
+            </original>
+            <original source-urls="5">
+                <name>Tri Quang</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v01/persons#p_TQ1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v02/persons#p_TQ1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v03/persons#p_TQ1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v04/persons#p_TQ1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v05/persons#p_TQ1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="1">
+            <title source-urls="2">
+                <name>bonze</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v03/persons#p_TQ1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v04/persons#p_TQ1</source-url>
+            </title>
+        </titles-from-name>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="5">
+        <remark source-urls="2">
+            <p>Buddhist opposition leader</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v03/persons#p_TQ1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v04/persons#p_TQ1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Buddhist leader and official of General Buddhist Association</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v01/persons#p_TQ1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Buddhist political leader and Secretary General of the High Council of the United Buddhist Association</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v02/persons#p_TQ1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v03/persons#p_TQ1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Buddhist leader and key figure in the direction of the Struggle Forces</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v04/persons#p_TQ1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>leader of the Buddhist Struggle Movement</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v05/persons#p_TQ1</source-url>
+        </remark>
+    </remarks>
+</person>

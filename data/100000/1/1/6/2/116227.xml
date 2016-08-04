@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>116227</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Van Allen, Dirk</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="1">
+                <name>Van Allen, Dirk</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v30/persons#p_VAD_1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="1">
+        <remark source-urls="1">
+            <p>Commander., USN; Maritime/UN Negotiations Division, Joint Chiefs of Staff; member, Interagency Committee on Public Diplomacy and Disarmament</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v30/persons#p_VAD_1</source-url>
+        </remark>
+    </remarks>
+</person>

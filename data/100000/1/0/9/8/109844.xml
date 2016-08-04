@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>109844</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Nicholson, Meredith</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="1">
+                <name>Nicholson, Meredith</name>
+                <source-url>https://history.state.gov/departmenthistory/people/nicholson-meredith</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1866</birth-year>
+    <death-year>1947</death-year>
+    <remarks variants="1">
+        <remark source-urls="1">
+            <p>Non-career appointee. Envoy Extraordinary and Minister Plenipotentiary (Venezuela); Envoy Extraordinary and Minister Plenipotentiary (Portugal); Envoy Extraordinary and Minister Plenipotentiary (Paraguay); Envoy Extraordinary and Minister Plenipotentiary (Nicaragua).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/nicholson-meredith</source-url>
+        </remark>
+    </remarks>
+</person>

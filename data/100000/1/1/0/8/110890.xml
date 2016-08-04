@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>110890</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Pote Sarasin</name>
+        </preferred>
+        <alternates/>
+        <originals variants="4">
+            <original source-urls="4">
+                <name>Sarasin, Pote</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v03/persons#p_SARASINP1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v21/persons#p_SP1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v22/persons#p_SP1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v23/persons#p_SP1</source-url>
+            </original>
+            <original source-urls="6">
+                <name>Pote Sarasin</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v03/persons#p_POTESARASIN1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v16/persons#p_PS2</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v15/persons#p_PS1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v23/persons#p_PS2</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v27/persons#p_PS1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v20/persons#p_PS5</source-url>
+            </original>
+            <original source-urls="3">
+                <name>Sarasin</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v16/persons#p_S1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v15/persons#p_Sarasin1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v16/persons#p_Sarasin1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="12">
+        <remark source-urls="1">
+            <p>See Sarasin.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v03/persons#p_POTESARASIN1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Thai Ambassador to the United States from June 12, 1952; Representative of Thailand to the 7th, 8th, and 9th Regular Sessions of the General Assembly.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v03/persons#p_SARASINP1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Ambassador of Thailand in the United States; Delegate of Thailand at the Geneva Conference.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v16/persons#p_PS2</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>See Pote Sarasin.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v16/persons#p_S1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Ambassador of Thailand to the United States to September 1957</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v21/persons#p_SP1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Thai Ambassador to the United States to July 1957; Secretary-General of the Southeast Asia Treaty Organization, July–September 1957; Prime Minister, September–December 1957</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v22/persons#p_SP1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Prime Minister of Thailand until January 1958; Secretary General of SEATO</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v15/persons#p_PS1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>see Pote Sarasin</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v15/persons#p_Sarasin1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v16/persons#p_Sarasin1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>see Sarasin, Pote</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v23/persons#p_PS2</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Secretary General of SEATO until December 1963</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v23/persons#p_SP1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Minister of National Development and Economic Affairs of Thailand</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v27/persons#p_PS1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Thai Minister of National Development, Thai SEATO council member</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v20/persons#p_PS5</source-url>
+        </remark>
+    </remarks>
+</person>

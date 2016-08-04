@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>112841</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Spinelli, Pier P.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="3">
+                <name>Spinelli, Pier P.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v17/persons#p_SPP3</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v18/persons#p_SPP3</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v21/persons#p_SPP3</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="2">
+        <remark source-urls="2">
+            <p>Special Representative of the United Nations Secretary-General for Jordan, 1961–1962; for Yemen from November 3, 1963</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v17/persons#p_SPP3</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v18/persons#p_SPP3</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Special Representative of the UN Secretary-General, and head of the United Nations Yemen Observation Mission</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v21/persons#p_SPP3</source-url>
+        </remark>
+    </remarks>
+</person>

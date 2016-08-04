@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>101656</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Braden, Spruille</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="3">
+                <name>Braden, Spruille</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945-50Intel/persons#p_BS1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1947v02/persons#p_BS2</source-url>
+                <source-url>https://history.state.gov/departmenthistory/people/braden-spruille</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1894</birth-year>
+    <death-year>1978</death-year>
+    <remarks variants="3">
+        <remark source-urls="1">
+            <p>Assistant Secretary of State for American Republic Affairs, August 25, 1945-June 27, 1947</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1945-50Intel/persons#p_BS1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Assistant Secretary of State for American Republic Affairs, August 1945–June 1947</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1947v02/persons#p_BS2</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Non-career appointee. Assistant Secretary of State for Western Hemisphere Affairs; Ambassador Extraordinary and Plenipotentiary (Cuba); Envoy Extraordinary and Minister Plenipotentiary (Colombia); Ambassador Extraordinary and Plenipotentiary (Colombia); Ambassador Extraordinary and Plenipotentiary (Argentina).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/braden-spruille</source-url>
+        </remark>
+    </remarks>
+</person>

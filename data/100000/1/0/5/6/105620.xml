@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>105620</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Hartley, Virginia F.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="1">
+                <name>Hartley, Virginia</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v11/persons#p_HV1</source-url>
+            </original>
+            <original source-urls="3">
+                <name>Hartley, Virginia F.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v02/persons#p_HVF1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v25/persons#p_HVF1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v05/persons#p_HVF1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="4">
+        <remark source-urls="1">
+            <p>Foreign Affairs Officer in the Office of United Nations Political and Security Affairs, Bureau of International Organization Affairs, Department of State</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v11/persons#p_HV1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Office of United Nations Political and Security Affairs, Bureau of International Organization Affairs, Department of State</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v02/persons#p_HVF1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Special Assistant, Office of United Nations Political Affairs, Bureau of International Organization Affairs, Department of State, 1963</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v25/persons#p_HVF1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>special assistant, Office of United Nations Political Affairs, Bureau of International Organization Affairs, Department of State</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v05/persons#p_HVF1</source-url>
+        </remark>
+    </remarks>
+</person>

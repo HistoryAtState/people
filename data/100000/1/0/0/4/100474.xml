@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>100474</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Androutsopoulos, Adamantios</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="2">
+                <name>Androutsopoulos, Adamantios</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v29/persons#p_AA1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v30/persons#p_AA3</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="2">
+        <remark source-urls="1">
+            <p>Greek Minister of Finance until August 1971; thereafter, Minister of the Interior</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v29/persons#p_AA1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Greek Prime Minister from November 1973 until July 1974</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v30/persons#p_AA3</source-url>
+        </remark>
+    </remarks>
+</person>

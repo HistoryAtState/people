@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>105972</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Hitt, Robert Stockwell Reynolds</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="1">
+                <name>Hitt, Robert Stockwell Reynolds</name>
+                <source-url>https://history.state.gov/departmenthistory/people/hitt-robert-stockwell-reynolds</source-url>
+            </original>
+            <original source-urls="1">
+                <name>R.S. Reynolds Hitt</name>
+                <source-url>https://history.state.gov/departmenthistory/people/hitt-robert-stockwell-reynolds</source-url>
+            </original>
+            <original source-urls="1">
+                <name>R. S. Reynolds Hitt</name>
+                <source-url>https://history.state.gov/departmenthistory/people/hitt-robert-stockwell-reynolds</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1876</birth-year>
+    <death-year>1938</death-year>
+    <remarks variants="1">
+        <remark source-urls="1">
+            <p>Non-career appointee. Envoy Extraordinary and Minister Plenipotentiary (Venezuela); Envoy Extraordinary and Minister Plenipotentiary (Panama); Envoy Extraordinary and Minister Plenipotentiary (Guatemala).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/hitt-robert-stockwell-reynolds</source-url>
+        </remark>
+    </remarks>
+</person>

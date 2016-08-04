@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>112270</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Sforza, Carlo</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="6">
+                <name>Sforza, Count Carlo</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1943CairoTehran/persons#p_SCC1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945Malta/persons#p_SCC1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1947v02/persons#p_SCC1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1948v02/persons#p_SCC1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v03p1/persons#p_SCC1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v03p2/persons#p_SCC1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Sforza, Carlo</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv02/persons#p_SCC1</source-url>
+            </original>
+            <original source-urls="2">
+                <name>Sforza, Court Carlo</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v04p1/persons#p_SCC1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v04p2/persons#p_SCC1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="1">
+            <title source-urls="8">
+                <name>Count</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1943CairoTehran/persons#p_SCC1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945Malta/persons#p_SCC1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1947v02/persons#p_SCC1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1948v02/persons#p_SCC1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v03p1/persons#p_SCC1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v03p2/persons#p_SCC1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v04p1/persons#p_SCC1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v04p2/persons#p_SCC1</source-url>
+            </title>
+        </titles-from-name>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="6">
+        <remark source-urls="1">
+            <p>Italian Minister of Foreign Affairs, June 1920–July 1921.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1943CairoTehran/persons#p_SCC1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Italian High Commissioner for Punishment of Illegal Acts Under Fascism and Minister Without Portfolio, 1944.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv02/persons#p_SCC1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Italian High Commissioner for Punishment of Illegal Acts under Fascism and Minister without Portfolio, 1944.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1945Malta/persons#p_SCC1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Italian Minister for Foreign Affairs</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1947v02/persons#p_SCC1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1948v02/persons#p_SCC1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Italian Foreign Minister.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1951v03p1/persons#p_SCC1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1951v03p2/persons#p_SCC1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Italian Foreign Minister</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1951v04p1/persons#p_SCC1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1951v04p2/persons#p_SCC1</source-url>
+        </remark>
+    </remarks>
+</person>

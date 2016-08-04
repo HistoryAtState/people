@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>106314</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Hurwitz, Edward</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="2">
+                <name>Hurwitz, Edward</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve12/persons#p_hurwitz-edward</source-url>
+                <source-url>https://history.state.gov/departmenthistory/people/hurwitz-edward</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1931</birth-year>
+    <death-year/>
+    <remarks variants="2">
+        <remark source-urls="1">
+            <p>Counselor for Political Affairs from December 1974; Departmental Special Assistant from November 1975; Director of the Office of Korean Affairs from August 1976</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve12/persons#p_hurwitz-edward</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Foreign Service Officer. Ambassador Extraordinary and Plenipotentiary (Kyrgyzstan); Chargé d'Affaires ad interim (Afghanistan).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/hurwitz-edward</source-url>
+        </remark>
+    </remarks>
+</person>

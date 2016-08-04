@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>102442</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Chechetkin, Igor V.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="1">
+                <name>Chechetkin, Igor V.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v11/persons#p_CIV1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="1">
+        <remark source-urls="1">
+            <p>member of the United Nations Advisory Committee on Administrative and Budgetary Questions</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v11/persons#p_CIV1</source-url>
+        </remark>
+    </remarks>
+</person>

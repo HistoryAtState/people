@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>108782</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>McCloskey, Paul Norton (“Pete”), Jr.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="4">
+            <original source-urls="1">
+                <name>McCloskey, Paul N., Jr.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v10/persons#p_MPN1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>McCloskey, Paul N., Jr. (Pete)</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v38p2/persons#p_MPN_1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>McCloskey, Paul Norton Jr. (Pete)</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve03/persons#p_MCPNP1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>McCloskey, Paul N.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve12/persons#p_mccloskey-paul-n</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="3">
+        <remark source-urls="2">
+            <p>Republican Representative from California</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v10/persons#p_MPN1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve12/persons#p_mccloskey-paul-n</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Representative (R–California)</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v38p2/persons#p_MPN_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Republican Representative from California, Ranking Minority Member, Merchant Marine Subcommittee, Merchant Marine and Fisheries Committee, U.S. House of Representatives</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve03/persons#p_MCPNP1</source-url>
+        </remark>
+    </remarks>
+</person>

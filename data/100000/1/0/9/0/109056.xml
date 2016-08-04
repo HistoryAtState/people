@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>109056</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Merrell, George Robert</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="2">
+                <name>Merrell, George Robert</name>
+                <source-url>https://history.state.gov/departmenthistory/people/merrell-george-robert</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v05/persons#p_MGR1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>George R. Merrell</name>
+                <source-url>https://history.state.gov/departmenthistory/people/merrell-george-robert</source-url>
+            </original>
+            <original source-urls="2">
+                <name>Merrell, George R.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v11p1/persons#p_MGR1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v11p2/persons#p_MGR1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1898</birth-year>
+    <death-year>1962</death-year>
+    <remarks variants="3">
+        <remark source-urls="1">
+            <p>Foreign Service Officer. Chargé d'Affaires ad interim (Haiti); Envoy Extraordinary and Minister Plenipotentiary (Ethiopia); Ambassador Extraordinary and Plenipotentiary (Ethiopia); Ambassador Extraordinary and Plenipotentiary (Afghanistan).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/merrell-george-robert</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Ambassador to Ethiopia until March 17, 1951.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1951v05/persons#p_MGR1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Ambassador to Afghanistan until May 3, 1952.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v11p1/persons#p_MGR1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v11p2/persons#p_MGR1</source-url>
+        </remark>
+    </remarks>
+</person>

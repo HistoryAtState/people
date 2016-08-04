@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>103064</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Curry, Jabez Lamar Monroe</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="1">
+                <name>Curry, Jabez Lamar Monroe</name>
+                <source-url>https://history.state.gov/departmenthistory/people/curry-jabez-lamar-monroe</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Jabez L.M. Curry</name>
+                <source-url>https://history.state.gov/departmenthistory/people/curry-jabez-lamar-monroe</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1825</birth-year>
+    <death-year>1903</death-year>
+    <remarks variants="1">
+        <remark source-urls="1">
+            <p>Non-career appointee. Envoy Extraordinary and Minister Plenipotentiary (Spain).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/curry-jabez-lamar-monroe</source-url>
+        </remark>
+    </remarks>
+</person>

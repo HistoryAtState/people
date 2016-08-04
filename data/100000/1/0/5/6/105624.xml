@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>105624</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Hartman, Richard J.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="2">
+                <name>Hartman, Richard J.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v21/persons#p_HRJ_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve16/persons#p_HRJ_1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="2">
+        <remark source-urls="1">
+            <p>Brigadier General, USAF; Deputy Director, Joint Continental Defense Systems Integration Planning Staff, Organization of the Joint Chiefs of Staff, from February 1970</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v21/persons#p_HRJ_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Brigadier General, USAF, Deputy Director, Joint Continental Defense Systems Integration Planning Staff, Organization of the Joint Chiefs of Staff from February 1970</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve16/persons#p_HRJ_1</source-url>
+        </remark>
+    </remarks>
+</person>

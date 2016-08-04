@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>110594</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Peter II</name>
+        </preferred>
+        <alternates/>
+        <originals variants="4">
+            <original source-urls="1">
+                <name>King Peter II</name>
+                <source-url>https://history.state.gov/departmenthistory/visits/yugoslavia</source-url>
+            </original>
+            <original source-urls="2">
+                <name>Peter II</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1943CairoTehran/persons#p_PII1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945Malta/persons#p_PII1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Peter (Petar) II</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv01/persons#p_PII1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Yugoslavia, The King of</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv01/persons#p_Y1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="3">
+        <remark source-urls="1">
+            <p>King, Yugoslavia. Visited U.S. once, 1942</p>
+            <source-url>https://history.state.gov/departmenthistory/visits/yugoslavia</source-url>
+        </remark>
+        <remark source-urls="3">
+            <p>King of Yugoslavia.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1943CairoTehran/persons#p_PII1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv01/persons#p_PII1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1945Malta/persons#p_PII1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>See Peter II.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv01/persons#p_Y1</source-url>
+        </remark>
+    </remarks>
+</person>

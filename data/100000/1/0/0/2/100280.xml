@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>100280</id>
+    <authorities>
+        <authority service="viaf">61682080</authority>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Āl-Khalīfah, Ḥamad ibn ʻĪsá</name>
+        </preferred>
+        <alternates/>
+        <originals variants="5">
+            <original source-urls="1">
+                <name>Sheikh Haya Rashed al-Khalifa</name>
+                <source-url>https://history.state.gov/departmenthistory/visits/bahrain</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Emir Sheikh Hamad bin Isa al-Khalifa</name>
+                <source-url>https://history.state.gov/departmenthistory/visits/bahrain</source-url>
+            </original>
+            <original source-urls="1">
+                <name>King Hamad Bin Essa al-Khalifa</name>
+                <source-url>https://history.state.gov/departmenthistory/visits/bahrain</source-url>
+            </original>
+            <original source-urls="1">
+                <name>King Hamad bin Issa al-Khalifa</name>
+                <source-url>https://history.state.gov/departmenthistory/visits/bahrain</source-url>
+            </original>
+            <original source-urls="1">
+                <name>King Hamad Bin Isa Bin Salman al-Khalifa</name>
+                <source-url>https://history.state.gov/departmenthistory/visits/bahrain</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="5">
+        <remark source-urls="1">
+            <p>Sheikh, Bahrain. Visited U.S. once, 2006</p>
+            <source-url>https://history.state.gov/departmenthistory/visits/bahrain</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Emir Sheikh, Bahrain. Visited U.S. once, 2001</p>
+            <source-url>https://history.state.gov/departmenthistory/visits/bahrain</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>King, Bahrain. Visited U.S. once, 2003</p>
+            <source-url>https://history.state.gov/departmenthistory/visits/bahrain</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>King, Bahrain. Visited U.S. once, 2008</p>
+            <source-url>https://history.state.gov/departmenthistory/visits/bahrain</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>King, Bahrain. Visited U.S. once, 2004</p>
+            <source-url>https://history.state.gov/departmenthistory/visits/bahrain</source-url>
+        </remark>
+    </remarks>
+</person>

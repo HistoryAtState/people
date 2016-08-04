@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>104164</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Fascell, Dante B.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="2">
+                <name>Fascell, Dante</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v10/persons#p_FD1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v29/persons#p_FD1</source-url>
+            </original>
+            <original source-urls="8">
+                <name>Fascell, Dante B.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v22/persons#p_FDB_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v30/persons#p_FDB1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve11p1/persons#p_FDB_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve11p2/persons#p_FDB_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v01/persons#p_FDB_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v02/persons#p_FDB_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v21/persons#p_FDB_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v30/persons#p_FDB_1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="8">
+        <remark source-urls="1">
+            <p>Democratic Representative from Florida</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v10/persons#p_FD1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>member, U.S. House of Representatives (D-Florida) from 1973</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v22/persons#p_FDB_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Representative (D–Florida)</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v29/persons#p_FD1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Democratic Congressman from Florida</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v30/persons#p_FDB1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Member, U.S. House of Representatives (D-Florida) from 1973</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve11p1/persons#p_FDB_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Member, U.S. House of Representatives (D-Florida)</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve11p2/persons#p_FDB_1</source-url>
+        </remark>
+        <remark source-urls="3">
+            <p>member, U.S. House of Representatives (D-Florida)</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v01/persons#p_FDB_1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v21/persons#p_FDB_1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v30/persons#p_FDB_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>member, U.S. House of Representatives (D-Florida); chairman, Commission on CSCE (Helsinki Commission)</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v02/persons#p_FDB_1</source-url>
+        </remark>
+    </remarks>
+</person>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>104993</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Gómez Horacio, Maximiliano</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="1">
+                <name>Gómez Horacio, Maximiliano</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve10/persons#p_GHM1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="1">
+        <remark source-urls="1">
+            <p>Secretary-General of the Marxist-Leninist Movimiento Popular Dominicano (MPD), Dominican Republic</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve10/persons#p_GHM1</source-url>
+        </remark>
+    </remarks>
+</person>

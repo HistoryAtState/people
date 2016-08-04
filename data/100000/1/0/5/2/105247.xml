@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>105247</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Gruben, Hervé de</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="1">
+                <name>de Gruben, Baron Hervé</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1946v03/persons#p_DGBH1</source-url>
+            </original>
+            <original source-urls="2">
+                <name>Gruben, Baron Hervé de</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1947v02/persons#p_GBHD1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1948v02/persons#p_GBHD1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="1">
+            <title source-urls="3">
+                <name>Baron</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1946v03/persons#p_DGBH1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1947v02/persons#p_GBHD1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1948v02/persons#p_GBHD1</source-url>
+            </title>
+        </titles-from-name>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="3">
+        <remark source-urls="1">
+            <p>Member of the Belgian Delegation; Deputy Director for Political Affairs, Belgian Ministry of Foreign Affairs</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1946v03/persons#p_DGBH1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Belgian Ministry for Foreign Affairs</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1947v02/persons#p_GBHD1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Secretary General of the Belgian Ministry for Foreign Affairs</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1948v02/persons#p_GBHD1</source-url>
+        </remark>
+    </remarks>
+</person>

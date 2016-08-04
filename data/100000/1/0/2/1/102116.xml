@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>102116</id>
+    <authorities>
+        <authority service="viaf">316737294</authority>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Cambridge, Alexander</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="1">
+                <name>Governor General Earl of Athlone</name>
+                <source-url>https://history.state.gov/departmenthistory/visits/canada</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="1">
+        <remark source-urls="1">
+            <p>Governor General, Canada. Visited U.S. 2 times, 1940–1945</p>
+            <source-url>https://history.state.gov/departmenthistory/visits/canada</source-url>
+        </remark>
+    </remarks>
+</person>

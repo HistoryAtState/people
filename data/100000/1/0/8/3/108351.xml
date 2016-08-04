@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>108351</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Mahart, Ashton H.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="1">
+                <name>Mahart, Maj. Gen Ashton H.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v29p2/persons#p_MMGAH1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="1">
+            <title source-urls="1">
+                <name>Maj. Gen.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v29p2/persons#p_MMGAH1</source-url>
+            </title>
+        </titles-from-name>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="1">
+        <remark source-urls="1">
+            <p>USA, Deputy Director, Joint Staff until 1964; Vice Director, Joint Staff from 1965 to 1966</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v29p2/persons#p_MMGAH1</source-url>
+        </remark>
+    </remarks>
+</person>

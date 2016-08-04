@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>100966</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Baruch, Herman Benjamin</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="2">
+                <name>Baruch, Herman Benjamin</name>
+                <source-url>https://history.state.gov/departmenthistory/people/baruch-herman-benjamin</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv02/persons#p_BHB1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Herman B. Baruch</name>
+                <source-url>https://history.state.gov/departmenthistory/people/baruch-herman-benjamin</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Baruch, Herman B.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1948v02/persons#p_BHB1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1872</birth-year>
+    <death-year>1953</death-year>
+    <remarks variants="3">
+        <remark source-urls="1">
+            <p>Non-career appointee. Ambassador Extraordinary and Plenipotentiary (Portugal); Ambassador Extraordinary and Plenipotentiary (Netherlands).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/baruch-herman-benjamin</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Ambassador to Portugal.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv02/persons#p_BHB1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>United States Ambassador in the Netherlands</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1948v02/persons#p_BHB1</source-url>
+        </remark>
+    </remarks>
+</person>

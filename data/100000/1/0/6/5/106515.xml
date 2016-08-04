@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>106515</id>
+    <authorities>
+        <authority service="viaf">48891919</authority>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Jagdeo, Bharrat</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="1">
+                <name>President Bharrat Jagdeo</name>
+                <source-url>https://history.state.gov/departmenthistory/visits/guyana</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="1">
+        <remark source-urls="1">
+            <p>President, Guyana. Visited U.S. once, 2003</p>
+            <source-url>https://history.state.gov/departmenthistory/visits/guyana</source-url>
+        </remark>
+    </remarks>
+</person>

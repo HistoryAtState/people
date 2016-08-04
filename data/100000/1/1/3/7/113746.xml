@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>113746</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Tron, René A.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="1">
+                <name>Tron, René</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v02/persons#p_TRA1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Tron, Rene A.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v24/persons#p_TRA1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="2">
+        <remark source-urls="1">
+            <p>Office of United Nations Political and Security Affairs, Bureau of International Organization Affairs, Department of State, from mid-1960</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v02/persons#p_TRA1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Officer in Charge of Algerian Affairs, Office of Northern African Affairs, Bureau of African Affairs, Department of State, July 1965–1967</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v24/persons#p_TRA1</source-url>
+        </remark>
+    </remarks>
+</person>

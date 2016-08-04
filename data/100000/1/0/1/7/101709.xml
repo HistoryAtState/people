@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>101709</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Brennan, Peter J.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="4">
+                <name>Brennan, Peter J.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v08/persons#p_BPJ1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v31/persons#p_BPJ1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v38p1/persons#p_BPJ_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v38p2/persons#p_BPJ_1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="4">
+        <remark source-urls="1">
+            <p>labor leader (President of New York City Building and Construction Trades Council and New York Building and Construction Trades Council) and Nixon supporter</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v08/persons#p_BPJ1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Secretary of Labor from February 1973 until March 1975</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v31/persons#p_BPJ1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Secretary of Labor from February 2, 1973, until March 15, 1975</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v38p1/persons#p_BPJ_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Secretary of Labor, February 2, 1973–March 15, 1975</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v38p2/persons#p_BPJ_1</source-url>
+        </remark>
+    </remarks>
+</person>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>106826</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Kaissouni, Abdel Moneim</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="2">
+                <name>El-Kaissouny (Kaisouni), Abdel Moneim</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v09p1/persons#p_EKKA1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v09p2/persons#p_EKKA1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>al-Kaissouni, Abdelmoneim</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v17/persons#p_aKA1</source-url>
+            </original>
+            <original source-urls="4">
+                <name>Kaissouni, Abdel Moneim</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v13/persons#p_KAM1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v17/persons#p_KAM2</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v18/persons#p_KAM2</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v18/persons#p_KAM2</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="5">
+        <remark source-urls="2">
+            <p>Egyptian Minister of Finance from September 1954.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v09p1/persons#p_EKKA1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v09p2/persons#p_EKKA1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Egyptian Minister of Finance</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v17/persons#p_aKA1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>United Arab Republic Minister of Economy from February 1958</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v13/persons#p_KAM1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Minister of Economy and Planning of the United Arab Republic</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v17/persons#p_KAM2</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v18/persons#p_KAM2</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>United Arab Republic Minister of Finance until September 1965; thereafter Deputy Prime Minister in charge of Economic Affairs</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v18/persons#p_KAM2</source-url>
+        </remark>
+    </remarks>
+</person>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>113319</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Talal, Ibn Abdullah al-Hussein</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="3">
+                <name>Talal, Ibn Abdullah al-Hussein</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v05/persons#p_TAH1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v09p1/persons#p_TIA1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v09p2/persons#p_TIA1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="2">
+        <remark source-urls="1">
+            <p>Crown Prince of the Hashemite Kingdom of Jordan; proclaimed King on September 5, 1951.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1951v05/persons#p_TAH1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>King of Jordan until August 11, 1952.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v09p1/persons#p_TIA1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v09p2/persons#p_TIA1</source-url>
+        </remark>
+    </remarks>
+</person>

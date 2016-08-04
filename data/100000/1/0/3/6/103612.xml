@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>103612</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Douglas, James H., II</name>
+        </preferred>
+        <alternates/>
+        <originals variants="5">
+            <original source-urls="1">
+                <name>Douglas, Colonel James H., Jr.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv01/persons#p_DCJH1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Douglas, James H., II</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv02/persons#p_DCJHJ1</source-url>
+            </original>
+            <original source-urls="7">
+                <name>Douglas, James H.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v01/persons#p_DJH1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v07p1/persons#p_DJH1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v07p2/persons#p_DJH1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v08/persons#p_DJH1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v09/persons#p_DJH1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v13/persons#p_DJH2</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v18/persons#p_DJHJ1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Douglas, James II</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v03/persons#p_DJHJ1</source-url>
+            </original>
+            <original source-urls="2">
+                <name>Douglas, James H., Jr.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v06/persons#p_DJHJ1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v14/persons#p_DJHJ1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="1">
+            <title source-urls="1">
+                <name>Colonel</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv01/persons#p_DCJH1</source-url>
+            </title>
+        </titles-from-name>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="5">
+        <remark source-urls="2">
+            <p>U. S. A., Chief of Staff, Air Transport Command, Army Air Forces.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv01/persons#p_DCJH1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv02/persons#p_DCJHJ1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Secretary of the Air Force to December 1959; thereafter Deputy Secretary of Defense</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v01/persons#p_DJH1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Secretary of the Air Force until December 11, 1959; thereafter Deputy Secretary of Defense</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v03/persons#p_DJHJ1</source-url>
+        </remark>
+        <remark source-urls="7">
+            <p>Secretary of the Air Force until December 1959; thereafter Deputy Secretary of Defense</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v06/persons#p_DJHJ1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v07p1/persons#p_DJH1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v07p2/persons#p_DJH1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v08/persons#p_DJH1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v09/persons#p_DJH1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v14/persons#p_DJHJ1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v18/persons#p_DJHJ1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Deputy Secretary of Defense from December 1959</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v13/persons#p_DJH2</source-url>
+        </remark>
+    </remarks>
+</person>

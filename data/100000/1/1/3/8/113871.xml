@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>113871</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Ulver, Henri</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="2">
+                <name>Ulver, Henri</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v05p1/persons#p_ULVERH1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v05p2/persons#p_ULVERH1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="1">
+        <remark source-urls="2">
+            <p>Deputy in the French National Assembly after 1946; Secretary of State for the Budget, June 25, 1953–June 18, 1954; Secretary of State for the Budget and Minister of Industry and Commerce, June 19, 1954–February 22, 1955.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v05p1/persons#p_ULVERH1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v05p2/persons#p_ULVERH1</source-url>
+        </remark>
+    </remarks>
+</person>

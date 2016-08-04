@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>113231</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Suydam, Henry</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="3">
+                <name>Suydam, Henry</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1917-72PubDip/persons#p_SH_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v16/persons#p_SH1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v05/persons#p_SH1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="3">
+        <remark source-urls="1">
+            <p>Committee on Public Information Commissioner in the Netherlands</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1917-72PubDip/persons#p_SH_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Chief of the News Division, Department of State; Press Officer of the United States Delegation at the Geneva Conference.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v16/persons#p_SH1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Chief of the News Division, Department of State</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v05/persons#p_SH1</source-url>
+        </remark>
+    </remarks>
+</person>

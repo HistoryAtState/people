@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>113217</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Susaikov, Ivan Zakharovich</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="1">
+                <name>Susaikov, Colonel General Ivan Zakharovich</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv01/persons#p_SCGIZ1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Susaicov</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv02/persons#p_S15</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Susaikov, Ivan Zakharovich</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv02/persons#p_SCGIZ1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="1">
+            <title source-urls="1">
+                <name>Colonel General</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv01/persons#p_SCGIZ1</source-url>
+            </title>
+        </titles-from-name>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="2">
+        <remark source-urls="2">
+            <p>(Soviet) Deputy Chairman, Allied Control Commission for Rumania.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv01/persons#p_SCGIZ1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv02/persons#p_SCGIZ1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>See Susaikov.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv02/persons#p_S15</source-url>
+        </remark>
+    </remarks>
+</person>

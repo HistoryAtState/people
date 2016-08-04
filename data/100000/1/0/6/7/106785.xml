@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>106785</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Juin, Alphonse Pierre</name>
+        </preferred>
+        <alternates/>
+        <originals variants="7">
+            <original source-urls="1">
+                <name>Juin, General Alphonse-Pierre</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv01/persons#p_JGAP1</source-url>
+            </original>
+            <original source-urls="2">
+                <name>Juin, Alphonse Pierre</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv02/persons#p_JGAP1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v05/persons#p_JPA1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Juin, General Alphonse Pierre</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945Malta/persons#p_J2</source-url>
+            </original>
+            <original source-urls="3">
+                <name>Juin, General of the Army Alphonse P.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v03p1/persons#p_JGAP1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v03p2/persons#p_JGAP1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v04p1/persons#p_JGAP1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Juin</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v04p2/persons#p_JGAP1</source-url>
+            </original>
+            <original source-urls="2">
+                <name>Juin, Alfonse Pierre</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v05p1/persons#p_JUINAP1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v05p2/persons#p_JUINAP1</source-url>
+            </original>
+            <original source-urls="2">
+                <name>Juin, General Alphonse P.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v11p1/persons#p_JGAP1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v11p2/persons#p_JGAP1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="2">
+            <title source-urls="4">
+                <name>General</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv01/persons#p_JGAP1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945Malta/persons#p_J2</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v11p1/persons#p_JGAP1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v11p2/persons#p_JGAP1</source-url>
+            </title>
+            <title source-urls="3">
+                <name>General of the Army</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v03p1/persons#p_JGAP1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v03p2/persons#p_JGAP1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v04p1/persons#p_JGAP1</source-url>
+            </title>
+        </titles-from-name>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="8">
+        <remark source-urls="2">
+            <p>Chief, French General Staff of National Defense.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv01/persons#p_JGAP1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv02/persons#p_JGAP1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Chief of the French General Staff of National Defense.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1945Malta/persons#p_J2</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>French Resident General in Morocco until January 1951; thereafter, Inspector General, French Armed Forces; Commander in Chief, Allied Army Forces, Central Europe, from April 1951; redesignated Commander in Chief, Allied Land Forces, Central Europe, on August 2, 1951.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1951v03p1/persons#p_JGAP1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1951v03p2/persons#p_JGAP1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>French Resident General in Morocco, until January 1951; thereafter, Inspector General, French Armed Forces; Commander in Chief, Allied Army Forces, Central Europe, from April 1951; redesignated Commander in Chief, Allied Land Forces, Central Europe, on August 2, 1951</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1951v04p1/persons#p_JGAP1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>General of the Army Alphonse P., French Resident General in Morocco, until January 1951; thereafter, Inspector General, French Armed Forces; Commander in Chief, Allied Army Forces, Central Europe, from April 1951; redesignated Commander in Chief, Allied Land Forces, Central Europe, on August 2, 1951</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1951v04p2/persons#p_JGAP1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>French Resident General in Morocco, until January 1951; Inspector General, French Armed Forces, from January 1951.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1951v05/persons#p_JPA1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>General, French Army; Inspector General of the French Armed Forces after January 1951; Commander-in-Chief, Allied Land Forces in Central Europe after August 1951; Commander-in-Chief, North Atlantic Treaty Organization Forces, Central Europe, after June 1953.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v05p1/persons#p_JUINAP1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v05p2/persons#p_JUINAP1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>French Army; Commander in Chief, Allied Land Forces, Central Europe, until June 1953; thereafter, Commander in Chief, Allied Forces, Central Europe.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v11p1/persons#p_JGAP1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v11p2/persons#p_JGAP1</source-url>
+        </remark>
+    </remarks>
+</person>

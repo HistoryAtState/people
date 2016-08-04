@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>112378</id>
+    <authorities>
+        <authority service="viaf">32274530</authority>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Shevardnadze, Eduard A.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="1">
+                <name>President Eduard A. Shevardnadze</name>
+                <source-url>https://history.state.gov/departmenthistory/visits/georgia</source-url>
+            </original>
+            <original source-urls="1">
+                <name>President Eduard Shevardnadze</name>
+                <source-url>https://history.state.gov/departmenthistory/visits/georgia</source-url>
+            </original>
+            <original source-urls="1">
+                <name>President Eduard Sheverdnadze</name>
+                <source-url>https://history.state.gov/departmenthistory/visits/georgia</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="3">
+        <remark source-urls="1">
+            <p>President, Georgia. Visited U.S. 2 times, 1994–1997</p>
+            <source-url>https://history.state.gov/departmenthistory/visits/georgia</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>President, Georgia. Visited U.S. 2 times, 1999</p>
+            <source-url>https://history.state.gov/departmenthistory/visits/georgia</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>President, Georgia. Visited U.S. once, 2001</p>
+            <source-url>https://history.state.gov/departmenthistory/visits/georgia</source-url>
+        </remark>
+    </remarks>
+</person>

@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>113704</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Tran Van Do</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="9">
+                <name>Tran Van Do</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v13p1/persons#p_TVD1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v13p2/persons#p_TVD1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v16/persons#p_TVD1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v01/persons#p_TVD1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v02/persons#p_TVD1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v03/persons#p_TVD1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v04/persons#p_TVD1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v05/persons#p_TVD1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v09/persons#p_TVD_1</source-url>
+            </original>
+            <original source-urls="4">
+                <name>Do</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v16/persons#p_D31</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v02/persons#p_Do1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v03/persons#p_Do1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v04/persons#p_Do1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Do, Tran Van</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v09/persons#p_TVD_1alt1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="8">
+        <remark source-urls="1">
+            <p>Minister of Foreign Affairs of the State of Vietnam from June 16, 1954; Head of the State of Vietnam Delegation at the Geneva Conference, June 16—July 21, 1954.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v13p1/persons#p_TVD1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Minister of Foreign Affairs of the State of Vietnam from June 16, 1954; Head of the State of Vietnam Delegation at the Geneva Conference, June 16–July 21, 1954.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v13p2/persons#p_TVD1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>See Tran Van Do.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v16/persons#p_D31</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Minister of Foreign Affairs of the State of Vietnam after June 16; Head of the State of Vietnam Delegation at the Geneva Conference, June 16–July 21, 1954.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v16/persons#p_TVD1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Vietnamese Minister of Foreign Affairs to May 1955</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v01/persons#p_TVD1</source-url>
+        </remark>
+        <remark source-urls="4">
+            <p>see Tran Van Do</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v02/persons#p_Do1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v03/persons#p_Do1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v04/persons#p_Do1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v09/persons#p_TVD_1alt1</source-url>
+        </remark>
+        <remark source-urls="4">
+            <p>Vietnamese Foreign Minister</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v02/persons#p_TVD1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v03/persons#p_TVD1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v04/persons#p_TVD1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v05/persons#p_TVD1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>former Foreign Minister, Republic of Vietnam</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v09/persons#p_TVD_1</source-url>
+        </remark>
+    </remarks>
+</person>

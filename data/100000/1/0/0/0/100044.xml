@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>100044</id>
+    <authorities>
+        <authority service="viaf">46351303</authority>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Abell, Tyler</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="1">
+                <name>Abell, Tyler</name>
+                <source-url>https://history.state.gov/departmenthistory/people/abell-tyler</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1932</birth-year>
+    <death-year/>
+    <remarks variants="1">
+        <remark source-urls="1">
+            <p>Non-career appointee. Chief of Protocol.</p>
+            <source-url>https://history.state.gov/departmenthistory/people/abell-tyler</source-url>
+        </remark>
+    </remarks>
+</person>

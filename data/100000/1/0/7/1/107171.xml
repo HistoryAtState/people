@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>107171</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Kim Dong Jo</name>
+        </preferred>
+        <alternates/>
+        <originals variants="4">
+            <original source-urls="1">
+                <name>Kim Dong-Jo (Kim Tong-jo, Kim Tong-cho)</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v29p1/persons#p_KD1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Kim Dong Jo (Kim Dong-jo)</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v19p1/persons#p_KDJ2</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Kim Dong-Jo</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve12/persons#p_kim-dong-jo</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Kim Dong-jo</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v13/persons#p_KD_1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="4">
+        <remark source-urls="1">
+            <p>Republic of Korea Ambassador to the United States after November 1967</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v29p1/persons#p_KD1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>ROK Ambassador to the United States</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v19p1/persons#p_KDJ2</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Republic of Korea Ambassador to the United States until 1973; Foreign Minister of Republic of Korea from December 3, 1973 until December 18, 1975</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve12/persons#p_kim-dong-jo</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>a former ROK ambassador to the United States who was accused of having bribed members of the U.S. Congress</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v13/persons#p_KD_1</source-url>
+        </remark>
+    </remarks>
+</person>

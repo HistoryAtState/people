@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>108855</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>McGehee, James C.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="1">
+                <name>McGehee, Major General James C.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v12/persons#p_MGMGJC1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="1">
+            <title source-urls="1">
+                <name>Major General</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v12/persons#p_MGMGJC1</source-url>
+            </title>
+        </titles-from-name>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="1">
+        <remark source-urls="1">
+            <p>Commander of USMTM and Commanding General, Second Air Division, Saudi Arabia from 1959</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v12/persons#p_MGMGJC1</source-url>
+        </remark>
+    </remarks>
+</person>

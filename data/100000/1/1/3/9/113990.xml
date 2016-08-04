@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>113990</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Vann, John Paul</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="1">
+                <name>Vann, John Paul</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v06/persons#p_VJP1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="1">
+        <remark source-urls="1">
+            <p>Military and Pacification Adviser to the Commander, III Corps</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v06/persons#p_VJP1</source-url>
+        </remark>
+    </remarks>
+</person>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>106590</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Jenkins, Roy H.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="7">
+                <name>Jenkins, Roy</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v08/persons#p_JR3</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v12/persons#p_JR1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v34/persons#p_JR3</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v03/persons#p_JR3</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v04/persons#p_JR3</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v37/persons#p_JR_2</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v03/persons#p_JR_1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Jenkins, Roy H.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v41/persons#p_JRH_1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="7">
+        <remark source-urls="1">
+            <p>British Home Secretary, December 22, 1965–November 29, 1967; thereafter Chancellor of the Exchequer</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v08/persons#p_JR3</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>British Minister of Aviation, 1964-1965; Secretary of State for Home Department, December 23, 1965-November 30, 1967; thereafter Chancellor of the Exchequer</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v12/persons#p_JR1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>British Minister of Aviation</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v34/persons#p_JR3</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>British Chancellor of the Exchequer, November 1967-June 1970</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v03/persons#p_JR3</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v04/persons#p_JR3</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>President of the European Commission, from January 1977 until January 1981</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v37/persons#p_JR_2</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>British Chancellor of the Exchequer</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v41/persons#p_JRH_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>President, European Commission, from 1977 until 1981</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v03/persons#p_JR_1</source-url>
+        </remark>
+    </remarks>
+</person>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>105913</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Hilaly, Agha</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="8">
+                <name>Hilaly, Agha</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v11p1/persons#p_HA3</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v11p2/persons#p_HA3</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v25/persons#p_HA1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v11/persons#p_HA1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v13/persons#p_HA1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v17/persons#p_HA1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve07/persons#p_HA1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve13/persons#p_HA1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Hilaly, Aghampuakha</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v19/persons#p_HA1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="5">
+        <remark source-urls="2">
+            <p>Joint Secretary, Pakistani Ministry for Foreign Affairs and Commonwealth Relations until 1954; Acting Secretary from 1954.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v11p1/persons#p_HA3</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v11p2/persons#p_HA3</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>High Commissioner of Pakistan in India</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v19/persons#p_HA1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Pakistani Ambassador to the United States from October 1966</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v25/persons#p_HA1</source-url>
+        </remark>
+        <remark source-urls="3">
+            <p>Pakistani Ambassador to the United States until September 1971</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v11/persons#p_HA1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v13/persons#p_HA1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve07/persons#p_HA1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Pakistani Ambassador to the United States until late 1971</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v17/persons#p_HA1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve13/persons#p_HA1</source-url>
+        </remark>
+    </remarks>
+</person>

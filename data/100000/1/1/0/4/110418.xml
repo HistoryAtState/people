@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>110418</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Pastor, Robert A.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="7">
+                <name>Pastor, Robert A.</name>
+                <source-url>https://history.state.gov/departmenthistory/people/pastor-robert-a</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v37/persons#p_PRA_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v01/persons#p_PRA_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v02/persons#p_PRA_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v03/persons#p_PRA_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v26/persons#p_PR_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v30/persons#p_PRA_1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1947</birth-year>
+    <death-year>2014</death-year>
+    <remarks variants="7">
+        <remark source-urls="1">
+            <p>Non-career appointee. Ambassador Extraordinary and Plenipotentiary (Panama).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/pastor-robert-a</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Member of the National Security Council Staff</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v37/persons#p_PRA_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Executive Director, Linowitz Commission on U.S.-Latin American Relations from February 1975 until January 1977; advisor to Jimmy Carter during the 1976 campaign; member, National Security Council staff, Latin American/Caribbean, North/South Cluster, from January 1977 until January 1981</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v01/persons#p_PRA_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>member, Latin American/Caribbean, North/South Cluster, National Security Council Staff</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v02/persons#p_PRA_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>member, National Security Council Staff for Latin American and Ca__ribbean Affairs</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v03/persons#p_PRA_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Member, National Security Council Staff and National Security Advisor for Latin America and the Caribbean from 1977 until 1981</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v26/persons#p_PR_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>member, National Security Council Staff for North/South Affairs</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v30/persons#p_PRA_1</source-url>
+        </remark>
+    </remarks>
+</person>

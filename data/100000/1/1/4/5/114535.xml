@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>114535</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Whitlock, Brand</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="4">
+                <name>Whitlock, Brand</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1914Supp/persons#p_WB1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1915Supp/persons#p_WB1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1916Supp/persons#p_WB1</source-url>
+                <source-url>https://history.state.gov/departmenthistory/people/whitlock-brand</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1869</birth-year>
+    <death-year>1934</death-year>
+    <remarks variants="3">
+        <remark source-urls="2">
+            <p>United States Minister in Belgium.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1914Supp/persons#p_WB1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1915Supp/persons#p_WB1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>U. S. Minister in Belgium.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1916Supp/persons#p_WB1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Non-career appointee. Envoy Extraordinary and Minister Plenipotentiary (Belgium); Ambassador Extraordinary and Plenipotentiary (Belgium).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/whitlock-brand</source-url>
+        </remark>
+    </remarks>
+</person>

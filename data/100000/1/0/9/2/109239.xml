@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>109239</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Mobutu Sese Seko</name>
+        </preferred>
+        <alternates>
+            <name>Mobutu, Joseph-Désiré</name>
+        </alternates>
+        <originals variants="7">
+            <original source-urls="2">
+                <name>Mobutu, Colonel Joseph</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v14/persons#p_MLGJD1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v20/persons#p_JM1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Mobutu, Joseph Désiré</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v23/persons#p_MJD_1</source-url>
+            </original>
+            <original source-urls="3">
+                <name>Mobutu, Lieutenant General Joseph D.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v24/persons#p_MLGJD1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve05p1/persons#p_MLGJD1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve05p2/persons#p_MLGJD1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Mobutu, Sésé Seko (born Joseph-Désiré Mobutu)</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v28/persons#p_MSS_1</source-url>
+            </original>
+            <original source-urls="2">
+                <name>Mobutu Sese Seko</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v37/persons#p_MSS_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v06/persons#p_MSS_1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Mobutu, Lieutenant , General Sese Seko (born Joseph-Désiré Mobutu)</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve06/persons#p_MLGJD1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Mobutu, Sese Seko</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v08/persons#p_MSS_1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="2">
+            <title source-urls="2">
+                <name>Colonel</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v14/persons#p_MLGJD1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v20/persons#p_JM1</source-url>
+            </title>
+            <title source-urls="4">
+                <name>Lieutenant General</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v24/persons#p_MLGJD1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve05p1/persons#p_MLGJD1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve05p2/persons#p_MLGJD1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve06/persons#p_MLGJD1</source-url>
+            </title>
+        </titles-from-name>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="9">
+        <remark source-urls="1">
+            <p>Chief of Staff of the Congolese National Army; assumed power September 1960; established College of Commissioners October 1960</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v14/persons#p_MLGJD1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Chief of Staff of the Congolese National Army; after January 23, Major General and Commander in Chief of Congolese Forces</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v20/persons#p_JM1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Chief of Staff of the Congolese National Army; after January 23, 1961, Major General and Commander in Chief of Congolese Forces; President of the Republic of the Congo from November 25, 1965</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v23/persons#p_MJD_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>President of the Republic of the Congo and Minister of Defense from November 1965</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v24/persons#p_MLGJD1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Lieutenant General, President of the Republic of the Congo (Zaire) and Minister of Defense</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v28/persons#p_MSS_1</source-url>
+        </remark>
+        <remark source-urls="3">
+            <p>President of Zaire</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v37/persons#p_MSS_1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v06/persons#p_MSS_1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v08/persons#p_MSS_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>President of the Republic of the Congo (Zaire) and Minister of Defense from November 1965</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve05p1/persons#p_MLGJD1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>President of the Republic of the Congo (Zaire) and Minister of Defense</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve05p2/persons#p_MLGJD1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>President of the Republic of the Congo (Zaire) and Minister of Defense from 1965 to 1997</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve06/persons#p_MLGJD1</source-url>
+        </remark>
+    </remarks>
+</person>

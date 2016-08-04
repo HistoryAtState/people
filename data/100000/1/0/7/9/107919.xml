@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>107919</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Levy-Hawes, Maurice G.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="2">
+                <name>Levy-Hawes, Maurice</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v03p1/persons#p_LHM2</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v03p2/persons#p_LHM2</source-url>
+            </original>
+            <original source-urls="3">
+                <name>Levy-Hawes, Maurice G.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v06p1/persons#p_LEVYHAWESMG1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v06p2/persons#p_LEVYHAWESMG1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v27/persons#p_LHMG1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="3">
+        <remark source-urls="2">
+            <p>Office of British Commonwealth and Northern European Affairs, Department of State.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1951v03p1/persons#p_LHM2</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1951v03p2/persons#p_LHM2</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Lieutenant, U.S. Army; Economist with the Department of Defense until October 1952; thereafter Foreign Affairs Officer in the Office of European Regional Affairs, Department of State.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v06p1/persons#p_LEVYHAWESMG1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v06p2/persons#p_LEVYHAWESMG1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Office of European Regional Affairs, Department of State</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v27/persons#p_LHMG1</source-url>
+        </remark>
+    </remarks>
+</person>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>101501</id>
+    <authorities>
+        <authority service="viaf">38392145</authority>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Bolanos, Enrique</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="1">
+                <name>President Enrique Bolanos</name>
+                <source-url>https://history.state.gov/departmenthistory/visits/nicaragua</source-url>
+            </original>
+            <original source-urls="1">
+                <name>President Enrique Bolonas</name>
+                <source-url>https://history.state.gov/departmenthistory/visits/nicaragua</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="2">
+        <remark source-urls="1">
+            <p>President, Nicaragua. Visited U.S. once, 2005</p>
+            <source-url>https://history.state.gov/departmenthistory/visits/nicaragua</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>President, Nicaragua. Visited U.S. once, 2003</p>
+            <source-url>https://history.state.gov/departmenthistory/visits/nicaragua</source-url>
+        </remark>
+    </remarks>
+</person>

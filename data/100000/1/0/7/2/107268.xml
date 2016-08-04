@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>107268</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Kleffens, Eelco Nicolaas van</name>
+        </preferred>
+        <alternates/>
+        <originals variants="4">
+            <original source-urls="1">
+                <name>Kleffens, Eelco Nicolaas van</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv02/persons#p_KEN1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>van Kleffens, Eelco Nicolaas</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1947v02/persons#p_VKEN1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Kleffens, Eelco N. van</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v03/persons#p_KLEFFENSEN1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Van Kleffens.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v03/persons#p_VANKLEFFENS1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="4">
+        <remark source-urls="1">
+            <p>Netherland Minister of Foreign Affairs.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv02/persons#p_KEN1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Netherlands Minister without Portfolio</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1947v02/persons#p_VKEN1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>President, General Assembly, 9th Regular Session, and Vice Chairman, Netherlands Delegation to the 9th Regular Session; Minister to Portugal, 1950–1956.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v03/persons#p_KLEFFENSEN1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>See Kleffens.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v03/persons#p_VANKLEFFENS1</source-url>
+        </remark>
+    </remarks>
+</person>

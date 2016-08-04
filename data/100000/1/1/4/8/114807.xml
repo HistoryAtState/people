@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>114807</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Worthington, Henry Gaither</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="1">
+                <name>Worthington, Henry Gaither</name>
+                <source-url>https://history.state.gov/departmenthistory/people/worthington-henry-gaither</source-url>
+            </original>
+            <original source-urls="1">
+                <name>H. G. Worthington</name>
+                <source-url>https://history.state.gov/departmenthistory/people/worthington-henry-gaither</source-url>
+            </original>
+            <original source-urls="1">
+                <name>H.G. Worthington</name>
+                <source-url>https://history.state.gov/departmenthistory/people/worthington-henry-gaither</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1828</birth-year>
+    <death-year>1909</death-year>
+    <remarks variants="1">
+        <remark source-urls="1">
+            <p>Non-career appointee. Minister Resident (Uruguay); Minister Resident (Argentina).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/worthington-henry-gaither</source-url>
+        </remark>
+    </remarks>
+</person>

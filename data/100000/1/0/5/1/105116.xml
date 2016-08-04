@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>105116</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Grant-Smith, Ulysses</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="1">
+                <name>Grant-Smith, Ulysses</name>
+                <source-url>https://history.state.gov/departmenthistory/people/grant-smith-ulysses</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1870</birth-year>
+    <death-year>1959</death-year>
+    <remarks variants="1">
+        <remark source-urls="1">
+            <p>Foreign Service Officer. Envoy Extraordinary and Minister Plenipotentiary (Uruguay); Envoy Extraordinary and Minister Plenipotentiary (Albania).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/grant-smith-ulysses</source-url>
+        </remark>
+    </remarks>
+</person>

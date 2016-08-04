@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>106328</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Huston, Cloyce K.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="5">
+                <name>Huston, Cloyce K.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv01/persons#p_HCK1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v04p1/persons#p_HCK1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v04p2/persons#p_HCK1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v06p1/persons#p_HUSTONCK1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v06p2/persons#p_HUSTONCK1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="3">
+        <remark source-urls="1">
+            <p>Chief, Division of Southern European Affairs, Department of State.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv01/persons#p_HCK1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Office of European Affairs, Department of State, until May 1951; Counselor of Embassy in Ireland, from June 1951; Chargé in Ireland, June 9–October 10, 1951</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1951v04p1/persons#p_HCK1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1951v04p2/persons#p_HCK1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Counselor of the Embassy in Ireland, May 14, 1951–January 20, 1954.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v06p1/persons#p_HUSTONCK1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v06p2/persons#p_HUSTONCK1</source-url>
+        </remark>
+    </remarks>
+</person>

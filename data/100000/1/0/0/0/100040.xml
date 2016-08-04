@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>100040</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Abdul Rahman, Tunku ibni Al-Marhum</name>
+        </preferred>
+        <alternates/>
+        <originals variants="8">
+            <original source-urls="1">
+                <name>Rahman, Tunku Abdul</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v21/persons#p_RTA1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Abdul Rahman, Tengku</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v22/persons#p_ART1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Abdul Rahman, Tunku ibni Al-Marhum</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v17/persons#p_ARTAM1</source-url>
+            </original>
+            <original source-urls="2">
+                <name>Tunku, Abdul Rahman</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v01/persons#p_TAR1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v02/persons#p_TAR2</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Abdul Rahman, Tunku</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v23/persons#p_ART1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Tengku</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v23/persons#p_T1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Tunku</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v23/persons#p_T2</source-url>
+            </original>
+            <original source-urls="2">
+                <name>Tunku Abdul Rahman</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v26/persons#p_TAR2</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v27/persons#p_TAR1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="8">
+        <remark source-urls="1">
+            <p>First Chief Minister and Minister for Home Affairs of Malaya from July 1955; concurrently Minister for Internal Defense and Security from March 1956</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v21/persons#p_RTA1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Chief Minister, Federation of Malaya to August 1957; thereafter Prime Minister</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v22/persons#p_ART1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>first Prime Minister of the Malay Federation until April 1959; Prime Minister from August 1959</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v17/persons#p_ARTAM1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>first Prime Minister and Minister of External Affairs of Malaya</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v01/persons#p_TAR1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>First Prime Minister and Minister of External Affairs of Malaya</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v02/persons#p_TAR2</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Malayan Prime Minister; after September 16, 1993, Malaysian Prime Minister</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v23/persons#p_ART1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>see Abdul Rahman, Tunku</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v23/persons#p_T1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v23/persons#p_T2</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Prime Minister of Malaysia</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v26/persons#p_TAR2</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v27/persons#p_TAR1</source-url>
+        </remark>
+    </remarks>
+</person>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>101915</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Bull, Stephen B.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="1">
+                <name>Bull, Steven B.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v09/persons#p_BSB_1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Bull, Stephen</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v29/persons#p_BS1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Bull, Stephen B.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v31/persons#p_BSB1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="3">
+        <remark source-urls="1">
+            <p>Staff Assistant to the President</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v09/persons#p_BSB_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Staff Assistant, Chief of Staff's Office</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v29/persons#p_BS1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Staff Assistant to the President until 1973; Special Assistant to the President and Appointments Secretary from 1973 until 1974</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v31/persons#p_BSB1</source-url>
+        </remark>
+    </remarks>
+</person>

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>110500</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Peet, Raymond E.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="4">
+            <original source-urls="2">
+                <name>Peet, Raymond E.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v22/persons#p_PR_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve11p2/persons#p_PR_1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Peet, Vice Admiral Ray</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve04/persons#p_PVARE1</source-url>
+            </original>
+            <original source-urls="2">
+                <name>Peet, Ray</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve08/persons#p_PVARE1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve12/persons#p_peet-ray</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Peet, Vice Admiral Raymond E.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve15p1/persons#p_PVARE1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="1">
+            <title source-urls="2">
+                <name>Vice Admiral</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve04/persons#p_PVARE1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve15p1/persons#p_PVARE1</source-url>
+            </title>
+        </titles-from-name>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="6">
+        <remark source-urls="1">
+            <p>Vice Admiral, USN, Director of Defense Security Assistance Agency, Department of Defense, until July 1974; Acting Assistant Secretary of Defense, International Affairs, from January 6, 1974, until April 1, 1974</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v22/persons#p_PR_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Director, Defense Security Assistance Agency from June 1972</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve04/persons#p_PVARE1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Vice Admiral, Deputy Assistant Secretary of Defense for Security Assistance, from 1972 to 1974</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve08/persons#p_PVARE1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Vice Admiral, USN; Director of Defense Security Assistance Agency, Department of Defense, until July 1974; Acting Assistant Secretary of Defense for International Affairs from January 6, 1974, until April 1, 1974</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve11p2/persons#p_PR_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Vice Admiral; Acting Assistant Secretary of Defense for International Security Affairs from January 6, 1974 until April 1, 1974</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve12/persons#p_peet-ray</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Acting Assistant Secretary of Defense for International Security Affairs from January 6, 1974 to April 1, 1974</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve15p1/persons#p_PVARE1</source-url>
+        </remark>
+    </remarks>
+</person>

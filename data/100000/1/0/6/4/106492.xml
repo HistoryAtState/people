@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>106492</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Jacobs, Robert L.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="1">
+                <name>Jacobs, Robert L.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v02/persons#p_JRL_1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="1">
+        <remark source-urls="1">
+            <p>Politico-Military Affairs and Security Assistance, Office of Human Rights, Bureau of Human Rights and Humanitarian Affairs, Department of State, 1979</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v02/persons#p_JRL_1</source-url>
+        </remark>
+    </remarks>
+</person>

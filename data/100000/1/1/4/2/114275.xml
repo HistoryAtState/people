@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>114275</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Wardlaw, Andrew B.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="3">
+                <name>Wardlaw, Andrew B.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v06/persons#p_WAB1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v07/persons#p_WAB1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v06/persons#p_WAB1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="2">
+        <remark source-urls="2">
+            <p>First Secretary-Consul, Embassy in Paraguay, until March 19, 1957; thereafter, Officer in Charge, North Coast Affairs, Office of South American Affairs, Bureau of Inter-American Affairs, Department of State</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v06/persons#p_WAB1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v07/persons#p_WAB1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Chief, Division of Research and Analysis for American Republics, Department of State, July 1958–February 1959</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v06/persons#p_WAB1</source-url>
+        </remark>
+    </remarks>
+</person>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>100731</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Bacon, Ruth E.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="8">
+                <name>Bacon, Ruth E.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v02p1/persons#p_BACONRE1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v02p2/persons#p_BACONRE1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v03/persons#p_BACONRE1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v15p1/persons#p_BRE1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v15p2/persons#p_BRE1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v11/persons#p_BRE1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v02/persons#p_BRE3</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v27/persons#p_BRE1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Bacon, Ruth</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve14p1/persons#p_BRE3</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="6">
+        <remark source-urls="4">
+            <p>United Nations Adviser, Bureau of Far Eastern Affairs, Department of State.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v02p1/persons#p_BACONRE1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v02p2/persons#p_BACONRE1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v15p1/persons#p_BRE1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v15p2/persons#p_BRE1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>United Nations Adviser, Special Assistant to the Assistant Secretary of State for Far Eastern Affairs.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v03/persons#p_BACONRE1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>United Nations Adviser in the Bureau of Far Eastern Affairs, Department of State</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v11/persons#p_BRE1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>United Nations Adviser, Bureau of Far Eastern Affairs, Department of State, until September 1960</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v02/persons#p_BRE3</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Director of the Office of Regional Affairs, Bureau of Far Eastern (later East Asian and Pacific) Affairs after November 7, 1965</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v27/persons#p_BRE1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Director, United States Center for the International Women’s Year; Adviser to the U.S. Delegation to the United Nations World Conference of the International Women’s Year</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve14p1/persons#p_BRE3</source-url>
+        </remark>
+    </remarks>
+</person>

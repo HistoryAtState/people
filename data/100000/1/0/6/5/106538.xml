@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>106538</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Jani</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="1">
+                <name>Jani, Colonel and later General</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v17/persons#p_JY1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Jani (Yani), General</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v23/persons#p_JG1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Jani (Yani)</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v26/persons#p_JY1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="2">
+            <title source-urls="1">
+                <name>Colonel and later General</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v17/persons#p_JY1</source-url>
+            </title>
+            <title source-urls="1">
+                <name>General</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v23/persons#p_JG1</source-url>
+            </title>
+        </titles-from-name>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="3">
+        <remark source-urls="1">
+            <p>First Deputy Chief of Staff, Indonesian Army</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v17/persons#p_JY1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Deputy Chief of Staff for Operations, Indonesian Army; Chief of Staff of the Army, 1963</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v23/persons#p_JG1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>General, Chief of Staff of the Indonesian Army until 1966</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v26/persons#p_JY1</source-url>
+        </remark>
+    </remarks>
+</person>

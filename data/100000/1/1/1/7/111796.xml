@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>111796</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Sackett, Frederic Mosley</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="1">
+                <name>Sackett, Frederic Mosley</name>
+                <source-url>https://history.state.gov/departmenthistory/people/sackett-frederic-mosley</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Frederic M. Sackett</name>
+                <source-url>https://history.state.gov/departmenthistory/people/sackett-frederic-mosley</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1868</birth-year>
+    <death-year>1941</death-year>
+    <remarks variants="1">
+        <remark source-urls="1">
+            <p>Non-career appointee. Ambassador Extraordinary and Plenipotentiary (Germany).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/sackett-frederic-mosley</source-url>
+        </remark>
+    </remarks>
+</person>

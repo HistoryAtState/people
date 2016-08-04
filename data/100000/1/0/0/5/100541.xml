@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>100541</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Areeda, Phillip</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="2">
+                <name>Areeda, Phillip</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v04/persons#p_AP1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v36/persons#p_AP1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Areeda, Philip</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v38p2/persons#p_AP_1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="3">
+        <remark source-urls="1">
+            <p>Special Assistant in the White House Office, 1958; thereafter Assistant Special Counsel to the President</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v04/persons#p_AP1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Executive Director, Cabinet Task Force on Oil Import Controls from 1969 until 1970</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v36/persons#p_AP1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Deputy Counsel to the President, 1974–1975</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v38p2/persons#p_AP_1</source-url>
+        </remark>
+    </remarks>
+</person>

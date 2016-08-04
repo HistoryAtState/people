@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>114560</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Wiesel, Elie</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="1">
+                <name>Wiesel, Elie</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v26/persons#p_WE_1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="1">
+        <remark source-urls="1">
+            <p>Author; Distinguished Professor at City University of New York</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v26/persons#p_WE_1</source-url>
+        </remark>
+    </remarks>
+</person>

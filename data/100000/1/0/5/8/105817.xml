@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>105817</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Henning, John Francis</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="1">
+                <name>Henning, John F.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v09/persons#p_HJF1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Henning, John Francis</name>
+                <source-url>https://history.state.gov/departmenthistory/people/henning-john-francis</source-url>
+            </original>
+            <original source-urls="1">
+                <name>John F. Henning</name>
+                <source-url>https://history.state.gov/departmenthistory/people/henning-john-francis</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1915</birth-year>
+    <death-year>2009</death-year>
+    <remarks variants="2">
+        <remark source-urls="1">
+            <p>Under Secretary of Labor from September 1962</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v09/persons#p_HJF1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Non-career appointee. Ambassador Extraordinary and Plenipotentiary (New Zealand).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/henning-john-francis</source-url>
+        </remark>
+    </remarks>
+</person>

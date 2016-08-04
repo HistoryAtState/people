@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>106790</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Jumblatt, Kamal</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="3">
+                <name>Jumblatt, Kamal</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v17/persons#p_JK1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v18/persons#p_JK1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v26/persons#p_JK_1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="2">
+        <remark source-urls="2">
+            <p>hereditary Druze chieftain; Lebanese Minister of State for the Interior and Planning Services from October 31, 1961</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v17/persons#p_JK1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v18/persons#p_JK1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>leader of anti-government forces in Lebanon</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v26/persons#p_JK_1</source-url>
+        </remark>
+    </remarks>
+</person>

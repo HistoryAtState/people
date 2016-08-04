@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>109798</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Nguyen Khuong</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="1">
+                <name>Khnong</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v04/persons#p_KHNONG1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Nguyen Khuong, Colonel</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v04/persons#p_NKC1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="1">
+            <title source-urls="1">
+                <name>Colonel</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v04/persons#p_NKC1</source-url>
+            </title>
+        </titles-from-name>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="2">
+        <remark source-urls="1">
+            <p>see Nguyen Khuong</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v04/persons#p_KHNONG1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>ARVN, coup leader</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v04/persons#p_NKC1</source-url>
+        </remark>
+    </remarks>
+</person>

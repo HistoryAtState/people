@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>107095</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Khampan, Tiao</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="2">
+                <name>Khampan, Prince Tiao</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v24/persons#p_KPT1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v28/persons#p_KPT1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="1">
+            <title source-urls="2">
+                <name>Prince</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v24/persons#p_KPT1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v28/persons#p_KPT1</source-url>
+            </title>
+        </titles-from-name>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="2">
+        <remark source-urls="1">
+            <p>Royal Lao Government Ambassador to the United States after October 17, 1961</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v24/persons#p_KPT1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Lao Ambassador to the United States until February 1966</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v28/persons#p_KPT1</source-url>
+        </remark>
+    </remarks>
+</person>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>105717</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Haykal, Muḥammad Ḥasanayn</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="1">
+                <name>Haikal (Heikal), Mohammed</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v17/persons#p_HHM1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Haikal, Muhammad Hussanein</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v11/persons#p_HMH1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Haikal, Mohammed</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v13/persons#p_HM1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="3">
+        <remark source-urls="1">
+            <p>Egyptian journalist and confidant of President Nasser; editor of Al Ahram from 1957</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v17/persons#p_HHM1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>editor of the Egyptian newspaper Al Ahram and confidant of Nasser</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v11/persons#p_HMH1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>confidant of United Arab Republic President Nasser; Editor of Al Ahram</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v13/persons#p_HM1</source-url>
+        </remark>
+    </remarks>
+</person>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>116236</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Veysey, Victor Vincent</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="1">
+                <name>Veysey, Victor Vincent</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v22/persons#p_VVV_1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="1">
+        <remark source-urls="1">
+            <p>member, U.S. House of Representatives from California from January 3, 1971 until January 3, 1975; Assistant Secretary of the Army for Civil Works from March 1975 until January 1977</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v22/persons#p_VVV_1</source-url>
+        </remark>
+    </remarks>
+</person>

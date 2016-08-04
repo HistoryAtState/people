@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>109144</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Millar, John Y.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="4">
+                <name>Millar, John Y.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v05p1/persons#p_MILLARJY1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v05p2/persons#p_MILLARJY1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v06p1/persons#p_MILLARJY1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v06p2/persons#p_MILLARJY1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="1">
+        <remark source-urls="4">
+            <p>Office of Western European Affairs, Department of State, February 1952–February 1954.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v05p1/persons#p_MILLARJY1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v05p2/persons#p_MILLARJY1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v06p1/persons#p_MILLARJY1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v06p2/persons#p_MILLARJY1</source-url>
+        </remark>
+    </remarks>
+</person>

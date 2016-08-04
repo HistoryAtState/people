@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>103975</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Enander, John Alfred</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="1">
+                <name>Enander, John Alfred</name>
+                <source-url>https://history.state.gov/departmenthistory/people/enander-john-alfred</source-url>
+            </original>
+            <original source-urls="1">
+                <name>John A. Enander</name>
+                <source-url>https://history.state.gov/departmenthistory/people/enander-john-alfred</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1842</birth-year>
+    <death-year>1910</death-year>
+    <remarks variants="1">
+        <remark source-urls="1">
+            <p>Non-career appointee. Minister Resident/Consul General (Denmark).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/enander-john-alfred</source-url>
+        </remark>
+    </remarks>
+</person>

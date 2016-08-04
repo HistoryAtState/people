@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>111388</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Rigdon, William M.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="2">
+                <name>Rigdon, William M.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1943CairoTehran/persons#p_RWM1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv02/persons#p_RLWM1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Rigdon, Lieutenant William M.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv01/persons#p_RLWM1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Rigdon, Lieutenant (jg) William M.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945Malta/persons#p_RLWM1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="2">
+            <title source-urls="1">
+                <name>Lieutenant</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv01/persons#p_RLWM1</source-url>
+            </title>
+            <title source-urls="1">
+                <name>Lieutenant (jg)</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945Malta/persons#p_RLWM1</source-url>
+            </title>
+        </titles-from-name>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="3">
+        <remark source-urls="1">
+            <p>Lieutenant (jg), U. S. N., Personal Secretary to the President.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1943CairoTehran/persons#p_RWM1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>U. S. N., Administrative Assistant to the Naval Aide to the President.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv01/persons#p_RLWM1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv02/persons#p_RLWM1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>U. S. N., Secretary and Administrative Assistant to the Naval Aide to the President.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1945Malta/persons#p_RLWM1</source-url>
+        </remark>
+    </remarks>
+</person>

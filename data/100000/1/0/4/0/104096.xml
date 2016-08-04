@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>104096</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Ewing, Richard T.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="3">
+                <name>Ewing, Richard T.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v26/persons#p_ERT1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v27/persons#p_ERT1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v28/persons#p_ERT1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="3">
+        <remark source-urls="1">
+            <p>member of the Office of Southeast Asian Affairs, August 1965; Country Director for Burma and Cambodia, July 1966–August 1967</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v26/persons#p_ERT1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>member of the Office of Southeast Asian Affairs, Bureau of Far East Affairs, Department of State, from August 1965; Country Director for Burma and Cambodia, July 1966–August 1967</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v27/persons#p_ERT1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>member of the Office of Southeast Asian Affairs, Bureau of East Asian and Pacific Affairs, Department of State August 1965; Country Director for Burma and Cambodia, July 1966–August 1967</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v28/persons#p_ERT1</source-url>
+        </remark>
+    </remarks>
+</person>

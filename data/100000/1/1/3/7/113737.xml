@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>113737</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Trinh Minh The</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="1">
+                <name>Trinh Minh The</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v01/persons#p_TM1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>The</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v01/persons#p_The1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="2">
+        <remark source-urls="1">
+            <p>Cao Dai General in Vietnamese National Army from February 1955; killed in Saigon fighting, May 1955</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v01/persons#p_TM1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>see Trinh Minh The</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v01/persons#p_The1</source-url>
+        </remark>
+    </remarks>
+</person>

@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>100490</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Anschuetz, Norbert L.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="9">
+                <name>Anschuetz, Norbert L.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v03p1/persons#p_ANL1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v03p2/persons#p_ANL1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v05/persons#p_ANL1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v11p1/persons#p_ANL1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v11p2/persons#p_ANL1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v21/persons#p_ANL1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v13/persons#p_ANL1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v17/persons#p_ANL1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v18/persons#p_ANL1</source-url>
+            </original>
+            <original source-urls="2">
+                <name>Anschuetz, Norbert</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v22/persons#p_AN1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v16/persons#p_AN1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="8">
+        <remark source-urls="2">
+            <p>Officer in Charge of Greek Affairs, Department of State, until September 1951; First Secretary of Embassy in Greece from October 1951.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1951v03p1/persons#p_ANL1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1951v03p2/persons#p_ANL1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Officer in Charge of Greek Affairs, Department of State, until September 1951; First Secretary of the Embassy in Greece, from October 1951.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1951v05/persons#p_ANL1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>First Secretary of the Embassy in Greece until February 2, 1952; Special Assistant to the Ambassador to Greece, February 2, 1952–February 16, 1954; Political-Military Adviser, Bureau of Near Eastern, South Asian, and African Affairs, Department of State, February 16, 1954–October 28, 1954; thereafter, Attaché of the Embassy in Thailand.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v11p1/persons#p_ANL1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v11p2/persons#p_ANL1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Counselor of the Embassy in Thailand, August 1955–August 1956</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v21/persons#p_ANL1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Counselor of Embassy in Thailand, August 1955–August 1956</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v22/persons#p_AN1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Consul in the Embassy in the United Arab Republic, February 1958–March 1960; thereafter Consul General</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v13/persons#p_ANL1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Minister-Counselor at the Embassy in the United Arab Republic until May 27, 1962</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v17/persons#p_ANL1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v18/persons#p_ANL1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Deputy Chief of Mission, Embassy in Greece to July 1967</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v16/persons#p_AN1</source-url>
+        </remark>
+    </remarks>
+</person>

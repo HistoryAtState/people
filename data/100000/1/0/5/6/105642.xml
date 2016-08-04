@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>105642</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Haselton, Seneca</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="1">
+                <name>Haselton, Seneca</name>
+                <source-url>https://history.state.gov/departmenthistory/people/haselton-seneca</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1848</birth-year>
+    <death-year>1921</death-year>
+    <remarks variants="1">
+        <remark source-urls="1">
+            <p>Non-career appointee. Envoy Extraordinary and Minister Plenipotentiary (Venezuela).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/haselton-seneca</source-url>
+        </remark>
+    </remarks>
+</person>

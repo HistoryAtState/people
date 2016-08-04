@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>104985</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Goldstein, E. Ernest</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="1">
+                <name>Goldstein, E. Ernest</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v09/persons#p_GEE1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Goldstein, Ernest</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v34/persons#p_GEE1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="1">
+        <remark source-urls="2">
+            <p>Special Assistant to the President from 1967</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v09/persons#p_GEE1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v34/persons#p_GEE1</source-url>
+        </remark>
+    </remarks>
+</person>

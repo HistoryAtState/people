@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>108407</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Malik, Charles H.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="4">
+            <original source-urls="2">
+                <name>Malik, Charles H.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v05/persons#p_MC1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v26/persons#p_MCH_1</source-url>
+            </original>
+            <original source-urls="7">
+                <name>Malik, Charles</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v03/persons#p_MALIKC1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v16/persons#p_MC1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v17/persons#p_MC1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v02/persons#p_MC9</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v11/persons#p_MC9</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v12/persons#p_MC9</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v13/persons#p_MC1</source-url>
+            </original>
+            <original source-urls="5">
+                <name>Malik, Dr. Charles</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v09p1/persons#p_MDC1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v09p2/persons#p_MDC1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v12/persons#p_MDC1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v13/persons#p_MDC1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v14/persons#p_MDC1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Malik, Dr. Charles H.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v21/persons#p_MDCH1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="1">
+            <title source-urls="6">
+                <name>Dr.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v09p1/persons#p_MDC1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v09p2/persons#p_MDC1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v12/persons#p_MDC1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v13/persons#p_MDC1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v14/persons#p_MDC1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v21/persons#p_MDCH1</source-url>
+            </title>
+        </titles-from-name>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="9">
+        <remark source-urls="1">
+            <p>Lebanese Minister in the United States.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1951v05/persons#p_MC1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Representative of Lebanon to the 7th Regular Session of the General Assembly; Ambassador to the United States from May 4, 1953; Chairman, Lebanese Delegations to the 8th and 9th Regular Sessions of the General Assembly.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v03/persons#p_MALIKC1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Chairman of the Lebanese Delegation to the 7th, 8th, and 9th Regular Sessions of the United Nations General Assembly, 1952–1954; Governor of Lebanon until 1952; Envoy to the United States and Cuba until May 4, 1953; thereafter Ambassador; Representative on the Security Council from January 1953; President of the Security Council, February 1953 and January 1954.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v09p1/persons#p_MDC1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v09p2/persons#p_MDC1</source-url>
+        </remark>
+        <remark source-urls="3">
+            <p>Lebanese Ambassador to the United States until October 1955; Representative at the United Nations, 1956–1957; Minister of Foreign Affairs and Minister of Education from November 19, 1956</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v12/persons#p_MDC1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v13/persons#p_MDC1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v14/persons#p_MDC1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Permanent Representative of Lebanon at the United Nations, 1956–1957; Minister of Foreign Affairs and Minister of Education from November 19, 1956</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v16/persons#p_MC1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v17/persons#p_MC1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Lebanese Ambassador to the United States to September 1955; Lebanese Representative to the U.N. General Assembly, 1956–1957; Foreign Minister from November 1956</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v21/persons#p_MDCH1</source-url>
+        </remark>
+        <remark source-urls="3">
+            <p>Lebanese Foreign Minister until September 1958</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v02/persons#p_MC9</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v12/persons#p_MC9</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v13/persons#p_MC1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Lebanese Foreign Minister of Lebanon until September 1958</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v11/persons#p_MC9</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>former Lebanese Foreign Minister; former President of the U.N. General Assembly</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v26/persons#p_MCH_1</source-url>
+        </remark>
+    </remarks>
+</person>

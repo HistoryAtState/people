@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>108065</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Lodge, John Davis</name>
+        </preferred>
+        <alternates/>
+        <originals variants="4">
+            <original source-urls="3">
+                <name>Lodge, John Davis</name>
+                <source-url>https://history.state.gov/departmenthistory/people/lodge-john-davis</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve10/persons#p_LJD1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve11p2/persons#p_LJD_1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>John Lodge</name>
+                <source-url>https://history.state.gov/departmenthistory/people/lodge-john-davis</source-url>
+            </original>
+            <original source-urls="5">
+                <name>Lodge, John D.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v04/persons#p_LJD1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v27/persons#p_LJD1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v07p1/persons#p_LJD1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v07p2/persons#p_LJD1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v29/persons#p_LJD1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Lodge, John</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v13/persons#p_LJ1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1903</birth-year>
+    <death-year>1985</death-year>
+    <remarks variants="6">
+        <remark source-urls="1">
+            <p>Non-career appointee. Ambassador Extraordinary and Plenipotentiary (Switzerland); Ambassador Extraordinary and Plenipotentiary (Spain); Ambassador Extraordinary and Plenipotentiary (Argentina).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/lodge-john-davis</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Ambassador to Spain from March 1955</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v04/persons#p_LJD1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v27/persons#p_LJD1</source-url>
+        </remark>
+        <remark source-urls="3">
+            <p>Ambassador to Spain</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v07p1/persons#p_LJD1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v07p2/persons#p_LJD1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v13/persons#p_LJ1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Ambassador to Argentina</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v29/persons#p_LJD1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>U.S. Ambassador to Argentina from July 1969</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve10/persons#p_LJD1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>U.S. Ambassador to Argentina until November 10, 1973</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve11p2/persons#p_LJD_1</source-url>
+        </remark>
+    </remarks>
+</person>

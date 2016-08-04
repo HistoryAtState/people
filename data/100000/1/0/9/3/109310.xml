@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>109310</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Montgomery, Hugh</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="3">
+                <name>Montgomery, Hugh</name>
+                <source-url>https://history.state.gov/departmenthistory/people/montgomery-hugh</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1981-88v03/persons#p_MH_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1981-88v13/persons#p_MH_1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1923</birth-year>
+    <death-year/>
+    <remarks variants="3">
+        <remark source-urls="1">
+            <p>Non-career appointee. Assistant Secretary of State for Intelligence and Research.</p>
+            <source-url>https://history.state.gov/departmenthistory/people/montgomery-hugh</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Director, Bureau of Intelligence and Research, Department of State, from October 19, 1981</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1981-88v03/persons#p_MH_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Director, Bureau of Intelligence and Research, Department of State from October 19, 1981</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1981-88v13/persons#p_MH_1</source-url>
+        </remark>
+    </remarks>
+</person>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>103957</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>El-Yafi, Abdallah</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="2">
+                <name>Yafi, Abdullah Bey al-</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v09p1/persons#p_YAB1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v09p2/persons#p_YAB1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Yafi, Abdullah</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v20/persons#p_YA1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="2">
+        <remark source-urls="2">
+            <p>Lebanese Prime Minister and Minister of the Interior until February 11, 1952; Minister of Defense, August 13, 1953–March 1, 1954; Prime Minister again, August 13, 1953–September 17, 1954.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v09p1/persons#p_YAB1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v09p2/persons#p_YAB1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Prime Minister of Lebanon from February 1968</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v20/persons#p_YA1</source-url>
+        </remark>
+    </remarks>
+</person>

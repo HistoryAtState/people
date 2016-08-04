@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>113363</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Tappin, John Lindsley</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="2">
+                <name>Tappin, John Lindsley</name>
+                <source-url>https://history.state.gov/departmenthistory/people/tappin-john-lindsley</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv02/persons#p_TLCJL1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>John L. Tappin</name>
+                <source-url>https://history.state.gov/departmenthistory/people/tappin-john-lindsley</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Tappin, John L.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v18/persons#p_TJL1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1906</birth-year>
+    <death-year>1964</death-year>
+    <remarks variants="3">
+        <remark source-urls="1">
+            <p>Non-career appointee. Ambassador Extraordinary and Plenipotentiary (Libya).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/tappin-john-lindsley</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>U. S. A., Chief, Liaison Section, Allied Force Headquarters, Caserta.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv02/persons#p_TLCJL1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Ambassador to Libya</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v18/persons#p_TJL1</source-url>
+        </remark>
+    </remarks>
+</person>

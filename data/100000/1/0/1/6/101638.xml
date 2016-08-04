@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>101638</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Boyatt, Thomas David</name>
+        </preferred>
+        <alternates/>
+        <originals variants="4">
+            <original source-urls="2">
+                <name>Boyatt, Thomas David</name>
+                <source-url>https://history.state.gov/departmenthistory/people/boyatt-thomas-david</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve11p2/persons#p_BTD_1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Thomas D. Boyatt</name>
+                <source-url>https://history.state.gov/departmenthistory/people/boyatt-thomas-david</source-url>
+            </original>
+            <original source-urls="2">
+                <name>Boyatt, Thomas</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v29/persons#p_BT2</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v30/persons#p_BT2</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Boyatt, Thomas D.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v38p2/persons#p_BTD_1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1933</birth-year>
+    <death-year/>
+    <remarks variants="5">
+        <remark source-urls="1">
+            <p>Foreign Service Officer. Ambassador Extraordinary and Plenipotentiary (Colombia); Ambassador Extraordinary and Plenipotentiary (Burkina Faso).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/boyatt-thomas-david</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Political Officer, American Embassy in Cyprus until June 1970; Director, Office of Cypriot Affairs, Bureau of Near Eastern and South Asian Affairs, Department of State from July 1971</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v29/persons#p_BT2</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Director of Cypriot Affairs, Bureau of Near Eastern and South Asian Affairs, Department of State until 1973</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v30/persons#p_BT2</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Director of Cypriot Affairs, Bureau of Near Eastern and South Asian Affairs, Department of State, until 1973; Deputy Chief of Mission of the Embassy in Chile from 1975</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v38p2/persons#p_BTD_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Deputy Chief of Mission, U.S. Embassy in Santiago from 1976</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve11p2/persons#p_BTD_1</source-url>
+        </remark>
+    </remarks>
+</person>

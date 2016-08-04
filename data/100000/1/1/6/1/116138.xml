@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>116138</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Sofianopoulos (Sophianopoulos), John</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="1">
+                <name>Sofianopoulos (Sophianopoulos), John</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v05/persons#p_SOJ1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="1">
+        <remark source-urls="1">
+            <p>joint leader of the Democratic Camp, a coalition of political parties of the extreme left in the Greek parliamentary elections of March 1950.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1951v05/persons#p_SOJ1</source-url>
+        </remark>
+    </remarks>
+</person>

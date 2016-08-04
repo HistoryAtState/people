@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>114379</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Weight, Jerauld</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="2">
+                <name>Weight, Vice Admiral Jerauld</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v11p1/persons#p_WJ1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v11p2/persons#p_WJ1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="1">
+            <title source-urls="2">
+                <name>Vice Admiral</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v11p1/persons#p_WJ1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v11p2/persons#p_WJ1</source-url>
+            </title>
+        </titles-from-name>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="1">
+        <remark source-urls="2">
+            <p>(promoted to Admiral April 1, 1954), USN, Deputy Representative, NATO Standing Group, until February 1952; Commander, U.S. Naval Forces, Eastern Atlantic, and Deputy Commander in Chief, U.S. Naval Forces, Eastern Atlantic and Mediterranean, February–June 14, 1952; Commander, June 14, 1952–April 12, 1954; thereafter, Commander in Chief, Atlantic, and Commander in Chief of U.S. Atlantic Fleet and Supreme Allied Commander, Atlantic.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v11p1/persons#p_WJ1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v11p2/persons#p_WJ1</source-url>
+        </remark>
+    </remarks>
+</person>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>100243</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Al-Faqih, Asad</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="1">
+                <name>Al-Faqih, Asad</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v05/persons#p_AFS1</source-url>
+            </original>
+            <original source-urls="2">
+                <name>Al-Faqih, Sheikh Asad</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v09p1/persons#p_AFSA1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v09p2/persons#p_AFSA1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>al-Faqih, Sheikh Asad</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v13/persons#p_aFSA1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="1">
+            <title source-urls="3">
+                <name>Sheikh</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v09p1/persons#p_AFSA1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v09p2/persons#p_AFSA1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v13/persons#p_aFSA1</source-url>
+            </title>
+        </titles-from-name>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="2">
+        <remark source-urls="3">
+            <p>Saudi Arabian Ambassador to the United States.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1951v05/persons#p_AFS1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v09p1/persons#p_AFSA1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v09p2/persons#p_AFSA1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Saudi Arabian Ambassador to the United States until August 3, 1955</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v13/persons#p_aFSA1</source-url>
+        </remark>
+    </remarks>
+</person>

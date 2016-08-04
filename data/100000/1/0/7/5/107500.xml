@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>107500</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Kuropas, Myron</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="1">
+                <name>Kuropas, Myron</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v02/persons#p_KM_4</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="1">
+        <remark source-urls="1">
+            <p>Special Assistant to the President for Ethnic Affairs, White House Office of Public Liaison, until January 1977</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v02/persons#p_KM_4</source-url>
+        </remark>
+    </remarks>
+</person>

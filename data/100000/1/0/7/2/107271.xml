@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>107271</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Klein, Herbert G.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="8">
+                <name>Klein, Herbert G.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v01/persons#p_KHG1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v02/persons#p_KHG1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v07/persons#p_KHG1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v11/persons#p_KHG1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v17/persons#p_KHG1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v29/persons#p_KHG1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve12/persons#p_klein-herbert-g</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve13/persons#p_KHG1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="4">
+        <remark source-urls="5">
+            <p>White House Director of Communications</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v01/persons#p_KHG1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v07/persons#p_KHG1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v17/persons#p_KHG1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v29/persons#p_KHG1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve13/persons#p_KHG1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Director of Communications for the Executive Branch from January 1969</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v02/persons#p_KHG1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>White House Director of Communications from January 1969</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v11/persons#p_KHG1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>White House Director of Communications until July 1973</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve12/persons#p_klein-herbert-g</source-url>
+        </remark>
+    </remarks>
+</person>

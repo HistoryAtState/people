@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>104223</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Ferguson, Glenn Walker</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="2">
+                <name>Ferguson, Glenn Walker</name>
+                <source-url>https://history.state.gov/departmenthistory/people/ferguson-glenn-walker</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v20/persons#p_FGW_1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Glenn W. Ferguson</name>
+                <source-url>https://history.state.gov/departmenthistory/people/ferguson-glenn-walker</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Ferguson, Glenn W.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v23/persons#p_FGW_1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1929</birth-year>
+    <death-year>2008</death-year>
+    <remarks variants="3">
+        <remark source-urls="1">
+            <p>Non-career appointee. Ambassador Extraordinary and Plenipotentiary (Kenya).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/ferguson-glenn-walker</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Ambassador to Kenya, November 1966 until April 1969</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v23/persons#p_FGW_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>President of Radio Free Europe/Radio Liberty</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v20/persons#p_FGW_1</source-url>
+        </remark>
+    </remarks>
+</person>

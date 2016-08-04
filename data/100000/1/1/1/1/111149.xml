@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>111149</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Randolph, Edmund Jennings</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="1">
+                <name>Randolph, Edmund Jennings</name>
+                <source-url>https://history.state.gov/departmenthistory/people/randolph-edmund-jennings</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Edmund Randolph</name>
+                <source-url>https://history.state.gov/departmenthistory/people/randolph-edmund-jennings</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1753</birth-year>
+    <death-year>1813</death-year>
+    <remarks variants="1">
+        <remark source-urls="1">
+            <p>Non-career appointee. Secretary of State.</p>
+            <source-url>https://history.state.gov/departmenthistory/people/randolph-edmund-jennings</source-url>
+        </remark>
+    </remarks>
+</person>

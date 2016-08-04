@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>103639</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Draper, Morris</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="4">
+                <name>Draper, Morris</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v26/persons#p_DM_2</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v29/persons#p_DM1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v08/persons#p_DM_3</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v18/persons#p_DM_2</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="4">
+        <remark source-urls="1">
+            <p>Country Director, Lebanon, Jordan, Syria, Iraq, Bureau of Near Eastern and South Asian Affairs, Department of State</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v26/persons#p_DM_2</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Counselor for Political Affairs, Embassy in Turkey</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v29/persons#p_DM1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Director, Office of Lebanon, Jordan, Syrian Arab Republic, and Iraq Affairs, Bureau of Near Eastern Affairs and South Asian Affairs, Department of State</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v08/persons#p_DM_3</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Director, Office of Lebanon, Jordan, Syrian Arab Republic, and Iraq Affairs, Bureau of Near Eastern and South Asian Affairs, Department of State</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v18/persons#p_DM_2</source-url>
+        </remark>
+    </remarks>
+</person>

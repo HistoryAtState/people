@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>100860</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Barbian, Paul E.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="3">
+                <name>Barbian, Paul E.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve11p1/persons#p_BPE_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve11p2/persons#p_BPE_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve12/persons#p_barbian-paul-e</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="3">
+        <remark source-urls="1">
+            <p>Bureau of Economic and Business Affairs until March 1974; Operation Staff Office, Executive Secretariat, from March 1974 until March 1975; Special Assistant from March 1975 until June 1976; Bureau of Economic and Business Affairs from June 1976</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve11p1/persons#p_BPE_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Bureau of Economic and Business Affairs, Department of State, until March, 1974; Division of Operations, Office of the Secretariat Staff Department of State, from March 1974 until March 1975; Special Assistant, from March 1975 to June 1976; Bureau of Economic and Business Affairs, from June 1976</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve11p2/persons#p_BPE_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>staff, Executive Secretariat of the Department of State</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve12/persons#p_barbian-paul-e</source-url>
+        </remark>
+    </remarks>
+</person>

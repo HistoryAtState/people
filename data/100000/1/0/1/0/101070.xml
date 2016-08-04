@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>101070</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Becker, Loftus Eugene</name>
+        </preferred>
+        <alternates/>
+        <originals variants="5">
+            <original source-urls="2">
+                <name>Becker, Loftis</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v02p1/persons#p_BECKERL1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v02p2/persons#p_BECKERL1</source-url>
+            </original>
+            <original source-urls="11">
+                <name>Becker, Loftus E.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v10/persons#p_BLE1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v12/persons#p_BLE1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v13/persons#p_BLE1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v22/persons#p_BLE1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v23p1/persons#p_BLE1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v04/persons#p_BLE1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v08/persons#p_BLE1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v09/persons#p_BLE1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v17/persons#p_BLE1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v18/persons#p_BLE1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v19/persons#p_BLE1</source-url>
+            </original>
+            <original source-urls="8">
+                <name>Becker, Loftus</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v11/persons#p_BL1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v17/persons#p_BL1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v27/persons#p_BL1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v02/persons#p_BLE1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v07p1/persons#p_BL1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v07p2/persons#p_BL1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v12/persons#p_BLE1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v13/persons#p_BL1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Becker, Loftus Eugene</name>
+                <source-url>https://history.state.gov/departmenthistory/people/becker-loftus-eugene</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Loftus E. Becker</name>
+                <source-url>https://history.state.gov/departmenthistory/people/becker-loftus-eugene</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1911</birth-year>
+    <death-year>1977</death-year>
+    <remarks variants="10">
+        <remark source-urls="2">
+            <p>Deputy Director for Intelligence, Central Intelligence Agency, January 1, 1952–April 30, 1953.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v02p1/persons#p_BECKERL1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v02p2/persons#p_BECKERL1</source-url>
+        </remark>
+        <remark source-urls="4">
+            <p>Legal Adviser of the Department of State from June 13, 1957</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v10/persons#p_BLE1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v11/persons#p_BL1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v12/persons#p_BLE1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v13/persons#p_BLE1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Legal Adviser, Department of State, from June 13, 1957</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v17/persons#p_BL1</source-url>
+        </remark>
+        <remark source-urls="3">
+            <p>Legal Adviser of the Department of State from June 1957</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v22/persons#p_BLE1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v23p1/persons#p_BLE1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v27/persons#p_BL1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Legal Adviser, Department of State, until August 15, 1959</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v02/persons#p_BLE1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v12/persons#p_BLE1</source-url>
+        </remark>
+        <remark source-urls="4">
+            <p>Legal Adviser of the Department of State until August 1959</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v04/persons#p_BLE1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v13/persons#p_BL1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v18/persons#p_BLE1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v19/persons#p_BLE1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Legal Adviser of the Department of State</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v07p1/persons#p_BL1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v07p2/persons#p_BL1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Legal Adviser, Department of State, until August 1959</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v08/persons#p_BLE1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v09/persons#p_BLE1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Legal Advisor, Department of State, until August 1959</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v17/persons#p_BLE1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Non-career appointee. Legal Adviser.</p>
+            <source-url>https://history.state.gov/departmenthistory/people/becker-loftus-eugene</source-url>
+        </remark>
+    </remarks>
+</person>

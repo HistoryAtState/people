@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>112473</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Silberstein, Joseph A.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="3">
+                <name>Silberstein, Joseph A.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v06/persons#p_SJA1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v07/persons#p_SJA1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v05/persons#p_SJA1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="2">
+        <remark source-urls="2">
+            <p>Financial Officer, Embassy in Chile, until January 15, 1956; Office of South American Affairs, Department of State, January 15-November 4, 1956; thereafter, Officer in Charge of West Coast Affairs, Office of South American Affairs</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v06/persons#p_SJA1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v07/persons#p_SJA1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Officer in Charge of West Coast Affairs, Office of South American Affairs, Department of State, until September 1958; Deputy Director, Office of West Coast Affairs, September 1958–June 1960</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v05/persons#p_SJA1</source-url>
+        </remark>
+    </remarks>
+</person>

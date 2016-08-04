@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>105461</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Hamilton, Maxwell McGaughey</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="1">
+                <name>Hamilton, Maxwell M.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1943CairoTehran/persons#p_HMM1</source-url>
+            </original>
+            <original source-urls="2">
+                <name>Hamilton, Maxwell McGaughey</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1946v03/persons#p_HMM1</source-url>
+                <source-url>https://history.state.gov/departmenthistory/people/hamilton-maxwell-mcgaughey</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Maxwell M. Hamilton</name>
+                <source-url>https://history.state.gov/departmenthistory/people/hamilton-maxwell-mcgaughey</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1896</birth-year>
+    <death-year>1957</death-year>
+    <remarks variants="3">
+        <remark source-urls="1">
+            <p>Minister Counselor of Embassy in the Soviet Union.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1943CairoTehran/persons#p_HMM1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>United States Minister in Finland</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1946v03/persons#p_HMM1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Foreign Service Officer. Envoy Extraordinary and Minister Plenipotentiary (Finland).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/hamilton-maxwell-mcgaughey</source-url>
+        </remark>
+    </remarks>
+</person>

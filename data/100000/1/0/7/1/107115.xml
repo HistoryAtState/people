@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>107115</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Kharlamov, Mikhail A.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="3">
+                <name>Kharlamov, Mikhail A.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v08/persons#p_KMA1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v09/persons#p_KMA1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v05/persons#p_KMA1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="2">
+        <remark source-urls="2">
+            <p>Director of the Press Office, Soviet Foreign Ministry</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v08/persons#p_KMA1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v09/persons#p_KMA1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Chief of the Press Division, Soviet Foreign Ministry until February 1962; thereafter Chairman of the Soviet State Committee for Radio and Television Broadcasting</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v05/persons#p_KMA1</source-url>
+        </remark>
+    </remarks>
+</person>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>106304</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Huot Sambath</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="1">
+                <name>Sambath, Huot</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v23/persons#p_SH1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Huot Sambath</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v27/persons#p_HS1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="2">
+        <remark source-urls="1">
+            <p>Cambodian Secretary of State for Foreign Affairs, 1963</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v23/persons#p_SH1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Cambodian Secretary of State for Foreign Affairs</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v27/persons#p_HS1</source-url>
+        </remark>
+    </remarks>
+</person>

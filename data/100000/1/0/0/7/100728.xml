@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>100728</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Bacon, John Edmund</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="1">
+                <name>Bacon, John Edmund</name>
+                <source-url>https://history.state.gov/departmenthistory/people/bacon-john-edmund</source-url>
+            </original>
+            <original source-urls="1">
+                <name>John E. Bacon</name>
+                <source-url>https://history.state.gov/departmenthistory/people/bacon-john-edmund</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1830</birth-year>
+    <death-year>1897</death-year>
+    <remarks variants="1">
+        <remark source-urls="1">
+            <p>Non-career appointee. Chargé d'Affaires (Uruguay); Chargé d'Affaires (Paraguay); Minister Resident (Paraguay).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/bacon-john-edmund</source-url>
+        </remark>
+    </remarks>
+</person>

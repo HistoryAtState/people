@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>105909</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Higgins, Thomas</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="1">
+                <name>Higgins, Thomas</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v01/persons#p_HT_2</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="1">
+        <remark source-urls="1">
+            <p>Deputy Secretary to the Cabinet</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v01/persons#p_HT_2</source-url>
+        </remark>
+    </remarks>
+</person>

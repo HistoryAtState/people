@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>100059</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Abrasimov, Pyotr A.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="5">
+                <name>Abrasimov, Pyotr A.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v15/persons#p_APA1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v15/persons#p_APA1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v13/persons#p_APA1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v16/persons#p_APA_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v39/persons#p_APA1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Abras(s)imov, Pyotr A.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v40/persons#p_APA1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="5">
+        <remark source-urls="2">
+            <p>Soviet Ambassador to the German Democratic Republic</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v15/persons#p_APA1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v16/persons#p_APA_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Soviet Ambassador to East Germany</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v15/persons#p_APA1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Soviet Ambassador to East Germany until October 1971</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v13/persons#p_APA1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Soviet Ambassador to the German Democratic Republic until 1971; Ambassador to France from September 1971 to May 3, 1973</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v39/persons#p_APA1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Soviet Ambassador to East Germany until 1971; thereafter Soviet Ambassador to France</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v40/persons#p_APA1</source-url>
+        </remark>
+    </remarks>
+</person>

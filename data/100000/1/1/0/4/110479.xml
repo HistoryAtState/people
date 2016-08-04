@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>110479</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Peale, Samuel R.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="1">
+                <name>Peale, Samuel R.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v05/persons#p_PSR1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="1">
+        <remark source-urls="1">
+            <p>international relations officer, Office of UN Political Affairs, Bureau of International Organization Affairs, Department of State, from March 1969; Acting Chief, Dependent Area Affairs, February–October 1971</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v05/persons#p_PSR1</source-url>
+        </remark>
+    </remarks>
+</person>

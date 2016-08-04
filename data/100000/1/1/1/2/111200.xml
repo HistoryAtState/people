@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>111200</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Ray, Dixy Lee</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="5">
+                <name>Ray, Dixy Lee</name>
+                <source-url>https://history.state.gov/departmenthistory/people/ray-dixy-lee</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v35/persons#p_RDL_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve03/persons#p_RDL2</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve14p2/persons#p_RDL_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve15p2/persons#p_RDL_1</source-url>
+            </original>
+            <original source-urls="2">
+                <name>Ray, Dixie Lee</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v36/persons#p_RDL1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v37/persons#p_RDL_1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1914</birth-year>
+    <death-year>1994</death-year>
+    <remarks variants="7">
+        <remark source-urls="1">
+            <p>Non-career appointee. Assistant Secretary of State for Oceans and International Environmental and Scientific Affairs.</p>
+            <source-url>https://history.state.gov/departmenthistory/people/ray-dixy-lee</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Chairperson, Atomic Energy Commission from February 6, 1973 until January 19, 1975; Assistant Secretary of State for Oceans and International Environmental and Scientific Affairs from January 19, 1975 until June 20, 1975</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v35/persons#p_RDL_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Chairman, Atomic Energy Commission, from 1973 until 1974</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v36/persons#p_RDL1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Chairman, Atomic Energy Commission until 1974</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v37/persons#p_RDL_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Assistant Secretary of State for Oceans and International Environmental and Scientific Affairs, Department of State, from January 19, 1975 until June 20, 1975</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve03/persons#p_RDL2</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Chair, Atomic Energy Commission from 1973 until 1975; Assistant Secretary of State for Oceans and International Environmental and Scientific Affairs from January 19 until June 20, 1975</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve14p2/persons#p_RDL_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Chairperson, Atomic Energy Commission from February 1973 until January 1975; Assistant Secretary of State for Oceans and International Environmental and Scientific Affairs from January 1975 until June 1975</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve15p2/persons#p_RDL_1</source-url>
+        </remark>
+    </remarks>
+</person>

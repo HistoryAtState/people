@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>114454</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Westbrook, Samuel W., III</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="1">
+                <name>Westbrook, Sam</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v37/persons#p_WS_1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Westbrook, Samuel W. III</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v01/persons#p_WSW_1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="2">
+        <remark source-urls="1">
+            <p>Member of the National Security Council Staff</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v37/persons#p_WS_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Lieutenant Colonel, USAF; action officer, Directorate of Plans, Office of the Deputy Chief of Staff, Plans and Operations, U.S. Air Force, from 1975 until 1977; member, National Security Council staff, from 1977 until 1978; thereafter, chief of the staff group for the Assistant Vice Chief of Staff of the Air Force</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v01/persons#p_WSW_1</source-url>
+        </remark>
+    </remarks>
+</person>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>104230</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Fernándes, Raúl</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="2">
+                <name>Fernandes, Raúl</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1946v03/persons#p_FR1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v04/persons#p_FR1</source-url>
+            </original>
+            <original source-urls="2">
+                <name>Fernándes, Raúl</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v06/persons#p_FR1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v07/persons#p_FR1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="3">
+        <remark source-urls="1">
+            <p>Member of the Brazilian Delegation; Member of the Brazilian Constituent Assembly</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1946v03/persons#p_FR1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Brazilian Minister of Foreign Affairs from September 1954.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v04/persons#p_FR1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Brazilian Minister of Foreign Affairs until November 12, 1955</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v06/persons#p_FR1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v07/persons#p_FR1</source-url>
+        </remark>
+    </remarks>
+</person>

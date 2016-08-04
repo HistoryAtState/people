@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>103559</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Dole, Robert Joseph</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="5">
+                <name>Dole, Robert J.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v25/persons#p_DRJ1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v07/persons#p_DRJ1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v09/persons#p_DRJ_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v01/persons#p_DRJ_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v02/persons#p_DRJ_1</source-url>
+            </original>
+            <original source-urls="3">
+                <name>Dole, Robert</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v29/persons#p_DR3</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v37/persons#p_DR_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v13/persons#p_DR_1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Dole, Robert (Bob) Joseph</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v35/persons#p_DRJ_1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="6">
+        <remark source-urls="1">
+            <p>Republican Congressman from Kansas</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v25/persons#p_DRJ1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Republican Senator from Kansas</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v07/persons#p_DRJ1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v09/persons#p_DRJ_1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Senator (R–Kansas)</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v29/persons#p_DR3</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v37/persons#p_DR_1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Senator (R-Kansas)</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v35/persons#p_DRJ_1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v01/persons#p_DRJ_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Senator (R-Kansas); member, Senate Committee on Agriculture, Nutrition, and Forestry; adviser, U.S. Delegation to the Food and Agriculture Organization meetings, 1977 and 1979; member, Presidential Commission on World Hunger; member, Commission on CSCE (Helsinki Commission)</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v02/persons#p_DRJ_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Senator (R–Kansas) from 1969 until 1996</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v13/persons#p_DR_1</source-url>
+        </remark>
+    </remarks>
+</person>

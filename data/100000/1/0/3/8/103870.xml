@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>103870</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Ehrlich, Thomas</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="6">
+                <name>Ehrlich, Thomas</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v02/persons#p_ET1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v03/persons#p_ET1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v01/persons#p_ET_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v02/persons#p_ET_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v03/persons#p_ET_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v28/persons#p_ET_1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="5">
+        <remark source-urls="2">
+            <p>Special Assistant to Under Secretary of State Ball</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v02/persons#p_ET1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v03/persons#p_ET1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>President, Legal Services Corporation until 1979; Department of State consultant, 1979; thereafter Director, International Development Cooperation Agency and Chair, Development Loan Committee and Development Coordination Committee</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v01/persons#p_ET_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Department of State consultant, 1979; thereafter Director, International Development Cooperation Agency and Chairman, Development Loan Committee and Development Coordination Committee</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v02/persons#p_ET_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Director, International Development Cooperation Agency, from 1979</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v03/persons#p_ET_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Director of the International Development Cooperation Agency</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v28/persons#p_ET_1</source-url>
+        </remark>
+    </remarks>
+</person>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>107841</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Lennox-Boyd, Alan T.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="1">
+                <name>Lennox-Boyd, Alan</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v24/persons#p_LBA1</source-url>
+            </original>
+            <original source-urls="2">
+                <name>Lennox-Boyd, Alan T.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v10p1/persons#p_LBAT1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v10p2/persons#p_LBAT1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="2">
+        <remark source-urls="1">
+            <p>British Secretary of State for the Colonies</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v24/persons#p_LBA1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>British Secretary of State for the Colonies until October 1959</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v10p1/persons#p_LBAT1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v10p2/persons#p_LBAT1</source-url>
+        </remark>
+    </remarks>
+</person>

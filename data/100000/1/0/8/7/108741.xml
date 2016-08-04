@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>108741</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>McCaffery, Richard S., Jr.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="3">
+                <name>McCaffery, Richard S., Jr.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv01/persons#p_MRS1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v06p1/persons#p_MCCAFFERYRSJ1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v06p2/persons#p_MCCAFFERYRSJ1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>McCaffery, Richard S.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v22/persons#p_MCRS1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="3">
+        <remark source-urls="1">
+            <p>Mission for Economic Affairs, American Embassy, London.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv01/persons#p_MRS1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Member of the Mutual Security Agency Economic Group in Spain, May 1952–September 1953; Economic Commissioner at Madrid until November 1954.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v06p1/persons#p_MCCAFFERYRSJ1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v06p2/persons#p_MCCAFFERYRSJ1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Counselor for International Cooperation at the Embassy in Burma from May 1957</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v22/persons#p_MCRS1</source-url>
+        </remark>
+    </remarks>
+</person>

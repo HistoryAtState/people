@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>109960</id>
+    <authorities>
+        <authority service="viaf">80912463</authority>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Nujoma, Samuel D.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="1">
+                <name>Nujoma, Sam</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v24/persons#p_NS1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Nujoma, Samuel D.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v28/persons#p_NSD_1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>President Sam Nujoma</name>
+                <source-url>https://history.state.gov/departmenthistory/visits/namibia</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="3">
+        <remark source-urls="1">
+            <p>President of the South West Africa People’s Organization (SWAPO)</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v24/persons#p_NS1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>President of the Southwest Africa Peoples’ Organization (SWAPO)</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v28/persons#p_NSD_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>President, Namibia. Visited U.S. 2 times, 1990–1993</p>
+            <source-url>https://history.state.gov/departmenthistory/visits/namibia</source-url>
+        </remark>
+    </remarks>
+</person>

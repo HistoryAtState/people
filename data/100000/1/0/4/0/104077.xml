@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>104077</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Evans, Melvin H.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="1">
+                <name>Evans, Melvin H.</name>
+                <source-url>https://history.state.gov/departmenthistory/people/evans-melvin-h</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Melvin Herbert Evans</name>
+                <source-url>https://history.state.gov/departmenthistory/people/evans-melvin-h</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1917</birth-year>
+    <death-year>1984</death-year>
+    <remarks variants="1">
+        <remark source-urls="1">
+            <p>Non-career appointee. Ambassador Extraordinary and Plenipotentiary (Trinidad and Tobago).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/evans-melvin-h</source-url>
+        </remark>
+    </remarks>
+</person>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>112004</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Scanlan, Michael D.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="4">
+                <name>Scanlan, Michael D.</name>
+                <source-url>https://history.state.gov/departmenthistory/people/scanlan-michael-d</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v30/persons#p_SJD_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1981-88v03/persons#p_SJD_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1981-88v13/persons#p_SJD_1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="4">
+        <remark source-urls="1">
+            <p>Foreign Service Officer. Chargé d'Affaires ad interim (Belarus).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/scanlan-michael-d</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Deputy Assistant Director (North Central, Eastern, and Southern Europe), Office of Assistant Director, Europe, United States Information Agency, from late 1977 until late 1978; Deputy Director (North Central, Eastern, and Southern Europe), Office of the Director for European Affairs, U.S. International Communication Agency, from 1978 until 1979</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v30/persons#p_SJD_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Deputy Assistant Secretary of State, Bureau of European Affairs, until October 1982</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1981-88v03/persons#p_SJD_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Deputy Assistant Secretary of State for European Affairs from June 1981 until October 1982</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1981-88v13/persons#p_SJD_1</source-url>
+        </remark>
+    </remarks>
+</person>

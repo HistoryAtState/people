@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>109454</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Moser, Leo John</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="3">
+                <name>Moser, Leo J.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v05/persons#p_MLJ1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v17/persons#p_MLJ1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve13/persons#p_MLJ1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Moser, Leo John</name>
+                <source-url>https://history.state.gov/departmenthistory/people/moser-leo-john</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Leo J. Moser</name>
+                <source-url>https://history.state.gov/departmenthistory/people/moser-leo-john</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1929</birth-year>
+    <death-year/>
+    <remarks variants="3">
+        <remark source-urls="1">
+            <p>Director, Republic of China Affairs, Bureau of East Asian and Pacific Affairs, Department of State, 1971</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v05/persons#p_MLJ1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Political Officer in Taipei until August 1971; thereafter, Country Director for China (Republic of China), Bureau of East Asian and Pacific Affairs, Department of State</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v17/persons#p_MLJ1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve13/persons#p_MLJ1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Foreign Service Officer. Chargé d'Affaires ad interim (Laos).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/moser-leo-john</source-url>
+        </remark>
+    </remarks>
+</person>

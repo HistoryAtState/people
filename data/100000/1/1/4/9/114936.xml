@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>114936</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Yost, Robert Lloyd</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="4">
+                <name>Yost, Robert Lloyd</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve05p1/persons#p_YRL1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve05p2/persons#p_YRL1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve06/persons#p_YRL1</source-url>
+                <source-url>https://history.state.gov/departmenthistory/people/yost-robert-lloyd</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Robert L. Yost</name>
+                <source-url>https://history.state.gov/departmenthistory/people/yost-robert-lloyd</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1922</birth-year>
+    <death-year>1990</death-year>
+    <remarks variants="3">
+        <remark source-urls="2">
+            <p>Ambassador to Burundi from August 19, 1972 to May 26, 1974</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve05p1/persons#p_YRL1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve05p2/persons#p_YRL1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Ambassador to Burundi from August 1972 to May 1974</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve06/persons#p_YRL1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Foreign Service Officer. Ambassador Extraordinary and Plenipotentiary (Burundi); Ambassador Extraordinary and Plenipotentiary (Dominican Republic).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/yost-robert-lloyd</source-url>
+        </remark>
+    </remarks>
+</person>

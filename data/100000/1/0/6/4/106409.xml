@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>106409</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Inouye, Daniel K.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="2">
+                <name>Inouye, Daniel</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v10/persons#p_ID1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v26/persons#p_ID_1</source-url>
+            </original>
+            <original source-urls="11">
+                <name>Inouye, Daniel K.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v20/persons#p_IDK1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v38p1/persons#p_IDK_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v38p2/persons#p_IDK_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve06/persons#p_IDK1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve11p1/persons#p_ID_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve11p2/persons#p_ID_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v01/persons#p_IDK_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v02/persons#p_IDK_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v03/persons#p_IDK_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v28/persons#p_IDK_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v30/persons#p_IDK_1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Inouye, Daniel P.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve03/persons#p_IDP1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="9">
+        <remark source-urls="1">
+            <p>Democratic Senator from Hawaii</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v10/persons#p_ID1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Senator (D–Hawaii)</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v20/persons#p_IDK1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v03/persons#p_IDK_1</source-url>
+        </remark>
+        <remark source-urls="5">
+            <p>Senator (D-Hawaii)</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v26/persons#p_ID_1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve11p1/persons#p_ID_1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve11p2/persons#p_ID_1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v01/persons#p_IDK_1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v30/persons#p_IDK_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Senator (D–Hawaii); Chairman, Select Committee on Intelligence from May 20, 1976</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v38p1/persons#p_IDK_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Senator (D–Hawaii); Chairman, Select Committee on Intelligence from 1975</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v38p2/persons#p_IDK_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Democratic Senator from Hawaii, Chairman, Subcommittee on Foreign Operations, Committee on Appropriations, U.S. Senate</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve03/persons#p_IDP1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Democrat Senator from Hawaii from 1963 to Present</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve06/persons#p_IDK1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Senator (D-Hawaii); Chairman, Senate Select Committee on Intelligence, from January 3, 1975, until January 3, 1981; Chairman, Subcommittee on Foreign Operations, Senate Appropriations Committee</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v02/persons#p_IDK_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Senator (D—Hawaii); Chairman of the Senate Select Committee on Intelligence until January 1979</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v28/persons#p_IDK_1</source-url>
+        </remark>
+    </remarks>
+</person>

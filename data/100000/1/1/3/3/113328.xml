@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>113328</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Talmadge, Herman E.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="4">
+                <name>Talmadge, Herman E.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v07/persons#p_THE1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v01/persons#p_THE_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v02/persons#p_THE_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v13/persons#p_THE_1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="4">
+        <remark source-urls="1">
+            <p>Democratic Senator from Georgia</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v07/persons#p_THE1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Senator (D-Georgia) until January 3, 1981</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v01/persons#p_THE_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Senator (D-Georgia); Chairman, Senate Committee on Agriculture, Nutrition, and Forestry</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v02/persons#p_THE_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Senator (D–Georgia) from 1957 until 1981</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v13/persons#p_THE_1</source-url>
+        </remark>
+    </remarks>
+</person>

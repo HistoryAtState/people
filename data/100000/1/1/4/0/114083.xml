@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>114083</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Vinci, Piero</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="2">
+                <name>Vinci, Piero</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v12/persons#p_VP1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v05/persons#p_VP1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="2">
+        <remark source-urls="1">
+            <p>Italian Permanent Representative to the United Nations</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v12/persons#p_VP1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Permanent Representative of Italy to the United Nations</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v05/persons#p_VP1</source-url>
+        </remark>
+    </remarks>
+</person>

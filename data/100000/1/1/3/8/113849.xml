@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>113849</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Tyler, John</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="1">
+                <name>John Tyler</name>
+                <source-url>https://history.state.gov/cms/apps/presidents/data/presidents.xml#tyler-john</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1790</birth-year>
+    <death-year>1862</death-year>
+    <remarks variants="1">
+        <remark source-urls="1">
+            <p>President of the United States, from April 4, 1841 until March 4, 1845</p>
+            <source-url>https://history.state.gov/cms/apps/presidents/data/presidents.xml#tyler-john</source-url>
+        </remark>
+    </remarks>
+</person>

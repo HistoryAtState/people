@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>101336</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Birgi, Nuri</name>
+        </preferred>
+        <alternates>
+            <name>Nuri-Birgi, M.</name>
+        </alternates>
+        <originals variants="5">
+            <original source-urls="6">
+                <name>Birgi, Nuri</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v05p1/persons#p_BIRGIN1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v05p2/persons#p_BIRGIN1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v08/persons#p_BN1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v09p1/persons#p_BN1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v09p2/persons#p_BN1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v16/persons#p_BN1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Birgi, Nuri (Nuri-Birgi, M.)</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v12/persons#p_BNNBM1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Birgi</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v24/persons#p_Birgi1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Nuri Birgi, M.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v24/persons#p_NBM1</source-url>
+            </original>
+            <original source-urls="2">
+                <name>Birgi, M. Nuri</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v10p1/persons#p_BMN1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v10p2/persons#p_BMN1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="8">
+        <remark source-urls="2">
+            <p>Secretary-General of the Turkish Ministry of Foreign Affairs.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v05p1/persons#p_BIRGIN1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v05p2/persons#p_BIRGIN1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Under (Assistant) Secretary General in the Turkish Ministry of Foreign Affairs, 1952–1954.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v08/persons#p_BN1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Under Secretary General of Turkey; Secretary General of the Turkish Ministry of Foreign Affairs.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v09p1/persons#p_BN1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v09p2/persons#p_BN1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Secretary General of the Turkish Ministry of Foreign Affairs until June 1957; Ambassador to the United Kingdom from June 1957</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v12/persons#p_BNNBM1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v16/persons#p_BN1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>(see Nuri Birgi)</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v24/persons#p_Birgi1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Secretary General, Turkish Ministry of Foreign Affairs, until June 1957; Ambassador in the United Kingdom from June 1957</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v24/persons#p_NBM1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Turkish Ambassador in the United Kingdom until September 1960; thereafter Permanent Representative to NATO</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v10p1/persons#p_BMN1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Turkish Ambassador to the United Kingdom until September 1960; thereafter Permanent Representative to NATO</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v10p2/persons#p_BMN1</source-url>
+        </remark>
+    </remarks>
+</person>

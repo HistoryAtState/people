@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>109872</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Nimieri, Gaafer</name>
+        </preferred>
+        <alternates/>
+        <originals variants="4">
+            <original source-urls="1">
+                <name>Nimeiry, Jaafar (Gaafar Muhammad an-Nimeiry)</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve06/persons#p_Nimeiry1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Numayri, Ga’far M. (Jaafar Nimeiry, Gaafar Nimeiry)</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve09p1/persons#p_NGM_1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Nimieri, Gaafer</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v06/persons#p_NIG_1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Numeiri (Numayri), Mohammed al-Jafaar</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v08/persons#p_NMJ_1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="3">
+        <remark source-urls="1">
+            <p>President of Sudan from 1969 to 1985</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve06/persons#p_Nimeiry1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>President of Sudan from 1969 until 1985</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve09p1/persons#p_NGM_1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>President of Sudan</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v06/persons#p_NIG_1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v08/persons#p_NMJ_1</source-url>
+        </remark>
+    </remarks>
+</person>

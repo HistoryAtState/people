@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>106979</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Keith, Gerald</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="2">
+                <name>Keith, Gerald</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv02/persons#p_KG1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1948v02/persons#p_KG1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="2">
+        <remark source-urls="1">
+            <p>Counselor, American Embassy, Warsaw (en route to his post).</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv02/persons#p_KG1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Counselor of the United States Embassy in the United Kingdom</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1948v02/persons#p_KG1</source-url>
+        </remark>
+    </remarks>
+</person>

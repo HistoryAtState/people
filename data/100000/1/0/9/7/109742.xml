@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>109742</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Neville, Edwin Lowe</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="1">
+                <name>Neville, Edwin Lowe</name>
+                <source-url>https://history.state.gov/departmenthistory/people/neville-edwin-lowe</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Edwin L. Neville</name>
+                <source-url>https://history.state.gov/departmenthistory/people/neville-edwin-lowe</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1884</birth-year>
+    <death-year>1944</death-year>
+    <remarks variants="1">
+        <remark source-urls="1">
+            <p>Foreign Service Officer. Envoy Extraordinary and Minister Plenipotentiary (Thailand).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/neville-edwin-lowe</source-url>
+        </remark>
+    </remarks>
+</person>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>108366</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Mainland, Edward A.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="2">
+                <name>Mainland, Edward A.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v13/persons#p_MEA1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve15p1/persons#p_MEA1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="2">
+        <remark source-urls="1">
+            <p>International Relations Officer, Bilateral Political Relations Section, Soviet Foreign Affairs Division, Office of Soviet Union Affairs, Bureau of European Affairs, Department of State</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v13/persons#p_MEA1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Political Officer, Embassy Romania</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve15p1/persons#p_MEA1</source-url>
+        </remark>
+    </remarks>
+</person>

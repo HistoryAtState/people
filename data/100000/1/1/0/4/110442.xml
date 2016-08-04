@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>110442</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Patterson, Jefferson</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="4">
+                <name>Patterson, Jefferson</name>
+                <source-url>https://history.state.gov/departmenthistory/people/patterson-jefferson</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v05/persons#p_PJ2</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v06/persons#p_PJ1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v07/persons#p_PJ1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1891</birth-year>
+    <death-year>1977</death-year>
+    <remarks variants="3">
+        <remark source-urls="1">
+            <p>Foreign Service Officer. Ambassador Extraordinary and Plenipotentiary (Uruguay).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/patterson-jefferson</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>United States Representative on the United Nations Special Committee on the Balkans.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1951v05/persons#p_PJ2</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Ambassador to Uruguay from May 2, 1956</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v06/persons#p_PJ1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v07/persons#p_PJ1</source-url>
+        </remark>
+    </remarks>
+</person>

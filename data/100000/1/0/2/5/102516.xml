@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>102516</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Cho Chong-hwan</name>
+        </preferred>
+        <alternates>
+            <name>Cho, Chung W.</name>
+        </alternates>
+        <originals variants="4">
+            <original source-urls="2">
+                <name>Cho Chung Whan</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v15p1/persons#p_CCW1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v15p2/persons#p_CCW1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Cho Chung Hwan</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v16/persons#p_CCH1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Cho, Chung-hwan (Cho, Chung W.)</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v23p2/persons#p_CCCCW1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Cho Chong-hwan (Cho, Chung W.)</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v18/persons#p_CCCCW1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="4">
+        <remark source-urls="2">
+            <p>Vice Minister of Foreign Affairs in the Republic of Korea.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v15p1/persons#p_CCW1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v15p2/persons#p_CCW1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Vice Minister of Foreign Affairs of the Republic of Korea; Acting Minister of Foreign Affairs at the Time of the Geneva Conference on Korea.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v16/persons#p_CCH1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Acting Korean Minister of Foreign Affairs, 1955–1956; Minister of Foreign Affairs from December 31, 1956</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v23p2/persons#p_CCCCW1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Minister of Foreign Affairs of the Republic of Korea until December 1959</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v18/persons#p_CCCCW1</source-url>
+        </remark>
+    </remarks>
+</person>

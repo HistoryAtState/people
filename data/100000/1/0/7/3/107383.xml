@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>107383</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Korry, Edward Malcolm</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="2">
+                <name>Korry, Edward Malcolm</name>
+                <source-url>https://history.state.gov/departmenthistory/people/korry-edward-malcolm</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve16/persons#p_KEM_1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Edward M. Korry</name>
+                <source-url>https://history.state.gov/departmenthistory/people/korry-edward-malcolm</source-url>
+            </original>
+            <original source-urls="5">
+                <name>Korry, Edward M.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v21/persons#p_KEM3</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v23/persons#p_KEM_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v24/persons#p_KEM3</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v31/persons#p_KEM1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v21/persons#p_KEM_1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1922</birth-year>
+    <death-year>2003</death-year>
+    <remarks variants="6">
+        <remark source-urls="1">
+            <p>Non-career appointee. Ambassador Extraordinary and Plenipotentiary (Ethiopia); Ambassador Extraordinary and Plenipotentiary (Chile).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/korry-edward-malcolm</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Ambassador to Ethiopia from April 1963</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v21/persons#p_KEM3</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Ambassador to Ethiopia from April 20, 1963 until September 22, 1967</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v23/persons#p_KEM_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Ambassador to Ethiopia until September 1967</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v24/persons#p_KEM3</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Ambassador to Chile from August 23, 1967</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v31/persons#p_KEM1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>U.S. Ambassador to Chile until October 20, 1971; President, Association of American Publishers until 1973</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v21/persons#p_KEM_1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve16/persons#p_KEM_1</source-url>
+        </remark>
+    </remarks>
+</person>

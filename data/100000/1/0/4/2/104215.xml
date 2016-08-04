@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>104215</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Fenwick, Millicent H.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="1">
+                <name>Fenwick, Millicent H.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v10/persons#p_FMH1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Fenwick, Millicent</name>
+                <source-url>https://history.state.gov/departmenthistory/people/fenwick-millicent</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1910</birth-year>
+    <death-year>1992</death-year>
+    <remarks variants="2">
+        <remark source-urls="1">
+            <p>Republican Representative from New Jersey from January 3, 1975</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v10/persons#p_FMH1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Non-career appointee. U.S. Representative to the United Nations Agencies for Food and Agriculture (Rome).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/fenwick-millicent</source-url>
+        </remark>
+    </remarks>
+</person>

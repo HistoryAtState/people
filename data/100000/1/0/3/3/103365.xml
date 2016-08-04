@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>103365</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Dennison, Robert L.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="2">
+                <name>Dennison, Rear Admiral Robert L.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v15p1/persons#p_DRARL1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v15p2/persons#p_DRARL1</source-url>
+            </original>
+            <original source-urls="4">
+                <name>Dennison, Admiral Robert L.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v06/persons#p_DARL1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v12/persons#p_DARL1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v10/persons#p_DARL1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v11/persons#p_DARL1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="2">
+            <title source-urls="2">
+                <name>Rear Admiral</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v15p1/persons#p_DRARL1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v15p2/persons#p_DRARL1</source-url>
+            </title>
+            <title source-urls="4">
+                <name>Admiral</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v06/persons#p_DARL1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v12/persons#p_DARL1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v10/persons#p_DARL1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v11/persons#p_DARL1</source-url>
+            </title>
+        </titles-from-name>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="5">
+        <remark source-urls="2">
+            <p>USN, Naval Aide to President Truman, 1952.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v15p1/persons#p_DRARL1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v15p2/persons#p_DRARL1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>USN, Supreme Allied Commander, Atlantic</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v06/persons#p_DARL1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>USN, Commander-in-Chief, U.S. Naval Forces, Eastern Atlantic and Mediterranean</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v12/persons#p_DARL1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Commander in Chief, Atlantic</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v10/persons#p_DARL1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>USN, Commander in Chief, Atlantic</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v11/persons#p_DARL1</source-url>
+        </remark>
+    </remarks>
+</person>

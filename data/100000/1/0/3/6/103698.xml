@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>103698</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Duke, Charles Beresford</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="2">
+                <name>Duke, Charles B.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v09p1/persons#p_DCB1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v09p2/persons#p_DCB1</source-url>
+            </original>
+            <original source-urls="2">
+                <name>Duke, Sir Charles Beresford</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v12/persons#p_DSCB1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v13/persons#p_DSCB1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="1">
+            <title source-urls="2">
+                <name>Sir</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v12/persons#p_DSCB1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v13/persons#p_DSCB1</source-url>
+            </title>
+        </titles-from-name>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="2">
+        <remark source-urls="2">
+            <p>Counselor of the British Embassy in Egypt July 30, 1952–May 12, 1954; thereafter Ambassador to Jordan.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v09p1/persons#p_DCB1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v09p2/persons#p_DCB1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>British Ambassador to Jordan</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v12/persons#p_DSCB1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v13/persons#p_DSCB1</source-url>
+        </remark>
+    </remarks>
+</person>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>107452</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Krishnamachari, Tiruvallur Thattai</name>
+        </preferred>
+        <alternates/>
+        <originals variants="4">
+            <original source-urls="2">
+                <name>Krishnamachari, Tiruvallar T.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v11p1/persons#p_KTT1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v11p2/persons#p_KTT1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Krishnamachari, Tiruvallur Thattai</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v15/persons#p_KTT1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Krishnamachari, T. T.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v19/persons#p_KTT1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Krishnamachari, T.T. (Tiruvallur Thattai)</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v25/persons#p_KTTTT1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="4">
+        <remark source-urls="2">
+            <p>Indian Minister for Commerce and Industry from May 1952.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v11p1/persons#p_KTT1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v11p2/persons#p_KTT1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Indian Minister of Finance until 1958</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v15/persons#p_KTT1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Minister of Economic and Defense Coordination of India from November 1962</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v19/persons#p_KTT1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Indian Minister of Finance, August 1963–December 1965</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v25/persons#p_KTTTT1</source-url>
+        </remark>
+    </remarks>
+</person>

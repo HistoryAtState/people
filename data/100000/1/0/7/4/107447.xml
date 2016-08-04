@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>107447</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Krieg, William L.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="5">
+                <name>Krieg, William L.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v06/persons#p_KWL1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v07/persons#p_KWL1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v05/persons#p_KWL1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v31/persons#p_KWL1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve10/persons#p_KWL1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="4">
+        <remark source-urls="2">
+            <p>Counselor, Embassy in Guatemala until January 16, 1955; Special Assistant to the Assistant Secretary of State for Inter-American Affairs, January 16-August 14, 1955; detailed to National War College, August 14, 1955-July 16, 1956; Deputy Director, Office of Inter-American Regional Political Affairs, Department of State, from July 16, 1956; also in charge of Public Relations Affairs of that Office from December 19, 1956</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v06/persons#p_KWL1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v07/persons#p_KWL1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Deputy Director and Officer in Charge of Puerto Rican Affairs, Office of Inter-American Regional Political Affairs, Department of State, until June 1958; Counselor of the Embassy in Chile from July 27, 1958</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v05/persons#p_KWL1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Director, Office of Argentine, Paraguayan, and Uruguayan Affairs, Bureau of Inter-American Affairs, Department of State, from May 1965</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v31/persons#p_KWL1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Country Director, Office of Argentina-Paraguay-Uruguay Affairs, Bureau of Inter-American Affairs from January 1969 until November 1969; Office of the Inspector General, Foreign Service Inspection Corps, Deputy Under Secretary for Administration from February 1970</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve10/persons#p_KWL1</source-url>
+        </remark>
+    </remarks>
+</person>

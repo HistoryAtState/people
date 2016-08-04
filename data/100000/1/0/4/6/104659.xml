@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>104659</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Galbraith, John Kenneth</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="8">
+                <name>Galbraith, John Kenneth</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v01/persons#p_GJK1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v02/persons#p_GJK1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v09/persons#p_GJK1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v22/persons#p_GJK1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v25/persons#p_GJK1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v02/persons#p_GJK1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v03/persons#p_GJK1</source-url>
+                <source-url>https://history.state.gov/departmenthistory/people/galbraith-john-kenneth</source-url>
+            </original>
+            <original source-urls="3">
+                <name>Galbraith, J. Kenneth</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v13/persons#p_GJK1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v19/persons#p_GJK1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v24/persons#p_GJK1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>J. Kenneth Galbraith</name>
+                <source-url>https://history.state.gov/departmenthistory/people/galbraith-john-kenneth</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1908</birth-year>
+    <death-year>2006</death-year>
+    <remarks variants="9">
+        <remark source-urls="1">
+            <p>Ambassador to India from April 18, 1961</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v01/persons#p_GJK1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Ambassador to India</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v02/persons#p_GJK1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Ambassador to India, April 18, 1961-July 12, 1963</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v09/persons#p_GJK1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Ambassador to India, April 1961–July 1963</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v13/persons#p_GJK1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Ambassador to India, March 1961-July 1963</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v19/persons#p_GJK1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Ambassador to India April 1961-July 1963</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v22/persons#p_GJK1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Ambassador to India, March 29, 1961–July 12, 1963</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v24/persons#p_GJK1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v25/persons#p_GJK1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Professor of Economics, Harvard University</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v02/persons#p_GJK1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v03/persons#p_GJK1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Non-career appointee. Ambassador Extraordinary and Plenipotentiary (India).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/galbraith-john-kenneth</source-url>
+        </remark>
+    </remarks>
+</person>

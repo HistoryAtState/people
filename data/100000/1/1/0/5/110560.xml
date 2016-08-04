@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>110560</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Perina, Rudolf Vilem</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="1">
+                <name>Perina, Rudolf Vilem</name>
+                <source-url>https://history.state.gov/departmenthistory/people/perina-rudolf-vilem</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1945</birth-year>
+    <death-year/>
+    <remarks variants="1">
+        <remark source-urls="1">
+            <p>Foreign Service Officer. Ambassador Extraordinary and Plenipotentiary (Moldova).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/perina-rudolf-vilem</source-url>
+        </remark>
+    </remarks>
+</person>

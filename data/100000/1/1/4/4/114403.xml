@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>114403</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Wei Tao-ming</name>
+        </preferred>
+        <alternates>
+            <name>Wei Daoming</name>
+        </alternates>
+        <originals variants="1">
+            <original source-urls="5">
+                <name>Wei Tao-ming</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1943CairoTehran/persons#p_WTm1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v30/persons#p_WT1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v05/persons#p_WT1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v17/persons#p_WT1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve13/persons#p_WT1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="4">
+        <remark source-urls="1">
+            <p>Chinese Ambassador in the United States.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1943CairoTehran/persons#p_WTm1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Foreign Minister of the Republic of China from June 1966</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v30/persons#p_WT1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Foreign Minister, Republic of China</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v05/persons#p_WT1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Foreign Minister of the Republic of China until May 1971; Senior Advisor to the President from 1971</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v17/persons#p_WT1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve13/persons#p_WT1</source-url>
+        </remark>
+    </remarks>
+</person>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>104779</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Gazdik, Julian</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="1">
+                <name>Gazdik, Julian</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v34/persons#p_GJ1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="1">
+        <remark source-urls="1">
+            <p>General Counsel and Secretary of the Legal Committee of the International Air Transport Association</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v34/persons#p_GJ1</source-url>
+        </remark>
+    </remarks>
+</person>

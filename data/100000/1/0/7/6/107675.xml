@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>107675</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Larrabee, F. Stephen</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="4">
+                <name>Larrabee, F. Stephen</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v01/persons#p_LFS_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v20/persons#p_LS_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v21/persons#p_LFS_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v30/persons#p_LFS_1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="4">
+        <remark source-urls="1">
+            <p>member, National Security Council staff, USSR/East Europe Cluster, from September 1978 until January 1981</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v01/persons#p_LFS_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>member, National Security Council Staff for Soviet Union and East Europe Affairs from September 1978 until January 1981</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v20/persons#p_LS_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>member, National Security Council Staff for USSR and East Europe Affairs from September 1978 until January 1981</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v21/persons#p_LFS_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>member, National Security Council Staff for USSR/East Europe Affairs, from September 1978 until January 1981</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v30/persons#p_LFS_1</source-url>
+        </remark>
+    </remarks>
+</person>

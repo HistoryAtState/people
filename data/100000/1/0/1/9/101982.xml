@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>101982</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Burroughs, John Andrew, Jr.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="1">
+                <name>Burroughs, John Andrew, Jr.</name>
+                <source-url>https://history.state.gov/departmenthistory/people/burroughs-john-andrew</source-url>
+            </original>
+            <original source-urls="1">
+                <name>John A. Burroughs Jr.</name>
+                <source-url>https://history.state.gov/departmenthistory/people/burroughs-john-andrew</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1936</birth-year>
+    <death-year/>
+    <remarks variants="1">
+        <remark source-urls="1">
+            <p>Non-career appointee. Ambassador Extraordinary and Plenipotentiary (Uganda); Ambassador Extraordinary and Plenipotentiary (Malawi).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/burroughs-john-andrew</source-url>
+        </remark>
+    </remarks>
+</person>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>113777</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Tsai Cheng-wen</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="1">
+                <name>Tsai Cheng-Wen</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v15p1/persons#p_TCWMG1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Tsai Cheng-Wen, Major General</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v15p2/persons#p_TCWMG1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="1">
+            <title source-urls="1">
+                <name>Major General</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v15p2/persons#p_TCWMG1</source-url>
+            </title>
+        </titles-from-name>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="2">
+        <remark source-urls="1">
+            <p>Major General, People’s Liberation Army, People’s Republic of China; PRC Staff Officer at the Military Armistice Negotiations to April 1953; PRC Plenary Member of the armistice delegation, April–May 1953.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v15p1/persons#p_TCWMG1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>People’s Liberation Army, People’s Republic of China; PRC Staff Officer at the Military Armistice Negotiations to April 1953; PRC Plenary Member of the armistice delegation, April-May 1953.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v15p2/persons#p_TCWMG1</source-url>
+        </remark>
+    </remarks>
+</person>

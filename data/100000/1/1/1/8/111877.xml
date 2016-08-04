@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>111877</id>
+    <authorities>
+        <authority service="viaf">69340519</authority>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Sanader, Ivo</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="1">
+                <name>Prime Minister Ivo Sanader</name>
+                <source-url>https://history.state.gov/departmenthistory/visits/croatia</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="1">
+        <remark source-urls="1">
+            <p>Prime Minister, Croatia. Visited U.S. 2 times, 2004–2006</p>
+            <source-url>https://history.state.gov/departmenthistory/visits/croatia</source-url>
+        </remark>
+    </remarks>
+</person>

@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>102556</id>
+    <authorities>
+        <authority service="viaf">75337374</authority>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Chung Il-kwon</name>
+        </preferred>
+        <alternates>
+            <name>Chong Il-kwon</name>
+        </alternates>
+        <originals variants="7">
+            <original source-urls="1">
+                <name>Chung II Kwan</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v23p2/persons#p_CIIK1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Chung II Kwan (II Kwon Chung)</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v18/persons#p_CICI1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Il Kwon Chung</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v22/persons#p_IKC1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Chong Il-kwon (Chung Il-kwon)</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v29p1/persons#p_CICI1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Chung Il Kwon (Chong Il-kwon)</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v19p1/persons#p_CIK1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Chung Il Kwon</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve12/persons#p_chung-il-kwon</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Prime Minister Il Kwon Chung</name>
+                <source-url>https://history.state.gov/departmenthistory/visits/korea-south</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="7">
+        <remark source-urls="1">
+            <p>General, Korean Army Chief of Staff; Chairman of the Joint Chiefs of Staff, June 1956–June 1957</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v23p2/persons#p_CIIK1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Republic of Korea Ambassador to the United States, May–September 1960</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v18/persons#p_CICI1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Korean Ambassador to the United States</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v22/persons#p_IKC1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Republic of Korea Prime Minister from May 1964; concurrently served as Foreign Minister from May to July 1964 and again from December 1966 to June 1967</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v29p1/persons#p_CICI1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Prime Minister of the ROK until December 19, 1970</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v19p1/persons#p_CIK1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Prime Minister of the Republic of Korea until December 19, 1970</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve12/persons#p_chung-il-kwon</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Prime Minister, Korea. Visited U.S. 2 times, 1967–1969</p>
+            <source-url>https://history.state.gov/departmenthistory/visits/korea-south</source-url>
+        </remark>
+    </remarks>
+</person>

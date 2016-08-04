@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>114533</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Whitlam, Edward Gough</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="1">
+                <name>Whitlam, Edward Gough</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v27/persons#p_WEG_1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Prime Minister Edward Gough Whitlam</name>
+                <source-url>https://history.state.gov/departmenthistory/visits/australia</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="2">
+        <remark source-urls="1">
+            <p>Australian Prime Minister until November 1975</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v27/persons#p_WEG_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Prime Minister, Australia. Visited U.S. 3 times, 1973–1975</p>
+            <source-url>https://history.state.gov/departmenthistory/visits/australia</source-url>
+        </remark>
+    </remarks>
+</person>

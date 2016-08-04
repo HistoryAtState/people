@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>116259</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Wellford, W. Harrison</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="1">
+                <name>Wellford, W. Harrison</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v30/persons#p_WWH_1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="1">
+        <remark source-urls="1">
+            <p>member, Carter-Mondale Transition team, 1976; Executive Associate Director for Reorganization and Management, Office of Management and Budget, from 1977 until 1981</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v30/persons#p_WWH_1</source-url>
+        </remark>
+    </remarks>
+</person>

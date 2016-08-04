@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>103995</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Ensenat, Donald Burnham</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="1">
+                <name>Ensenat, Donald Burnham</name>
+                <source-url>https://history.state.gov/departmenthistory/people/ensenat-donald-burnham</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1946</birth-year>
+    <death-year/>
+    <remarks variants="1">
+        <remark source-urls="1">
+            <p>Non-career appointee. Chief of Protocol; Ambassador Extraordinary and Plenipotentiary (Brunei).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/ensenat-donald-burnham</source-url>
+        </remark>
+    </remarks>
+</person>

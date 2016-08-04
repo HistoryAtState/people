@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>106683</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Johnson, W. Thomas, Jr.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="3">
+                <name>Johnson, W. Thomas (Tom)</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v06/persons#p_JWTT1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v07/persons#p_JWTT1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v19/persons#p_JWTT1</source-url>
+            </original>
+            <original source-urls="6">
+                <name>Johnson, W. Thomas</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v14/persons#p_JWT1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v18/persons#p_JWTJ1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v20/persons#p_JWT1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v25/persons#p_JWT1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v27/persons#p_JWT1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v33/persons#p_JWTJ1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Johnson, W. Thomas, Jr.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v31/persons#p_JWTJ1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="5">
+        <remark source-urls="2">
+            <p>Assistant Press Secretary to the President</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v06/persons#p_JWTT1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v07/persons#p_JWTT1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Assistant Press Secretary to the President September 1, 1966–September 1968; thereafter Deputy Press Secretary to the President</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v14/persons#p_JWT1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v33/persons#p_JWTJ1</source-url>
+        </remark>
+        <remark source-urls="4">
+            <p>White House Deputy Press Secretary</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v18/persons#p_JWTJ1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v19/persons#p_JWTT1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v20/persons#p_JWT1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v25/persons#p_JWT1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Deputy Press Secretary to the President, October 1967–January 1969</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v27/persons#p_JWT1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Assistant Press Secretary to the President September 1966–September 1968; thereafter Deputy Press Secretary to the President</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v31/persons#p_JWTJ1</source-url>
+        </remark>
+    </remarks>
+</person>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>101017</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Baumis, Frank J.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="1">
+                <name>Baumis, Frank J.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1948v02/persons#p_BFJ1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="1">
+        <remark source-urls="1">
+            <p>member of the Cabinet Technical Mission on Reparations</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1948v02/persons#p_BFJ1</source-url>
+        </remark>
+    </remarks>
+</person>

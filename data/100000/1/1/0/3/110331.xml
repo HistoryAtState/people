@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>110331</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Pandit, Srimati Vijaya Lakshmi</name>
+        </preferred>
+        <alternates/>
+        <originals variants="4">
+            <original source-urls="1">
+                <name>Pandit, Madame Vijaya Lakshmi</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v03/persons#p_PANDITMVL1</source-url>
+            </original>
+            <original source-urls="2">
+                <name>Pandit, Madame Vijaya L.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v11p1/persons#p_PMVL1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v11p2/persons#p_PMVL1</source-url>
+            </original>
+            <original source-urls="2">
+                <name>Pandit, Srimati Vijaya Lakshmi</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v15p1/persons#p_PSVLMP1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v15p2/persons#p_PSVLMP1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Pandit, Madame Srimati Vijaya Lakshmi</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v16/persons#p_PMSVL1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="1">
+            <title source-urls="4">
+                <name>Madame</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v03/persons#p_PANDITMVL1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v11p1/persons#p_PMVL1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v11p2/persons#p_PMVL1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v16/persons#p_PMSVL1</source-url>
+            </title>
+        </titles-from-name>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="4">
+        <remark source-urls="1">
+            <p>Chairman, Indian Delegations to the 7th and 8th Regular Sessions of the General Assembly; President, General Assembly, 8th Regular Session; Chairman, first meeting only, Indian Delegation to the 9th Regular Session.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v03/persons#p_PANDITMVL1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Chairman of the Indian Delegations to the Seventh and Eighth Regular Sessions of the United Nations General Assembly, 1952 and 1953; President of the General Assembly, Eighth Regular Session; Chairman, first meeting only, of the Indian Delegation to the Ninth Regular Session, 1954.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v11p1/persons#p_PMVL1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v11p2/persons#p_PMVL1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>(Madam Pandit), Chairman, Indian Delegation to the Seventh and Eighth Regular Sessions of the United Nations General Assembly, and to the first meeting of the Ninth, 1952-1953-1954; President of the Eighth Regular Session, 1953.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v15p1/persons#p_PSVLMP1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v15p2/persons#p_PSVLMP1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Permanent Representative of India at the United Nations.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v16/persons#p_PMSVL1</source-url>
+        </remark>
+    </remarks>
+</person>

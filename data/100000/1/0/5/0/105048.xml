@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>105048</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Gordon Walker, Patrick C.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="1">
+                <name>Gordon Walker, Patrick C.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v11/persons#p_GWPC1</source-url>
+            </original>
+            <original source-urls="3">
+                <name>Gordon Walker, Patrick</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v12/persons#p_GWP1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v13/persons#p_GWPC1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v26/persons#p_GWPC1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Walker, Patrick Gordon</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v32/persons#p_WPG1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="5">
+        <remark source-urls="1">
+            <p>British Foreign Secretary, October 16, 1964-January 22, 1965</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v11/persons#p_GWPC1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>British Foreign Secretary, October 17, 1964-January 22, 1965; Minister Without Portfolio, January 6-August 29, 1967; thereafter Minister of Education and Science until April 6, 1968</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v12/persons#p_GWP1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>British Secretary of State for Foreign Affairs, October 1964–January 1965</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v13/persons#p_GWPC1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>British Secretary of State for Foreign Affairs, October 16, 1964–January 22, 1965</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v26/persons#p_GWPC1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>British Labour Party Shadow Minister for Foreign Affairs, 1964</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v32/persons#p_WPG1</source-url>
+        </remark>
+    </remarks>
+</person>

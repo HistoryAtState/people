@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>103433</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>de Wilde, John C.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="2">
+                <name>de Wilde, John C.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv02/persons#p_WJC1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1947v02/persons#p_DWJC1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>deWilde, John C.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1948v02/persons#p_DJC1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="3">
+        <remark source-urls="1">
+            <p>Assistant Adviser on German Economic Affairs, Office of the Assistant Secretary of State for Economic Affairs.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv02/persons#p_WJC1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Associate Chief, Division of German and Austrian Economic Affairs, Department of State, April 1946–September 1947; Associate Chief, Division of Occupied Areas Economic Affairs, from September 1947</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1947v02/persons#p_DWJC1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Associate Chief, Division of Occupied Areas Economic Affairs, Department of State</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1948v02/persons#p_DJC1</source-url>
+        </remark>
+    </remarks>
+</person>

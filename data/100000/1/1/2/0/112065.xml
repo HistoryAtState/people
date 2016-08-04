@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>112065</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Schmidt, G. Lewis</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="1">
+                <name>Schmidt, G. Lewis</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v25/persons#p_SGL3</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="1">
+        <remark source-urls="1">
+            <p>Assistant Director (Administration), U.S. Information Agency, 1961</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v25/persons#p_SGL3</source-url>
+        </remark>
+    </remarks>
+</person>

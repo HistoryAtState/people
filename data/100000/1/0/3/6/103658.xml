@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>103658</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Driss, Rachid</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="3">
+                <name>Driss, Rachid</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v24/persons#p_DR1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v05/persons#p_DR1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve05p2/persons#p_DR1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="3">
+        <remark source-urls="1">
+            <p>Tunisian Ambassador to the United States from May 1964</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v24/persons#p_DR1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Permanent Representative of Tunisia to the United Nations</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v05/persons#p_DR1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Tunisian Ambassador to the United States until September 1969</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve05p2/persons#p_DR1</source-url>
+        </remark>
+    </remarks>
+</person>

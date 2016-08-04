@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>103264</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>De Beus, Jacobus Gijsbertus</name>
+        </preferred>
+        <alternates/>
+        <originals variants="4">
+            <original source-urls="1">
+                <name>Beus, J. G. de</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v03/persons#p_BEUSJG1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>de Beus</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v03/persons#p_DEBEUS1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>de Beus, J. G.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v16/persons#p_BJG1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>De Beus, Jacobus Gijsbertus</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve03/persons#p_DBJG1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="4">
+        <remark source-urls="1">
+            <p>Netherlands Minister to the United States until September 1954.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v03/persons#p_BEUSJG1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>See Beus.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v03/persons#p_DEBEUS1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Netherlands Minister in the United States.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v16/persons#p_BJG1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Executive Director of United Nations Fund for Drug Abuse Control from October 1, 1975</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve03/persons#p_DBJG1</source-url>
+        </remark>
+    </remarks>
+</person>

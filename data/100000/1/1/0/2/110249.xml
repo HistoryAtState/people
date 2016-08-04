@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>110249</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>O’Shaughnessy, Elim</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="8">
+                <name>O’Shaughnessy, Elim</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v03p1/persons#p_OE2</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v03p2/persons#p_OE2</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v07p1/persons#p_OSE1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v07p2/persons#p_OSE1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v08/persons#p_OE1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v05/persons#p_OSE1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v10p2/persons#p_OSE1</source-url>
+                <source-url>https://history.state.gov/departmenthistory/people/oshaunessy-elim</source-url>
+            </original>
+            <original source-urls="1">
+                <name>O'Shaughnessey, Liam</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v17/persons#p_OSL1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1907</birth-year>
+    <death-year>1966</death-year>
+    <remarks variants="7">
+        <remark source-urls="2">
+            <p>Officer in Charge of French-Iberian Affairs, Office of Western European Affairs, Department of State.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1951v03p1/persons#p_OE2</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1951v03p2/persons#p_OE2</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Counselor of Embassy in the Soviet Union until June 1954.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v07p1/persons#p_OSE1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v07p2/persons#p_OSE1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>First Secretary (later Counselor) of the Embassy in the Soviet Union, July 1951–June 1954; Director of the Office of Political Affairs, Office of the High Commissioner for Germany, June 1954–May 1955.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v08/persons#p_OE1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Director of the Office of Political Affairs, Office of the United States High Commissioner for Germany, until May 1955; thereafter Political Counselor at Bonn</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v05/persons#p_OSE1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Counselor of the Embassy in Yugoslavia until summer 1960; Counselor for Political Affairs of the Embassy in the United Kingdom from September 1960</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v10p2/persons#p_OSE1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Charge d'Affaires in Hungary, November 1964–September 1966</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v17/persons#p_OSL1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Foreign Service Officer. Chargé d'Affaires ad interim (Hungary).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/oshaunessy-elim</source-url>
+        </remark>
+    </remarks>
+</person>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>100947</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Barry, Robert Louis</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="2">
+                <name>Barry, Robert Louis</name>
+                <source-url>https://history.state.gov/departmenthistory/people/barry-robert-louis</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v20/persons#p_BR_1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Robert L. Barry</name>
+                <source-url>https://history.state.gov/departmenthistory/people/barry-robert-louis</source-url>
+            </original>
+            <original source-urls="3">
+                <name>Barry, Robert L.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v16/persons#p_BRL_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v02/persons#p_BRL_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v06/persons#p_BRL_1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1934</birth-year>
+    <death-year/>
+    <remarks variants="4">
+        <remark source-urls="1">
+            <p>Foreign Service Officer. Ambassador Extraordinary and Plenipotentiary (Indonesia); Ambassador Extraordinary and Plenipotentiary (Bulgaria).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/barry-robert-louis</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Deputy Director of the Office of Soviet Union Affairs, Bureau of European Affairs, Department of State</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v16/persons#p_BRL_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Director, Office of United Nations Political Affairs, Bureau of International Organization Affairs, Department of State, from 1977 until 1978; Deputy Assistant Secretary of State for Economic and Development Policy, Bureau of International Organization Affairs, from 1978 until 1979; Deputy Assistant Secretary of State for European Affairs from 1979</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v02/persons#p_BRL_1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Deputy Assistant Secretary of State for European Affairs</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v06/persons#p_BRL_1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v20/persons#p_BR_1</source-url>
+        </remark>
+    </remarks>
+</person>

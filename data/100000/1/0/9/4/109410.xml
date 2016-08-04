@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>109410</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Morris, Brewster Hilliard</name>
+        </preferred>
+        <alternates/>
+        <originals variants="4">
+            <original source-urls="1">
+                <name>Morris, Brewster Hilliard</name>
+                <source-url>https://history.state.gov/departmenthistory/people/morris-brewster-hilliard</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Brewster H. Morris</name>
+                <source-url>https://history.state.gov/departmenthistory/people/morris-brewster-hilliard</source-url>
+            </original>
+            <original source-urls="9">
+                <name>Morris, Brewster H.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv01/persons#p_MBH1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v05p1/persons#p_MORRISBH1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v05p2/persons#p_MORRISBH1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v07p1/persons#p_MBH1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v07p2/persons#p_MBH1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v12/persons#p_MBH1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v08/persons#p_MBH1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v15/persons#p_MBH1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v40/persons#p_MBH1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Morris, Brewster Hillard</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1947v02/persons#p_MBH1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1909</birth-year>
+    <death-year>1990</death-year>
+    <remarks variants="9">
+        <remark source-urls="1">
+            <p>Foreign Service Officer. Ambassador Extraordinary and Plenipotentiary (Chad).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/morris-brewster-hilliard</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Office of the Political Adviser on German Affairs, Supreme Headquarters, Allied Expeditionary Force.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv01/persons#p_MBH1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Secretary, Office of the United States Political Adviser for German Affairs</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1947v02/persons#p_MBH1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Director of the Office of German Political Affairs, Department of State, July 14, 1952–November 1, 1953; Officer in Charge of Political Affairs, Office of German Affairs, until June 30, 1954.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v05p1/persons#p_MORRISBH1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v05p2/persons#p_MORRISBH1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Director of the Office of German Political Affairs, Department of State, from July 1952; Officer in Charge of German Political Affairs, Office of German Affairs, November 1953–June 1954.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v07p1/persons#p_MBH1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v07p2/persons#p_MBH1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Political Counselor of the Embassy in the United Kingdom after January 27, 1957</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v12/persons#p_MBH1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Consul General at the Embassy in the United Kingdom</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v08/persons#p_MBH1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Minister in Germany until 1963</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v15/persons#p_MBH1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Assistant Chief of Mission (Minister) in Berlin until April 1971</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v40/persons#p_MBH1</source-url>
+        </remark>
+    </remarks>
+</person>

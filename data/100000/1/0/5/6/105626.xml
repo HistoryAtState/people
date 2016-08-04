@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>105626</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Hartmann, Robert T.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="2">
+                <name>Hartmann, Robert</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v10/persons#p_HR1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v31/persons#p_HR2</source-url>
+            </original>
+            <original source-urls="5">
+                <name>Hartmann, Robert T.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v16/persons#p_HRT_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v35/persons#p_HRT_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v38p1/persons#p_HRT_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v38p2/persons#p_HRT_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve03/persons#p_HRT1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="6">
+        <remark source-urls="2">
+            <p>Counselor to the President from 1974</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v10/persons#p_HR1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v31/persons#p_HR2</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Counselor to the President</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v16/persons#p_HRT_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Counselor to the President from August 9, 1974</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v35/persons#p_HRT_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Assistant to Vice President Ford; Counselor to the President from August 9, 1974</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v38p1/persons#p_HRT_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>assistant to Vice President Ford; Counselor to the President from August 9, 1974</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v38p2/persons#p_HRT_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Counselor to the President from August 1974</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve03/persons#p_HRT1</source-url>
+        </remark>
+    </remarks>
+</person>

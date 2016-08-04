@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>105963</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Hiss, Alger</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="3">
+                <name>Hiss, Alger</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv02/persons#p_HA2</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945Malta/persons#p_HA1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945v01/persons#p_HA1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="3">
+        <remark source-urls="1">
+            <p>Deputy Director, Office of Special Political Affairs, Department of State (to March 18); Director, Office of Special Political Affairs, Department of State (from March 19).</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv02/persons#p_HA2</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Special Assistant to the Director, Office of Special Political Affairs, Department of State, May–October 1944; Deputy Director, Office of Special Political Affairs, Department of State, November 1944–March 1945; Director, Office of Special Political Affairs, Department of State, March 1945–January 1947.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1945Malta/persons#p_HA1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Director, Office of Special Political Affairs (Deputy Director, November 1944 to March 1945); Secretary-General, International Secretariat.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1945v01/persons#p_HA1</source-url>
+        </remark>
+    </remarks>
+</person>

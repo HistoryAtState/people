@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>105652</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Hassan, Gul</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="1">
+                <name>Hassan, Lt. General Gul</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve07/persons#p_HLGG1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="1">
+            <title source-urls="1">
+                <name>Lt. General</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve07/persons#p_HLGG1</source-url>
+            </title>
+        </titles-from-name>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="1">
+        <remark source-urls="1">
+            <p>Commander-in-Chief, Pakistan Army, from December 1971–March 1972</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve07/persons#p_HLGG1</source-url>
+        </remark>
+    </remarks>
+</person>

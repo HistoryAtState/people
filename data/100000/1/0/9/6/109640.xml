@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>109640</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Nanda, Gulzarilal</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="3">
+                <name>Nanda, Gulzarilal</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v11p1/persons#p_NG1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v11p2/persons#p_NG1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v25/persons#p_NG1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="2">
+        <remark source-urls="2">
+            <p>Indian Minister for Planning, Irrigation, and Power.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v11p1/persons#p_NG1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v11p2/persons#p_NG1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Indian Minister of Home Affairs until November 1966; also Interim Prime Minister, May 27–June 9, 1964</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v25/persons#p_NG1</source-url>
+        </remark>
+    </remarks>
+</person>

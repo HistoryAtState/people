@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>106309</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Hurley, Patrick Jay</name>
+        </preferred>
+        <alternates/>
+        <originals variants="4">
+            <original source-urls="2">
+                <name>Hurley, Patrick Jay</name>
+                <source-url>https://history.state.gov/departmenthistory/people/hurley-patrick-jay</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv02/persons#p_HMGPJ1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Patrick J. Hurley</name>
+                <source-url>https://history.state.gov/departmenthistory/people/hurley-patrick-jay</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Hurley, Patrick J.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1943CairoTehran/persons#p_HPJ1</source-url>
+            </original>
+            <original source-urls="2">
+                <name>Hurley, Major General Patrick J.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv01/persons#p_HMGPJ1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945Malta/persons#p_H11</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="1">
+            <title source-urls="2">
+                <name>Major General</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv01/persons#p_HMGPJ1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945Malta/persons#p_H11</source-url>
+            </title>
+        </titles-from-name>
+    </names>
+    <birth-year>1883</birth-year>
+    <death-year>1963</death-year>
+    <remarks variants="4">
+        <remark source-urls="1">
+            <p>Non-career appointee. Envoy Extraordinary and Minister Plenipotentiary (New Zealand); Ambassador Extraordinary and Plenipotentiary (China).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/hurley-patrick-jay</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Brigadier General, U. S. A., Personal Representative of the President on a mission to the Middle East, with the rank of Ambassador; Ambassador in China, November 1944–November 1945.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1943CairoTehran/persons#p_HPJ1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>U. S. A., Ambassador to China.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv01/persons#p_HMGPJ1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv02/persons#p_HMGPJ1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>U. S. A., American Ambassador to China.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1945Malta/persons#p_H11</source-url>
+        </remark>
+    </remarks>
+</person>

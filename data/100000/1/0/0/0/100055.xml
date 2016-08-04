@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>100055</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Abramowitz, Morton Isaac</name>
+        </preferred>
+        <alternates/>
+        <originals variants="4">
+            <original source-urls="1">
+                <name>Abramowitz, Morton</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v10/persons#p_AM1</source-url>
+            </original>
+            <original source-urls="3">
+                <name>Abramowitz, Morton I.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v35/persons#p_AMI_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve12/persons#p_abramowitz-morton-i</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v13/persons#p_AMI_1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Abramowitz, Morton Isaac</name>
+                <source-url>https://history.state.gov/departmenthistory/people/abramowitz-morton-isaac</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Morton I. Abramowitz</name>
+                <source-url>https://history.state.gov/departmenthistory/people/abramowitz-morton-isaac</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1933</birth-year>
+    <death-year/>
+    <remarks variants="4">
+        <remark source-urls="1">
+            <p>Deputy Assistant Secretary of Defense for International Security Affairs</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v10/persons#p_AM1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Deputy Assistant Secretary of Defense for East Asia and Pacific Affairs</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v35/persons#p_AMI_1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve12/persons#p_abramowitz-morton-i</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Deputy Assistant Secretary of Defense for East Asian and Pacific Affairs from 1974 until 1978; Ambassador to Thailand from 1978 until 1981</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v13/persons#p_AMI_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Foreign Service Officer. Career Ambassador; Assistant Secretary of State for Intelligence and Research; Ambassador Extraordinary and Plenipotentiary (Turkey); Ambassador Extraordinary and Plenipotentiary (Thailand).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/abramowitz-morton-isaac</source-url>
+        </remark>
+    </remarks>
+</person>

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>113189</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Sultan ibn Abd al-Aziz al Saud</name>
+        </preferred>
+        <alternates/>
+        <originals variants="5">
+            <original source-urls="1">
+                <name>Sultan ibn Abdul-Aziz (Prince)</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v21/persons#p_SAASP1</source-url>
+            </original>
+            <original source-urls="2">
+                <name>Sultan ibn Abd al-Aziz al Saud, Prince</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v24/persons#p_SAASP1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v37/persons#p_SAAS_1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Sultan bin Abdul-Aziz Al Saud</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v27/persons#p_SAAS_1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Sultan ibn Abd al-Aziz al-Saud, Prince</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v36/persons#p_SIAAAP1</source-url>
+            </original>
+            <original source-urls="2">
+                <name>Sultan ibn Abd al-Aziz al Saud</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v08/persons#p_SAAS_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v18/persons#p_SAAS_2</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="1">
+            <title source-urls="3">
+                <name>Prince</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v21/persons#p_SAASP1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v36/persons#p_SIAAAP1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v37/persons#p_SAAS_1</source-url>
+            </title>
+        </titles-from-name>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="4">
+        <remark source-urls="1">
+            <p>Saudi Arabian Defense Minister</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v21/persons#p_SAASP1</source-url>
+        </remark>
+        <remark source-urls="3">
+            <p>Saudi Minister of Defense and Aviation</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v24/persons#p_SAASP1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v36/persons#p_SIAAAP1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v37/persons#p_SAAS_1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Prince, Saudi Minister of Defense and Aviation</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v27/persons#p_SAAS_1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v08/persons#p_SAAS_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Saudi Minister of Defense</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v18/persons#p_SAAS_2</source-url>
+        </remark>
+    </remarks>
+</person>

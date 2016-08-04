@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>114717</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Winterton, John Willoughby</name>
+        </preferred>
+        <alternates/>
+        <originals variants="6">
+            <original source-urls="1">
+                <name>Winterton, John Willoughby</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv02/persons#p_WMGJ1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Winterton, Major General T. S. W.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1948v02/persons#p_WMGTSW1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Winterton, Major General T. J. W.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1949v03/persons#p_WMGTJW1</source-url>
+            </original>
+            <original source-urls="2">
+                <name>Winterton, General Sir John</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v04p1/persons#p_WGSJ1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v04p2/persons#p_WGSJ1</source-url>
+            </original>
+            <original source-urls="2">
+                <name>Winterton, Major General Sir John</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v07p1/persons#p_WMGSJ1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v07p2/persons#p_WMGSJ1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Winterton, General John</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v08/persons#p_WGJ1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="4">
+            <title source-urls="2">
+                <name>Major General</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1948v02/persons#p_WMGTSW1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1949v03/persons#p_WMGTJW1</source-url>
+            </title>
+            <title source-urls="2">
+                <name>General Sir</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v04p1/persons#p_WGSJ1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v04p2/persons#p_WGSJ1</source-url>
+            </title>
+            <title source-urls="2">
+                <name>Major General Sir</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v07p1/persons#p_WMGSJ1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v07p2/persons#p_WMGSJ1</source-url>
+            </title>
+            <title source-urls="1">
+                <name>General</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v08/persons#p_WGJ1</source-url>
+            </title>
+        </titles-from-name>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="6">
+        <remark source-urls="1">
+            <p>British Deputy Commissioner, Allied Control Commission for Austria.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv02/persons#p_WMGJ1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>British Deputy Commissioner in Austria</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1948v02/persons#p_WMGTSW1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>British Deputy High Commissioner for Austria.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1949v03/persons#p_WMGTJW1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Commander, British-United States Zone, Free Territory of Trieste, from March 1951</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1951v04p1/persons#p_WGSJ1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1951v04p2/persons#p_WGSJ1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>British Military Governor and Commander of the Free Territory of Trieste until October 1954.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v07p1/persons#p_WMGSJ1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v07p2/persons#p_WMGSJ1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Commander of the United Kingdom–United States Forces in Trieste.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v08/persons#p_WGJ1</source-url>
+        </remark>
+    </remarks>
+</person>

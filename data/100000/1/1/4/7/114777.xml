@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>114777</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Wood, Edward Frederick Lindley</name>
+        </preferred>
+        <alternates/>
+        <originals variants="4">
+            <original source-urls="1">
+                <name>Halifax, Viscount</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1943CairoTehran/persons#p_HV1</source-url>
+            </original>
+            <original source-urls="2">
+                <name>Halifax</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv01/persons#p_H1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945v01/persons#p_H1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Wood, Edward Frederick Lindley</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv02/persons#p_H1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Halifax, The Earl of</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945Malta/persons#p_H1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="3">
+            <title source-urls="1">
+                <name>Viscount; Lord Halifax</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1943CairoTehran/persons#p_HV1</source-url>
+            </title>
+            <title source-urls="2">
+                <name>Lord Halifax</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv01/persons#p_H1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945v01/persons#p_H1</source-url>
+            </title>
+            <title source-urls="1">
+                <name>Earl of Halifax</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945Malta/persons#p_H1</source-url>
+            </title>
+        </titles-from-name>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="4">
+        <remark source-urls="1">
+            <p>British Ambassador in the United States.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1943CairoTehran/persons#p_HV1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>The Earl of, British Ambassador to the United States.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv01/persons#p_H1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv02/persons#p_H1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>British Ambassador to the United States.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1945Malta/persons#p_H1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>The Earl of, British Ambassador in the United States; British Delegate; Acting Chairman of the British Delegation.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1945v01/persons#p_H1</source-url>
+        </remark>
+    </remarks>
+</person>

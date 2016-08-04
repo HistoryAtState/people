@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>106371</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Iguchi, Sadao</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="5">
+                <name>Iguchi, Sadao</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v14p1/persons#p_IS1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v14p2/persons#p_IS1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v10/persons#p_IS1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v11/persons#p_IS1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v23p1/persons#p_IS1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="3">
+        <remark source-urls="2">
+            <p>Japanese Vice Minister of Foreign Affairs, 1952; Japanese Ambassador in Canada to March 1954; thereafter Ambassador in the United States.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v14p1/persons#p_IS1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v14p2/persons#p_IS1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Japanese Ambassador to the United States until March 1956</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v10/persons#p_IS1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v11/persons#p_IS1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Japanese Ambassador to the United States to February 1956</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v23p1/persons#p_IS1</source-url>
+        </remark>
+    </remarks>
+</person>

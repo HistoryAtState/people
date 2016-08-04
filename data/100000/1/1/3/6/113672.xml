@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>113672</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Townsend, John W., Jr.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="1">
+                <name>Townsend, Dr. John W., Jr.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v25/persons#p_TDJWJ1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Townsend, John W. Jr.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve03/persons#p_TJW1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="1">
+            <title source-urls="1">
+                <name>Dr.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v25/persons#p_TDJWJ1</source-url>
+            </title>
+        </titles-from-name>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="2">
+        <remark source-urls="1">
+            <p>Assistant Director, Goddard Space Flight Center, National Aeronautics and Space Administration</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v25/persons#p_TDJWJ1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Associate Administrator, National Oceanic and Atmospheric Administration, Department of Commerce</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve03/persons#p_TJW1</source-url>
+        </remark>
+    </remarks>
+</person>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>109212</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Miskovic, Ivan</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="1">
+                <name>Miskovic, Colonel General Ivan</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v25/persons#p_MGI_1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="1">
+            <title source-urls="1">
+                <name>Colonel General</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v25/persons#p_MGI_1</source-url>
+            </title>
+        </titles-from-name>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="1">
+        <remark source-urls="1">
+            <p>Special Advisor to the Yugoslav Presidency for Security Affairs until June 1973</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v25/persons#p_MGI_1</source-url>
+        </remark>
+    </remarks>
+</person>

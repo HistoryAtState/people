@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>113269</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Symington, John Fife, Jr.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="1">
+                <name>Symington, John Fife, Jr.</name>
+                <source-url>https://history.state.gov/departmenthistory/people/symington-john-fife</source-url>
+            </original>
+            <original source-urls="1">
+                <name>J. Fife Symington Jr.</name>
+                <source-url>https://history.state.gov/departmenthistory/people/symington-john-fife</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1910</birth-year>
+    <death-year>2007</death-year>
+    <remarks variants="1">
+        <remark source-urls="1">
+            <p>Non-career appointee. Ambassador Extraordinary and Plenipotentiary (Trinidad and Tobago).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/symington-john-fife</source-url>
+        </remark>
+    </remarks>
+</person>

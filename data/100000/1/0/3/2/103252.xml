@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>103252</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Dean, Jonathan (“Jock”)</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="4">
+                <name>Dean, Jonathan</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v20/persons#p_JD1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v29/persons#p_DJ1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v39/persons#p_DJ1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v40/persons#p_DJ1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Dean, Jonathan, “Jock,”</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v13/persons#p_DJ1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="5">
+        <remark source-urls="1">
+            <p>Consul at Elisabethville from August 1962</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v20/persons#p_JD1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Political Counselor (Chief of the Political Section) at the U.S. Embassy in Bonn</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v13/persons#p_DJ1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Political Counselor, U.S. Embassy in West Germany until September 1972</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v29/persons#p_DJ1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Special Assistant to the Deputy Secretary of State for MBFR and Chairman of the Interagency MBFR Coordinating Committee from July 1972 to January 1973; US representative to the MBFR Preparatory Negotiations, Vienna from January to June 1973; Special Assistant from June to October 1973; Deputy U.S. representative to the MBFR Negotiations from October 1973</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v39/persons#p_DJ1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Political Counselor (Chief of the Political Section) at the Embassy in West Germany until September 1972</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v40/persons#p_DJ1</source-url>
+        </remark>
+    </remarks>
+</person>

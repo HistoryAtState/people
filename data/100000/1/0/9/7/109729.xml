@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>109729</id>
+    <authorities>
+        <authority service="viaf">114192441</authority>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Netanyahu, Benjamin</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="1">
+                <name>Prime Minister Benjamin Netanyahu</name>
+                <source-url>https://history.state.gov/departmenthistory/visits/israel</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Prime Minister Benyamin Netanyahu</name>
+                <source-url>https://history.state.gov/departmenthistory/visits/israel</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Prime Minister Binyamin Netanyahu</name>
+                <source-url>https://history.state.gov/departmenthistory/visits/israel</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="3">
+        <remark source-urls="1">
+            <p>Prime Minister, Israel. Visited U.S. 10 times, 2009–2013</p>
+            <source-url>https://history.state.gov/departmenthistory/visits/israel</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Prime Minister, Israel. Visited U.S. 2 times, 1998</p>
+            <source-url>https://history.state.gov/departmenthistory/visits/israel</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Prime Minister, Israel. Visited U.S. 6 times, 1996–1998</p>
+            <source-url>https://history.state.gov/departmenthistory/visits/israel</source-url>
+        </remark>
+    </remarks>
+</person>

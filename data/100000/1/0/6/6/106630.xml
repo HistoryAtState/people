@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>106630</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Johnson, Andrew</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="1">
+                <name>Andrew Johnson</name>
+                <source-url>https://history.state.gov/cms/apps/presidents/data/presidents.xml#johnson-andrew</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1808</birth-year>
+    <death-year>1875</death-year>
+    <remarks variants="1">
+        <remark source-urls="1">
+            <p>President of the United States, from April 15, 1865 until March 4, 1869</p>
+            <source-url>https://history.state.gov/cms/apps/presidents/data/presidents.xml#johnson-andrew</source-url>
+        </remark>
+    </remarks>
+</person>

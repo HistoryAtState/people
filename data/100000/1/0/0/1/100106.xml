@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>100106</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Adams, Ware</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="8">
+                <name>Adams, Ware</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv01/persons#p_AW1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1948v02/persons#p_AW1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1949v03/persons#p_AW1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v10/persons#p_AW1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v11/persons#p_AW1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v16/persons#p_AW1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v17/persons#p_AW1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v02/persons#p_AW2</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="7">
+        <remark source-urls="1">
+            <p>Office of the Political Adviser on Austrian Affairs to the Commanding General, United States Army Forces, Mediterranean Theater.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv01/persons#p_AW1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>member, Policy Planning Staff, Department of State</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1948v02/persons#p_AW1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>member of the Policy Planning Staff, Department of State.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1949v03/persons#p_AW1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Director, Office of United Nations Political and Security Affairs, Bureau of International Organization Affairs, Department of State, from September 19, 1956</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v10/persons#p_AW1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Director of the Office of United Nations Political and Security Affairs, Bureau of International Organization Affairs, Department of State, from September 19, 1956</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v11/persons#p_AW1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Director of the Office of United Nations Political and Security Affairs, Department of State, from September 1956</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v16/persons#p_AW1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v17/persons#p_AW1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Director, Office of United Nations Political and Security Affairs, Bureau of International Organization Affairs, Department of State, 1958</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v02/persons#p_AW2</source-url>
+        </remark>
+    </remarks>
+</person>

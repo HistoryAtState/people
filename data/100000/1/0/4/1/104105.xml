@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>104105</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Facio Segreda, Gonzalo J.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="3">
+                <name>Facio Segreda, Gonzalo J.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v22/persons#p_FSGJ_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve10/persons#p_FSGJ1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve11p1/persons#p_FSG_1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="3">
+        <remark source-urls="1">
+            <p>Costa Rican Minister of Exterior Relations</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v22/persons#p_FSGJ_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Costa Rican Minister of Foreign Relations from 1970 until 1976 and from 1977 until 1978</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve10/persons#p_FSGJ1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Minister of Foreign Affairs, Costa Rica</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve11p1/persons#p_FSG_1</source-url>
+        </remark>
+    </remarks>
+</person>

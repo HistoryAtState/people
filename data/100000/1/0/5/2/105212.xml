@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>105212</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Grigoropoulos, Theodore</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="2">
+                <name>Grigoropolous, Lieutenant General Theodore</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v03p1/persons#p_GLT1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v03p2/persons#p_GLT1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Grigoropoulos, Theodore</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v05/persons#p_GLT1</source-url>
+            </original>
+            <original source-urls="2">
+                <name>Grigoropoulos, Lieutenant General Theodoros</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v09p1/persons#p_GLG1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v09p2/persons#p_GLG1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="1">
+            <title source-urls="4">
+                <name>Lieutenant General</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v03p1/persons#p_GLT1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v03p2/persons#p_GLT1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v09p1/persons#p_GLG1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v09p2/persons#p_GLG1</source-url>
+            </title>
+        </titles-from-name>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="3">
+        <remark source-urls="2">
+            <p>Chief of Staff, Greek Army.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1951v03p1/persons#p_GLT1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1951v03p2/persons#p_GLT1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Head of the Greek National Army General Staff, March–May 1951; Head of the Greek National Defense Staff, from June 1951.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1951v05/persons#p_GLT1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Head of the Greek National Defense General Staff, June–November 1952; forced to resign by Field Marshal Papagos’ government.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v09p1/persons#p_GLG1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v09p2/persons#p_GLG1</source-url>
+        </remark>
+    </remarks>
+</person>

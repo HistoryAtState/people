@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>114989</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Zahreddin, Abdul Karim</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="2">
+                <name>Zahreddin, Major General Abdul Karim</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v17/persons#p_ZMGAK1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v18/persons#p_ZMGAK1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="1">
+            <title source-urls="2">
+                <name>Major General</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v17/persons#p_ZMGAK1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v18/persons#p_ZMGAK1</source-url>
+            </title>
+        </titles-from-name>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="1">
+        <remark source-urls="2">
+            <p>Syrian Minister of Defense and Commander in Chief in the transitional cabinet of 1962</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v17/persons#p_ZMGAK1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v18/persons#p_ZMGAK1</source-url>
+        </remark>
+    </remarks>
+</person>

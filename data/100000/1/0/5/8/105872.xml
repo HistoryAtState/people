@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>105872</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Hesketh, William</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="1">
+                <name>Hesketh, Brigadier General William</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1947v02/persons#p_HBW1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="1">
+            <title source-urls="1">
+                <name>Brigadier General</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1947v02/persons#p_HBW1</source-url>
+            </title>
+        </titles-from-name>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="1">
+        <remark source-urls="1">
+            <p>United States Commandant for Berlin, September–December 1947; Deputy Military Governor for Germany from December 1947</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1947v02/persons#p_HBW1</source-url>
+        </remark>
+    </remarks>
+</person>

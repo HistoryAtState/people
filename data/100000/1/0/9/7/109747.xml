@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>109747</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Newell, Gregory J.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="2">
+                <name>Newell, Gregory J.</name>
+                <source-url>https://history.state.gov/departmenthistory/people/newell-gregory-j</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1981-88v13/persons#p_NGJ_1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1949</birth-year>
+    <death-year/>
+    <remarks variants="2">
+        <remark source-urls="1">
+            <p>Non-career appointee. Assistant Secretary of State for International Organization Affairs; Ambassador Extraordinary and Plenipotentiary (Sweden).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/newell-gregory-j</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Assistant Secretary of State for International Organization Affairs from June 4, 1982</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1981-88v13/persons#p_NGJ_1</source-url>
+        </remark>
+    </remarks>
+</person>

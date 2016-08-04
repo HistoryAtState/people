@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>105864</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Herwegen, Leo</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="1">
+                <name>Herwegen, Dr. Leo</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1947v02/persons#p_HL1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="1">
+            <title source-urls="1">
+                <name>Dr.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1947v02/persons#p_HL1</source-url>
+            </title>
+        </titles-from-name>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="1">
+        <remark source-urls="1">
+            <p>Chairman of the Christian Democratic Union in Saxony-Anhalt</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1947v02/persons#p_HL1</source-url>
+        </remark>
+    </remarks>
+</person>

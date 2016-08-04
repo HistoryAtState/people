@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>113198</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Summerlin, George Thomas</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="1">
+                <name>Summerlin, George Thomas</name>
+                <source-url>https://history.state.gov/departmenthistory/people/summerlin-george-thomas</source-url>
+            </original>
+            <original source-urls="1">
+                <name>George T. Summerlin</name>
+                <source-url>https://history.state.gov/departmenthistory/people/summerlin-george-thomas</source-url>
+            </original>
+            <original source-urls="1">
+                <name>George R. Summerlin</name>
+                <source-url>https://history.state.gov/departmenthistory/people/summerlin-george-thomas</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1872</birth-year>
+    <death-year>1947</death-year>
+    <remarks variants="1">
+        <remark source-urls="1">
+            <p>Foreign Service Officer. Chief of Protocol; Envoy Extraordinary and Minister Plenipotentiary (Venezuela); Envoy Extraordinary and Minister Plenipotentiary (Panama); Envoy Extraordinary and Minister Plenipotentiary (Honduras).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/summerlin-george-thomas</source-url>
+        </remark>
+    </remarks>
+</person>

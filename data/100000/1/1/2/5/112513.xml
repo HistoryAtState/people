@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>112513</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Sims, Harold</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="4">
+                <name>Sims, Harold</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v05/persons#p_SH1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v11p1/persons#p_SH1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v11p2/persons#p_SH1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1981-88v03/persons#p_SR_2</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="3">
+        <remark source-urls="1">
+            <p>Officer in Charge of West, Central and East African Affairs until August 1951; thereafter, Consul General at Salisbury, Southern Rhodesia.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1951v05/persons#p_SH1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Consul General at Salisbury until September 15, 1952; Foreign Service Inspector, Department of State, September 15, 1952–July 18, 1954; Political Adviser to the Commander of the British-United States Zone, Free Territory of Trieste, July 18–October 26,1954; thereafter, Representative at Trieste.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v11p1/persons#p_SH1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v11p2/persons#p_SH1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>member, National Security Council Staff from 1982 until 1984</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1981-88v03/persons#p_SR_2</source-url>
+        </remark>
+    </remarks>
+</person>

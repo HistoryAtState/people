@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>114455</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Westerfield, Samuel Zazachilds, Jr.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="1">
+                <name>Westerfield, Samuel Z.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v24/persons#p_WSZ1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Westerfield, Samuel Zazachilds, Jr.</name>
+                <source-url>https://history.state.gov/departmenthistory/people/westerfield-samuel-zazachilds</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Samuel Z. Westerfield Jr.</name>
+                <source-url>https://history.state.gov/departmenthistory/people/westerfield-samuel-zazachilds</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1919</birth-year>
+    <death-year>1972</death-year>
+    <remarks variants="2">
+        <remark source-urls="1">
+            <p>Deputy Assistant Secretary of State for African Affairs from June 1967</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v24/persons#p_WSZ1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Foreign Service Officer. Ambassador Extraordinary and Plenipotentiary (Liberia).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/westerfield-samuel-zazachilds</source-url>
+        </remark>
+    </remarks>
+</person>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>103661</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Droppers, Garrett</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="4">
+                <name>Droppers, Garrett</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1914Supp/persons#p_DG1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1915Supp/persons#p_DG1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1916Supp/persons#p_DG2</source-url>
+                <source-url>https://history.state.gov/departmenthistory/people/droppers-garrett</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1860</birth-year>
+    <death-year>1927</death-year>
+    <remarks variants="3">
+        <remark source-urls="2">
+            <p>United States Minister in Greece.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1914Supp/persons#p_DG1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1915Supp/persons#p_DG1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>U. S. Minister in Greece.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1916Supp/persons#p_DG2</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Non-career appointee. Envoy Extraordinary and Minister Plenipotentiary (Montenegro); Envoy Extraordinary and Minister Plenipotentiary (Greece).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/droppers-garrett</source-url>
+        </remark>
+    </remarks>
+</person>

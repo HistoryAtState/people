@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>106705</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Jones, George Lewis</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="1">
+                <name>Jones, George Lewis</name>
+                <source-url>https://history.state.gov/departmenthistory/people/jones-george-lewis</source-url>
+            </original>
+            <original source-urls="1">
+                <name>G. Lewis Jones</name>
+                <source-url>https://history.state.gov/departmenthistory/people/jones-george-lewis</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1907</birth-year>
+    <death-year>1971</death-year>
+    <remarks variants="1">
+        <remark source-urls="1">
+            <p>Foreign Service Officer. Assistant Secretary of State for Near Eastern Affairs; Ambassador Extraordinary and Plenipotentiary (Tunisia).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/jones-george-lewis</source-url>
+        </remark>
+    </remarks>
+</person>

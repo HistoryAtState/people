@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>113183</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Sully, Francois</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="2">
+                <name>Sully, Francois</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v02/persons#p_SF3</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v03/persons#p_SF1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="2">
+        <remark source-urls="1">
+            <p>reporter for Newsweek magazine</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v02/persons#p_SF3</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Newsweek correspondent</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v03/persons#p_SF1</source-url>
+        </remark>
+    </remarks>
+</person>

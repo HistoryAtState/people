@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>115459</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Finegold, Edmund S.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="1">
+                <name>Finegold, Edmund S.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1981-88v13/persons#p_FES_1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="1">
+        <remark source-urls="1">
+            <p>Chief, Arms Transfer Division, Bureau of Nuclear Weapons and Control, Arms Control and Disarmament Agency</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1981-88v13/persons#p_FES_1</source-url>
+        </remark>
+    </remarks>
+</person>

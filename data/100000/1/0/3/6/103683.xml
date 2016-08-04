@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>103683</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Dudley, Edward Richard</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="2">
+                <name>Dudley, Edward Richard</name>
+                <source-url>https://history.state.gov/departmenthistory/people/dudley-edward-richard</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v05/persons#p_DER1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Edward R. Dudley</name>
+                <source-url>https://history.state.gov/departmenthistory/people/dudley-edward-richard</source-url>
+            </original>
+            <original source-urls="2">
+                <name>Dudley, Edward R.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v11p1/persons#p_DER1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v11p2/persons#p_DER1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1911</birth-year>
+    <death-year>2005</death-year>
+    <remarks variants="3">
+        <remark source-urls="1">
+            <p>Non-career appointee. Envoy Extraordinary and Minister Plenipotentiary (Liberia); Ambassador Extraordinary and Plenipotentiary (Liberia).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/dudley-edward-richard</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Ambassador to Liberia.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1951v05/persons#p_DER1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Ambassador to Liberia until June 15, 1953.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v11p1/persons#p_DER1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v11p2/persons#p_DER1</source-url>
+        </remark>
+    </remarks>
+</person>

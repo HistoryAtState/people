@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>105346</id>
+    <authorities>
+        <authority service="viaf">52849357</authority>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Gyurcsany, Ferenc</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="1">
+                <name>Prime Minister Ferenc Gyurcsany</name>
+                <source-url>https://history.state.gov/departmenthistory/visits/hungary</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="1">
+        <remark source-urls="1">
+            <p>Prime Minister, Hungary. Visited U.S. once, 2005</p>
+            <source-url>https://history.state.gov/departmenthistory/visits/hungary</source-url>
+        </remark>
+    </remarks>
+</person>

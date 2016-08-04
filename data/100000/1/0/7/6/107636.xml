@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>107636</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Lang, George J.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="1">
+                <name>Lang, Technical Sergeant George J.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945Malta/persons#p_L2</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="1">
+            <title source-urls="1">
+                <name>Technical Sergeant</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945Malta/persons#p_L2</source-url>
+            </title>
+        </titles-from-name>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="1">
+        <remark source-urls="1">
+            <p>U. S. A., secretary to General Kuter.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1945Malta/persons#p_L2</source-url>
+        </remark>
+    </remarks>
+</person>

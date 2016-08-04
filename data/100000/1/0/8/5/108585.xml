@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>108585</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Martín Artajo, Alberto</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="2">
+                <name>Artajo, Alberto Martin.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v06p1/persons#p_ARTAJOAM1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v06p2/persons#p_ARTAJOAM1</source-url>
+            </original>
+            <original source-urls="3">
+                <name>Martín Artajo, Alberto</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v06p1/persons#p_MARTNAA1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v06p2/persons#p_MARTNAA1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v27/persons#p_MAA1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Artajo, Alberto Martín</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v27/persons#p_AAM1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="4">
+        <remark source-urls="2">
+            <p>See Martin Artajo, Alberto.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v06p1/persons#p_ARTAJOAM1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v06p2/persons#p_ARTAJOAM1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Foreign Minister of Spain, July 1945–February 1957.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v06p1/persons#p_MARTNAA1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v06p2/persons#p_MARTNAA1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>see Martín Artajo, Alberto</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v27/persons#p_AAM1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Spanish Minister of Foreign Affairs until February 1957</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v27/persons#p_MAA1</source-url>
+        </remark>
+    </remarks>
+</person>

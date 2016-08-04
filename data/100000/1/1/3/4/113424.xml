@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>113424</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Taylor, Zachary</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="1">
+                <name>Zachary Taylor</name>
+                <source-url>https://history.state.gov/cms/apps/presidents/data/presidents.xml#taylor-zachary</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1784</birth-year>
+    <death-year>1850</death-year>
+    <remarks variants="1">
+        <remark source-urls="1">
+            <p>President of the United States, from March 4, 1849 until July 9, 1850</p>
+            <source-url>https://history.state.gov/cms/apps/presidents/data/presidents.xml#taylor-zachary</source-url>
+        </remark>
+    </remarks>
+</person>

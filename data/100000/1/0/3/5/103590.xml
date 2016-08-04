@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>103590</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Donovan, William Joseph</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="2">
+                <name>Donovan, William J.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1943CairoTehran/persons#p_DWJ1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945-50Intel/persons#p_DWJ1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Donovan, William Joseph</name>
+                <source-url>https://history.state.gov/departmenthistory/people/donovan-william-joseph</source-url>
+            </original>
+            <original source-urls="1">
+                <name>William J. Donovan</name>
+                <source-url>https://history.state.gov/departmenthistory/people/donovan-william-joseph</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1883</birth-year>
+    <death-year>1959</death-year>
+    <remarks variants="3">
+        <remark source-urls="1">
+            <p>Brigadier General, U. S. A., Director, Office of Strategic Services.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1943CairoTehran/persons#p_DWJ1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Director, Office of Strategic Services, until October 1, 1945</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1945-50Intel/persons#p_DWJ1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Foreign Service Officer. Ambassador Extraordinary and Plenipotentiary (Thailand).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/donovan-william-joseph</source-url>
+        </remark>
+    </remarks>
+</person>

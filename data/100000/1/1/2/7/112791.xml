@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>112791</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Sowayel, Ibrahim Abd Allah al-</name>
+        </preferred>
+        <alternates/>
+        <originals variants="4">
+            <original source-urls="1">
+                <name>Sowayel, Ibrahim Abdallah Al-</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v19/persons#p_SIAA1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Sowayel, Ibrahim Al-</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v21/persons#p_SIAA1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Sowayel, Ibrahim Abd Allah al-</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v24/persons#p_SIAA1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>al-Sowayel, Ibrahim Abd Allah</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v36/persons#p_AIAA1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="3">
+        <remark source-urls="1">
+            <p>Saudi Arabian Ambassador to the United States</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v19/persons#p_SIAA1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Saudi Arabian Ambassador to the United States from September 1964</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v21/persons#p_SIAA1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Saudi Ambassador to the United States</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v24/persons#p_SIAA1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v36/persons#p_AIAA1</source-url>
+        </remark>
+    </remarks>
+</person>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>100797</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Balafrej, Ahmad</name>
+        </preferred>
+        <alternates/>
+        <originals variants="4">
+            <original source-urls="2">
+                <name>Balafrej, Ahmed,</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v11p1/persons#p_BA1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v11p2/persons#p_BA1</source-url>
+            </original>
+            <original source-urls="3">
+                <name>Balafrej, Ahmed</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v18/persons#p_BA1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v13/persons#p_BA1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v21/persons#p_BHA2</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Balafrej, Haj Ahmed</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v24/persons#p_BHA2</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Balafrej, Hadj Ahmed</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve05p2/persons#p_BHA1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="6">
+        <remark source-urls="2">
+            <p>Secretary General of the Moroccan Independence Party (Istiqlal); exiled in August 1953.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v11p1/persons#p_BA1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v11p2/persons#p_BA1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Moroccan Foreign Minister from May 1956</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v18/persons#p_BA1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Moroccan Foreign Minister until April 1958; Prime Minister and Foreign Minister, May–November 1958</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v13/persons#p_BA1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Moroccan Foreign Minister</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v21/persons#p_BHA2</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Personal Representative of the King of Morocco with rank of Minister</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v24/persons#p_BHA2</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Personal Representative of King Hassan II of Morocco</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve05p2/persons#p_BHA1</source-url>
+        </remark>
+    </remarks>
+</person>

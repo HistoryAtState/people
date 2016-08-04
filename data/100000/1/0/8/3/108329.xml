@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>108329</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Magalhaes Pinto, Jose de</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="1">
+                <name>Magalhães Pinto, José de</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v31/persons#p_MPJ1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Magalhaes Pinto, Jose de</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve10/persons#p_MPJ1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="2">
+        <remark source-urls="1">
+            <p>President of the Uniäo Democrática Nacional; Governor of Minas Gerais, Brazil, until December 1965; Congressman (ARENA-Minas Gerais) from November 1966; Foreign Minister of Brazil from March 15, 1967</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v31/persons#p_MPJ1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Brazilian Minister of Foreign Affairs from January 1969</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve10/persons#p_MPJ1</source-url>
+        </remark>
+    </remarks>
+</person>

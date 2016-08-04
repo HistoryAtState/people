@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>106953</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Kazemi, Seyed Baqer</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="1">
+                <name>Kazemi, Seyed Baqer</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v10/persons#p_KSB1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="1">
+        <remark source-urls="1">
+            <p>Iranian Minister of Foreign Affairs, April 1951–June 1952; Deputy Prime Minister of Iran and Minister for Finance, July 1952–August 1953.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v10/persons#p_KSB1</source-url>
+        </remark>
+    </remarks>
+</person>

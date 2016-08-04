@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>113628</id>
+    <authorities>
+        <authority service="viaf">164521508</authority>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Toledo, Alejandro</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="1">
+                <name>President Alejandro Toledo</name>
+                <source-url>https://history.state.gov/departmenthistory/visits/peru</source-url>
+            </original>
+            <original source-urls="1">
+                <name>President-elect Alejandro Toledo</name>
+                <source-url>https://history.state.gov/departmenthistory/visits/peru</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="2">
+        <remark source-urls="1">
+            <p>President, Peru. Visited U.S. 3 times, 2002–2006</p>
+            <source-url>https://history.state.gov/departmenthistory/visits/peru</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>President-elect, Peru. Visited U.S. once, 2001</p>
+            <source-url>https://history.state.gov/departmenthistory/visits/peru</source-url>
+        </remark>
+    </remarks>
+</person>

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>100480</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Angelis, Odysseas</name>
+        </preferred>
+        <alternates/>
+        <originals variants="4">
+            <original source-urls="1">
+                <name>Anghelis</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v16/persons#p_Anghelis1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Anghelis, Lt. Gen. Odysseus</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v29/persons#p_ALGO1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Angelis, Odysseus</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v41/persons#p_AO_1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Angelis, Gen. Odysseus</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v30/persons#p_AGO2</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="2">
+            <title source-urls="1">
+                <name>Lt. Gen.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v29/persons#p_ALGO1</source-url>
+            </title>
+            <title source-urls="1">
+                <name>Gen.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v30/persons#p_AGO2</source-url>
+            </title>
+        </titles-from-name>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="4">
+        <remark source-urls="1">
+            <p>General Odysseus, Chief of Staff, Greek Armed Forces, 1967–1968</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v16/persons#p_Anghelis1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Chief of Staff, Greek (Hellenic) Armed Forces since April 1967</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v29/persons#p_ALGO1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Chief of Staff, Hellenic Armed Forces until 1973; Greek Vice President until July 1973</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v30/persons#p_AGO2</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Lieutenant General, Chief of Staff, Greek Armed Forces</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v41/persons#p_AO_1</source-url>
+        </remark>
+    </remarks>
+</person>

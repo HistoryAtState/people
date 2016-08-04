@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>107797</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Legare, Hugh Swinton</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="1">
+                <name>Legare, Hugh Swinton</name>
+                <source-url>https://history.state.gov/departmenthistory/people/legare-hugh-swinton</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Hugh S. Legare</name>
+                <source-url>https://history.state.gov/departmenthistory/people/legare-hugh-swinton</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1797</birth-year>
+    <death-year>1843</death-year>
+    <remarks variants="1">
+        <remark source-urls="1">
+            <p>Non-career appointee. Secretary of State ad interim; Chargé d'Affaires (Belgium).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/legare-hugh-swinton</source-url>
+        </remark>
+    </remarks>
+</person>

@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>110430</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Pate, Randolph McC.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="4">
+            <original source-urls="2">
+                <name>Pate, General Randolph M.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v12/persons#p_PGRM1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v03/persons#p_PGRM1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Pate, Lieutenant General Randolph M.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v19/persons#p_PLGRM1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Pate, General Randolph McC.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v23p2/persons#p_PGRMC1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Pate, Gen. Randolph M.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v16/persons#p_PGRM1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="3">
+            <title source-urls="3">
+                <name>General</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v12/persons#p_PGRM1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v23p2/persons#p_PGRMC1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v03/persons#p_PGRM1</source-url>
+            </title>
+            <title source-urls="1">
+                <name>Gen.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v16/persons#p_PGRM1</source-url>
+            </title>
+            <title source-urls="1">
+                <name>Lieutenant General</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v19/persons#p_PLGRM1</source-url>
+            </title>
+        </titles-from-name>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="5">
+        <remark source-urls="1">
+            <p>USMC, Assistant Commandant of the Marine Corps until January 1, 1956; thereafter Commandant</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v12/persons#p_PGRM1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>USMC, Assistant Commandant of the Marine Corps and Chief of Staff until January 1, 1956; thereafter Commandant</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v16/persons#p_PGRM1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Assistant Commandant of the Marine Corps and Chief of Staff until January 1, 1956; thereafter Commandant</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v19/persons#p_PLGRM1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Commandant of the Marine Corps</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v23p2/persons#p_PGRMC1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Commandant of the U.S. Marine Corps until December 31, 1959</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v03/persons#p_PGRM1</source-url>
+        </remark>
+    </remarks>
+</person>

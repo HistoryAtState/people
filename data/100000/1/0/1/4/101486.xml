@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>101486</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Boggs, Thomas Hale, Sr.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="2">
+                <name>Boggs, Thomas Hale, Sr.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v38p1/persons#p_BTHS_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v38p2/persons#p_BTH_1</source-url>
+            </original>
+            <original source-urls="6">
+                <name>Boggs, Hale</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v09/persons#p_BH1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v02/persons#p_BH1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v03/persons#p_BH1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v04/persons#p_BH1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v05/persons#p_BH1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v06/persons#p_BH1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Boggs, Thomas Hale</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v07/persons#p_BTH1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="8">
+        <remark source-urls="1">
+            <p>member, U.S. House of Representatives (D–Louisiana); House Majority Leader until January 1, 1973, when he was presumed dead after disappearing during an October 1972 trip to Alaska</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v38p1/persons#p_BTHS_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Representative (D–Louisiana); House Majority Leader until January 1, 1973, when he was presumed dead after disappearing during an October 1972 Alaskan trip</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v38p2/persons#p_BTH_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Democratic Congressman from Louisiana; Chairman, Subcommittee on Foreign Economic Policy; Chairman, Subcommittee on Customs, Tariffs and Reciprocal Trade Organizations</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v09/persons#p_BH1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Democratic Representative from Louisiana</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v02/persons#p_BH1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v03/persons#p_BH1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Representative (D-Louisiana)</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v04/persons#p_BH1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Representative (D–LA)</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v05/persons#p_BH1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Representative (Democrat-Louisiana)</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v06/persons#p_BH1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Democratic Congressman from Louisiana</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v07/persons#p_BTH1</source-url>
+        </remark>
+    </remarks>
+</person>

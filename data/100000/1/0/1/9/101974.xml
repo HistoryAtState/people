@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>101974</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Burns, Robert L.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="5">
+                <name>Burns, Robert L.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v05/persons#p_BRL1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v09p1/persons#p_BRL1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v09p2/persons#p_BRL1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v12/persons#p_BRL1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v14/persons#p_BRL1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="4">
+        <remark source-urls="1">
+            <p>Office of Near Eastern Affairs. Department of State.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1951v05/persons#p_BRL1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Acting Political Adviser to the Special Representative of the Secretary of State in the Near East for Economic and Technical Assistance at Beirut, 1952.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v09p1/persons#p_BRL1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v09p2/persons#p_BRL1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Reports and Operations Staff, Executive Secretariat, Department of State, from April 11, 1955</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v12/persons#p_BRL1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Reports and Operations Staff, Executive Secretariat of the Department of State, from April 11, 1955</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v14/persons#p_BRL1</source-url>
+        </remark>
+    </remarks>
+</person>

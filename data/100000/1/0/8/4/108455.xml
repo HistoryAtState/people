@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>108455</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Manhard, Philip Wallace</name>
+        </preferred>
+        <alternates/>
+        <originals variants="4">
+            <original source-urls="3">
+                <name>Manhard, Phillip W.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v15p1/persons#p_MPW1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v15p2/persons#p_MPW1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v22/persons#p_MPW1</source-url>
+            </original>
+            <original source-urls="2">
+                <name>Manhard, Philip W.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v18/persons#p_MPW1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v27/persons#p_MPW1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Manhard, Philip Wallace</name>
+                <source-url>https://history.state.gov/departmenthistory/people/manhard-philip-wallace</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Philip W. Manhard</name>
+                <source-url>https://history.state.gov/departmenthistory/people/manhard-philip-wallace</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1921</birth-year>
+    <death-year>1998</death-year>
+    <remarks variants="5">
+        <remark source-urls="2">
+            <p>Second Secretary of Embassy in Korea to February 1954; Second Secretary of Embassy in Japan from March 1954.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v15p1/persons#p_MPW1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v15p2/persons#p_MPW1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Office of Northeast Asian Affairs, Bureau of Far Eastern Affairs, Department of State, 1959–1960</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v18/persons#p_MPW1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Officer in Office of Korean Affairs, Bureau of Far Eastern Affairs, Department of State, until June 1962; thereafter Deputy Political Adviser to CINCPAC</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v22/persons#p_MPW1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Deputy Director, Office of Regional Affairs, Bureau of East Asian and Pacific Affairs, November 1964–September 1967</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v27/persons#p_MPW1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Foreign Service Officer. Ambassador Extraordinary and Plenipotentiary (Mauritius).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/manhard-philip-wallace</source-url>
+        </remark>
+    </remarks>
+</person>

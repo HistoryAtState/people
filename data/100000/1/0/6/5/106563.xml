@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>106563</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Jaworski, Leon</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="3">
+                <name>Jaworski, Leon</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v38p1/persons#p_JL_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v38p2/persons#p_JL_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v13/persons#p_JL_1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="3">
+        <remark source-urls="1">
+            <p>Watergate Special Prosecutor from November 1, 1973, until October 25, 1974</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v38p1/persons#p_JL_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Watergate Special Prosecutor, November 1, 1973–October 25, 1974</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v38p2/persons#p_JL_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Special Prosecutor during the Watergate investigation following the firing of Archibald Cox; House Ethics Committee’s Special Counsel into investigation of ROK influence buying</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v13/persons#p_JL_1</source-url>
+        </remark>
+    </remarks>
+</person>

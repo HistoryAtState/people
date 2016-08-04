@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>109232</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Mizner, Lansing Bond</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="1">
+                <name>Mizner, Lansing Bond</name>
+                <source-url>https://history.state.gov/departmenthistory/people/mizner-lansing-bond</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Lansing B. Mizner</name>
+                <source-url>https://history.state.gov/departmenthistory/people/mizner-lansing-bond</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1825</birth-year>
+    <death-year>1893</death-year>
+    <remarks variants="1">
+        <remark source-urls="1">
+            <p>Non-career appointee. Envoy Extraordinary and Minister Plenipotentiary (Nicaragua); Envoy Extraordinary and Minister Plenipotentiary (Honduras); Envoy Extraordinary and Minister Plenipotentiary (Guatemala); Envoy Extraordinary and Minister Plenipotentiary (El Salvador); Envoy Extraordinary and Minister Plenipotentiary (Costa Rica).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/mizner-lansing-bond</source-url>
+        </remark>
+    </remarks>
+</person>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>112769</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Souers, Sidney W.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="1">
+                <name>Souers, Rear Admiral Sydney W.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945-50Intel/persons#p_SRASW1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Souers, Sidney W.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1949v03/persons#p_SSW1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="1">
+            <title source-urls="1">
+                <name>Rear Admiral</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945-50Intel/persons#p_SRASW1</source-url>
+            </title>
+        </titles-from-name>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="2">
+        <remark source-urls="1">
+            <p>(USN) Director of Central Intelligence, Central Intelligence Group, January 22, 1946-June 10, 1946; Executive Secretary, National Security Council, August 1947-January 1950; Special Consultant to the President from January 1950</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1945-50Intel/persons#p_SRASW1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Executive Secretary of the National Security Council.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1949v03/persons#p_SSW1</source-url>
+        </remark>
+    </remarks>
+</person>

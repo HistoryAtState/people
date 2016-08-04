@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>111717</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Ruffner, Clark L.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="1">
+                <name>Ruffner, Clark L.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v05/persons#p_RCL1</source-url>
+            </original>
+            <original source-urls="2">
+                <name>Ruffner, Major General Clark C.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v09p1/persons#p_RMGC1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v09p2/persons#p_RMGC1</source-url>
+            </original>
+            <original source-urls="2">
+                <name>Ruffner, Major General Clark L.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v15p1/persons#p_RMGCL1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v15p2/persons#p_RMGCL1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="1">
+            <title source-urls="4">
+                <name>Major General</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v09p1/persons#p_RMGC1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v09p2/persons#p_RMGC1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v15p1/persons#p_RMGCL1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v15p2/persons#p_RMGCL1</source-url>
+            </title>
+        </titles-from-name>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="3">
+        <remark source-urls="1">
+            <p>USA, Deputy Assistant for International Security Affairs to the Secretary of Defense.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1951v05/persons#p_RCL1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>USA, Deputy Assistant to the Assistant Secretary of Defense for International Security Affairs, 1952; Military Assistant to the Assistant Secretary of Defense for International Security Affairs, 1953.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v09p1/persons#p_RMGC1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v09p2/persons#p_RMGC1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>USA, Deputy Assistant to the Assistant Secretary of Defense for International Security Affairs, as of 1952; Military Assistant to the Assistant Secretary of Defense for International Security Affairs, in 1953.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v15p1/persons#p_RMGCL1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v15p2/persons#p_RMGCL1</source-url>
+        </remark>
+    </remarks>
+</person>

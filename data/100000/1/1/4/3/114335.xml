@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>114335</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Watson, Thomas J., Jr.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="4">
+                <name>Watson, Thomas J., Jr.</name>
+                <source-url>https://history.state.gov/departmenthistory/people/watson-thomas-j</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v06/persons#p_WTJ_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v26/persons#p_WTJ_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1981-88v03/persons#p_WT_1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Watson, Thomas J. Jr.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v01/persons#p_WTJ_1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Watson, Thomas, Jr.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v13/persons#p_WTJ_1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1914</birth-year>
+    <death-year>1993</death-year>
+    <remarks variants="6">
+        <remark source-urls="1">
+            <p>Non-career appointee. Ambassador Extraordinary and Plenipotentiary (Russia).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/watson-thomas-j</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>chair, International Business Machines, until 1979; Ambassador to the Soviet Union from October 29, 1979, until January 15, 1981</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v01/persons#p_WTJ_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>U.S. Ambassador to the Soviet Union from October 1979</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v06/persons#p_WTJ_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>U.S. Ambassador to the Soviet Union from October 1979 until January 1981</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v13/persons#p_WTJ_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>U.S. Ambassador to the Soviet Union from October 25, 1979 until January 15, 1981</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v26/persons#p_WTJ_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Ambassador to the Soviet Union until January 15, 1981</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1981-88v03/persons#p_WT_1</source-url>
+        </remark>
+    </remarks>
+</person>

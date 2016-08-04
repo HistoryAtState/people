@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>114473</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Wharton, William Fisher</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="1">
+                <name>Wharton, William Fisher</name>
+                <source-url>https://history.state.gov/departmenthistory/people/wharton-william-fisher</source-url>
+            </original>
+            <original source-urls="1">
+                <name>William F. Wharton</name>
+                <source-url>https://history.state.gov/departmenthistory/people/wharton-william-fisher</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1847</birth-year>
+    <death-year>1919</death-year>
+    <remarks variants="1">
+        <remark source-urls="1">
+            <p>Non-career appointee. Secretary of State ad interim; Assistant Secretary of State.</p>
+            <source-url>https://history.state.gov/departmenthistory/people/wharton-william-fisher</source-url>
+        </remark>
+    </remarks>
+</person>

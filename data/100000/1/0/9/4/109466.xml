@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>109466</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Mostowfi, Bagher</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="1">
+                <name>Mostowfi, Bagher</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v36/persons#p_MB1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="1">
+        <remark source-urls="1">
+            <p>Managing Director, National Petrochemical Company (Iran)</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v36/persons#p_MB1</source-url>
+        </remark>
+    </remarks>
+</person>

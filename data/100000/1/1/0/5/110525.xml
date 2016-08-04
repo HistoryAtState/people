@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>110525</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Pendleton, John Strother</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="1">
+                <name>Pendleton, John Strother</name>
+                <source-url>https://history.state.gov/departmenthistory/people/pendleton-john-strother</source-url>
+            </original>
+            <original source-urls="1">
+                <name>John S. Pendleton</name>
+                <source-url>https://history.state.gov/departmenthistory/people/pendleton-john-strother</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1802</birth-year>
+    <death-year>1868</death-year>
+    <remarks variants="1">
+        <remark source-urls="1">
+            <p>Non-career appointee. Chargé d'Affaires (Chile); Chargé d'Affaires (Argentina).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/pendleton-john-strother</source-url>
+        </remark>
+    </remarks>
+</person>

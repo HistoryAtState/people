@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>109191</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Mindszenty, József</name>
+        </preferred>
+        <alternates/>
+        <originals variants="4">
+            <original source-urls="1">
+                <name>Mindszenty, Cardinal Jozef</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v02/persons#p_MCJ4</source-url>
+            </original>
+            <original source-urls="2">
+                <name>Mindszenty, Jozsef Cardinal</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v10p1/persons#p_MJC1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v10p2/persons#p_MJC1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Mindszenty, Cardinal Josef</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v17/persons#p_MCJ1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Mindszenty, Joseph</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v29/persons#p_MJ3</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="1">
+            <title source-urls="4">
+                <name>Cardinal</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v02/persons#p_MCJ4</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v10p1/persons#p_MJC1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v10p2/persons#p_MJC1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v17/persons#p_MCJ1</source-url>
+            </title>
+        </titles-from-name>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="5">
+        <remark source-urls="1">
+            <p>Primate of Hungary, resident in the U.S. Legation at Budapest from November 1956</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v02/persons#p_MCJ4</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Primate of Hungary, resident in the Legation in Budapest from November 1956</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v10p1/persons#p_MJC1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Primate of Hungary, resident in the United States Legation in Budapest from November 1956</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v10p2/persons#p_MJC1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Roman Catholic Primate of Hungary</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v17/persons#p_MCJ1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Cardinal, Roman Catholic Primate of Hungary</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v29/persons#p_MJ3</source-url>
+        </remark>
+    </remarks>
+</person>

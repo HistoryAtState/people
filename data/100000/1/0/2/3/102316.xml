@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>102316</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Cattani, Attilio</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="5">
+                <name>Cattani, Attilio</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v06p1/persons#p_CATTANIA1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v06p2/persons#p_CATTANIA1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v04/persons#p_CA1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v27/persons#p_CA1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v13/persons#p_CA9</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="3">
+        <remark source-urls="2">
+            <p>Italian Representative to, and President of the Executive Committee of the Organization for European Economic Cooperation, 1952–1955.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v06p1/persons#p_CATTANIA1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v06p2/persons#p_CATTANIA1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Director General of Economic Affairs, Italian Foreign Ministry</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v04/persons#p_CA1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v27/persons#p_CA1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Secretary General of the Italian Foreign Ministry</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v13/persons#p_CA9</source-url>
+        </remark>
+    </remarks>
+</person>

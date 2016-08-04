@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>112238</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Seraq Ed-Din, Fuad</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="2">
+                <name>Seraq Ed–Din (Serageddin), Fuad</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v09p1/persons#p_SED1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v09p2/persons#p_SED1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="1">
+        <remark source-urls="2">
+            <p>Minister of the Interior in the Nahas cabinet to January 1952; Secretary General of the Wafd Party to October 1952.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v09p1/persons#p_SED1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v09p2/persons#p_SED1</source-url>
+        </remark>
+    </remarks>
+</person>

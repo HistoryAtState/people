@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>112116</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Schurmann, Carl W.A.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="1">
+                <name>Schurmann, C. W. A.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v25/persons#p_SCWA1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Schurmann, Carl W.A.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v13/persons#p_SCWA1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="2">
+        <remark source-urls="1">
+            <p>Permanent Representative of the Netherlands at the United Nations</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v25/persons#p_SCWA1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Netherlands Ambassador to the United States</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v13/persons#p_SCWA1</source-url>
+        </remark>
+    </remarks>
+</person>

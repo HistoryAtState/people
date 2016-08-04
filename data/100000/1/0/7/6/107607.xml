@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>107607</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Lamm, Donald Wakeham</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="2">
+                <name>Lamm, Donald W.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v11p1/persons#p_LGW1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v11p2/persons#p_LGW1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Lamm, Donald Wakeham</name>
+                <source-url>https://history.state.gov/departmenthistory/people/lamm-donald-wakeham</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Donald W. Lamm</name>
+                <source-url>https://history.state.gov/departmenthistory/people/lamm-donald-wakeham</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1914</birth-year>
+    <death-year>1996</death-year>
+    <remarks variants="2">
+        <remark source-urls="2">
+            <p>Consul at Lorenço Marques until June 25, 1952; Consul General, June 25, 1952–October 15, 1954; thereafter, Consul General at Accra.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v11p1/persons#p_LGW1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v11p2/persons#p_LGW1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Foreign Service Officer. Chargé d'Affaires (Ghana).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/lamm-donald-wakeham</source-url>
+        </remark>
+    </remarks>
+</person>

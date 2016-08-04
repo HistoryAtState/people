@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>108958</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>McQuinn, Jones</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="1">
+                <name>McQuinn, Jones</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v36/persons#p_MJ2</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="1">
+        <remark source-urls="1">
+            <p>head, Middle East operations, Standard Oil of California</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v36/persons#p_MJ2</source-url>
+        </remark>
+    </remarks>
+</person>

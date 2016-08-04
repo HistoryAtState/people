@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>102793</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Conrad, Charles Magill</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="1">
+                <name>Conrad, Charles Magill</name>
+                <source-url>https://history.state.gov/departmenthistory/people/conrad-charles-magill</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Charles M. Conrad</name>
+                <source-url>https://history.state.gov/departmenthistory/people/conrad-charles-magill</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1804</birth-year>
+    <death-year>1878</death-year>
+    <remarks variants="1">
+        <remark source-urls="1">
+            <p>Non-career appointee. Secretary of State ad interim.</p>
+            <source-url>https://history.state.gov/departmenthistory/people/conrad-charles-magill</source-url>
+        </remark>
+    </remarks>
+</person>

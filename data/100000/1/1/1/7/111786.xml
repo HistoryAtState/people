@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>111786</id>
+    <authorities>
+        <authority service="viaf">35605988</authority>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Sabah, Jaber al-Ahmad</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="1">
+                <name>Emir Jabir al-Sabah</name>
+                <source-url>https://history.state.gov/departmenthistory/visits/kuwait</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Amir Jabir al-Ahmad al-Sabah</name>
+                <source-url>https://history.state.gov/departmenthistory/visits/kuwait</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Amir Jabir al-Ahmed al-Sabah</name>
+                <source-url>https://history.state.gov/departmenthistory/visits/kuwait</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="3">
+        <remark source-urls="1">
+            <p>Emir, Kuwait. Visited U.S. once, 1996</p>
+            <source-url>https://history.state.gov/departmenthistory/visits/kuwait</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Amir, Kuwait. Visited U.S. 2 times, 1988–1991</p>
+            <source-url>https://history.state.gov/departmenthistory/visits/kuwait</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Amir, Kuwait. Visited U.S. once, 1990</p>
+            <source-url>https://history.state.gov/departmenthistory/visits/kuwait</source-url>
+        </remark>
+    </remarks>
+</person>

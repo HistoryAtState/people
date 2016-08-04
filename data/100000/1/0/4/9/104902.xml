@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>104902</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Ginsburg, Charles David</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="3">
+                <name>Ginsburg, Charles David</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1947v02/persons#p_GCD1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1948v02/persons#p_GCD1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v01/persons#p_GCD_1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="3">
+        <remark source-urls="1">
+            <p>Washington, D.C. lawyer; Deputy Director, Economics Division, Office of Military Government for Germany (US), 1945–1946; United States Alternate Representative to the Austrian Treaty Commission, May–October 1947; Member, United States Delegation, Council of Foreign Ministers, London, November–December 1947</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1947v02/persons#p_GCD1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>U.S. Deputy Representative to the Austrian Treaty Commission in 1947</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1948v02/persons#p_GCD1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>lawyer; founder, Americans for Democratic Action; Executive Director, National Advisory Commission on Civil Disorders (Kerner Commission), 1967; General Counsel, Democratic National Committee, 1968</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v01/persons#p_GCD_1</source-url>
+        </remark>
+    </remarks>
+</person>

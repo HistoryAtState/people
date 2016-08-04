@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>100399</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Amrehn, Franz</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="4">
+                <name>Amrehn, Franz</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v08/persons#p_AF1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v09/persons#p_AF1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v14/persons#p_AF2</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v15/persons#p_AF2</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="1">
+        <remark source-urls="4">
+            <p>Deputy Mayor of Berlin</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v08/persons#p_AF1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v09/persons#p_AF1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v14/persons#p_AF2</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v15/persons#p_AF2</source-url>
+        </remark>
+    </remarks>
+</person>

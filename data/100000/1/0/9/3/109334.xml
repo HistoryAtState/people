@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>109334</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Moore, Francis B. (“Frank”)</name>
+        </preferred>
+        <alternates/>
+        <originals variants="4">
+            <original source-urls="4">
+                <name>Moore, Frank</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v37/persons#p_MF_2</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v01/persons#p_MF_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v02/persons#p_MF_3</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v08/persons#p_MF_1</source-url>
+            </original>
+            <original source-urls="2">
+                <name>Moore, Frank B.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v03/persons#p_MFB_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v13/persons#p_MFB_1</source-url>
+            </original>
+            <original source-urls="4">
+                <name>Moore, Francis B. (“Frank”)</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v18/persons#p_MF_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v20/persons#p_MFB_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v28/persons#p_MF_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v30/persons#p_MF_1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Moore, Francis B., “Frank,”</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v21/persons#p_MFB_1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="5">
+        <remark source-urls="1">
+            <p>Assistant to the President for Congressional Liaison, from 1977 until 1981</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v37/persons#p_MF_2</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>national finance director, Carter- Mondale campaign, 1976; Assistant to the President for Congressional Liaison from 1977 until 1981</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v01/persons#p_MF_1</source-url>
+        </remark>
+        <remark source-urls="7">
+            <p>Assistant to the President for Congressional Liaison</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v02/persons#p_MF_3</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v03/persons#p_MFB_1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v08/persons#p_MF_1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v18/persons#p_MF_1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v20/persons#p_MFB_1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v28/persons#p_MF_1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v30/persons#p_MF_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Assistant to the President for Congressional Liaison from 1977 until January 1981</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v13/persons#p_MFB_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Special Assistant to the President for Congressional Liaison</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v21/persons#p_MFB_1</source-url>
+        </remark>
+    </remarks>
+</person>

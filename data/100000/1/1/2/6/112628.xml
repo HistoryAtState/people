@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>112628</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Smith, Ian Douglas</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="5">
+                <name>Smith, Ian Douglas</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v24/persons#p_SID1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve05p1/persons#p_SID1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve05p2/persons#p_SID1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve06/persons#p_SID1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve14p1/persons#p_SID1</source-url>
+            </original>
+            <original source-urls="3">
+                <name>Smith, Ian</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v05/persons#p_SI1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v01/persons#p_SI_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v13/persons#p_SI_1</source-url>
+            </original>
+            <original source-urls="3">
+                <name>Smith, Ian D.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v28/persons#p_SID_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v38p1/persons#p_SID_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v38p2/persons#p_SID_1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="7">
+        <remark source-urls="1">
+            <p>Prime Minister of Rhodesia from April 1964</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v24/persons#p_SID1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Prime Minister of Southern Rhodesia</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v05/persons#p_SI1</source-url>
+        </remark>
+        <remark source-urls="3">
+            <p>Prime Minister of Rhodesia</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v28/persons#p_SID_1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve05p1/persons#p_SID1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve05p2/persons#p_SID1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Rhodesian Prime Minister</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v38p1/persons#p_SID_1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v38p2/persons#p_SID_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Prime Minister of Rhodesia from 1965 to 1979</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve06/persons#p_SID1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>President of the Republic of Rhodesia</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve14p1/persons#p_SID1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Prime Minister of Rhodesia until June 1, 1979</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v01/persons#p_SI_1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v13/persons#p_SI_1</source-url>
+        </remark>
+    </remarks>
+</person>

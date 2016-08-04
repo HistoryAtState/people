@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>109604</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Myerson, Jacob M.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="2">
+                <name>Myerson, Jacob M.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v13/persons#p_MJM2</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve03/persons#p_MJM1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="2">
+        <remark source-urls="1">
+            <p>Office of Atlantic Political-Military Affairs, Bureau of European Affairs, Department of State, 1966</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v13/persons#p_MJM2</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>United States Representative on the Economic and Social Council with the rank of Ambassador, United States Mission to the United Nations (New York) from August 1975</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve03/persons#p_MJM1</source-url>
+        </remark>
+    </remarks>
+</person>

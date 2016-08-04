@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>102402</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Chapman, Christian George</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="3">
+                <name>Chapman, Christian George</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v01/persons#p_CCG1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v01/persons#p_CCG1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v30/persons#p_CCA_1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Chapman, Christian G.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v24/persons#p_CCG1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Chapman, Christian A.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve12/persons#p_chapman-christian-a</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="5">
+        <remark source-urls="1">
+            <p>Second Secretary of the Embassy in Vietnam, January 1957–December 1957</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v01/persons#p_CCG1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Second Secretary of the Embassy in Laos to August 1959; thereafter Officer in Charge of Laos Affairs, Department of State</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v01/persons#p_CCG1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Officer in Charge of Laos Affairs, Department of State, until September 3, 1961</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v24/persons#p_CCG1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Deputy Chief of Mission, U.S. Embassy in Laos</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve12/persons#p_chapman-christian-a</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Deputy Assistant Secretary of State for Educational and Cultural Affairs, Department of State, until 1978; thereafter, Deputy Chief of Mission, U.S. Embassy in Paris</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v30/persons#p_CCA_1</source-url>
+        </remark>
+    </remarks>
+</person>

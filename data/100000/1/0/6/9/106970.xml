@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>106970</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Keena, Leo John</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="1">
+                <name>Keena, Leo John</name>
+                <source-url>https://history.state.gov/departmenthistory/people/keena-leo-john</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Leo J.Keena</name>
+                <source-url>https://history.state.gov/departmenthistory/people/keena-leo-john</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Leo J. Keena</name>
+                <source-url>https://history.state.gov/departmenthistory/people/keena-leo-john</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1878</birth-year>
+    <death-year>1967</death-year>
+    <remarks variants="1">
+        <remark source-urls="1">
+            <p>Foreign Service Officer. Envoy Extraordinary and Minister Plenipotentiary (South Africa); Envoy Extraordinary and Minister Plenipotentiary (Honduras).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/keena-leo-john</source-url>
+        </remark>
+    </remarks>
+</person>

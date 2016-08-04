@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>103509</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Diori, Hamani</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="1">
+                <name>Diori, Hamani</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve06/persons#p_DH1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>President Hamani Diori</name>
+                <source-url>https://history.state.gov/departmenthistory/visits/niger</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="2">
+        <remark source-urls="1">
+            <p>President of Niger from November 10, 1960 to April 15, 1974</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve06/persons#p_DH1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>President, Niger. Visited U.S. once, 1967</p>
+            <source-url>https://history.state.gov/departmenthistory/visits/niger</source-url>
+        </remark>
+    </remarks>
+</person>

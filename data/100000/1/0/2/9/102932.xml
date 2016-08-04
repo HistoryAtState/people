@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>102932</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Cowen, Myron Melvin</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="5">
+                <name>Cowen, Myron M.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v05p1/persons#p_COWENMM1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v05p2/persons#p_COWENMM1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v06p1/persons#p_COWENMM1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v06p2/persons#p_COWENMM1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v23/persons#p_CMM1</source-url>
+            </original>
+            <original source-urls="2">
+                <name>Cowen, Myron W.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v11p1/persons#p_CMW1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v11p2/persons#p_CMW1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Cowen, Myron Melvin</name>
+                <source-url>https://history.state.gov/departmenthistory/people/cowen-myron-melvin</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1898</birth-year>
+    <death-year>1965</death-year>
+    <remarks variants="5">
+        <remark source-urls="2">
+            <p>Consultant to the Secretary of State until June 1952; Ambassador in Belgium, June 11, 1952–June 8, 1953.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v05p1/persons#p_COWENMM1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v05p2/persons#p_COWENMM1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Ambassador in Belgium, June 11, 1952–June 8, 1953.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v06p1/persons#p_COWENMM1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v06p2/persons#p_COWENMM1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Consultant to the Secretary of State until May 10, 1952; Ambassador to Belgium, June 11, 1952–June 8, 1953.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v11p1/persons#p_CMW1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v11p2/persons#p_CMW1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Ambassador to the Philippines, March 2, 1949-November 14, 1951</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v23/persons#p_CMM1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Non-career appointee. Ambassador Extraordinary and Plenipotentiary (Philippines); Ambassador Extraordinary and Plenipotentiary (Belgium); Ambassador Extraordinary and Plenipotentiary (Australia).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/cowen-myron-melvin</source-url>
+        </remark>
+    </remarks>
+</person>

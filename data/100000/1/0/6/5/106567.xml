@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>106567</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Jay, Peter Augustus</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="3">
+                <name>Jay, Peter Augustus</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1914Supp/persons#p_JPA1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1916Supp/persons#p_JPA1</source-url>
+                <source-url>https://history.state.gov/departmenthistory/people/jay-peter-augustus</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Peter Augus Jay</name>
+                <source-url>https://history.state.gov/departmenthistory/people/jay-peter-augustus</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1877</birth-year>
+    <death-year>1933</death-year>
+    <remarks variants="3">
+        <remark source-urls="1">
+            <p>United States Secretary of Embassy and Chargé d’Affaires in Italy.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1914Supp/persons#p_JPA1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>U. S. Counselor of Embassy at Rome.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1916Supp/persons#p_JPA1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Foreign Service Officer. Envoy Extraordinary and Minister Plenipotentiary (Romania); Envoy Extraordinary and Minister Plenipotentiary (El Salvador); Agent/Consul General (Egypt); Ambassador Extraordinary and Plenipotentiary (Argentina).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/jay-peter-augustus</source-url>
+        </remark>
+    </remarks>
+</person>

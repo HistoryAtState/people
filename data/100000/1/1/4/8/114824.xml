@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>114824</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Wright, Michael Robert</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="3">
+                <name>Wright, Michael</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv01/persons#p_WM1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945Malta/persons#p_WM1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v03/persons#p_WSM1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Wright, Sir Michael Robert</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v12/persons#p_WSMR1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Wright, Sir Michael</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v12/persons#p_WSM1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="1">
+            <title source-urls="2">
+                <name>Sir</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v12/persons#p_WSMR1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v12/persons#p_WSM1</source-url>
+            </title>
+        </titles-from-name>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="5">
+        <remark source-urls="1">
+            <p>Counsellor, British Embassy, Washington.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv01/persons#p_WM1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Acting Counsellor, British Embassy, Washington.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1945Malta/persons#p_WM1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>British Ambassador to Iraq from January 21, 1955</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v12/persons#p_WSMR1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>British Deputy Representative to the Geneva Conference on the Discontinuance of Nuclear Weapon Tests from 1960</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v03/persons#p_WSM1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>British Ambassador to Iraq</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v12/persons#p_WSM1</source-url>
+        </remark>
+    </remarks>
+</person>

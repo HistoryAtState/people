@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>111931</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Sarabhai, Vikram Ambalal</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="1">
+                <name>Sarabhai, Vikram A.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v11/persons#p_SVA2</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Sarabhai, Dr. V.A. (Vikram Ambalal)</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v25/persons#p_SDVAVA1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="1">
+            <title source-urls="1">
+                <name>Dr.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v25/persons#p_SDVAVA1</source-url>
+            </title>
+        </titles-from-name>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="2">
+        <remark source-urls="1">
+            <p>Chairman, Indian Atomic Energy Commission, after 1966</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v11/persons#p_SVA2</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Chairman of India's Atomic Energy Commission, and Secretary to the Department of Atomic Energy from May 1966</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v25/persons#p_SDVAVA1</source-url>
+        </remark>
+    </remarks>
+</person>

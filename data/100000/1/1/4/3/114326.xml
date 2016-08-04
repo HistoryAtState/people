@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>114326</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Watson, Alexander Fletcher</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="2">
+                <name>Watson, Alexander Fletcher</name>
+                <source-url>https://history.state.gov/departmenthistory/people/watson-alexander-fletcher</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve11p2/persons#p_WAF_1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Watson, Alexander F.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v02/persons#p_WAF_1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1939</birth-year>
+    <death-year/>
+    <remarks variants="3">
+        <remark source-urls="1">
+            <p>Foreign Service Officer. Assistant Secretary of State for Western Hemisphere Affairs; Ambassador Extraordinary and Plenipotentiary (Peru); Ambassador Extraordinary and Plenipotentiary (Brazil).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/watson-alexander-fletcher</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Office of Brazilian Affairs, Bureau of Inter-American Affairs, Department of State, from July 1973 until May 1975; Special Assistant for Legislative Matters and Public Affairs, Office of the Assistant Secretary of State for Economic and Business Affairs, from May 1975.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve11p2/persons#p_WAF_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Special Assistant for Congressional and Public Affairs, Bureau of Economic and Business Affairs, Department of State, until 1977; Director, Office of Development Finance, International Financial Development, Bureau of Economic and Business Affairs, from 1977 until 1979; thereafter Deputy Chief of Mission, U.S. Embassy in La Paz</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v02/persons#p_WAF_1</source-url>
+        </remark>
+    </remarks>
+</person>

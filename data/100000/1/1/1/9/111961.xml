@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>111961</id>
+    <authorities>
+        <authority service="viaf">48071366</authority>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Saud bin Abdulaziz Al Saud</name>
+        </preferred>
+        <alternates/>
+        <originals variants="8">
+            <original source-urls="1">
+                <name>King Saud</name>
+                <source-url>https://history.state.gov/departmenthistory/visits/saudi-arabia</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Saud bin Abdulaziz Al Saud</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v05/persons#p_SIAA1</source-url>
+            </original>
+            <original source-urls="2">
+                <name>Saud Ibn Abdul Aziz Al-Feisal</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v09p1/persons#p_SIAA1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v09p2/persons#p_SIAA1</source-url>
+            </original>
+            <original source-urls="2">
+                <name>Saud Ibn Abd al Aziz al-Faisal al Saud</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v04/persons#p_SIAAFS1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v27/persons#p_SIAAFS1</source-url>
+            </original>
+            <original source-urls="3">
+                <name>Saud, ibn Abd al-Aziz</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v12/persons#p_SAA1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v15/persons#p_SAA1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v16/persons#p_SAA1</source-url>
+            </original>
+            <original source-urls="2">
+                <name>Saud, ibn Abd al–Aziz</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v13/persons#p_SAA1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v14/persons#p_SAA1</source-url>
+            </original>
+            <original source-urls="4">
+                <name>Saud ibn Abd al-Aziz</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v17/persons#p_SAA1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v12/persons#p_SAA5</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v17/persons#p_SAA5</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v18/persons#p_SAA5</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Saud ibn Abdul-Aziz</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v11/persons#p_SAA5</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="5">
+        <remark source-urls="1">
+            <p>King, Saudi Arabia. Visited U.S. 2 times, 1957–1962</p>
+            <source-url>https://history.state.gov/departmenthistory/visits/saudi-arabia</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Crown Prince of Saudi Arabia.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1951v05/persons#p_SIAA1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Crown Prince of Saudi Arabia until November 9, 1953; thereafter King.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v09p1/persons#p_SIAA1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v09p2/persons#p_SIAA1</source-url>
+        </remark>
+        <remark source-urls="10">
+            <p>King of Saudi Arabia</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v04/persons#p_SIAAFS1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v12/persons#p_SAA1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v13/persons#p_SAA1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v14/persons#p_SAA1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v15/persons#p_SAA1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v16/persons#p_SAA1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v17/persons#p_SAA1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v27/persons#p_SIAAFS1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v11/persons#p_SAA5</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v12/persons#p_SAA5</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>King of Saudi Arabia; Prime Minister</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v17/persons#p_SAA5</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v18/persons#p_SAA5</source-url>
+        </remark>
+    </remarks>
+</person>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>107497</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Kural, Adnan</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="1">
+                <name>Kural, Adnan</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v16/persons#p_KA1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="1">
+        <remark source-urls="1">
+            <p>Director General of the Turkish Ministry of Foreign Affairs; Secretary General, 16 Nations Secretariat (the Allied Delegations), at the Geneva Conference on Korea.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v16/persons#p_KA1</source-url>
+        </remark>
+    </remarks>
+</person>

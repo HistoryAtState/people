@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>102480</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Cheyre Toutin, Emilio</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="1">
+                <name>Cheyre Toutin, Emilio</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v21/persons#p_CTE_1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="1">
+        <remark source-urls="1">
+            <p>General, Chief of Investigations of the Chilean Army from 1970 until 1971; Ambassador to Portugal from 1971 until 1973</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v21/persons#p_CTE_1</source-url>
+        </remark>
+    </remarks>
+</person>

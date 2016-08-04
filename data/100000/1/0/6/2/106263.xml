@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>106263</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Huizenga, John W.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="1">
+                <name>Huizenga, John W.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v14/persons#p_HJW1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="1">
+        <remark source-urls="1">
+            <p>member of Policy Planning Council, Department of State, 1964–1966; thereafter Deputy Director, Office of National Estimates, Central Intelligence Agency</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v14/persons#p_HJW1</source-url>
+        </remark>
+    </remarks>
+</person>

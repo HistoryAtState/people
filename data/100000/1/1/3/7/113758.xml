@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>113758</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Trudeau, Pierre-Elliott</name>
+        </preferred>
+        <alternates/>
+        <originals variants="4">
+            <original source-urls="2">
+                <name>Trudeau, Pierre Elliot</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v12/persons#p_TPE1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v01/persons#p_TPE_1</source-url>
+            </original>
+            <original source-urls="10">
+                <name>Trudeau, Pierre-Elliott</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v03/persons#p_TPE2</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v04/persons#p_TPE2</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v10/persons#p_TP1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v17/persons#p_TPE1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v20/persons#p_TPE2</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v39/persons#p_TPE2</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve13/persons#p_TPE2</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v13/persons#p_TPE_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v26/persons#p_TP_2</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v30/persons#p_TPE_1</source-url>
+            </original>
+            <original source-urls="8">
+                <name>Trudeau, Pierre Elliott</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v31/persons#p_TPE1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v36/persons#p_TPE1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v38p1/persons#p_TPE_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v38p2/persons#p_TPE_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v41/persons#p_TPE_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve05p1/persons#p_TPE2</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve05p2/persons#p_TPE1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve15p2/persons#p_TPE_1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Trudeau, Pierre</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v37/persons#p_TP_2</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="9">
+        <remark source-urls="1">
+            <p>Canadian Minister of Justice and Attorney General, April 4, 1967-April 20, 1968; thereafter Prime Minister</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v12/persons#p_TPE1</source-url>
+        </remark>
+        <remark source-urls="7">
+            <p>Canadian Prime Minister</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v03/persons#p_TPE2</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v04/persons#p_TPE2</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v10/persons#p_TP1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v31/persons#p_TPE1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v36/persons#p_TPE1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v38p1/persons#p_TPE_1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v41/persons#p_TPE_1</source-url>
+        </remark>
+        <remark source-urls="6">
+            <p>Prime Minister of Canada</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v17/persons#p_TPE1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v20/persons#p_TPE2</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v38p2/persons#p_TPE_1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v39/persons#p_TPE2</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve05p2/persons#p_TPE1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve13/persons#p_TPE2</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Canadian Prime Minister until June 4, 1979 and from March 3, 1980</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v37/persons#p_TP_2</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Prime Minister of Canada from June 1967</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve05p1/persons#p_TPE2</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Canadian Prime Minister from April 1968 until June 1979</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve15p2/persons#p_TPE_1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Canadian Prime Minister until June 3, 1979, and from March 3, 1980</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v01/persons#p_TPE_1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v30/persons#p_TPE_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Prime Minister of Canada from April 20, 1968 until June 3, 1979 and from March 3, 1980 until June 30, 1984</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v13/persons#p_TPE_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Prime Minister of Canada until June 4, 1979, and from March 3, 1980 until June 1984</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v26/persons#p_TP_2</source-url>
+        </remark>
+    </remarks>
+</person>

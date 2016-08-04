@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>114525</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Whiteley, John F. M.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="1">
+                <name>Whiteley, J. F. M.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1943CairoTehran/persons#p_WJFM1</source-url>
+            </original>
+            <original source-urls="2">
+                <name>Whiteley, Lieutenant General Sir John, F. M.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v03p1/persons#p_WLGSJFM1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v03p2/persons#p_WLGSJFM1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Whiteley, General Sir John F. M.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v27/persons#p_WGSJFM1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="2">
+            <title source-urls="2">
+                <name>Lieutenant General Sir</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v03p1/persons#p_WLGSJFM1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v03p2/persons#p_WLGSJFM1</source-url>
+            </title>
+            <title source-urls="1">
+                <name>General Sir</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v27/persons#p_WGSJFM1</source-url>
+            </title>
+        </titles-from-name>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="3">
+        <remark source-urls="1">
+            <p>Major General, British Army, Planning and Operations Staff, General Headquarters, Middle Bast.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1943CairoTehran/persons#p_WJFM1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Deputy Chief, British Imperial General Staff.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1951v03p1/persons#p_WLGSJFM1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1951v03p2/persons#p_WLGSJFM1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Chairman of the British Joint Services Mission in Washington, and Representative of the Standing Group of the Military Committee of NATO until July 1956</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v27/persons#p_WGSJFM1</source-url>
+        </remark>
+    </remarks>
+</person>

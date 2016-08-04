@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>110124</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Orr, James Lawrence</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="1">
+                <name>Orr, James Lawrence</name>
+                <source-url>https://history.state.gov/departmenthistory/people/orr-james-lawrence</source-url>
+            </original>
+            <original source-urls="1">
+                <name>James L. Orr</name>
+                <source-url>https://history.state.gov/departmenthistory/people/orr-james-lawrence</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1822</birth-year>
+    <death-year>1873</death-year>
+    <remarks variants="1">
+        <remark source-urls="1">
+            <p>Non-career appointee. Envoy Extraordinary and Minister Plenipotentiary (Russia).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/orr-james-lawrence</source-url>
+        </remark>
+    </remarks>
+</person>

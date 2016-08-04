@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>102513</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Chnoupek, Bohuslav</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="4">
+                <name>Chnoupek, Bohuslav</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v29/persons#p_CB1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v39/persons#p_CB1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve15p1/persons#p_CB1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v20/persons#p_CB_1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="4">
+        <remark source-urls="1">
+            <p>Czechoslovak Foreign Minister from December 1971</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v29/persons#p_CB1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Director of the Czechoslovak State Radio from 1969 to 1970; Ambassador from Czechoslovakia to the Soviet Union from 1970 to 1971; Foreign Minister of Czechoslovakia from December 1971</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v39/persons#p_CB1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Czechoslovak Foreign Minister from December 9, 1971 to October 12, 1988</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve15p1/persons#p_CB1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Czechoslovak Minister of Foreign Affairs</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v20/persons#p_CB_1</source-url>
+        </remark>
+    </remarks>
+</person>

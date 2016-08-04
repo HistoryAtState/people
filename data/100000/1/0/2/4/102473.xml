@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>102473</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Cheshmedzhev, Grigor</name>
+        </preferred>
+        <alternates/>
+        <originals variants="5">
+            <original source-urls="1">
+                <name>Cheshmedjieff</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv01/persons#p_C1</source-url>
+            </original>
+            <original source-urls="3">
+                <name>Cheshmedzhev, Grigor</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv01/persons#p_CG2</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv02/persons#p_C4</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv02/persons#p_CG1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Cheschmedjieff</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv02/persons#p_C2</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Cheshmeddieff</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv02/persons#p_C3</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Chesmedjiev</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv02/persons#p_C5</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="2">
+        <remark source-urls="5">
+            <p>See Cheshmedzhev.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv01/persons#p_C1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv02/persons#p_C2</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv02/persons#p_C3</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv02/persons#p_C4</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv02/persons#p_C5</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Bulgarian Minister of Social Policy.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv01/persons#p_CG2</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv02/persons#p_CG1</source-url>
+        </remark>
+    </remarks>
+</person>

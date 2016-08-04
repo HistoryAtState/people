@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>108134</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Louis, John J., Jr.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="2">
+                <name>Louis, John J., Jr.</name>
+                <source-url>https://history.state.gov/departmenthistory/people/louis-john-j</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1981-88v13/persons#p_LJJ_1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1925</birth-year>
+    <death-year>1995</death-year>
+    <remarks variants="2">
+        <remark source-urls="1">
+            <p>Non-career appointee. Ambassador Extraordinary and Plenipotentiary (United Kingdom).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/louis-john-j</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Ambassador to the United Kingdom from May 7, 1981, until November 7, 1983</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1981-88v13/persons#p_LJJ_1</source-url>
+        </remark>
+    </remarks>
+</person>

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>107744</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Leahy, William Daniel</name>
+        </preferred>
+        <alternates/>
+        <originals variants="5">
+            <original source-urls="2">
+                <name>Leahy, William Daniel</name>
+                <source-url>https://history.state.gov/departmenthistory/people/leahy-william-daniel</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv02/persons#p_LFAWD1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>William D. Leahy</name>
+                <source-url>https://history.state.gov/departmenthistory/people/leahy-william-daniel</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Leahy, William D.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1943CairoTehran/persons#p_LWD1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Leahy, Admiral William D.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945-50Intel/persons#p_LAWD1</source-url>
+            </original>
+            <original source-urls="2">
+                <name>Leahy, Fleet Admiral William D.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv01/persons#p_LFAWD1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945Malta/persons#p_LFAWD1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="1">
+            <title source-urls="1">
+                <name>Admiral</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945-50Intel/persons#p_LAWD1</source-url>
+            </title>
+        </titles-from-name>
+    </names>
+    <birth-year>1875</birth-year>
+    <death-year>1959</death-year>
+    <remarks variants="5">
+        <remark source-urls="1">
+            <p>Non-career appointee. Ambassador Extraordinary and Plenipotentiary (France).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/leahy-william-daniel</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Admiral, U. S. N., Chief of Staff to the Commander in Chief of the United States Army and Navy, member of the Joint Chiefs of Staff and of the Combined Chiefs of Staff.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1943CairoTehran/persons#p_LWD1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>(USN) Chief of Staff to the Commander in Chief; presided over the Joint Chiefs of Staff, July 1942-March 1949</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1945-50Intel/persons#p_LAWD1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>U. S. N., Chief of Staff to the Commander in Chief of the Army and Navy.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv01/persons#p_LFAWD1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv02/persons#p_LFAWD1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>U. S. N., Chief of Staff to the Commander in Chief of the United States Army and Navy.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1945Malta/persons#p_LFAWD1</source-url>
+        </remark>
+    </remarks>
+</person>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>102272</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Case, John C.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="3">
+                <name>Case, John C.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v05/persons#p_CJC2</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v09p1/persons#p_CJC1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v09p2/persons#p_CJC1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="2">
+        <remark source-urls="1">
+            <p>Vice President and Director, Socony-Vacuum Oil Company, Inc.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1951v05/persons#p_CJC2</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Vice President and Director, Socony–Vacuum Oil Company, Inc.; President and Director, Colombian Petroleum Company; Vice President and Director, South American Gulf Oil Company.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v09p1/persons#p_CJC1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v09p2/persons#p_CJC1</source-url>
+        </remark>
+    </remarks>
+</person>

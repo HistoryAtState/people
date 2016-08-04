@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>113993</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Vanoni, Ezio</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="3">
+                <name>Vanoni, Ezio</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v06p1/persons#p_VANONIE1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v06p2/persons#p_VANONIE1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v27/persons#p_VE1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="2">
+        <remark source-urls="2">
+            <p>Italian Minister of Finance and Ad Interim Minister of the Treasury, February 1952; Italian Minister of Finance, February 1952–January 1954; thereafter Italian Minister of the Budget.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v06p1/persons#p_VANONIE1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v06p2/persons#p_VANONIE1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>former Italian Minister of Budget and Finance and Delegate to the Organization for European Economic Cooperation</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v27/persons#p_VE1</source-url>
+        </remark>
+    </remarks>
+</person>

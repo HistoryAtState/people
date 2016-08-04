@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>102047</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Byrne, Thomas Ryan</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="2">
+                <name>Byrne, Thomas Ryan</name>
+                <source-url>https://history.state.gov/departmenthistory/people/byrne-thomas-ryan</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v20/persons#p_BTR_1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Thomas R. Byrne</name>
+                <source-url>https://history.state.gov/departmenthistory/people/byrne-thomas-ryan</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Byrne, Thomas</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve15p2/persons#p_BT_3</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1923</birth-year>
+    <death-year/>
+    <remarks variants="3">
+        <remark source-urls="1">
+            <p>Foreign Service Officer. Ambassador Extraordinary and Plenipotentiary (Norway); Ambassador Extraordinary and Plenipotentiary (Czechoslovakia).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/byrne-thomas-ryan</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Ambassador to Norway from August 1973 until April 1976</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve15p2/persons#p_BT_3</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>U.S. Ambassador to Czechoslovakia from June 23, 1976, until November 15, 1978</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v20/persons#p_BTR_1</source-url>
+        </remark>
+    </remarks>
+</person>

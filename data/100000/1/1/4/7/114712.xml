@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>114712</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Winspeare-Guicciardi, Vittorio</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="1">
+                <name>Winspeare-Guicciardi, Vittorio</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve07/persons#p_WGV1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="1">
+        <remark source-urls="1">
+            <p>Under Secretary General of the UN and head of the UN's Geneva office, appointed at the end of December 1971 as Special Representative of the Secretary General to deal with the humanitarian problems growing out of the conflict in South Asia</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve07/persons#p_WGV1</source-url>
+        </remark>
+    </remarks>
+</person>

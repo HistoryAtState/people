@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>105082</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Gradl, Johann Baptist</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="1">
+                <name>Gradl, Johann Baptist</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v40/persons#p_GJB1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="1">
+        <remark source-urls="1">
+            <p>(CDU), member of the Bundestag; Chairman of the Bundestag Committee for Inner-German Relations</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v40/persons#p_GJB1</source-url>
+        </remark>
+    </remarks>
+</person>

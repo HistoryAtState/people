@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>106128</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Horner, John Evarts</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="2">
+                <name>Horner, John E.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v11p1/persons#p_HJE1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v11p2/persons#p_HJE1</source-url>
+            </original>
+            <original source-urls="2">
+                <name>Horner, John Evarts</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v34/persons#p_HJE2</source-url>
+                <source-url>https://history.state.gov/departmenthistory/people/horner-john-evarts</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1916</birth-year>
+    <death-year/>
+    <remarks variants="3">
+        <remark source-urls="2">
+            <p>First Secretary and Consul of the Embassy in Afghanistan until July 19, 1953; detailed to National War College, July 19, 1953–June 21, 1954; thereafter, First Secretary and Consul of the Embassy in France.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v11p1/persons#p_HJE1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v11p2/persons#p_HJE1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Consul General at Dhahran, Saudi Arabia until May 29,1965</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v34/persons#p_HJE2</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Foreign Service Officer. Chargé d'Affaires ad interim (Bulgaria).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/horner-john-evarts</source-url>
+        </remark>
+    </remarks>
+</person>

@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>100199</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>al-Bakr, Ahmad Hasan</name>
+        </preferred>
+        <alternates/>
+        <originals variants="7">
+            <original source-urls="2">
+                <name>Bakr, Ahmad Hassan</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v17/persons#p_BAH4</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v18/persons#p_BAH4</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Bakr, General Ahmed Hassan al-</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v21/persons#p_BAH4</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Bakr, Hassan</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v25/persons#p_BH_1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>al Bakr (Baqr), Ahmad Hasan</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v27/persons#p_BAH_1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>al Bakr, Ahmad Hasan</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve04/persons#p_BAH4</source-url>
+            </original>
+            <original source-urls="1">
+                <name>al-Bakr, Ahmed Hassan</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v08/persons#p_BAH_1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>al-Bakr, Ahmad Hasan</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v18/persons#p_BAH_1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="1">
+            <title source-urls="1">
+                <name>General</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v21/persons#p_BAH4</source-url>
+            </title>
+        </titles-from-name>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="8">
+        <remark source-urls="1">
+            <p>Prime Minister of Iraq from February 8–November 1963</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v17/persons#p_BAH4</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Prime Minister of Iraq, February 8-November 1963</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v18/persons#p_BAH4</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>President of Iraq from July 1968</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v21/persons#p_BAH4</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>President of Iraq</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v25/persons#p_BH_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>President and Prime Minister of Iraq, Chairman of the Revolutionary Command Council, and Secretary General of the Ba’ath Party</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v27/persons#p_BAH_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>President and Prime Minister of Iraq, Chairman of the Revolutionary Command Council, and Secretary General of the Ba'ath Party</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve04/persons#p_BAH4</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>President and Prime Minister of Iraq</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v08/persons#p_BAH_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>President of Iraq from July 17, 1968, until July 16, 1979; Prime Minister of Iraq from July 31, 1968, until July 16, 1979</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v18/persons#p_BAH_1</source-url>
+        </remark>
+    </remarks>
+</person>

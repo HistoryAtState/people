@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>103134</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Dana, John Winchester</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="1">
+                <name>Dana, John Winchester</name>
+                <source-url>https://history.state.gov/departmenthistory/people/dana-john-winchester</source-url>
+            </original>
+            <original source-urls="1">
+                <name>John W. Dana</name>
+                <source-url>https://history.state.gov/departmenthistory/people/dana-john-winchester</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1808</birth-year>
+    <death-year>1867</death-year>
+    <remarks variants="1">
+        <remark source-urls="1">
+            <p>Non-career appointee. Chargé d'Affaires (Bolivia); Minister Resident (Bolivia).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/dana-john-winchester</source-url>
+        </remark>
+    </remarks>
+</person>

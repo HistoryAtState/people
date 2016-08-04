@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>104952</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Gluck, Maxwell Henry</name>
+        </preferred>
+        <alternates/>
+        <originals variants="4">
+            <original source-urls="1">
+                <name>Gluck, Maxwell</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v08/persons#p_GM1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Gluck, Maxwell H.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v15/persons#p_GMH1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Gluck, Maxwell Henry</name>
+                <source-url>https://history.state.gov/departmenthistory/people/gluck-maxwell-henry</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Maxwell H. Gluck</name>
+                <source-url>https://history.state.gov/departmenthistory/people/gluck-maxwell-henry</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1899</birth-year>
+    <death-year>1984</death-year>
+    <remarks variants="3">
+        <remark source-urls="1">
+            <p>Ambassador to Ceylon from September 1957</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v08/persons#p_GM1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Ambassador to Ceylon until October 1958</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v15/persons#p_GMH1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Non-career appointee. Ambassador Extraordinary and Plenipotentiary (Sri Lanka).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/gluck-maxwell-henry</source-url>
+        </remark>
+    </remarks>
+</person>

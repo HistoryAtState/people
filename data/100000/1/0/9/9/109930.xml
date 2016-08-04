@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>109930</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Northcott, Elliott</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="1">
+                <name>Northcott, Elliott</name>
+                <source-url>https://history.state.gov/departmenthistory/people/northcott-elliott</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1869</birth-year>
+    <death-year>1946</death-year>
+    <remarks variants="1">
+        <remark source-urls="1">
+            <p>Non-career appointee. Envoy Extraordinary and Minister Plenipotentiary (Venezuela); Envoy Extraordinary and Minister Plenipotentiary (Nicaragua); Envoy Extraordinary and Minister Plenipotentiary (Colombia).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/northcott-elliott</source-url>
+        </remark>
+    </remarks>
+</person>

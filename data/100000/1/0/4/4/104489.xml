@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>104489</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Francis, David Rowland</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="1">
+                <name>Francis, David R.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1916Supp/persons#p_FDR1</source-url>
+            </original>
+            <original source-urls="2">
+                <name>Francis, David Rowland</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1917-72PubDip/persons#p_FDR_1</source-url>
+                <source-url>https://history.state.gov/departmenthistory/people/francis-david-rowland</source-url>
+            </original>
+            <original source-urls="1">
+                <name>David R. Francis</name>
+                <source-url>https://history.state.gov/departmenthistory/people/francis-david-rowland</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1850</birth-year>
+    <death-year>1927</death-year>
+    <remarks variants="3">
+        <remark source-urls="1">
+            <p>U. S. Ambassador in Russia.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1916Supp/persons#p_FDR1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>U.S. Ambassador to Russia from 1916 until 1917</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1917-72PubDip/persons#p_FDR_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Non-career appointee. Ambassador Extraordinary and Plenipotentiary (Russia).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/francis-david-rowland</source-url>
+        </remark>
+    </remarks>
+</person>

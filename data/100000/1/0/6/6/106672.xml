@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>106672</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Johnson, Richard E.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="1">
+                <name>Johnson, Richard E.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve10/persons#p_JRE1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="1">
+        <remark source-urls="1">
+            <p>Counselor, Political Section, U.S. Embassy in Rio de Janeiro from June 1969 until January 1971; Deputy Chief of Mission-Counselor, U.S. Embassy in Belgrade from January 1971</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve10/persons#p_JRE1</source-url>
+        </remark>
+    </remarks>
+</person>

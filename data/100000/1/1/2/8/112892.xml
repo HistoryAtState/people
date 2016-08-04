@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>112892</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Stainov, Petko</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="2">
+                <name>Stainov, Petko</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv01/persons#p_SP1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv02/persons#p_SP1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Stainoff</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv02/persons#p_S12</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="2">
+        <remark source-urls="2">
+            <p>Bulgarian Minister of Foreign Affairs and Cults.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv01/persons#p_SP1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv02/persons#p_SP1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>See Stainov.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv02/persons#p_S12</source-url>
+        </remark>
+    </remarks>
+</person>

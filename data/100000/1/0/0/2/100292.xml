@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>100292</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Allawi, Ayad</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="1">
+                <name>Interim Prime Minister Ayad Allawi</name>
+                <source-url>https://history.state.gov/departmenthistory/visits/iraq</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="1">
+        <remark source-urls="1">
+            <p>Interim Prime Minister, Iraq. Visited U.S. once, 2004</p>
+            <source-url>https://history.state.gov/departmenthistory/visits/iraq</source-url>
+        </remark>
+    </remarks>
+</person>

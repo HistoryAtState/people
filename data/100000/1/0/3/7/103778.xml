@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>103778</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Eaker, Ira C.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="1">
+                <name>Eaker, Ira C.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1943CairoTehran/persons#p_EIC1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Eaker, Lieutenant General Ira C.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv01/persons#p_ELGIC1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="1">
+            <title source-urls="1">
+                <name>Lieutenant General</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv01/persons#p_ELGIC1</source-url>
+            </title>
+        </titles-from-name>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="2">
+        <remark source-urls="1">
+            <p>Lieutenant General, U. S. A., Commanding General, Eighth Air Force, United States Army Air Forces.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1943CairoTehran/persons#p_EIC1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>U. S. A., Deputy Commander, Army Air Forces, and Chief of Air Staff.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv01/persons#p_ELGIC1</source-url>
+        </remark>
+    </remarks>
+</person>

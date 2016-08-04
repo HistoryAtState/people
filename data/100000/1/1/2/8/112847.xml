@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>112847</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Spivak, Lawrence</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="2">
+                <name>Spivak, Lawrence</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v38p1/persons#p_SL_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v38p2/persons#p_SL_2</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="2">
+        <remark source-urls="1">
+            <p>NBC News reporter; moderator, “Meet the Press,” until 1975</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v38p1/persons#p_SL_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>NBC News reporter; moderator of “Meet the Press”</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v38p2/persons#p_SL_2</source-url>
+        </remark>
+    </remarks>
+</person>

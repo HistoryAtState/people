@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>108312</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Macready, Gordon Nevil</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="2">
+                <name>Macready, Gordon Nevil</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1943CairoTehran/persons#p_MGN1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv02/persons#p_MLGSG1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Macready, Lieutenant General Gordon</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945Malta/persons#p_M2</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Macready, Sir Gordon</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1948v02/persons#p_MSG1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="2">
+            <title source-urls="1">
+                <name>Lieutenant General</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945Malta/persons#p_M2</source-url>
+            </title>
+            <title source-urls="1">
+                <name>Sir</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1948v02/persons#p_MSG1</source-url>
+            </title>
+        </titles-from-name>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="4">
+        <remark source-urls="1">
+            <p>Chief of the British Army Staff at Washington.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1943CairoTehran/persons#p_MGN1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Head of the Army Delegation, British Joint Staff Mission, Washington.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv02/persons#p_MLGSG1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Head of the Army Delegation, British Joint Staff Mission in Washington.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1945Malta/persons#p_M2</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>British Chairman, Bipartite (U.S.–U.K.) Control Office; Director, Frankfurt Headquarters, British Military Government Organization</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1948v02/persons#p_MSG1</source-url>
+        </remark>
+    </remarks>
+</person>

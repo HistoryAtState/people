@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>111419</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Rives, Lloyd Michael</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="6">
+                <name>Rives, Lloyd M.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v06/persons#p_RLM1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v07/persons#p_RLM1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v10/persons#p_RLM1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve05p2/persons#p_RLM1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve12/persons#p_rives-lloyd-m</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve14p1/persons#p_RLM1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Rives, Lloyd Michael</name>
+                <source-url>https://history.state.gov/departmenthistory/people/rives-lloyd-michael</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Lloyd M. Rives</name>
+                <source-url>https://history.state.gov/departmenthistory/people/rives-lloyd-michael</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1921</birth-year>
+    <death-year>2011</death-year>
+    <remarks variants="7">
+        <remark source-urls="1">
+            <p>Chargé d'Affaires ad interim at the Embassy in Phnom Penh after August 16, 1969</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v06/persons#p_RLM1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Charge d’Affaires ad interim, Phnom Penh until September 1970; thereafter Deputy Chief of Mission</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v07/persons#p_RLM1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Cambodia Desk Officer, Bureau of East Asian and Pacific Affairs, Department of State from 1973 until 1974</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v10/persons#p_RLM1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Director, Office of Research and Analysis for Africa, Bureau of Intelligence and Research, Department of State, from 1971</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve05p2/persons#p_RLM1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Laos/Cambodia Desk Office, Bureau of East Asian and Pacific Affairs</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve12/persons#p_rives-lloyd-m</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Director, Laos and Cambodia, Bureau of East Asian and Pacific Affairs, Department of State</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve14p1/persons#p_RLM1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Foreign Service Officer. Chargé d'Affaires ad interim (Cambodia); Chargé d'Affaires ad interim (Congo (Brazzaville)).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/rives-lloyd-michael</source-url>
+        </remark>
+    </remarks>
+</person>

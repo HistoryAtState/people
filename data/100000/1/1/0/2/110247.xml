@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>110247</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>O’Rear, John Davis</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="1">
+                <name>O’Rear, John Davis</name>
+                <source-url>https://history.state.gov/departmenthistory/people/orear-john-davis</source-url>
+            </original>
+            <original source-urls="1">
+                <name>John D. O’Rear</name>
+                <source-url>https://history.state.gov/departmenthistory/people/orear-john-davis</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1868</birth-year>
+    <death-year>1918</death-year>
+    <remarks variants="1">
+        <remark source-urls="1">
+            <p>Non-career appointee. Envoy Extraordinary and Minister Plenipotentiary (Bolivia).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/orear-john-davis</source-url>
+        </remark>
+    </remarks>
+</person>

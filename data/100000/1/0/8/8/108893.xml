@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>108893</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>McKee, Kinnaird R.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="1">
+                <name>McKee, Kinnaird R.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v08/persons#p_MKR1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="1">
+        <remark source-urls="1">
+            <p>Rear Admiral, USN, Director, Executive Panel, Office of the Chief of Naval Operations</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v08/persons#p_MKR1</source-url>
+        </remark>
+    </remarks>
+</person>

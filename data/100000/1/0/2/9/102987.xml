@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>102987</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Crittenberger, Willis D., Jr.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="1">
+                <name>Crittenberger, Major General Willis D., Jr.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v39/persons#p_CMGWDJ1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="1">
+            <title source-urls="1">
+                <name>Major General</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v39/persons#p_CMGWDJ1</source-url>
+            </title>
+        </titles-from-name>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="1">
+        <remark source-urls="1">
+            <p>USA, Deputy Chief of Staff Operations, Headquarters, Europe from 1969 to 1971; Joint Chiefs of Staff Representative for MBFR, Deputy Director for International Negotiations, Directorate for Plans and Policy, Joint Chiefs of Staff from 1971</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v39/persons#p_CMGWDJ1</source-url>
+        </remark>
+    </remarks>
+</person>

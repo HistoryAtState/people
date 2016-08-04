@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>103702</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Dulles, Eleanor Lansing</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="1">
+                <name>Dulles, Eleanor Lansing</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1947v02/persons#p_DEL1</source-url>
+            </original>
+            <original source-urls="7">
+                <name>Dulles, Eleanor L.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1949v03/persons#p_DEL1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v04p1/persons#p_DEL1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v04p2/persons#p_DEL1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v07p1/persons#p_DEL1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v07p2/persons#p_DEL1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v08/persons#p_DEL1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v09/persons#p_DEL1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Dulles, Eleanor</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v26/persons#p_DE1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="7">
+        <remark source-urls="1">
+            <p>Senior Economic Analyst, United States Legation in Vienna</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1947v02/persons#p_DEL1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Adviser on German-Austrian Affairs, Division of Financial Affairs, Department of State.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1949v03/persons#p_DEL1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Office of Western European Affairs, Department of State</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1951v04p1/persons#p_DEL1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1951v04p2/persons#p_DEL1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>International Relations Officer, Department of State, from December 1952; Special Assistant to the Director of the Office of German Affairs from April 1954.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v07p1/persons#p_DEL1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v07p2/persons#p_DEL1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Special Assistant, Office of German Affairs, Bureau of European Affairs, Department of State</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v26/persons#p_DE1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Special Assistant to the Director of the Office of German Affairs, Department of State</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v08/persons#p_DEL1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Special Assistant to the Director of the Office of German Affairs, Department of State, until October 1959</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v09/persons#p_DEL1</source-url>
+        </remark>
+    </remarks>
+</person>

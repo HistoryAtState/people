@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>111398</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Rinden, Robert Watland</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="1">
+                <name>Rinden, Robert Watland</name>
+                <source-url>https://history.state.gov/departmenthistory/people/rinden-robert-watland</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Robert W. Rinden</name>
+                <source-url>https://history.state.gov/departmenthistory/people/rinden-robert-watland</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1914</birth-year>
+    <death-year/>
+    <remarks variants="1">
+        <remark source-urls="1">
+            <p>Foreign Service Officer. Chargé d'Affaires ad interim (Guinea).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/rinden-robert-watland</source-url>
+        </remark>
+    </remarks>
+</person>

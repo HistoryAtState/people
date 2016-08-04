@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>107364</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Köprülü, Mehmet Fuat</name>
+        </preferred>
+        <alternates/>
+        <originals variants="5">
+            <original source-urls="3">
+                <name>Köprülü, Fuat</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v03p1/persons#p_KF1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v03p2/persons#p_KF1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v03/persons#p_KF1</source-url>
+            </original>
+            <original source-urls="2">
+                <name>Köprülü, Mehmet Fuat</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v05/persons#p_KF1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v24/persons#p_KMF1</source-url>
+            </original>
+            <original source-urls="3">
+                <name>Köprülü, Fuad</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v05p1/persons#p_KOPRULUF1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v05p2/persons#p_KOPRULUF1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v08/persons#p_KF1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Körprülü, Fuat</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v04/persons#p_KF1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Koprulu, Mehmet Fuat</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v12/persons#p_KMF1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="7">
+        <remark source-urls="3">
+            <p>Turkish Foreign Minister.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1951v03p1/persons#p_KF1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1951v03p2/persons#p_KF1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1951v05/persons#p_KF1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Turkish Minister of Foreign Affairs; Chairman, Turkish Delegations to the 7th and 8th Regular Sessions of the General Assembly.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v03/persons#p_KF1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Turkish Minister of Foreign Affairs, May 22, 1950–April 15, 1955.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v05p1/persons#p_KOPRULUF1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v05p2/persons#p_KOPRULUF1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Turkish Foreign Minister of Foreign Affairs, May 22, 1950–April 15, 1955; Chairman, Turkish Delegations to the 7th and 8th Regular Sessions of the United Nations General Assembly, 1952–1953.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v08/persons#p_KF1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Turkish Minister of Foreign Affairs until April 1955; Minister of State from April 1955, Deputy Prime Minister from August 1955, and Defense Minister from September 1955–November 1955; Minister of Foreign Affairs, December 1955–June 1956</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v04/persons#p_KF1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Turkish Minister of Foreign Affairs until April 15, 1955; Minister of State, April 15–December 9, 1955; Minster of Foreign Affairs, December 9, 1955–June 20, 1956</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v12/persons#p_KMF1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Turkish Minister of Foreign Affairs until April 1955; Minister of State from April 1955, Deputy Prime Minister from August 1955, and Defense Minister, September–November 1955; Minister of Foreign Affairs, December 1955–June 1956</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v24/persons#p_KMF1</source-url>
+        </remark>
+    </remarks>
+</person>

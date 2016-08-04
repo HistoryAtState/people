@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>106288</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Hunt, George Wylie Paul</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="1">
+                <name>Hunt, George Wylie Paul</name>
+                <source-url>https://history.state.gov/departmenthistory/people/hunt-george-wylie-paul</source-url>
+            </original>
+            <original source-urls="1">
+                <name>George W. P. Hunt</name>
+                <source-url>https://history.state.gov/departmenthistory/people/hunt-george-wylie-paul</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1859</birth-year>
+    <death-year>1934</death-year>
+    <remarks variants="1">
+        <remark source-urls="1">
+            <p>Non-career appointee. Envoy Extraordinary and Minister Plenipotentiary (Thailand).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/hunt-george-wylie-paul</source-url>
+        </remark>
+    </remarks>
+</person>

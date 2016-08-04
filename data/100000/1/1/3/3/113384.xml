@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>113384</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Tatarescu, Gheorghe</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="2">
+                <name>Tatarescu, Gheorghe</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv01/persons#p_TG1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv02/persons#p_TG1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Tatarescu, Dr. Gheorghe</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1946v03/persons#p_TG1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="1">
+            <title source-urls="1">
+                <name>Dr.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1946v03/persons#p_TG1</source-url>
+            </title>
+        </titles-from-name>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="2">
+        <remark source-urls="2">
+            <p>Rumanian Deputy Prime Minister; Minister of Foreign Affairs.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv01/persons#p_TG1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv02/persons#p_TG1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Member of the Rumanian Delegation; Vice-Premier and Foreign Minister of Rumania</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1946v03/persons#p_TG1</source-url>
+        </remark>
+    </remarks>
+</person>

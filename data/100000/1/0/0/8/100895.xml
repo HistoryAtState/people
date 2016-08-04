@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>100895</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Barnes, Harry George, Jr.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="5">
+            <original source-urls="3">
+                <name>Barnes, Harry George, Jr.</name>
+                <source-url>https://history.state.gov/departmenthistory/people/barnes-harry-george-jr</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v20/persons#p_BHGJ_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v28/persons#p_BHG_1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Harry G. Barnes, Jr.</name>
+                <source-url>https://history.state.gov/departmenthistory/people/barnes-harry-george-jr</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Barnes, Harry</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v29/persons#p_BH1</source-url>
+            </original>
+            <original source-urls="2">
+                <name>Barnes, Harry G., Jr.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v39/persons#p_BHGJ1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve15p1/persons#p_BHGJ1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Barnes, Harry G.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve14p1/persons#p_BHGJ1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1926</birth-year>
+    <death-year>2012</death-year>
+    <remarks variants="7">
+        <remark source-urls="1">
+            <p>Foreign Service Officer. Director General of the Foreign Service; Ambassador Extraordinary and Plenipotentiary (Romania); Ambassador Extraordinary and Plenipotentiary (India); Ambassador Extraordinary and Plenipotentiary (Chile).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/barnes-harry-george-jr</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Ambassador to Romania</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v29/persons#p_BH1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>U.S. Ambassador to Romania from January 1974</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v39/persons#p_BHGJ1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>U.S. Ambassador to Romania</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve14p1/persons#p_BHGJ1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Ambassador to Romania from March 14, 1973 to November 10, 1977</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve15p1/persons#p_BHGJ1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>U.S. Ambassador to Romania from March 14, 1974, until November 10, 1977; Director General of the Foreign Service, Department of State, from December 22, 1977, until February 8, 1981</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v20/persons#p_BHGJ_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Director General of the Foreign Service and Director of Personnel, Department of State from December 1977</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v28/persons#p_BHG_1</source-url>
+        </remark>
+    </remarks>
+</person>

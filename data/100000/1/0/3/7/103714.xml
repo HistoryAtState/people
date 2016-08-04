@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>103714</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Duncan, Enoch Sevier</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="2">
+                <name>Duncan, Enoch Sevier</name>
+                <source-url>https://history.state.gov/departmenthistory/people/duncan-enoch-sevier</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v05/persons#p_DES1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Enoch S. Duncan</name>
+                <source-url>https://history.state.gov/departmenthistory/people/duncan-enoch-sevier</source-url>
+            </original>
+            <original source-urls="4">
+                <name>Duncan, Enoch S.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v09p1/persons#p_DES1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v09p2/persons#p_DES1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v18/persons#p_DES1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v34/persons#p_DES1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1920</birth-year>
+    <death-year>2000</death-year>
+    <remarks variants="5">
+        <remark source-urls="1">
+            <p>Foreign Service Officer. Chargé d'Affaires ad interim (Iraq).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/duncan-enoch-sevier</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Consul at Kuwait.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1951v05/persons#p_DES1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Consul at Kuwait until June 27, 1953; thereafter Consul of the Embassy in Jordan.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v09p1/persons#p_DES1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v09p2/persons#p_DES1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Officer in Charge of Economic Affairs, Office of Near Eastern Affairs, Bureau of Near Eastern and South Asian Affairs, Department of State, until April 1964</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v18/persons#p_DES1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Charge d'Affaires in Iraq</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v34/persons#p_DES1</source-url>
+        </remark>
+    </remarks>
+</person>

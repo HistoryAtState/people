@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>104747</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Gary, Hampson</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="1">
+                <name>Gary, Hampson</name>
+                <source-url>https://history.state.gov/departmenthistory/people/gary-hampson</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1873</birth-year>
+    <death-year>1952</death-year>
+    <remarks variants="1">
+        <remark source-urls="1">
+            <p>Non-career appointee. Envoy Extraordinary and Minister Plenipotentiary (Switzerland); Agent/Consul General (Egypt).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/gary-hampson</source-url>
+        </remark>
+    </remarks>
+</person>

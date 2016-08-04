@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>108042</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Lleras Restrepo, Carlos A.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="1">
+                <name>Lleras Restropo, Carlos</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v31/persons#p_LRC1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Lleras Restrepo, Carlos A.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v21/persons#p_LRCA_1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Lleras Restrepo, Carlos</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve10/persons#p_LRC1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="3">
+        <remark source-urls="1">
+            <p>National Front (Liberal Party) candidate for President, May 1966; President of Colombia from August 7, 1966</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v31/persons#p_LRC1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Colombian President until 1970</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v21/persons#p_LRCA_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Colombian President from 1969 until 1970; named director of the Liberal Party, 1972</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve10/persons#p_LRC1</source-url>
+        </remark>
+    </remarks>
+</person>

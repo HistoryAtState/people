@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>110704</id>
+    <authorities>
+        <authority service="viaf">20837125</authority>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Pholien, Joseph</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="2">
+                <name>Pholien, Joseph</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v03p1/persons#p_PJ1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v03p2/persons#p_PJ1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Prime Minister Pholien</name>
+                <source-url>https://history.state.gov/departmenthistory/visits/belgium</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="2">
+        <remark source-urls="2">
+            <p>Belgian Prime Minister.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1951v03p1/persons#p_PJ1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1951v03p2/persons#p_PJ1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Prime Minister, Belgium. Visited U.S. once, 1951</p>
+            <source-url>https://history.state.gov/departmenthistory/visits/belgium</source-url>
+        </remark>
+    </remarks>
+</person>

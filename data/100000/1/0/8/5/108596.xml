@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>108596</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Martino, Gaetano</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="6">
+                <name>Martino, Gaetano</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v05p1/persons#p_MARTINOG1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v05p2/persons#p_MARTINOG1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v06p1/persons#p_MARTINOG1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v06p2/persons#p_MARTINOG1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v04/persons#p_MG1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v27/persons#p_MG1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="3">
+        <remark source-urls="2">
+            <p>Italian Minister of Education, February–September 1954; thereafter Italian Minister of Foreign Affairs.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v05p1/persons#p_MARTINOG1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v05p2/persons#p_MARTINOG1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Italian Minister of Education, February–September 1954; Italian Minister of Foreign Affairs, September 18, 1954–May 20, 1957.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v06p1/persons#p_MARTINOG1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v06p2/persons#p_MARTINOG1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Italian Minister of Foreign Affairs until May 1957</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v04/persons#p_MG1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v27/persons#p_MG1</source-url>
+        </remark>
+    </remarks>
+</person>

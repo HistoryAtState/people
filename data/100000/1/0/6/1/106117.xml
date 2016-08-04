@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>106117</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Horan, Hume Alexander</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="1">
+                <name>Horan, Hume</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v36/persons#p_HH3</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Horan, Hume Alexander</name>
+                <source-url>https://history.state.gov/departmenthistory/people/horan-hume-alexander</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Hume A. Horan</name>
+                <source-url>https://history.state.gov/departmenthistory/people/horan-hume-alexander</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1934</birth-year>
+    <death-year>2004</death-year>
+    <remarks variants="2">
+        <remark source-urls="1">
+            <p>Deputy Chief of Mission, U.S. Embassy in Jidda from February 1972</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v36/persons#p_HH3</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Foreign Service Officer. Ambassador Extraordinary and Plenipotentiary (Sudan); Ambassador Extraordinary and Plenipotentiary (Saudi Arabia); Ambassador Extraordinary and Plenipotentiary (Equatorial Guinea); Ambassador Extraordinary and Plenipotentiary (Côte d’Ivoire); Ambassador Extraordinary and Plenipotentiary (Cameroon).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/horan-hume-alexander</source-url>
+        </remark>
+    </remarks>
+</person>

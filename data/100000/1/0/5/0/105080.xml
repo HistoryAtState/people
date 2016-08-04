@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>105080</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Grabski, Stanislaw</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="4">
+                <name>Grabski, Stanislaw</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv01/persons#p_GS1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv02/persons#p_GS1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945Malta/persons#p_GS1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1947v02/persons#p_GS1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="3">
+        <remark source-urls="2">
+            <p>Vice President of the National Council of the Homeland in the Polish Provisional Government of National Unity.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv01/persons#p_GS1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv02/persons#p_GS1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Speaker of the National Council of the Polish Government in London (resigned November 1944).</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1945Malta/persons#p_GS1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Vice President of the Polish National Council of the Homeland, July 1945–January 1947</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1947v02/persons#p_GS1</source-url>
+        </remark>
+    </remarks>
+</person>

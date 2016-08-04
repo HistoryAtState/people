@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>115503</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Galtieri, Leopoldo Fortunato</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="1">
+                <name>Galtieri, Leopoldo Fortunato</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1981-88v13/persons#p_GLF_1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="1">
+        <remark source-urls="1">
+            <p>Lieutenant General, Commander in Chief, Argentine Army, until December 22, 1981; President of Argentina and Member of the Ruling Junta from December 22, 1981, until June 18, 1982</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1981-88v13/persons#p_GLF_1</source-url>
+        </remark>
+    </remarks>
+</person>

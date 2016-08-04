@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>111716</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Ruffin, Henri</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="1">
+                <name>Ruffin, Henri</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v08/persons#p_RH1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="1">
+        <remark source-urls="1">
+            <p>First Secretary in the French Embassy in the United States, June 1950–December 1953; Second Counselor after December 1953.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v08/persons#p_RH1</source-url>
+        </remark>
+    </remarks>
+</person>

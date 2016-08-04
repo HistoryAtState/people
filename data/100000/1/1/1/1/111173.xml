@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>111173</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Rashish, Myer</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="3">
+                <name>Rashish, Myer</name>
+                <source-url>https://history.state.gov/departmenthistory/people/rashish-myer</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1981-88v03/persons#p_RM_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1981-88v13/persons#p_RM_1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1924</birth-year>
+    <death-year>1995</death-year>
+    <remarks variants="3">
+        <remark source-urls="1">
+            <p>Non-career appointee. Under Secretary for Economic Growth, Energy, and the Environment.</p>
+            <source-url>https://history.state.gov/departmenthistory/people/rashish-myer</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Under Secretary of State for Economic Affairs from June 1981 until January 1982</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1981-88v03/persons#p_RM_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Under Secretary of State for Economic Affairs from June 29, 1981, until January 20, 1982</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1981-88v13/persons#p_RM_1</source-url>
+        </remark>
+    </remarks>
+</person>

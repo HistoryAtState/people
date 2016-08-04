@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>102463</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Cherkaoui, Mohammed</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="1">
+                <name>Cherkaoui, Mohammed</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v24/persons#p_CM1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="1">
+        <remark source-urls="1">
+            <p>Moroccan Minister of National Economy and Finance, 1964–1965; Minister of Development, 1965–February 1966; Minister of Foreign Affairs, February 1966–1967; Minister of National Defense from 1967</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v24/persons#p_CM1</source-url>
+        </remark>
+    </remarks>
+</person>

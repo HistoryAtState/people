@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>101906</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Bui Diem</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="11">
+                <name>Bui Diem</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v04/persons#p_BD1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v02/persons#p_BD1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v03/persons#p_BD1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v04/persons#p_BD1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v05/persons#p_BD1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v06/persons#p_BD1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v07/persons#p_BD1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v06/persons#p_BD1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v07/persons#p_BD1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v09/persons#p_BD_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v14/persons#p_BD5</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="8">
+        <remark source-urls="1">
+            <p>Dai Viet oppositionist</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v04/persons#p_BD1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Vietnamese Chief of Staff in the Quat government until June 1965; Special Assistant for Planning and Foreign Aid in the Thieu-Ky government from June 1965</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v02/persons#p_BD1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v03/persons#p_BD1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Vietnamese Deputy Foreign Minister and then Secretary of State for Foreign Affairs; Ambassador to the United States from December 1966</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v04/persons#p_BD1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Vietnamese Ambassador to the United States</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v05/persons#p_BD1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Republic of Vietnam Ambassador to the United States</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v06/persons#p_BD1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v06/persons#p_BD1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>South Vietnamese Ambassador to the United States</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v07/persons#p_BD1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v14/persons#p_BD5</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Ambassador, Republic of Vietnam to the United States</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v07/persons#p_BD1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>former South Vietnamese Ambassador to the United States</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v09/persons#p_BD_1</source-url>
+        </remark>
+    </remarks>
+</person>

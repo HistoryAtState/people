@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>101525</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Bondarenko, Alexander P.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="1">
+                <name>Bondarenko, Alexander P.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v40/persons#p_BAP1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="1">
+        <remark source-urls="1">
+            <p>Minister at the Soviet Embassy in West Germany until April 1971; then head of the Third European Division in the Soviet Foreign Ministry</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v40/persons#p_BAP1</source-url>
+        </remark>
+    </remarks>
+</person>

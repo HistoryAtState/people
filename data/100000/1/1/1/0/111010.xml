@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>111010</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Pushkin, Georgiy Maksimovich</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="2">
+                <name>Pushkin, Georgiy Maksimovich</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv02/persons#p_PGM1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v08/persons#p_PGM1</source-url>
+            </original>
+            <original source-urls="2">
+                <name>Pushkin, Georgiyi Maksimovich</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v07p1/persons#p_PGM1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v07p2/persons#p_PGM1</source-url>
+            </original>
+            <original source-urls="2">
+                <name>Pushkin, Georgi M.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v01/persons#p_PGM1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v24/persons#p_PGM1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="5">
+        <remark source-urls="1">
+            <p>Soviet Political Adviser, Allied Control Commission for Hungary.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv02/persons#p_PGM1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Soviet High Commissioner for Germany and Ambassador in the German Democratic Republic, 1954.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v07p1/persons#p_PGM1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v07p2/persons#p_PGM1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Chief of the Soviet Diplomatic Mission in the German Democratic Republic, October 1949–May 1952; Soviet Deputy Foreign Minister, June 1952–March 1953. Chief, Near and Middle East Division, Soviet Foreign Ministry, 1953–1954; Soviet High Commissioner in Germany and Soviet Ambassador to the German Democratic Republic, 1954–1955.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v08/persons#p_PGM1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Soviet Deputy Foreign Minister responsible for Far Eastern Affairs and Soviet negotiator at the Geneva Conference on Laos</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v01/persons#p_PGM1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Soviet Deputy Foreign Minister for Southeast Asian Affairs and Soviet delegate to the Geneva Conference</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v24/persons#p_PGM1</source-url>
+        </remark>
+    </remarks>
+</person>

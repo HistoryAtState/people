@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>107570</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Lahud, Salim</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="1">
+                <name>Lahud, Salim</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v13/persons#p_LS1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="1">
+        <remark source-urls="1">
+            <p>Lebanese Minister of Foreign Affairs, September 19, 1955–November 27, 1956</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v13/persons#p_LS1</source-url>
+        </remark>
+    </remarks>
+</person>

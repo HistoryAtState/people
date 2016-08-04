@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>112996</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Stevens, Roger Bentham</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="5">
+                <name>Stevens, Roger B.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1948v02/persons#p_SRB1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v03p1/persons#p_SRB1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v03p2/persons#p_SRB1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v04p1/persons#p_SRB1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v04p2/persons#p_SRB1</source-url>
+            </original>
+            <original source-urls="3">
+                <name>Stevens, Sir Roger B.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v10/persons#p_SSRB1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v17/persons#p_SSRB1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v18/persons#p_SSRB1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Stevens, Sir Roger Bentham</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v12/persons#p_SSRB1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="1">
+            <title source-urls="4">
+                <name>Sir</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v10/persons#p_SSRB1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v12/persons#p_SSRB1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v17/persons#p_SSRB1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v18/persons#p_SSRB1</source-url>
+            </title>
+        </titles-from-name>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="6">
+        <remark source-urls="1">
+            <p>Assistant Under-Secretary of State, British Foreign Office from March 1948; Superintending Under-Secretary of the German Commercial Relations and Industry Department, the German General Economic Department, and the German Supply Department</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1948v02/persons#p_SRB1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Assistant Under-Secretary of State, British Foreign Office; Alternate Representative at the Intergovernmental Study Group for Germany; Representative to the Tripartite Talks on a German Financial Contribution to Western Defense from October 1951.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1951v03p1/persons#p_SRB1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1951v03p2/persons#p_SRB1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Assistant Under Secretary of State, British Foreign Office; Alternate Representative to the Intergovernmental Study Group for Germany; Representative at the Tripartite Talks on a German Financial Contribution to Western Defense, from October 1951</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1951v04p1/persons#p_SRB1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1951v04p2/persons#p_SRB1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>British Ambassador in Sweden after December 1951; British Ambassador in Iran after February 1954.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v10/persons#p_SSRB1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>British Ambassador to Iran</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v12/persons#p_SSRB1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Deputy Under Secretary, British Foreign Office, until 1963</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v17/persons#p_SSRB1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v18/persons#p_SSRB1</source-url>
+        </remark>
+    </remarks>
+</person>

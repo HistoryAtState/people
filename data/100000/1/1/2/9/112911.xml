@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>112911</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Stanton, John William</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="1">
+                <name>Stanton, John William</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v02/persons#p_SJW_2</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Stanton, John</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v03/persons#p_SJ_1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="2">
+        <remark source-urls="1">
+            <p>member, U.S. House of Representatives (R-Ohio); member, House Banking, Finance, and Urban Affairs Committee</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v02/persons#p_SJW_2</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>member, U.S. House of Representatives (R–Ohio)</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v03/persons#p_SJ_1</source-url>
+        </remark>
+    </remarks>
+</person>

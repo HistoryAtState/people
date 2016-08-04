@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>106580</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Jeffrey, James Franklin</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="1">
+                <name>Jeffrey, James Franklin</name>
+                <source-url>https://history.state.gov/departmenthistory/people/jeffrey-james-franklin</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1946</birth-year>
+    <death-year/>
+    <remarks variants="1">
+        <remark source-urls="1">
+            <p>Foreign Service Officer. Career Ambassador; Ambassador Extraordinary and Plenipotentiary (Turkey); Ambassador Extraordinary and Plenipotentiary (Iraq); Ambassador Extraordinary and Plenipotentiary (Albania).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/jeffrey-james-franklin</source-url>
+        </remark>
+    </remarks>
+</person>

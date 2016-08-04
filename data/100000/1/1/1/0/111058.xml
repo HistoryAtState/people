@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>111058</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Quinn, Kenneth Michael</name>
+        </preferred>
+        <alternates/>
+        <originals variants="5">
+            <original source-urls="1">
+                <name>Quinn, Kenneth</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v10/persons#p_QK1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Quinn, Kenneth M.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v38p2/persons#p_QKM_1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Quinn, Kennth M.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve12/persons#p_quinn-kennth-m</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Quinn, Kenneth Michael</name>
+                <source-url>https://history.state.gov/departmenthistory/people/quinn-kenneth-michael</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Kenneth M. Quinn</name>
+                <source-url>https://history.state.gov/departmenthistory/people/quinn-kenneth-michael</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1942</birth-year>
+    <death-year/>
+    <remarks variants="4">
+        <remark source-urls="1">
+            <p>member, National Security Council staff</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v10/persons#p_QK1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Vice Chairman, Secretary of State’s Open Forum Panel from August 1974</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v38p2/persons#p_QKM_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>member, National Security Coucil Staff specializing in East Asia and the Pacific</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve12/persons#p_quinn-kennth-m</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Foreign Service Officer. Ambassador Extraordinary and Plenipotentiary (Cambodia).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/quinn-kenneth-michael</source-url>
+        </remark>
+    </remarks>
+</person>

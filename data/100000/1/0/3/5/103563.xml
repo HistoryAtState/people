@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>103563</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Do Mau</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="1">
+                <name>Do Mau, Colonel</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v04/persons#p_DMC1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Do Mau</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v01/persons#p_DM1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="1">
+            <title source-urls="1">
+                <name>Colonel</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v04/persons#p_DMC1</source-url>
+            </title>
+        </titles-from-name>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="2">
+        <remark source-urls="1">
+            <p>(after November 1963, Brigadier General), ARVN, Military Security Service Chief; also political member of the Executive Committee of the Military Revolutionary Council</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v04/persons#p_DMC1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Brigadier General, ARVN, Vietnamese Vice Prime Minister for Cultural and Social Affairs, February 4–November 4, 1964</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v01/persons#p_DM1</source-url>
+        </remark>
+    </remarks>
+</person>

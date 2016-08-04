@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>109780</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Nguyen Chanh Thi</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="1">
+                <name>Nguyen Chanh Thi, Colonel</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v01/persons#p_NCTC1</source-url>
+            </original>
+            <original source-urls="4">
+                <name>Thi</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v01/persons#p_THI1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v02/persons#p_Thi1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v03/persons#p_Thi1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v04/persons#p_Thi1</source-url>
+            </original>
+            <original source-urls="3">
+                <name>Nguyen Chanh Thi</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v02/persons#p_NCT1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v03/persons#p_NCT1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v04/persons#p_NCT1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="1">
+            <title source-urls="1">
+                <name>Colonel</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v01/persons#p_NCTC1</source-url>
+            </title>
+        </titles-from-name>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="4">
+        <remark source-urls="1">
+            <p>ARVN, Airborne Brigade Commander; principal leader in the coup attempt of November 1960</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v01/persons#p_NCTC1</source-url>
+        </remark>
+        <remark source-urls="4">
+            <p>see Nguyen Chanh Thi</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v01/persons#p_THI1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v02/persons#p_Thi1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v03/persons#p_Thi1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v04/persons#p_Thi1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>General, ARVN, Vietnamese Commander of I Corps; Member of the National Leadership Committee</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v02/persons#p_NCT1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v03/persons#p_NCT1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>General, ARVN, Commander of I Corps until March 10, 1966</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v04/persons#p_NCT1</source-url>
+        </remark>
+    </remarks>
+</person>

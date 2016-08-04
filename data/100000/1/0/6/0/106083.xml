@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>106083</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Honecker, Erich</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="8">
+                <name>Honecker, Erich</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v03p1/persons#p_HE1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v03p2/persons#p_HE1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v13/persons#p_HE2</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v14/persons#p_HE2</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v39/persons#p_HE2</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v40/persons#p_HE2</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve15p1/persons#p_HE2</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v20/persons#p_HE_1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="7">
+        <remark source-urls="2">
+            <p>First Chairman of the Free German Youth and candidate-member of the Politburo of the Socialist Unity Party.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1951v03p1/persons#p_HE1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1951v03p2/persons#p_HE1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>member, Politburo of the Central Committee of the Socialist Unity Party of (East) Germany; First Secretary of the Central Committee from May 3, 1971</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v13/persons#p_HE2</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>First Secretary of the Central Committee of the Socialist Unity Party of (East) Germany</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v14/persons#p_HE2</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Head of the Socialist Unity Party and Leader of the German Democratic Republic from 1971</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v39/persons#p_HE2</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>member of the Politburo of the Central Committee of the Socialist Unity Party of (East) Germany and Secretary of the National Defense Council of the German Democratic Republic; from May 3, 1971, First Secretary of the Central Committee; and from June 24, 1971, Chairman of the National Defense Council</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v40/persons#p_HE2</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Head of the Socialist Unity Party and leader of the German Democratic Republic from May 3, 1971 to October 18, 1989</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve15p1/persons#p_HE2</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>General Secretary of the Socialist Unity Party of the German Democratic Republic; Chairman, Council of State</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v20/persons#p_HE_1</source-url>
+        </remark>
+    </remarks>
+</person>

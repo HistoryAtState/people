@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>102946</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Coyne, J. Patrick</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="3">
+                <name>Coyne, J. Patrick</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1950-55Intel/persons#p_CJP1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v33/persons#p_CJP1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v02/persons#p_CJP1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="3">
+        <remark source-urls="1">
+            <p>National Security Council Representative for Internal Security from 1947 to 1960; President’s Board of Consultants on Foreign Intelligence Activities Staff Director from 1960</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1950-55Intel/persons#p_CJP1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Executive Secretary of the President's Foreign Intelligence Advisory Board</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v33/persons#p_CJP1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Executive Secretary of the President's Foreign Intelligence Advisory Board until September 1970</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v02/persons#p_CJP1</source-url>
+        </remark>
+    </remarks>
+</person>

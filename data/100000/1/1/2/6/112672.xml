@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>112672</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Smith, Wayne S.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="5">
+                <name>Smith, Wayne S.</name>
+                <source-url>https://history.state.gov/departmenthistory/people/smith-wayne-s</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v06/persons#p_SWS1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v13/persons#p_SWS1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v14/persons#p_SWS1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v30/persons#p_SWS_1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1932</birth-year>
+    <death-year/>
+    <remarks variants="5">
+        <remark source-urls="1">
+            <p>Foreign Service Officer. Chargé d'Affaires ad interim (Cuba).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/smith-wayne-s</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Third Secretary of the Embassy in Cuba from July 1958</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v06/persons#p_SWS1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Foreign Affairs Policy Analyst, Office of Research and Analysis for USSR and Eastern Europe, Bureau of Intelligence and Research, Department of State until June 1971; thereafter International Relations Officer, Office of Soviet Union Affairs, Bureau of European Affairs, Department of State</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v13/persons#p_SWS1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>International Relations Officer, Office of Soviet Union Affairs, Bureau of European Affairs</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v14/persons#p_SWS1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Principal Officer, U.S. Interests Section at the Swiss Embassy in Havana, Cuba</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v30/persons#p_SWS_1</source-url>
+        </remark>
+    </remarks>
+</person>

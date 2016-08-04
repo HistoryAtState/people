@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>109428</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Morrison, deLesseps Story</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="1">
+                <name>Morrison, DeLesseps S.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v12/persons#p_MDLS1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Morrison, deLesseps Story</name>
+                <source-url>https://history.state.gov/departmenthistory/people/morrison-delesseps-story</source-url>
+            </original>
+            <original source-urls="1">
+                <name>deLesseps S. Morrison</name>
+                <source-url>https://history.state.gov/departmenthistory/people/morrison-delesseps-story</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1912</birth-year>
+    <death-year>1964</death-year>
+    <remarks variants="2">
+        <remark source-urls="1">
+            <p>Permanent Representative to the Organization of American States</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v12/persons#p_MDLS1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Non-career appointee. Permanent Representative of the U.S.A. to the Organization of American States (Washington).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/morrison-delesseps-story</source-url>
+        </remark>
+    </remarks>
+</person>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>108059</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Locker, Jesse Dwight</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="2">
+                <name>Locker, Jesse D.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v11p1/persons#p_LJD1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v11p2/persons#p_LJD1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Locker, Jesse Dwight</name>
+                <source-url>https://history.state.gov/departmenthistory/people/locker-jesse-dwight</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Jesse D. Locker</name>
+                <source-url>https://history.state.gov/departmenthistory/people/locker-jesse-dwight</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1891</birth-year>
+    <death-year>1955</death-year>
+    <remarks variants="2">
+        <remark source-urls="2">
+            <p>Ambassador to Liberia from October 16, 1953.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v11p1/persons#p_LJD1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v11p2/persons#p_LJD1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Non-career appointee. Ambassador Extraordinary and Plenipotentiary (Liberia).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/locker-jesse-dwight</source-url>
+        </remark>
+    </remarks>
+</person>

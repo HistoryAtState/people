@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>113621</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Tofte, Hans V.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="1">
+                <name>Tofte, Major Hans V.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54Guat/persons#p_TMHV1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="1">
+            <title source-urls="1">
+                <name>Major</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54Guat/persons#p_TMHV1</source-url>
+            </title>
+        </titles-from-name>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="1">
+        <remark source-urls="1">
+            <p>member of the Psychological and Paramilitary Operations Staff, Deputy Directorate of Plans, Central Intelligence Agency</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54Guat/persons#p_TMHV1</source-url>
+        </remark>
+    </remarks>
+</person>

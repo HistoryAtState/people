@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>111693</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Royall, Kenneth C.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="4">
+                <name>Royall, Kenneth C.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945-50Intel/persons#p_RKC1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1947v02/persons#p_RKC1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1948v02/persons#p_RKC1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1949v03/persons#p_RKC1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="4">
+        <remark source-urls="1">
+            <p>Secretary of the Army, September 18, 1947-April 27, 1949</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1945-50Intel/persons#p_RKC1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Under Secretary of War, November 1945–July 1947; Secretary of War, July 1947–September 1947; Secretary of the Army from September 1947</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1947v02/persons#p_RKC1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Secretary of the Army</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1948v02/persons#p_RKC1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Secretary of the Army.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1949v03/persons#p_RKC1</source-url>
+        </remark>
+    </remarks>
+</person>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>107184</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Kimura, Tokutaro</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="2">
+                <name>Kimura, Tokutaro</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v14p1/persons#p_KT1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v14p2/persons#p_KT1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="1">
+        <remark source-urls="2">
+            <p>Japanese Attorney General to August 1952; Minister of Justice, August–October 1952; Director of the National Safety Agency, October 1952–May 1953; Director of the National Public Safety Agency, May 1953–July 1954; Director of the National Defense Agency, July–December 1954.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v14p1/persons#p_KT1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v14p2/persons#p_KT1</source-url>
+        </remark>
+    </remarks>
+</person>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>101440</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Bloomfield, Lincoln P., Jr.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="2">
+                <name>Bloomfield, Lincoln P.</name>
+                <source-url>https://history.state.gov/departmenthistory/people/bloomfield-lincoln-p</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v02/persons#p_BLP_1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Bloomfield, Lincoln P., Jr.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v20/persons#p_BL_1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1952</birth-year>
+    <death-year/>
+    <remarks variants="3">
+        <remark source-urls="1">
+            <p>Non-career appointee. Assistant Secretary of State for Politico-Military Affairs.</p>
+            <source-url>https://history.state.gov/departmenthistory/people/bloomfield-lincoln-p</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>member, Global Issues Cluster, National Security Council Staff, from June 1979 until August 1980</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v02/persons#p_BLP_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>member, National Security Council Staff for Global Issues from June 1979 until August 1980</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v20/persons#p_BL_1</source-url>
+        </remark>
+    </remarks>
+</person>

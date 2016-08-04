@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>103144</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Daniels, Josephus, Jr.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="4">
+                <name>Daniels, Josephus</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1914Supp/persons#p_DJ1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1915Supp/persons#p_DJ1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1916Supp/persons#p_DJ1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1917-72PubDip/persons#p_DJ_1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Daniels, Josephus, Jr.</name>
+                <source-url>https://history.state.gov/departmenthistory/people/daniels-josephus-jr</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Josephus Daniels</name>
+                <source-url>https://history.state.gov/departmenthistory/people/daniels-josephus-jr</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1862</birth-year>
+    <death-year>1948</death-year>
+    <remarks variants="4">
+        <remark source-urls="2">
+            <p>Secretary of the Navy of the United States.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1914Supp/persons#p_DJ1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1915Supp/persons#p_DJ1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Secretary of the U. S. Navy.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1916Supp/persons#p_DJ1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Secretary of the Navy from 1913 until 1921</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1917-72PubDip/persons#p_DJ_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Non-career appointee. Ambassador Extraordinary and Plenipotentiary (Mexico).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/daniels-josephus-jr</source-url>
+        </remark>
+    </remarks>
+</person>

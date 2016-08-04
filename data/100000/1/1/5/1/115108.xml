@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>115108</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Alba de Tormes</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="1">
+                <name>Alba de Tormes</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv02/persons#p_AT1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="1">
+            <title source-urls="1">
+                <name>Duke</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv02/persons#p_AT1</source-url>
+            </title>
+        </titles-from-name>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="1">
+        <remark source-urls="1">
+            <p>The Duke of, Spanish Ambassador to the United Kingdom.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv02/persons#p_AT1</source-url>
+        </remark>
+    </remarks>
+</person>

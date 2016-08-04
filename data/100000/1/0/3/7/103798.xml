@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>103798</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Eberhardt, Charles Christopher</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="1">
+                <name>Eberhardt, Charles Christopher</name>
+                <source-url>https://history.state.gov/departmenthistory/people/eberhardt-charles-christopher</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Charles C. Eberhardt</name>
+                <source-url>https://history.state.gov/departmenthistory/people/eberhardt-charles-christopher</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1871</birth-year>
+    <death-year>1965</death-year>
+    <remarks variants="1">
+        <remark source-urls="1">
+            <p>Foreign Service Officer. Envoy Extraordinary and Minister Plenipotentiary (Nicaragua); Envoy Extraordinary and Minister Plenipotentiary (Costa Rica).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/eberhardt-charles-christopher</source-url>
+        </remark>
+    </remarks>
+</person>

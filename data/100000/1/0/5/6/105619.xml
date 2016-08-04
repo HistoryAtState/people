@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>105619</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Hartley, Robert W.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="1">
+                <name>Hartley, Robert W.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945v01/persons#p_HRW1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="1">
+        <remark source-urls="1">
+            <p>Executive Assistant, Office of the Special Assistant to the Secretary of State for International Organization and Security Affairs (Pasvolsky); Technical Expert, United States Delegation.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1945v01/persons#p_HRW1</source-url>
+        </remark>
+    </remarks>
+</person>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>113976</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Van Dyk, Frederick Theodore</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="1">
+                <name>Van Dyk, Frederick Theodore</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v02/persons#p_VDFT_1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Van Dyk, Frederick T. (Ted)</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v03/persons#p_VDF_1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="2">
+        <remark source-urls="1">
+            <p>Assistant Administrator, Bureau of Intragovernmental and International Affairs, Agency for International Development; also Executive Director, Development Coordinating Committee</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v02/persons#p_VDFT_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Assistant Administrator, Agency for International Development, until September 1977</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v03/persons#p_VDF_1</source-url>
+        </remark>
+    </remarks>
+</person>

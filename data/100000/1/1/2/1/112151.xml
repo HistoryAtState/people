@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>112151</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Scott, Michael</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="1">
+                <name>Scott, Michael</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v03/persons#p_SCOTTM1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="1">
+        <remark source-urls="1">
+            <p>Anglican clergyman resident in South Africa, unofficial spokesman for the native races in South Africa at the United Nations.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v03/persons#p_SCOTTM1</source-url>
+        </remark>
+    </remarks>
+</person>

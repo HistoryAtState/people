@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>112933</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Stebbins, Henry E.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="2">
+                <name>Stebbins, Henry E.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1948v02/persons#p_SHE1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v23/persons#p_SHE_1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="2">
+        <remark source-urls="1">
+            <p>First Secretary of the United States Embassy in the United Kingdom</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1948v02/persons#p_SHE1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Ambassador to Uganda from July 22, 1966 until September 2, 1969</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v23/persons#p_SHE_1</source-url>
+        </remark>
+    </remarks>
+</person>

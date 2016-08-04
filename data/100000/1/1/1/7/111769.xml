@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>111769</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Ryan, Hewson Anthony</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="4">
+                <name>Ryan, Hewson Anthony</name>
+                <source-url>https://history.state.gov/departmenthistory/people/ryan-hewson-anthony</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v22/persons#p_RHA_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve11p1/persons#p_RHA_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve11p2/persons#p_RHA_1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Hewson A. Ryan</name>
+                <source-url>https://history.state.gov/departmenthistory/people/ryan-hewson-anthony</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1922</birth-year>
+    <death-year>1991</death-year>
+    <remarks variants="4">
+        <remark source-urls="1">
+            <p>Foreign Service Officer. Ambassador Extraordinary and Plenipotentiary (Honduras).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/ryan-hewson-anthony</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Ambassador to Honduras until May 30, 1973; Information Career Minister, USIA, detailed to the Fletcher School for Law and Diplomacy, Tufts University, from July 1973 until March 1975; Senior Deputy Assistant Secretary, Bureau of Inter-American Affairs, from March 1975</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v22/persons#p_RHA_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>U.S. Ambassador to Honduras from November 5, 1969, until May 30, 1973; Information Career Minister, United States Information Agency, detailed to the Fletcher School for Law and Diplomacy, Tufts University, from July 1973 until March 1975; Senior Deputy Assistant Secretary, Bureau of Inter-American Affairs, Department of State, from March 1975</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve11p1/persons#p_RHA_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>U.S. Ambassador to Honduras until May 30, 1973; Information Career Minister, U.S. Information Agency; Fletcher School for Law and Diplomacy, Tufts University, from July 1973 until March 1975; Senior Deputy Assistant Secretary, Bureau of Inter-American Affairs, Department of State, from March 1975</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve11p2/persons#p_RHA_1</source-url>
+        </remark>
+    </remarks>
+</person>

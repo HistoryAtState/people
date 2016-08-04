@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>106365</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Idris I</name>
+        </preferred>
+        <alternates/>
+        <originals variants="6">
+            <original source-urls="3">
+                <name>Idris I</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v05/persons#p_ISH1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v18/persons#p_II1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v36/persons#p_II1</source-url>
+            </original>
+            <original source-urls="2">
+                <name>Al-Sanussi, Sayyid Idris (Sayyid Muhammad Idris al-Sanussi)</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v11p1/persons#p_ASSI1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v11p2/persons#p_ASSI1</source-url>
+            </original>
+            <original source-urls="2">
+                <name>Idris I.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v11p1/persons#p_II1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v11p2/persons#p_II1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Idris Al-Sanusi, Muhammad</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v24/persons#p_IASM1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Idris</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v34/persons#p_IASM1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Idris I al-Senussi</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve05p2/persons#p_IIS1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="5">
+        <remark source-urls="1">
+            <p>King of Libya, from December 24, 1951.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1951v05/persons#p_ISH1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>King Idris I of Libya.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v11p1/persons#p_ASSI1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v11p2/persons#p_ASSI1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>King of Libya. See al-Sanussi.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v11p1/persons#p_II1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v11p2/persons#p_II1</source-url>
+        </remark>
+        <remark source-urls="3">
+            <p>King of Libya</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v18/persons#p_II1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v24/persons#p_IASM1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v34/persons#p_IASM1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>King of Libya until September 1969</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v36/persons#p_II1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve05p2/persons#p_IIS1</source-url>
+        </remark>
+    </remarks>
+</person>

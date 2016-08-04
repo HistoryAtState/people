@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>114088</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Vinogradov, Sergei Aleksandrovich</name>
+        </preferred>
+        <alternates/>
+        <originals variants="5">
+            <original source-urls="1">
+                <name>Vinogradov, Sergei Alexandrovich</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1943CairoTehran/persons#p_VSA1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Vinogradov, Sergey Alexandrovich</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv01/persons#p_VSA1</source-url>
+            </original>
+            <original source-urls="3">
+                <name>Vinogradov, Sergei Aleksandrovich</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv02/persons#p_VSA1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v05/persons#p_VSA1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v09/persons#p_VSA1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Vinogradov, S. A.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v16/persons#p_VSA1</source-url>
+            </original>
+            <original source-urls="3">
+                <name>Vinogradov, Sergei</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v16/persons#p_VS_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v25/persons#p_VS_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v26/persons#p_VS_1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="7">
+        <remark source-urls="1">
+            <p>Soviet Ambassador in Turkey.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1943CairoTehran/persons#p_VSA1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Soviet Ambassador to Turkey.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv01/persons#p_VSA1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv02/persons#p_VSA1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Soviet Ambassador in France; Member of the Soviet Delegation at the Geneva Conference.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v16/persons#p_VSA1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Soviet Ambassador to France</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v05/persons#p_VSA1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v09/persons#p_VSA1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Chief of the Soviet Delegation to the Geneva Peace Conference on the Middle East</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v16/persons#p_VS_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Soviet Ambassador to Egypt; Soviet Representative to the Geneva Middle East Peace Conference, December 1973</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v25/persons#p_VS_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Soviet Ambassador to Egypt; Soviet Representative to the Geneva Middle East Peace Conference from December 1973 until January 1974</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v26/persons#p_VS_1</source-url>
+        </remark>
+    </remarks>
+</person>

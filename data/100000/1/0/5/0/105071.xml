@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>105071</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Gottwald, Klement</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="4">
+                <name>Gottwald, Klement</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1947v02/persons#p_GK1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v04p1/persons#p_GK1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v04p2/persons#p_GK1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v08/persons#p_GK1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="3">
+        <remark source-urls="1">
+            <p>Czechoslovak Prime Minister</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1947v02/persons#p_GK1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>President of the Czechoslovak Republic; Chairman of the Czechoslovak Communist Party</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1951v04p1/persons#p_GK1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1951v04p2/persons#p_GK1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Chairman of the Czechoslovak Communist Party, 1945–1953; President of Czechoslovakia, 1948–1953; died March 1953.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v08/persons#p_GK1</source-url>
+        </remark>
+    </remarks>
+</person>

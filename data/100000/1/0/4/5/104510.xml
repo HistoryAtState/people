@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>104510</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Frankel, Charles</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="2">
+                <name>Frankel, Charles</name>
+                <source-url>https://history.state.gov/departmenthistory/people/frankel-charles</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v30/persons#p_FC_1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1917</birth-year>
+    <death-year>1979</death-year>
+    <remarks variants="2">
+        <remark source-urls="1">
+            <p>Non-career appointee. Assistant Secretary of State for Educational and Cultural Affairs.</p>
+            <source-url>https://history.state.gov/departmenthistory/people/frankel-charles</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Assistant Secretary of State for Educational and Cultural Affairs from September 15, 1965, until December 31, 1967; Professor of Philosophy, Columbia University and Director, National Humanities Center, until 1979</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v30/persons#p_FC_1</source-url>
+        </remark>
+    </remarks>
+</person>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>106038</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Hollings, Ernest F. (Fritz)</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="1">
+                <name>Hollings, Ernest</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v06/persons#p_HE1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Hollings, Ernest F.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v35/persons#p_HEF_1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Hollings, Ernest F. (Fritz)</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v13/persons#p_HEF_1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="3">
+        <remark source-urls="1">
+            <p>Senator (Democrat-South Carolina)</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v06/persons#p_HE1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Senator (D-South Carolina)</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v35/persons#p_HEF_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Senator (D–South Carolina) from November 9, 1966 until January 3, 2005</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v13/persons#p_HEF_1</source-url>
+        </remark>
+    </remarks>
+</person>

@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>114864</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Yamani, Ahmad Zaki</name>
+        </preferred>
+        <alternates/>
+        <originals variants="6">
+            <original source-urls="3">
+                <name>Yamani, Sheikh Ahmad Zaki</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v17/persons#p_YAZ1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v18/persons#p_YAZ1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v37/persons#p_YSAZ_1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Yamani, Sheikh Ahmed Zaki</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v18/persons#p_YAZ1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Yamani, Ahmed Zaki</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v19/persons#p_YAZ1</source-url>
+            </original>
+            <original source-urls="5">
+                <name>Yamani, Ahmad Zaki</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v34/persons#p_YAZ1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v25/persons#p_YAZ_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v27/persons#p_YAZ_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v36/persons#p_YAZ1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v18/persons#p_YAZ_1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Yamani, Shaikh Ahmad Zaki</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v24/persons#p_YAZ1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Yamani, Ahmed Z.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v26/persons#p_YAZ_1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="2">
+            <title source-urls="4">
+                <name>Sheikh</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v17/persons#p_YAZ1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v18/persons#p_YAZ1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v18/persons#p_YAZ1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v37/persons#p_YSAZ_1</source-url>
+            </title>
+            <title source-urls="1">
+                <name>Shaikh</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v24/persons#p_YAZ1</source-url>
+            </title>
+        </titles-from-name>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="7">
+        <remark source-urls="2">
+            <p>Saudi Petroleum Minister from October 31, 1962</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v17/persons#p_YAZ1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v18/persons#p_YAZ1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Saudi Arabian Minister of Oil and Mineral Wealth; Secretary General, Organization of Arab Petroleum Exporting Countries (OAPEC) from 1968</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v18/persons#p_YAZ1</source-url>
+        </remark>
+        <remark source-urls="4">
+            <p>Saudi Minister of Petroleum and Mineral Resources</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v19/persons#p_YAZ1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v34/persons#p_YAZ1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v27/persons#p_YAZ_1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v37/persons#p_YSAZ_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Saudi Minister of Petroleum</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v24/persons#p_YAZ1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Saudi Petroleum Minister</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v25/persons#p_YAZ_1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v36/persons#p_YAZ1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Saudi Oil Minister</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v26/persons#p_YAZ_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Saudi Minister of Oil</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v18/persons#p_YAZ_1</source-url>
+        </remark>
+    </remarks>
+</person>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>110920</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Prado y Ugarteche, Manuel</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="2">
+                <name>Prado Ugarteche, Manuel</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v06/persons#p_PUM1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v07/persons#p_PUM1</source-url>
+            </original>
+            <original source-urls="3">
+                <name>Prado y Ugarteche, Manuel</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v05/persons#p_PUM1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v09/persons#p_PUM1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v12/persons#p_PUM1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>President Prado</name>
+                <source-url>https://history.state.gov/departmenthistory/visits/peru</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="4">
+        <remark source-urls="2">
+            <p>President of Peru from July 28, 1956</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v06/persons#p_PUM1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v07/persons#p_PUM1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>President of Peru</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v05/persons#p_PUM1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>President of Peru until July 18, 1962</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v09/persons#p_PUM1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v12/persons#p_PUM1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>President, Peru. Visited U.S. 2 times, 1942–1961</p>
+            <source-url>https://history.state.gov/departmenthistory/visits/peru</source-url>
+        </remark>
+    </remarks>
+</person>

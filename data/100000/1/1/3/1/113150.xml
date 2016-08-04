@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>113150</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Suddarth, Roscoe Seldon</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="1">
+                <name>Suddarth, Roscoe</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve05p2/persons#p_SR1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Suddarth, Roscoe Seldon</name>
+                <source-url>https://history.state.gov/departmenthistory/people/suddarth-roscoe-seldon</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1935</birth-year>
+    <death-year>2013</death-year>
+    <remarks variants="2">
+        <remark source-urls="1">
+            <p>Country Director for Libya, Department of State</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve05p2/persons#p_SR1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Foreign Service Officer. Ambassador Extraordinary and Plenipotentiary (Jordan).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/suddarth-roscoe-seldon</source-url>
+        </remark>
+    </remarks>
+</person>

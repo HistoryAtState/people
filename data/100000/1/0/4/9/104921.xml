@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>104921</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Givan, Walker</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="3">
+                <name>Givan, Walker</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v02/persons#p_GW1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v03/persons#p_GW1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v12/persons#p_GW1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="2">
+        <remark source-urls="2">
+            <p>Officer in Charge, Italian Affairs, Bureau of European Affairs, Department of State</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v02/persons#p_GW1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v03/persons#p_GW1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Officer in Charge of Italian Affairs, Bureau of European Affairs, Department of State, until June 1966</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v12/persons#p_GW1</source-url>
+        </remark>
+    </remarks>
+</person>

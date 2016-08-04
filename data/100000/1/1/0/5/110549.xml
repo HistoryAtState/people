@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>110549</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Perez, Frank</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="2">
+                <name>Perez, Frank</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v32/persons#p_PF1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v39/persons#p_PF3</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="2">
+        <remark source-urls="1">
+            <p>Bureau of Intelligence and Research, Department of State</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v32/persons#p_PF1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Deputy Director of the Office of Strategic and General Research, Department of State until April 1970; Director of the Office of Strategic and General Research, Department of State from February 1970 to 1971</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v39/persons#p_PF3</source-url>
+        </remark>
+    </remarks>
+</person>

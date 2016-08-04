@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>110473</id>
+    <authorities>
+        <authority service="viaf">118579781</authority>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Paz Estenssoro, Victor</name>
+        </preferred>
+        <alternates/>
+        <originals variants="4">
+            <original source-urls="3">
+                <name>Paz Estenssoro, Victor</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v04/persons#p_PEV1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v05/persons#p_PEV1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v31/persons#p_PEV1</source-url>
+            </original>
+            <original source-urls="2">
+                <name>Paz Estenssoro, Víctor</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v06/persons#p_PEV1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v07/persons#p_PEV1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Paz Estensorro, Víctor</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve10/persons#p_PEV1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>President Paz-Estenssoro</name>
+                <source-url>https://history.state.gov/departmenthistory/visits/bolivia</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="6">
+        <remark source-urls="1">
+            <p>President of Bolivia from April 16, 1952 until August 6, 1956.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v04/persons#p_PEV1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>President of Bolivia until August 6, 1956</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v06/persons#p_PEV1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v07/persons#p_PEV1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Bolivian Ambassador to the United Kingdom until 1960; President of Bolivia from August 6, 1960</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v05/persons#p_PEV1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>President of Bolivia until November 4, 1964</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v31/persons#p_PEV1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>former Bolivian President and leader of the Movimiento Revolucionario Nacionalista</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve10/persons#p_PEV1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>President, Bolivia. Visited U.S. once, 1963</p>
+            <source-url>https://history.state.gov/departmenthistory/visits/bolivia</source-url>
+        </remark>
+    </remarks>
+</person>

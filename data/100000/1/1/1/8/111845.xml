@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>111845</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Salinger, Pierre E.G.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="10">
+                <name>Salinger, Pierre</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v01/persons#p_SP1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v02/persons#p_SPEG1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v03/persons#p_SP1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v05/persons#p_SP1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v06/persons#p_SPEG1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v17/persons#p_SPEG1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v18/persons#p_SPEG1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v25/persons#p_SPEG1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v02/persons#p_SP1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v03/persons#p_SP1</source-url>
+            </original>
+            <original source-urls="2">
+                <name>Salinger, Pierre E. G.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v04/persons#p_SPEG1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v31/persons#p_SPEG1</source-url>
+            </original>
+            <original source-urls="3">
+                <name>Salinger, Pierre E.G.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v08/persons#p_SPEG1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v14/persons#p_SPEG1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v15/persons#p_SPEG1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="7">
+        <remark source-urls="8">
+            <p>President's Press Secretary</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v01/persons#p_SP1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v02/persons#p_SPEG1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v03/persons#p_SP1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v04/persons#p_SPEG1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v05/persons#p_SP1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v06/persons#p_SPEG1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v15/persons#p_SPEG1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v18/persons#p_SPEG1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>President's Press Secretary from January 1961</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v08/persons#p_SPEG1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>the President's Press Secretary</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v14/persons#p_SPEG1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>President’s Press Secretary</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v17/persons#p_SPEG1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Press Secretary to the President</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v25/persons#p_SPEG1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Press Secretary to President Kennedy</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v02/persons#p_SP1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v03/persons#p_SP1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Special Assistant and Press Secretary to the President until March 1964</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v31/persons#p_SPEG1</source-url>
+        </remark>
+    </remarks>
+</person>

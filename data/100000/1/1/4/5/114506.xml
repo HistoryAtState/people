@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>114506</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>White, Katharine (Elkus)</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="1">
+                <name>White, Katharine Elkus</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v12/persons#p_WKE1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>White, Katharine (Elkus)</name>
+                <source-url>https://history.state.gov/departmenthistory/people/white-katharine-elkus</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Katharine Elkus White</name>
+                <source-url>https://history.state.gov/departmenthistory/people/white-katharine-elkus</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1906</birth-year>
+    <death-year>1985</death-year>
+    <remarks variants="2">
+        <remark source-urls="1">
+            <p>Ambassador to Denmark, April 1964-September 1968</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v12/persons#p_WKE1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Non-career appointee. Ambassador Extraordinary and Plenipotentiary (Denmark).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/white-katharine-elkus</source-url>
+        </remark>
+    </remarks>
+</person>

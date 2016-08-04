@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>101018</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Baunsgaard, Hilmar T. I.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="1">
+                <name>Baunsgaard, Hilmar</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v41/persons#p_BH_1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Prime Minister Hilmar T. I. Baunsgaard</name>
+                <source-url>https://history.state.gov/departmenthistory/visits/denmark</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="2">
+        <remark source-urls="1">
+            <p>Danish Prime Minister from February 15, 1968, until October 9, 1971</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v41/persons#p_BH_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Prime Minister, Denmark. Visited U.S. 2 times, 1970</p>
+            <source-url>https://history.state.gov/departmenthistory/visits/denmark</source-url>
+        </remark>
+    </remarks>
+</person>

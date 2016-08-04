@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>109090</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Meyer, Cord, Jr.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="4">
+                <name>Meyer, Cord</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1950-55Intel/persons#p_MCJ1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v02/persons#p_MCJ1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v07/persons#p_MC2</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v19p1/persons#p_MC1</source-url>
+            </original>
+            <original source-urls="7">
+                <name>Meyer, Cord, Jr.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v31/persons#p_MCJ1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v21/persons#p_MCJ_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v29/persons#p_MCJ1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v40/persons#p_MCJ1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve05p2/persons#p_MCJ1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v02/persons#p_MCJ_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v30/persons#p_MCJ_1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Meyer, Cord Jr.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve04/persons#p_MCJ1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="8">
+        <remark source-urls="1">
+            <p>International Organizations Division, Central Intelligence Agency from 1951 to 1954; Director, International Organizations Division from 1954</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1950-55Intel/persons#p_MCJ1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Chief, Covert Action Staff, Directorate of Plans, Central Intelligence Agency, until July 1967; thereafter Assistant Deputy Director for Plans</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v31/persons#p_MCJ1</source-url>
+        </remark>
+        <remark source-urls="4">
+            <p>Assistant Deputy Director for Plans, Central Intelligence Agency</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v02/persons#p_MCJ1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v07/persons#p_MC2</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v29/persons#p_MCJ1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v40/persons#p_MCJ1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Deputy Director for Plans, Central Intelligence Agency</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v19p1/persons#p_MC1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Assistant Deputy Director for Plans, Central Intelligence Agency, from 1969</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v21/persons#p_MCJ_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Associate Deputy Director for Operations, Central Intelligence Agency</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve04/persons#p_MCJ1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Acting Deputy Director for Plans, Central Intelligence Agency, 1971</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve05p2/persons#p_MCJ1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Special Assistant to the Deputy Director for Central Intelligence</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v02/persons#p_MCJ_1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v30/persons#p_MCJ_1</source-url>
+        </remark>
+    </remarks>
+</person>

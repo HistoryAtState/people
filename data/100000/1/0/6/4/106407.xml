@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>106407</id>
+    <authorities>
+        <authority service="viaf">71565655</authority>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Inonu, Ismet</name>
+        </preferred>
+        <alternates/>
+        <originals variants="4">
+            <original source-urls="1">
+                <name>Prime Minister Inonu</name>
+                <source-url>https://history.state.gov/departmenthistory/visits/turkey</source-url>
+            </original>
+            <original source-urls="3">
+                <name>Inönü, Ismet</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1943CairoTehran/persons#p_II1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv01/persons#p_II2</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945Malta/persons#p_II1</source-url>
+            </original>
+            <original source-urls="5">
+                <name>Inonu, Ismet</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v10p1/persons#p_II1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v10p2/persons#p_II1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v16/persons#p_II1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v16/persons#p_II1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v29/persons#p_II1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Inonu, General Ismet</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v33/persons#p_II2</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="1">
+            <title source-urls="1">
+                <name>General</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v33/persons#p_II2</source-url>
+            </title>
+        </titles-from-name>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="7">
+        <remark source-urls="1">
+            <p>Prime Minister, Turkey. Visited U.S. 2 times, 1963–1964</p>
+            <source-url>https://history.state.gov/departmenthistory/visits/turkey</source-url>
+        </remark>
+        <remark source-urls="3">
+            <p>President of Turkey.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1943CairoTehran/persons#p_II1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv01/persons#p_II2</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1945Malta/persons#p_II1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>former President and Prime Minister of Turkey</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v10p1/persons#p_II1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v10p2/persons#p_II1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Turkish Prime Minister from October 1961</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v16/persons#p_II1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Turkish Prime Minister to February 1965</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v16/persons#p_II1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Prime Minister of Turkey until February 1965</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v33/persons#p_II2</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>former Turkish Prime Minister; also President of the (Turkish) Republican People's Party until May 1972</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v29/persons#p_II1</source-url>
+        </remark>
+    </remarks>
+</person>

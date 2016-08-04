@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>106382</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Iliff, William A.B.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="1">
+                <name>Iliff, William A. B.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1943CairoTehran/persons#p_IWAB1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Iliff, Sir William A.B.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v15/persons#p_ISWAB1</source-url>
+            </original>
+            <original source-urls="2">
+                <name>Iliff, Sir William</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v17/persons#p_ISWAB1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v18/persons#p_ISWAB1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="1">
+            <title source-urls="3">
+                <name>Sir</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v15/persons#p_ISWAB1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v17/persons#p_ISWAB1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v18/persons#p_ISWAB1</source-url>
+            </title>
+        </titles-from-name>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="4">
+        <remark source-urls="1">
+            <p>Major, Financial Counsellor, British Legation in Iran; member of the British Delegation to the Moscow Conference of Foreign Ministers.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1943CairoTehran/persons#p_IWAB1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Vice President, International Bank for Reconstruction and Development</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v15/persons#p_ISWAB1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>International Bank for Reconstruction and Development official</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v17/persons#p_ISWAB1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>International Bank for Reconstruction and Development; international banker</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v18/persons#p_ISWAB1</source-url>
+        </remark>
+    </remarks>
+</person>

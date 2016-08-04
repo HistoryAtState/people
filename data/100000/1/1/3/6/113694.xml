@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>113694</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Tran Le Xuan</name>
+        </preferred>
+        <alternates>
+            <name>Ngo Dinh Nhu, Madame</name>
+        </alternates>
+        <originals variants="6">
+            <original source-urls="3">
+                <name>Nhu, Madame</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v01/persons#p_NM1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v03/persons#p_NM1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v04/persons#p_NM1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Tran Le Xuan (Madame Ngo Dinh Nhu)</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v01/persons#p_TLX1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Ngo Dinh Nhu</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v01/persons#p_NDN2</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Ngo Dinh Nhu, Madame</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v02/persons#p_TLX1</source-url>
+            </original>
+            <original source-urls="2">
+                <name>Ngo Dinh Nhu, Madame (Tran Le Xuan)</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v03/persons#p_NDNM1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v04/persons#p_NDNM1</source-url>
+            </original>
+            <original source-urls="2">
+                <name>Tran Le Xuan</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v03/persons#p_TLX1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v04/persons#p_TLX1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="6">
+        <remark source-urls="1">
+            <p>see Tran Le Xuan</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v01/persons#p_NM1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>wife of Ngo Dinh Nhu, official hostess for President Diem; founder of Women’s Solidarity Movement, Republic of Vietnam</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v01/persons#p_TLX1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Madame, sister-in-law of President Diem and official hostess for the President; daughter of Tran Van Chuong</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v01/persons#p_NDN2</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Ngo Dinh Nhu 's wife and official hostess for President Diem; daughter of Tran Van Chuong</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v02/persons#p_TLX1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>wife of Ngo Dinh Nhu and member of the Vietnamese National Assembly; official hostess for President Diem</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v03/persons#p_NDNM1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v04/persons#p_NDNM1</source-url>
+        </remark>
+        <remark source-urls="4">
+            <p>see Ngo Dinh Nhu, Madame</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v03/persons#p_NM1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v03/persons#p_TLX1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v04/persons#p_NM1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v04/persons#p_TLX1</source-url>
+        </remark>
+    </remarks>
+</person>

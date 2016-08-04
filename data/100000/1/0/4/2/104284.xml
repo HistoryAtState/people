@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>104284</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Fippin, William H.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="1">
+                <name>Fippin, William H.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v02/persons#p_FWH1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="1">
+        <remark source-urls="1">
+            <p>Agricultural Officer at the Operations Mission in Vietnam until February 25, 1962; Assistant Director for Rural Affairs, February 25-October 10, 1962; thereafter Deputy Director of the Operations Mission</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v02/persons#p_FWH1</source-url>
+        </remark>
+    </remarks>
+</person>

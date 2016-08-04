@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>109937</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Notter, Harley A.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="2">
+                <name>Notter, Harley A.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945Malta/persons#p_NHA1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945v01/persons#p_NHA1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="2">
+        <remark source-urls="1">
+            <p>Chief, Division of International Security and Organization, Department of State, January-October 1944; Adviser, Office of Special Political Affairs, Department of State, November 1944–January 1948.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1945Malta/persons#p_NHA1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Adviser, Office of Special Political Affairs; Adviser, United States Delegation.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1945v01/persons#p_NHA1</source-url>
+        </remark>
+    </remarks>
+</person>

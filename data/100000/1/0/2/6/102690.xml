@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>102690</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Cochrane, James</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="2">
+                <name>Cochrane, James</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v37/persons#p_CJ_4</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v13/persons#p_CJ_1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="2">
+        <remark source-urls="1">
+            <p>Member of the National Security Council Staff</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v37/persons#p_CJ_4</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>member, National Security Council Staff for International Economics from 1978 until 1979</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v13/persons#p_CJ_1</source-url>
+        </remark>
+    </remarks>
+</person>

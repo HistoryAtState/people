@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>105916</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Hill, Christopher Robert</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="1">
+                <name>Hill, Christopher Robert</name>
+                <source-url>https://history.state.gov/departmenthistory/people/hill-christopher-robert</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Christopher R. Hill</name>
+                <source-url>https://history.state.gov/departmenthistory/people/hill-christopher-robert</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1952</birth-year>
+    <death-year/>
+    <remarks variants="1">
+        <remark source-urls="1">
+            <p>Foreign Service Officer. Assistant Secretary of State for East Asian and Pacific Affairs; Ambassador Extraordinary and Plenipotentiary (Poland); Ambassador Extraordinary and Plenipotentiary (Macedonia); Ambassador Extraordinary and Plenipotentiary (Korea); Ambassador Extraordinary and Plenipotentiary (Iraq); Chargé d'Affaires ad interim (Albania).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/hill-christopher-robert</source-url>
+        </remark>
+    </remarks>
+</person>

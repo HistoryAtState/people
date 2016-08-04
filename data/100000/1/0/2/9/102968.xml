@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>102968</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Crawford, William Avery</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="8">
+                <name>Crawford, William A.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v05p1/persons#p_CRAWFORDWA1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v05p2/persons#p_CRAWFORDWA1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v06p1/persons#p_CRAWFORDWA1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v06p2/persons#p_CRAWFORDWA1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v26/persons#p_CWA1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v16/persons#p_CWA1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v17/persons#p_CWA1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v29/persons#p_CWA1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Crawford, William Avery</name>
+                <source-url>https://history.state.gov/departmenthistory/people/crawford-william-avery</source-url>
+            </original>
+            <original source-urls="1">
+                <name>William A. Crawford</name>
+                <source-url>https://history.state.gov/departmenthistory/people/crawford-william-avery</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1915</birth-year>
+    <death-year>2001</death-year>
+    <remarks variants="7">
+        <remark source-urls="2">
+            <p>First Secretary of the Embassy in France, February 1952–August 1954.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v05p1/persons#p_CRAWFORDWA1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v05p2/persons#p_CRAWFORDWA1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>First Secretary of the Embassy in France, February 21, 1952–August 4, 1954.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v06p1/persons#p_CRAWFORDWA1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v06p2/persons#p_CRAWFORDWA1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Deputy Director of the Office of Eastern European Affairs, Department of State</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v26/persons#p_CWA1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Special Assistant for International Affairs to the Supreme Allied Commander, Europe, October 1965–April 1967</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v16/persons#p_CWA1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Minister to Romania to December 1964; thereafter Ambassador to Romania to October 1965</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v17/persons#p_CWA1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Deputy Chief of Mission, American Embassy in Cyprus until October 1972</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v29/persons#p_CWA1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Foreign Service Officer. Envoy Extraordinary and Minister Plenipotentiary (Romania).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/crawford-william-avery</source-url>
+        </remark>
+    </remarks>
+</person>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>102496</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Childs, James Rives</name>
+        </preferred>
+        <alternates/>
+        <originals variants="4">
+            <original source-urls="3">
+                <name>Childs, James Rives</name>
+                <source-url>https://history.state.gov/departmenthistory/people/childs-james-rives</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv02/persons#p_CJR1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v05/persons#p_CJR1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>J. Rives Childs</name>
+                <source-url>https://history.state.gov/departmenthistory/people/childs-james-rives</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Childs, J. Rives</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv01/persons#p_CJR1</source-url>
+            </original>
+            <original source-urls="2">
+                <name>Childs, J. Rives,</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v11p1/persons#p_CJR1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v11p2/persons#p_CJR1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1893</birth-year>
+    <death-year>1987</death-year>
+    <remarks variants="4">
+        <remark source-urls="1">
+            <p>Foreign Service Officer. Envoy Extraordinary and Minister Plenipotentiary (Yemen); Envoy Extraordinary and Minister Plenipotentiary (Saudi Arabia); Ambassador Extraordinary and Plenipotentiary (Saudi Arabia); Chargé d'Affaires ad interim (Morocco); Ambassador Extraordinary and Plenipotentiary (Ethiopia).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/childs-james-rives</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>United States Representative, Paris Conversations Concerning Tangier.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv01/persons#p_CJR1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv02/persons#p_CJR1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Ambassador to Ethiopia, from May 14, 1951.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1951v05/persons#p_CJR1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Ambassador to Ethiopia until January 19, 1953.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v11p1/persons#p_CJR1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v11p2/persons#p_CJR1</source-url>
+        </remark>
+    </remarks>
+</person>

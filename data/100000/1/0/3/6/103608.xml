@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>103608</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Doty, Paul M.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="1">
+                <name>Doty, Paul, M.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v32/persons#p_DPM1</source-url>
+            </original>
+            <original source-urls="2">
+                <name>Doty, Paul</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve02/persons#p_DP1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v01/persons#p_DP_1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="3">
+        <remark source-urls="1">
+            <p>Ph.D., Professor of Biochemistry, Harvard University, Consultant on Arms Control to the U.S. Government</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v32/persons#p_DPM1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Professor of Biochemistry at Harvard University and Government Arms Control Consultant</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve02/persons#p_DP1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>biochemist; founder, Harvard University Center for Science and International Affairs</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v01/persons#p_DP_1</source-url>
+        </remark>
+    </remarks>
+</person>

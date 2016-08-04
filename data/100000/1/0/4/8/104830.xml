@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>104830</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Gerrety, Joseph M.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="2">
+                <name>Gerrety, Joseph M.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v02p1/persons#p_GERRETYJM1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v02p2/persons#p_GERRETYJM1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="1">
+        <remark source-urls="2">
+            <p>Head of the Executive Secretariat of the Psychological Operations Coordinating Committee, Office of Policy and Plans, United States International Information Administration, until June, 1953; Information Specialist, United States Information Agency after August 16, 1953.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v02p1/persons#p_GERRETYJM1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v02p2/persons#p_GERRETYJM1</source-url>
+        </remark>
+    </remarks>
+</person>

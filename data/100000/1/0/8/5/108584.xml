@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>108584</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Martin, William McChesney, Jr.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="4">
+            <original source-urls="2">
+                <name>Martin, William McC.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v06p1/persons#p_MARTINWMC1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v06p2/persons#p_MARTINWMC1</source-url>
+            </original>
+            <original source-urls="5">
+                <name>Martin, William McChesney, Jr.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v04/persons#p_MWMCJ1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v09/persons#p_MWMCJ1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v08/persons#p_MWMCJ1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v12/persons#p_MWMCJ1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v04/persons#p_MWMCJ1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Martin, William Mc.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v09/persons#p_MWM1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Martin, William McChesney</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v03/persons#p_MWMCJ1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="5">
+        <remark source-urls="2">
+            <p>Chairman of the Board of Governors of the Federal Reserve Board, and Member of the National Advisory Council.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v06p1/persons#p_MARTINWMC1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v06p2/persons#p_MARTINWMC1</source-url>
+        </remark>
+        <remark source-urls="3">
+            <p>Chairman of the Federal Reserve Board</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v04/persons#p_MWMCJ1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v09/persons#p_MWM1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v12/persons#p_MWMCJ1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Chairman of the Board of Governors, Federal Reserve System</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v09/persons#p_MWMCJ1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v08/persons#p_MWMCJ1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Jr., Chairman of the Federal Reserve Board until January 1970</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v03/persons#p_MWMCJ1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Chairman of the Federal Reserve Board until January 1970</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v04/persons#p_MWMCJ1</source-url>
+        </remark>
+    </remarks>
+</person>

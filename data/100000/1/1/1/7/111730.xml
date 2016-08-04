@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>111730</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Runyon, Theodore</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="1">
+                <name>Runyon, Theodore</name>
+                <source-url>https://history.state.gov/departmenthistory/people/runyon-theodore</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1822</birth-year>
+    <death-year>1896</death-year>
+    <remarks variants="1">
+        <remark source-urls="1">
+            <p>Non-career appointee. Envoy Extraordinary and Minister Plenipotentiary (Germany); Ambassador Extraordinary and Plenipotentiary (Germany).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/runyon-theodore</source-url>
+        </remark>
+    </remarks>
+</person>

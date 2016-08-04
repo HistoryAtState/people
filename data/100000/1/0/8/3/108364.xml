@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>108364</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Maillard, Pierre</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="2">
+                <name>Maillard, Pierre</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v09p1/persons#p_MP1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v09p2/persons#p_MP1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="1">
+        <remark source-urls="2">
+            <p>Secretary of Conferences, Central Administration, French Ministry of Foreign Affairs until January 1953; Deputy Director for the Saar, January 1953–January 1954; thereafter Deputy Director for Africa–Levant Affairs.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v09p1/persons#p_MP1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v09p2/persons#p_MP1</source-url>
+        </remark>
+    </remarks>
+</person>

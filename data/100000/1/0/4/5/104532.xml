@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>104532</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Frechtling, Louis E.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="6">
+                <name>Frechtling, Louis E.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v07p1/persons#p_FLE1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v07p2/persons#p_FLE1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v11p1/persons#p_FLE1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v11p2/persons#p_FLE1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v12/persons#p_FLE1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v01/persons#p_FLE1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Frechtling, Louise E.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v10/persons#p_FLE1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Frechtling, Louis</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v05/persons#p_FL1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="6">
+        <remark source-urls="2">
+            <p>Office of the Special Assistant to the Secretary of State for Mutual Security Affairs from June 1952.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v07p1/persons#p_FLE1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v07p2/persons#p_FLE1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Staff member, Office of the Special Assistant to the Secretary of State for Mutual Security Affairs, 1954.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v10/persons#p_FLE1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Office of the Special Assistant to the Secretary of State for Mutual Security Affairs from June 30, 1952.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v11p1/persons#p_FLE1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v11p2/persons#p_FLE1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Office of the Special Assistant for Mutual Security Affairs, Department of State</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v12/persons#p_FLE1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Special Assistant, Economic Programs, Office of Coordinator for Mutual Security, from September 1959</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v01/persons#p_FLE1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Director, Office of International Administration, Bureau of International Organization Affairs, Department of State</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v05/persons#p_FL1</source-url>
+        </remark>
+    </remarks>
+</person>

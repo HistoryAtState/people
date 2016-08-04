@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>102469</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Cherrière, Paul</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="1">
+                <name>Cherrière, Paul</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv02/persons#p_CBGPRP1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Cherrière, Général de Brigade Paul</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1947v02/persons#p_CDBP1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Cherrière, Major General Paul</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1948v02/persons#p_CMGP1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="2">
+            <title source-urls="1">
+                <name>Général de Brigade</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1947v02/persons#p_CDBP1</source-url>
+            </title>
+            <title source-urls="1">
+                <name>Major General</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1948v02/persons#p_CMGP1</source-url>
+            </title>
+        </titles-from-name>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="3">
+        <remark source-urls="1">
+            <p>French Member, Allied Control Commission for Austria.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv02/persons#p_CBGPRP1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>French Deputy High Commissioner for Austria; French Representative to the Austrian Treaty Commission, May–October 1947; Special Deputy for Austria, Council of Foreign Ministers</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1947v02/persons#p_CDBP1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>French Deputy High Commissioner in Austria and Representative to the Austrian Treaty Negotiations</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1948v02/persons#p_CMGP1</source-url>
+        </remark>
+    </remarks>
+</person>

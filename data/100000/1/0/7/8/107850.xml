@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>107850</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Leone, Giovanni</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="6">
+                <name>Leone, Giovanni</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v13/persons#p_LG1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v12/persons#p_LG2</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v41/persons#p_LG_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve14p1/persons#p_LG2</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve15p2/persons#p_LG_2</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v03/persons#p_LG_1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>President Giovanni Leone</name>
+                <source-url>https://history.state.gov/departmenthistory/visits/italy</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="7">
+        <remark source-urls="1">
+            <p>Prime Minister of Italy, July–December 1963</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v13/persons#p_LG1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Italian Prime Minister, June 25-November 19, 1968</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v12/persons#p_LG2</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Italian President from December 1971</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v41/persons#p_LG_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>President of the Italian Republic</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve14p1/persons#p_LG2</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>President of the Italian Republic from December 1971 until June 1978</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve15p2/persons#p_LG_2</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>President of Italy until June 1978</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v03/persons#p_LG_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>President, Italy. Visited U.S. once, 1974</p>
+            <source-url>https://history.state.gov/departmenthistory/visits/italy</source-url>
+        </remark>
+    </remarks>
+</person>

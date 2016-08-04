@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>110115</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Orfila, Alejandro</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="3">
+                <name>Orfila, Alejandro</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve11p1/persons#p_OAJL_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve11p2/persons#p_OAJL_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v02/persons#p_OA_1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="3">
+        <remark source-urls="1">
+            <p>Argentine Ambassador to the United States, from November 1973 until May 1975; Secretary General, Organization of American States, from May 17, 1975</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve11p1/persons#p_OAJL_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Argentine Ambassador to the United States from November 1973 until May 1975; Secretary General, Organization of American States, from May 17, 1975</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve11p2/persons#p_OAJL_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Secretary-General, Organization of American States</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v02/persons#p_OA_1</source-url>
+        </remark>
+    </remarks>
+</person>

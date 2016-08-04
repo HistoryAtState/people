@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>101632</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Bowker, Reginald James</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="3">
+                <name>Bowker, Reginald James</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv01/persons#p_BRJ1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv02/persons#p_BRJ1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v05/persons#p_BRJ1</source-url>
+            </original>
+            <original source-urls="3">
+                <name>Bowker, Sir Reginald James</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v03p1/persons#p_BRJ1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v03p2/persons#p_BRJ1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v10p2/persons#p_BSRJ1</source-url>
+            </original>
+            <original source-urls="3">
+                <name>Bowker, Sir Reginald J.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v09p1/persons#p_BSRJ1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v09p2/persons#p_BSRJ1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v10p1/persons#p_BSRJ1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="1">
+            <title source-urls="6">
+                <name>Sir</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v03p1/persons#p_BRJ1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v03p2/persons#p_BRJ1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v09p1/persons#p_BSRJ1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v09p2/persons#p_BSRJ1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v10p1/persons#p_BSRJ1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v10p2/persons#p_BSRJ1</source-url>
+            </title>
+        </titles-from-name>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="6">
+        <remark source-urls="2">
+            <p>British Chargé d’Affaires ad interim in Spain.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv01/persons#p_BRJ1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv02/persons#p_BRJ1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Assistant Under-Secretary of State, British Foreign Office.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1951v03p1/persons#p_BRJ1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1951v03p2/persons#p_BRJ1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Superintending Under Secretary of State of the Eastern Department, British Foreign Office.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1951v05/persons#p_BRJ1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>British Assistant Under Secretary of State until January 13, 1954; thereafter Ambassador to Turkey.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v09p1/persons#p_BSRJ1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v09p2/persons#p_BSRJ1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>British Ambassador in Turkey until May 1958</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v10p1/persons#p_BSRJ1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>British Ambassador to Turkey until May 1958</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v10p2/persons#p_BSRJ1</source-url>
+        </remark>
+    </remarks>
+</person>

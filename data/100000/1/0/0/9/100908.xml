@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>100908</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Barney, Gerald O.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="1">
+                <name>Barney, Gerald O.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v02/persons#p_BGO_1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="1">
+        <remark source-urls="1">
+            <p>physicist; Study Director, Global 2000 Report</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v02/persons#p_BGO_1</source-url>
+        </remark>
+    </remarks>
+</person>

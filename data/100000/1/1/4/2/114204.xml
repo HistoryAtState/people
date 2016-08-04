@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>114204</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Walker, Lannon</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="4">
+                <name>Walker, Lannon</name>
+                <source-url>https://history.state.gov/departmenthistory/people/walker-lannon</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve06/persons#p_WL4</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v02/persons#p_WL_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v30/persons#p_WL_1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1936</birth-year>
+    <death-year/>
+    <remarks variants="3">
+        <remark source-urls="1">
+            <p>Foreign Service Officer. Ambassador Extraordinary and Plenipotentiary (Senegal); Ambassador Extraordinary and Plenipotentiary (Nigeria); Ambassador Extraordinary and Plenipotentiary (Côte d’Ivoire).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/walker-lannon</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Chargé d'Affaires in the Embassy in Uganda</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve06/persons#p_WL4</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Deputy Assistant Secretary of State for African Affairs</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v02/persons#p_WL_1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v30/persons#p_WL_1</source-url>
+        </remark>
+    </remarks>
+</person>

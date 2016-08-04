@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>113370</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Tarbé de Saint-Hardouin, Jacques</name>
+        </preferred>
+        <alternates/>
+        <originals variants="5">
+            <original source-urls="1">
+                <name>Saint Hardouin</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1947v02/persons#p_SH1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Tarbé de Saint Hardouin, Jacques</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1947v02/persons#p_TSHJ1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>St. Hardouin</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1948v02/persons#p_SH1</source-url>
+            </original>
+            <original source-urls="3">
+                <name>Tarbé de Saint-Hardouin, Jacques</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1948v02/persons#p_TDSHJ1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1949v03/persons#p_TSHJ1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v05/persons#p_SJT1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Saint-Hardouin.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1949v03/persons#p_SH1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="7">
+        <remark source-urls="1">
+            <p>see Tarbé de Saint Hardouin</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1947v02/persons#p_SH1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Political Adviser to the French Commander in Chief in Germany</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1947v02/persons#p_TSHJ1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>see Tarbé de Saint-Hardouin</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1948v02/persons#p_SH1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Political Adviser to the French Commander in Chief for Germany</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1948v02/persons#p_TDSHJ1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>See Tarbé de Saint-Hardouin.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1949v03/persons#p_SH1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Political Adviser to the French Commander-in-Chief for Germany.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1949v03/persons#p_TSHJ1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>French Representative on the Advisory Commission of the United Nations Relief and Works Agency for Palestine Refugees in the Near East.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1951v05/persons#p_SJT1</source-url>
+        </remark>
+    </remarks>
+</person>

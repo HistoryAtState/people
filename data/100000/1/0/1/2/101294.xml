@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>101294</id>
+    <authorities>
+        <authority service="viaf">110653311</authority>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Bhutto, Benazir</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="1">
+                <name>President Benazir Bhutto</name>
+                <source-url>https://history.state.gov/departmenthistory/visits/pakistan</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Prime Minister Benazir Bhutto</name>
+                <source-url>https://history.state.gov/departmenthistory/visits/pakistan</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="2">
+        <remark source-urls="1">
+            <p>President, Pakistan. Visited U.S. once, 1989</p>
+            <source-url>https://history.state.gov/departmenthistory/visits/pakistan</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Prime Minister, Pakistan. Visited U.S. once, 1995</p>
+            <source-url>https://history.state.gov/departmenthistory/visits/pakistan</source-url>
+        </remark>
+    </remarks>
+</person>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>111357</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Richardson, John, Jr.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="8">
+                <name>Richardson, John, Jr.</name>
+                <source-url>https://history.state.gov/departmenthistory/people/richardson-john</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v21/persons#p_RJJ_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v38p1/persons#p_RJJ_2</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v38p2/persons#p_RJ_2</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve14p1/persons#p_RJ9</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v02/persons#p_RJJ_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v13/persons#p_RJJ_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v30/persons#p_RJJ_1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1921</birth-year>
+    <death-year/>
+    <remarks variants="5">
+        <remark source-urls="1">
+            <p>Non-career appointee. Assistant Secretary of State for Educational and Cultural Affairs.</p>
+            <source-url>https://history.state.gov/departmenthistory/people/richardson-john</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Assistant Secretary of State for Educational and Cultural Affairs from July 1969; also Acting Secretary of State for Public Affairs from September 1971</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v21/persons#p_RJJ_1</source-url>
+        </remark>
+        <remark source-urls="3">
+            <p>Assistant Secretary of State for Educational and Cultural Affairs</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v38p1/persons#p_RJJ_2</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v38p2/persons#p_RJ_2</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve14p1/persons#p_RJ9</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Assistant Secretary of State for Educational and Cultural Affairs until March 7, 1977; thereafter President, Freedom House</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v02/persons#p_RJJ_1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v30/persons#p_RJJ_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Assistant Secretary of State for Educational and Cultural Affairs from July 15, 1969 until March 7, 1977; Center for Strategic and International Studies</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v13/persons#p_RJJ_1</source-url>
+        </remark>
+    </remarks>
+</person>

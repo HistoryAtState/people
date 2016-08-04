@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>110065</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Olenga, Nicholas</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="1">
+                <name>Olenga, Nicholas</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v23/persons#p_ONI_1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="1">
+        <remark source-urls="1">
+            <p>leader of the rebel forces that seized Stanleyville on August 5–6, 1964</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v23/persons#p_ONI_1</source-url>
+        </remark>
+    </remarks>
+</person>

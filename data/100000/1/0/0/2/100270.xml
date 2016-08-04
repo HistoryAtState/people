@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>100270</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Ali Sastroamidjojo</name>
+        </preferred>
+        <alternates/>
+        <originals variants="4">
+            <original source-urls="2">
+                <name>Sastroamidjojo, Dr. Ali</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v11p1/persons#p_SDA1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v11p2/persons#p_SDA1</source-url>
+            </original>
+            <original source-urls="4">
+                <name>Ali Sastroamidjojo</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v16/persons#p_AS1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v02/persons#p_AS1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v03/persons#p_AS1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v22/persons#p_AS1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Sastroamidjojo</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v16/persons#p_S21</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Sastroamidjojo, Ali</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v25/persons#p_SA11</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="1">
+            <title source-urls="2">
+                <name>Dr.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v11p1/persons#p_SDA1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v11p2/persons#p_SDA1</source-url>
+            </title>
+        </titles-from-name>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="6">
+        <remark source-urls="2">
+            <p>Indonesian Ambassador to the United States until July 1953; also Ambassador to Canada, March-July 1953; Prime Minister from July 30, 1953.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v11p1/persons#p_SDA1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v11p2/persons#p_SDA1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Prime Minister of Indonesia.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v16/persons#p_AS1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>See Ali Sastroamidjojo.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v16/persons#p_S21</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Prime Minister of Indonesia to July 1955, and again March 1956–March 1957</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v02/persons#p_AS1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v03/persons#p_AS1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Indonesian Prime Minister to August 1955 and March 1956–March 1957</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v22/persons#p_AS1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>former Permanent Representative of Indonesia at the United Nations, 1957–1960</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v25/persons#p_SA11</source-url>
+        </remark>
+    </remarks>
+</person>

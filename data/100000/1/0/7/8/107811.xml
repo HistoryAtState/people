@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>107811</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Lehr, Robert</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="3">
+                <name>Lehr, Dr. Robert</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1949v03/persons#p_LR1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v03p1/persons#p_LDR1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v03p2/persons#p_LDR1</source-url>
+            </original>
+            <original source-urls="2">
+                <name>Lehr, Robert</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v07p1/persons#p_LR1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v07p2/persons#p_LR1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="1">
+            <title source-urls="3">
+                <name>Dr.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1949v03/persons#p_LR1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v03p1/persons#p_LDR1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v03p2/persons#p_LDR1</source-url>
+            </title>
+        </titles-from-name>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="3">
+        <remark source-urls="1">
+            <p>Oberpraesident of Dusseldorf and member of the Bonn Parliamentary Council.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1949v03/persons#p_LR1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>German Federal Republic Minister of the Interior.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1951v03p1/persons#p_LDR1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1951v03p2/persons#p_LDR1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Minister of the Interior of the Federal Republic of Germany until September 1953.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v07p1/persons#p_LR1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v07p2/persons#p_LR1</source-url>
+        </remark>
+    </remarks>
+</person>

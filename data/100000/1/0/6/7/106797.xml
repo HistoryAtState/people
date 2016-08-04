@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>106797</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Jung, Nawab Ali Yavar</name>
+        </preferred>
+        <alternates/>
+        <originals variants="4">
+            <original source-urls="1">
+                <name>Jung, Nawab Ali Javar</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v25/persons#p_JNAJ1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Yung, Nawab Ali Yavar</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v25/persons#p_YNAY1</source-url>
+            </original>
+            <original source-urls="2">
+                <name>Jung, Nawab Ali Yavar</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v11/persons#p_JNAY1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve07/persons#p_JNAY1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Yung, Ali Yavar</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v11/persons#p_YAY1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="4">
+        <remark source-urls="1">
+            <p>Indian Ambassador to the United States from January 1968</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v25/persons#p_JNAJ1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Indian Ambassador to the United States from March 1968</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v25/persons#p_YNAY1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Indian Ambassador to the United States until March 1970</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v11/persons#p_JNAY1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Indian Ambassador to the United States until May 1970</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v11/persons#p_YAY1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve07/persons#p_JNAY1</source-url>
+        </remark>
+    </remarks>
+</person>

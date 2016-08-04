@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>110318</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Palmer, Ronald DeWayne</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="3">
+                <name>Palmer, Ronald DeWayne</name>
+                <source-url>https://history.state.gov/departmenthistory/people/palmer-ronald-dewayne</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve11p2/persons#p_PRD_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v28/persons#p_PR_1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Ronald D. Palmer</name>
+                <source-url>https://history.state.gov/departmenthistory/people/palmer-ronald-dewayne</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Palmer, Ronald D.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve03/persons#p_PRD1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1932</birth-year>
+    <death-year>2014</death-year>
+    <remarks variants="4">
+        <remark source-urls="1">
+            <p>Foreign Service Officer. Ambassador Extraordinary and Plenipotentiary (Togo); Ambassador Extraordinary and Plenipotentiary (Mauritius); Ambassador Extraordinary and Plenipotentiary (Malaysia).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/palmer-ronald-dewayne</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Deputy Coordinator for Human Rights, Office of the Deputy Secretary, Department of State</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve03/persons#p_PRD1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Deputy Coordinator for Human Rights, Office of the Coordinator for Humanitarian Affairs, Department of State, from 1976</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve11p2/persons#p_PRD_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Director, Office of Foreign Service Career Development and Assignments, Bureau of Personnel, Department of State</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v28/persons#p_PR_1</source-url>
+        </remark>
+    </remarks>
+</person>

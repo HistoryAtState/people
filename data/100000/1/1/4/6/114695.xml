@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>114695</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Winant, John Gilbert</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="2">
+                <name>Winant, John Gilbert</name>
+                <source-url>https://history.state.gov/departmenthistory/people/winant-john-gilbert</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv02/persons#p_WJG2</source-url>
+            </original>
+            <original source-urls="1">
+                <name>John G. Winant</name>
+                <source-url>https://history.state.gov/departmenthistory/people/winant-john-gilbert</source-url>
+            </original>
+            <original source-urls="4">
+                <name>Winant, John G.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1943CairoTehran/persons#p_WJG1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv01/persons#p_WJG2</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945Malta/persons#p_WJG1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1948v02/persons#p_WJG1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1889</birth-year>
+    <death-year>1947</death-year>
+    <remarks variants="5">
+        <remark source-urls="1">
+            <p>Non-career appointee. Ambassador Extraordinary and Plenipotentiary (United Kingdom).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/winant-john-gilbert</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Ambassador in the United Kingdom.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1943CairoTehran/persons#p_WJG1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Ambassador to the United Kingdom; United States Representative, European Advisory Commission; United States Representative, Committee on German Dismemberment (established by the Yalta Conference).</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv01/persons#p_WJG2</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv02/persons#p_WJG2</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>American Ambassador to the United Kingdom and representative on the European Advisory Commission.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1945Malta/persons#p_WJG1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Ambassador in the United Kingdom, 1941–1946</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1948v02/persons#p_WJG1</source-url>
+        </remark>
+    </remarks>
+</person>

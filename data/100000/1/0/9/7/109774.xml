@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>109774</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Ngo Quang Truong</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="1">
+                <name>Ngo Quang Troung</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v07/persons#p_NQT1</source-url>
+            </original>
+            <original source-urls="2">
+                <name>Ngo Quang Truong</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v08/persons#p_NQT1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v09/persons#p_NQp_1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Truong, Ngo Quang</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v08/persons#p_TNQ1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="4">
+        <remark source-urls="1">
+            <p>General, Republic of Vietnam Commander, 1st Division, I Corps</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v07/persons#p_NQT1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Lieutenant General, ARVN, Commander (MR –4) until May 3, 1972; Commander (MR –1) thereafter</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v08/persons#p_NQT1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>see Ngo Quang Truong</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v08/persons#p_TNQ1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Lieutenant General, ARVN, Commander (MR–4) until May 3, 1972; Commander (MR–1) thereafter</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v09/persons#p_NQp_1</source-url>
+        </remark>
+    </remarks>
+</person>

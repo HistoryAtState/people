@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>113966</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Vanden Heuvel, William J.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="2">
+                <name>Vanden Heuvel, William J.</name>
+                <source-url>https://history.state.gov/departmenthistory/people/vanden-heuvel-william-j</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v26/persons#p_VHW_1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Vanden Heuvel, William</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v02/persons#p_VHW_1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1935</birth-year>
+    <death-year/>
+    <remarks variants="3">
+        <remark source-urls="1">
+            <p>Non-career appointee. Representative of the U.S.A. to the European Office of the United Nations (Geneva).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/vanden-heuvel-william-j</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>U.S. Representative to the U.S. Mission in Geneva and Vice President, International Rescue Committee; Deputy U.S. Representative to the United Nations from September 1979</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v02/persons#p_VHW_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>U.S. Ambassador to European Office of the United Nations in Geneva from 1977 until 1977; Deputy U.S. Ambassador to the United Nations from 1979 until January 1981</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v26/persons#p_VHW_1</source-url>
+        </remark>
+    </remarks>
+</person>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>111157</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Ransom, David M.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="3">
+                <name>Ransom, David M.</name>
+                <source-url>https://history.state.gov/departmenthistory/people/ransom-david-m</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v24/persons#p_RDM1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v18/persons#p_RDM_1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1938</birth-year>
+    <death-year>2003</death-year>
+    <remarks variants="3">
+        <remark source-urls="1">
+            <p>Foreign Service Officer. Ambassador Extraordinary and Plenipotentiary (Bahrain).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/ransom-david-m</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Consular Officer, Jidda, Saudi Arabia, from March 1969 until August 1970; Economic and Commercial Officer, Jidda, from August 1970 until November 1970; Political and Economic Officer, Office of Arabian Peninsular Affairs, Bureau of Near Eastern and South Asian Affairs, Department of State, from November 1970</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v24/persons#p_RDM1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Deputy Chief of Mission, U.S. Embassy in Sana, until September 27, 1978; Deputy Director, Near East and South Asia Region, Office of the Secretary of Defense</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v18/persons#p_RDM_1</source-url>
+        </remark>
+    </remarks>
+</person>

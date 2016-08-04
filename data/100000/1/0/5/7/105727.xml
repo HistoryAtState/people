@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>105727</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Haywood, William Henry, Jr.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="1">
+                <name>Haywood, William Henry, Jr.</name>
+                <source-url>https://history.state.gov/departmenthistory/people/haywood-william-henry</source-url>
+            </original>
+            <original source-urls="1">
+                <name>William H. Haywood</name>
+                <source-url>https://history.state.gov/departmenthistory/people/haywood-william-henry</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1801</birth-year>
+    <death-year>1852</death-year>
+    <remarks variants="1">
+        <remark source-urls="1">
+            <p>Non-career appointee. Chargé d'Affaires (Belgium).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/haywood-william-henry</source-url>
+        </remark>
+    </remarks>
+</person>

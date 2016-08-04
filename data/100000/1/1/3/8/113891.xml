@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>113891</id>
+    <authorities>
+        <authority service="viaf">283092426</authority>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Uribe, Alvaro</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="1">
+                <name>President Alvaro Uribe</name>
+                <source-url>https://history.state.gov/departmenthistory/visits/colombia</source-url>
+            </original>
+            <original source-urls="1">
+                <name>President-elect Alvaro Uribe</name>
+                <source-url>https://history.state.gov/departmenthistory/visits/colombia</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="2">
+        <remark source-urls="1">
+            <p>President, Colombia. Visited U.S. 12 times, 2002–2009</p>
+            <source-url>https://history.state.gov/departmenthistory/visits/colombia</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>President-elect, Colombia. Visited U.S. once, 2002</p>
+            <source-url>https://history.state.gov/departmenthistory/visits/colombia</source-url>
+        </remark>
+    </remarks>
+</person>

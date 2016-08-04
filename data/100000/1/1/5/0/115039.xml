@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>115039</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Zhukov, Yuri Georgy Aleksandrovich</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="1">
+                <name>Zhukov, Yuri</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1949v03/persons#p_ZY1</source-url>
+            </original>
+            <original source-urls="2">
+                <name>Zhukov, Georgi A.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v10p1/persons#p_ZGA1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v10p2/persons#p_ZGA1</source-url>
+            </original>
+            <original source-urls="2">
+                <name>Zhukov, Georgi (Yuri) A.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v05/persons#p_ZGYA1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v14/persons#p_ZGYA1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="4">
+        <remark source-urls="1">
+            <p>Pravda correspondent in France.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1949v03/persons#p_ZY1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Chairman of the Soviet State Committee for Cultural Relations with Foreign Countries</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v10p1/persons#p_ZGA1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v10p2/persons#p_ZGA1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Chairman of the Soviet State Committee for Cultural Relations with Foreign Countries until April 1962; thereafter “Observer” columnist for Pravda</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v05/persons#p_ZGYA1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>columnist for Pravda</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v14/persons#p_ZGYA1</source-url>
+        </remark>
+    </remarks>
+</person>

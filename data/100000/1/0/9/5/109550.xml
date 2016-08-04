@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>109550</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Murphy, Daniel J.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="6">
+                <name>Murphy, Daniel J.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v07/persons#p_MDJ1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v08/persons#p_MDJ1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v09/persons#p_MDJ_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v18/persons#p_MD_2</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v28/persons#p_MDJ_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1981-88v03/persons#p_MDJ_1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Murphy, Admiral Daniel</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v38p2/persons#p_MD_1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Murphy, Daniel</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v41/persons#p_MD_2</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="1">
+            <title source-urls="1">
+                <name>Admiral</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v38p2/persons#p_MD_1</source-url>
+            </title>
+        </titles-from-name>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="6">
+        <remark source-urls="3">
+            <p>Rear Admiral, USN, Military Assistant to the Secretary of Defense</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v07/persons#p_MDJ1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v08/persons#p_MDJ1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v09/persons#p_MDJ_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>USN, Deputy to the Director of Central Intelligence for the Intelligence Community</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v38p2/persons#p_MD_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Admiral, USN; Military Assistant to the Secretary of Defense</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v41/persons#p_MD_2</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Deputy Under Secretary of Defense for Policy</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v18/persons#p_MD_2</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Admiral, Deputy to the Director of Central Intelligence for the Intelligence Community from March 1976 to June 1977</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v28/persons#p_MDJ_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Admiral, USN, Chief of Staff to Vice President Bush</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1981-88v03/persons#p_MDJ_1</source-url>
+        </remark>
+    </remarks>
+</person>

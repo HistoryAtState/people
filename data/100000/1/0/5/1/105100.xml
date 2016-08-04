@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>105100</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Gramley, Lyle</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="2">
+                <name>Gramley, Lyle</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v37/persons#p_GL_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v03/persons#p_GL_1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="2">
+        <remark source-urls="1">
+            <p>Acting Chairman, Council of Economic Advisers</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v37/persons#p_GL_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>member, Council of Economic Advisers, from March 1977 until May 1980</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v03/persons#p_GL_1</source-url>
+        </remark>
+    </remarks>
+</person>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>101522</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Bond, Niles W.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="6">
+                <name>Bond, Niles W.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v14p1/persons#p_BNW1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v14p2/persons#p_BNW1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v15p1/persons#p_BNW1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v15p2/persons#p_BNW1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v20/persons#p_BNW1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v27/persons#p_BNW1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="4">
+        <remark source-urls="2">
+            <p>Counselor of Mission in Japan to April 1952; Counselor of Embassy, April 1952–January 1953; Counselor of Embassy in Korea, January 1953–August 1954; thereafter Deputy Director, Office of United Nations Political and Security Affairs, Department of State.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v14p1/persons#p_BNW1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v14p2/persons#p_BNW1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Counselor of the Embassy in Korea to 1954; Deputy Director, Office of United Nations Political and Security Affairs, Department of State, from August 12, 1954.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v15p1/persons#p_BNW1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v15p2/persons#p_BNW1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Director, Office of United Nations Political and Security Affairs, Department of State</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v20/persons#p_BNW1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Deputy Director of the Office of United Nations Political and Security Affairs, Department of State, until August 1955; Director, August 1955–September 1956; thereafter Counselor of the Embassy in Italy</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v27/persons#p_BNW1</source-url>
+        </remark>
+    </remarks>
+</person>

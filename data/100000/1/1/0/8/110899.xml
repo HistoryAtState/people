@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>110899</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Poullada, Leon Baqueiro</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="2">
+                <name>Poullada, Leon B.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v15/persons#p_PLB1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v21/persons#p_PLB1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Poullada, Leon Baqueiro</name>
+                <source-url>https://history.state.gov/departmenthistory/people/poullada-leon-baqueiro</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Leon B. Poullada</name>
+                <source-url>https://history.state.gov/departmenthistory/people/poullada-leon-baqueiro</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1913</birth-year>
+    <death-year>1987</death-year>
+    <remarks variants="3">
+        <remark source-urls="1">
+            <p>Officer in Charge of Pakistan-Afghanistan Affairs, Office of South Asian Affairs, Bureau of Near Eastern and South Asian Affairs, Department of State, February 1959–August 1960; thereafter Deputy Director, Office of South Asian Affairs</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v15/persons#p_PLB1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Ambassador to Togo from July 1961</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v21/persons#p_PLB1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Foreign Service Officer. Ambassador Extraordinary and Plenipotentiary (Togo).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/poullada-leon-baqueiro</source-url>
+        </remark>
+    </remarks>
+</person>

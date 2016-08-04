@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>111086</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Rafael, Gideon</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="6">
+                <name>Rafael, Gideon</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v05/persons#p_RG1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v09p1/persons#p_RG1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v09p2/persons#p_RG1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v17/persons#p_RG1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v19/persons#p_RG1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v20/persons#p_RG1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="5">
+        <remark source-urls="1">
+            <p>Israeli Alternate Representative at the United Nations.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1951v05/persons#p_RG1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Member of the Israeli Delegation to the 7th and 8th Regular Sessions of the United Nations General Assembly, 1952–1953; Rapporteur, United Nations Peace Observation Commission, 1953; Adviser, United Nations and Middle Eastern Affairs, Israeli Ministry of Foreign Affairs, from 1953.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v09p1/persons#p_RG1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v09p2/persons#p_RG1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Counselor, Department of Middle Eastern and United Nations Affairs, Israeli Ministry of Foreign Affairs</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v17/persons#p_RG1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Israeli Permanent Representative at the United Nations May–December 1967</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v19/persons#p_RG1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Permanent Representative of Israel to the United Nations, May 1967- November 1968; thereafter Director-General of the Ministry of Foreign Affairs</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v20/persons#p_RG1</source-url>
+        </remark>
+    </remarks>
+</person>

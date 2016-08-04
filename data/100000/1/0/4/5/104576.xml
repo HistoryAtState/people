@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>104576</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Friedheim, Jerry W.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="1">
+                <name>Freidheim, Jerry W.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v07/persons#p_FJW1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Friedheim, Jerry</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v10/persons#p_FJ1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Friedheim, Jerry W.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v25/persons#p_FJW_1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="3">
+        <remark source-urls="1">
+            <p>Deputy Assistant Secretary of Defense (Operations), Department of Defense Spokesman</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v07/persons#p_FJW1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Department of Defense spokesman until 1973</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v10/persons#p_FJ1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Acting Assistant Secretary of Defense for Public Affairs, January 20, 1973–April 13, 1973; Assistant Secretary of Defense for Public Affairs from April 13,1973</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v25/persons#p_FJW_1</source-url>
+        </remark>
+    </remarks>
+</person>

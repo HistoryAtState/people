@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>111948</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Sarraj, Abdel Hamid</name>
+        </preferred>
+        <alternates/>
+        <originals variants="4">
+            <original source-urls="1">
+                <name>Sarraj, Col. Abd al–Hamid</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v13/persons#p_SCAH1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Sarraj, Abd-al-Hamid</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v11/persons#p_SAH2</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Sarraj, Colonel Abdul Hamid</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v13/persons#p_SCAH1</source-url>
+            </original>
+            <original source-urls="2">
+                <name>El-Sarraj, Colonel Abdel Hamid</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v17/persons#p_SAH2</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v18/persons#p_SAH2</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="2">
+            <title source-urls="1">
+                <name>Col.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v13/persons#p_SCAH1</source-url>
+            </title>
+            <title source-urls="3">
+                <name>Colonel</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v13/persons#p_SCAH1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v17/persons#p_SAH2</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v18/persons#p_SAH2</source-url>
+            </title>
+        </titles-from-name>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="4">
+        <remark source-urls="1">
+            <p>Chief of Syrian Military Intelligence</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v13/persons#p_SCAH1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Minister of Interior of the United Arab Republic (Syrian Region)</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v11/persons#p_SAH2</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Minister of Interior, Syrian Region, United Arab Republic, from March 1958</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v13/persons#p_SCAH1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Chairman and Minister of the Interior, Syrian Region, United Arab Republic, until September 28, 1961</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v17/persons#p_SAH2</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v18/persons#p_SAH2</source-url>
+        </remark>
+    </remarks>
+</person>

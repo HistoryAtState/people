@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>109341</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Moore, John Bassett</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="1">
+                <name>Moore, John Bassett</name>
+                <source-url>https://history.state.gov/departmenthistory/people/moore-john-bassett</source-url>
+            </original>
+            <original source-urls="1">
+                <name>John B. Moore</name>
+                <source-url>https://history.state.gov/departmenthistory/people/moore-john-bassett</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1860</birth-year>
+    <death-year>1947</death-year>
+    <remarks variants="1">
+        <remark source-urls="1">
+            <p>Non-career appointee. Third Assistant Secretary of State; Counselor; Assistant Secretary of State.</p>
+            <source-url>https://history.state.gov/departmenthistory/people/moore-john-bassett</source-url>
+        </remark>
+    </remarks>
+</person>

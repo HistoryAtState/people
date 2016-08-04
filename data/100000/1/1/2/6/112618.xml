@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>112618</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Smith, H. Alexander</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="9">
+                <name>Smith, H. Alexander</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1947v02/persons#p_SHA1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v04p1/persons#p_SHA1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v04p2/persons#p_SHA1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v05p1/persons#p_SMITHHA1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v05p2/persons#p_SMITHHA1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v12/persons#p_SHA1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v15/persons#p_SHA1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v16/persons#p_SHA1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v17/persons#p_SHA1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Smith, Alexander</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v09/persons#p_SA1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="7">
+        <remark source-urls="1">
+            <p>United States Senator from New Jersey</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1947v02/persons#p_SHA1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Senator from New Jersey; member of the Senate Committee on Foreign Relations</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1951v04p1/persons#p_SHA1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1951v04p2/persons#p_SHA1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Republican Senator from New Jersey and member of the Senate Foreign Relations Committee.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v05p1/persons#p_SMITHHA1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v05p2/persons#p_SMITHHA1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Republican Senator from New Jersey; second ranking Republican, Senate Foreign Relations Committee</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v09/persons#p_SA1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Republican Senator from New Jersey, member, Senate Foreign Relations Committee</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v12/persons#p_SHA1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Republican Senator from New Jersey; member, Senate Foreign Relations Committee</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v15/persons#p_SHA1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v16/persons#p_SHA1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Republican Senator from New Jersey; member of the Senate Foreign Relations Committee</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v17/persons#p_SHA1</source-url>
+        </remark>
+    </remarks>
+</person>

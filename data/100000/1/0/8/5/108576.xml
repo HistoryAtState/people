@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>108576</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Martin, Joseph, Jr.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="3">
+                <name>Martin, Joseph, Jr.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v32/persons#p_MJ1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve02/persons#p_MJJ2</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve14p2/persons#p_MJJ_1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="3">
+        <remark source-urls="1">
+            <p>General Counsel, Federal Trade Commission from 1970 until 1971; Special Assistant to the Director, Arms Control and Disarmament Agency; Representative to the Conference of the Committee on Disarmament from 1971 until 1973.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v32/persons#p_MJ1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>General Counsel, Federal Trade Commission, 1970–1971; Special Assistant to the Director, U.S. Arms Control and Disarmament Agency; Representative to the Conference of the Committee on Disarmament, 1971–1973.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve02/persons#p_MJJ2</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Special Assistant to the Director of the Arms Control and Disarmament Agency; U.S. Representative to the Conference on the Committee on Disarmament; member, General Advisory Committee on Arms Control and Disarmament</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve14p2/persons#p_MJJ_1</source-url>
+        </remark>
+    </remarks>
+</person>

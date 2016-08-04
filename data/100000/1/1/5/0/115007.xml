@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>115007</id>
+    <authorities>
+        <authority service="viaf">38149358</authority>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Zardari, Asif Ali</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="1">
+                <name>President Asif Ali Zardari</name>
+                <source-url>https://history.state.gov/departmenthistory/visits/pakistan</source-url>
+            </original>
+            <original source-urls="1">
+                <name>President Asif Zadari</name>
+                <source-url>https://history.state.gov/departmenthistory/visits/pakistan</source-url>
+            </original>
+            <original source-urls="1">
+                <name>President Asif Zardari</name>
+                <source-url>https://history.state.gov/departmenthistory/visits/pakistan</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="3">
+        <remark source-urls="1">
+            <p>President, Pakistan. Visited U.S. 2 times, 2009–2011</p>
+            <source-url>https://history.state.gov/departmenthistory/visits/pakistan</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>President, Pakistan. Visited U.S. once, 2012</p>
+            <source-url>https://history.state.gov/departmenthistory/visits/pakistan</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>President, Pakistan. Visited U.S. 2 times, 2008–2009</p>
+            <source-url>https://history.state.gov/departmenthistory/visits/pakistan</source-url>
+        </remark>
+    </remarks>
+</person>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>103117</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Dale, Francis Lykins</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="2">
+                <name>Dale, Francis L.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v31/persons#p_DFL1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve14p1/persons#p_DFL1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Dale, Francis Lykins</name>
+                <source-url>https://history.state.gov/departmenthistory/people/dale-francis-lykins</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Francis L. Dale</name>
+                <source-url>https://history.state.gov/departmenthistory/people/dale-francis-lykins</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1921</birth-year>
+    <death-year>1993</death-year>
+    <remarks variants="3">
+        <remark source-urls="1">
+            <p>Representative to the European Office of the United Nations in Geneva and Chief of Mission to the European Office of the United Nations and Other International Organizations from December 1973 until July 1976</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v31/persons#p_DFL1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Representative to the U.S. Mission to the European Office of the United Nations and Other International Organizations, Geneva</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve14p1/persons#p_DFL1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Non-career appointee. Representative of the U.S.A. to the European Office of the United Nations (Geneva).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/dale-francis-lykins</source-url>
+        </remark>
+    </remarks>
+</person>

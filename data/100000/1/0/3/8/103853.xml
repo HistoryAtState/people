@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>103853</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Egan, Christopher</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="1">
+                <name>Egan, Christopher</name>
+                <source-url>https://history.state.gov/departmenthistory/people/egan-christopher</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1963</birth-year>
+    <death-year/>
+    <remarks variants="1">
+        <remark source-urls="1">
+            <p>Non-career appointee. Representative of the U.S.A. to the Organization for Economic Cooperation and Development (Paris).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/egan-christopher</source-url>
+        </remark>
+    </remarks>
+</person>

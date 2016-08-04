@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>100699</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Ayni, Muhsin Ahmad al-</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="1">
+                <name>Ayni, Muhsin Ahmad al-</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v24/persons#p_AMA2</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="1">
+        <remark source-urls="1">
+            <p>Prime Minister and Foreign Minister, Yemen Arab Republic, from July 29 until September 2, 1969, from February 5, 1970, until February 26, 1971, and from September 18, 1971, until December 30, 1972</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v24/persons#p_AMA2</source-url>
+        </remark>
+    </remarks>
+</person>

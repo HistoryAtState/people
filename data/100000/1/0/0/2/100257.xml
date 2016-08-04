@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>100257</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Ali, Anwar</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="1">
+                <name>Ali, Anwar</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v24/persons#p_AA2</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="1">
+        <remark source-urls="1">
+            <p>Governor, Saudi Arabian Monetary Agency</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v24/persons#p_AA2</source-url>
+        </remark>
+    </remarks>
+</person>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>109562</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Murphy, Richard William</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="4">
+                <name>Murphy, Richard W.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v24/persons#p_MRW4</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v26/persons#p_MRW_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve04/persons#p_MRW4</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v08/persons#p_MRW_1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Murphy, Richard William</name>
+                <source-url>https://history.state.gov/departmenthistory/people/murphy-richard-william</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Richard W. Murphy</name>
+                <source-url>https://history.state.gov/departmenthistory/people/murphy-richard-william</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1929</birth-year>
+    <death-year/>
+    <remarks variants="5">
+        <remark source-urls="1">
+            <p>Country Director for Arabian Peninsula Affairs, Bureau of Near Eastern and South Asian Affairs, Department of State, from April 1970 until November 1971</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v24/persons#p_MRW4</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Ambassador to Syria from September 1974</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v26/persons#p_MRW_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Country Director for Saudi Arabia, Kuwait, Yemen, Aden, Bureau of Near Eastern and South Asian Affairs, Department of State from April 1970</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve04/persons#p_MRW4</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Ambassador to Syria from August 1974 until April 1978</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v08/persons#p_MRW_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Foreign Service Officer. Career Ambassador; Assistant Secretary of State for Near Eastern Affairs; Ambassador Extraordinary and Plenipotentiary (Syria); Ambassador Extraordinary and Plenipotentiary (Saudi Arabia); Ambassador Extraordinary and Plenipotentiary (Philippines); Ambassador Extraordinary and Plenipotentiary (Mauritania).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/murphy-richard-william</source-url>
+        </remark>
+    </remarks>
+</person>

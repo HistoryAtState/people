@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>106375</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Ilah, Abdul</name>
+        </preferred>
+        <alternates/>
+        <originals variants="4">
+            <original source-urls="1">
+                <name>Regent Prince Abdul Ilah</name>
+                <source-url>https://history.state.gov/departmenthistory/visits/iraq</source-url>
+            </original>
+            <original source-urls="2">
+                <name>Ilah, Abdul</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v05/persons#p_AIA1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v05/persons#p_IAA2</source-url>
+            </original>
+            <original source-urls="2">
+                <name>Ilah, Abul Amir</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v09p1/persons#p_IAA1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v09p2/persons#p_IAA1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Abdul Ilah</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v12/persons#p_AI1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="1">
+            <title source-urls="2">
+                <name>Amir</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v09p1/persons#p_IAA1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v09p2/persons#p_IAA1</source-url>
+            </title>
+        </titles-from-name>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="5">
+        <remark source-urls="1">
+            <p>Regent Prince, Iraq. Visited U.S. once, 1945</p>
+            <source-url>https://history.state.gov/departmenthistory/visits/iraq</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Crown Prince and Regent of Iraq.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1951v05/persons#p_AIA1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>See Abdul Ilah, Amir.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1951v05/persons#p_IAA2</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Regent of Iraq.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v09p1/persons#p_IAA1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v09p2/persons#p_IAA1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Crown Prince of Iraq</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v12/persons#p_AI1</source-url>
+        </remark>
+    </remarks>
+</person>

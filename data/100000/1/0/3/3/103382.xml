@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>103382</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>De Pree, Willard Ames</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="1">
+                <name>De Pree, Willard Ames</name>
+                <source-url>https://history.state.gov/departmenthistory/people/de-pree-william-ames</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Willard A. De Pree</name>
+                <source-url>https://history.state.gov/departmenthistory/people/de-pree-william-ames</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Willard Ames De Pree</name>
+                <source-url>https://history.state.gov/departmenthistory/people/de-pree-william-ames</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1928</birth-year>
+    <death-year/>
+    <remarks variants="1">
+        <remark source-urls="1">
+            <p>Foreign Service Officer. Director of the Office of Management Policy; Ambassador Extraordinary and Plenipotentiary (Mozambique); Ambassador Extraordinary and Plenipotentiary (Bangladesh).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/de-pree-william-ames</source-url>
+        </remark>
+    </remarks>
+</person>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>107043</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Keogh, James</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="3">
+                <name>Keogh, James</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v01/persons#p_KJ2</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v36/persons#p_KJ1</source-url>
+                <source-url>https://history.state.gov/departmenthistory/people/keogh-james</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Keough, James</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v38p2/persons#p_KJ_1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1916</birth-year>
+    <death-year>2006</death-year>
+    <remarks variants="4">
+        <remark source-urls="1">
+            <p>Special Assistant to the President, January 1969-December 1971</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v01/persons#p_KJ2</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Special Assistant to the President from January 1969 until December 1971</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v36/persons#p_KJ1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Director of the United States Information Agency, February 8, 1973–November 30, 1976</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v38p2/persons#p_KJ_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Non-career appointee. Director of the U.S. Information Agency.</p>
+            <source-url>https://history.state.gov/departmenthistory/people/keogh-james</source-url>
+        </remark>
+    </remarks>
+</person>

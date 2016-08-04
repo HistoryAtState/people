@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>102608</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Clark, Mark Wayne</name>
+        </preferred>
+        <alternates/>
+        <originals variants="4">
+            <original source-urls="2">
+                <name>Clark, Mark Wayne</name>
+                <source-url>https://history.state.gov/departmenthistory/people/clark-mark-wayne</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv02/persons#p_CGMW1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Mark W. Clark</name>
+                <source-url>https://history.state.gov/departmenthistory/people/clark-mark-wayne</source-url>
+            </original>
+            <original source-urls="6">
+                <name>Clark, General Mark W.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv01/persons#p_CGMW1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1947v02/persons#p_CMW1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v14p1/persons#p_CGMW1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v14p2/persons#p_CGMW1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v15p1/persons#p_CGMW1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v15p2/persons#p_CGMW1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Clark, General (Ret.) Mark</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1950-55Intel/persons#p_CGRM1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="2">
+            <title source-urls="6">
+                <name>General</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv01/persons#p_CGMW1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1947v02/persons#p_CMW1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v14p1/persons#p_CGMW1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v14p2/persons#p_CGMW1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v15p1/persons#p_CGMW1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v15p2/persons#p_CGMW1</source-url>
+            </title>
+            <title source-urls="1">
+                <name>General (Ret.)</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1950-55Intel/persons#p_CGRM1</source-url>
+            </title>
+        </titles-from-name>
+    </names>
+    <birth-year>1896</birth-year>
+    <death-year>1984</death-year>
+    <remarks variants="7">
+        <remark source-urls="1">
+            <p>Non-career appointee. Ambassador Extraordinary and Plenipotentiary (Holy See).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/clark-mark-wayne</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>U. S. A., Commanding General, Fifteenth Army Group (to July 4); Commanding General, United States Forces in Austria (from July 5).</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv01/persons#p_CGMW1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>U. S. A., Commanding General, United States Forces in Austria.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv02/persons#p_CGMW1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Commanding General of United States Forces in Austria and High Commissioner for Austria, September 1945–May 1947</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1947v02/persons#p_CMW1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>USA, President of the Citadel from 1953 to 1955; Chairman of the Hoover Commission on the Organization of the Executive Branch for the Investigation of the Central Intelligence Agency from 1954 to 1955</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1950-55Intel/persons#p_CGRM1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>United States Army, Commander in Chief, Far East, Commander in Chief, United Nations Command (Korea), and Governor of the Ryukyu Islands, May 1952–August 1953.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v14p1/persons#p_CGMW1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v14p2/persons#p_CGMW1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>USA, Commander in Chief, Far East, Commander in Chief, United Nations Command, and Governor of the Ryukyu Islands, May 1952–August 1953.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v15p1/persons#p_CGMW1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v15p2/persons#p_CGMW1</source-url>
+        </remark>
+    </remarks>
+</person>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>100557</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Arias Madrid, Arnulfo</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="3">
+                <name>Arias Madrid, Arnulfo</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v31/persons#p_AMA1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v22/persons#p_AMA_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve10/persons#p_AMA1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="3">
+        <remark source-urls="1">
+            <p>former President of Panama; leader of the Panameñista Party; Panameñista candidate for President, May 1964; National Union candidate for President, May 1968; President of Panama October 1–October 12, 1968</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v31/persons#p_AMA1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Former President of Panama</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v22/persons#p_AMA_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Panamanian President from October 1 until October 11, 1968</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve10/persons#p_AMA1</source-url>
+        </remark>
+    </remarks>
+</person>

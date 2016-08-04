@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>102079</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Cahill, Jacklyn A.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="1">
+                <name>Cahill, Jacklyn A.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v02/persons#p_CJA_1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Cahill, Jacklyn</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v21/persons#p_CJ_1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="2">
+        <remark source-urls="1">
+            <p>Staff Assistant to the Deputy Assistant Secretary, Bureau of International Organization Affairs, Department of State, until 1977; thereafter Special Assistant to Secretary of State Vance</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v02/persons#p_CJA_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Special Assistant to Secretary of State Vance</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v21/persons#p_CJ_1</source-url>
+        </remark>
+    </remarks>
+</person>

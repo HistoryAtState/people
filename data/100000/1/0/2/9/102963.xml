@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>102963</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Crawford, Franklin J.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="1">
+                <name>Crawford, Franklin J.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v22/persons#p_CFJ1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="1">
+        <remark source-urls="1">
+            <p>Officer in Charge of Iranian Affairs, Bureau of Near Eastern and South Asian Affairs, Department of State, August 1965–August 1966</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v22/persons#p_CFJ1</source-url>
+        </remark>
+    </remarks>
+</person>

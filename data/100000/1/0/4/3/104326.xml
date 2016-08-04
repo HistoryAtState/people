@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>104326</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>FitzRoy, Almeric William</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="2">
+                <name>FitzRoy, Sir Almeric William</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1914Supp/persons#p_FSAW1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1916Supp/persons#p_FSAW1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="1">
+            <title source-urls="2">
+                <name>Sir</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1914Supp/persons#p_FSAW1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1916Supp/persons#p_FSAW1</source-url>
+            </title>
+        </titles-from-name>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="1">
+        <remark source-urls="2">
+            <p>Clerk of the British Privy Council.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1914Supp/persons#p_FSAW1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1916Supp/persons#p_FSAW1</source-url>
+        </remark>
+    </remarks>
+</person>

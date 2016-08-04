@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>108220</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Luzzato, Francis</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="1">
+                <name>Luzzato, Francis</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v02/persons#p_LF_1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="1">
+        <remark source-urls="1">
+            <p>Director, Office of Multilateral and Special Programs and Acting Director, Office of Special Affairs, ACTION</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v02/persons#p_LF_1</source-url>
+        </remark>
+    </remarks>
+</person>

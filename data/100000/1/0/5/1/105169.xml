@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>105169</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Greenspan, Alan</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="10">
+                <name>Greenspan, Alan</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v16/persons#p_GA_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v26/persons#p_GA_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v27/persons#p_GA_2</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v31/persons#p_GA1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v37/persons#p_GA_3</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v38p1/persons#p_GA_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v38p2/persons#p_GA_2</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve03/persons#p_GA1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve14p2/persons#p_GA_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve15p2/persons#p_GA_2</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="9">
+        <remark source-urls="2">
+            <p>Chairman of the Council of Economic Advisers</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v16/persons#p_GA_1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v27/persons#p_GA_2</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Chairman, Council of Economic Advisers</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v26/persons#p_GA_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Chairman, Council of Economic Advisers from 1974</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v31/persons#p_GA1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Chairman of the Council of Economic Advisors until 1977</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v37/persons#p_GA_3</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Chairman of the Council of Economic Advisers from 1974 until 1977</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v38p1/persons#p_GA_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Chairman of the Council of Economic Advisers, 1974–1977</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v38p2/persons#p_GA_2</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Chairman, Council of Economic Advisers, Executive Office of the President, from September 4, 1974</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve03/persons#p_GA1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Chairman, Council of Economic Advisers, Executive Office of the President from 1974 until 1977</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve14p2/persons#p_GA_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Chairman, Council of Economic Advisers from 1974 until 1977</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve15p2/persons#p_GA_2</source-url>
+        </remark>
+    </remarks>
+</person>

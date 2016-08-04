@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>101338</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Birnbaum, Philip</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="2">
+                <name>Birnbaum, Philip</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve14p1/persons#p_BP2</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v02/persons#p_BP_1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="2">
+        <remark source-urls="1">
+            <p>Assistant Administrator, Bureau for Program and Policy Coordination, U.S. Agency for International Development</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve14p1/persons#p_BP2</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Assistant Administrator for Programs and Policy, Bureau for Program and Policy Coordination, Agency for International Development, until June 1977; Acting Assistant Administrator, Bureau of Intragovernmental and International Affairs, Agency for International Development, 1978</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v02/persons#p_BP_1</source-url>
+        </remark>
+    </remarks>
+</person>

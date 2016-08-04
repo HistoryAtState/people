@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>103205</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Davis, Norman Hezekiah</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="1">
+                <name>Davis, Norman Hezekiah</name>
+                <source-url>https://history.state.gov/departmenthistory/people/davis-norman-hezekiah</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Norman H. Davis</name>
+                <source-url>https://history.state.gov/departmenthistory/people/davis-norman-hezekiah</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1878</birth-year>
+    <death-year>1944</death-year>
+    <remarks variants="1">
+        <remark source-urls="1">
+            <p>Non-career appointee. Under Secretary of State.</p>
+            <source-url>https://history.state.gov/departmenthistory/people/davis-norman-hezekiah</source-url>
+        </remark>
+    </remarks>
+</person>

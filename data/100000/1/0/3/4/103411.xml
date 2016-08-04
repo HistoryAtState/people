@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>103411</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Des Portes, Fay Allen</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="1">
+                <name>Des Portes, Fay Allen</name>
+                <source-url>https://history.state.gov/departmenthistory/people/des-portes-fay-allen</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Fay A. Des Portes</name>
+                <source-url>https://history.state.gov/departmenthistory/people/des-portes-fay-allen</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1890</birth-year>
+    <death-year>1944</death-year>
+    <remarks variants="1">
+        <remark source-urls="1">
+            <p>Non-career appointee. Envoy Extraordinary and Minister Plenipotentiary (Guatemala); Envoy Extraordinary and Minister Plenipotentiary (Costa Rica); Envoy Extraordinary and Minister Plenipotentiary (Bolivia).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/des-portes-fay-allen</source-url>
+        </remark>
+    </remarks>
+</person>

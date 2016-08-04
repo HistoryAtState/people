@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>114947</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Young, John Parke</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="3">
+                <name>Young, John Parke</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv01/persons#p_YJP1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v24/persons#p_YJP1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v06/persons#p_YJP1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Young, John P.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v05/persons#p_YJP1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="4">
+        <remark source-urls="1">
+            <p>Acting Chief, Division of Foreign Economic Development, Department of State.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv01/persons#p_YJP1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Chief, International Finance Division, Office of International Finance and Development, Bureau of Economic Affairs, Department of State, from November 1955</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v24/persons#p_YJP1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Chief, International Finance Division, Office of International Financial and Development Affairs, Department of State</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v05/persons#p_YJP1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Chairman of the Working Group on the Cuban Economic Situation</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v06/persons#p_YJP1</source-url>
+        </remark>
+    </remarks>
+</person>

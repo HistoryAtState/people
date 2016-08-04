@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>112704</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Sobel, Clifford M.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="1">
+                <name>Sobel, Clifford M.</name>
+                <source-url>https://history.state.gov/departmenthistory/people/sobel-clifford-m</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1949</birth-year>
+    <death-year/>
+    <remarks variants="1">
+        <remark source-urls="1">
+            <p>Non-career appointee. Ambassador Extraordinary and Plenipotentiary (Netherlands); Ambassador Extraordinary and Plenipotentiary (Brazil).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/sobel-clifford-m</source-url>
+        </remark>
+    </remarks>
+</person>

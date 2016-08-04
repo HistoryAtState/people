@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>114512</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>White, Paul Lincoln (Linc)</name>
+        </preferred>
+        <alternates/>
+        <originals variants="4">
+            <original source-urls="2">
+                <name>White, Paul Lincoln (Linc)</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v05/persons#p_WL1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v17/persons#p_WPLL1</source-url>
+            </original>
+            <original source-urls="2">
+                <name>White, Paul L.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v05p1/persons#p_WHITEPL1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v05p2/persons#p_WHITEPL1</source-url>
+            </original>
+            <original source-urls="5">
+                <name>White, Lincoln</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v25/persons#p_WL1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v05/persons#p_WL1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v13/persons#p_WL1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v17/persons#p_WLP1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v18/persons#p_WLP1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>White, Lincoln P.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v06/persons#p_WLP1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="7">
+        <remark source-urls="1">
+            <p>Deputy Special Assistant to the Secretary of State for Press Relations.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1951v05/persons#p_WL1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Assistant Chief of the News Division, Department of State, after June 23, 1953.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v05p1/persons#p_WHITEPL1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v05p2/persons#p_WHITEPL1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Acting Chief of the News Division, Department of State, December 1955-July 1957; thereafter Chief</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v17/persons#p_WPLL1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Assistant Chief, News Division, Department of State, until 1955; Deputy Chief from March 1955; Acting Chief from December 1955; Chief from July 1957</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v25/persons#p_WL1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Chief of the News Division, Department of State</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v05/persons#p_WL1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v06/persons#p_WLP1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Chief, News Division, Bureau of Public Affairs, Department of State</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v13/persons#p_WL1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Director of the Office of News, Bureau of Public Affairs, Department of State, until July 1963</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v17/persons#p_WLP1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v18/persons#p_WLP1</source-url>
+        </remark>
+    </remarks>
+</person>

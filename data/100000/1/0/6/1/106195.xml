@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>106195</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Hoyningen-Hühne, Oswald von</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="1">
+                <name>Hoyningen-Hühne, Oswald, Baron von</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1943CairoTehran/persons#p_HHOBV1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="1">
+            <title source-urls="1">
+                <name>Baron</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1943CairoTehran/persons#p_HHOBV1</source-url>
+            </title>
+        </titles-from-name>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="1">
+        <remark source-urls="1">
+            <p>German Minister in Portugal.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1943CairoTehran/persons#p_HHOBV1</source-url>
+        </remark>
+    </remarks>
+</person>

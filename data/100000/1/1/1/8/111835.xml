@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>111835</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Saleh, Allahyar</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="2">
+                <name>Saleh, Allahyar</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v05/persons#p_SA1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v10/persons#p_SA1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="2">
+        <remark source-urls="1">
+            <p>Chairman of the Iranian National Oil Company, National Front Deputy, and President of the Joint Oil Committee.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1951v05/persons#p_SA1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Leader of the Iran Party, a component of Mosadeq’s National Front; Iranian Ambassador in the United States from September 1953.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v10/persons#p_SA1</source-url>
+        </remark>
+    </remarks>
+</person>

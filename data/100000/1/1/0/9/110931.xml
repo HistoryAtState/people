@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>110931</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Pratt, James W.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="3">
+                <name>Pratt, James W.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v02p1/persons#p_PRATTJW1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v02p2/persons#p_PRATTJW1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v14/persons#p_PJW1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="2">
+        <remark source-urls="2">
+            <p>Officer in Charge of Public Affairs, Office of Eastern European Affairs, Department of State, 1952–1954.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v02p1/persons#p_PRATTJW1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v02p2/persons#p_PRATTJW1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Deputy Director, Office of the Soviet Union Affairs, Bureau of European Affairs, Department of State, August 1965–June 1968; then Political Counselor at the Embassy in Moscow</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v14/persons#p_PJW1</source-url>
+        </remark>
+    </remarks>
+</person>

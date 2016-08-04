@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>106427</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Irwin, John Nichol</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="1">
+                <name>Irwin, John Nichol</name>
+                <source-url>https://history.state.gov/departmenthistory/people/irwin-john-nichol</source-url>
+            </original>
+            <original source-urls="1">
+                <name>John N. Irwin</name>
+                <source-url>https://history.state.gov/departmenthistory/people/irwin-john-nichol</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1845</birth-year>
+    <death-year>1905</death-year>
+    <remarks variants="1">
+        <remark source-urls="1">
+            <p>Non-career appointee. Envoy Extraordinary and Minister Plenipotentiary (Portugal).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/irwin-john-nichol</source-url>
+        </remark>
+    </remarks>
+</person>

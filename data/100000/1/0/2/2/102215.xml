@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>102215</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Carns, Edwin H. J.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="2">
+                <name>Carns, Colonel Edwin H. J.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v03p1/persons#p_CCEHJ1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v03p2/persons#p_CCEHJ1</source-url>
+            </original>
+            <original source-urls="3">
+                <name>Carns, Edwin H. J.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v05/persons#p_CCHJ1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v05p1/persons#p_CARNSEHJ1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v05p2/persons#p_CARNSEHJ1</source-url>
+            </original>
+            <original source-urls="2">
+                <name>Carns, Brigadier General Edwin H.J.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v02p1/persons#p_CARNSBGEHJ1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v02p2/persons#p_CARNSBGEHJ1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="2">
+            <title source-urls="2">
+                <name>Colonel</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v03p1/persons#p_CCEHJ1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v03p2/persons#p_CCEHJ1</source-url>
+            </title>
+            <title source-urls="2">
+                <name>Brigadier General</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v02p1/persons#p_CARNSBGEHJ1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v02p2/persons#p_CARNSBGEHJ1</source-url>
+            </title>
+        </titles-from-name>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="3">
+        <remark source-urls="3">
+            <p>USA, Deputy Secretary, Joint Chiefs of Staff.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1951v03p1/persons#p_CCEHJ1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1951v03p2/persons#p_CCEHJ1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1951v05/persons#p_CCHJ1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>USA (Colonel until 1953), Deputy Secretary, Joint Chiefs of Staff, 1952–1953; Secretary, 1953–1954.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v02p1/persons#p_CARNSBGEHJ1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v02p2/persons#p_CARNSBGEHJ1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Colonel, United States Army; Deputy Secretary of the Joint Chiefs of Staff.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v05p1/persons#p_CARNSEHJ1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v05p2/persons#p_CARNSEHJ1</source-url>
+        </remark>
+    </remarks>
+</person>

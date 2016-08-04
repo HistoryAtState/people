@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>109596</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Mwaanga, Vernon Johnson</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="1">
+                <name>Mwaanga, Vernon Johnson</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v05/persons#p_MVJ1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Mwaanga, Vernon</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v28/persons#p_MV_1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="2">
+        <remark source-urls="1">
+            <p>Zimbabwean Permanent Representative to the United Nations</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v05/persons#p_MVJ1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Zambian Permanent Representative to the United Nations until 1972; Minister of Foreign Affairs from 1973 until 1975</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v28/persons#p_MV_1</source-url>
+        </remark>
+    </remarks>
+</person>

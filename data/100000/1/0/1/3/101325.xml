@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>101325</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Bindzi, Benoit</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="1">
+                <name>Bindzi, Benoit</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v25/persons#p_BB2</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="1">
+        <remark source-urls="1">
+            <p>Deputy Representative of Cameroon at the United Nations, 1961; Permanent Representative, 1962–1963</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v25/persons#p_BB2</source-url>
+        </remark>
+    </remarks>
+</person>

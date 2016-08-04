@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>112214</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Selo, Fawzi</name>
+        </preferred>
+        <alternates/>
+        <originals variants="4">
+            <original source-urls="1">
+                <name>Selo, Fawzi</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v05/persons#p_SCF1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Silaw</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v05/persons#p_SIL1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Selo, Colonel Fawzi</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v09p1/persons#p_SCF1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Selo, Colonel Fawzi (subsequently Major General)</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v09p2/persons#p_SCF1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="2">
+            <title source-urls="1">
+                <name>Colonel</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v09p1/persons#p_SCF1</source-url>
+            </title>
+            <title source-urls="1">
+                <name>Colonel (subsequently Major General)</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v09p2/persons#p_SCF1</source-url>
+            </title>
+        </titles-from-name>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="4">
+        <remark source-urls="1">
+            <p>Syrian Minister of Defense in the Cabinet of Nazim al-Qudsi, until March 1951; in the Cabinet of Khalid al-Azm, March–July 1951; and in the Cabinet of Hasan al-Hakim, August–November 1951. Syrian Chief of State, Prime Minister, and Minister of Defense, from December 1951.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1951v05/persons#p_SCF1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>See Selo.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1951v05/persons#p_SIL1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>(subsequently Major General), Syrian Chief of State, Prime Minister, and Minister of Defense until July 10, 1953.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v09p1/persons#p_SCF1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Syrian Chief of State, Prime Minister, and Minister of Defense until July 10, 1953.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v09p2/persons#p_SCF1</source-url>
+        </remark>
+    </remarks>
+</person>

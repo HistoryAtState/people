@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>100149</id>
+    <authorities>
+        <authority service="viaf">25395945</authority>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Ahidjo, Ahmadou</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="2">
+                <name>Ahidjo, Ahmadou</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v28/persons#p_AA_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve06/persons#p_AA4</source-url>
+            </original>
+            <original source-urls="1">
+                <name>President Ahidjo</name>
+                <source-url>https://history.state.gov/departmenthistory/visits/cameroon</source-url>
+            </original>
+            <original source-urls="1">
+                <name>President Ahmadou Ahidjo</name>
+                <source-url>https://history.state.gov/departmenthistory/visits/cameroon</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="4">
+        <remark source-urls="1">
+            <p>President of Cameroon</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v28/persons#p_AA_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>President of Cameroon from 1960 to 1982</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve06/persons#p_AA4</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>President, Cameroon. Visited U.S. once, 1962</p>
+            <source-url>https://history.state.gov/departmenthistory/visits/cameroon</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>President, Cameroon. Visited U.S. 3 times, 1967–1982</p>
+            <source-url>https://history.state.gov/departmenthistory/visits/cameroon</source-url>
+        </remark>
+    </remarks>
+</person>

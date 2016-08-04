@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>114815</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Wright, Edwin K.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="1">
+                <name>Wright, Colonel Edwin K.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945-50Intel/persons#p_WCEK1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="1">
+            <title source-urls="1">
+                <name>Colonel (USA)</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945-50Intel/persons#p_WCEK1</source-url>
+            </title>
+        </titles-from-name>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="1">
+        <remark source-urls="1">
+            <p>(USA) Executive Director of the Intelligence Division, War Department General Staff, February-June 1946; executive to the Director of Central Intelligence (Central Intelligence Group), June 26, 1946-January 20, 1947; Deputy Director of Central Intelligence, Central Intelligence Group and Central Intelligence Agency, January 20, 1947-March 9, 1949</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1945-50Intel/persons#p_WCEK1</source-url>
+        </remark>
+    </remarks>
+</person>

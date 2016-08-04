@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>107508</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Kuter, Laurence Sherman</name>
+        </preferred>
+        <alternates/>
+        <originals variants="4">
+            <original source-urls="3">
+                <name>Kuter, Laurence Sherman</name>
+                <source-url>https://history.state.gov/departmenthistory/people/kuter-laurence-sherman</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv02/persons#p_KMGLS1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v05/persons#p_KLS1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Laurence S. Kuter</name>
+                <source-url>https://history.state.gov/departmenthistory/people/kuter-laurence-sherman</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Kuter, Laurence S.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1943CairoTehran/persons#p_KLS1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Kuter, Major General Laurence S.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945Malta/persons#p_K9</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="1">
+            <title source-urls="1">
+                <name>Major General</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945Malta/persons#p_K9</source-url>
+            </title>
+        </titles-from-name>
+    </names>
+    <birth-year>1905</birth-year>
+    <death-year>1979</death-year>
+    <remarks variants="5">
+        <remark source-urls="1">
+            <p>Non-career appointee. Representative of the U.S.A. on the Council of the International Civil Aviation Organization (Montreal).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/kuter-laurence-sherman</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Brigadier General, U. S. A., Assistant Chief of Staff (Plans), United States Army Air Forces.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1943CairoTehran/persons#p_KLS1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>U. S. A., Assistant Chief of Staff for Plans, Army Air Forces.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv02/persons#p_KMGLS1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>U. S. A., Assistant Chief of Staff for Plans, United States Army Air Forces; at the Malta and Yalta Conferences represented General of the Army Arnold, who was ill.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1945Malta/persons#p_K9</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>USAF (promoted to Lieutenant General April 10, 1951), Commander, Military Air Transport Service, Andrews Air Force Base.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1951v05/persons#p_KLS1</source-url>
+        </remark>
+    </remarks>
+</person>

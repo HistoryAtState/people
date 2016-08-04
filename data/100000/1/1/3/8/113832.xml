@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>113832</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Turner, William Cochrane</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="1">
+                <name>Turner, William C.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v37/persons#p_TWC_1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Turner, William Cochrane</name>
+                <source-url>https://history.state.gov/departmenthistory/people/turner-william-cochrane</source-url>
+            </original>
+            <original source-urls="1">
+                <name>William C. Turner</name>
+                <source-url>https://history.state.gov/departmenthistory/people/turner-william-cochrane</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1929</birth-year>
+    <death-year>2010</death-year>
+    <remarks variants="2">
+        <remark source-urls="1">
+            <p>Representative to the Organization for Economic Cooperation and Development until May 1, 1977</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v37/persons#p_TWC_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Non-career appointee. Representative of the U.S.A. to the Organization for Economic Cooperation and Development (Paris).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/turner-william-cochrane</source-url>
+        </remark>
+    </remarks>
+</person>

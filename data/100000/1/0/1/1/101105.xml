@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>101105</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Belcher, Taylor Garrison</name>
+        </preferred>
+        <alternates/>
+        <originals variants="4">
+            <original source-urls="3">
+                <name>Belcher, Taylor Garrison</name>
+                <source-url>https://history.state.gov/departmenthistory/people/belcher-taylor-garrison</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve10/persons#p_BTG1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve11p2/persons#p_BTG_1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Taylor G. Belcher</name>
+                <source-url>https://history.state.gov/departmenthistory/people/belcher-taylor-garrison</source-url>
+            </original>
+            <original source-urls="4">
+                <name>Belcher, Taylor G.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v10p1/persons#p_BTG1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v10p2/persons#p_BTG1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v12/persons#p_BTG1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v31/persons#p_BTG1</source-url>
+            </original>
+            <original source-urls="2">
+                <name>Belcher, Taylor</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v16/persons#p_BT1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v29/persons#p_BT1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1920</birth-year>
+    <death-year>1990</death-year>
+    <remarks variants="8">
+        <remark source-urls="1">
+            <p>Foreign Service Officer. Ambassador Extraordinary and Plenipotentiary (Peru); Ambassador Extraordinary and Plenipotentiary (Cyprus).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/belcher-taylor-garrison</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Consul General at Nicosia, July 1958–August 1960</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v10p1/persons#p_BTG1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v10p2/persons#p_BTG1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Director, Office of West Coast Affairs, Bureau of Inter-American Affairs from August 20, 1961</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v12/persons#p_BTG1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Ambassador to Cyprus from May 1964</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v16/persons#p_BT1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Director, Office of West Coast Affairs, Bureau of Inter-American Affairs, Department of State, until February 1964</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v31/persons#p_BTG1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Ambassador to Cyprus until June 1969</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v29/persons#p_BT1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>U.S. Ambassador to Peru from 1969</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve10/persons#p_BTG1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>U.S. Ambassador to Peru from August 29, 1969, until April 4, 1974</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve11p2/persons#p_BTG_1</source-url>
+        </remark>
+    </remarks>
+</person>

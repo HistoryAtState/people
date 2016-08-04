@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>100139</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Agüero Rocha, Fernando Bernabé</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="1">
+                <name>Agüero Rocha, Fernando</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v31/persons#p_ARF1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Agüero Rocha, Fernando Bernabé</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve10/persons#p_ARFB1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="2">
+        <remark source-urls="1">
+            <p>leader of the Partido Conservador Tradicionalista in Nicaragua; Union Nacional de Oposición candidate for President, February 1967</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v31/persons#p_ARF1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Leader of the Nicaraguan Partido Conservador Tradicional (PCT) from 1967 until 1973</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve10/persons#p_ARFB1</source-url>
+        </remark>
+    </remarks>
+</person>

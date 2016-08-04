@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>104540</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Freeman, Charles W., Jr.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="5">
+                <name>Freeman, Charles W., Jr.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v17/persons#p_FCWJ1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v18/persons#p_FCW1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve13/persons#p_FCWJ1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v13/persons#p_FCWJ_1</source-url>
+                <source-url>https://history.state.gov/departmenthistory/people/freeman-charles-w</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Chas. W. Freeman Jr.</name>
+                <source-url>https://history.state.gov/departmenthistory/people/freeman-charles-w</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1943</birth-year>
+    <death-year/>
+    <remarks variants="4">
+        <remark source-urls="2">
+            <p>Office of Asian Communist Affairs, Bureau of East Asian and Pacific Affairs, Department of State, from June 1971</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v17/persons#p_FCWJ1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve13/persons#p_FCWJ1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Asian Communist Affairs, Bureau of East Asian and Pacific Affairs until July 1973</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v18/persons#p_FCW1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Director, Office of People’s Republic of China and Mongolia Affairs, Bureau of East Asian and Pacific Affairs, Department of State from July 1979</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v13/persons#p_FCWJ_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Foreign Service Officer. Ambassador Extraordinary and Plenipotentiary (Saudi Arabia).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/freeman-charles-w</source-url>
+        </remark>
+    </remarks>
+</person>

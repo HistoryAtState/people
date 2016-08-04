@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>108148</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Low, Stephen</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="5">
+                <name>Low, Stephen</name>
+                <source-url>https://history.state.gov/departmenthistory/people/low-stephen</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v22/persons#p_LS_2</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v28/persons#p_LS_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve11p1/persons#p_LS_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve11p2/persons#p_LS_1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Low, Steven</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve10/persons#p_LS2</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1927</birth-year>
+    <death-year>2010</death-year>
+    <remarks variants="6">
+        <remark source-urls="1">
+            <p>Foreign Service Officer. Director of the Foreign Service Institute; Ambassador Extraordinary and Plenipotentiary (Zambia); Ambassador Extraordinary and Plenipotentiary (Nigeria).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/low-stephen</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>member, National Security Council Staff from 1974 until August 31, 1976; Ambassador to Zambia from August 31, 1976</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v22/persons#p_LS_2</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>U.S. Ambassador to Zambia from August 1976</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v28/persons#p_LS_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Counselor for Political Affairs, U.S. Embassy in Brasilia from January 1969; Director, Brazilian Office, Bureau of Inter-American Affairs from December 1971</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve10/persons#p_LS2</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Senior Staff Member, National Security Council, from 1974 until August 31, 1976; U.S. Ambassador to Zambia, from August 31, 1976</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve11p1/persons#p_LS_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Senior Staff Member, National Security Council, from 1974 until August 31, 1976; U.S. Ambassador to Zambia from August 31, 1976</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve11p2/persons#p_LS_1</source-url>
+        </remark>
+    </remarks>
+</person>

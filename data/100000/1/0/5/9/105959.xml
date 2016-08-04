@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>105959</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Hirschfeld, Thomas J.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="3">
+                <name>Hirschfeld, Thomas J.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v27/persons#p_HTJ1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v39/persons#p_HTJ1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve03/persons#p_HTJ1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="3">
+        <remark source-urls="1">
+            <p>Officer in Charge of Cambodian Affairs, Department of State, until February 1965</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v27/persons#p_HTJ1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Foreign Affairs Officer, ACDA from August 1969</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v39/persons#p_HTJ1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Member, Policy Planning Staff, Department of State</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve03/persons#p_HTJ1</source-url>
+        </remark>
+    </remarks>
+</person>

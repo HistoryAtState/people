@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>103481</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Diggs, Charles C., Jr.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="3">
+                <name>Diggs, Charles C., Jr.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v28/persons#p_DCC_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v28/persons#p_DCC_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v30/persons#p_DCC_1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Diggs, Charles Rep., Jr.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve06/persons#p_DCRJ1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="1">
+            <title source-urls="1">
+                <name>Rep.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve06/persons#p_DCRJ1</source-url>
+            </title>
+        </titles-from-name>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="4">
+        <remark source-urls="1">
+            <p>Democratic Representative from Michigan; Chairman of the Africa Subcommittee of the House Foreign Affairs Committee; Chairman of the Congressional Black Caucus from 1969 until 1971</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v28/persons#p_DCC_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>(D—Michigan), Member of the Congressional Black Caucus</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve06/persons#p_DCRJ1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>member, U.S. House of Representatives (D—Michigan)</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v28/persons#p_DCC_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>member, U.S. House of Representatives (D-Michigan), until June 3, 1980</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v30/persons#p_DCC_1</source-url>
+        </remark>
+    </remarks>
+</person>

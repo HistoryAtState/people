@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>107554</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Laethem, Gabriel van</name>
+        </preferred>
+        <alternates/>
+        <originals variants="4">
+            <original source-urls="4">
+                <name>Laethem, Gabriel van</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v05/persons#p_VLG1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v03/persons#p_LAETHEMG1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v11p1/persons#p_LGV1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v11p2/persons#p_LGV1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Van Laethem</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v03/persons#p_VANLAETHEM1</source-url>
+            </original>
+            <original source-urls="2">
+                <name>Van Laetham, Gabriel</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v05p1/persons#p_VANLAETHAMG1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v05p2/persons#p_VANLAETHAMG1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Van Laethem, Gabriel</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v01/persons#p_VLG1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="6">
+        <remark source-urls="1">
+            <p>Second Secretary of the French Embassy in the United States.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1951v05/persons#p_VLG1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>French First Secretary in the United States until August 1954.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v03/persons#p_LAETHEMG1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>See Laethem.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v03/persons#p_VANLAETHEM1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Second Secretary of the French Embassy in the United States from February 1952.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v05p1/persons#p_VANLAETHAMG1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v05p2/persons#p_VANLAETHAMG1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>First Secretary of the French Embassy in the United States until June 1954; thereafter, Counselor-Adviser attached to the Commissioner General in Indochina.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v11p1/persons#p_LGV1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v11p2/persons#p_LGV1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Counselor on the staff of General Ely to May 1955</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v01/persons#p_VLG1</source-url>
+        </remark>
+    </remarks>
+</person>

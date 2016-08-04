@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>111134</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Ramsbotham, Peter E.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="4">
+            <original source-urls="1">
+                <name>Ramsbotham, P.E.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v11/persons#p_RPE1</source-url>
+            </original>
+            <original source-urls="2">
+                <name>Ramsbotham, Peter E.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v13/persons#p_RPE1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v31/persons#p_RPE1</source-url>
+            </original>
+            <original source-urls="4">
+                <name>Ramsbotham, Peter</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v26/persons#p_RP_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v30/persons#p_RP1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v39/persons#p_RP1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve15p2/persons#p_RP_1</source-url>
+            </original>
+            <original source-urls="2">
+                <name>Ramsbotham, Sir Peter</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v28/persons#p_RSP_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v08/persons#p_RP_1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="1">
+            <title source-urls="2">
+                <name>Sir</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v28/persons#p_RSP_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v08/persons#p_RP_1</source-url>
+            </title>
+        </titles-from-name>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="7">
+        <remark source-urls="1">
+            <p>First Secretary and Head of Chancery of the British Mission at the United Nations until 1956</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v11/persons#p_RPE1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Counselor in the British Foreign Office</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v13/persons#p_RPE1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>British Ambassador to the United States</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v26/persons#p_RP_1</source-url>
+        </remark>
+        <remark source-urls="3">
+            <p>British Ambassador to the United States from 1974</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v28/persons#p_RSP_1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v30/persons#p_RP1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v31/persons#p_RPE1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>UK Ambassador to the United States from 1974</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v39/persons#p_RP1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>British Ambassador to the United States from 1974 until 1977</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve15p2/persons#p_RP_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>British Ambassador to the United States until 1977</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v08/persons#p_RP_1</source-url>
+        </remark>
+    </remarks>
+</person>

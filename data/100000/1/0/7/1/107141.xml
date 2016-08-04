@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>107141</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Kielmannsegg, Johann</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="2">
+                <name>Kielmannsegg, Johann</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v03p1/persons#p_KJ2</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v03p2/persons#p_KJ2</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="1">
+        <remark source-urls="2">
+            <p>Office of the Commissioner for Questions Arising in Connection With an Increase of Allied Troops, German Federal Republic.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1951v03p1/persons#p_KJ2</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1951v03p2/persons#p_KJ2</source-url>
+        </remark>
+    </remarks>
+</person>

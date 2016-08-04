@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>112738</id>
+    <authorities>
+        <authority service="viaf">42634154</authority>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Somoza Debayle, Anastasio</name>
+        </preferred>
+        <alternates/>
+        <originals variants="6">
+            <original source-urls="1">
+                <name>Somoza Debayle, General Anastasio</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v05/persons#p_SDGA1</source-url>
+            </original>
+            <original source-urls="2">
+                <name>Somoza Debayle</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v10/persons#p_SDLA1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v31/persons#p_SD1</source-url>
+            </original>
+            <original source-urls="2">
+                <name>Somoza Debayle, Anastasio</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve10/persons#p_SDA1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v01/persons#p_SD_1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Somoza, Anastasio</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v02/persons#p_SA_2</source-url>
+            </original>
+            <original source-urls="1">
+                <name>President Anastasio Somoza Debayle</name>
+                <source-url>https://history.state.gov/departmenthistory/visits/nicaragua</source-url>
+            </original>
+            <original source-urls="1">
+                <name>President-elect Anastasio Somoza Debayle</name>
+                <source-url>https://history.state.gov/departmenthistory/visits/nicaragua</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="1">
+            <title source-urls="1">
+                <name>General</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v05/persons#p_SDGA1</source-url>
+            </title>
+        </titles-from-name>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="7">
+        <remark source-urls="1">
+            <p>Director of the Nicaraguan National Guard and Chief of the Air Force</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v05/persons#p_SDGA1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>General Anastasio, President of Nicaragua</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v10/persons#p_SDLA1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>General Anastasio, Commandant of the National Guard in Nicaragua; PLN candidate for President, February 1967; President of Nicaragua from May 1, 1967</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v31/persons#p_SD1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Nicaraguan president from May 1967 until May 1972</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve10/persons#p_SDA1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>President of Nicaragua</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v01/persons#p_SD_1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v02/persons#p_SA_2</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>President, Nicaragua. Visited U.S. 2 times, 1970–1971</p>
+            <source-url>https://history.state.gov/departmenthistory/visits/nicaragua</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>President-elect, Nicaragua. Visited U.S. once, 1967</p>
+            <source-url>https://history.state.gov/departmenthistory/visits/nicaragua</source-url>
+        </remark>
+    </remarks>
+</person>

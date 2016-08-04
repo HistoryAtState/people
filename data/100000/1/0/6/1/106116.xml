@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>106116</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Horan, Harold Eugene</name>
+        </preferred>
+        <alternates/>
+        <originals variants="4">
+            <original source-urls="3">
+                <name>Horan, Harold E.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v28/persons#p_HHE_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve03/persons#p_HHE1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve14p1/persons#p_HHE1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Horan, Harold</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve06/persons#p_HHE1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Horan, Harold Eugene</name>
+                <source-url>https://history.state.gov/departmenthistory/people/horan-harold-eugene</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Harold E. Horan</name>
+                <source-url>https://history.state.gov/departmenthistory/people/horan-harold-eugene</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1927</birth-year>
+    <death-year/>
+    <remarks variants="5">
+        <remark source-urls="1">
+            <p>member, National Security Council staff from 1973 until 1976</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v28/persons#p_HHE_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Senior Staff Member, National Security Council</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve03/persons#p_HHE1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>member of the National Security Council Staff from 1973 to 1976</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve06/persons#p_HHE1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>senior staff member, National Security Council</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve14p1/persons#p_HHE1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Foreign Service Officer. Ambassador Extraordinary and Plenipotentiary (Malawi).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/horan-harold-eugene</source-url>
+        </remark>
+    </remarks>
+</person>

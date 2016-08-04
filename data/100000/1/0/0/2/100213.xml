@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>100213</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>al-Dawalibi, Marouf</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="3">
+                <name>al-Dawalibi, Marouf</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v05/persons#p_ADM1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v17/persons#p_alDM1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v18/persons#p_alDM1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="2">
+        <remark source-urls="1">
+            <p>Leader of the Syrian People’s Party; President of the Syrian Chamber of Deputies until November 1951; designated Syrian Prime Minister on November 28 and deposed that same day; formally resigned on December 1.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1951v05/persons#p_ADM1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Prime Minister of Syria, December 23, 1961–March 28, 1962</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v17/persons#p_alDM1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v18/persons#p_alDM1</source-url>
+        </remark>
+    </remarks>
+</person>

@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>103164</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>David, Edward E., Jr.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="5">
+            <original source-urls="8">
+                <name>David, Edward E., Jr.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v13/persons#p_DEEJ1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v14/persons#p_DEEJ1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v15/persons#p_DEE_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v32/persons#p_DEE1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v35/persons#p_DEE_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v36/persons#p_DEEJ1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve02/persons#p_DEEJ1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve14p2/persons#p_DEE_1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>David, Dr. Edward, Jr.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v29/persons#p_DDEJ1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>David, Edward, E., Jr.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v34/persons#p_DEE1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>David, Edward, Jr.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v39/persons#p_DEEJ1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>David, Dr. Edward E., Jr.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve01/persons#p_DEEJ1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="1">
+            <title source-urls="2">
+                <name>Dr.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v29/persons#p_DDEJ1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve01/persons#p_DEEJ1</source-url>
+            </title>
+        </titles-from-name>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="11">
+        <remark source-urls="1">
+            <p>Science Adviser to the President and Director, Office of Science and Technology</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v13/persons#p_DEEJ1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Science Adviser to the President and Director of the Office of Science and Technology</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v14/persons#p_DEEJ1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Science Adviser to the President and Director, White House Office of Science and Technology</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v15/persons#p_DEE_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Science Advisor to the President and Director of the Office of Science and Technology from September 1970</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v29/persons#p_DDEJ1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Ph.D., Science Advisor to the President from 1970 until 1973</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v32/persons#p_DEE1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Science Advisor to the President and Director of the Office of Science and Technology from September 14, 1970</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v34/persons#p_DEE1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Chairman of the National Security Council’s Special Panel on Telecommunications Security</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v35/persons#p_DEE_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Science Adviser to the President; Director of the White House Office of Science and Technology from 1970 until 1973</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v36/persons#p_DEEJ1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Science Advisor to the President from September 1970 to January 1973</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v39/persons#p_DEEJ1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Science Adviser to the President, 1970–1972</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve01/persons#p_DEEJ1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Science Advisor to the President and Director of the Office of Science and Technology</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve02/persons#p_DEEJ1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve14p2/persons#p_DEE_1</source-url>
+        </remark>
+    </remarks>
+</person>

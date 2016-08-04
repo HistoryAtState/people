@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>103777</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Eakens, Robert H.S.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="4">
+                <name>Eakens, Robert H.S.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v05/persons#p_ERHS1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v09p1/persons#p_ERH1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v09p2/persons#p_ERH1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v12/persons#p_ERHS1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Eakens, Robert S.H.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v10/persons#p_ERSH1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="4">
+        <remark source-urls="1">
+            <p>Chief, Petroleum Policy Staff, Department of State.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1951v05/persons#p_ERHS1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>detailed to Naval War College until August 10, 1953; thereafter Chief of the Petroleum Staff, Department of State.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v09p1/persons#p_ERH1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v09p2/persons#p_ERH1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Chief of the Petroleum Policy Staff, Office of International Materials Policy, Department of State, from October 3, 1949; Chief of the Petroleum Staff after August 10, 1953.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v10/persons#p_ERSH1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Chief of the Fuels Division, Department of State, January 15, 1955–April 8, 1956</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v12/persons#p_ERHS1</source-url>
+        </remark>
+    </remarks>
+</person>

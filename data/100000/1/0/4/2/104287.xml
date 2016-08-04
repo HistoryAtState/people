@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>104287</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Firyubin, Nikolai Pavlovich</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="2">
+                <name>Firyubin, Nikolai</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v02/persons#p_FN2</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v03/persons#p_FN2</source-url>
+            </original>
+            <original source-urls="3">
+                <name>Firyubin, Nikolai Pavlovich</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v11/persons#p_FNP1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v16/persons#p_FNP_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve07/persons#p_FNP1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="2">
+        <remark source-urls="2">
+            <p>Soviet Deputy Foreign Minister</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v02/persons#p_FN2</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v03/persons#p_FN2</source-url>
+        </remark>
+        <remark source-urls="3">
+            <p>Deputy Foreign Minister of the Soviet Union</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v11/persons#p_FNP1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v16/persons#p_FNP_1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve07/persons#p_FNP1</source-url>
+        </remark>
+    </remarks>
+</person>

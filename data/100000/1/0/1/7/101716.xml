@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>101716</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Brett, Devol</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="1">
+                <name>Brett, Major General Devol</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v25/persons#p_BD_2</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Brett, Duvall</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v27/persons#p_BD_1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Brett, Brig. Gen. Devol</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v29/persons#p_BBGD1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="2">
+            <title source-urls="1">
+                <name>Major General</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v25/persons#p_BD_2</source-url>
+            </title>
+            <title source-urls="1">
+                <name>Brig. Gen.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v29/persons#p_BBGD1</source-url>
+            </title>
+        </titles-from-name>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="3">
+        <remark source-urls="1">
+            <p>USAF, Director, Near East and South Asia Region, Office of the Assistant Secretary of Defense for International Security Affairs, until September 1973</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v25/persons#p_BD_2</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Major General, USAF, Chief of ARMISH/MAAG Iran from July 1973</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v27/persons#p_BD_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>USAF, Director, Near East and South Asia Region, Department of Defense</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v29/persons#p_BBGD1</source-url>
+        </remark>
+    </remarks>
+</person>

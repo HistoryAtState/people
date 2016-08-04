@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>101097</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Beigel, Edgar J.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="12">
+                <name>Beigel, Edgar J.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v04p1/persons#p_BEJ1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v04p2/persons#p_BEJ1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v05p1/persons#p_BEIGELEJ1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v05p2/persons#p_BEIGELEJ1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v06p1/persons#p_BEIGELEJ1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v06p2/persons#p_BEIGELEJ1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v09p1/persons#p_BEJ1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v09p2/persons#p_BEJ1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v07p1/persons#p_BEJ1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v07p2/persons#p_BEJ1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v13/persons#p_BEJ1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v13/persons#p_BEJ1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="6">
+        <remark source-urls="2">
+            <p>Office of Western European Affairs, Department of State</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1951v04p1/persons#p_BEJ1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1951v04p2/persons#p_BEJ1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Office of Western European Affairs, Department of State, after December 10, 1951.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v05p1/persons#p_BEIGELEJ1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v05p2/persons#p_BEIGELEJ1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Office of Western European Affairs, Department of State from December 10, 1951.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v06p1/persons#p_BEIGELEJ1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v06p2/persons#p_BEIGELEJ1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Office of Western European Affairs, Bureau of European Affairs, Department of State.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v09p1/persons#p_BEJ1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v09p2/persons#p_BEJ1</source-url>
+        </remark>
+        <remark source-urls="3">
+            <p>Office of Western European Affairs, Bureau of European Affairs, Department of State</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v07p1/persons#p_BEJ1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v07p2/persons#p_BEJ1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v13/persons#p_BEJ1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>International Relations Officer, Office of Western European Affairs, Bureau of European Affairs, Department of State</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v13/persons#p_BEJ1</source-url>
+        </remark>
+    </remarks>
+</person>

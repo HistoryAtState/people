@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>113222</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Šutej, Juraj</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="3">
+                <name>Šutej, Juraj</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv01/persons#p_SJ2</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv02/persons#p_SJ3</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945Malta/persons#p_SJ2</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="2">
+        <remark source-urls="2">
+            <p>Minister Without Portfolio in the Provisional Government of Yugoslavia.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv01/persons#p_SJ2</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv02/persons#p_SJ3</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Minister of Finance of the Yugoslav Government in London.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1945Malta/persons#p_SJ2</source-url>
+        </remark>
+    </remarks>
+</person>

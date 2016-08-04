@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>102777</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Conlon, Thomas F.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="4">
+                <name>Conlon, Thomas F.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v03/persons#p_CTF1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v04/persons#p_CTF1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v26/persons#p_CTF1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v27/persons#p_CTF1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="4">
+        <remark source-urls="1">
+            <p>Office of Southeast Asian Affairs, Bureau of Far Eastern Affairs Department of State, after September 1, 1963, and member of the Vietnam Working Group</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v03/persons#p_CTF1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Office of Southeast Asian Affairs, Bureau of Far Eastern Affairs, Department of State, after September 1, 1963, and member of the Vietnam Working Group</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v04/persons#p_CTF1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Officer in Charge of Australia, New Zealand, and Pacific Affairs, until September 1964</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v26/persons#p_CTF1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Officer in Charge of Australia, New Zealand, and Pacific Affairs, Bureau of Far Eastern Affairs, Department of State, until September 1964</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v27/persons#p_CTF1</source-url>
+        </remark>
+    </remarks>
+</person>

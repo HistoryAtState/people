@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>109106</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Michael, Louis G.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="1">
+                <name>Michael, Colonel Louis G.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v39/persons#p_MCLG1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="1">
+            <title source-urls="1">
+                <name>Colonel</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v39/persons#p_MCLG1</source-url>
+            </title>
+        </titles-from-name>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="1">
+        <remark source-urls="1">
+            <p>Director, MBFR Task Force from 1976</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v39/persons#p_MCLG1</source-url>
+        </remark>
+    </remarks>
+</person>

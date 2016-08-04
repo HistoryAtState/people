@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>113652</id>
+    <authorities>
+        <authority service="viaf">13508084</authority>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Torp, Oscar</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="2">
+                <name>Torp, Oscar</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v06p1/persons#p_TORPO1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v06p2/persons#p_TORPO1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Prime Minister Torp</name>
+                <source-url>https://history.state.gov/departmenthistory/visits/norway</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="2">
+        <remark source-urls="2">
+            <p>Prime Minister of Norway, November 15, 1951–January 21, 1955.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v06p1/persons#p_TORPO1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v06p2/persons#p_TORPO1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Prime Minister, Norway. Visited U.S. 2 times, 1952–1954</p>
+            <source-url>https://history.state.gov/departmenthistory/visits/norway</source-url>
+        </remark>
+    </remarks>
+</person>

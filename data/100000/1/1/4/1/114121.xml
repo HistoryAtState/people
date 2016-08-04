@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>114121</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Von Horn, Carl Carlson</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="1">
+                <name>Von Horn, Major General Carl Carlsson</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v13/persons#p_VHMGCC1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Von Horn</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v17/persons#p_VHMGCC1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Von Horn, Major General Carl Carlson</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v18/persons#p_VHMGCC1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="1">
+            <title source-urls="2">
+                <name>Major General</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v13/persons#p_VHMGCC1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v18/persons#p_VHMGCC1</source-url>
+            </title>
+        </titles-from-name>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="3">
+        <remark source-urls="1">
+            <p>Chief of Staff, United Nations Truce Supervision Organization in Palestine, from March 1958</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v13/persons#p_VHMGCC1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Major General Carl Carlson, Chief of Staff, United Nations Truce Supervisory Organization in Palestine until June 1963; Chief of Staff, United Nations Yemen Observer Mission (UNYOM), July–August 1963</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v17/persons#p_VHMGCC1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Chief of Staff, United Nations Truce Supervisory Organization in Palestine until June 1963; Chief of Staff, United Nations Yemen Observer Mission (UNYOM), July-August 1963</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v18/persons#p_VHMGCC1</source-url>
+        </remark>
+    </remarks>
+</person>

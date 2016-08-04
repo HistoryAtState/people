@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>111907</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>San Giuliano, A. Di</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="1">
+                <name>San Giuliano, Marquis A. Di</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1914Supp/persons#p_SGMAD1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="1">
+            <title source-urls="1">
+                <name>Marquis</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1914Supp/persons#p_SGMAD1</source-url>
+            </title>
+        </titles-from-name>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="1">
+        <remark source-urls="1">
+            <p>Italian Minister for Foreign Affairs.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1914Supp/persons#p_SGMAD1</source-url>
+        </remark>
+    </remarks>
+</person>

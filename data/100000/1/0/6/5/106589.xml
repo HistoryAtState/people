@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>106589</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Jenkins, Reuben E.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="2">
+                <name>Jenkins, Reuben E.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1943CairoTehran/persons#p_JRE1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v05/persons#p_JRE1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="2">
+        <remark source-urls="1">
+            <p>Colonel, U. S. A., Chief of the Plans Section, G–3 Division, Allied Force Headquarters, Algiers.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1943CairoTehran/persons#p_JRE1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Chief of the Joint United States Military Aid Group to Greece.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1951v05/persons#p_JRE1</source-url>
+        </remark>
+    </remarks>
+</person>

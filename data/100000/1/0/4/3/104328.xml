@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>104328</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Flake, Wilson Clark</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="2">
+                <name>Flake, Wilson C.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v18/persons#p_FWC1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v14/persons#p_FWC1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Flake, Wilson Clark</name>
+                <source-url>https://history.state.gov/departmenthistory/people/flake-wilson-clark</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Wilson C. Flake</name>
+                <source-url>https://history.state.gov/departmenthistory/people/flake-wilson-clark</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1906</birth-year>
+    <death-year>1977</death-year>
+    <remarks variants="3">
+        <remark source-urls="1">
+            <p>Counselor of Embassy in South Africa to July 1955; Counselor of Embassy in Italy, August 1955–May 1957; Ambassador to Ghana from June 1957</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v18/persons#p_FWC1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Ambassador to Ghana until November 1960</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v14/persons#p_FWC1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Foreign Service Officer. Ambassador Extraordinary and Plenipotentiary (Ghana).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/flake-wilson-clark</source-url>
+        </remark>
+    </remarks>
+</person>

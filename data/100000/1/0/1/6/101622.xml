@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>101622</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Bow, Frank Townsend</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="2">
+                <name>Bow, Frank T.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v04/persons#p_BFT1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v05/persons#p_BFT1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Bow, Frank Townsend</name>
+                <source-url>https://history.state.gov/departmenthistory/people/bow-frank-townsend</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Frank T. Bow</name>
+                <source-url>https://history.state.gov/departmenthistory/people/bow-frank-townsend</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1901</birth-year>
+    <death-year>1972</death-year>
+    <remarks variants="3">
+        <remark source-urls="1">
+            <p>Representative (R-Ohio), ranking Republican on the House Appropriations Committee</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v04/persons#p_BFT1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Representative (R–OH), ranking Republican on the House Appropriations Committee</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v05/persons#p_BFT1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Non-career appointee. Ambassador Extraordinary and Plenipotentiary (Panama).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/bow-frank-townsend</source-url>
+        </remark>
+    </remarks>
+</person>

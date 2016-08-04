@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>111219</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Reagan, Ronald W.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="12">
+                <name>Reagan, Ronald W.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v14/persons#p_RRW2</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v16/persons#p_RRW_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v22/persons#p_RRW_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v28/persons#p_RRW_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v37/persons#p_RRW_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v38p1/persons#p_RRW_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v38p2/persons#p_RRW_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v01/persons#p_RRW_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v06/persons#p_RRW_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v18/persons#p_RRW_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1981-88v03/persons#p_RRW_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1981-88v13/persons#p_RRW_1</source-url>
+            </original>
+            <original source-urls="6">
+                <name>Reagan, Ronald</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v15/persons#p_RR_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v26/persons#p_RR_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v33/persons#p_RR_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v35/persons#p_RR_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v03/persons#p_RR_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v13/persons#p_RR_1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Ronald Reagan</name>
+                <source-url>https://history.state.gov/cms/apps/presidents/data/presidents.xml#reagan-ronald</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1911</birth-year>
+    <death-year>2004</death-year>
+    <remarks variants="18">
+        <remark source-urls="1">
+            <p>Governor of California (Republican)</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v14/persons#p_RRW2</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Governor of California</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v15/persons#p_RR_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Governor of California until January 7, 1975; candidate for the 1976 Republican nomination for President from November 20, 1975 until August 19, 1976</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v16/persons#p_RRW_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Republican Governor of California from 1967 until 1975; Republican candidate for President in 1976</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v22/persons#p_RRW_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Governor of California; Republican Presidential candidate in 1976</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v26/persons#p_RR_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Governor of California; Republican Party candidate in the 1976 Presidential election</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v28/persons#p_RRW_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Governor of California; Republican Presidential candidate in 1980</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v33/persons#p_RR_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Governor of California and candidate for the Republican Presidential nomination in 1976</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v35/persons#p_RR_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Republican candidate for President, 1980; President of the United States, from January 1981 until January 1989</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v37/persons#p_RRW_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Governor of California from 1967 until 1975; member, Commission on CIA Activities Within the United States (Rockefeller Commission) from January until June 1975; candidate for the Republican Presidential nomination, 1976</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v38p1/persons#p_RRW_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Governor of California, 1967–1975; member, Commission on CIA Activities Within the United States (Rockefeller Commission), January–June 1975; candidate for the RepublicanP nomination, 1976</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v38p2/persons#p_RRW_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Governor of California until January 6, 1975; Republican candidate for President in 1976; Republican nominee for President in 1980; President of the United States from January 20, 1981, until January 20, 1989</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v01/persons#p_RRW_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Republican Presidential nominee, 1980; President of the United States from January 1981 until January 1989</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v03/persons#p_RR_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Republican Presidential nominee, 1980; President of the United States from January 1981</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v06/persons#p_RRW_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Republican candidate for President in 1976 and 1980; President of the United States from 1981 until 1989</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v13/persons#p_RR_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Governor of California; Republican nominee for President; President of the United States from 1981</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v18/persons#p_RRW_1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>President of the United States</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1981-88v03/persons#p_RRW_1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1981-88v13/persons#p_RRW_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>President of the United States, from January 20, 1981 until January 20, 1989</p>
+            <source-url>https://history.state.gov/cms/apps/presidents/data/presidents.xml#reagan-ronald</source-url>
+        </remark>
+    </remarks>
+</person>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>115976</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Pettigrew, Richard A.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="1">
+                <name>Pettigrew, Richard</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v28/persons#p_PR_2</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Pettigrew, Richard A.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v30/persons#p_PRA_2</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="2">
+        <remark source-urls="1">
+            <p>Assistant to the President for Reorganization</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v28/persons#p_PR_2</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Assistant to the President for Reorganization; member, Executive Committee on Reorganization</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v30/persons#p_PRA_2</source-url>
+        </remark>
+    </remarks>
+</person>

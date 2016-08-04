@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>106043</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Hollister, Gideon Hiram</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="1">
+                <name>Hollister, Gideon Hiram</name>
+                <source-url>https://history.state.gov/departmenthistory/people/hollister-gideon-hiram</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Gideon H. Hollister</name>
+                <source-url>https://history.state.gov/departmenthistory/people/hollister-gideon-hiram</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1817</birth-year>
+    <death-year>1881</death-year>
+    <remarks variants="1">
+        <remark source-urls="1">
+            <p>Non-career appointee. Minister Resident/Consul General (Haiti).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/hollister-gideon-hiram</source-url>
+        </remark>
+    </remarks>
+</person>

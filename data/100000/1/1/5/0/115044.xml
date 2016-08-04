@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>115044</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Zia-ul-Haq, Mohammed</name>
+        </preferred>
+        <alternates/>
+        <originals variants="4">
+            <original source-urls="3">
+                <name>Zia-ul-Haq, Mohammed</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v01/persons#p_ZM_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v18/persons#p_ZHM_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1981-88v03/persons#p_ZM_1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Zia-ul-Haq, General Muhammad</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v02/persons#p_ZUH_1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Zia-ul-Haq, Mohammad</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v06/persons#p_ZHM_1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Zia-ul-Haq, Muhammad</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v13/persons#p_ZM_1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="1">
+            <title source-urls="1">
+                <name>General</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v02/persons#p_ZUH_1</source-url>
+            </title>
+        </titles-from-name>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="3">
+        <remark source-urls="4">
+            <p>President of Pakistan</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v01/persons#p_ZM_1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v02/persons#p_ZUH_1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v06/persons#p_ZHM_1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1981-88v03/persons#p_ZM_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>President of Pakistan from September 16, 1978 until August 17, 1988</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v13/persons#p_ZM_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>General, President and military ruler of Pakistan from July 1977</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v18/persons#p_ZHM_1</source-url>
+        </remark>
+    </remarks>
+</person>

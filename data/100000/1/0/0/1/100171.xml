@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>100171</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Aini, Muhsin al-</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="2">
+                <name>Aini, Muhsin al-</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v21/persons#p_AM1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v18/persons#p_AM_2</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="2">
+        <remark source-urls="1">
+            <p>Foreign Minister of Yemen April-July 1965; Ambassador to the United States August 1965-October 1966; Prime Minister, November-December 1967</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v21/persons#p_AM1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Yemen Arab Republic Permanent Representative to the United Nations</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v18/persons#p_AM_2</source-url>
+        </remark>
+    </remarks>
+</person>

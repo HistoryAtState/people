@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>100290</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Allan, Willard</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="2">
+                <name>Allan, Willard</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v04p1/persons#p_AW1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v04p2/persons#p_AW1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="1">
+        <remark source-urls="2">
+            <p>Third Secretary of Embassy in Greece, until June 20, 1951; Second Secretary until October 2, 1951; thereafter, in the Office of Eastern European Affairs, Department of State</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1951v04p1/persons#p_AW1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1951v04p2/persons#p_AW1</source-url>
+        </remark>
+    </remarks>
+</person>

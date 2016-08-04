@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>102351</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Chaban-Delmas, Jacques</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="11">
+                <name>Chaban-Delmas, Jacques</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v05p1/persons#p_CHABANDELMASJ1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v05p2/persons#p_CHABANDELMASJ1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v06p1/persons#p_CHABANDELMASJ1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v06p2/persons#p_CHABANDELMASJ1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v27/persons#p_CDJ1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v38p1/persons#p_CDJ_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v38p2/persons#p_CDJ_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v39/persons#p_CDJ1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v41/persons#p_CDJ_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve05p1/persons#p_CDJ1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve05p2/persons#p_CDJ1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="6">
+        <remark source-urls="2">
+            <p>Deputy in the French National Assembly and, after June 1954, French Minister of Public Affairs.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v05p1/persons#p_CHABANDELMASJ1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v05p2/persons#p_CHABANDELMASJ1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Deputy in the French National Assembly after 1946; French Minister of Labor, June 1954–February 1955.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v06p1/persons#p_CHABANDELMASJ1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v06p2/persons#p_CHABANDELMASJ1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>French Minister of State, February 1956–May 1957; Minister of National Defense and the Armed Forces from November 1957</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v27/persons#p_CDJ1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>French Prime Minister from June 1969 until July 1972</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v38p1/persons#p_CDJ_1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v41/persons#p_CDJ_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>French Prime Minister, June 1969–July 1972</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v38p2/persons#p_CDJ_1</source-url>
+        </remark>
+        <remark source-urls="3">
+            <p>Prime Minister of France from June 1969 to July 1972</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v39/persons#p_CDJ1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve05p1/persons#p_CDJ1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve05p2/persons#p_CDJ1</source-url>
+        </remark>
+    </remarks>
+</person>

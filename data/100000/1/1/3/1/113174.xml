@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>113174</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Sullivan, Leonard, Jr.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="1">
+                <name>Sullivan, Leonard, Jr.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v35/persons#p_SLJ_1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="1">
+        <remark source-urls="1">
+            <p>Director, Defense Program Analysis and Evaluation from May 21, 1973 until February 11, 1974; Assistant Secretary of Defense for Program Analysis and Evaluation from February 11, 1974 until March 13, 1976</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v35/persons#p_SLJ_1</source-url>
+        </remark>
+    </remarks>
+</person>

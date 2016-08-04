@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>112759</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Sorenson, Roger A.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="4">
+                <name>Sorenson, Roger A.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v41/persons#p_SRA_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve11p2/persons#p_SRA_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve14p1/persons#p_SRA2</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v02/persons#p_SRA_1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="4">
+        <remark source-urls="1">
+            <p>Deputy Chief of Mission, U.S. Embassy in Dublin from December 1970</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v41/persons#p_SRA_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Deputy Chief of Mission-Counselor, U.S. Embassy in Dublin, until August 1974; Foreign Service Institute from August 1974 to June 1975; Special Assistant to the Under Secretary of State for Economic Affairs from June 1975</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve11p2/persons#p_SRA_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Special Assistant, Office of the Under Secretary of State for Economic Affairs</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve14p1/persons#p_SRA2</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Executive Assistant to the Under Secretary of State for Economic Affairs until 1977; Deputy Chief of Mission, U.S. Embassy in Geneva from 1977 until 1979; member, Policy Planning Staff, Department of State; thereafter Minister-Counselor for Food and Agriculture Organization Affairs, U.S. Mission to the UN Food and Agriculture Organization in Rome; alternate member, U.S. Delegation to the 30th session of the World Health Assembly, 1977; member, U.S. Delegation to the 20th session of the Food and Agriculture Organization Conference, 1980</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v02/persons#p_SRA_1</source-url>
+        </remark>
+    </remarks>
+</person>

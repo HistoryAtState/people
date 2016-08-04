@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>101591</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Boucher, Richard A.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="1">
+                <name>Boucher, Richard A.</name>
+                <source-url>https://history.state.gov/departmenthistory/people/boucher-richard-a</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1951</birth-year>
+    <death-year/>
+    <remarks variants="1">
+        <remark source-urls="1">
+            <p>Foreign Service Officer. Career Ambassador; Assistant Secretary of State for South and Central Asian Affairs; Assistant Secretary of State for Public Affairs; Ambassador Extraordinary and Plenipotentiary (Cyprus).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/boucher-richard-a</source-url>
+        </remark>
+    </remarks>
+</person>

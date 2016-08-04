@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>106653</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Johnson, Harold K.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="2">
+                <name>Johnson, General Harold</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v02/persons#p_JGH1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v03/persons#p_JGH1</source-url>
+            </original>
+            <original source-urls="6">
+                <name>Johnson, General Harold K.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v04/persons#p_JGHK1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v05/persons#p_JGHK1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v06/persons#p_JGHK1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v10/persons#p_JGHK1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v11/persons#p_JGHK1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v31/persons#p_JGHK1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Johnson, Gen. Harold K.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v29p2/persons#p_JGHK1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="2">
+            <title source-urls="8">
+                <name>General</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v02/persons#p_JGH1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v03/persons#p_JGH1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v04/persons#p_JGHK1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v05/persons#p_JGHK1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v06/persons#p_JGHK1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v10/persons#p_JGHK1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v11/persons#p_JGHK1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v31/persons#p_JGHK1</source-url>
+            </title>
+            <title source-urls="1">
+                <name>Gen.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v29p2/persons#p_JGHK1</source-url>
+            </title>
+        </titles-from-name>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="6">
+        <remark source-urls="2">
+            <p>USA, Chief of Staff, United States Army</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v02/persons#p_JGH1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v03/persons#p_JGH1</source-url>
+        </remark>
+        <remark source-urls="3">
+            <p>USA, Chief of Staff, U.S. Army</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v04/persons#p_JGHK1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v05/persons#p_JGHK1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v31/persons#p_JGHK1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Army Chief of Staff to June 1968</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v06/persons#p_JGHK1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Chief of Staff, U.S. Army, July 3, 1964–July 2, 1968</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v10/persons#p_JGHK1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Chief of Staff, U.S. Army, July 3, 1964-July 2, 1968</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v11/persons#p_JGHK1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>USA, Chief of Staff, United States Army from July 3, 1964 to July 2, 1968</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v29p2/persons#p_JGHK1</source-url>
+        </remark>
+    </remarks>
+</person>

@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>113219</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Suslov, Mikhail Andreyevich</name>
+        </preferred>
+        <alternates/>
+        <originals variants="4">
+            <original source-urls="4">
+                <name>Suslov, Mikhail A.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v05/persons#p_SMA1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v14/persons#p_SMA1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v13/persons#p_SMA1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v16/persons#p_SMA_2</source-url>
+            </original>
+            <original source-urls="3">
+                <name>Suslov, Mikhail Andreyevich</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v15/persons#p_SMA_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve14p2/persons#p_SMA_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1981-88v03/persons#p_SMA_1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Suslov, Mikhal A.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v01/persons#p_SMA_1</source-url>
+            </original>
+            <original source-urls="2">
+                <name>Suslov, Mikhail</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v06/persons#p_SUM_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v08/persons#p_SM_3</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="9">
+        <remark source-urls="1">
+            <p>member of the Supreme Soviet of the Soviet Union and Secretary of the Central Committee of the Communist Party of the Soviet Union</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v05/persons#p_SMA1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>member of the Presidium (Politburo) of the Central Committee of the Communist Party of the Soviet Union</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v14/persons#p_SMA1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Secretary, Central Committee of the Communist Party of the Soviet Union; member, Politburo of the Central Committee</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v13/persons#p_SMA1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>member, Secretariat of the Central Committee of the Communist Party of the Soviet Union</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v15/persons#p_SMA_1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Secretary of the Central Committee of the Communist Party of the Soviet Union; also Member of the Politburo of the Central Committee</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v16/persons#p_SMA_2</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1981-88v03/persons#p_SMA_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Secretary of the Central Committee of the Communist Party of the Soviet Union; member of the Politburo of the Central Committee</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve14p2/persons#p_SMA_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Secretary of the Central Committee of the Communist Party of the Soviet Union; Member of the Politburo of the Central Committee</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v01/persons#p_SMA_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Member of the Politburo and the Secretariat of the Communist Party of the Soviet Union</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v06/persons#p_SUM_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>member of the Soviet Politburo from 1952</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v08/persons#p_SM_3</source-url>
+        </remark>
+    </remarks>
+</person>

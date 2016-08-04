@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>114794</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Woods, Rosemary</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="2">
+                <name>Woods, Rosemary</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v13/persons#p_WR1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve10/persons#p_WR1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Woods, Rose Mary</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v14/persons#p_WRM1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="3">
+        <remark source-urls="1">
+            <p>President Nixon ’s personal secretary</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v13/persons#p_WR1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>President Nixon's Personal Secretary</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v14/persons#p_WRM1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Secretary to President Nixon until 1972</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve10/persons#p_WR1</source-url>
+        </remark>
+    </remarks>
+</person>

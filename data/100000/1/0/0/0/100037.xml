@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>100037</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Abdullah bin Abd al-Aziz al Saud</name>
+        </preferred>
+        <alternates/>
+        <originals variants="4">
+            <original source-urls="1">
+                <name>Abdullah bin Abd al-Aziz al Saud, Prince</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v24/persons#p_AAASP1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Abdullah bin Aziz al Saud</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v08/persons#p_ABAAS_1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>King Abdullah bin Abd-el Aziz al-Saud</name>
+                <source-url>https://history.state.gov/departmenthistory/visits/saudi-arabia</source-url>
+            </original>
+            <original source-urls="1">
+                <name>King Abdullah bin Albdul Aziz</name>
+                <source-url>https://history.state.gov/departmenthistory/visits/saudi-arabia</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="1">
+            <title source-urls="1">
+                <name>Prince</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v24/persons#p_AAASP1</source-url>
+            </title>
+        </titles-from-name>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="4">
+        <remark source-urls="1">
+            <p>Commander of the Saudi National Guard</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v24/persons#p_AAASP1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Prince of Saudi Arabia</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v08/persons#p_ABAAS_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>King, Saudi Arabia. Visited U.S. once, 2010</p>
+            <source-url>https://history.state.gov/departmenthistory/visits/saudi-arabia</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>King, Saudi Arabia. Visited U.S. once, 2008</p>
+            <source-url>https://history.state.gov/departmenthistory/visits/saudi-arabia</source-url>
+        </remark>
+    </remarks>
+</person>

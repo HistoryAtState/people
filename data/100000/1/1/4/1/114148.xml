@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>114148</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Vuong Van Bac</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="1">
+                <name>Vuong Van Bac, Member</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v06/persons#p_VVBM1</source-url>
+            </original>
+            <original source-urls="3">
+                <name>Vuong Van Bac</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v07/persons#p_VVB1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v09/persons#p_VVB_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v10/persons#p_VVB1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Bac, Vuong Van</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v09/persons#p_VVB_1alt1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="1">
+            <title source-urls="1">
+                <name>Member</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v06/persons#p_VVBM1</source-url>
+            </title>
+        </titles-from-name>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="5">
+        <remark source-urls="1">
+            <p>Republic of Vietnam Delegation to the Paris Peace Talks</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v06/persons#p_VVBM1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>member, South Vietnamese Delegation to the Paris Peace Talks</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v07/persons#p_VVB1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>South Vietnamese Ambassador to the United Kingdom</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v09/persons#p_VVB_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>see Vuong Van Bac</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v09/persons#p_VVB_1alt1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Minister of Foreign Affairs, Republic of Vietnam from July 1973</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v10/persons#p_VVB1</source-url>
+        </remark>
+    </remarks>
+</person>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>114602</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Williams, Albert Norman</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="2">
+                <name>Williams, Albert Norman</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve11p1/persons#p_WAN_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve11p2/persons#p_WAN_1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1935</birth-year>
+    <death-year/>
+    <remarks variants="2">
+        <remark source-urls="1">
+            <p>Counselor, Political Affairs, U.S. Embassy in the Dominican Republic, until July 1974; Assistant Director, Political Military Affairs, Office of Planning and Coordination, Bureau of Inter-American Affairs, Department of State, from July 1974 until August 1976; Detailed, National War College, from August 1976</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve11p1/persons#p_WAN_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Counselor, Political Affairs, U.S. Embassy in Santo Domingo until July 1974; Assistant Director, Political Military Affairs, Office of Planning and Coordination, Bureau of Inter-American Affairs, Department of State, from July 1974 until August 1976</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve11p2/persons#p_WAN_1</source-url>
+        </remark>
+    </remarks>
+</person>

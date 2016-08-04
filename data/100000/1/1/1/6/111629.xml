@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>111629</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Ross, Claude George Anthony</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="10">
+                <name>Ross, Claude G.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v23/persons#p_RCG_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v32/persons#p_RCG1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v05/persons#p_RCG1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v36/persons#p_RCG1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve01/persons#p_RCG1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve05p1/persons#p_RCG1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve05p2/persons#p_RCG1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve05p2/persons#p_RCG2</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve06/persons#p_RCG1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve10/persons#p_RCG1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Ross, Claude George Anthony</name>
+                <source-url>https://history.state.gov/departmenthistory/people/ross-claude-george-anthony</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Claude G. Ross</name>
+                <source-url>https://history.state.gov/departmenthistory/people/ross-claude-george-anthony</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1917</birth-year>
+    <death-year>2006</death-year>
+    <remarks variants="9">
+        <remark source-urls="1">
+            <p>Ambassador to the Central African Republic from September 16, 1963 until April 22, 1967</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v23/persons#p_RCG_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Ambassador to Haiti, June 1967–October 1969</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v32/persons#p_RCG1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Deputy Assistant Secretary of State for African Affairs; Ambassador to Tanzania, December 27, 1969–June 25, 1972</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v05/persons#p_RCG1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Deputy Assistant Secretary of State for African Affairs from August 1972 until April 1974</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v36/persons#p_RCG1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Deputy Assistant Secretary of State for African Affairs</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve01/persons#p_RCG1</source-url>
+        </remark>
+        <remark source-urls="3">
+            <p>Deputy Assistant Secretary of State for African Affairs from August 1972</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve05p1/persons#p_RCG1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve05p2/persons#p_RCG2</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve06/persons#p_RCG1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Deputy Assistant Secretary for African Affairs, Department of State, from August 1972</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve05p2/persons#p_RCG1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>U.S. Ambassador to Haiti from June 20, 1967 until October 17, 1969</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve10/persons#p_RCG1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Foreign Service Officer. Ambassador Extraordinary and Plenipotentiary (Tanzania); Ambassador Extraordinary and Plenipotentiary (Haiti); Ambassador Extraordinary and Plenipotentiary (Central African Republic).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/ross-claude-george-anthony</source-url>
+        </remark>
+    </remarks>
+</person>

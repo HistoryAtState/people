@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>108461</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Mann, Fredric Rand</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="1">
+                <name>Mann, Fredric Rand</name>
+                <source-url>https://history.state.gov/departmenthistory/people/mann-fredric-rand</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Fredric R. Mann</name>
+                <source-url>https://history.state.gov/departmenthistory/people/mann-fredric-rand</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1903</birth-year>
+    <death-year>1987</death-year>
+    <remarks variants="1">
+        <remark source-urls="1">
+            <p>Non-career appointee. Ambassador Extraordinary and Plenipotentiary (Barbados).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/mann-fredric-rand</source-url>
+        </remark>
+    </remarks>
+</person>

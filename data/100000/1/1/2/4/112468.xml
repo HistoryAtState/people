@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>112468</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Sikorski, Wladyslaw</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="1">
+                <name>Sikorski, General of the Armies Wladyslaw</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv01/persons#p_SGotAW1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Sikorski, Wladyslaw</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv02/persons#p_SGAW1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="1">
+            <title source-urls="1">
+                <name>General of the Armies</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv01/persons#p_SGotAW1</source-url>
+            </title>
+        </titles-from-name>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="1">
+        <remark source-urls="2">
+            <p>Polish Prime Minister and Commander in Chief of the Polish Armies, 1939–1943.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv01/persons#p_SGotAW1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv02/persons#p_SGAW1</source-url>
+        </remark>
+    </remarks>
+</person>

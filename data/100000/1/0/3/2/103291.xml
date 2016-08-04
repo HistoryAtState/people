@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>103291</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>DeJarnette, Edmund T.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="1">
+                <name>DeJarnette, Edmund T.</name>
+                <source-url>https://history.state.gov/departmenthistory/people/dejarnette-edmund-t</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Edmund DeJarnette</name>
+                <source-url>https://history.state.gov/departmenthistory/people/dejarnette-edmund-t</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Edmund DeJarnette Jr.</name>
+                <source-url>https://history.state.gov/departmenthistory/people/dejarnette-edmund-t</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1938</birth-year>
+    <death-year>2015</death-year>
+    <remarks variants="1">
+        <remark source-urls="1">
+            <p>Foreign Service Officer. Ambassador Extraordinary and Plenipotentiary (Tanzania); Ambassador Extraordinary and Plenipotentiary (Central African Republic); Director (Angola); Ambassador Extraordinary and Plenipotentiary (Angola).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/dejarnette-edmund-t</source-url>
+        </remark>
+    </remarks>
+</person>

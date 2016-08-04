@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>103674</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>DuBridge, Lee A.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="3">
+                <name>DuBridge, Lee A.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v24/persons#p_DBLA1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v32/persons#p_DLA1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v34/persons#p_DLA1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Du Bridge, Dr. Lee A.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v29/persons#p_DBDLA1</source-url>
+            </original>
+            <original source-urls="2">
+                <name>DuBridge, Dr. Lee A.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve01/persons#p_DBLA1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve02/persons#p_DBLA1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="1">
+            <title source-urls="3">
+                <name>Dr.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v29/persons#p_DBDLA1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve01/persons#p_DBLA1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve02/persons#p_DBLA1</source-url>
+            </title>
+        </titles-from-name>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="6">
+        <remark source-urls="1">
+            <p>Science Advisor to the President from 1969 until 1970</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v24/persons#p_DBLA1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>President, California Institute of Technology until 1969; President's Science Adviser, 1969–1970</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v29/persons#p_DBDLA1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Ph.D., Science Advisor to the President from 1969 until 1971</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v32/persons#p_DLA1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Science Advisor to the President and Director of the Office of Science and Technology from 1969 until 1970</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v34/persons#p_DLA1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>President, California Institute of Technology until 1969;President's Science Adviser, 1969–1970</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve01/persons#p_DBLA1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Science Advisor to the President, 1969–1971</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve02/persons#p_DBLA1</source-url>
+        </remark>
+    </remarks>
+</person>

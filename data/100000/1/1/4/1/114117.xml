@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>114117</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Volpe, John Anthony</name>
+        </preferred>
+        <alternates/>
+        <originals variants="5">
+            <original source-urls="4">
+                <name>Volpe, John A.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v13/persons#p_VJA1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v31/persons#p_VJA1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v36/persons#p_VJA1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve01/persons#p_VJA1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Volpe John A.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v14/persons#p_VJA1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Volpe, John</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v29/persons#p_VJ1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Volpe, John Anthony</name>
+                <source-url>https://history.state.gov/departmenthistory/people/volpe-john-anthony</source-url>
+            </original>
+            <original source-urls="1">
+                <name>John A. Volpe</name>
+                <source-url>https://history.state.gov/departmenthistory/people/volpe-john-anthony</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1908</birth-year>
+    <death-year>1994</death-year>
+    <remarks variants="5">
+        <remark source-urls="3">
+            <p>Secretary of Transportation</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v13/persons#p_VJA1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v14/persons#p_VJA1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v29/persons#p_VJ1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Ambassador to Italy</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v31/persons#p_VJA1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Ambassador to Italy from March 1973 until January 1977</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v36/persons#p_VJA1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Secretary of Transportation, January 1969–February 1973</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve01/persons#p_VJA1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Non-career appointee. Ambassador Extraordinary and Plenipotentiary (Italy).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/volpe-john-anthony</source-url>
+        </remark>
+    </remarks>
+</person>

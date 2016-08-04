@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>100075</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Ackerson, Garret G., Jr.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="2">
+                <name>Ackerson, Garrett G., Jr.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v02/persons#p_AGGJ1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v10p2/persons#p_AGGJ1</source-url>
+            </original>
+            <original source-urls="2">
+                <name>Ackerson, Garret G., Jr.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v10p1/persons#p_AGGJ1</source-url>
+                <source-url>https://history.state.gov/departmenthistory/people/ackerson-garret-g</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1904</birth-year>
+    <death-year>1992</death-year>
+    <remarks variants="4">
+        <remark source-urls="1">
+            <p>Chargé d’Affaires ad interim, Legation in Hungary</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v02/persons#p_AGGJ1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Counselor of the Legation in Budapest and Charge d'Affaires ad interim</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v10p1/persons#p_AGGJ1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Counselor of the Legation in Budapest and Chargé d’Affaires ad interim</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v10p2/persons#p_AGGJ1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Foreign Service Officer. Chargé d'Affaires ad interim (Hungary).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/ackerson-garret-g</source-url>
+        </remark>
+    </remarks>
+</person>

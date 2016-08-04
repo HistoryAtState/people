@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>113098</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Strauss, Robert Schwarz</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="2">
+                <name>Strauss, Robert Schwarz</name>
+                <source-url>https://history.state.gov/departmenthistory/people/strauss-robert-schwarz</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v18/persons#p_SRS_1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Robert S. Strauss</name>
+                <source-url>https://history.state.gov/departmenthistory/people/strauss-robert-schwarz</source-url>
+            </original>
+            <original source-urls="5">
+                <name>Strauss, Robert S.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v37/persons#p_SRS_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v01/persons#p_SRS_2</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v02/persons#p_SRS_2</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v03/persons#p_SRS_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v13/persons#p_SRS_1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1918</birth-year>
+    <death-year>2014</death-year>
+    <remarks variants="6">
+        <remark source-urls="1">
+            <p>Non-career appointee. U.S. Trade Representative; Ambassador Extraordinary and Plenipotentiary (Russia).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/strauss-robert-schwarz</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>U.S. Trade Representative, from January 1977 until August 1979; Personal Representative of the President to the Middle East from 1979</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v37/persons#p_SRS_1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Special Representative for Trade Negotiations from 1977 until 1979; Personal Representative of the President from April 1979</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v01/persons#p_SRS_2</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v02/persons#p_SRS_2</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Special Representative for Trade Negotiations from March 1977 until August 1979</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v03/persons#p_SRS_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Special Representative for Trade Negotiations from 1977 until 1980</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v13/persons#p_SRS_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Special Representative of the President to the Middle East peace negotiations from April 24, 1979, until November 6, 1979</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v18/persons#p_SRS_1</source-url>
+        </remark>
+    </remarks>
+</person>

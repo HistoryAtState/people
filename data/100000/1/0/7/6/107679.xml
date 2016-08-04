@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>107679</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Larson, Alan Philip</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="1">
+                <name>Larson, Alan Philip</name>
+                <source-url>https://history.state.gov/departmenthistory/people/larson-alan-philip</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Alan P. Larson</name>
+                <source-url>https://history.state.gov/departmenthistory/people/larson-alan-philip</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Alan Phillip Larson</name>
+                <source-url>https://history.state.gov/departmenthistory/people/larson-alan-philip</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1949</birth-year>
+    <death-year/>
+    <remarks variants="1">
+        <remark source-urls="1">
+            <p>Foreign Service Officer. Under Secretary for Economic Growth, Energy, and the Environment; Career Ambassador; Assistant Secretary of State for Economic, Energy, and Business Affairs; Representative of the U.S.A. to the Organization for Economic Cooperation and Development (Paris).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/larson-alan-philip</source-url>
+        </remark>
+    </remarks>
+</person>

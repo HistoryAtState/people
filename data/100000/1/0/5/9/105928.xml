@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>105928</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Hilldring, John Henry</name>
+        </preferred>
+        <alternates/>
+        <originals variants="4">
+            <original source-urls="2">
+                <name>Hilldring, John Henry</name>
+                <source-url>https://history.state.gov/departmenthistory/people/hilldring-john-henry</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv02/persons#p_HMGJH1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>John H. Hilldring</name>
+                <source-url>https://history.state.gov/departmenthistory/people/hilldring-john-henry</source-url>
+            </original>
+            <original source-urls="2">
+                <name>Hilldring, John H.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1943CairoTehran/persons#p_HJH1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1947v02/persons#p_HJH1</source-url>
+            </original>
+            <original source-urls="2">
+                <name>Hilldring, Major General John H.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv01/persons#p_HMGJH1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945Malta/persons#p_H7</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="1">
+            <title source-urls="2">
+                <name>Major General</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv01/persons#p_HMGJH1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945Malta/persons#p_H7</source-url>
+            </title>
+        </titles-from-name>
+    </names>
+    <birth-year>1895</birth-year>
+    <death-year>1974</death-year>
+    <remarks variants="4">
+        <remark source-urls="1">
+            <p>Non-career appointee. Assistant Secretaries of State for Occupied Areas.</p>
+            <source-url>https://history.state.gov/departmenthistory/people/hilldring-john-henry</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Major General, U. S. A., Director, Civil Affairs Division, War Department Special Staff.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1943CairoTehran/persons#p_HJH1</source-url>
+        </remark>
+        <remark source-urls="3">
+            <p>U. S. A., Director, Civil Affairs Division, War Department Special Staff.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv01/persons#p_HMGJH1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv02/persons#p_HMGJH1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1945Malta/persons#p_H7</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Assistant Secretary of State for Occupied Areas, April 1946–August 1947</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1947v02/persons#p_HJH1</source-url>
+        </remark>
+    </remarks>
+</person>

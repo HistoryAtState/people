@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>104502</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Frank, Isaiah</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="5">
+                <name>Frank, Isaiah</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v06p1/persons#p_FRANKI1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v06p2/persons#p_FRANKI1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v09/persons#p_FI1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v27/persons#p_FI1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v04/persons#p_FI1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="4">
+        <remark source-urls="2">
+            <p>Office of Economic Defense and Trade Policy, Bureau of Economic Affairs, Department of State from September 15, 1952.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v06p1/persons#p_FRANKI1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v06p2/persons#p_FRANKI1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Deputy Director, Office of Economic Defense and Trade Policy, Bureau of Economic Affairs, Department of State, until January 15, 1955; Deputy Director, Office of International Trade until June 1, 1957; thereafter Acting Director</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v09/persons#p_FI1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Deputy Director of the Office of International Trade and Resources, Department of State, January 1955–June 1957; Acting Director, Office of International Trade, from June 1957</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v27/persons#p_FI1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Deputy Director, Office of International Trade, Bureau of Economic Affairs, Department of State, until January 1959; Director, January–April 1959; Acting Director, Office of International Financial and Development Affairs, Bureau of Economic Affairs, from September 1960</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v04/persons#p_FI1</source-url>
+        </remark>
+    </remarks>
+</person>

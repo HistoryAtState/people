@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>109023</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Mendelevich, Lev Isakovich</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="2">
+                <name>Mendelevich, Lev I.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v11/persons#p_MLI1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v11/persons#p_MLI1</source-url>
+            </original>
+            <original source-urls="2">
+                <name>Mendelevich, Lev Isakovich</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v05/persons#p_MLI1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v26/persons#p_ML_1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Mendelevich, Lev</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v39/persons#p_MLI1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="5">
+        <remark source-urls="1">
+            <p>Head, Latin American Department, Ministry of Foreign Affairs, Union of Soviet Socialist Republics</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v11/persons#p_MLI1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Head of Latin American Department, Soviet Foreign Ministry</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v11/persons#p_MLI1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Soviet Deputy Permanent Representative to the United Nations until 1970</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v05/persons#p_MLI1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Soviet Ambassador to CSCE; Soviet Deputy Permanent Representative to the UN until 1970</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v39/persons#p_MLI1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Soviet Ambassador and Head of Delegation to Conventional Arms Transfers Talks</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v26/persons#p_ML_1</source-url>
+        </remark>
+    </remarks>
+</person>

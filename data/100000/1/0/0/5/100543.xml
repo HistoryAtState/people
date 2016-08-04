@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>100543</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Areilza, José María de</name>
+        </preferred>
+        <alternates/>
+        <originals variants="8">
+            <original source-urls="2">
+                <name>Areilza, Jose Maria de</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v06p1/persons#p_AREILZAJM1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v06p2/persons#p_AREILZAJM1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Areilza, José M. De, Count of Motrico</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v27/persons#p_AJMDCM1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>De Areilza</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v27/persons#p_DA1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Motrico, Count</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v27/persons#p_MC1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Areilza y Martinez-Rodas, José Maria</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v07p1/persons#p_AMRJM1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Areilza y Martinez-Rodas, José Maria, Count de Motrico</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v07p2/persons#p_AMRJM1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Areilza, Jose Maria de (Count of Motrico)</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v41/persons#p_AJM_1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Areilza, José María de</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve15p2/persons#p_AJM_1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="2">
+            <title source-urls="2">
+                <name>Count of Motrico</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v27/persons#p_AJMDCM1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v41/persons#p_AJM_1</source-url>
+            </title>
+            <title source-urls="1">
+                <name>Count de Motrico</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v07p2/persons#p_AMRJM1</source-url>
+            </title>
+        </titles-from-name>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="7">
+        <remark source-urls="2">
+            <p>Spanish Ambassador in the United States from November 6, 1954.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v06p1/persons#p_AREILZAJM1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v06p2/persons#p_AREILZAJM1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Spanish Ambassador to the United States</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v27/persons#p_AJMDCM1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>see Areilza, José M. de</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v27/persons#p_DA1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v27/persons#p_MC1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Count de Motrico, Spanish Ambassador in the United States until July 1960</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v07p1/persons#p_AMRJM1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Spanish Ambassador in the United States until July 1960</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v07p2/persons#p_AMRJM1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Spanish Ambassador to the United States from 1954 until 1960</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v41/persons#p_AJM_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Spanish Foreign Minister from 1975 until 1976</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve15p2/persons#p_AJM_1</source-url>
+        </remark>
+    </remarks>
+</person>

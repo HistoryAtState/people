@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>107640</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Lange, Halvard M.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="8">
+                <name>Lange, Halvard M.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v03p1/persons#p_LHM1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v03p2/persons#p_LHM1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v04p1/persons#p_LHM1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v04p2/persons#p_LHM1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v05p1/persons#p_LANGEHM1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v05p2/persons#p_LANGEHM1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v04/persons#p_LHM1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v27/persons#p_LHM1</source-url>
+            </original>
+            <original source-urls="5">
+                <name>Lange, Halvard</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v06p1/persons#p_LANGEH1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v06p2/persons#p_LANGEH1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v16/persons#p_LH1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v07p1/persons#p_LH1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v07p2/persons#p_LH1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="5">
+        <remark source-urls="2">
+            <p>Norwegian Foreign Minister.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1951v03p1/persons#p_LHM1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1951v03p2/persons#p_LHM1</source-url>
+        </remark>
+        <remark source-urls="4">
+            <p>Norwegian Foreign Minister</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1951v04p1/persons#p_LHM1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1951v04p2/persons#p_LHM1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v07p1/persons#p_LH1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v07p2/persons#p_LH1</source-url>
+        </remark>
+        <remark source-urls="4">
+            <p>Norwegian Minister of Foreign Affairs after February 1, 1946.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v05p1/persons#p_LANGEHM1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v05p2/persons#p_LANGEHM1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v06p1/persons#p_LANGEH1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v06p2/persons#p_LANGEH1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Norwegian Minister of Foreign Affairs from February 1956</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v04/persons#p_LHM1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v27/persons#p_LHM1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Norwegian Minister of Foreign Affairs</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v16/persons#p_LH1</source-url>
+        </remark>
+    </remarks>
+</person>

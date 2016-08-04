@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>112173</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Sears, Mason</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="4">
+                <name>Sears, Mason</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v03/persons#p_SEARSM1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v11p1/persons#p_SM2</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v11p2/persons#p_SM2</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v18/persons#p_SM1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="3">
+        <remark source-urls="1">
+            <p>Representative of the United States on the Trusteeship Council from June 12, 1953.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v03/persons#p_SEARSM1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Representative on the United Nations Trusteeship Council from June 12, 1953; Representative on the Committee on Information for Non-Self-Governing Territories, 1953: Member of the United Nations Visiting Mission to Trust Territories in East Africa, 1954.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v11p1/persons#p_SM2</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v11p2/persons#p_SM2</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Representative to the United Nations Trusteeship Council</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v18/persons#p_SM1</source-url>
+        </remark>
+    </remarks>
+</person>

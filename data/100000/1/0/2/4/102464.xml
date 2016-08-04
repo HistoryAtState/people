@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>102464</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Cherne, Leo M.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="4">
+                <name>Cherne, Leo</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v07p1/persons#p_CL1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v07p2/persons#p_CL1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v35/persons#p_CL_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve03/persons#p_CL1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Cherne, Leon</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v38p2/persons#p_CL_1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Cherne, Leo M.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v02/persons#p_CLM_1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="5">
+        <remark source-urls="2">
+            <p>Chairman of International Rescue.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v07p1/persons#p_CL1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v07p2/persons#p_CL1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Member of the President’s Foreign Intelligence Advisory Board from June 28, 1973 until March 11, 1976; thereafter Chairman</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v35/persons#p_CL_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Executive Director of the Research Institute of America; member, President’s Foreign Intelligence Advisory Board from June 28, 1973; Chairman from March 11, 1976</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v38p2/persons#p_CL_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Member, President’s Foreign Intelligence Advisory Board</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve03/persons#p_CL1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Chairman of the Board of Directors, International Rescue Committee; Chairman, President’s Foreign Intelligence Advisory Board and member, Intelligence Oversight Board, until 1977; member, Citizens Commission on Indochinese Refugees</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v02/persons#p_CLM_1</source-url>
+        </remark>
+    </remarks>
+</person>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>101700</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Breen, John R.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="2">
+                <name>Breen, John R.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v31/persons#p_BJR1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve10/persons#p_BJR1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="2">
+        <remark source-urls="1">
+            <p>Deputy Director, Office of Development Planning and Programs, Bureau of Inter-American Affairs, Department of State, January 1967–July 1968; thereafter Director, Office of Central American Affairs</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v31/persons#p_BJR1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Country Director for Central America, Bureau of Inter-American Affairs, Department of State until 1972</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve10/persons#p_BJR1</source-url>
+        </remark>
+    </remarks>
+</person>

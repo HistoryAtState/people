@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>111984</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Sawyer, Charles</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="7">
+                <name>Sawyer, Charles</name>
+                <source-url>https://history.state.gov/departmenthistory/people/sawyer-charles</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv02/persons#p_SC1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1948v02/persons#p_SC2</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v02p1/persons#p_SAWYERC1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v02p2/persons#p_SAWYERC1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v09p1/persons#p_SC1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v09p2/persons#p_SC1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1887</birth-year>
+    <death-year>1979</death-year>
+    <remarks variants="5">
+        <remark source-urls="1">
+            <p>Non-career appointee. Envoy Extraordinary and Minister Plenipotentiary (Luxembourg); Ambassador Extraordinary and Plenipotentiary (Belgium).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/sawyer-charles</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Ambassador to Belgium; Minister to Luxembourg.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv02/persons#p_SC1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Secretary of Commerce, from May 1948</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1948v02/persons#p_SC2</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Secretary of Commerce until January 1953.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v02p1/persons#p_SAWYERC1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v02p2/persons#p_SAWYERC1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Secretary of Commerce until January 20, 1953.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v09p1/persons#p_SC1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v09p2/persons#p_SC1</source-url>
+        </remark>
+    </remarks>
+</person>

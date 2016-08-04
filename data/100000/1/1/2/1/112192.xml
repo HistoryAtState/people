@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>112192</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Segni, Antonio</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="9">
+                <name>Segni, Antonio</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v04/persons#p_SA1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v27/persons#p_SA1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v03/persons#p_SA13</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v07p1/persons#p_SA1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v07p2/persons#p_SA1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v08/persons#p_SA1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v09/persons#p_SA2</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v13/persons#p_SA1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v12/persons#p_SA1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>President Segni</name>
+                <source-url>https://history.state.gov/departmenthistory/visits/italy</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Prime Minister Segni</name>
+                <source-url>https://history.state.gov/departmenthistory/visits/italy</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="10">
+        <remark source-urls="1">
+            <p>Prime Minister of Italy, July 1955–May 1957</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v04/persons#p_SA1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Italian Prime Minister, July 1955–May 1957</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v27/persons#p_SA1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Italian Deputy Prime Minister and Minister of Defense from July 1958; Prime Minister and Minister of the Interior from February 1959; Minister of Foreign Affairs from March 1960</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v03/persons#p_SA13</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Deputy Italian Prime Minister and Defense Minister, July 1958–January 1959; Prime Minister, February 1959–February 1960; thereafter Foreign Minister</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v07p1/persons#p_SA1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v07p2/persons#p_SA1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Italian Deputy Prime Minister and Minister of the Interior, July 1958–January 1959; Prime Minister from February 1959</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v08/persons#p_SA1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Italian Deputy Prime Minister and Minister of the Interior, July 1958–January 1959; Prime Minister, February 1959–February 1960; thereafter Foreign Minister</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v09/persons#p_SA2</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Italian Foreign Minister until May 1962; President of the Italian Republic thereafter</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v13/persons#p_SA1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>President of Italy until December 6, 1964</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v12/persons#p_SA1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>President, Italy. Visited U.S. once, 1964</p>
+            <source-url>https://history.state.gov/departmenthistory/visits/italy</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Prime Minister, Italy. Visited U.S. once, 1959</p>
+            <source-url>https://history.state.gov/departmenthistory/visits/italy</source-url>
+        </remark>
+    </remarks>
+</person>

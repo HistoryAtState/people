@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>109706</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Nelson, Harvey Frans, Jr.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="1">
+                <name>Nelson, Harvey F., Jr.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v28/persons#p_NHF_1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Nelson, Harvey Frans, Jr.</name>
+                <source-url>https://history.state.gov/departmenthistory/people/nelson-harvey-frans</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1924</birth-year>
+    <death-year/>
+    <remarks variants="2">
+        <remark source-urls="1">
+            <p>Bureau of African Affairs, Department of State</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v28/persons#p_NHF_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Foreign Service Officer. Ambassador Extraordinary and Plenipotentiary (Swaziland).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/nelson-harvey-frans</source-url>
+        </remark>
+    </remarks>
+</person>

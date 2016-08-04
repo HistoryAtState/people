@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>109974</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Nuwar, Ali Abu</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="1">
+                <name>Nuwar (Nawar, Nuwwar), Maj. Gen. Ali Abu</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v13/persons#p_NMGAA1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="1">
+            <title source-urls="1">
+                <name>Maj. Gen.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v13/persons#p_NMGAA1</source-url>
+            </title>
+        </titles-from-name>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="1">
+        <remark source-urls="1">
+            <p>Chief of Staff of the Jordanian Arab Legion, May 1956–April 1957; thereafter in exile</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v13/persons#p_NMGAA1</source-url>
+        </remark>
+    </remarks>
+</person>

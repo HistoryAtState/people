@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>114883</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Yasukawa, Takeshi</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="4">
+                <name>Yasukawa, Takeshi</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v29p2/persons#p_YT1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v37/persons#p_YT_2</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve14p2/persons#p_TY_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v03/persons#p_YT_1</source-url>
+            </original>
+            <original source-urls="2">
+                <name>Yasukawa Takeshi</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v36/persons#p_YT1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve12/persons#p_yasukawa-takeshi</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="6">
+        <remark source-urls="1">
+            <p>Director of North American Affairs Bureau, Japanese Ministry of Foreign Affairs from January 8, 1965 to May 4, 1965</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v29p2/persons#p_YT1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Japanese Ambassador to the United States from 1973</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v36/persons#p_YT1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Japanese Ambassador to the U.S. until 1976</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v37/persons#p_YT_2</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Japanese Ambassador to the United States from July 1973</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve12/persons#p_yasukawa-takeshi</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Japanese Ambassador to the United States</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve14p2/persons#p_TY_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Representative of Japan for External Economic Affairs from 1979 until 1980</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v03/persons#p_YT_1</source-url>
+        </remark>
+    </remarks>
+</person>

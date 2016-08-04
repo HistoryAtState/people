@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>109067</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Merry, William Lawrence</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="1">
+                <name>Merry, William Lawrence</name>
+                <source-url>https://history.state.gov/departmenthistory/people/merry-william-lawrence</source-url>
+            </original>
+            <original source-urls="1">
+                <name>William L. Merry</name>
+                <source-url>https://history.state.gov/departmenthistory/people/merry-william-lawrence</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1842</birth-year>
+    <death-year>1911</death-year>
+    <remarks variants="1">
+        <remark source-urls="1">
+            <p>Non-career appointee. Envoy Extraordinary and Minister Plenipotentiary (Nicaragua); Envoy Extraordinary and Minister Plenipotentiary (El Salvador); Envoy Extraordinary and Minister Plenipotentiary (Costa Rica).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/merry-william-lawrence</source-url>
+        </remark>
+    </remarks>
+</person>

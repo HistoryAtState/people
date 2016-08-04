@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>109606</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Myrdal, Alva</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="4">
+                <name>Myrdal, Alva</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v07/persons#p_MA12</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v11/persons#p_MA12</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v32/persons#p_MA1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve02/persons#p_MA12</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="4">
+        <remark source-urls="1">
+            <p>head of the Swedish Delegation to the Eighteen-Nation Disarmament Conference</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v07/persons#p_MA12</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Head of the Swedish Delegation to the Eighteen-Nation Disarmament Committee</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v11/persons#p_MA12</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Swedish delegate to the Conference of the Committee on Disarmament</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v32/persons#p_MA1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Ambassador and Leader of the Swedish Delegation to the Conference of the Committee on Disarmament</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve02/persons#p_MA12</source-url>
+        </remark>
+    </remarks>
+</person>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>112237</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Seraj, Majid</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="2">
+                <name>Seraj, Dr. Majid</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v11/persons#p_SDM1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve07/persons#p_SDM1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="1">
+            <title source-urls="2">
+                <name>Dr.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v11/persons#p_SDM1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve07/persons#p_SDM1</source-url>
+            </title>
+        </titles-from-name>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="1">
+        <remark source-urls="2">
+            <p>Afghan Minister of Public Health</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v11/persons#p_SDM1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve07/persons#p_SDM1</source-url>
+        </remark>
+    </remarks>
+</person>

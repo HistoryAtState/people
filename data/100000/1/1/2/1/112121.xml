@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>112121</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Schütz, Klaus</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="1">
+                <name>Schuetz, Klaus</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v15/persons#p_SK4</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Schuetz, Klaus (SPD)</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v15/persons#p_SK4</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Schütz, Klaus</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v40/persons#p_SK2</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="1">
+            <title source-urls="1">
+                <name>(SPD)</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v15/persons#p_SK4</source-url>
+            </title>
+        </titles-from-name>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="3">
+        <remark source-urls="1">
+            <p>Berlin Senator for Bundestag Affairs</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v15/persons#p_SK4</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Berlin Senator for Federal Affairs and Berlin Plenipotentiary in Bonn until December 1966; then First State Secretary (Political and Administrative Affairs) in the West German Foreign Office until October 1967; thereafter Governing Mayor of Berlin</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v15/persons#p_SK4</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>(SPD), Governing Mayor of Berlin</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v40/persons#p_SK2</source-url>
+        </remark>
+    </remarks>
+</person>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>106677</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Johnson, Roy W.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="1">
+                <name>Johnson, Roy W.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1950-55Intel/persons#p_JRW1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="1">
+        <remark source-urls="1">
+            <p>Director, Advanced Research Projects Agency, Department of Defense from February 1958 to 1959</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1950-55Intel/persons#p_JRW1</source-url>
+        </remark>
+    </remarks>
+</person>

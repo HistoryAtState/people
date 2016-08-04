@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>114464</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Wexler, Anne</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="5">
+                <name>Wexler, Anne</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v01/persons#p_WA_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v02/persons#p_WA_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v03/persons#p_WA_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v13/persons#p_WA_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v21/persons#p_WA_1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="4">
+        <remark source-urls="2">
+            <p>White House Assistant for Public Outreach from May 1, 1978, until January 1981</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v01/persons#p_WA_1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v02/persons#p_WA_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Deputy Under Secretary of Commerce for Regional Affairs until April 1978; Assistant to the President from May 1978</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v03/persons#p_WA_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Special Assistant to President Carter for Public Outreach from April 1978 until January 1981</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v13/persons#p_WA_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Assistant to the President for Public Liaison</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v21/persons#p_WA_1</source-url>
+        </remark>
+    </remarks>
+</person>

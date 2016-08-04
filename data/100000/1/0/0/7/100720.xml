@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>100720</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Babenko, Yuri F.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="1">
+                <name>Babenko, Yuri F.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v25/persons#p_BYF_1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="1">
+        <remark source-urls="1">
+            <p>Third Secretary, Soviet Embassy in Washington</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v25/persons#p_BYF_1</source-url>
+        </remark>
+    </remarks>
+</person>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>114349</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Wayne, Earl Anthony</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="2">
+                <name>Wayne, Earl Anthony</name>
+                <source-url>https://history.state.gov/departmenthistory/people/wayne-earl-anthony</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1981-88v03/persons#p_WEA_1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1950</birth-year>
+    <death-year/>
+    <remarks variants="2">
+        <remark source-urls="1">
+            <p>Foreign Service Officer. Career Ambassador; Assistant Secretary of State for Economic, Energy, and Business Affairs; Ambassador Extraordinary and Plenipotentiary (Mexico); Ambassador Extraordinary and Plenipotentiary (Argentina).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/wayne-earl-anthony</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>member, Special Assistant to the Secretary of State</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1981-88v03/persons#p_WEA_1</source-url>
+        </remark>
+    </remarks>
+</person>

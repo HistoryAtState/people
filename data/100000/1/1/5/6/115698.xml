@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>115698</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Khlestov, Oleg</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="1">
+                <name>Khlestov, Oleg</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v26/persons#p_KO_1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="1">
+        <remark source-urls="1">
+            <p>Soviet Representative to the International Atomic Energy Agency from 1978 until 1988; Representative to Bilateral Working Group on Anti-Satellite Systems</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v26/persons#p_KO_1</source-url>
+        </remark>
+    </remarks>
+</person>

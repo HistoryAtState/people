@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>101441</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Bloomfield, Richard Joseph</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="5">
+                <name>Bloomfield, Richard Joseph</name>
+                <source-url>https://history.state.gov/departmenthistory/people/bloomfield-richard-joseph</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v22/persons#p_BR_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve11p1/persons#p_BRJ_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve11p2/persons#p_BRJ_2</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve14p2/persons#p_BRRJ_1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Richard J. Bloomfield</name>
+                <source-url>https://history.state.gov/departmenthistory/people/bloomfield-richard-joseph</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Bloomfield, Richard J.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v31/persons#p_BRJ1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1927</birth-year>
+    <death-year>2011</death-year>
+    <remarks variants="6">
+        <remark source-urls="1">
+            <p>Foreign Service Officer. Ambassador Extraordinary and Plenipotentiary (Portugal); Ambassador Extraordinary and Plenipotentiary (Ecuador).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/bloomfield-richard-joseph</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Director, Office of Ecuadorian-Peruvian Affairs, Bureau of Inter-American Affairs, Department of State, October 1967–July 1968</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v31/persons#p_BRJ1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Staff Director, NSC Interdepartmental Group for Inter-American Affairs, from 1973; Director of the Office of Policy Coordination, Bureau of Inter-American Affairs, Department of State, from August 1973; Ambassador to Ecuador, from May 1976</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v22/persons#p_BR_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Staff Director, NSC Interdepartmental Group for Inter-American Affairs, from 1973; Director of the Office of Policy Coordination, Bureau of Inter-American Affairs, Department of State, from August 1973; U.S. Ambassador to Ecuador from May 1976</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve11p1/persons#p_BRJ_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Staff Director, National Security Council Interdepartmental Group for Inter-American Affairs, from 1973; Director of the Office of Policy Coordination, Bureau of Inter-American Affairs, Department of State, from August 1973; U.S. Ambassador to Ecuador from May 1976</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve11p2/persons#p_BRJ_2</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Director, Office of Policy Planning and Coordination, Bureau of Inter-American Affairs, Department of State; also Staff Director, NSC Interdepartmental Group, Bureau of Inter-American Affairs</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve14p2/persons#p_BRRJ_1</source-url>
+        </remark>
+    </remarks>
+</person>

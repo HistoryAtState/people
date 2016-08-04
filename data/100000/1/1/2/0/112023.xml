@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>112023</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Schecter, Jerrold</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="7">
+                <name>Schecter, Jerrold</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v13/persons#p_SJ1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v01/persons#p_SJ_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v02/persons#p_SJ_2</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v08/persons#p_SJ_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v13/persons#p_SJ_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v20/persons#p_SJ_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v30/persons#p_SJ_1</source-url>
+            </original>
+            <original source-urls="2">
+                <name>Schecter, Jerry</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v16/persons#p_SJ_2</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v37/persons#p_SJ_2</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="8">
+        <remark source-urls="1">
+            <p>Moscow bureau chief for Time magazine</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v13/persons#p_SJ1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Moscow Bureau Chief for Time Magazine</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v16/persons#p_SJ_2</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Member of National Security Council Staff</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v37/persons#p_SJ_2</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>member, National Security Council staff, Press and Congressional Liaison Office, Press Officer and Associate Press Secretary from January 1977 until February 1980</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v01/persons#p_SJ_1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>member, Press and Congressional Liaison Office, National Security Council Staff; Press Officer and Associate Press Secretary from January 1977 until February 1980</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v02/persons#p_SJ_2</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v30/persons#p_SJ_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>White House Press Officer and Associate Press Secretary from January 1977 until February 1980</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v08/persons#p_SJ_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Press Officer and Associate Press Secretary, National Security Council from January 1977 until February 1980</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v13/persons#p_SJ_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Press Officer and Associate Press Secretary, Congressional Liaison Office, National Security Council, from January 1977 until February 1980</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v20/persons#p_SJ_1</source-url>
+        </remark>
+    </remarks>
+</person>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>114108</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Vogeler, Robert A.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="2">
+                <name>Vogeler, Robert A.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v04p1/persons#p_VRA1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v04p2/persons#p_VRA1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="1">
+        <remark source-urls="2">
+            <p>an American citizen and Assistant Vice President of the International Telephone and Telegraph Corporation, arrested in Hungary in November 1949, held incommunicado, tried, and convicted in February 1950 by a Hungarian court of alleged espionage against Hungary; released to American authorities in April 1951</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1951v04p1/persons#p_VRA1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1951v04p2/persons#p_VRA1</source-url>
+        </remark>
+    </remarks>
+</person>

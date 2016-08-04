@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>114265</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Ward, Angus Ivan</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="2">
+                <name>Ward, Angus Ivan</name>
+                <source-url>https://history.state.gov/departmenthistory/people/ward-angus-ivan</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v05/persons#p_WA1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Angus Ward</name>
+                <source-url>https://history.state.gov/departmenthistory/people/ward-angus-ivan</source-url>
+            </original>
+            <original source-urls="4">
+                <name>Ward, Angus</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v09p1/persons#p_WA1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v09p2/persons#p_WA1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v11p1/persons#p_WA1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v11p2/persons#p_WA1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1893</birth-year>
+    <death-year>1969</death-year>
+    <remarks variants="3">
+        <remark source-urls="1">
+            <p>Foreign Service Officer. Ambassador Extraordinary and Plenipotentiary (Afghanistan).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/ward-angus-ivan</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Consul General at Nairobi.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1951v05/persons#p_WA1</source-url>
+        </remark>
+        <remark source-urls="4">
+            <p>Consul General at Nairobi until June 20, 1952; Ambassador to Afghanistan from November 8, 1952.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v09p1/persons#p_WA1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v09p2/persons#p_WA1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v11p1/persons#p_WA1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v11p2/persons#p_WA1</source-url>
+        </remark>
+    </remarks>
+</person>

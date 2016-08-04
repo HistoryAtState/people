@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>100327</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>al-Mulki, Fawzi</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="1">
+                <name>al-Mulki, Fawzi</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v05/persons#p_AMF1</source-url>
+            </original>
+            <original source-urls="2">
+                <name>El Mulki (Mulqui), Dr. Fawzi</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v09p1/persons#p_EMDF1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v09p2/persons#p_EMDF1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>al–Mulki, Fawzi</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v13/persons#p_aMF1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="1">
+            <title source-urls="2">
+                <name>Dr.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v09p1/persons#p_EMDF1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v09p2/persons#p_EMDF1</source-url>
+            </title>
+        </titles-from-name>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="3">
+        <remark source-urls="1">
+            <p>Jordanian Minister of Defense until December 1950.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1951v05/persons#p_AMF1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Prime Minister of Jordan, May 5, 1953–May 2, 1954.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v09p1/persons#p_EMDF1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v09p2/persons#p_EMDF1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Jordanian Minister of Court and Minister of Defense, December 20, 1955–January 9, 1956</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v13/persons#p_aMF1</source-url>
+        </remark>
+    </remarks>
+</person>

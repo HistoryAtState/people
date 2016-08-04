@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>108036</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Livingston, Robert Gerald</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="2">
+                <name>Livingston, Robert Gerald</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v29/persons#p_LRG1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v40/persons#p_LRG1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Livingston, Robert</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve15p2/persons#p_LR_1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="3">
+        <remark source-urls="1">
+            <p>member, NSC Staff</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v29/persons#p_LRG1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Political Officer (Deputy Chief of the Political Section) at the Embassy in West Germany until August 1970; Office of Disarmament and Communist Political-Military Affairs, Bureau of Politico-Military Affairs, Department of State, from November 1971 until February 1972; then member of the National Security Council Operations Staff (Europe)</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v40/persons#p_LRG1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Staff member, National Security Council</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve15p2/persons#p_LR_1</source-url>
+        </remark>
+    </remarks>
+</person>

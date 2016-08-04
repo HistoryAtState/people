@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>103065</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Curtin, Andrew Gregg</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="1">
+                <name>Curtin, Andrew Gregg</name>
+                <source-url>https://history.state.gov/departmenthistory/people/curtin-andrew-gregg</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Andrew G. Curtin</name>
+                <source-url>https://history.state.gov/departmenthistory/people/curtin-andrew-gregg</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1815</birth-year>
+    <death-year>1894</death-year>
+    <remarks variants="1">
+        <remark source-urls="1">
+            <p>Non-career appointee. Envoy Extraordinary and Minister Plenipotentiary (Russia).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/curtin-andrew-gregg</source-url>
+        </remark>
+    </remarks>
+</person>

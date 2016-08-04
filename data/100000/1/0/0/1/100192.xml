@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>100192</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>al-Atasi, Fayid</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="2">
+                <name>al-Atasi, Fayid</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v05/persons#p_AAF1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v12/persons#p_aAF</source-url>
+            </original>
+            <original source-urls="1">
+                <name>al–Atasi, Fayid</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v13/persons#p_aAF1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="2">
+        <remark source-urls="1">
+            <p>Syrian Foreign Minister, August–November 1951.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1951v05/persons#p_AAF1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Syrian Foreign Minister until February 13, 1955</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v12/persons#p_aAF</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v13/persons#p_aAF1</source-url>
+        </remark>
+    </remarks>
+</person>

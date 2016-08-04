@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>105603</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Harrop, William Caldwell</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="2">
+                <name>Harrop, William Caldwell</name>
+                <source-url>https://history.state.gov/departmenthistory/people/harrop-william-caldwell</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v30/persons#p_HWC_1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>William C. Harrop</name>
+                <source-url>https://history.state.gov/departmenthistory/people/harrop-william-caldwell</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Harrop, William C.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve05p2/persons#p_HWC1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1929</birth-year>
+    <death-year/>
+    <remarks variants="3">
+        <remark source-urls="1">
+            <p>Foreign Service Officer. Inspector General of the Department of State and the Foreign Service; Ambassador Extraordinary and Plenipotentiary (Seychelles); Ambassador Extraordinary and Plenipotentiary (Kenya); Ambassador Extraordinary and Plenipotentiary (Israel); Ambassador Extraordinary and Plenipotentiary (Guinea); Ambassador Extraordinary and Plenipotentiary (Congo (Kinshasa)).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/harrop-william-caldwell</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Director, Office of Research and Analysis for Africa, Bureau of Intelligence and Research, Department of State, from June 1969 to 1971</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve05p2/persons#p_HWC1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>U.S. Ambassador to Guinea until July 15, 1977; Principal Deputy Assistant Secretary of State for African Affairs from July 1977 until May 1980; U.S. Ambassador to Kenya from July 10, 1980</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v30/persons#p_HWC_1</source-url>
+        </remark>
+    </remarks>
+</person>

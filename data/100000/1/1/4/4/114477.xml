@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>114477</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Wheeler, George Post</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="1">
+                <name>Wheeler, George Post</name>
+                <source-url>https://history.state.gov/departmenthistory/people/wheeler-george-post</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Post Wheeler</name>
+                <source-url>https://history.state.gov/departmenthistory/people/wheeler-george-post</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1869</birth-year>
+    <death-year>1956</death-year>
+    <remarks variants="1">
+        <remark source-urls="1">
+            <p>Foreign Service Officer. Envoy Extraordinary and Minister Plenipotentiary (Paraguay); Envoy Extraordinary and Minister Plenipotentiary (Albania).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/wheeler-george-post</source-url>
+        </remark>
+    </remarks>
+</person>

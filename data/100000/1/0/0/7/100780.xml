@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>100780</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Baker, John Alexander, Jr.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="4">
+            <original source-urls="2">
+                <name>Baker, John A.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve14p1/persons#p_BJAJ1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve15p1/persons#p_BJAJ1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Baker, John</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v16/persons#p_BJ1</source-url>
+            </original>
+            <original source-urls="4">
+                <name>Baker, John A., Jr.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v13/persons#p_BJAJ1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v29/persons#p_BJAJ1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v40/persons#p_BJAJ1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v02/persons#p_BJAJ_1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Baker, John Alexander, Jr.</name>
+                <source-url>https://history.state.gov/departmenthistory/people/baker-john-alexander</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1927</birth-year>
+    <death-year>1994</death-year>
+    <remarks variants="8">
+        <remark source-urls="1">
+            <p>Director, Office of United Nations Political Affairs, Bureau of International Organization Affairs, Department of State</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve14p1/persons#p_BJAJ1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Bureau of European Affairs, Department of State</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve15p1/persons#p_BJAJ1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>U.S. Mission to the United Nations, New York</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v16/persons#p_BJ1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Country Director for Czechoslovakia, Hungary, and Poland, Bureau of European Affairs, Department of State</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v13/persons#p_BJAJ1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Director, Office of Czechoslovak, Hungarian, and Polish Affairs, Bureau for European Affairs, Department of State from August 1970</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v29/persons#p_BJAJ1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Country Director for Czechoslovakia, Hungary, Poland, Bureau for European Affairs from August 1970</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v40/persons#p_BJAJ1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Deputy Assistant Secretary for Political and Multilateral Affairs, Bureau of International Organization Affairs, Department of State, until 1978; Director, Bureau of Refugee Programs, Department of State, from August 26, 1979, until October 30, 1980; thereafter faculty, Naval War College</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v02/persons#p_BJAJ_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Foreign Service Officer. Assistant Secretary of State for Population, Refugees, and Migration Affairs.</p>
+            <source-url>https://history.state.gov/departmenthistory/people/baker-john-alexander</source-url>
+        </remark>
+    </remarks>
+</person>

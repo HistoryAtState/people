@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>114228</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Wallner, Woodruff</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="16">
+                <name>Wallner, Woodruff</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1947v02/persons#p_WW1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1948v02/persons#p_WW1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v08/persons#p_WW1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v12/persons#p_WW1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v26/persons#p_WW1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v02/persons#p_WW6</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v04/persons#p_WW1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v13/persons#p_WW1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v17/persons#p_WW6</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v17/persons#p_WW6</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v18/persons#p_WW6</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v20/persons#p_WW1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v23/persons#p_WW1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v25/persons#p_WW6</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v06/persons#p_WW1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v07/persons#p_WW1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="11">
+        <remark source-urls="1">
+            <p>Assistant Chief, Division of Western European Affairs, Department of State, July 1946–August 1947; Associate Chief from August 1947</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1947v02/persons#p_WW1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Associate Chief, Division of Western European Affairs, Department of State, August 1947–July 1948; from July 1948, First Secretary and Counselor of the United States Embassy in France</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1948v02/persons#p_WW1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Counselor of the Embassy in France, April 1952–October 1952; Counselor of the Embassy in Yugoslavia, October 1952–October 1954; Political Adviser, European Command, at Paris, October 1954–April 1957.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v08/persons#p_WW1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Counselor of the Embassy in France and Political Adviser to the European Command at Paris until April 7, 1957</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v12/persons#p_WW1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Counselor of the Embassy in France and Political Adviser to the European Command, Paris</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v26/persons#p_WW1</source-url>
+        </remark>
+        <remark source-urls="3">
+            <p>Deputy Assistant Secretary of State for International Organization Affairs from August 1959</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v02/persons#p_WW6</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v04/persons#p_WW1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v17/persons#p_WW6</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Deputy Assistant Secretary for International Organization Affairs from August 1959</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v13/persons#p_WW1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Deputy Assistant Secretary of State for International Organization Affairs until February 23, 1961</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v17/persons#p_WW6</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v18/persons#p_WW6</source-url>
+        </remark>
+        <remark source-urls="3">
+            <p>Deputy Assistant Secretary of State for International Organization Affairs</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v20/persons#p_WW1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v23/persons#p_WW1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v25/persons#p_WW6</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Deputy Chief of Mission of the Embassy in Paris</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v06/persons#p_WW1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Deputy Chief of Mission of the Embassy in France</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v07/persons#p_WW1</source-url>
+        </remark>
+    </remarks>
+</person>

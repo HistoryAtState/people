@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>102889</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Costello, John A.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="2">
+                <name>Costello, John A.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v06p1/persons#p_COSTELLOJA1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v06p2/persons#p_COSTELLOJA1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Prime Minister Costello</name>
+                <source-url>https://history.state.gov/departmenthistory/visits/ireland</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="2">
+        <remark source-urls="2">
+            <p>Irish Prime Minister, 1948–1951; Prime Minister and Head of the Government of Eire after June 2, 1954.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v06p1/persons#p_COSTELLOJA1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v06p2/persons#p_COSTELLOJA1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Prime Minister, Ireland. Visited U.S. once, 1956</p>
+            <source-url>https://history.state.gov/departmenthistory/visits/ireland</source-url>
+        </remark>
+    </remarks>
+</person>

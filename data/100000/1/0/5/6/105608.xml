@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>105608</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Hart, Gary W.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="2">
+                <name>Hart, Gary</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v33/persons#p_HG_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v01/persons#p_HG_1</source-url>
+            </original>
+            <original source-urls="2">
+                <name>Hart, Gary W.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v13/persons#p_HGW_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v28/persons#p_HGS_1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="4">
+        <remark source-urls="1">
+            <p>Senator (D-Colorado)</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v33/persons#p_HG_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Senator (D-Colorado) from January 3, 1975</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v01/persons#p_HG_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Senator (D–Colorado) from 1975 until 1987</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v13/persons#p_HGW_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Senator (D—Colorado)</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v28/persons#p_HGS_1</source-url>
+        </remark>
+    </remarks>
+</person>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>108250</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>MacArthur, Douglas</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="4">
+                <name>MacArthur, General of the Army Douglas</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv01/persons#p_MGAD1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945Malta/persons#p_M1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1946v03/persons#p_MAD1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v04p1/persons#p_MAGD1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>MacArthur, Douglas</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv02/persons#p_MGAD1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>MacArthur</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v04p2/persons#p_MAGD1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="1">
+            <title source-urls="4">
+                <name>General of the Army</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv01/persons#p_MGAD1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945Malta/persons#p_M1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1946v03/persons#p_MAD1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v04p1/persons#p_MAGD1</source-url>
+            </title>
+        </titles-from-name>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="5">
+        <remark source-urls="2">
+            <p>U. S. A., Commanding General, United States Army Forces, Pacific; Supreme Commander, Southwest Pacific Area.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv01/persons#p_MGAD1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv02/persons#p_MGAD1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>U. S. A., Commander, United States Army Forces in the Far East, and Supreme Commander, Southwest Pacific Area.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1945Malta/persons#p_M1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Commanding General, United States Armed Forces in the Pacific; Supreme Commander, Allied Powers in Japan</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1946v03/persons#p_MAD1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Commander in Chief, Far East; Commander in Chief, United Nations Command; and Supreme Commander, Allied Powers, Japan, until April 11, 1951</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1951v04p1/persons#p_MAGD1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>General of the Army Douglas, Commander in Chief, Far East; Commander in Chief, United Nations Command; and Supreme Commander, Allied Powers, Japan, until April 11, 1951</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1951v04p2/persons#p_MAGD1</source-url>
+        </remark>
+    </remarks>
+</person>

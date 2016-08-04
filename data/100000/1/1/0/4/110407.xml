@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>110407</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Partridge, Frank Charles</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="1">
+                <name>Partridge, Frank Charles</name>
+                <source-url>https://history.state.gov/departmenthistory/people/partridge-frank-charles</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Frank C. Partridge</name>
+                <source-url>https://history.state.gov/departmenthistory/people/partridge-frank-charles</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1861</birth-year>
+    <death-year>1943</death-year>
+    <remarks variants="1">
+        <remark source-urls="1">
+            <p>Non-career appointee. Envoy Extraordinary and Minister Plenipotentiary (Venezuela).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/partridge-frank-charles</source-url>
+        </remark>
+    </remarks>
+</person>

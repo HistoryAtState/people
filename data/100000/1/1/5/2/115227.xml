@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>115227</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Bogdanov, Radomir</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="1">
+                <name>Bogdanov, Radomir</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1981-88v03/persons#p_BR_2</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="1">
+        <remark source-urls="1">
+            <p>Deputy Director, Soviet Institute for U.S.A. and Canada Studies</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1981-88v03/persons#p_BR_2</source-url>
+        </remark>
+    </remarks>
+</person>

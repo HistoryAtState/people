@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>109120</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Middendorf, John William, II</name>
+        </preferred>
+        <alternates/>
+        <originals variants="4">
+            <original source-urls="2">
+                <name>Middendorf, John William, II</name>
+                <source-url>https://history.state.gov/departmenthistory/people/middendorf-john-william</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1981-88v13/persons#p_MJW_1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>J. William Middendorf II</name>
+                <source-url>https://history.state.gov/departmenthistory/people/middendorf-john-william</source-url>
+            </original>
+            <original source-urls="1">
+                <name>J. William Middendorf, II</name>
+                <source-url>https://history.state.gov/departmenthistory/people/middendorf-john-william</source-url>
+            </original>
+            <original source-urls="2">
+                <name>Middendorf, J. William, II</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v35/persons#p_MJW_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v36/persons#p_MJWII1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1924</birth-year>
+    <death-year/>
+    <remarks variants="4">
+        <remark source-urls="1">
+            <p>Non-career appointee. Permanent Representative of the U.S.A. to the Organization of American States (Washington); Representative of the U.S.A. to the European Union, with the rank and status of Ambassador Extraordinary and Plenipotentiary; Ambassador Extraordinary and Plenipotentiary (Netherlands).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/middendorf-john-william</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>U.S. Ambassador to the Netherlands until June 10, 1973; thereafter Secretary of the Navy</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v35/persons#p_MJW_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>U.S. Ambassador to The Netherlands from June 1969 until June 1973</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v36/persons#p_MJWII1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Permanent Representative to the Organization of American States from June 12, 1981</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1981-88v13/persons#p_MJW_1</source-url>
+        </remark>
+    </remarks>
+</person>

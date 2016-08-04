@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>109627</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Nahas, Mustafa</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="1">
+                <name>Nahas, Mustafa an-, Pasha</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1943CairoTehran/persons#p_NMaP1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>al-Nahas, Mustafa, Pasha</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945Malta/persons#p_ANMP1</source-url>
+            </original>
+            <original source-urls="3">
+                <name>Nahas, Mustafa</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v05/persons#p_ENPM1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v09p1/persons#p_NM1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v09p2/persons#p_NM1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="1">
+            <title source-urls="2">
+                <name>Pasha</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1943CairoTehran/persons#p_NMaP1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945Malta/persons#p_ANMP1</source-url>
+            </title>
+        </titles-from-name>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="4">
+        <remark source-urls="1">
+            <p>Egyptian Prime Minister.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1943CairoTehran/persons#p_NMaP1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>leader of the Egyptian WAFD Party.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1945Malta/persons#p_ANMP1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Egyptian Prime Minister and President of the Wafd Party.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1951v05/persons#p_ENPM1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>a leader of the Egyptian Wafd Party; Prime Minister and Minister of Foreign Affairs to January 1952.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v09p1/persons#p_NM1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v09p2/persons#p_NM1</source-url>
+        </remark>
+    </remarks>
+</person>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>100670</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Auchinleck, Claude</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="1">
+                <name>Auchinleck, Sir Claude</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1943CairoTehran/persons#p_ASC1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="1">
+            <title source-urls="1">
+                <name>Sir</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1943CairoTehran/persons#p_ASC1</source-url>
+            </title>
+        </titles-from-name>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="1">
+        <remark source-urls="1">
+            <p>General, Commander-in-Chief of British Forces in India.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1943CairoTehran/persons#p_ASC1</source-url>
+        </remark>
+    </remarks>
+</person>

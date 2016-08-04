@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>101732</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Bridges, Styles</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="4">
+                <name>Bridges, Styles</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1948v02/persons#p_BS1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v19/persons#p_BS1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v20/persons#p_BS1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v04/persons#p_BS1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Bridges</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v02p1/persons#p_BRIDGES1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Bridges, Senator Styles</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v02p2/persons#p_BRIDGES1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="1">
+            <title source-urls="2">
+                <name>Senator</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v02p1/persons#p_BRIDGES1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v02p2/persons#p_BRIDGES1</source-url>
+            </title>
+        </titles-from-name>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="4">
+        <remark source-urls="1">
+            <p>Senator from New Hampshire; Chairman of the Senate Appropriations Committee</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1948v02/persons#p_BS1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Senator Styles, (R–New Hampshire), Senate Minority Leader, 1952; President pro tempore, U.S. Senate, and Chairman of the Appropriations Committee, 1953–1954.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v02p1/persons#p_BRIDGES1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>(R–New Hampshire), Senate Minority Leader, 1952; President pro tempore, U.S. Senate, and Chairman of the Appropriations Committee, 1953–1954.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v02p2/persons#p_BRIDGES1</source-url>
+        </remark>
+        <remark source-urls="3">
+            <p>Republican Senator from New Hampshire</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v19/persons#p_BS1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v20/persons#p_BS1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v04/persons#p_BS1</source-url>
+        </remark>
+    </remarks>
+</person>

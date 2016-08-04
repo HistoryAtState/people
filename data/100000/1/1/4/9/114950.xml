@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>114950</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Young, Milton R.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="7">
+                <name>Young, Milton R.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v10/persons#p_YMR1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v25/persons#p_YMR_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v29/persons#p_YMR1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v33/persons#p_YMR_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v38p2/persons#p_YMR_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v02/persons#p_YNR_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v03/persons#p_YMR_1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="4">
+        <remark source-urls="2">
+            <p>Republican Senator from North Dakota</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v10/persons#p_YMR1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v25/persons#p_YMR_1</source-url>
+        </remark>
+        <remark source-urls="3">
+            <p>Senator (R–North Dakota)</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v29/persons#p_YMR1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v38p2/persons#p_YMR_1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v03/persons#p_YMR_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Senator (D-North Dakota)</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v33/persons#p_YMR_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Senator (R-North Dakota); member, Senate Committee on Agriculture, Nutrition, and Forestry until January 3, 1981; President Pro Tempore, from January 3, 1979, until January 3, 1981</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v02/persons#p_YNR_1</source-url>
+        </remark>
+    </remarks>
+</person>

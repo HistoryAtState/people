@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>111883</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Sanchez, Phillip Victor</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="2">
+                <name>Sanchez, Phillip Victor</name>
+                <source-url>https://history.state.gov/departmenthistory/people/sanchez-phillip-victor</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve11p1/persons#p_SPV_1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Phillip V. Sanchez</name>
+                <source-url>https://history.state.gov/departmenthistory/people/sanchez-phillip-victor</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1929</birth-year>
+    <death-year/>
+    <remarks variants="2">
+        <remark source-urls="1">
+            <p>Non-career appointee. Ambassador Extraordinary and Plenipotentiary (Honduras); Ambassador Extraordinary and Plenipotentiary (Colombia).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/sanchez-phillip-victor</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>U.S. Ambassador to Honduras from June 15, 1973, until July 17, 1976; U.S. Ambassador to Colombia from September 2, 1976, until April 5, 1977</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve11p1/persons#p_SPV_1</source-url>
+        </remark>
+    </remarks>
+</person>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>100808</id>
+    <authorities>
+        <authority service="viaf">18169244</authority>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Balkenende, Jan Peter</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="1">
+                <name>Prime Minister Jan Balkenende</name>
+                <source-url>https://history.state.gov/departmenthistory/visits/netherlands</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Prime Minister Jan Peter Balkenende</name>
+                <source-url>https://history.state.gov/departmenthistory/visits/netherlands</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="2">
+        <remark source-urls="1">
+            <p>Prime Minister, Netherlands. Visited U.S. once, 2004</p>
+            <source-url>https://history.state.gov/departmenthistory/visits/netherlands</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Prime Minister, Netherlands. Visited U.S. 6 times, 2003–2010</p>
+            <source-url>https://history.state.gov/departmenthistory/visits/netherlands</source-url>
+        </remark>
+    </remarks>
+</person>

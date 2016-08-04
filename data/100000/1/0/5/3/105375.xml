@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>105375</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Hager, Eric Hill</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="4">
+                <name>Hager, Eric H.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v02/persons#p_HEH1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v04/persons#p_HEH1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v06/persons#p_HEH1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v12/persons#p_HEH1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Hager, Eric Hill</name>
+                <source-url>https://history.state.gov/departmenthistory/people/hager-eric-hill</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Eric H. Hager</name>
+                <source-url>https://history.state.gov/departmenthistory/people/hager-eric-hill</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1918</birth-year>
+    <death-year>1973</death-year>
+    <remarks variants="3">
+        <remark source-urls="3">
+            <p>Legal Adviser, Department of State, from September 1959</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v02/persons#p_HEH1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v04/persons#p_HEH1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v12/persons#p_HEH1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Legal Adviser, Department of State, from August 1959</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v06/persons#p_HEH1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Non-career appointee. Legal Adviser.</p>
+            <source-url>https://history.state.gov/departmenthistory/people/hager-eric-hill</source-url>
+        </remark>
+    </remarks>
+</person>

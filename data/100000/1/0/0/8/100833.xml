@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>100833</id>
+    <authorities>
+        <authority service="viaf">35990804</authority>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Bandaranaike, Sirimavo Ratwatte Dias</name>
+        </preferred>
+        <alternates/>
+        <originals variants="5">
+            <original source-urls="1">
+                <name>Bandaranaike, Mrs. Srimavo</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v15/persons#p_BMS1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Bandaranaike, Sirimavo R. D.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v05/persons#p_BSRD1</source-url>
+            </original>
+            <original source-urls="2">
+                <name>Bandaranaike, Sirimavo</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v24/persons#p_BSRD1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve08/persons#p_BSRD1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Bandaranaike, Sirimavo Ratwatte Dias</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v02/persons#p_BSRD_1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Prime Minister Sirimavo R. D. Bandaranaike</name>
+                <source-url>https://history.state.gov/departmenthistory/visits/sri-lanka</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="6">
+        <remark source-urls="1">
+            <p>Prime Minister of Ceylon from July 1960; also Minister of External Affairs and Minister of Defense</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v15/persons#p_BMS1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Prime Minister of Ceylon</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v05/persons#p_BSRD1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Prime Minister of Ceylon from May 29, 1970</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v24/persons#p_BSRD1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Prime Minister of Sri Lanka and Minister of Defense and Foreign Affairs, from 1970 to 1977</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve08/persons#p_BSRD1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Prime Minister of Sri Lanka until July 23, 1977</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v02/persons#p_BSRD_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Prime Minister, Sri Lanka. Visited U.S. once, 1971</p>
+            <source-url>https://history.state.gov/departmenthistory/visits/sri-lanka</source-url>
+        </remark>
+    </remarks>
+</person>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>109790</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Nguyen Duy Trinh</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="5">
+                <name>Nguyen Duy Trinh</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v02/persons#p_NDT2</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v03/persons#p_NDT2</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v05/persons#p_NDT2</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v08/persons#p_NDT1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v09/persons#p_NDT_1</source-url>
+            </original>
+            <original source-urls="2">
+                <name>Trinh</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v02/persons#p_Trinh1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v03/persons#p_Trinh1</source-url>
+            </original>
+            <original source-urls="2">
+                <name>Trinh, Nguyen Duy</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v08/persons#p_TND1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v09/persons#p_NDT_1alt1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="4">
+        <remark source-urls="2">
+            <p>Foreign Minister and Deputy Prime Minister of the Democratic Republic of Vietnam</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v02/persons#p_NDT2</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v03/persons#p_NDT2</source-url>
+        </remark>
+        <remark source-urls="4">
+            <p>see Nguyen Duy Trinh</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v02/persons#p_Trinh1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v03/persons#p_Trinh1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v08/persons#p_TND1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v09/persons#p_NDT_1alt1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>North Vietnamese Deputy Premier and Foreign Minister</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v05/persons#p_NDT2</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>North Vietnamese Foreign Minister</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v08/persons#p_NDT1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v09/persons#p_NDT_1</source-url>
+        </remark>
+    </remarks>
+</person>

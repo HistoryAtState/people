@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>104201</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Feldman, Harvey J.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="3">
+                <name>Feldman, Harvey J.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v05/persons#p_FHJ1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v13/persons#p_FHJ_1</source-url>
+                <source-url>https://history.state.gov/departmenthistory/people/feldman-harvey-j</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1931</birth-year>
+    <death-year>2009</death-year>
+    <remarks variants="3">
+        <remark source-urls="1">
+            <p>Officer-in-Charge of Dependent Area Affairs, Office of UN Political Affairs, Bureau of International Organization Affairs, Department of State, 1972</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v05/persons#p_FHJ1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Country Director, Republic of China Office, Department of State from September 1977; Special Coordinator for Taiwan from January 1979</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v13/persons#p_FHJ_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Non-career appointee. Ambassador Extraordinary and Plenipotentiary (Solomon Islands); Ambassador Extraordinary and Plenipotentiary (Papua New Guinea).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/feldman-harvey-j</source-url>
+        </remark>
+    </remarks>
+</person>

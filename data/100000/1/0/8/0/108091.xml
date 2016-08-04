@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>108091</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Long, Russell B.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="11">
+                <name>Long, Russell B.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v02/persons#p_LRB1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v03/persons#p_LRB1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v04/persons#p_LRB1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v05/persons#p_LRB1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v16/persons#p_LRB_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v31/persons#p_LRB1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v36/persons#p_LRB1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v38p2/persons#p_LRB_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v01/persons#p_LRB_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v02/persons#p_LRB_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v03/persons#p_LRB_1</source-url>
+            </original>
+            <original source-urls="3">
+                <name>Long, Russell</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v06/persons#p_LR1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v37/persons#p_LR_2</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v13/persons#p_LR_2</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="12">
+        <remark source-urls="2">
+            <p>Democratic Senator from Louisiana; Senate Majority Whip</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v02/persons#p_LRB1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v03/persons#p_LRB1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Senator (D-Louisiana), Senate Majority Whip</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v04/persons#p_LRB1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Senator (D–LA)</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v05/persons#p_LRB1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Senator (Democrat-Louisiana)</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v06/persons#p_LR1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Senator (D–Louisiana); Chairman of the Senate Finance Committee</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v16/persons#p_LRB_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Democratic Senator from Louisiana; Chairman, Senate Committee on Finance</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v31/persons#p_LRB1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Democratic Senator from Louisiana</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v36/persons#p_LRB1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Senator (D–Louisiana)</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v37/persons#p_LR_2</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v03/persons#p_LRB_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Senator (D–Louisiana); Chairman, Committee on Finance and Joint Committee on Internal Revenue Taxation</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v38p2/persons#p_LRB_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Senator (D-Louisiana)</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v01/persons#p_LRB_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Senator (D-Louisiana); Chairman, Senate Committee on Finance until January 3, 1981</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v02/persons#p_LRB_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Senator (D–Louisiana) from 1948 until 1987</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v13/persons#p_LR_2</source-url>
+        </remark>
+    </remarks>
+</person>

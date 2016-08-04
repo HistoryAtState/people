@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>108773</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>McClelland, Roswell Dunlop</name>
+        </preferred>
+        <alternates/>
+        <originals variants="4">
+            <original source-urls="4">
+                <name>McClelland, Roswell D.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v05p1/persons#p_MCCLELLANDRD1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v05p2/persons#p_MCCLELLANDRD1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v12/persons#p_MCRD1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v24/persons#p_MCRD1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>McClelland, Roswell</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v29/persons#p_MCR1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>McClelland, Roswell Dunlop</name>
+                <source-url>https://history.state.gov/departmenthistory/people/mcclelland-roswell-dunlop</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Roswell D. McClelland</name>
+                <source-url>https://history.state.gov/departmenthistory/people/mcclelland-roswell-dunlop</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1914</birth-year>
+    <death-year>1995</death-year>
+    <remarks variants="5">
+        <remark source-urls="2">
+            <p>Office of Western European Affairs, Department of State, until January 1953; thereafter Consul at Madrid.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v05p1/persons#p_MCCLELLANDRD1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v05p2/persons#p_MCCLELLANDRD1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Officer in Charge of Politico-Military Affairs, Office of Near Eastern and South Asian Regional Affairs, Bureau of Near Eastern and South Asian Affairs, Department of State</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v12/persons#p_MCRD1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Consul General in Salisbury, Southern Rhodesia, September 1964–February 1966</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v24/persons#p_MCRD1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Deputy Chief of Mission, American Embassy in Greece until June 1970</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v29/persons#p_MCR1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Foreign Service Officer. Ambassador Extraordinary and Plenipotentiary (Niger).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/mcclelland-roswell-dunlop</source-url>
+        </remark>
+    </remarks>
+</person>

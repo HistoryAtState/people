@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>114356</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Webb, Thomas Clifton</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="1">
+                <name>Webb, T. Clifton</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v03/persons#p_WEBBTC1</source-url>
+            </original>
+            <original source-urls="3">
+                <name>Webb, Thomas Clifton</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v15p1/persons#p_WTC1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v15p2/persons#p_WTC1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v16/persons#p_WTC1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="3">
+        <remark source-urls="1">
+            <p>New Zealand Minister of External Affairs and Minister of Island Territories until November 1954; Chairman, New Zealand Delegations to the 7th and 8th Regular Sessions of the General Assembly.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v03/persons#p_WEBBTC1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Minister of External Affairs of New Zealand to November 1954; Chairman of the New Zealand Delegation at the Seventh and Eighth Regular Sessions of the United Nations General Assembly, 1952-1953.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v15p1/persons#p_WTC1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v15p2/persons#p_WTC1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>New Zealand Minister of External Affairs; Head of the New Zealand Delegation at the Geneva Conference.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v16/persons#p_WTC1</source-url>
+        </remark>
+    </remarks>
+</person>

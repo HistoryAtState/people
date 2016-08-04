@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>114887</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Yates, Mary Carlin</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="1">
+                <name>Yates, Mary Carlin</name>
+                <source-url>https://history.state.gov/departmenthistory/people/yates-mary-carlin</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1946</birth-year>
+    <death-year/>
+    <remarks variants="1">
+        <remark source-urls="1">
+            <p>Foreign Service Officer. Chargé d'Affaires ad interim (Sudan); Ambassador Extraordinary and Plenipotentiary (Ghana); Ambassador Extraordinary and Plenipotentiary (Burundi).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/yates-mary-carlin</source-url>
+        </remark>
+    </remarks>
+</person>

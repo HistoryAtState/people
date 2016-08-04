@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>108760</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>McCarthy, Joseph R.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="2">
+                <name>McCarthy, Senator Joseph R.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v02p1/persons#p_MCCARTHYSJR1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v02p2/persons#p_MCCARTHYSJR1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>McCarthy, Joseph M.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v25/persons#p_MCJM1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>McCarthy, Joseph R.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v26/persons#p_MCJR1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="1">
+            <title source-urls="2">
+                <name>Senator</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v02p1/persons#p_MCCARTHYSJR1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v02p2/persons#p_MCCARTHYSJR1</source-url>
+            </title>
+        </titles-from-name>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="2">
+        <remark source-urls="2">
+            <p>(R–Wisconsin), Chairman of the Government Operations Committee, 1953–1954.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v02p1/persons#p_MCCARTHYSJR1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v02p2/persons#p_MCCARTHYSJR1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Republican Senator from Wisconsin</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v25/persons#p_MCJM1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v26/persons#p_MCJR1</source-url>
+        </remark>
+    </remarks>
+</person>

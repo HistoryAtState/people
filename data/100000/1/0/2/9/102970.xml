@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>102970</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Crawford, William Rex, Jr.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="4">
+            <original source-urls="2">
+                <name>Crawford, William Rex, Jr.</name>
+                <source-url>https://history.state.gov/departmenthistory/people/crawford-william-rex</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v18/persons#p_CWR_1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>William R. Crawford Jr.</name>
+                <source-url>https://history.state.gov/departmenthistory/people/crawford-william-rex</source-url>
+            </original>
+            <original source-urls="4">
+                <name>Crawford, William R., Jr.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v12/persons#p_CWRJ1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v17/persons#p_CWRJ1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v18/persons#p_CWRJ1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v21/persons#p_CWR_1</source-url>
+            </original>
+            <original source-urls="3">
+                <name>Crawford, William R.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v24/persons#p_CWRJ1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v30/persons#p_CWRJ1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v37/persons#p_CWR_1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1928</birth-year>
+    <death-year>2002</death-year>
+    <remarks variants="7">
+        <remark source-urls="1">
+            <p>Foreign Service Officer. Ambassador Extraordinary and Plenipotentiary (Yemen); Ambassador Extraordinary and Plenipotentiary (Cyprus).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/crawford-william-rex</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Consul to Yemen until March 1959</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v12/persons#p_CWRJ1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Officer in Charge of Lebanon-Israel Affairs, Bureau of Near Eastern and South Asian Affairs, Department of State, July 8, 1962–September 1963</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v17/persons#p_CWRJ1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v18/persons#p_CWRJ1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Ambassador to the Yemen Arab Republic from December 19, 1972</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v24/persons#p_CWRJ1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Ambassador to Cyprus from August 1974</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v30/persons#p_CWRJ1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Deputy Assistant Secretary of State for Near Eastern and South Asian Affairs</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v37/persons#p_CWR_1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v18/persons#p_CWR_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Ambassador to Cyprus from August 31, 1974, until March 27, 1978</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v21/persons#p_CWR_1</source-url>
+        </remark>
+    </remarks>
+</person>

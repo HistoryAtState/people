@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>109075</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Mesta, Perle (Pearl) Reid (Skirvin)</name>
+        </preferred>
+        <alternates/>
+        <originals variants="4">
+            <original source-urls="4">
+                <name>Mesta, Perle</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v03p1/persons#p_MP1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v03p2/persons#p_MP1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v05p1/persons#p_MESTAP1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v05p2/persons#p_MESTAP1</source-url>
+            </original>
+            <original source-urls="2">
+                <name>Mesta, Pearl</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v06p1/persons#p_MESTAP1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v06p2/persons#p_MESTAP1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Mesta, Perle (Pearl) Reid (Skirvin)</name>
+                <source-url>https://history.state.gov/departmenthistory/people/mesta-perle-pearl-reid-skirvin</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Perle Mesta</name>
+                <source-url>https://history.state.gov/departmenthistory/people/mesta-perle-pearl-reid-skirvin</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1889</birth-year>
+    <death-year>1975</death-year>
+    <remarks variants="3">
+        <remark source-urls="2">
+            <p>Minister in Luxembourg.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1951v03p1/persons#p_MP1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1951v03p2/persons#p_MP1</source-url>
+        </remark>
+        <remark source-urls="4">
+            <p>Minister in Luxembourg, September 21, 1949–April 13, 1953.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v05p1/persons#p_MESTAP1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v05p2/persons#p_MESTAP1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v06p1/persons#p_MESTAP1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v06p2/persons#p_MESTAP1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Non-career appointee. Envoy Extraordinary and Minister Plenipotentiary (Luxembourg).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/mesta-perle-pearl-reid-skirvin</source-url>
+        </remark>
+    </remarks>
+</person>

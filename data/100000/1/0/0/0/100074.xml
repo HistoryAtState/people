@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>100074</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Ackerman, Ralph H.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="2">
+                <name>Ackerman, Ralph H.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v04/persons#p_ARH1</source-url>
+                <source-url>https://history.state.gov/departmenthistory/people/ackerman-ralph-h</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1892</birth-year>
+    <death-year>1957</death-year>
+    <remarks variants="2">
+        <remark source-urls="1">
+            <p>Ambassador in the Dominican Republic from August 27, 1948 until June 11, 1952.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v04/persons#p_ARH1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Foreign Service Officer. Ambassador Extraordinary and Plenipotentiary (Dominican Republic).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/ackerman-ralph-h</source-url>
+        </remark>
+    </remarks>
+</person>

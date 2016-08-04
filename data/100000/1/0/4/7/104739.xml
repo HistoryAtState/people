@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>104739</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Garrison, Mark J.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="3">
+                <name>Garrison, Mark J.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v16/persons#p_GMJ_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v01/persons#p_GMJ_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v30/persons#p_GMJ_1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="2">
+        <remark source-urls="1">
+            <p>Director of the Office of Soviet Union Affairs, Bureau of European Affairs, Department of State</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v16/persons#p_GMJ_1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Director, Office of Soviet Union Affairs, Bureau of European Affairs, Department of State, from 1974 to 1978; thereafter, Deputy Chief of Mission, U.S. Embassy in Moscow</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v01/persons#p_GMJ_1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v30/persons#p_GMJ_1</source-url>
+        </remark>
+    </remarks>
+</person>

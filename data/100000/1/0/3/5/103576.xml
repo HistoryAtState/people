@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>103576</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Donelson, Andrew Jackson</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="1">
+                <name>Donelson, Andrew Jackson</name>
+                <source-url>https://history.state.gov/departmenthistory/people/donelson-andrew-jackson</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Andrew J. Donelson</name>
+                <source-url>https://history.state.gov/departmenthistory/people/donelson-andrew-jackson</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1799</birth-year>
+    <death-year>1871</death-year>
+    <remarks variants="1">
+        <remark source-urls="1">
+            <p>Non-career appointee. Chargé d'Affaires (Texas); Envoy Extraordinary and Minister Plenipotentiary (Germany).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/donelson-andrew-jackson</source-url>
+        </remark>
+    </remarks>
+</person>

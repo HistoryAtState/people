@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>102509</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Chisholm, Shirley Anita</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="1">
+                <name>Chisholm, Shirley Anita</name>
+                <source-url>https://history.state.gov/departmenthistory/people/chisholm-shirley-anita</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1924</birth-year>
+    <death-year>2005</death-year>
+    <remarks variants="1">
+        <remark source-urls="1">
+            <p>Non-career appointee. Ambassador Extraordinary and Plenipotentiary (Jamaica).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/chisholm-shirley-anita</source-url>
+        </remark>
+    </remarks>
+</person>

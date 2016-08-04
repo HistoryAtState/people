@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>114899</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Yeh, George K.C.</name>
+        </preferred>
+        <alternates>
+            <name>Ye Gongchao</name>
+            <name>Yeh Kung-ch’ao</name>
+        </alternates>
+        <originals variants="6">
+            <original source-urls="2">
+                <name>Yeh, George K. C.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v03/persons#p_YEHGKC1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v25/persons#p_YGKCYK1</source-url>
+            </original>
+            <original source-urls="4">
+                <name>Yeh, George K.C.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v14p1/persons#p_YGKCYK1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v14p2/persons#p_YGKCYK1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v22/persons#p_YGKC1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v01/persons#p_YGKC_1</source-url>
+            </original>
+            <original source-urls="2">
+                <name>Yeh, George K.C. (Yeh Kung-ch’ao)</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v02/persons#p_YGKCYK1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v19/persons#p_YGKCYK1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Yeh, George K.C. (Yen Kung-ch’ao)</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v03/persons#p_YGKCYK1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Yeh, George King-Chao</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v10/persons#p_YGKC1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Yeh, George Kung-Chao</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v17/persons#p_YGKCYK1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="9">
+        <remark source-urls="1">
+            <p>Minister of Foreign Affairs, Republic of China; Chairman, Delegations of the Republic of China to the 7th and 9th Regular Sessions of the General Assembly.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v03/persons#p_YEHGKC1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>(Yeh Kung-ch’ao), Minister of Foreign Affairs, Republic of China.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v14p1/persons#p_YGKCYK1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v14p2/persons#p_YGKCYK1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Minister of Foreign Affairs of the Republic of China and Chairman of the Chinese Delegation to the 10th, 11th, and 12th Sessions of the United Nations General Assembly</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v02/persons#p_YGKCYK1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v03/persons#p_YGKCYK1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Minister of Foreign Affairs of the Republic of China</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v10/persons#p_YGKC1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Foreign Minister of the Republic of China until 1958; thereafter Ambassador to the United States</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v17/persons#p_YGKCYK1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Foreign Minister of the Republic of China through July 1958; Ambassador to the United States from September 1958</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v19/persons#p_YGKCYK1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Republic of China Ambassador to the United States until November 1961</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v22/persons#p_YGKC1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Chinese Ambassador to the United States until January 12, 1962</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v25/persons#p_YGKCYK1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Republic of China Foreign Minister during the 1950s</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v01/persons#p_YGKC_1</source-url>
+        </remark>
+    </remarks>
+</person>

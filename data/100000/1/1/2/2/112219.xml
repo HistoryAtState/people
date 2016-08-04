@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>112219</id>
+    <authorities>
+        <authority service="viaf">62409327</authority>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Sēmitēs, Kōstas</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="1">
+                <name>Prime Minister Costas Simitis</name>
+                <source-url>https://history.state.gov/departmenthistory/visits/greece</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Prime Minister Konstandinos Simitis</name>
+                <source-url>https://history.state.gov/departmenthistory/visits/greece</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Prime Minister Konstandions Simitis</name>
+                <source-url>https://history.state.gov/departmenthistory/visits/greece</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="3">
+        <remark source-urls="1">
+            <p>Prime Minister, Greece. Visited U.S. once, 1999</p>
+            <source-url>https://history.state.gov/departmenthistory/visits/greece</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Prime Minister, Greece. Visited U.S. 2 times, 1996–2003</p>
+            <source-url>https://history.state.gov/departmenthistory/visits/greece</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Prime Minister, Greece. Visited U.S. once, 2002</p>
+            <source-url>https://history.state.gov/departmenthistory/visits/greece</source-url>
+        </remark>
+    </remarks>
+</person>

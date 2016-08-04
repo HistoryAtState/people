@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>100583</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Armstrong, Oscar Vance</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="5">
+                <name>Armstrong, Oscar Vance</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v04/persons#p_AOV1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v17/persons#p_AOV1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v18/persons#p_AOV1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v38p2/persons#p_AOV_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve13/persons#p_AOV1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="5">
+        <remark source-urls="1">
+            <p>Consul in Hong Kong until August 1966</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v04/persons#p_AOV1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Deputy Chief of Mission in Taipei, October 1969–May 1971; Political Advisor, CINPAC, May 1971–July 1973; Director, People's Republic of China and Mongolian Affairs, Bureau of East Asian and Pacific Affairs, Department of State, from July 1973</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v17/persons#p_AOV1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Political Advisor to CINPAC until July 1973; Director of People’s Republic of China and Mongolian Affairs from July 1973; Deputy Assistant Secretary for East Asian and Pacific Affairs from August 1976</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v18/persons#p_AOV1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Political Adviser, U.S. Pacific Command until July 1973; Director, Office of People’s Republic of China and Mongolia Affairs, Bureau of East Asian and Pacific Affairs, Department of State, 1973–1976; Deputy Assistant Secretary of State, Bureau of East Asian and Pacific Affairs, from August 1976</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v38p2/persons#p_AOV_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Deputy Chief of Mission in Taipei, October 1969–May 1971;Political Advisor, CINPAC, May 1971–July 1973; Director, People's Republic of China and Mongolian Affairs, Bureau of East Asian and Pacific Affairs, Department of State, from July 1973</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve13/persons#p_AOV1</source-url>
+        </remark>
+    </remarks>
+</person>

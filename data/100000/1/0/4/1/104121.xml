@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>104121</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Faisal II</name>
+        </preferred>
+        <alternates/>
+        <originals variants="5">
+            <original source-urls="1">
+                <name>King Faisal II</name>
+                <source-url>https://history.state.gov/departmenthistory/visits/iraq</source-url>
+            </original>
+            <original source-urls="8">
+                <name>Faisal II</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v05/persons#p_FII1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v12/persons#p_FII1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v13/persons#p_FII1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v14/persons#p_FII1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v15/persons#p_FII1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v16/persons#p_FII1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v17/persons#p_FII1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v11/persons#p_FII1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Feisal.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v09p1/persons#p_F1</source-url>
+            </original>
+            <original source-urls="2">
+                <name>Faisal (Feisal) II</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v09p1/persons#p_FF1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v09p2/persons#p_FF1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Feisal</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v09p2/persons#p_F1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="5">
+        <remark source-urls="1">
+            <p>King, Iraq. Visited U.S. once, 1952</p>
+            <source-url>https://history.state.gov/departmenthistory/visits/iraq</source-url>
+        </remark>
+        <remark source-urls="3">
+            <p>King of Iraq.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1951v05/persons#p_FII1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v09p1/persons#p_FF1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v09p2/persons#p_FF1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>See Faisal.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v09p1/persons#p_F1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v09p2/persons#p_F1</source-url>
+        </remark>
+        <remark source-urls="6">
+            <p>King of Iraq</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v12/persons#p_FII1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v13/persons#p_FII1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v14/persons#p_FII1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v15/persons#p_FII1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v16/persons#p_FII1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v17/persons#p_FII1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>King of Iraq until his assassination on July 14, 1958</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v11/persons#p_FII1</source-url>
+        </remark>
+    </remarks>
+</person>

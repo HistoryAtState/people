@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>113814</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Tulpanov, Sergey I.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="1">
+                <name>Tulpanov, Colonel Sergei I.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1947v02/persons#p_TSI1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Tulpanov, Sergey I.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1948v02/persons#p_TSI1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Tulpanov, Major General Sergey I.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1949v03/persons#p_TMGSI1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="2">
+            <title source-urls="1">
+                <name>Colonel</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1947v02/persons#p_TSI1</source-url>
+            </title>
+            <title source-urls="1">
+                <name>Major General</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1949v03/persons#p_TMGSI1</source-url>
+            </title>
+        </titles-from-name>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="2">
+        <remark source-urls="2">
+            <p>Head of the Political Department of the Soviet Military Administration in Germany</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1947v02/persons#p_TSI1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1948v02/persons#p_TSI1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Chief, Information Division, Soviet Military Administration for Germany.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1949v03/persons#p_TMGSI1</source-url>
+        </remark>
+    </remarks>
+</person>

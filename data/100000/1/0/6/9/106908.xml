@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>106908</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Kastl, Hans Jorg</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="1">
+                <name>Kastl, Hans Jorg</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v15/persons#p_KHJ2</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="1">
+        <remark source-urls="1">
+            <p>Press Secretary of the West German Foreign Office; then head of the Department on Eastern Europe (Subdivision A5) in the Second Political Division to 1966</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v15/persons#p_KHJ2</source-url>
+        </remark>
+    </remarks>
+</person>

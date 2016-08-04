@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>111871</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Sam Sary</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="5">
+                <name>Sam Sary</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v16/persons#p_SS1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v01/persons#p_SSL1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v21/persons#p_SS1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v01/persons#p_SS1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v16/persons#p_SS1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="4">
+        <remark source-urls="1">
+            <p>Personal Delegate of the King of Cambodia at the Geneva Conference.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v16/persons#p_SS1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Life Member of the King of Cambodia’s High Council; Vice Premier, Minister of Economic Affairs, Finance, Planning and National Education, October 1955–January 1956</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v01/persons#p_SSL1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v21/persons#p_SS1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Life Member of the King of Cambodia’s High Council; Cambodian Ambassador to London until June 1958; Deputy leader of Khmer Serei rebel group after February 1959</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v01/persons#p_SS1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Cambodian Ambassador to the United Kingdom until June 1958; deputy leader of the Khmer Serei after February 1959</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v16/persons#p_SS1</source-url>
+        </remark>
+    </remarks>
+</person>

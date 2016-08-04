@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>113852</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Tyree, John A., Jr.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="1">
+                <name>Tyree, Commander John A.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv01/persons#p_TCJA1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Tyree, John A., Jr.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv02/persons#p_TCJAJ1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Tyree, Commander John A., Jr.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945Malta/persons#p_T5</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="1">
+            <title source-urls="2">
+                <name>Commander</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv01/persons#p_TCJA1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945Malta/persons#p_T5</source-url>
+            </title>
+        </titles-from-name>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="2">
+        <remark source-urls="2">
+            <p>U. S. N., Assistant Naval Aide to the President.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv01/persons#p_TCJA1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv02/persons#p_TCJAJ1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>U. S. N., Assistant Naval Aide to President Roosevelt.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1945Malta/persons#p_T5</source-url>
+        </remark>
+    </remarks>
+</person>

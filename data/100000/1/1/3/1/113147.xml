@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>113147</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Subandrio</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="3">
+                <name>Subandrio</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v22/persons#p_Subandrio1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v23/persons#p_S1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v26/persons#p_SSD2</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Subandrio (also Soebandrio), Dr.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v17/persons#p_SSD2</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="1">
+            <title source-urls="1">
+                <name>Dr.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v17/persons#p_SSD2</source-url>
+            </title>
+        </titles-from-name>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="4">
+        <remark source-urls="1">
+            <p>Secretary General of the Indonesian Foreign Ministry, 1956–April 1957; thereafter Foreign Minister</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v22/persons#p_Subandrio1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Indonesian Foreign Minister</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v17/persons#p_SSD2</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Indonesian Second Deputy First Minister and Minister of Foreign Affairs and Foreign Economic Affairs until March 1962; Deputy First Minister for Foreign Affairs and Foreign Economic Affairs until November 1963; thereafter First Vice Prime Minister and Minister for Foreign Affairs and Foreign Economic Affairs</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v23/persons#p_S1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>First Deputy Prime Minister of Indonesia and Minister Coordinator of Foreign Affairs and Foreign Economic Affairs until July 1966</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v26/persons#p_SSD2</source-url>
+        </remark>
+    </remarks>
+</person>

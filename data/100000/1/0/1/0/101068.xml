@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>101068</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Beckel, Robert G.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="2">
+                <name>Beckel, Robert G.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v02/persons#p_BRG_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v21/persons#p_BRG_1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="2">
+        <remark source-urls="1">
+            <p>Deputy Assistant Secretary of State for Congressional Relations and Legislative Officer for OES and LOS, from 1977 until 1978; thereafter Special Assistant, Foreign Policy (House and Senate), White House Congressional Liaison Office</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v02/persons#p_BRG_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Deputy Assistant Secretary of State for Congressional Relations from 1977 until January 1978; Special Assistant to the President for Congressional Liaison from January 30, 1978, until January 1981</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v21/persons#p_BRG_1</source-url>
+        </remark>
+    </remarks>
+</person>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>111334</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Ribbentrop, Joachim von</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="3">
+                <name>Ribbentrop, Joachim von</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1943CairoTehran/persons#p_RJv1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv01/persons#p_RJv1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv02/persons#p_RJ1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="3">
+        <remark source-urls="1">
+            <p>German Foreign Minister.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1943CairoTehran/persons#p_RJv1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>German Minister of Foreign Affairs, 1938–1945.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv01/persons#p_RJv1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>German Minister of Foreign Affairs.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv02/persons#p_RJ1</source-url>
+        </remark>
+    </remarks>
+</person>

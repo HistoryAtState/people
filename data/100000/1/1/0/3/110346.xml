@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>110346</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Papagos, Alexandros</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="1">
+                <name>Papagos, Alexandros</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v05/persons#p_PMA1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Papagos, Alexander</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v08/persons#p_PA1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Papagos, Marshal Alexandros</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v24/persons#p_PMA1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="1">
+            <title source-urls="1">
+                <name>Marshal</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v24/persons#p_PMA1</source-url>
+            </title>
+        </titles-from-name>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="3">
+        <remark source-urls="1">
+            <p>Commander in Chief of Greek Armed Forces until May 1951; Head of the political movement known as “Greek Rally”, from August 1951.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1951v05/persons#p_PMA1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Field Marshal, Greek Army (ret.), leader of the Greek Rally; Greek Prime Minister from November 1952.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v08/persons#p_PA1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Prime Minister of Greece until October 1955</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v24/persons#p_PMA1</source-url>
+        </remark>
+    </remarks>
+</person>

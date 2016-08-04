@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>100344</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Al-Said, Nuri</name>
+        </preferred>
+        <alternates/>
+        <originals variants="6">
+            <original source-urls="4">
+                <name>Al-Said, Nuri</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v05/persons#p_ASN1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v05/persons#p_NAS1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v09p1/persons#p_ASN1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v09p2/persons#p_ASN1</source-url>
+            </original>
+            <original source-urls="2">
+                <name>Nuri al-Said</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v09p1/persons#p_NAS1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v09p2/persons#p_NAS1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>al-Said, General Nuri Pasha</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v12/persons#p_aSGNP</source-url>
+            </original>
+            <original source-urls="1">
+                <name>al-Said, General Nuri</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v17/persons#p_aSGN1</source-url>
+            </original>
+            <original source-urls="2">
+                <name>al-Said, Nuri</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v11/persons#p_alSN1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v12/persons#p_alSN1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Nuri el-Said</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v13/persons#p_NS1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="1">
+            <title source-urls="2">
+                <name>General</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v12/persons#p_aSGNP</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v17/persons#p_aSGN1</source-url>
+            </title>
+        </titles-from-name>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="9">
+        <remark source-urls="1">
+            <p>Iraqi Prime Minister and Minister of the Interior.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1951v05/persons#p_ASN1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>See al-Said, Nuri.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1951v05/persons#p_NAS1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Iraqi Prime Minister until July 12, 1952; Minister of the Interior, 1952; Minister of Defense, January 29–September 17, 1953; Prime Minister and Minister of Defense from August 4, 1954.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v09p1/persons#p_ASN1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v09p2/persons#p_ASN1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>See Al-Said, Nuri.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v09p1/persons#p_NAS1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v09p2/persons#p_NAS1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Iraqi Prime Minister and Minister of Defense until June 20, 1957</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v12/persons#p_aSGNP</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Iraqi Prime Minister, August 3, 1954-June 20, 1957</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v17/persons#p_aSGN1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Iraqi Prime Minister, March 3–July 14, 1958</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v11/persons#p_alSN1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Prime Minister of Iraq March 3–July 14, 1958</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v12/persons#p_alSN1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Iraqi Prime Minister and Defense Minister March–May 1958; Prime Minister from May 1958 until his assassination on July 14, 1958</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v13/persons#p_NS1</source-url>
+        </remark>
+    </remarks>
+</person>

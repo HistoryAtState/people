@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>100391</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Amini-Majdi, Mahmud</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="1">
+                <name>Amini-Majdi, General Mahmud</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v10/persons#p_AMGM1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="1">
+            <title source-urls="1">
+                <name>General</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v10/persons#p_AMGM1</source-url>
+            </title>
+        </titles-from-name>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="1">
+        <remark source-urls="1">
+            <p>Iranian Army; Commander in Chief of the the Iranian Imperial Gendarmérie until August 20, 1953; thereafter Military Attaché in France.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v10/persons#p_AMGM1</source-url>
+        </remark>
+    </remarks>
+</person>

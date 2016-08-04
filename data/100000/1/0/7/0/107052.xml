@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>107052</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Kerr, Archibald Clark</name>
+        </preferred>
+        <alternates/>
+        <originals variants="7">
+            <original source-urls="1">
+                <name>Clark Kerr, Sir Archibald</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1943CairoTehran/persons#p_CKSA1</source-url>
+            </original>
+            <original source-urls="3">
+                <name>Clark Kerr</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv01/persons#p_CK2</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv02/persons#p_CK2</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945v01/persons#p_CK1</source-url>
+            </original>
+            <original source-urls="3">
+                <name>Kerr, Sir Archibald Clark</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv01/persons#p_KSAC1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945Malta/persons#p_KSAC1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945v01/persons#p_KSAC1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Kerr, Archibald Clark</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv02/persons#p_KSAC1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Clark Kerr.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945Malta/persons#p_CK1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Inverchapel, Lord</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1947v02/persons#p_IL1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Inverchapel</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1948v02/persons#p_I1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="2">
+            <title source-urls="4">
+                <name>Sir</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1943CairoTehran/persons#p_CKSA1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv01/persons#p_KSAC1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945Malta/persons#p_KSAC1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945v01/persons#p_KSAC1</source-url>
+            </title>
+            <title source-urls="1">
+                <name>Lord Inverchapel</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1947v02/persons#p_IL1</source-url>
+            </title>
+        </titles-from-name>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="7">
+        <remark source-urls="1">
+            <p>British Ambassador in the Soviet Union.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1943CairoTehran/persons#p_CKSA1</source-url>
+        </remark>
+        <remark source-urls="4">
+            <p>See Kerr.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv01/persons#p_CK2</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv02/persons#p_CK2</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1945Malta/persons#p_CK1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1945v01/persons#p_CK1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>British Ambassador to the Soviet Union; British Representative, Commission on the Polish Question (established by the Yalta Conference).</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv01/persons#p_KSAC1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv02/persons#p_KSAC1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>British Ambassador to the Soviet Union.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1945Malta/persons#p_KSAC1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>British Ambassador in the Soviet Union; Adviser, British Delegation.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1945v01/persons#p_KSAC1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>British Ambassador in the United States</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1947v02/persons#p_IL1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Lord (Archibald John Kerr Clark Kerr), British Ambassador in the United States until May 1948</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1948v02/persons#p_I1</source-url>
+        </remark>
+    </remarks>
+</person>

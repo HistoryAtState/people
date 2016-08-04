@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>112970</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Stephansky, Ben Solomon</name>
+        </preferred>
+        <alternates/>
+        <originals variants="4">
+            <original source-urls="1">
+                <name>Stephansky, Benjamin S.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v05/persons#p_SBS1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Stephansky, Benjamin</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v06/persons#p_SB1</source-url>
+            </original>
+            <original source-urls="2">
+                <name>Stephansky, Ben Solomon</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v12/persons#p_SBS1</source-url>
+                <source-url>https://history.state.gov/departmenthistory/people/stephansky-ben-solomon</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Ben S. Stephansky</name>
+                <source-url>https://history.state.gov/departmenthistory/people/stephansky-ben-solomon</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1913</birth-year>
+    <death-year>1999</death-year>
+    <remarks variants="4">
+        <remark source-urls="1">
+            <p>Labor Adviser, Bureau of Inter-American Affairs, Department of State</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v05/persons#p_SBS1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Office of Inter-American Regional Political Affairs, Department of State</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v06/persons#p_SB1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Ambassador to Bolivia, June 29, 1961-October 15, 1963</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v12/persons#p_SBS1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Foreign Service Officer. Ambassador Extraordinary and Plenipotentiary (Bolivia).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/stephansky-ben-solomon</source-url>
+        </remark>
+    </remarks>
+</person>

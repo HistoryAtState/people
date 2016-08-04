@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>108050</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Lloyd George, David</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="2">
+                <name>Lloyd George, David</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1916Supp/persons#p_LGD1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv01/persons#p_LD1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="2">
+        <remark source-urls="1">
+            <p>Minister of Munitions prior to July 5, 1916; British Secretary of State for War, July 5–Dec. 11; Prime Minister after Dec. 11.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1916Supp/persons#p_LGD1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>British Prime Minister, 1916–1922.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv01/persons#p_LD1</source-url>
+        </remark>
+    </remarks>
+</person>

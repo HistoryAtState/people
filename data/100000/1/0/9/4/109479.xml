@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>109479</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Mouser, Grant E., III</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="2">
+                <name>Mouser, Grant E., III</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v12/persons#p_MGEIII1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v12/persons#p_MGEIII1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="2">
+        <remark source-urls="1">
+            <p>Second Secretary of the Embassy in Iran, February 9–August 12, 1956; Reports and Operations Staff, Executive Secretariat, Department of State, August 12, 1956–March 1, 1957; thereafter Acting Officer in Charge of Iranian Affairs, Office of Greek, Turkish, and Iranian Affairs</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v12/persons#p_MGEIII1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Officer in Charge of Iranian Affairs, Bureau of Near Eastern and South Asian Affairs, Department of State</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v12/persons#p_MGEIII1</source-url>
+        </remark>
+    </remarks>
+</person>

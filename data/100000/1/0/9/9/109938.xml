@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>109938</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Nouira, Hedi Amira</name>
+        </preferred>
+        <alternates/>
+        <originals variants="4">
+            <original source-urls="3">
+                <name>Nouira, Hedi</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v11p1/persons#p_NH1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v11p2/persons#p_NH1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve09p1/persons#p_NH_1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Nouira, Hadi</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v05/persons#p_NH1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Nouira, Hedi Amira</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve05p2/persons#p_NHA1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Prime Minister Hadi Nouira</name>
+                <source-url>https://history.state.gov/departmenthistory/visits/tunisia</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="5">
+        <remark source-urls="2">
+            <p>Assistant Secretary General of the Tunisian Néo-Destour Party.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v11p1/persons#p_NH1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v11p2/persons#p_NH1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Prime Minister of Tunisia Nyerere, Julius, President of Tanzania Nzo, Alfred, Spokesman, African National Congress</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v05/persons#p_NH1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Tunisian Minister of State in Charge of Economy from June 1970; Prime Minister from November 1970; Secretary General of the ruling Destourian Socialist Party</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve05p2/persons#p_NHA1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Tunisian Prime Minister from November 1970 until April 1980</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve09p1/persons#p_NH_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Prime Minister, Tunisia. Visited U.S. 2 times, 1975–1978</p>
+            <source-url>https://history.state.gov/departmenthistory/visits/tunisia</source-url>
+        </remark>
+    </remarks>
+</person>

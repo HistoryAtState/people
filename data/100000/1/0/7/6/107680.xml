@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>107680</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Larson, Arthur</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="5">
+                <name>Larson, Arthur</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1950-55Intel/persons#p_LA1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v13/persons#p_LA1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v19/persons#p_LA1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v20/persons#p_LA1</source-url>
+                <source-url>https://history.state.gov/departmenthistory/people/larson-arthur</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1910</birth-year>
+    <death-year>1993</death-year>
+    <remarks variants="4">
+        <remark source-urls="1">
+            <p>Director, Under Secretary for Labor until 1956; United States Information Agency from 1956 to 1957; Special Assistant to the President for Speech Writing from 1957 to 1958</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1950-55Intel/persons#p_LA1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Director of the United States Information Agency, December 18, 1956–November 15, 1957</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v13/persons#p_LA1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Under Secretary of Labor until November 1956; Director, U.S. Information Agency, December 1956–November 1957; thereafter Special Assistant to President Eisenhower</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v19/persons#p_LA1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v20/persons#p_LA1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Non-career appointee. Director of the U.S. Information Agency.</p>
+            <source-url>https://history.state.gov/departmenthistory/people/larson-arthur</source-url>
+        </remark>
+    </remarks>
+</person>

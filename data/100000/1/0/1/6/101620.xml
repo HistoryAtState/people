@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>101620</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Boverie, Richard T.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="5">
+                <name>Boverie, Richard T.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v16/persons#p_BRT_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v33/persons#p_BRT_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v35/persons#p_BRT_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve14p2/persons#p_BPT_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1981-88v03/persons#p_BRT_1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Boverie, General Richard T.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v38p2/persons#p_BRT_1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Boverie, General Richard</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve15p2/persons#p_BGR_1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="1">
+            <title source-urls="2">
+                <name>General</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v38p2/persons#p_BRT_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve15p2/persons#p_BGR_1</source-url>
+            </title>
+        </titles-from-name>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="7">
+        <remark source-urls="1">
+            <p>Major General, USAF, Senior Member of the National Security Council Staff and Director for Program Analysis from November 1975</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v16/persons#p_BRT_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Colonel, USAF, Director, Program Analysis, National Security Council Staff, from August 1974 until January 1977</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v33/persons#p_BRT_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>General, USAF; member, National Security Council Staff from August 1973 until April 1976</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v35/persons#p_BRT_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>USAF, Deputy Director; Director, Program Analysis, National Security Council Staff, August 1974–January 1977</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v38p2/persons#p_BRT_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Brigadier General, USAF; senior member, National Security Council staff from August 1974 until January 1977; Director for Program Analysis from November 1975</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve14p2/persons#p_BPT_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Staff member, National Security Council from August 1974 until April 1976</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve15p2/persons#p_BGR_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Major General, USAF, Principal Deputy Secretary of Defense for International Security Affairs</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1981-88v03/persons#p_BRT_1</source-url>
+        </remark>
+    </remarks>
+</person>

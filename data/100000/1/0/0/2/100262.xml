@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>100262</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Ali, Mohammed</name>
+        </preferred>
+        <alternates/>
+        <originals variants="4">
+            <original source-urls="2">
+                <name>Ali, Mohammad,</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v11p1/persons#p_AM2</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v11p2/persons#p_AM2</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Mohammad, Ali</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v16/persons#p_MA1</source-url>
+            </original>
+            <original source-urls="6">
+                <name>Ali, Mohammed</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v02/persons#p_AM1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v03/persons#p_AM1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v08/persons#p_AM1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v12/persons#p_AM1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v21/persons#p_AM1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v19/persons#p_AM1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Prime Minister Mohammed Ali</name>
+                <source-url>https://history.state.gov/departmenthistory/visits/pakistan</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="8">
+        <remark source-urls="2">
+            <p>Pakistani Ambassador to the United States, February 12, 1952–April 17, 1953; Prime Minister and Minister of Defense, April 17, 1953–October 27, 1954; thereafter, Prime Minister and Minister of Foreign Affairs.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v11p1/persons#p_AM2</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v11p2/persons#p_AM2</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Prime Minister of Pakistan.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v16/persons#p_MA1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Prime Minister of Pakistan to August 1955</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v02/persons#p_AM1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v03/persons#p_AM1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Prime Minister of Pakistan to August 1955; thereafter Ambassador to the United States</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v08/persons#p_AM1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Pakistani Prime Minister and Foreign Minister until August 12, 1955; thereafter Head of the Pakistani Delegation at the United Nations, Ambassador to the United States and Mexico; also Minister to Cuba from November 8, 1955</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v12/persons#p_AM1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Prime Minister and Foreign Minister of Pakistan to August 1955; thereafter Head of the Pakistani Delegation to the United Nations, Ambassador to the United States and Mexico, and Minister in Cuba</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v21/persons#p_AM1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Foreign Minister of Pakistan, June 1962-January 1963</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v19/persons#p_AM1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Prime Minister, Pakistan. Visited U.S. once, 1954</p>
+            <source-url>https://history.state.gov/departmenthistory/visits/pakistan</source-url>
+        </remark>
+    </remarks>
+</person>

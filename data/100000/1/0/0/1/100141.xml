@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>100141</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Aguilar Mawdsley, Andrés</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="1">
+                <name>Aguilar, Andres</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve03/persons#p_AA1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Aguilar, Andrés M.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve10/persons#p_AAM1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Aguilar Mawdsley, Andrés</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve11p2/persons#p_AMA_1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="3">
+        <remark source-urls="1">
+            <p>Head, Republic of Venezuela Delegation to the Third United Nations Conference on the Law of the Sea and Chairman of Committee II of the Conference from 1976</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve03/persons#p_AA1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Venezuelan Ambassador to the United States from March 1972</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve10/persons#p_AAM1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Venezuelan Ambassador to the United States from 1973 until 1974</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve11p2/persons#p_AMA_1</source-url>
+        </remark>
+    </remarks>
+</person>

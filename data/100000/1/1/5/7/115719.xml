@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>115719</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Kostic, Petar</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="1">
+                <name>Kostic, Petar</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v20/persons#p_KP_1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="1">
+        <remark source-urls="1">
+            <p>Yugoslav Minister of Finance from May 16, 1978, until May 16, 1982</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v20/persons#p_KP_1</source-url>
+        </remark>
+    </remarks>
+</person>

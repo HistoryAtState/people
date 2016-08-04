@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>101310</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Biester, Edward George (“Pete”), Jr.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="4">
+            <original source-urls="1">
+                <name>Biester, Edward G., Jr., (Pete)</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v38p1/persons#p_BEG_1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Biester, Edward G. (Pete)</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v38p2/persons#p_BEG_1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Biester, Edward George Jr.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve03/persons#p_BEG1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Biester, Edward George (“Pete”), Jr.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v30/persons#p_BEGJ_1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="4">
+        <remark source-urls="1">
+            <p>member, U.S. House of Representatives (R–Pennsylvania) until January 3, 1977</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v38p1/persons#p_BEG_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Representative (R–Pennsylvania) until January 3, 1977</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v38p2/persons#p_BEG_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Republican Representative from Pennsylvania, Foreign Affairs Committee, U.S. House of Representatives</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve03/persons#p_BEG1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>member, U.S. House of Representatives (R-Pennsylvania), until January 3, 1977</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v30/persons#p_BEGJ_1</source-url>
+        </remark>
+    </remarks>
+</person>

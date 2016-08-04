@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>112412</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Short, Joseph</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="6">
+                <name>Short, Joseph</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v04p1/persons#p_SJ2</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v04p2/persons#p_SJ2</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v09p1/persons#p_SJ1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v09p2/persons#p_SJ1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v15p1/persons#p_SJ1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v15p2/persons#p_SJ1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="3">
+        <remark source-urls="2">
+            <p>White House Press Secretary</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1951v04p1/persons#p_SJ2</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1951v04p2/persons#p_SJ2</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Secretary to the President until January 20, 1953.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v09p1/persons#p_SJ1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v09p2/persons#p_SJ1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Secretary to President Truman to 1952.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v15p1/persons#p_SJ1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v15p2/persons#p_SJ1</source-url>
+        </remark>
+    </remarks>
+</person>

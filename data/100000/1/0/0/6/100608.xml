@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>100608</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Arsenjani, Hassan</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="2">
+                <name>Arsenjani, Hassan</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v17/persons#p_AH10</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v18/persons#p_AH10</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="2">
+        <remark source-urls="1">
+            <p>Agriculture Minister of Iran from May 9, 1961</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v17/persons#p_AH10</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Iranian Agriculture Minister from May 9, 1961</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v18/persons#p_AH10</source-url>
+        </remark>
+    </remarks>
+</person>

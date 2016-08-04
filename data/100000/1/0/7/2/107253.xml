@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>107253</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Kissner, August W.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="2">
+                <name>Kissner, August W.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v06p1/persons#p_KISSNERAW1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v06p2/persons#p_KISSNERAW1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Kissner, General August W.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v27/persons#p_KGAW1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="1">
+            <title source-urls="1">
+                <name>General</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v27/persons#p_KGAW1</source-url>
+            </title>
+        </titles-from-name>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="2">
+        <remark source-urls="2">
+            <p>Major General, U.S. Air Force; Chief of the Joint Military Group in Spain after April 1952; Chief of the Military Assistance Advisory Group in Spain after September 1953.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v06p1/persons#p_KISSNERAW1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v06p2/persons#p_KISSNERAW1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Chief of the Joint U.S. Military Advisory Group in Spain</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v27/persons#p_KGAW1</source-url>
+        </remark>
+    </remarks>
+</person>

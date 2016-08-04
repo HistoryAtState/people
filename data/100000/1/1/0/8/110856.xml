@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>110856</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Poole, Richard Armstrong</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="2">
+                <name>Poole, Richard A.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v05/persons#p_PRA1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v12/persons#p_PRA2</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Poole, Richard Armstrong</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve14p1/persons#p_PRA2</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="3">
+        <remark source-urls="1">
+            <p>Second Secretary of the Embassy in Colombia until July 1959; Officer in Charge of Peruvian Affairs, Office of West Coast Affairs, Department of State, from August 1959</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v05/persons#p_PRA1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>officer in charge Peruvian Affairs, Office of West Coast Affairs, Bureau of Inter-American Affairs, from June 1962</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v12/persons#p_PRA2</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Office of the Coordinator for Multilateral Development Programs, Bureau of International Organization Affairs, Department of State</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve14p1/persons#p_PRA2</source-url>
+        </remark>
+    </remarks>
+</person>

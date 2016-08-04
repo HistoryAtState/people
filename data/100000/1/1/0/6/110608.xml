@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>110608</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Peterson, Frederick Valdemar Erastus (“Val”)</name>
+        </preferred>
+        <alternates/>
+        <originals variants="4">
+            <original source-urls="1">
+                <name>Peterson, Frederick V.E.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v29/persons#p_PFVE1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Peterson, Frederick V.E. “Val,”</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v39/persons#p_PFVE1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Peterson, Frederick Valdemar Erastus</name>
+                <source-url>https://history.state.gov/departmenthistory/people/peterson-frederick-valdemar-erastus</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Val Peterson</name>
+                <source-url>https://history.state.gov/departmenthistory/people/peterson-frederick-valdemar-erastus</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1903</birth-year>
+    <death-year>1983</death-year>
+    <remarks variants="3">
+        <remark source-urls="1">
+            <p>Ambassador to Finland from May 1969</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v29/persons#p_PFVE1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Ambassador to Finland from May 1, 1969 to March 23, 1973</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v39/persons#p_PFVE1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Non-career appointee. Ambassador Extraordinary and Plenipotentiary (Finland); Ambassador Extraordinary and Plenipotentiary (Denmark).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/peterson-frederick-valdemar-erastus</source-url>
+        </remark>
+    </remarks>
+</person>

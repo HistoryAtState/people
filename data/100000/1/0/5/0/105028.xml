@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>105028</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Goodwin, Richard N.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="4">
+                <name>Goodwin, Richard N.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v10/persons#p_GRN2</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v12/persons#p_GRN2</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v17/persons#p_GRN2</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v18/persons#p_GRN2</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Goodwin, Richard</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve10/persons#p_GR1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="5">
+        <remark source-urls="1">
+            <p>Assistant Special Counsel to the President until November 1961; thereafter Deputy Assistant Secretary of State for Inter-American Affairs</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v10/persons#p_GRN2</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Assistant Special Counsel to President Kennedy until November 1961; Deputy Assistant Secretary of State for Inter-American Affairs November 1961-January 1963; Secretary General, International Peace Corps Secretariat, from January 1963</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v12/persons#p_GRN2</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>President’s Assistant Special Counsel</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v17/persons#p_GRN2</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>President's Assistant Special Counsel</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v18/persons#p_GRN2</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>former U.S. Government official</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve10/persons#p_GR1</source-url>
+        </remark>
+    </remarks>
+</person>

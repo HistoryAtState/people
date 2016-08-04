@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>103594</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Dorman, John R.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="3">
+                <name>Dorman, John R.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v05/persons#p_DJ2</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v02/persons#p_DJR1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v12/persons#p_DJR1</source-url>
+            </original>
+            <original source-urls="3">
+                <name>Dorman, John</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v12/persons#p_DJ1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v17/persons#p_DJ1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v27/persons#p_DJ1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="6">
+        <remark source-urls="1">
+            <p>Consul at Tunis.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1951v05/persons#p_DJ2</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Deputy Director, Office of Near Eastern Affairs, Department of State, after August 28, 1957</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v12/persons#p_DJ1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>First Secretary and Consul at the Embassy in the United Kingdom, October 22, 1955-August 1957; Deputy Director, Office of Near Eastern Affairs, Department of State, from August 28, 1957</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v17/persons#p_DJ1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>First Secretary and Consul of the Embassy in France, October 1955–August 1957; thereafter Deputy Director of the Office of Near Eastern Affairs, Bureau of Near Eastern, South Asian, and African Affairs, Department of State</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v27/persons#p_DJ1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Deputy Director, Office of Dependent Area Affairs, Bureau of International Organization Affairs, Department of State, December 1958–September 1960</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v02/persons#p_DJR1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Deputy Director, Office of Dependent Area Affairs, Bureau of International Organization Affairs, Department of State, December 1958-September 1960</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v12/persons#p_DJR1</source-url>
+        </remark>
+    </remarks>
+</person>

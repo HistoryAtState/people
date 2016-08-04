@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>113971</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Van der Stoel, Max</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="4">
+                <name>Van der Stoel, Max</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v30/persons#p_VSM1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v36/persons#p_VDSM1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v39/persons#p_VSM1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v26/persons#p_VSM_1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="4">
+        <remark source-urls="1">
+            <p>Dutch Foreign Minister</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v30/persons#p_VSM1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Dutch Minister of Foreign Affairs from May 1973 until December 1977</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v36/persons#p_VDSM1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Foreign Minister of the Netherlands from May 1973</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v39/persons#p_VSM1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Foreign Minister of the Netherlands from May 1973 until December 1977</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v26/persons#p_VSM_1</source-url>
+        </remark>
+    </remarks>
+</person>

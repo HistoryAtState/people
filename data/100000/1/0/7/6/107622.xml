@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>107622</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Landau, George Walter</name>
+        </preferred>
+        <alternates/>
+        <originals variants="4">
+            <original source-urls="1">
+                <name>Landau, George</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v12/persons#p_LG1</source-url>
+            </original>
+            <original source-urls="4">
+                <name>Landau, George W.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v23/persons#p_LGW_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v28/persons#p_LGW_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v41/persons#p_LGW_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve01/persons#p_LGW1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Landau, George Walter</name>
+                <source-url>https://history.state.gov/departmenthistory/people/landau-george-walter</source-url>
+            </original>
+            <original source-urls="1">
+                <name>George W. Landau</name>
+                <source-url>https://history.state.gov/departmenthistory/people/landau-george-walter</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1920</birth-year>
+    <death-year/>
+    <remarks variants="5">
+        <remark source-urls="1">
+            <p>Country Director for Spain and Portugal, Bureau of European Affairs, Department of State, from July 1966</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v12/persons#p_LG1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Country Director for Spain and Portugal, Bureau of European Affairs, Department of State</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v23/persons#p_LGW_1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v41/persons#p_LGW_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Director of the Office of Spain and Portugal Affairs, Bureau of European Affairs, Department of State</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v28/persons#p_LGW_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Country Director, Spain and Portugal, Department of State</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve01/persons#p_LGW1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Foreign Service Officer. Ambassador Extraordinary and Plenipotentiary (Venezuela); Ambassador Extraordinary and Plenipotentiary (Paraguay); Ambassador Extraordinary and Plenipotentiary (Chile).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/landau-george-walter</source-url>
+        </remark>
+    </remarks>
+</person>

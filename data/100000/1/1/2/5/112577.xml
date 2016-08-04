@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>112577</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Slim, William Joseph</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="2">
+                <name>Slim, William Joseph</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1943CairoTehran/persons#p_SWJ1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v05/persons#p_SWJ1</source-url>
+            </original>
+            <original source-urls="2">
+                <name>Slim, Field Marshal Sir William J.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v03p1/persons#p_SFMSWJ1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v03p2/persons#p_SFMSWJ1</source-url>
+            </original>
+            <original source-urls="4">
+                <name>Slim, Field Marshal Sir William</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v06p1/persons#p_SLIMFMSW1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v06p2/persons#p_SLIMFMSW1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v09p1/persons#p_SFM1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v09p2/persons#p_SFM1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="1">
+            <title source-urls="6">
+                <name>Field Marshal Sir</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v03p1/persons#p_SFMSWJ1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v03p2/persons#p_SFMSWJ1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v06p1/persons#p_SLIMFMSW1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v06p2/persons#p_SLIMFMSW1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v09p1/persons#p_SFM1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v09p2/persons#p_SFM1</source-url>
+            </title>
+        </titles-from-name>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="4">
+        <remark source-urls="1">
+            <p>Lieutenant General, Commander-in-Chief, Fourteenth British Army.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1943CairoTehran/persons#p_SWJ1</source-url>
+        </remark>
+        <remark source-urls="3">
+            <p>Chief, British Imperial General Staff.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1951v03p1/persons#p_SFMSWJ1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1951v03p2/persons#p_SFMSWJ1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1951v05/persons#p_SWJ1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Chief of the Imperial General Staff, 1952; Governor-General in Australia after May 8, 1953.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v06p1/persons#p_SLIMFMSW1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v06p2/persons#p_SLIMFMSW1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Chief of the British Imperial Staff until 1952; Governor General of Australia from May 8, 1953.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v09p1/persons#p_SFM1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v09p2/persons#p_SFM1</source-url>
+        </remark>
+    </remarks>
+</person>

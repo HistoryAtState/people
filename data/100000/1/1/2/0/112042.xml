@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>112042</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Schiff, Stanley D.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="3">
+                <name>Schiff, Stanley D.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v05/persons#p_SSD1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v27/persons#p_SSD_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve14p1/persons#p_SSD1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="3">
+        <remark source-urls="1">
+            <p>Staff Director, NSC Interdepartmental Group, Bureau of Near Eastern and South Asian Affairs, Department of State</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v05/persons#p_SSD1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Director of the Office of Regional Affairs, Bureau of Near Eastern and South Asian Affairs</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v27/persons#p_SSD_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Director, Regional Affairs Office, Bureau of Near Eastern and South Asian Affairs, Department of State</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve14p1/persons#p_SSD1</source-url>
+        </remark>
+    </remarks>
+</person>

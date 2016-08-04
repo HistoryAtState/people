@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>105276</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Guest, Raymond Richard</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="1">
+                <name>Guest, Raymond Richard</name>
+                <source-url>https://history.state.gov/departmenthistory/people/guest-raymond-richard</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Raymond R. Guest</name>
+                <source-url>https://history.state.gov/departmenthistory/people/guest-raymond-richard</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1907</birth-year>
+    <death-year>1991</death-year>
+    <remarks variants="1">
+        <remark source-urls="1">
+            <p>Foreign Service Officer. Ambassador Extraordinary and Plenipotentiary (Ireland).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/guest-raymond-richard</source-url>
+        </remark>
+    </remarks>
+</person>

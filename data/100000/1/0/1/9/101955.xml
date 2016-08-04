@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>101955</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Burke, John Richard</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="2">
+                <name>Burke, John Richard</name>
+                <source-url>https://history.state.gov/departmenthistory/people/burke-john-richard</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve11p1/persons#p_BJ_2</source-url>
+            </original>
+            <original source-urls="1">
+                <name>John R. Burke</name>
+                <source-url>https://history.state.gov/departmenthistory/people/burke-john-richard</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Burke, John R.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve10/persons#p_BJR2</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1924</birth-year>
+    <death-year>1993</death-year>
+    <remarks variants="3">
+        <remark source-urls="1">
+            <p>Foreign Service Officer. Ambassador Extraordinary and Plenipotentiary (Guyana).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/burke-john-richard</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Deputy Chief of Mission, U.S. Embassy in Port-au-Prince from May 1970 until June 1972. Director, Caribbean Countries, Bureau of Inter-American Affairs, Department of State, from June 1972 until August 1975</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve10/persons#p_BJR2</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Director, Office of Caribbean Affairs, Bureau of Inter-American Affairs, Department of State, until July 1976; Deputy Chief of Mission at U.S. Embassy in Bangkok from July 1976</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve11p1/persons#p_BJ_2</source-url>
+        </remark>
+    </remarks>
+</person>

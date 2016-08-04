@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>114311</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Washburn, John Davis</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="1">
+                <name>Washburn, John Davis</name>
+                <source-url>https://history.state.gov/departmenthistory/people/washburn-john-davis</source-url>
+            </original>
+            <original source-urls="1">
+                <name>John D. Washburn</name>
+                <source-url>https://history.state.gov/departmenthistory/people/washburn-john-davis</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1833</birth-year>
+    <death-year>1903</death-year>
+    <remarks variants="1">
+        <remark source-urls="1">
+            <p>Non-career appointee. Minister Resident/Consul General (Switzerland); Envoy Extraordinary and Minister Plenipotentiary (Switzerland).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/washburn-john-davis</source-url>
+        </remark>
+    </remarks>
+</person>

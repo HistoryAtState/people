@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>101437</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Blood, Archer Kent</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="2">
+                <name>Blood, Archer</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v10p1/persons#p_BA1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v10p2/persons#p_BA1</source-url>
+            </original>
+            <original source-urls="3">
+                <name>Blood, Archer K.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v11/persons#p_BAK1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v29/persons#p_BAK1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve07/persons#p_BAK1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1923</birth-year>
+    <death-year>2004</death-year>
+    <remarks variants="3">
+        <remark source-urls="2">
+            <p>Office of Greek, Turkish, and Iranian Affairs, Department of State, until June 1960</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v10p1/persons#p_BA1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v10p2/persons#p_BA1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Consul General in Dacca until June 1971</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v11/persons#p_BAK1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve07/persons#p_BAK1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Counselor for Political Affairs, American Embassy in Greece from February 1970; Counsul General in Dacca until June 1971</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v29/persons#p_BAK1</source-url>
+        </remark>
+    </remarks>
+</person>

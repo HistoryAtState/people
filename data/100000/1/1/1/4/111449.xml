@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>111449</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Robertson, Brian Hubert</name>
+        </preferred>
+        <alternates/>
+        <originals variants="5">
+            <original source-urls="1">
+                <name>Robertson, Lieutenant General Sir Brian Hubert</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1947v02/persons#p_RSBH1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Robertson, Sir Brian H.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1948v02/persons#p_RSBH1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Robertson, General Sir Brian</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1949v03/persons#p_RGSB1</source-url>
+            </original>
+            <original source-urls="4">
+                <name>Robertson, General Sir Brian H.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v03p1/persons#p_RGSBH1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v03p2/persons#p_RGSBH1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v09p1/persons#p_RGS1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v09p2/persons#p_RGS1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Robertson, Brian Hubert</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v05/persons#p_RBH1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="3">
+            <title source-urls="1">
+                <name>Lieutenant General Sir</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1947v02/persons#p_RSBH1</source-url>
+            </title>
+            <title source-urls="1">
+                <name>Sir</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1948v02/persons#p_RSBH1</source-url>
+            </title>
+            <title source-urls="5">
+                <name>General Sir</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1949v03/persons#p_RGSB1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v03p1/persons#p_RGSBH1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v03p2/persons#p_RGSBH1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v09p1/persons#p_RGS1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v09p2/persons#p_RGS1</source-url>
+            </title>
+        </titles-from-name>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="6">
+        <remark source-urls="1">
+            <p>Deputy Commander-in-Chief of British Forces of Occupation in Germany; Deputy British Military Governor for Germany, August 1945–October 1947; Commander-in-Chief and Military Governor from November 1947</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1947v02/persons#p_RSBH1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>British Military Governor for Germany and Commander-in-Chief, Control Commission for Germany (British Element)</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1948v02/persons#p_RSBH1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>British Military Governor for Germany, until September; appointed High Commissioner for Germany; Commander-in-Chief for Germany.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1949v03/persons#p_RGSB1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>British Commander-in-Chief, Middle East Land Forces.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1951v03p1/persons#p_RGSBH1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1951v03p2/persons#p_RGSBH1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Commander in Chief, British Middle East Land Forces.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1951v05/persons#p_RBH1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Commander in Chief, British Middle East Land Forces until retirement, November 1953; Chairman, British Transport Commission from 1953.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v09p1/persons#p_RGS1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v09p2/persons#p_RGS1</source-url>
+        </remark>
+    </remarks>
+</person>

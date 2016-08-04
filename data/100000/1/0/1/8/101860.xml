@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>101860</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Bryan, Charles Page</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="1">
+                <name>Bryan, Charles Page</name>
+                <source-url>https://history.state.gov/departmenthistory/people/bryan-charles-page</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1856</birth-year>
+    <death-year>1918</death-year>
+    <remarks variants="1">
+        <remark source-urls="1">
+            <p>Non-career appointee. Envoy Extraordinary and Minister Plenipotentiary (Switzerland); Envoy Extraordinary and Minister Plenipotentiary (Portugal); Ambassador Extraordinary and Plenipotentiary (Japan); Envoy Extraordinary and Minister Plenipotentiary (China); Envoy Extraordinary and Minister Plenipotentiary (Brazil); Envoy Extraordinary and Minister Plenipotentiary (Belgium).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/bryan-charles-page</source-url>
+        </remark>
+    </remarks>
+</person>

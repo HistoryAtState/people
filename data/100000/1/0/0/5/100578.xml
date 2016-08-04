@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>100578</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Armstrong, Anne Legendre</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="2">
+                <name>Armstrong, Anne Legendre</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v35/persons#p_AAL_1</source-url>
+                <source-url>https://history.state.gov/departmenthistory/people/armstrong-anne-legendre</source-url>
+            </original>
+            <original source-urls="2">
+                <name>Armstrong, Anne L.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v38p1/persons#p_AAL_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v38p2/persons#p_AAL_1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Armstrong, Anne</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve14p1/persons#p_AA5</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1927</birth-year>
+    <death-year>2008</death-year>
+    <remarks variants="5">
+        <remark source-urls="1">
+            <p>Counselor to the President for Special Affairs and Women until 1974; U.S. Ambassador to the United Kingdom from March 17, 1976</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v35/persons#p_AAL_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Counselor to the President from 1973 until 1974; U.S. Ambassador to the United Kingdom after March 17, 1976</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v38p1/persons#p_AAL_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Counselor to the President</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v38p2/persons#p_AAL_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Counselor to the President, White House Office for Women’s Programs, 1973 and 1974; Alternate U.S. Representative to the United Nations World Conference of the International Women’s Year</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve14p1/persons#p_AA5</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Non-career appointee. Ambassador Extraordinary and Plenipotentiary (United Kingdom).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/armstrong-anne-legendre</source-url>
+        </remark>
+    </remarks>
+</person>

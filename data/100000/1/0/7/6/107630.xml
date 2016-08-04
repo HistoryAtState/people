@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>107630</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Lane, George M.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="4">
+                <name>Lane, George M.</name>
+                <source-url>https://history.state.gov/departmenthistory/people/lane-george-m</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v02/persons#p_LGM1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve05p2/persons#p_LGM1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v18/persons#p_LGM_1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1928</birth-year>
+    <death-year/>
+    <remarks variants="4">
+        <remark source-urls="1">
+            <p>Foreign Service Officer. Ambassador Extraordinary and Plenipotentiary (Yemen).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/lane-george-m</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Office of European Regional Affairs, Bureau of European Affairs, Department of State, until January 1960</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v02/persons#p_LGM1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Office of the Executive Director, Bureau of African Affairs, Department of State; Country Officer for Algeria, Department of State, from June 1972</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve05p2/persons#p_LGM1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>U.S. Ambassador to the Yemen Arab Republic from October 5, 1978, until July 4, 1981</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v18/persons#p_LGM_1</source-url>
+        </remark>
+    </remarks>
+</person>

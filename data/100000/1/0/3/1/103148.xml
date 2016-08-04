@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>103148</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Dantas, Francisco Clementino San Tiago</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="1">
+                <name>Dantas, Francisco Clementino San Tiago</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v12/persons#p_DFCST1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="1">
+        <remark source-urls="1">
+            <p>Brazilian Minister of Foreign Relations; later Minister of Finance</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v12/persons#p_DFCST1</source-url>
+        </remark>
+    </remarks>
+</person>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>101096</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Behrman, Jack N.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="1">
+                <name>Behrman, Jack N.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v09/persons#p_BJN1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="1">
+        <remark source-urls="1">
+            <p>Deputy Assistant Secretary of Commerce for International Affairs, March 24-November 4, 1961; Assistant Secretary of Commerce for International Affairs, November 5, 1961-October 1962; thereafter Assistant Secretary of Commerce for Domestic and International Business</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v09/persons#p_BJN1</source-url>
+        </remark>
+    </remarks>
+</person>

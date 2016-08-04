@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>106152</id>
+    <authorities>
+        <authority service="viaf">98495871</authority>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Houphouet-Boigny, Félix</name>
+        </preferred>
+        <alternates/>
+        <originals variants="6">
+            <original source-urls="2">
+                <name>Houphouet-Boigny, Félix</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v13/persons#p_HBF1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v28/persons#p_HBF_1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Houphouet-Boigny, Felix</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v21/persons#p_HBF2</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Houphouët-Boigny, Félix</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve06/persons#p_HBF1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Houphët-Boigny, Félix</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve14p1/persons#p_HBF1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>President Felix Houphouet-Boigny</name>
+                <source-url>https://history.state.gov/departmenthistory/visits/cote-divoire</source-url>
+            </original>
+            <original source-urls="1">
+                <name>President Houphouet-Boigny</name>
+                <source-url>https://history.state.gov/departmenthistory/visits/cote-divoire</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="7">
+        <remark source-urls="1">
+            <p>French Minister of State from June 1958</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v13/persons#p_HBF1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>President of Ivory Coast and Minister of Defense, the Interior, and Agriculture</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v21/persons#p_HBF2</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>President of the Ivory Coast</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v28/persons#p_HBF_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>President of Côte d'Ivoir (Ivory Coast) from 1960 to 1993</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve06/persons#p_HBF1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>President of Republic of Cote ďIvorie</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve14p1/persons#p_HBF1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>President, Ivory Coast. Visited U.S. 3 times, 1967–1983</p>
+            <source-url>https://history.state.gov/departmenthistory/visits/cote-divoire</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>President, Ivory Coast. Visited U.S. once, 1962</p>
+            <source-url>https://history.state.gov/departmenthistory/visits/cote-divoire</source-url>
+        </remark>
+    </remarks>
+</person>

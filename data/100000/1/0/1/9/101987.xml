@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>101987</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Bursley, Herbert S.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="1">
+                <name>Bursley, Herbert S.</name>
+                <source-url>https://history.state.gov/departmenthistory/people/bursley-herbert-s</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1896</birth-year>
+    <death-year>1961</death-year>
+    <remarks variants="1">
+        <remark source-urls="1">
+            <p>Foreign Service Officer. Ambassador Extraordinary and Plenipotentiary (Honduras).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/bursley-herbert-s</source-url>
+        </remark>
+    </remarks>
+</person>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>105601</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Harrison, William Henry</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="1">
+                <name>Harrison, William Henry</name>
+                <source-url>https://history.state.gov/departmenthistory/people/harrison-william-henry</source-url>
+            </original>
+            <original source-urls="1">
+                <name>William H. Harrison</name>
+                <source-url>https://history.state.gov/departmenthistory/people/harrison-william-henry</source-url>
+            </original>
+            <original source-urls="1">
+                <name>William Henry Harrison</name>
+                <source-url>https://history.state.gov/cms/apps/presidents/data/presidents.xml#harrison-william-henry</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1773</birth-year>
+    <death-year>1841</death-year>
+    <remarks variants="2">
+        <remark source-urls="1">
+            <p>Non-career appointee. Envoy Extraordinary and Minister Plenipotentiary (Colombia).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/harrison-william-henry</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>President of the United States, from March 4, 1841 until April 4, 1841</p>
+            <source-url>https://history.state.gov/cms/apps/presidents/data/presidents.xml#harrison-william-henry</source-url>
+        </remark>
+    </remarks>
+</person>

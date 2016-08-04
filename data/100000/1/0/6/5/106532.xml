@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>106532</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Jamison, Edward A.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="5">
+                <name>Jamison, Edward A.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v04/persons#p_JEA1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v06/persons#p_JEA1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v07/persons#p_JEA1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v05/persons#p_JEA1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v12/persons#p_JEA1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="4">
+        <remark source-urls="1">
+            <p>Deputy Director, Office of Regional American Affairs, Department of State, from September 14, 1952.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v04/persons#p_JEA1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Deputy Director, Office of Regional American Affairs, Bureau of Inter-American Affairs, Department of State, until August 14, 1955; detailed to the National War College, August 14, 1955-July 29, 1956; thereafter, Counselor-Consul, Embassy in Costa Rica</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v06/persons#p_JEA1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v07/persons#p_JEA1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Counselor-Consul of the Embassy in Costa Rica until February 1959; Counselor of the Embassy in Guatemala, February 1959–January 1960; thereafter Director of the Office of Inter-American Regional Political Affairs, Department of State</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v05/persons#p_JEA1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Director, Office of Inter-American Regional Political Affairs, Bureau of Inter-American Affairs, until June 10, 1962</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v12/persons#p_JEA1</source-url>
+        </remark>
+    </remarks>
+</person>

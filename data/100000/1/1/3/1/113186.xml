@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>113186</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Sultan, Daniel I.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="2">
+                <name>Sultan, Lieutenant General Daniel I.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv01/persons#p_SLGDI1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945Malta/persons#p_S21</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="1">
+            <title source-urls="2">
+                <name>Lieutenant General</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv01/persons#p_SLGDI1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945Malta/persons#p_S21</source-url>
+            </title>
+        </titles-from-name>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="2">
+        <remark source-urls="1">
+            <p>U. S. A., Commanding General, United States Forces, India–Burma Theater.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv01/persons#p_SLGDI1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>U. S. A., Commanding General of United States Forces, India-Burma Theater.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1945Malta/persons#p_S21</source-url>
+        </remark>
+    </remarks>
+</person>

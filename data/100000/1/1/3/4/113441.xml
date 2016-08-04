@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>113441</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Telles, Raymond L., Jr.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="1">
+                <name>Telles, Raymond</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v31/persons#p_TR1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Telles, Raymond L., Jr.</name>
+                <source-url>https://history.state.gov/departmenthistory/people/telles-raymond-l</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Raymond Telles</name>
+                <source-url>https://history.state.gov/departmenthistory/people/telles-raymond-l</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1915</birth-year>
+    <death-year>2013</death-year>
+    <remarks variants="2">
+        <remark source-urls="1">
+            <p>Ambassador to Costa Rica until February 19, 1967</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v31/persons#p_TR1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Non-career appointee. Ambassador Extraordinary and Plenipotentiary (Costa Rica).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/telles-raymond-l</source-url>
+        </remark>
+    </remarks>
+</person>

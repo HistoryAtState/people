@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>101026</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Bayar, Celal</name>
+        </preferred>
+        <alternates/>
+        <originals variants="4">
+            <original source-urls="1">
+                <name>President Bayar</name>
+                <source-url>https://history.state.gov/departmenthistory/visits/turkey</source-url>
+            </original>
+            <original source-urls="2">
+                <name>Bayar, Celâl</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v03p1/persons#p_BC1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v03p2/persons#p_BC1</source-url>
+            </original>
+            <original source-urls="6">
+                <name>Bayar, Celal</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v05/persons#p_BC1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v08/persons#p_BC1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v12/persons#p_BC1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v24/persons#p_BC1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v10p1/persons#p_BC1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v10p2/persons#p_BC1</source-url>
+            </original>
+            <original source-urls="2">
+                <name>Bayer, Celal</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v09p1/persons#p_BC1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v09p2/persons#p_BC1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="6">
+        <remark source-urls="1">
+            <p>President, Turkey. Visited U.S. once, 1954</p>
+            <source-url>https://history.state.gov/departmenthistory/visits/turkey</source-url>
+        </remark>
+        <remark source-urls="3">
+            <p>President of the Turkish Republic.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1951v03p1/persons#p_BC1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1951v03p2/persons#p_BC1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v08/persons#p_BC1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>President of the Republic of Turkey.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1951v05/persons#p_BC1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>President of Turkey.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v09p1/persons#p_BC1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v09p2/persons#p_BC1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>President of Turkey</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v12/persons#p_BC1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v24/persons#p_BC1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>President of Turkey until May 1960</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v10p1/persons#p_BC1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v10p2/persons#p_BC1</source-url>
+        </remark>
+    </remarks>
+</person>

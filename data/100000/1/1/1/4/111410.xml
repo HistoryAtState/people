@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>111410</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Ritchie, Charles S.A.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="2">
+                <name>Ritchie, Charles</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v13/persons#p_RC1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v16/persons#p_RC1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Ritchie, Charles S. A.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v25/persons#p_RCSA1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Ritchie, Charles S.A.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v12/persons#p_RCSA1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="4">
+        <remark source-urls="1">
+            <p>Canadian Ambassador to the United States from May 1962</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v13/persons#p_RC1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Canadian Ambassador from May 25, 1962</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v25/persons#p_RCSA1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Canadian Ambassador to the United States until July 1966; Permanent Representative to NATO, July 1966-1967</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v12/persons#p_RCSA1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Canadian Ambassador to the United States, 1962–1966</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v16/persons#p_RC1</source-url>
+        </remark>
+    </remarks>
+</person>

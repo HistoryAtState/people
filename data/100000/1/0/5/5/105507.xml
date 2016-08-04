@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>105507</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Hannegan, Edward A.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="1">
+                <name>Hannegan, Edward A.</name>
+                <source-url>https://history.state.gov/departmenthistory/people/hannegan-edward-a</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1807</birth-year>
+    <death-year>1859</death-year>
+    <remarks variants="1">
+        <remark source-urls="1">
+            <p>Non-career appointee. Envoy Extraordinary and Minister Plenipotentiary (Germany).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/hannegan-edward-a</source-url>
+        </remark>
+    </remarks>
+</person>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>106002</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Hoepker-Aschoff, Hermann</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="2">
+                <name>Hoepker-Aschoff, Dr. Hermann</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1948v02/persons#p_HAH1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1949v03/persons#p_HAH1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="1">
+            <title source-urls="2">
+                <name>Dr.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1948v02/persons#p_HAH1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1949v03/persons#p_HAH1</source-url>
+            </title>
+        </titles-from-name>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="2">
+        <remark source-urls="1">
+            <p>representative of the Free Democratic Party in the Parliamentary Council</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1948v02/persons#p_HAH1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Representative of the Free Democratic Party at the Bonn Parliamentary Council.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1949v03/persons#p_HAH1</source-url>
+        </remark>
+    </remarks>
+</person>

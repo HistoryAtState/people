@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>113006</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Stevenson, William Edwards</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="2">
+                <name>Stevenson, William E.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v23/persons#p_SWE1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v26/persons#p_SWE1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Stevenson, William Edwards</name>
+                <source-url>https://history.state.gov/departmenthistory/people/stevenson-william-edwards</source-url>
+            </original>
+            <original source-urls="1">
+                <name>William E. Stevenson</name>
+                <source-url>https://history.state.gov/departmenthistory/people/stevenson-william-edwards</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1900</birth-year>
+    <death-year>1985</death-year>
+    <remarks variants="3">
+        <remark source-urls="1">
+            <p>Ambassador to the Philippines from December 15, 1961</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v23/persons#p_SWE1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Ambassador to the Philippines until June 14, 1964</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v26/persons#p_SWE1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Non-career appointee. Ambassador Extraordinary and Plenipotentiary (Philippines).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/stevenson-william-edwards</source-url>
+        </remark>
+    </remarks>
+</person>

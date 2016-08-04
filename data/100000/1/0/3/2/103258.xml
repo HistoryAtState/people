@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>103258</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Dearborn, Henry, Sr.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="1">
+                <name>Dearborn, Henry, Sr.</name>
+                <source-url>https://history.state.gov/departmenthistory/people/dearborn-henry-sr</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1751</birth-year>
+    <death-year>1829</death-year>
+    <remarks variants="1">
+        <remark source-urls="1">
+            <p>Non-career appointee. Envoy Extraordinary and Minister Plenipotentiary (Portugal).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/dearborn-henry-sr</source-url>
+        </remark>
+    </remarks>
+</person>

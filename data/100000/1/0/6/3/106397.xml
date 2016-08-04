@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>106397</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Ingersoll, John J.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="3">
+                <name>Ingersoll, John J.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v05/persons#p_IJJ1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve11p1/persons#p_IJJ_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve11p2/persons#p_IJJ_1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="3">
+        <remark source-urls="1">
+            <p>Office of South American Affairs, Department of State, until September 1958; Office of East Coast Affairs, September 1958–August 1959; thereafter Officer in Charge of Venezuelan Affairs</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v05/persons#p_IJJ1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Chief, Tropical Products Division, Office of International Commodities, International Resources and Food Policy, Bureau of Economic and Business Affairs, from 1973</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve11p1/persons#p_IJJ_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Chief, Tropical Products Division, Office of International Commodities, International Resources and Food Policy, Bureau of Economic and Business Affairs, Department of State, from 1973</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve11p2/persons#p_IJJ_1</source-url>
+        </remark>
+    </remarks>
+</person>

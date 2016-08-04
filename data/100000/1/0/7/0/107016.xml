@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>107016</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Kendall, Donald M.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="4">
+                <name>Kendall, Donald M.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v14/persons#p_KDM2</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v16/persons#p_KDM_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v21/persons#p_KDM_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve12/persons#p_kendall-donald-m</source-url>
+            </original>
+            <original source-urls="2">
+                <name>Kendall, Donald</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v15/persons#p_KD_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v31/persons#p_KD1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="6">
+        <remark source-urls="1">
+            <p>Chairman and Chief Executive Officer of Pepsi Co.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v14/persons#p_KDM2</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Chief Executive Officer, PepsiCo. Inc.; U.S. Director of the U.S.–USSR Economic and Trade Council</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v15/persons#p_KD_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Chairman of Pepsico, Inc.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v16/persons#p_KDM_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>President of Pepsi Cola Company</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v21/persons#p_KDM_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>President and Chief Executive Officer, PepsiCo, Inc.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v31/persons#p_KD1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>President and Chief Executive Officer of Pepsi-Cola (renamed Pepsi Co); friend of Richard Nixon; Chairman of the Emergency Committee for American Trade</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve12/persons#p_kendall-donald-m</source-url>
+        </remark>
+    </remarks>
+</person>

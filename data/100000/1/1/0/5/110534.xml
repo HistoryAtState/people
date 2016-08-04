@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>110534</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Penney, William</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="1">
+                <name>Penney, William</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v03/persons#p_PSW1</source-url>
+            </original>
+            <original source-urls="2">
+                <name>Penney, Sir William</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v07/persons#p_PSW1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v11/persons#p_PSW1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="1">
+            <title source-urls="2">
+                <name>Sir</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v07/persons#p_PSW1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v11/persons#p_PSW1</source-url>
+            </title>
+        </titles-from-name>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="2">
+        <remark source-urls="1">
+            <p>British nuclear physicist</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v03/persons#p_PSW1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Chairman, United Kingdom Atomic Energy Authority</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v07/persons#p_PSW1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v11/persons#p_PSW1</source-url>
+        </remark>
+    </remarks>
+</person>

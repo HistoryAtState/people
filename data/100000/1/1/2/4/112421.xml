@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>112421</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Shukairy, Ahmad</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="7">
+                <name>Shukairy, Ahmad</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v05/persons#p_SHA1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v09p1/persons#p_SA3</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v09p2/persons#p_SA3</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v02/persons#p_SA12</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v13/persons#p_SA2</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v17/persons#p_SA12</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v18/persons#p_SA12</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Shukairy, Ahmed</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v18/persons#p_SA12</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="5">
+        <remark source-urls="1">
+            <p>Syrian Representative at the Sixth Session of the United Nations General Assembly; Assistant Secretary General of the League of the League of Arab States.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1951v05/persons#p_SHA1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Assistant Secretary–General of the League of Arab States; Syrian Representative at the 7th, 8th, and 9th Regular Sessions of the United Nations General Assembly, 1952–1954; Chairman of the Syrian Delegation to the United Nations, 1954.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v09p1/persons#p_SA3</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v09p2/persons#p_SA3</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Saudi Representative at the United Nations</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v02/persons#p_SA12</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v13/persons#p_SA2</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Saudi Permanent Representative to the United Nations</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v17/persons#p_SA12</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v18/persons#p_SA12</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>President of the Executive Committee of the Palestine Liberation Organization</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v18/persons#p_SA12</source-url>
+        </remark>
+    </remarks>
+</person>

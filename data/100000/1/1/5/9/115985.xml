@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>115985</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Pipes, Richard E.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="1">
+                <name>Pipes, Richard E.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v30/persons#p_PRE_1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Pipes, Richard</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1981-88v03/persons#p_PR_2</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="2">
+        <remark source-urls="1">
+            <p>Professor of History, Harvard University and Director, Harvard University Russian Research Center</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v30/persons#p_PRE_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Director, East European and Soviet Affairs, National Security Council Staff from January 1981 until December 1982</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1981-88v03/persons#p_PR_2</source-url>
+        </remark>
+    </remarks>
+</person>

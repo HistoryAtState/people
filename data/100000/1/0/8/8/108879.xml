@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>108879</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>McIlvaine, Robinson</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="4">
+                <name>McIlvaine, Robinson</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v02p1/persons#p_MCILVAINER1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v02p2/persons#p_MCILVAINER1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v24/persons#p_MIR1</source-url>
+                <source-url>https://history.state.gov/departmenthistory/people/mcilvaine-robinson</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1913</birth-year>
+    <death-year>2001</death-year>
+    <remarks variants="3">
+        <remark source-urls="2">
+            <p>Assistant to the Assistant Secretary of State for Public Affairs after July 19, 1953; Special Assistant after March 1954; Deputy Assistant Secretary of State for Public Affairs after July 19, 1954.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v02p1/persons#p_MCILVAINER1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v02p2/persons#p_MCILVAINER1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Country Director for Northwestern Africa, Bureau of African Affairs, Department of State, July-September 1966; thereafter Ambassador to Guinea</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v24/persons#p_MIR1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Foreign Service Officer. Ambassador Extraordinary and Plenipotentiary (Kenya); Ambassador Extraordinary and Plenipotentiary (Guinea); Ambassador Extraordinary and Plenipotentiary (Benin).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/mcilvaine-robinson</source-url>
+        </remark>
+    </remarks>
+</person>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>104336</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Fleck, Benjamin A.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="3">
+                <name>Fleck, Benjamin A.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v15/persons#p_FBA1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v29p1/persons#p_FBA1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve12/persons#p_fleck-benjamin-a</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="3">
+        <remark source-urls="1">
+            <p>Office of South Asian Affairs, Bureau of Near Eastern and South Asian Affairs, Department of State, from September 1958</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v15/persons#p_FBA1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>First Secretary and Political Officer of the Embassy in Korea until August 1964; Officer-in-Charge of Korean Affairs, Bureau of East Asian Affairs after September 1965; Country Director for Korea, June 1966–May 1968</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v29p1/persons#p_FBA1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Director of the Office for Philippine Affairs</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve12/persons#p_fleck-benjamin-a</source-url>
+        </remark>
+    </remarks>
+</person>

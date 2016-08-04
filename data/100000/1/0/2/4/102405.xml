@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>102405</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Chapman, Leonard F., Jr.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="6">
+            <original source-urls="3">
+                <name>Chapman, General Leonard</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v07/persons#p_CGL1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v16/persons#p_CGL1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v06/persons#p_CGL1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Chapman, Leonard F.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve03/persons#p_CLF1</source-url>
+            </original>
+            <original source-urls="2">
+                <name>Chapman, Leonard F., Jr.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v10/persons#p_CLF1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v41/persons#p_CLF_1</source-url>
+            </original>
+            <original source-urls="2">
+                <name>Chapman, Leonard F. Jr.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v32/persons#p_CLF1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v34/persons#p_CLFJ1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Chapman, General Leonard F., Jr.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve07/persons#p_CGLFJ1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Chapman, Gen. Leonard</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v29/persons#p_CGL1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="2">
+            <title source-urls="4">
+                <name>General</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v07/persons#p_CGL1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v16/persons#p_CGL1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v06/persons#p_CGL1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve07/persons#p_CGLFJ1</source-url>
+            </title>
+            <title source-urls="1">
+                <name>Gen.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v29/persons#p_CGL1</source-url>
+            </title>
+        </titles-from-name>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="9">
+        <remark source-urls="2">
+            <p>Marine Corps Commandant</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v07/persons#p_CGL1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v06/persons#p_CGL1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Commandant of the U.S. Marine Corps</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v16/persons#p_CGL1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Commandant, U.S. Marine Corps until December 1971</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v29/persons#p_CGL1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Commissioner of Immigration and Naturalization, Department of Justice, from November 29, 1973</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve03/persons#p_CLF1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>General, USMC, Commandant of the Marine Corps from 1968 until January 1, 1972</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v10/persons#p_CLF1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>General, USMC, Commandant, United States Marine Corps until 1972</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v32/persons#p_CLF1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>General, USMC; Commandant, United States Marine Corps until 1972</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v34/persons#p_CLFJ1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>General, USMC; Commandant of the Marine Corps</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v41/persons#p_CLF_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Commandant of the Marine Corps until December 1971</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve07/persons#p_CGLFJ1</source-url>
+        </remark>
+    </remarks>
+</person>

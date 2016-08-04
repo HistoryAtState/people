@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>106522</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Jalloud, Abdel Salam</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="1">
+                <name>Jallud, Abdul Salam</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v36/persons#p_JAS1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Jalluud (also Juluud and Jalloud), Abd al-Sallam</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve05p2/persons#p_JJJAS1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Jalud, Abd al-Salam</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve09p1/persons#p_JAA_1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="3">
+        <remark source-urls="1">
+            <p>Major, Libyan Vice Premier and Minister of Industry and Economy</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v36/persons#p_JAS1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Libyan Deputy Prime Minister and Interior Minister from January 1970; Minister of the Economy and Industry from September 1970; Prime Minister from July 1972</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve05p2/persons#p_JJJAS1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Maj., Libyan Prime Minister from 1972 until 1977</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve09p1/persons#p_JAA_1</source-url>
+        </remark>
+    </remarks>
+</person>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>101821</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Brown, Richard C.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="2">
+                <name>Brown, Richard C.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve10/persons#p_BRC3</source-url>
+                <source-url>https://history.state.gov/departmenthistory/people/brown-richard-c</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1939</birth-year>
+    <death-year>2004</death-year>
+    <remarks variants="2">
+        <remark source-urls="1">
+            <p>Political Officer at the U.S. Consulate in Barcelona from January 1969 until November 1969; Staff Assistant to the Assistant Secretary of State for Inter-American Affairs from November 1969 until August 1972; Political Officer, U.S. Consulate General, Rio de Janeiro from August 1972</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve10/persons#p_BRC3</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Foreign Service Officer. Ambassador Extraordinary and Plenipotentiary (Uruguay).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/brown-richard-c</source-url>
+        </remark>
+    </remarks>
+</person>

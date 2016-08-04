@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>113709</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Tran Van Lam</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="5">
+                <name>Tran Van Lam</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v06/persons#p_TVL1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v07/persons#p_TVLS1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v08/persons#p_TVL1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v09/persons#p_TVL_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v10/persons#p_TVL1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Tram Van Lam</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v07/persons#p_TVL1</source-url>
+            </original>
+            <original source-urls="2">
+                <name>Lam, Tran Van</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v08/persons#p_LTV1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v09/persons#p_TVL_1alt1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="5">
+        <remark source-urls="1">
+            <p>Republic of Vietnam Senator and Chief of unofficial delegation in Paris</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v06/persons#p_TVL1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Senator, Republic of Vietnam, and chief of unofficial South Vietnamese Delegation in Paris.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v07/persons#p_TVLS1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>South Vietnamese Foreign Minister</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v07/persons#p_TVL1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v08/persons#p_TVL1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>see Tran Van Lam</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v08/persons#p_LTV1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v09/persons#p_TVL_1alt1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Foreign Minister, Republic of Vietnam</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v09/persons#p_TVL_1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v10/persons#p_TVL1</source-url>
+        </remark>
+    </remarks>
+</person>

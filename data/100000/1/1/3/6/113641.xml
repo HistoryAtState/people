@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>113641</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Tong, Hollington K.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="4">
+                <name>Tong, Hollington K.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1943CairoTehran/persons#p_THK1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v02/persons#p_THK1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v03/persons#p_THK1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v19/persons#p_THK1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="3">
+        <remark source-urls="1">
+            <p>member of the Chinese Delegation at the First Cairo Conference; Director, Information Office, Government of China in 1948; Chinese Ambassador at Washington, 1956–58.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1943CairoTehran/persons#p_THK1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Ambassador of the Republic of China to Japan to May 1956; thereafter Ambassador to the United States</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v02/persons#p_THK1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v03/persons#p_THK1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Ambassador of the Republic of China to the United States through July 1958</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v19/persons#p_THK1</source-url>
+        </remark>
+    </remarks>
+</person>

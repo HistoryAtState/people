@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>101155</id>
+    <authorities>
+        <authority service="viaf">102167198</authority>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Benedict XVI</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="1">
+                <name>Pope Benedict XVI</name>
+                <source-url>https://history.state.gov/departmenthistory/visits/holy-see</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="1">
+        <remark source-urls="1">
+            <p>Pope, Vatican City. Visited U.S. once, 2008</p>
+            <source-url>https://history.state.gov/departmenthistory/visits/holy-see</source-url>
+        </remark>
+    </remarks>
+</person>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>100025</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Abdirascid, Ali Shermarke</name>
+        </preferred>
+        <alternates/>
+        <originals variants="4">
+            <original source-urls="1">
+                <name>Abdirashid Ali Shermarche</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v21/persons#p_AAS1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Abdirascid, Ali Scermarke</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v24/persons#p_AAS1</source-url>
+            </original>
+            <original source-urls="2">
+                <name>Abdirascid, Ali Shermarke</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve05p1/persons#p_AAS1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve05p2/persons#p_AAS1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Prime Minister Abdirascid</name>
+                <source-url>https://history.state.gov/departmenthistory/visits/somalia</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="4">
+        <remark source-urls="1">
+            <p>Prime Minister of Somalia</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v21/persons#p_AAS1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Prime Minister of Somalia until June 1964; President from June 1967</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v24/persons#p_AAS1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>President of Somalia from June 1967 until his assassination on October 15, 1969</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve05p1/persons#p_AAS1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve05p2/persons#p_AAS1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Prime Minister, Somalia. Visited U.S. once, 1962</p>
+            <source-url>https://history.state.gov/departmenthistory/visits/somalia</source-url>
+        </remark>
+    </remarks>
+</person>

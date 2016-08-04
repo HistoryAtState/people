@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>108657</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Matsumoto, Takizo (Frank)</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="1">
+                <name>Matsumoto, Takizo (Frank)</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v23p1/persons#p_MTF1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="1">
+        <remark source-urls="1">
+            <p>Japanese Deputy Chief Cabinet Secretary to December 1956</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v23p1/persons#p_MTF1</source-url>
+        </remark>
+    </remarks>
+</person>

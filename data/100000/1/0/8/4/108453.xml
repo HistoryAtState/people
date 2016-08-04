@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>108453</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Manfull, Melvin Lawrence</name>
+        </preferred>
+        <alternates/>
+        <originals variants="4">
+            <original source-urls="6">
+                <name>Manfull, Melvin L.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v02/persons#p_MML2</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v03/persons#p_MML1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v17/persons#p_MML2</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v18/persons#p_MML2</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v02/persons#p_MML1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v03/persons#p_MML1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Manhll, Melvin L.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v01/persons#p_MML1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Manfull, Melvin Lawrence</name>
+                <source-url>https://history.state.gov/departmenthistory/people/manfull-melvin-lawrence</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Melvin L. Manfull</name>
+                <source-url>https://history.state.gov/departmenthistory/people/manfull-melvin-lawrence</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1919</birth-year>
+    <death-year>2000</death-year>
+    <remarks variants="5">
+        <remark source-urls="1">
+            <p>Counselor for Political Affairs at the Embassy in Saigon from April 14, 1962</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v02/persons#p_MML2</source-url>
+        </remark>
+        <remark source-urls="3">
+            <p>Counselor for Political Affairs at the Embassy in Vietnam</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v03/persons#p_MML1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v02/persons#p_MML1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v03/persons#p_MML1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Deputy Executive Secretary, Department of State, May 1, 1961–April 14, 1962</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v17/persons#p_MML2</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v18/persons#p_MML2</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Counselor for Political Affairs in the Embassy in Saigon</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v01/persons#p_MML1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Foreign Service Officer. Ambassador Extraordinary and Plenipotentiary (Liberia); Ambassador Extraordinary and Plenipotentiary (Central African Republic).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/manfull-melvin-lawrence</source-url>
+        </remark>
+    </remarks>
+</person>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>107410</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Kozlov, Frol R.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="3">
+                <name>Kozlov, Frol R.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v10p1/persons#p_KFR1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v10p2/persons#p_KFR1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v05/persons#p_KFR1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="2">
+        <remark source-urls="2">
+            <p>Soviet First Deputy Premier from March 1958</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v10p1/persons#p_KFR1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v10p2/persons#p_KFR1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Secretary of the Central Committee of the Communist Party of the Soviet Union</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v05/persons#p_KFR1</source-url>
+        </remark>
+    </remarks>
+</person>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>100911</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Bar-On, Aryeh</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="2">
+                <name>Bar-On, Aryeh</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v23/persons#p_BOLCA_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v26/persons#p_BA_1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Bar-On, Lt. Colonel Aryeh</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v25/persons#p_BCA_1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="1">
+            <title source-urls="1">
+                <name>Lt. Colonel</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v25/persons#p_BCA_1</source-url>
+            </title>
+        </titles-from-name>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="2">
+        <remark source-urls="2">
+            <p>Aide to Israeli Defense Minister Dayan</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v23/persons#p_BOLCA_1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v25/persons#p_BCA_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Colonel, aide to General Dayan</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v26/persons#p_BA_1</source-url>
+        </remark>
+    </remarks>
+</person>

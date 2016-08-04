@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>107904</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Levin, Burton</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="2">
+                <name>Levin, Burton</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v13/persons#p_LB_1</source-url>
+                <source-url>https://history.state.gov/departmenthistory/people/levin-burton</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1930</birth-year>
+    <death-year/>
+    <remarks variants="2">
+        <remark source-urls="1">
+            <p>Director, Office of Republic of China Affairs, Department of State</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v13/persons#p_LB_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Foreign Service Officer. Ambassador Extraordinary and Plenipotentiary (Burma).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/levin-burton</source-url>
+        </remark>
+    </remarks>
+</person>

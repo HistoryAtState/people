@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>111130</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Ramphal, Shridath Surendranath (“Sonny”)</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="1">
+                <name>Ramphal, Shridath S.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v05/persons#p_RSS1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Ramphal, Sir Shridath Surendranath “Sonny”</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v28/persons#p_RSS_1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Ramphal, Shridath Surendranath (“Sonny”)</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve11p1/persons#p_RSS_1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="1">
+            <title source-urls="1">
+                <name>Sir</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v28/persons#p_RSS_1</source-url>
+            </title>
+        </titles-from-name>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="3">
+        <remark source-urls="1">
+            <p>Attorney General and Minister of State of Guyana; candidate for Secretary-General of the United Nations, 1971</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v05/persons#p_RSS1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Commonwealth Secretary-General from 1975</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v28/persons#p_RSS_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Minister of Foreign Affairs, Guyana, until 1975; Secretary General of the Commonwealth of Guyana from June 30, 1975</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve11p1/persons#p_RSS_1</source-url>
+        </remark>
+    </remarks>
+</person>

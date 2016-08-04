@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>106892</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Karlik, John</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="1">
+                <name>Karlik, John</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v03/persons#p_KJ_1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="1">
+        <remark source-urls="1">
+            <p>Deputy Assistant Secretary of the Treasury for Economic Policy (International Economic Analysis) from December 1977 until January 1980</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v03/persons#p_KJ_1</source-url>
+        </remark>
+    </remarks>
+</person>

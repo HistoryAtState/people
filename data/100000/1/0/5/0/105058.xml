@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>105058</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Gorlinsky, Nikolay Dmitriyevich</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="1">
+                <name>Gorlinsky, Major General Nikolay Dmitriyevich</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv01/persons#p_GMGND1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Gorlinski</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv02/persons#p_G8</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Gorlinsky, Nikolay Dmitriyevich</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv02/persons#p_GMGND1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="1">
+            <title source-urls="1">
+                <name>Major General</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv01/persons#p_GMGND1</source-url>
+            </title>
+        </titles-from-name>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="2">
+        <remark source-urls="2">
+            <p>Assistant to the First Assistant People’s Commissar for Internal Affairs of the Soviet Union.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv01/persons#p_GMGND1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv02/persons#p_GMGND1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>See Gorlinsky.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv02/persons#p_G8</source-url>
+        </remark>
+    </remarks>
+</person>

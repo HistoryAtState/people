@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>108497</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Marcos, Imelda Romualdez</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="2">
+                <name>Marcos, Imelda</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v20/persons#p_MI1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v13/persons#p_MI_1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Marcos, Imelda Romualdez</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve12/persons#p_marcos-imelda-romualdez</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="3">
+        <remark source-urls="1">
+            <p>First Lady of the Philippines</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v20/persons#p_MI1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>wife of Ferdinand Marcos</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve12/persons#p_marcos-imelda-romualdez</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>First Lady of the Philippines from December 30, 1965 until February 25, 1986; Special Diplomatic Envoy from 1978 until 1986</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v13/persons#p_MI_1</source-url>
+        </remark>
+    </remarks>
+</person>

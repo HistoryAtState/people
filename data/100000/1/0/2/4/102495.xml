@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>102495</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Childs, Archie W.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="3">
+                <name>Childs, Archie W.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v05/persons#p_CAW1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v11p1/persons#p_CAW1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v11p2/persons#p_CAW1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="2">
+        <remark source-urls="1">
+            <p>Consul General at Lagos, Nigeria, from April 1951.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1951v05/persons#p_CAW1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Consul General at Lagos until March 25, 1952; Bureau of Economic Affairs, Department of State, March 25, 1952–September 27, 1953; thereafter, assigned to the Department of Commerce.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v11p1/persons#p_CAW1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v11p2/persons#p_CAW1</source-url>
+        </remark>
+    </remarks>
+</person>

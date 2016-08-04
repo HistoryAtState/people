@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>113632</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Tomkins, Edward E.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="3">
+                <name>Tomkins, Edward E.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1948v02/persons#p_TEE1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v02p1/persons#p_TOMKINSEE1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v02p2/persons#p_TOMKINSEE1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Tomkins, Edward</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v32/persons#p_TE1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Tomkins, Sir Edward</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve02/persons#p_TSE1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="1">
+            <title source-urls="1">
+                <name>Sir</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve02/persons#p_TSE1</source-url>
+            </title>
+        </titles-from-name>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="4">
+        <remark source-urls="1">
+            <p>Assistant Private Secretary to British Foreign Secretary Bevin</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1948v02/persons#p_TEE1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>First Secretary, British Embassy in the United States.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v02p1/persons#p_TOMKINSEE1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v02p2/persons#p_TOMKINSEE1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Sir, Ambassador of the United Kingdom to the United States</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v32/persons#p_TE1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>British Ambassador to the United States</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve02/persons#p_TSE1</source-url>
+        </remark>
+    </remarks>
+</person>

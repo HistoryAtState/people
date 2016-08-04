@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>107388</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Kosciusko-Morizet, Jacques</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="10">
+                <name>Kosciusko-Morizet, Jacques</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v05/persons#p_KMJ1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v17/persons#p_KMJ1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v30/persons#p_KMJ1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v36/persons#p_KMJ1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v37/persons#p_KMJ_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve03/persons#p_KMJ1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve05p1/persons#p_KMJ1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve05p2/persons#p_KMJ1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve13/persons#p_KMJ1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve15p2/persons#p_KMJ_1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Kosciuszko-Morizet, Jacques</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v39/persons#p_KMJ1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Koscuisko-Morizet, Jacques</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v41/persons#p_KMJ_1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="9">
+        <remark source-urls="1">
+            <p>Permanent Representative of France to the United Nations, February 1970–May 1972; thereafter French Ambassador to the United States</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v05/persons#p_KMJ1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>French Permanent Representative to the United Nations, February 1970–May 1972; French Ambassador to the United States from May 1972</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v17/persons#p_KMJ1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve13/persons#p_KMJ1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>French Ambassador to the United States</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v30/persons#p_KMJ1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v37/persons#p_KMJ_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>French Permanent Representative to the United Nations from February 1970 until May 1972; French Ambassador to the United States from May 1972</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v36/persons#p_KMJ1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>French United Nations Representative from February 1970 to May 1972; French Ambassador to the United States from 1972</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v39/persons#p_KMJ1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>French Permanent Representative to the United Nations from February 1970 until May 1972; thereafter French Ambassador to the United States</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v41/persons#p_KMJ_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Ambassador of France to the United States</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve03/persons#p_KMJ1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>French Representative of France to the United Nations from February 1970 to May 1972; thereafter, French Ambassador to the United States</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve05p1/persons#p_KMJ1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve05p2/persons#p_KMJ1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>French Ambassador to the United States from 1972 until 1977</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve15p2/persons#p_KMJ_1</source-url>
+        </remark>
+    </remarks>
+</person>

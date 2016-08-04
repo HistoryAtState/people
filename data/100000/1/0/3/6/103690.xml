@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>103690</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Duffy, John J.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="1">
+                <name>Duffy, Col. John J.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v29p2/persons#p_DCJJ1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="1">
+            <title source-urls="1">
+                <name>Col.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v29p2/persons#p_DCJJ1</source-url>
+            </title>
+        </titles-from-name>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="1">
+        <remark source-urls="1">
+            <p>USA, Director, Civil Affairs, Office of the Deputy Chief of Staff for Military Operations, Department of the Army</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v29p2/persons#p_DCJJ1</source-url>
+        </remark>
+    </remarks>
+</person>

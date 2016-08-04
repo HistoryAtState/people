@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>106633</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Johnson, Carl Hugo</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="1">
+                <name>Johnson, Carl Hugo</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv01/persons#p_JCH1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="1">
+        <remark source-urls="1">
+            <p>representative of the combined newsreel companies in the press, radio, and photographers’ pool assigned to cover the Berlin Conference.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv01/persons#p_JCH1</source-url>
+        </remark>
+    </remarks>
+</person>

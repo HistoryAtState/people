@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>100471</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Andreyev, Andrey Andreyevich</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="1">
+                <name>Andreyev, Andrey Andreyevich</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v08/persons#p_AAA1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="1">
+        <remark source-urls="1">
+            <p>Deputy Chairman of the U.S.S.R. Council of Ministers and Chairman of the Council for Collective Farm Affairs (under the U.S.S.R. Council of Ministers), 1946–October 1952; member of the Politburo of the Communist Party of the Soviet Union until October 1952.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v08/persons#p_AAA1</source-url>
+        </remark>
+    </remarks>
+</person>

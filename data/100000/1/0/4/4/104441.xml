@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>104441</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Fortas, Abe</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="10">
+                <name>Fortas, Abe</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945v01/persons#p_FA1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v02/persons#p_FA2</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v03/persons#p_FA2</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v04/persons#p_FA2</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v05/persons#p_FA2</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v06/persons#p_FA2</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v07/persons#p_FA1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v27/persons#p_FA1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v32/persons#p_FA2</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v22/persons#p_FA_1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="9">
+        <remark source-urls="1">
+            <p>Under Secretary of the Interior; Adviser, United States Delegation.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1945v01/persons#p_FA1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>unofficial adviser to President Johnson; Associate Justice of the United States Supreme Court after October 4, 1965</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v02/persons#p_FA2</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v03/persons#p_FA2</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Associate Justice of the United States Supreme Court and unofficial adviser to President Johnson</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v04/persons#p_FA2</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Associate Justice of the United States Supreme Court</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v05/persons#p_FA2</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Associate Justice of the Supreme Court</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v06/persons#p_FA2</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Associate Justice, Supreme Court</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v07/persons#p_FA1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Associate Justice, U.S. Supreme Court</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v27/persons#p_FA1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>adviser to President Johnson</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v32/persons#p_FA2</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Associate Justice of the Supreme Court from 1965 until 1969</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v22/persons#p_FA_1</source-url>
+        </remark>
+    </remarks>
+</person>

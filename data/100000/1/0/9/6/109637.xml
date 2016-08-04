@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>109637</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Nam Il</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="3">
+                <name>Nam Il</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v15p1/persons#p_NILG1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v15p2/persons#p_NILG1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v16/persons#p_NILG1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="2">
+        <remark source-urls="2">
+            <p>Lieutenant General, Korean People’s Army; Chief Delegate, North Korean and Chinese Delegation to the armistice negotiations, July 1951–July 1953.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v15p1/persons#p_NILG1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v15p2/persons#p_NILG1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Lieutenant General, Minister of Foreign Affairs of the Democratic People’s Republic of Korea; Head of the D.P.R.K. Delegation at the Geneva Conference on Korea.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v16/persons#p_NILG1</source-url>
+        </remark>
+    </remarks>
+</person>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>101997</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Bush, Frederick Morris</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="1">
+                <name>Bush, Frederick Morris</name>
+                <source-url>https://history.state.gov/departmenthistory/people/bush-frederick-morris</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1949</birth-year>
+    <death-year/>
+    <remarks variants="1">
+        <remark source-urls="1">
+            <p>Non-career appointee. Ambassador Extraordinary and Plenipotentiary (Luxembourg).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/bush-frederick-morris</source-url>
+        </remark>
+    </remarks>
+</person>

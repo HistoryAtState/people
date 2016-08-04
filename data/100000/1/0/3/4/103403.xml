@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>103403</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>de Saulles, John Longer</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="1">
+                <name>de Saulles, John Longer</name>
+                <source-url>https://history.state.gov/departmenthistory/people/de-saulles-john-longer</source-url>
+            </original>
+            <original source-urls="1">
+                <name>John L. de Saulles</name>
+                <source-url>https://history.state.gov/departmenthistory/people/de-saulles-john-longer</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1879</birth-year>
+    <death-year>1917</death-year>
+    <remarks variants="1">
+        <remark source-urls="1">
+            <p>Non-career appointee. Envoy Extraordinary and Minister Plenipotentiary (Uruguay).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/de-saulles-john-longer</source-url>
+        </remark>
+    </remarks>
+</person>

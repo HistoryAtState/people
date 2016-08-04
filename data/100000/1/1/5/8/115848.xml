@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>115848</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Menendez, Mario B.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="1">
+                <name>Menendez, Mario B.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1981-88v13/persons#p_MMB_1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="1">
+        <remark source-urls="1">
+            <p>Brigadier General, Argentine Army, Governor of the Malvinas and Commander of the Argentine garrison from April 3, 1982, until June 15, 1982</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1981-88v13/persons#p_MMB_1</source-url>
+        </remark>
+    </remarks>
+</person>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>115737</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>La Tour du Pin Verclause, Geoffrey</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="1">
+                <name>La Tour du Pin Verclause, Geoffrey</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v05/persons#p_LVG1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="1">
+        <remark source-urls="1">
+            <p>Division of African-Levant Affairs, French Foreign Ministry, until October 1951; on special mission in Morocco, from October 1951.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1951v05/persons#p_LVG1</source-url>
+        </remark>
+    </remarks>
+</person>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>108844</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>McFarland, Andrew J.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="2">
+                <name>McFarland, Andrew J.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1943CairoTehran/persons#p_MAJ1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv02/persons#p_MBGAJ1</source-url>
+            </original>
+            <original source-urls="2">
+                <name>McFarland, Brigadier General Andrew J.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv01/persons#p_MBGAJ1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945Malta/persons#p_M7</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="1">
+            <title source-urls="2">
+                <name>Brigadier General</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv01/persons#p_MBGAJ1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945Malta/persons#p_M7</source-url>
+            </title>
+        </titles-from-name>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="3">
+        <remark source-urls="1">
+            <p>Colonel, U. S. A., Deputy Secretary of the Joint Chiefs of Staff and United States Deputy Secretary of the Combined Chiefs of Staff.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1943CairoTehran/persons#p_MAJ1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>U. S. A., Secretary, Joint Chiefs of Staff; United States Secretary, Combined Chiefs of Staff.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv01/persons#p_MBGAJ1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv02/persons#p_MBGAJ1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>U. S. A., Secretary, Joint Chiefs of Staff, and United States Secretary, Combined Chiefs of Staff.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1945Malta/persons#p_M7</source-url>
+        </remark>
+    </remarks>
+</person>

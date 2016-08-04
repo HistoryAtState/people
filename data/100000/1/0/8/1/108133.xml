@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>108133</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Loughran, John Lewis</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="1">
+                <name>Loughran, John L.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve06/persons#p_LJL1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Loughran, John Lewis</name>
+                <source-url>https://history.state.gov/departmenthistory/people/loughran-john-lewis</source-url>
+            </original>
+            <original source-urls="1">
+                <name>John L. Loughran</name>
+                <source-url>https://history.state.gov/departmenthistory/people/loughran-john-lewis</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1921</birth-year>
+    <death-year>2006</death-year>
+    <remarks variants="2">
+        <remark source-urls="1">
+            <p>Ambassador to Somalia from 1975</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve06/persons#p_LJL1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Foreign Service Officer. Ambassador Extraordinary and Plenipotentiary (Somalia).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/loughran-john-lewis</source-url>
+        </remark>
+    </remarks>
+</person>

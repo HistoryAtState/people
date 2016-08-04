@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>105391</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Hakim, Georges Bey</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="1">
+                <name>Hakim, Georges Bey</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v05/persons#p_HG1</source-url>
+            </original>
+            <original source-urls="2">
+                <name>Hakim, George Bey</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v09p1/persons#p_HGB1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v09p2/persons#p_HGB1</source-url>
+            </original>
+            <original source-urls="3">
+                <name>Hakim, Georges</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v17/persons#p_HG7</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v18/persons#p_HG7</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v20/persons#p_HG1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="4">
+        <remark source-urls="1">
+            <p>Counselor of the Lebanese Legation in the United States; Chargé d’Affaires ad interim, from November 10, 1951.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1951v05/persons#p_HG1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Counselor of the Lebanese Legation in the United States until May 1952; Minister of Finance, October 1, 1952–May 1, 1953; Minister of Foreign Affairs, May 1–August 13, 1953; Minister of Economy, 1953–1954.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v09p1/persons#p_HGB1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v09p2/persons#p_HGB1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Lebanese Permanent Representative to the United Nations</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v17/persons#p_HG7</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v18/persons#p_HG7</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Foreign Minister of Lebanon until February 1968</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v20/persons#p_HG1</source-url>
+        </remark>
+    </remarks>
+</person>

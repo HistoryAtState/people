@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>102961</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Crankshaw, Eric</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="1">
+                <name>Crankshaw, Lieutenant-Colonel Sir Eric</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv01/persons#p_CLCSE1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="1">
+            <title source-urls="1">
+                <name>Lieutenant-Colonel Sir</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv01/persons#p_CLCSE1</source-url>
+            </title>
+        </titles-from-name>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="1">
+        <remark source-urls="1">
+            <p>Secretary, British Government Hospitality Fund.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv01/persons#p_CLCSE1</source-url>
+        </remark>
+    </remarks>
+</person>

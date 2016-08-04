@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>104270</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Findley, Paul</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="5">
+                <name>Findley, Paul</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v29/persons#p_FP1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v38p2/persons#p_FP_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v02/persons#p_FP_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v08/persons#p_FP_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v21/persons#p_FP_1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="3">
+        <remark source-urls="2">
+            <p>Representative (R–Illinois)</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v29/persons#p_FP1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v38p2/persons#p_FP_1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>member, U.S. House of Representatives (R-Illinois)</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v02/persons#p_FP_1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v21/persons#p_FP_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>member, U.S. House of Representatives (R-Illinois) from 1961</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v08/persons#p_FP_1</source-url>
+        </remark>
+    </remarks>
+</person>

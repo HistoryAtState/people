@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>102826</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Coombs, Philip Hall</name>
+        </preferred>
+        <alternates/>
+        <originals variants="4">
+            <original source-urls="3">
+                <name>Coombs, Philip H.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v05/persons#p_CPH1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v09/persons#p_CPH2</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v16/persons#p_CPH1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Coombs, Philip R.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v25/persons#p_CPH2</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Coombs, Philip Hall</name>
+                <source-url>https://history.state.gov/departmenthistory/people/coombs-philip-hall</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Philip H. Coombs</name>
+                <source-url>https://history.state.gov/departmenthistory/people/coombs-philip-hall</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1915</birth-year>
+    <death-year>2006</death-year>
+    <remarks variants="5">
+        <remark source-urls="1">
+            <p>Assistant Secretary of State for Educational and Cultural Affairs from March 1961 until June 1962</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v05/persons#p_CPH1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Assistant Secretary of State for Educational and Cultural Affairs, March 23, 1961-June 4, 1962</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v09/persons#p_CPH2</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Assistant Secretary of State for Educational and Cultural Affairs</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v16/persons#p_CPH1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Assistant Secretary of State for Educational and Cultural Affairs, March 23, 1961–June 4, 1962</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v25/persons#p_CPH2</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Non-career appointee. Assistant Secretary of State for Educational and Cultural Affairs.</p>
+            <source-url>https://history.state.gov/departmenthistory/people/coombs-philip-hall</source-url>
+        </remark>
+    </remarks>
+</person>

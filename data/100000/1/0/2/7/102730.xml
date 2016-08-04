@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>102730</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Collado, Emilio G. (Pete)</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="1">
+                <name>Collado, Emilio G.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv01/persons#p_CEG1</source-url>
+            </original>
+            <original source-urls="2">
+                <name>Collado, Emilio G. (Pete)</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv02/persons#p_CEG1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve01/persons#p_CEGP1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Collado, Emilio</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v36/persons#p_CE1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="3">
+        <remark source-urls="2">
+            <p>Director, Office of Financial and Development Policy, Department of State.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv01/persons#p_CEG1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv02/persons#p_CEG1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Executive Vice President, Standard Oil Company of New York</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v36/persons#p_CE1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>New York City attorney representing U.S. oil industry interests</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve01/persons#p_CEGP1</source-url>
+        </remark>
+    </remarks>
+</person>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>104734</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Garrett, George Angus</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="2">
+                <name>Garrett, George A.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v04p1/persons#p_GGA1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v04p2/persons#p_GGA1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Garrett, George Angus</name>
+                <source-url>https://history.state.gov/departmenthistory/people/garrett-george-angus</source-url>
+            </original>
+            <original source-urls="1">
+                <name>George A. Garrett</name>
+                <source-url>https://history.state.gov/departmenthistory/people/garrett-george-angus</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1888</birth-year>
+    <death-year>1971</death-year>
+    <remarks variants="2">
+        <remark source-urls="2">
+            <p>Ambassador to Ireland, until May 1951</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1951v04p1/persons#p_GGA1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1951v04p2/persons#p_GGA1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Non-career appointee. Envoy Extraordinary and Minister Plenipotentiary (Ireland); Ambassador Extraordinary and Plenipotentiary (Ireland).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/garrett-george-angus</source-url>
+        </remark>
+    </remarks>
+</person>

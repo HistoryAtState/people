@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>111116</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Rakosi, Matyas</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="2">
+                <name>Rakosi, Matyas</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv02/persons#p_RM1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v26/persons#p_RM1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Rákosi, Matyás</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1946v03/persons#p_RM1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Rákosi, Mátyás</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v08/persons#p_RM1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="4">
+        <remark source-urls="1">
+            <p>First Secretary, Hungarian Workers Party Central Executive.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv02/persons#p_RM1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Vice Premier of Hungary; Secretary-General of the Hungarian Communist Party</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1946v03/persons#p_RM1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Hungarian Prime Minister, August 1952–July 1953; Secretary General of the Hungarian Communist Party (First Secretary after September 1953) until his resignation in July 1956.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v08/persons#p_RM1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>member of the Hungarian Presidential Council, 1955–1956; First Secretary of the Hungarian Communist Party, 1956</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v26/persons#p_RM1</source-url>
+        </remark>
+    </remarks>
+</person>

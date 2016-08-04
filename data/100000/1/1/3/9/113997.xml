@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>113997</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>van Troostenburg de Bruyn, A. F. H.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="1">
+                <name>van Troostenburg de Bruyn, A. F. H.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1946v03/persons#p_VTDB1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="1">
+        <remark source-urls="1">
+            <p>Member of the Netherlands Delegation; Chief of the Division of Economic Affairs, Netherlands Ministry of Foreign Affairs</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1946v03/persons#p_VTDB1</source-url>
+        </remark>
+    </remarks>
+</person>

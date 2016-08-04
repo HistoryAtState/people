@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>113416</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Taylor, Paul D.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="2">
+                <name>Taylor, Paul D.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve14p1/persons#p_TPD1</source-url>
+                <source-url>https://history.state.gov/departmenthistory/people/taylor-paul-d</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1939</birth-year>
+    <death-year/>
+    <remarks variants="2">
+        <remark source-urls="1">
+            <p>Chief, Food Policy Division, Office of Food Policy and Programs, International Resources and Food Policy, Bureau of Economic and Business Affairs, Department of State</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve14p1/persons#p_TPD1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Foreign Service Officer. Ambassador Extraordinary and Plenipotentiary (Dominican Republic).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/taylor-paul-d</source-url>
+        </remark>
+    </remarks>
+</person>

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>100969</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Barzani, Mustafa</name>
+        </preferred>
+        <alternates/>
+        <originals variants="4">
+            <original source-urls="2">
+                <name>Barzani, Mullah Mustafa</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v17/persons#p_BMM2</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v18/persons#p_BMM2</source-url>
+            </original>
+            <original source-urls="2">
+                <name>Barzani, Mustafa</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v21/persons#p_BMM2</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v25/persons#p_BM_1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>al-Barzani, Mustafa</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v27/persons#p_BM_2</source-url>
+            </original>
+            <original source-urls="1">
+                <name>al Barzani, Mullah Mustafa</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve04/persons#p_BMM2</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="1">
+            <title source-urls="3">
+                <name>Mullah</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v17/persons#p_BMM2</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v18/persons#p_BMM2</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve04/persons#p_BMM2</source-url>
+            </title>
+        </titles-from-name>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="5">
+        <remark source-urls="2">
+            <p>leader of Iraqi Kurds</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v17/persons#p_BMM2</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v18/persons#p_BMM2</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>leader of Iraqi Kurds, and President of the Command Council of the Kurdish Revolution in Iraq</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v21/persons#p_BMM2</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>leader, Kurdistan Democratic Party</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v25/persons#p_BM_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Iraqi leader of the Kurdish Democratic Party</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v27/persons#p_BM_2</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Iraqi Kurdish leader of the Kurdish Democratic Party Alam, Assadollah, Iranian Minister of Court</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve04/persons#p_BMM2</source-url>
+        </remark>
+    </remarks>
+</person>

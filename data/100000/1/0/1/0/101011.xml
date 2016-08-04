@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>101011</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Baudouin I</name>
+        </preferred>
+        <alternates/>
+        <originals variants="4">
+            <original source-urls="1">
+                <name>Baudouin, Prince Royal of Belgium</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v03p1/persons#p_B1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Baudouin</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v03p2/persons#p_B1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>King Baudouin</name>
+                <source-url>https://history.state.gov/departmenthistory/visits/belgium</source-url>
+            </original>
+            <original source-urls="1">
+                <name>King Baudouin I</name>
+                <source-url>https://history.state.gov/departmenthistory/visits/belgium</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="1">
+            <title source-urls="1">
+                <name>Prince Royal of Belgium</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v03p1/persons#p_B1</source-url>
+            </title>
+        </titles-from-name>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="4">
+        <remark source-urls="1">
+            <p>August 1950–July 1951; King of the Belgians from July 17, 1951.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1951v03p1/persons#p_B1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Prince Royal of Belgium, August 1950–July 1951; King of the Belgians from July 17, 1951.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1951v03p2/persons#p_B1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>King, Belgium. Visited U.S. once, 1959</p>
+            <source-url>https://history.state.gov/departmenthistory/visits/belgium</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>King, Belgium. Visited U.S. 5 times, 1963–1990</p>
+            <source-url>https://history.state.gov/departmenthistory/visits/belgium</source-url>
+        </remark>
+    </remarks>
+</person>

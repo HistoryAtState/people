@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>108020</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Lister, George Thomas</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="3">
+                <name>Lister, George T.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v25/persons#p_LGT1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v10p2/persons#p_LGT1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve10/persons#p_LGT1</source-url>
+            </original>
+            <original source-urls="2">
+                <name>Lister, George Thomas</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve03/persons#p_LGT1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve11p2/persons#p_LG_1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Lister, George</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v02/persons#p_LG_1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="6">
+        <remark source-urls="1">
+            <p>Office of Eastern European Affairs, Department of State, until September 1957</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v25/persons#p_LGT1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>First Secretary of the Embassy in Italy</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v10p2/persons#p_LGT1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Special Assistant, Bureau of Latin American Affairs, Department of State</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve03/persons#p_LGT1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Special Assistant, Bureau of Inter-American Affairs, Department of State from January 1969</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve10/persons#p_LGT1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>staff member, Bureau of Inter-American Affairs, Department of State, from 1973</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve11p2/persons#p_LG_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Special Assistant and Human Rights Officer, Bureau of Inter-American Affairs, Department of State, from 1977 until 1980</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v02/persons#p_LG_1</source-url>
+        </remark>
+    </remarks>
+</person>

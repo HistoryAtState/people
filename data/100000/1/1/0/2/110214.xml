@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>110214</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>O‘Connor, Jeremiah J.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="1">
+                <name>O'Connor, Jeremiah J.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v10p1/persons#p_OCJJ1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>O’Connor, Jeremiah J.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v10p2/persons#p_OCJJ1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>O’Conner, Jeremiah</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v12/persons#p_OCJ1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="2">
+        <remark source-urls="2">
+            <p>Deputy Operations Coordinator, Department of State, March–July 1958; thereafter Operations Coordinator</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v10p1/persons#p_OCJJ1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v10p2/persons#p_OCJJ1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Operations Coordinator, Office of the Under Secretary of State for Political Affairs</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v12/persons#p_OCJ1</source-url>
+        </remark>
+    </remarks>
+</person>

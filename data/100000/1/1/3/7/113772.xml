@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>113772</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Truong Binh Tong</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="1">
+                <name>Truong Binh Tong</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v05/persons#p_TBT1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="1">
+        <remark source-urls="1">
+            <p>imprisoned National Liberation Front official who was released to act as intermediary in the Buttercup episode</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v05/persons#p_TBT1</source-url>
+        </remark>
+    </remarks>
+</person>

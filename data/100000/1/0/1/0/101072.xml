@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>101072</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Becker, Ralph Elihu</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="1">
+                <name>Becker, Ralph Elihu</name>
+                <source-url>https://history.state.gov/departmenthistory/people/becker-ralph-elihu</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Ralph E. Becker</name>
+                <source-url>https://history.state.gov/departmenthistory/people/becker-ralph-elihu</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1907</birth-year>
+    <death-year>1994</death-year>
+    <remarks variants="1">
+        <remark source-urls="1">
+            <p>Non-career appointee. Ambassador Extraordinary and Plenipotentiary (Honduras).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/becker-ralph-elihu</source-url>
+        </remark>
+    </remarks>
+</person>

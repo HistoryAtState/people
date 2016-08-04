@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>106192</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Hoxha, Enver</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="1">
+                <name>Hoxha, Enver</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv02/persons#p_HCGE1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Hoxha, Colonel-General Enver</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1946v03/persons#p_HCGE1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="1">
+            <title source-urls="1">
+                <name>Colonel-General</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1946v03/persons#p_HCGE1</source-url>
+            </title>
+        </titles-from-name>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="2">
+        <remark source-urls="1">
+            <p>Prime Minister in the Provisional Government of Albania.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv02/persons#p_HCGE1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Chief of the Albanian Delegation; Premier and Foreign Minister of Albania</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1946v03/persons#p_HCGE1</source-url>
+        </remark>
+    </remarks>
+</person>

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>107441</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Kreps, Juanita Morris</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="4">
+                <name>Kreps, Juanita M.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v37/persons#p_KJM_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v02/persons#p_KJM_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v03/persons#p_KJM_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v13/persons#p_KJM_1</source-url>
+            </original>
+            <original source-urls="3">
+                <name>Kreps, Juanita Morris</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v01/persons#p_KJM_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v20/persons#p_KJM_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v28/persons#p_KJM_1</source-url>
+            </original>
+            <original source-urls="2">
+                <name>Kreps, Juanita</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v06/persons#p_KRJ_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v08/persons#p_KJ_2</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="7">
+        <remark source-urls="1">
+            <p>Secretary of Commerce, from January 1977 until October 1979</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v37/persons#p_KJM_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Vice President, Duke University until 1976; Secretary of Commerce from January 23, 1977, until October 31, 1979</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v01/persons#p_KJM_1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Secretary of Commerce from January 23, 1977, until October 31, 1979</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v02/persons#p_KJM_1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v20/persons#p_KJM_1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Secretary of Commerce until October 1979</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v03/persons#p_KJM_1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v06/persons#p_KRJ_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Secretary of Commerce until October 31, 1979</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v08/persons#p_KJ_2</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Secretary of Commerce from 1977 until 1979</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v13/persons#p_KJM_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Secretary of Commerce from January 1977 until October 1979</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v28/persons#p_KJM_1</source-url>
+        </remark>
+    </remarks>
+</person>

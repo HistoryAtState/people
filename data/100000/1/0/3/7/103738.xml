@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>103738</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Durán Neumann, Julio</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="3">
+                <name>Durán Neumann, Julio</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v31/persons#p_DNJ1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v21/persons#p_DNJ_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve16/persons#p_DNJ_1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="3">
+        <remark source-urls="1">
+            <p>Senator (PR, Chile); DF candidate for President, September 1963–March 16, 1964; PR candidate for President from April 5, 1964</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v31/persons#p_DNJ1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Senator, Partido Radical until 1969; thereafter Senator, Partido Demócrata Radical</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v21/persons#p_DNJ_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Senator, Chilean Partido Radical (Radical Party) until 1969; thereafter, Senator, Partido Demócrata Radical (Democratic Radical Party)</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve16/persons#p_DNJ_1</source-url>
+        </remark>
+    </remarks>
+</person>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>109342</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Moore, John Denis Joseph</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="1">
+                <name>Moore, John D.J.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v41/persons#p_MJDJ_1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Moore, John Denis Joseph</name>
+                <source-url>https://history.state.gov/departmenthistory/people/moore-john-denis-joseph</source-url>
+            </original>
+            <original source-urls="1">
+                <name>John D.J. Moore</name>
+                <source-url>https://history.state.gov/departmenthistory/people/moore-john-denis-joseph</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1910</birth-year>
+    <death-year>1988</death-year>
+    <remarks variants="2">
+        <remark source-urls="1">
+            <p>U.S. Ambassador to Ireland from April 1969</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v41/persons#p_MJDJ_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Non-career appointee. Ambassador Extraordinary and Plenipotentiary (Ireland).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/moore-john-denis-joseph</source-url>
+        </remark>
+    </remarks>
+</person>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>114617</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Williams, James A.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="3">
+                <name>Williams, James A.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v05/persons#p_WJA1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve05p2/persons#p_WJA1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1981-88v13/persons#p_WJA_1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="3">
+        <remark source-urls="1">
+            <p>staff assistant to the Under Secretary of State</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v05/persons#p_WJA1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Staff Assistant in the Office of the Under Secretary of State, Department of State, September 1970 to August 1972</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve05p2/persons#p_WJA1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Lieutenant General, USA; Director, Defense Intelligence Agency from September 1981</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1981-88v13/persons#p_WJA_1</source-url>
+        </remark>
+    </remarks>
+</person>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>106277</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Humes, John Portner</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="2">
+                <name>Humes, John Portner</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v29/persons#p_HJP1</source-url>
+                <source-url>https://history.state.gov/departmenthistory/people/humes-john-portner</source-url>
+            </original>
+            <original source-urls="1">
+                <name>John P. Humes</name>
+                <source-url>https://history.state.gov/departmenthistory/people/humes-john-portner</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1921</birth-year>
+    <death-year>1985</death-year>
+    <remarks variants="2">
+        <remark source-urls="1">
+            <p>Ambassador to Austria</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v29/persons#p_HJP1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Non-career appointee. Ambassador Extraordinary and Plenipotentiary (Austria).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/humes-john-portner</source-url>
+        </remark>
+    </remarks>
+</person>

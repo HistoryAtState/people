@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>114854</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Yaftali, Abdullah</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="2">
+                <name>Yaftali, Abdullah</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v25/persons#p_YA1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v11/persons#p_YA1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="2">
+        <remark source-urls="1">
+            <p>Afghan Minister of Finance, November 1965–November 1967; Minister of Planning until November 1967; thereafter Second Deputy Prime Minister</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v25/persons#p_YA1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Deputy Prime Minister of Afghanistan until July 1971</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v11/persons#p_YA1</source-url>
+        </remark>
+    </remarks>
+</person>

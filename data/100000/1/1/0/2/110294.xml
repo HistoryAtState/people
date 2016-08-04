@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>110294</id>
+    <authorities>
+        <authority service="viaf">34473691</authority>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Paik Too Jin</name>
+        </preferred>
+        <alternates>
+            <name>Paek Tu-jin</name>
+        </alternates>
+        <originals variants="4">
+            <original source-urls="3">
+                <name>Paik Tu Chin</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v15p1/persons#p_PTC1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v15p2/persons#p_PTC1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v16/persons#p_PTC1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Paik Too Jin (Paek Tu-jin)</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v19p1/persons#p_PTJ1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Paik Doo Jin</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve12/persons#p_paik-doo-jin</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Prime Minister Paik</name>
+                <source-url>https://history.state.gov/departmenthistory/visits/korea-south</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="5">
+        <remark source-urls="2">
+            <p>Minister of Finance in the Republic of Korea to September 1953; Acting Prime Minister, October 1952–April 1953; Prime Minister, April 1953–June 1954.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v15p1/persons#p_PTC1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v15p2/persons#p_PTC1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Prime Minister of the Republic of Korea, April 1953–June 1954.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v16/persons#p_PTC1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Prime Minster of the ROK from December 19, 1970, until June 3, 1971</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v19p1/persons#p_PTJ1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Prime Minster of the Republic of Korea from December 19, 1970 until June 3, 1971</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve12/persons#p_paik-doo-jin</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Prime Minister, Korea. Visited U.S. once, 1953</p>
+            <source-url>https://history.state.gov/departmenthistory/visits/korea-south</source-url>
+        </remark>
+    </remarks>
+</person>

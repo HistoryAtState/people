@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>113517</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Thomaz, Americo de Deus Rodrigues</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="1">
+                <name>Thomaz, Rear Admiral Americo de Deus Rodrigues</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v12/persons#p_TRAADR1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Thomaz, Americo de Deus Rodrigues</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v41/persons#p_TADR_1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="1">
+            <title source-urls="1">
+                <name>Rear Admiral</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v12/persons#p_TRAADR1</source-url>
+            </title>
+        </titles-from-name>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="2">
+        <remark source-urls="1">
+            <p>President of Portugal</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v12/persons#p_TRAADR1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Portuguese President</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v41/persons#p_TADR_1</source-url>
+        </remark>
+    </remarks>
+</person>

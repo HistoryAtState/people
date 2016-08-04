@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>105350</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Haass, Richard Nathan</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="3">
+                <name>Haass, Richard Nathan</name>
+                <source-url>https://history.state.gov/departmenthistory/people/haass-richard-nathan</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1981-88v03/persons#p_HRN_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1981-88v13/persons#p_HRN_1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1951</birth-year>
+    <death-year/>
+    <remarks variants="3">
+        <remark source-urls="1">
+            <p>Non-career appointee. Director of Policy Planning.</p>
+            <source-url>https://history.state.gov/departmenthistory/people/haass-richard-nathan</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Director, Office of Regional Security Affairs, Bureau of Politico-Military Affairs, Department of State</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1981-88v03/persons#p_HRN_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Director, Office of Regional Security Affairs, Bureau of Politico-Military Affairs, Department of State until 1982; thereafter, Deputy for Policy Planning, Bureau of European Affairs, Department of State</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1981-88v13/persons#p_HRN_1</source-url>
+        </remark>
+    </remarks>
+</person>

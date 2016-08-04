@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>100312</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Allen, William Denis</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="2">
+                <name>Allen, Denis</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv01/persons#p_AD2</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945Malta/persons#p_AD1</source-url>
+            </original>
+            <original source-urls="7">
+                <name>Allen, William Denis</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv02/persons#p_AD2</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v03p1/persons#p_AWD1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v03p2/persons#p_AWD1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v05p1/persons#p_ALLENWD1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v05p2/persons#p_ALLENWD1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v06p1/persons#p_ALLENWD1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v06p2/persons#p_ALLENWD1</source-url>
+            </original>
+            <original source-urls="2">
+                <name>Allen, William D.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1947v02/persons#p_AWD1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v16/persons#p_AWD1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="7">
+        <remark source-urls="2">
+            <p>First Secretary, Northern Department, British Foreign Office.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv01/persons#p_AD2</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv02/persons#p_AD2</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>First Secretary in the Northern Department of the British Foreign Office.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1945Malta/persons#p_AD1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Counsellor, British Embassy in Washington</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1947v02/persons#p_AWD1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Head of the German Political Department, British Foreign Office.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1951v03p1/persons#p_AWD1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1951v03p2/persons#p_AWD1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Head of the Central Department of the British Foreign Office until May 1953; thereafter Assistant under Secretary of State for Foreign Affairs.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v05p1/persons#p_ALLENWD1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v05p2/persons#p_ALLENWD1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Head of the Central Department in the British Foreign Office; from May 1953 Assistant Under Secretary of State for Foreign Affairs.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v06p1/persons#p_ALLENWD1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v06p2/persons#p_ALLENWD1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Assistant Under Secretary of State for Foreign Affairs, British Foreign Office; Member of the United Kingdom Delegation at the Geneva Conference.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v16/persons#p_AWD1</source-url>
+        </remark>
+    </remarks>
+</person>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>102635</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Claxton, Philander P., Jr.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="1">
+                <name>Claxton, Philander P., Jr.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1947v02/persons#p_CPP1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Claxton, Philander P. Jr.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve14p1/persons#p_CPP1</source-url>
+            </original>
+            <original source-urls="2">
+                <name>Claxton, Philander P.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v04/persons#p_CPP1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v34/persons#p_CPP1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="4">
+        <remark source-urls="1">
+            <p>Special Assistant to the Assistant Secretary of State for Occupied Areas</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1947v02/persons#p_CPP1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Special Assistant to the Secretary of State for Population Matters</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve14p1/persons#p_CPP1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Deputy Assistant Secretary of State for Congressional Relations from March 1959</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v04/persons#p_CPP1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Special Assistant to Secretary of State Rusk for Population Matters</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v34/persons#p_CPP1</source-url>
+        </remark>
+    </remarks>
+</person>

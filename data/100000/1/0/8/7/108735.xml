@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>108735</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>McAuliffe, Eugene Vincent</name>
+        </preferred>
+        <alternates/>
+        <originals variants="4">
+            <original source-urls="3">
+                <name>McAuliffe, Eugene Vincent</name>
+                <source-url>https://history.state.gov/departmenthistory/people/mcauliffe-eugene-vincent</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v22/persons#p_MAEV_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v20/persons#p_MEV_1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Eugene V. McAuliffe</name>
+                <source-url>https://history.state.gov/departmenthistory/people/mcauliffe-eugene-vincent</source-url>
+            </original>
+            <original source-urls="5">
+                <name>McAuliffe, Eugene V.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v16/persons#p_MAEV1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v13/persons#p_MAEV1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v35/persons#p_MEV_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve09p1/persons#p_MEV_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v13/persons#p_MEV_1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>McAuliffe, Eugene</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v39/persons#p_MAEV1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1918</birth-year>
+    <death-year>2000</death-year>
+    <remarks variants="7">
+        <remark source-urls="1">
+            <p>Foreign Service Officer. Ambassador Extraordinary and Plenipotentiary (Hungary).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/mcauliffe-eugene-vincent</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Reports and Operations Staff, Executive Secretariat, Department of State, until April 7, 1957; thereafter Director</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v16/persons#p_MAEV1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Director, Office of Atlantic Political-Military Affairs, Bureau of European Affairs, Department of State, from June 1966</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v13/persons#p_MAEV1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Assistant Secretary of Defense for International Security Affairs from May 6, 1976</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v22/persons#p_MAEV_1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v35/persons#p_MEV_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Deputy Chief of Mission, U.S. Mission to NATO, from October 1972</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v39/persons#p_MAEV1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Assistant Secretary of Defense for International Security Affairs from May 6, 1976 until April 1, 1977</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve09p1/persons#p_MEV_1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v13/persons#p_MEV_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Assistant Secretary of Defense for International Affairs from May 6, 1976, until April 1, 1977</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v20/persons#p_MEV_1</source-url>
+        </remark>
+    </remarks>
+</person>

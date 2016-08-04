@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>108424</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Mallory, Lester DeWitt</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="7">
+                <name>Mallory, Lester D.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v09p1/persons#p_MLD1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v09p2/persons#p_MLD1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v12/persons#p_MLD1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v13/persons#p_MLD1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v17/persons#p_MLD1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v05/persons#p_MLD1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v06/persons#p_MLD1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Mallory, Lester DeWitt</name>
+                <source-url>https://history.state.gov/departmenthistory/people/mallory-lester-dewitt</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Lester D. Mallory</name>
+                <source-url>https://history.state.gov/departmenthistory/people/mallory-lester-dewitt</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1904</birth-year>
+    <death-year>1994</death-year>
+    <remarks variants="5">
+        <remark source-urls="2">
+            <p>Counselor with personal rank of Minister of the Embassy in Argentina until August 3, 1953; Ambassador to Jordan from December 1, 1953.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v09p1/persons#p_MLD1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v09p2/persons#p_MLD1</source-url>
+        </remark>
+        <remark source-urls="3">
+            <p>Ambassador to Jordan</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v12/persons#p_MLD1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v13/persons#p_MLD1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v17/persons#p_MLD1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Ambassador to Guatemala, February 1958–November 1959; Deputy Assistant Secretary of State for Inter-American Affairs from November 1959</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v05/persons#p_MLD1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Deputy Assistant Secretary of State for Inter-American Affairs</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v06/persons#p_MLD1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Foreign Service Officer. Ambassador Extraordinary and Plenipotentiary (Jordan); Ambassador Extraordinary and Plenipotentiary (Guatemala).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/mallory-lester-dewitt</source-url>
+        </remark>
+    </remarks>
+</person>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>105956</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Hirsch, John Lewis</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="1">
+                <name>Hirsch, John L.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v21/persons#p_HJL_1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Hirsch, John Lewis</name>
+                <source-url>https://history.state.gov/departmenthistory/people/hirsch-john-lewis</source-url>
+            </original>
+            <original source-urls="1">
+                <name>John L. Hirsch</name>
+                <source-url>https://history.state.gov/departmenthistory/people/hirsch-john-lewis</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1936</birth-year>
+    <death-year/>
+    <remarks variants="2">
+        <remark source-urls="1">
+            <p>United States Mission to the United Nations officer</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v21/persons#p_HJL_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Foreign Service Officer. Chargé d'Affaires ad interim (Somalia); Ambassador Extraordinary and Plenipotentiary (Sierra Leone).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/hirsch-john-lewis</source-url>
+        </remark>
+    </remarks>
+</person>

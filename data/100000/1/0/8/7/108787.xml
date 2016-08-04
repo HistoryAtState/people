@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>108787</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>McClure, Robert A.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="1">
+                <name>McClure, Brigadier General Robert A.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv01/persons#p_MBGRA1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Mcclure, Brigadier General Robert A.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v10/persons#p_MBGR1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="1">
+            <title source-urls="2">
+                <name>Brigadier General</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv01/persons#p_MBGRA1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v10/persons#p_MBGR1</source-url>
+            </title>
+        </titles-from-name>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="2">
+        <remark source-urls="1">
+            <p>U. S. A., Chief of Information, Control Division, United States Forces, European Theater.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv01/persons#p_MBGRA1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>United States Army; Chief of the United States Military Mission with the Iranian Army and Chief of the United States Military Assistance Advisory Group in Iran after 1953.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v10/persons#p_MBGR1</source-url>
+        </remark>
+    </remarks>
+</person>

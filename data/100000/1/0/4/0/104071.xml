@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>104071</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Evans, Allan</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="4">
+                <name>Evans, Allan</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1950-55Intel/persons#p_EA1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v08/persons#p_EA2</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v25/persons#p_EA2</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v31/persons#p_EA1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="3">
+        <remark source-urls="1">
+            <p>Director, Office of Intelligence and Research, Department of State until September 15, 1957; Director, Office of Intelligence, Research, and Analysis from February 22, 1959</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1950-55Intel/persons#p_EA1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Deputy Director for Research, Bureau of Intelligence and Research, Department of State, from June 25, 1961</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v08/persons#p_EA2</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Deputy Director for Research, Bureau of Intelligence and Research, Department of State</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v25/persons#p_EA2</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v31/persons#p_EA1</source-url>
+        </remark>
+    </remarks>
+</person>

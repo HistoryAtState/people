@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>103464</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Dickey, John S.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="3">
+                <name>Dickey, John S.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945v01/persons#p_DJS1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v02p1/persons#p_DICKEYJS1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v02p2/persons#p_DICKEYJS1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="2">
+        <remark source-urls="1">
+            <p>Director, Office of Public Affairs; Public Liaison Officer, United States Delegation.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1945v01/persons#p_DJS1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>President of Dartmouth College; Member of the Secretary of State’s Panel of Consultants on Disarmament, 1952.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v02p1/persons#p_DICKEYJS1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v02p2/persons#p_DICKEYJS1</source-url>
+        </remark>
+    </remarks>
+</person>

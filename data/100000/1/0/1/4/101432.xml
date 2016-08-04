@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>101432</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Bliss, Don Carroll</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="5">
+                <name>Bliss, Don Carroll</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v03p1/persons#p_BDC1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v03p2/persons#p_BDC1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v06p1/persons#p_BLISSDC1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v06p2/persons#p_BLISSDC1</source-url>
+                <source-url>https://history.state.gov/departmenthistory/people/bliss-don-carroll</source-url>
+            </original>
+            <original source-urls="3">
+                <name>Bliss, Don C.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v12/persons#p_BDC2</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v16/persons#p_BDC2</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v18/persons#p_BDC1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Don C. Bliss</name>
+                <source-url>https://history.state.gov/departmenthistory/people/bliss-don-carroll</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1897</birth-year>
+    <death-year>1978</death-year>
+    <remarks variants="5">
+        <remark source-urls="2">
+            <p>Minister in Canada.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1951v03p1/persons#p_BDC1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1951v03p2/persons#p_BDC1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Counselor of Embassy in Canada with rank of Minister after January 5, 1950.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v06p1/persons#p_BLISSDC1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v06p2/persons#p_BLISSDC1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Bureau of Near Eastern, South Asian, and African Affairs, Department of State, February 13, 1955–June 22, 1957; thereafter Ambassador to Ethiopia</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v12/persons#p_BDC2</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v16/persons#p_BDC2</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Ambassador to Ethiopia from June 1957</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v18/persons#p_BDC1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Foreign Service Officer. Ambassador Extraordinary and Plenipotentiary (Ethiopia).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/bliss-don-carroll</source-url>
+        </remark>
+    </remarks>
+</person>

@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>102517</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Chodron de Courcel</name>
+        </preferred>
+        <alternates>
+            <name>de Courcel, Geoffrey Chodron</name>
+        </alternates>
+        <originals variants="6">
+            <original source-urls="1">
+                <name>de Courcel, Geoffroy Chodron</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1946v03/persons#p_DCGC1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Chodron de Courcel, Geoffroy</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1947v02/persons#p_CDCG1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>de Courcel</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1947v02/persons#p_DC1</source-url>
+            </original>
+            <original source-urls="2">
+                <name>de Courcel, Geoffrey Chodron</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v07p1/persons#p_DECGCHODRON1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v07p2/persons#p_DECGC1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>de Courcel, Geoffrey C.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v09/persons#p_dCGC1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>De Courcel, Geoffroy Chodron</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v15/persons#p_dCGC1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="6">
+        <remark source-urls="1">
+            <p>Adviser, French Delegation; Deputy Director Office of European Affairs, French Ministry of Foreign Affairs</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1946v03/persons#p_DCGC1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Deputy Director, Office of European Affairs, French Foreign Ministry</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1947v02/persons#p_CDCG1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>see Chodron de Courcel</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1947v02/persons#p_DC1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>French Permanent Secretary General of National Defense until June 1958; Permanent Representative to the North Atlantic Treaty Organization, September–December 1958; Secretary General of the Presidency of France from January 1959</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v07p1/persons#p_DECGCHODRON1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v07p2/persons#p_DECGC1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Secretary General of the Presidency of France from January 1959</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v09/persons#p_dCGC1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>French Ambassador to the United Kingdom</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v15/persons#p_dCGC1</source-url>
+        </remark>
+    </remarks>
+</person>

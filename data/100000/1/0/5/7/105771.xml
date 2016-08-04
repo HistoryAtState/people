@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>105771</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Heinemann, Gustav W.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="6">
+                <name>Heinemann, Gustav</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v03p1/persons#p_HG1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v03p2/persons#p_HG1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v05p1/persons#p_HEINEMANNG1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v05p2/persons#p_HEINEMANNG1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v07p1/persons#p_HG1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v07p2/persons#p_HG1</source-url>
+            </original>
+            <original source-urls="2">
+                <name>Heinemann, Gustav W.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v29/persons#p_HGW1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v40/persons#p_HGW1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="5">
+        <remark source-urls="2">
+            <p>German Federal Republic Minister of the Interior in 1950.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1951v03p1/persons#p_HG1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1951v03p2/persons#p_HG1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>former Minister of the Interior of the Federal Republic of Germany.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v05p1/persons#p_HEINEMANNG1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v05p2/persons#p_HEINEMANNG1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>former Minister of the Interior of the Federal Republic of Germany and cofounder of the Society for the Peace of Europe.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v07p1/persons#p_HG1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v07p2/persons#p_HG1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>(SPD), West German Minister of Justice until March 1969; SPD/FDP Candidate for President in the 1969 Bundesversammlung election; President of the Federal Republic of Germany from July 1969</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v29/persons#p_HGW1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>(SPD), West German Minister of Justice until March 26, 1969; SPD / FDP Candidate for President in the 1969 Bundesversammlung election; President of the Federal Republic of Germany from July 1, 1969</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v40/persons#p_HGW1</source-url>
+        </remark>
+    </remarks>
+</person>

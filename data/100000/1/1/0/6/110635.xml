@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>110635</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Petty, John R.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="5">
+                <name>Petty, John R.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v08/persons#p_PJR1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v03/persons#p_PJR1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v04/persons#p_PJR1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v21/persons#p_PJR_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve16/persons#p_PJR_1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="3">
+        <remark source-urls="1">
+            <p>Deputy Assistant Secretary of the Treasury for International Monetary Affairs, August 1966–May 15, 1968; thereafter Assistant Secretary</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v08/persons#p_PJR1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Assistant Secretary of the Treasury for International Affairs, May 1968-February 1972</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v03/persons#p_PJR1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v04/persons#p_PJR1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Assistant Secretary of the Treasury for International Affairs until February 1972</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v21/persons#p_PJR_1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve16/persons#p_PJR_1</source-url>
+        </remark>
+    </remarks>
+</person>

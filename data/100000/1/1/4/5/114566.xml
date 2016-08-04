@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>114566</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Wigglesworth, Richard Bowditch</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="3">
+                <name>Wigglesworth, Richard B.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v06/persons#p_WRB1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v07p1/persons#p_WRB1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v07p2/persons#p_WRB1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Wigglesworth, Richard Bowditch</name>
+                <source-url>https://history.state.gov/departmenthistory/people/wigglesworth-richard-bowditch</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Richard B. Wigglesworth</name>
+                <source-url>https://history.state.gov/departmenthistory/people/wigglesworth-richard-bowditch</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1891</birth-year>
+    <death-year>1960</death-year>
+    <remarks variants="2">
+        <remark source-urls="3">
+            <p>Ambassador to Canada, December 1958–October 1960</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v06/persons#p_WRB1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v07p1/persons#p_WRB1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v07p2/persons#p_WRB1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Non-career appointee. Ambassador Extraordinary and Plenipotentiary (Canada).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/wigglesworth-richard-bowditch</source-url>
+        </remark>
+    </remarks>
+</person>

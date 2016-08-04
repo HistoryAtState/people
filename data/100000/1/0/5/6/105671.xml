@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>105671</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Hathaway, Dale E.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="2">
+                <name>Hathaway, Dale E.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v01/persons#p_HDE_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v02/persons#p_HDE_1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="2">
+        <remark source-urls="1">
+            <p>Director, International Food Policy Research Institute until March 1977; thereafter Assistant Secretary of Agriculture for International Affairs and Commodity Programs (title elevated to Under Secretary of Agriculture for International Affairs and Commodity Programs following passage of the Agricultural Trade Act of 1978)</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v01/persons#p_HDE_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Director, International Food Policy Research Institute until March 1977; thereafter Assistant Secretary of Agriculture for International Affairs and Commodity Programs (title elevated to Under Secretary of Agriculture for International Affairs and Commodity Programs following passage of the Agricultural Trade Act of 1978); member, Board of Directors, Commodity Credit Corporation; member, U.S. Delegation to the 3rd session of the World Food Council, 1977; Head, U.S. Delegation to the 20th session of the Food and Agriculture Organization Conference, 1980</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v02/persons#p_HDE_1</source-url>
+        </remark>
+    </remarks>
+</person>

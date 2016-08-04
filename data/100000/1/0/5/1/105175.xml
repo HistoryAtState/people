@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>105175</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Greer, DeWitt</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="1">
+                <name>Greer, De Witt</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1943CairoTehran/persons#p_GDW1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Greer, DeWitt</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv02/persons#p_GMD1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Greer, Major DeWitt</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945Malta/persons#p_GMD1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="1">
+            <title source-urls="1">
+                <name>Major</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945Malta/persons#p_GMD1</source-url>
+            </title>
+        </titles-from-name>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="3">
+        <remark source-urls="1">
+            <p>Major, Signal Corps, U. S. A., in charge of the Signal Corps detachment at the White House.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1943CairoTehran/persons#p_GDW1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>U. S. A., Officer in Charge, White House Signal Corps Detachment.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv02/persons#p_GMD1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>U. S. A., in charge of the White House Signal Corps Detachment.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1945Malta/persons#p_GMD1</source-url>
+        </remark>
+    </remarks>
+</person>

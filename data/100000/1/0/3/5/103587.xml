@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>103587</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Donovan, Hedley</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="4">
+                <name>Donovan, Hedley</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v01/persons#p_DH_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v02/persons#p_DH_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v13/persons#p_DH_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v20/persons#p_DH_1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="4">
+        <remark source-urls="1">
+            <p>Editor-in-Chief, TIME Magazine; Senior Adviser to the President, from August 1979 until August 1980</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v01/persons#p_DH_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Editor-in-Chief, Time Magazine; Senior Adviser to the President from August 1979 until August 1980</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v02/persons#p_DH_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Editor in Chief of Time, Incorporated.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v13/persons#p_DH_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Senior Adviser to the President from 1980 until 1981</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v20/persons#p_DH_1</source-url>
+        </remark>
+    </remarks>
+</person>

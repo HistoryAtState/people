@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>100390</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Amini, Ali</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="1">
+                <name>Amini, Dr. Ali</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v10/persons#p_ADA1</source-url>
+            </original>
+            <original source-urls="4">
+                <name>Amini, Ali</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v12/persons#p_AA2</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v09/persons#p_AA10</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v17/persons#p_AA10</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v18/persons#p_AA10</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="1">
+            <title source-urls="1">
+                <name>Dr.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v10/persons#p_ADA1</source-url>
+            </title>
+        </titles-from-name>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="4">
+        <remark source-urls="1">
+            <p>Iranian Minister of Finance after August 20, 1953.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v10/persons#p_ADA1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Iranian Ambassador to the United States from January 24, 1956</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v12/persons#p_AA2</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Prime Minister of Iran, May 5, 1961-July 17, 1962</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v09/persons#p_AA10</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Prime Minister of Iran, May 9, 1961–July 18, 1962</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v17/persons#p_AA10</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v18/persons#p_AA10</source-url>
+        </remark>
+    </remarks>
+</person>

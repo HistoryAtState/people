@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>114529</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Whitham, Gilbert S.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="1">
+                <name>Whitham, G. S.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1947v02/persons#p_WGS1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Whitham, Gilbert S.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1948v02/persons#p_WGS1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="2">
+        <remark source-urls="1">
+            <p>Chief, Reparations, Deliveries, and Restitution Division, Control Commission for Germany (British Element)</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1947v02/persons#p_WGS1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Director, Reparations, Deliveries, and Restitution Division, Control Commission for Germany (British Element)</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1948v02/persons#p_WGS1</source-url>
+        </remark>
+    </remarks>
+</person>

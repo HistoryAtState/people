@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>101613</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Bouteflika, Abdelaziz</name>
+        </preferred>
+        <alternates/>
+        <originals variants="5">
+            <original source-urls="1">
+                <name>Bouteflicka, Abdelaziz</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v24/persons#p_BA3</source-url>
+            </original>
+            <original source-urls="5">
+                <name>Bouteflika, Abdelaziz</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v25/persons#p_BA_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v26/persons#p_BA_2</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v37/persons#p_BA_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve09p1/persons#p_BA_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve14p1/persons#p_BAA1</source-url>
+            </original>
+            <original source-urls="2">
+                <name>Bouteflika, Abdel Aziz</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v36/persons#p_BAA1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve05p2/persons#p_BAA1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>President Abdelaziz Boutefilka</name>
+                <source-url>https://history.state.gov/departmenthistory/visits/algeria</source-url>
+            </original>
+            <original source-urls="1">
+                <name>President Abdelaziz Bouteflika</name>
+                <source-url>https://history.state.gov/departmenthistory/visits/algeria</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="8">
+        <remark source-urls="1">
+            <p>Algerian Minister of Foreign Affairs from July 1965</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v24/persons#p_BA3</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Algerian Foreign Minister</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v25/persons#p_BA_1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v26/persons#p_BA_2</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Algerian Minister of Foreign Affairs</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v36/persons#p_BAA1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve05p2/persons#p_BAA1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Algerian Minister of Foreign Affairs until December 1978</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v37/persons#p_BA_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Algerian Foreign Minister from 1963 until 1979</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve09p1/persons#p_BA_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Algerian Minister of Foreign Affairs, President of the 29th United Nations General Assembly, President of the Seventh Special Session of the United Nations General Assembly</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve14p1/persons#p_BAA1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>President, Algeria. Visited U.S. once, 2001</p>
+            <source-url>https://history.state.gov/departmenthistory/visits/algeria</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>President, Algeria. Visited U.S. 2 times, 2001–2004</p>
+            <source-url>https://history.state.gov/departmenthistory/visits/algeria</source-url>
+        </remark>
+    </remarks>
+</person>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>100795</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Bakr, Abdallah Ibrahim</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="2">
+                <name>Bakr, Abdallah Ibrahim</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v09p1/persons#p_BAI1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v09p2/persons#p_BAI1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="1">
+        <remark source-urls="2">
+            <p>Minister and Chargé d’Affaires of the Iraqi Embassy in the United States until June 1953; Deputy Chief of the Royal Cabinet, June–September 1953; Minister of Foreign Affairs, September 1953–March 8, 1954; thereafter Chief of the Royal Cabinet.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v09p1/persons#p_BAI1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v09p2/persons#p_BAI1</source-url>
+        </remark>
+    </remarks>
+</person>

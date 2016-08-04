@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>104253</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Fignole, Daniel</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="3">
+                <name>Fignole, Daniel</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v06/persons#p_FD1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v07/persons#p_FD1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v12/persons#p_FD2</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="2">
+        <remark source-urls="2">
+            <p>Provisional President of Haiti, May 26-June 14, 1957</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v06/persons#p_FD1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v07/persons#p_FD1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>political opponent of the Duvalier government in Haiti</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v12/persons#p_FD2</source-url>
+        </remark>
+    </remarks>
+</person>

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>107588</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Lalor, William G.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="4">
+                <name>Lalor, Rear Admiral William G.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v03p1/persons#p_LRAWG1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v03p2/persons#p_LRAWG1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v02p1/persons#p_LALORRAWG1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v02p2/persons#p_LALORRAWG1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Lalor, William G.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v05/persons#p_LWG1</source-url>
+            </original>
+            <original source-urls="2">
+                <name>Lalor, Rear Admiral William C.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v15p1/persons#p_LRAWC1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v15p2/persons#p_LRAWC1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="1">
+            <title source-urls="6">
+                <name>Rear Admiral</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v03p1/persons#p_LRAWG1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v03p2/persons#p_LRAWG1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v02p1/persons#p_LALORRAWG1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v02p2/persons#p_LALORRAWG1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v15p1/persons#p_LRAWC1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v15p2/persons#p_LRAWC1</source-url>
+            </title>
+        </titles-from-name>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="4">
+        <remark source-urls="2">
+            <p>USN, Secretary of the Joint Chiefs of Staff.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1951v03p1/persons#p_LRAWG1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1951v03p2/persons#p_LRAWG1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>USN (Ret.), Secretary, Joint Chiefs of Staff.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1951v05/persons#p_LWG1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>USN (ret.), Secretary, Joint Chiefs of Staff, 1952–1953.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v02p1/persons#p_LALORRAWG1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v02p2/persons#p_LALORRAWG1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>USN, Secretary of the Joint Chiefs of Staff to 1953.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v15p1/persons#p_LRAWC1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v15p2/persons#p_LRAWC1</source-url>
+        </remark>
+    </remarks>
+</person>

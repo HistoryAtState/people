@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>113766</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Trujillo Molina, Héctor Bienvenido</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="1">
+                <name>Trujillo Molina, Héctor B.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v04/persons#p_TMHB1</source-url>
+            </original>
+            <original source-urls="2">
+                <name>Trujillo Molina, Hector B.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v06/persons#p_TMHB1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v07/persons#p_TMHB1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Trujillo, Hector Bienvenido</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v12/persons#p_THB1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="3">
+        <remark source-urls="1">
+            <p>Generalissimo, President of the Dominican Republic after August 16, 1952.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v04/persons#p_TMHB1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Generalissimo, President of the Dominican Republic</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v06/persons#p_TMHB1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v07/persons#p_TMHB1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>brother of Generalissimo Rafael Trujillo</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v12/persons#p_THB1</source-url>
+        </remark>
+    </remarks>
+</person>

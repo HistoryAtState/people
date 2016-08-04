@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>100877</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Baring, George Rowland Stanley</name>
+        </preferred>
+        <alternates/>
+        <originals variants="4">
+            <original source-urls="12">
+                <name>Cromer, Earl of (George Rowland Stanley Baring)</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v05/persons#p_CEGR2</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v14/persons#p_CEGRSB1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v17/persons#p_CEGRSB1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v30/persons#p_CEGRSB1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v32/persons#p_CE1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v38p1/persons#p_CE_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v38p2/persons#p_CE_2</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v41/persons#p_CE_2</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve02/persons#p_CEGRSB1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve05p1/persons#p_CEGRSB1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve05p2/persons#p_CEGRSB1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve13/persons#p_CEGRSB1</source-url>
+            </original>
+            <original source-urls="4">
+                <name>Cromer, Earl of</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v11/persons#p_CE1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v39/persons#p_CEGRSB1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v40/persons#p_CE2</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve15p2/persons#p_CE_2</source-url>
+            </original>
+            <original source-urls="2">
+                <name>Cromer, Lord (George Rowland Stanley Baring)</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v25/persons#p_CL_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v36/persons#p_CLGRSB1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Cromer, Third Earl of (Baring, George R.S.)</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v28/persons#p_CTE_1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="1">
+            <title source-urls="19">
+                <name>Earl of Cromer</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v05/persons#p_CEGR2</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v11/persons#p_CE1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v14/persons#p_CEGRSB1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v17/persons#p_CEGRSB1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v25/persons#p_CL_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v28/persons#p_CTE_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v30/persons#p_CEGRSB1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v32/persons#p_CE1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v36/persons#p_CLGRSB1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v38p1/persons#p_CE_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v38p2/persons#p_CE_2</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v39/persons#p_CEGRSB1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v40/persons#p_CE2</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v41/persons#p_CE_2</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve02/persons#p_CEGRSB1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve05p1/persons#p_CEGRSB1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve05p2/persons#p_CEGRSB1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve13/persons#p_CEGRSB1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve15p2/persons#p_CE_2</source-url>
+            </title>
+        </titles-from-name>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="8">
+        <remark source-urls="3">
+            <p>British Ambassador to the United States from February 1971</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v05/persons#p_CEGR2</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve05p1/persons#p_CEGRSB1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve05p2/persons#p_CEGRSB1</source-url>
+        </remark>
+        <remark source-urls="5">
+            <p>British Ambassador to the United States</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v11/persons#p_CE1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v14/persons#p_CEGRSB1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v25/persons#p_CL_1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v38p2/persons#p_CE_2</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v41/persons#p_CE_2</source-url>
+        </remark>
+        <remark source-urls="4">
+            <p>British Ambassador to the United States from February 8, 1971</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v17/persons#p_CEGRSB1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v32/persons#p_CE1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve02/persons#p_CEGRSB1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve13/persons#p_CEGRSB1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Lieutenant Colonel, British Ambassador to the United States from 1971 until 1974</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v28/persons#p_CTE_1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>British Ambassador to the United States until 1974</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v30/persons#p_CEGRSB1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v38p1/persons#p_CE_1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>British Ambassador to the United States from 1971 until 1974</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v36/persons#p_CLGRSB1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve15p2/persons#p_CE_2</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Ambassador from the United Kingdom to the United States from February 8, 1971 to March 13, 1974</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v39/persons#p_CEGRSB1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>(George Rowland Stanley Baring), British Ambassador to the United States from February 8, 1971</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v40/persons#p_CE2</source-url>
+        </remark>
+    </remarks>
+</person>

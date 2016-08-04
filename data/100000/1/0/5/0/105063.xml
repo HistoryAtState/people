@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>105063</id>
+    <authorities>
+        <authority service="viaf">54954516</authority>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Gortari, Carlos Salinas de</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="1">
+                <name>President Carlos Salinas de Gortari</name>
+                <source-url>https://history.state.gov/departmenthistory/visits/mexico</source-url>
+            </original>
+            <original source-urls="1">
+                <name>President-Elect Carlos Salinas de Gortari</name>
+                <source-url>https://history.state.gov/departmenthistory/visits/mexico</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="2">
+        <remark source-urls="1">
+            <p>President, Mexico. Visited U.S. 9 times, 1989–1993</p>
+            <source-url>https://history.state.gov/departmenthistory/visits/mexico</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>President-elect, Mexico. Visited U.S. once, 1988</p>
+            <source-url>https://history.state.gov/departmenthistory/visits/mexico</source-url>
+        </remark>
+    </remarks>
+</person>

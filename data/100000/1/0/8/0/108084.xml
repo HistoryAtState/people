@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>108084</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Long, Edward T.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="3">
+                <name>Long, Edward T.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v02/persons#p_LET2</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v09/persons#p_LET2</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v32/persons#p_LET1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="3">
+        <remark source-urls="1">
+            <p>Special Assistant, Office of the Deputy Under Secretary of State for Political Affairs, October-December 1959; thereafter Special Assistant, Office of the Under Secretary of State for Political Affairs</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v02/persons#p_LET2</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Special Assistant, Office of the Deputy Under Secretary of State for Political Affairs, October 1959; Office of the Under Secretary of State for Political Affairs, December 1959</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v09/persons#p_LET2</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Director, Office of Caribbean Countries, Bureau of Inter-American Affairs, Department of State, 1966–1968</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v32/persons#p_LET1</source-url>
+        </remark>
+    </remarks>
+</person>

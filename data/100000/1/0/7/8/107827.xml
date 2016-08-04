@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>107827</id>
+    <authorities>
+        <authority service="viaf">16041839</authority>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Lemass, Sean F.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="2">
+                <name>Lemass, Sean F.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v06p1/persons#p_LEMASSSF1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v06p2/persons#p_LEMASSSF1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Prime Minister Lemass</name>
+                <source-url>https://history.state.gov/departmenthistory/visits/ireland</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="2">
+        <remark source-urls="2">
+            <p>Deputy Prime Minister of Ireland and Minister of Industry and Commerce, June 1951–June 1954.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v06p1/persons#p_LEMASSSF1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v06p2/persons#p_LEMASSSF1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Prime Minister, Ireland. Visited U.S. once, 1963</p>
+            <source-url>https://history.state.gov/departmenthistory/visits/ireland</source-url>
+        </remark>
+    </remarks>
+</person>

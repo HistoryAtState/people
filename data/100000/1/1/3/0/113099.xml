@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>113099</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Strausz-Hupé, Robert</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="5">
+                <name>Strausz-Hupe, Robert</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v24/persons#p_SHR1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v39/persons#p_SHR1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve15p1/persons#p_SHR1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve15p2/persons#p_SHR_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v02/persons#p_SHR_1</source-url>
+            </original>
+            <original source-urls="2">
+                <name>Strausz-Hupé, Robert</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve05p2/persons#p_SHR1</source-url>
+                <source-url>https://history.state.gov/departmenthistory/people/strausz-hupe-robert</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1903</birth-year>
+    <death-year>2002</death-year>
+    <remarks variants="7">
+        <remark source-urls="1">
+            <p>Ambassador to Ceylon from May 1970 until December 1971</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v24/persons#p_SHR1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>U.S. Ambassador to Belgium from February 1972 to May 1974</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v39/persons#p_SHR1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>appointed Ambassador to Morocco in 1969, but never commissioned</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve05p2/persons#p_SHR1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Ambassador to Belgium from February 15, 1972 to May 22, 1974; Ambassador to Sweden from April 25, 1974 to March 3, 1976; Representative to the North Atlantic Treaty Organization from March 3, 1976 to April 20, 1977</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve15p1/persons#p_SHR1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Ambassador to Belgium from February 1972 until May 1974; Ambassador to Sweden from April 1974 until March 1976; Permanent Representative on the Council of the North Atlantic Treaty Organization from March 1976 until April 1977</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve15p2/persons#p_SHR_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Ambassador to the North Atlantic Treaty Organization until April 20, 1977</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v02/persons#p_SHR_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Non-career appointee. U.S. Permanent Representative on the Council of the North Atlantic Treaty Organization; Ambassador Extraordinary and Plenipotentiary (Turkey); Ambassador Extraordinary and Plenipotentiary (Sweden); Ambassador Extraordinary and Plenipotentiary (Sri Lanka); Ambassador Extraordinary and Plenipotentiary (Morocco); Ambassador Extraordinary and Plenipotentiary (Maldives); Ambassador Extraordinary and Plenipotentiary (Belgium).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/strausz-hupe-robert</source-url>
+        </remark>
+    </remarks>
+</person>

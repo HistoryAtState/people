@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>113268</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Symington, James Wadsworth</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="1">
+                <name>Symington, James W.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v29p2/persons#p_SJW1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Symington, James Wadsworth</name>
+                <source-url>https://history.state.gov/departmenthistory/people/symington-james-wadsworth</source-url>
+            </original>
+            <original source-urls="1">
+                <name>James W. Symington</name>
+                <source-url>https://history.state.gov/departmenthistory/people/symington-james-wadsworth</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1927</birth-year>
+    <death-year/>
+    <remarks variants="2">
+        <remark source-urls="1">
+            <p>Chief of Protocol, Department of State from 1966 to 1968</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v29p2/persons#p_SJW1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Non-career appointee. Chief of Protocol.</p>
+            <source-url>https://history.state.gov/departmenthistory/people/symington-james-wadsworth</source-url>
+        </remark>
+    </remarks>
+</person>

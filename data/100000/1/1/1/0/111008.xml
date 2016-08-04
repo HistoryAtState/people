@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>111008</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Pursley, Robert E.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="6">
+            <original source-urls="1">
+                <name>Pursley, Robert.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v06/persons#p_PR1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Pursley, Colonel Robert E.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v07/persons#p_PCRE1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Pursley, Lt. Gen. Robert E.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v02/persons#p_PR11</source-url>
+            </original>
+            <original source-urls="4">
+                <name>Pursley, Brigadier General Robert E.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v06/persons#p_PBGRE1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v17/persons#p_PBGRE1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v20/persons#p_PR11</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve13/persons#p_PR11</source-url>
+            </original>
+            <original source-urls="10">
+                <name>Pursley, Robert E.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v07/persons#p_PRE1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v08/persons#p_PRE1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v09/persons#p_PRE_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v13/persons#p_PRE1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v19p1/persons#p_PRE1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v32/persons#p_PRE1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v34/persons#p_PRE1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v41/persons#p_PRE_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve10/persons#p_PRE1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve12/persons#p_pursley-robert-e</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Pursley, Lieutenant General Robert E.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve02/persons#p_PR11</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="4">
+            <title source-urls="1">
+                <name>Colonel</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v07/persons#p_PCRE1</source-url>
+            </title>
+            <title source-urls="1">
+                <name>Lt. Gen.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v02/persons#p_PR11</source-url>
+            </title>
+            <title source-urls="4">
+                <name>Brigadier General</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v06/persons#p_PBGRE1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v17/persons#p_PBGRE1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v20/persons#p_PR11</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve13/persons#p_PR11</source-url>
+            </title>
+            <title source-urls="1">
+                <name>Lieutenant General</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve02/persons#p_PR11</source-url>
+            </title>
+        </titles-from-name>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="13">
+        <remark source-urls="3">
+            <p>Military Assistant to the Secretary of Defense</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v06/persons#p_PR1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v07/persons#p_PCRE1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v19p1/persons#p_PRE1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>USAF, Military Assistant to the Secretary of Defense until 1972</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v02/persons#p_PR11</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve02/persons#p_PR11</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>USAF, Military Assistant to the Secretary of Defense</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v06/persons#p_PBGRE1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Brigadier General, USAF, Military Assistant to the Secretary of Defense</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v07/persons#p_PRE1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v32/persons#p_PRE1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Brigadier General, USAF, Military Assistant to the Secretary of Defense; promoted to Major General on February 1 and Lieutenant General on November 19</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v08/persons#p_PRE1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Major General, USAF, Vice Commander, 5th Air Force in Japan; from November 1973, Lieutenant General and Commander, U.S. Forces, Japan</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v09/persons#p_PRE_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Colonel, USAF, Military Assistant to the Secretary of Defense</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v13/persons#p_PRE1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>USAF, Military Assistant to the Secretary of Defense; Commander of U.S. forces in Japan from November 1972</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v17/persons#p_PBGRE1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>USAF, Military Assistant to the Secretary of Defense until November 1972</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v20/persons#p_PR11</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Brigadier General, USAF; Military Assistant to the Secretary of Defense</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v34/persons#p_PRE1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v41/persons#p_PRE_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Brigadier General,Military Assistant to the Secretary of Defense from January 1969 until August 1972; Vice Commander, Fifth Air Force, headquartered at Fuchu Air Station, Japan, until November 1972; Appointed Commander from 1972</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve10/persons#p_PRE1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Brigadier General, Military Assistant to the Secretary of Defense</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve12/persons#p_pursley-robert-e</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>USAF, Military Assistant to the Secretary of Defense;Commander of U.S. forces in Japan from November 1972</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve13/persons#p_PR11</source-url>
+        </remark>
+    </remarks>
+</person>

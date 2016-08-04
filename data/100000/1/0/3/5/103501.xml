@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>103501</id>
+    <authorities>
+        <authority service="viaf">75895067</authority>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Dini, Lamberto</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="1">
+                <name>Prime Minister Lamberto Dini</name>
+                <source-url>https://history.state.gov/departmenthistory/visits/italy</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="1">
+        <remark source-urls="1">
+            <p>Prime Minister, Italy. Visited U.S. once, 1995</p>
+            <source-url>https://history.state.gov/departmenthistory/visits/italy</source-url>
+        </remark>
+    </remarks>
+</person>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>111341</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Rice, Charles Allen Thorndike</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="1">
+                <name>Rice, Charles Allen Thorndike</name>
+                <source-url>https://history.state.gov/departmenthistory/people/rice-charles-allen-thorndike</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Allen Thorndike Rice</name>
+                <source-url>https://history.state.gov/departmenthistory/people/rice-charles-allen-thorndike</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1851</birth-year>
+    <death-year>1889</death-year>
+    <remarks variants="1">
+        <remark source-urls="1">
+            <p>Non-career appointee. Envoy Extraordinary and Minister Plenipotentiary (Russia).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/rice-charles-allen-thorndike</source-url>
+        </remark>
+    </remarks>
+</person>

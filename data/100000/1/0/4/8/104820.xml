@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>104820</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Gerard, Sumner</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="2">
+                <name>Gerard, Sumner</name>
+                <source-url>https://history.state.gov/departmenthistory/people/gerard-sumner</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve11p1/persons#p_GS_1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1916</birth-year>
+    <death-year>2005</death-year>
+    <remarks variants="2">
+        <remark source-urls="1">
+            <p>Non-career appointee. Ambassador Extraordinary and Plenipotentiary (Jamaica).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/gerard-sumner</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>U.S. Ambassador to Jamaica from June 4, 1974, until April 15, 1977</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve11p1/persons#p_GS_1</source-url>
+        </remark>
+    </remarks>
+</person>

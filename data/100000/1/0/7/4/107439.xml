@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>107439</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Kreisky, Bruno</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="14">
+                <name>Kreisky, Bruno</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v07p1/persons#p_KB1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v07p2/persons#p_KB1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v05/persons#p_KB1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v09/persons#p_KB1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v13/persons#p_KB1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v15/persons#p_KB1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v16/persons#p_KB1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v16/persons#p_KB_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v29/persons#p_KB1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v39/persons#p_KB1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v01/persons#p_KB_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v06/persons#p_KRB_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v08/persons#p_KB_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v21/persons#p_KB_1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Chancellor Bruno Kreisky</name>
+                <source-url>https://history.state.gov/departmenthistory/visits/austria</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="9">
+        <remark source-urls="2">
+            <p>Secretary of State in the Austrian Ministry of Foreign Affairs, from 1953.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v07p1/persons#p_KB1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v07p2/persons#p_KB1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Austrian Secretary of State for Foreign Affairs</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v05/persons#p_KB1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Austrian Foreign Minister from July 1959</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v09/persons#p_KB1</source-url>
+        </remark>
+        <remark source-urls="3">
+            <p>Austrian Foreign Minister</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v13/persons#p_KB1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v15/persons#p_KB1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v16/persons#p_KB1</source-url>
+        </remark>
+        <remark source-urls="4">
+            <p>Chancellor of Austria</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v16/persons#p_KB_1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v01/persons#p_KB_1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v08/persons#p_KB_1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v21/persons#p_KB_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Austrian Chancellor from March 1971</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v29/persons#p_KB1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Chancellor of Austria from March 1970</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v39/persons#p_KB1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Austrian Chancellor</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v06/persons#p_KRB_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Chancellor, Austria. Visited U.S. 4 times, 1974–1983</p>
+            <source-url>https://history.state.gov/departmenthistory/visits/austria</source-url>
+        </remark>
+    </remarks>
+</person>

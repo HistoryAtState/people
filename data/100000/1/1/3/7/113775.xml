@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>113775</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Truscott, Lucian</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="1">
+                <name>Truscott, Lieutenant General (Ret.) Lucian</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1950-55Intel/persons#p_TLGRL1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="1">
+            <title source-urls="1">
+                <name>Lieutenant General (Ret.)</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1950-55Intel/persons#p_TLGRL1</source-url>
+            </title>
+        </titles-from-name>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="1">
+        <remark source-urls="1">
+            <p>the first Deputy Director for Coordination, Central Intelligence Agency from July 1, 1957 to July 1, 1960</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1950-55Intel/persons#p_TLGRL1</source-url>
+        </remark>
+    </remarks>
+</person>

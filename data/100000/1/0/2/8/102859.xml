@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>102859</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Corner, Frank H.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="1">
+                <name>Corner, F. H.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v16/persons#p_CFH1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Corner, Frank</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v05/persons#p_CF1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Corner, Frank H.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve12/persons#p_corner-frank-h</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="3">
+        <remark source-urls="1">
+            <p>Counselor of the New Zealand High Commission in the United Kingdom: Delegate of New Zealand at the Geneva Conference.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v16/persons#p_CFH1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>New Zealand Ambassador to the United States</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v05/persons#p_CF1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>New Zealand Ambassador to the United States until 1972; New Zealand Secretary of Foreign Affairs from 1973</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve12/persons#p_corner-frank-h</source-url>
+        </remark>
+    </remarks>
+</person>

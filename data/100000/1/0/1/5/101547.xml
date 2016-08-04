@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>101547</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Boonstra, Clarence A.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="3">
+                <name>Boonstra, Clarence A.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v05/persons#p_BCA1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve10/persons#p_BCA1</source-url>
+                <source-url>https://history.state.gov/departmenthistory/people/boonstra-clarence-a</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1914</birth-year>
+    <death-year>2006</death-year>
+    <remarks variants="3">
+        <remark source-urls="1">
+            <p>Deputy Director, Office of South American Affairs, Department of State, June–September 1958; Deputy Director, Office of East Coast Affairs, September 1958–March 1959; thereafter Director</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v05/persons#p_BCA1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>U.S. Ambassador to Costa Rica from January 26, 1967 until August 11, 1969</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve10/persons#p_BCA1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Foreign Service Officer. Ambassador Extraordinary and Plenipotentiary (Costa Rica).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/boonstra-clarence-a</source-url>
+        </remark>
+    </remarks>
+</person>

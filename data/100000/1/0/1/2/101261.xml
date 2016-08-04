@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>101261</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Bessmertnykh, Aleksandr A.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="2">
+                <name>Bessmertnykh, Alexander A.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v33/persons#p_BAA_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v06/persons#p_BAA_1</source-url>
+            </original>
+            <original source-urls="3">
+                <name>Bessmertnykh, Aleksandr A.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v01/persons#p_BAA_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v26/persons#p_BAA_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1981-88v03/persons#p_BA_1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="5">
+        <remark source-urls="1">
+            <p>Counselor of the Soviet Embassy in the United States</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v33/persons#p_BAA_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Consul at the Soviet Embassy in Washington</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v01/persons#p_BAA_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Soviet Counselor</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v06/persons#p_BAA_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Counselor, Embassy of the Soviet Union</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v26/persons#p_BAA_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Minister-Counselor of the Soviet Embassy in Washington</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1981-88v03/persons#p_BA_1</source-url>
+        </remark>
+    </remarks>
+</person>

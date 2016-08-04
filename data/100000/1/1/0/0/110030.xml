@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>110030</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Ogden, Richard M.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="2">
+                <name>Ogden, Richard M.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v02/persons#p_ORM_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1981-88v13/persons#p_ORM_1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="2">
+        <remark source-urls="1">
+            <p>Chief, Food for Freedom Division, Office of Food Policy and Programs, International Resources and Food Policy, Bureau of Economic and Business Affairs, Department of State, until 1978; Chief, Industrial and Strategic Materials Division, Office of International Commodities, International Resources and Food Policy, Bureau of Economic and Business Affairs, from 1978 until 1980</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v02/persons#p_ORM_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Director, Office of Security Assistance and Sales, Bureau of Politico-Military Affairs, Department of State from June 1981 until July 1983</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1981-88v13/persons#p_ORM_1</source-url>
+        </remark>
+    </remarks>
+</person>

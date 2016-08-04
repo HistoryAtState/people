@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>114763</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Wolfowitz, Paul Dundes</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="4">
+                <name>Wolfowitz, Paul Dundes</name>
+                <source-url>https://history.state.gov/departmenthistory/people/wolfowitz-paul-dundes</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve14p2/persons#p_WPD_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v26/persons#p_WP_2</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1981-88v03/persons#p_WPD_1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Paul D. Wolfowitz</name>
+                <source-url>https://history.state.gov/departmenthistory/people/wolfowitz-paul-dundes</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Wolfowitz, Paul</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v33/persons#p_WP_2</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1943</birth-year>
+    <death-year/>
+    <remarks variants="5">
+        <remark source-urls="1">
+            <p>Non-career appointee. Director of Policy Planning; Assistant Secretary of State for East Asian and Pacific Affairs; Ambassador Extraordinary and Plenipotentiary (Indonesia).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/wolfowitz-paul-dundes</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>staff member, Arms Control and Disarmament Agency, from 1972 until 1977; Deputy Assistant Secretary of Defense for Regional Programs from 1977 until 1980</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v33/persons#p_WP_2</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Deputy Assistant Director for Planning, Verification and Analysis Bureau, Arms Control and Disarmament Agency from 1975</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve14p2/persons#p_WPD_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Staff Member, Arms Control and Disarmament Agency from 1972 until 1977; Deputy Assistant Secretary of Defense for Regional Programs from 1977 until 1980</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v26/persons#p_WP_2</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Director, Policy Planning Staff, Department of State, from February 13, 1981 until December 22, 1982; thereafter Assistant Secretary of State for East Asian and Pacific Affairs</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1981-88v03/persons#p_WPD_1</source-url>
+        </remark>
+    </remarks>
+</person>

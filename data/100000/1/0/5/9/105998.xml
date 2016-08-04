@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>105998</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Hodgson, James Day</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="6">
+                <name>Hodgson, James D.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v03/persons#p_HJD1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v04/persons#p_HJD1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v17/persons#p_HJD1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v37/persons#p_HJD_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve12/persons#p_hodgson-james-d</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve13/persons#p_HJD1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Hodgson, James Day</name>
+                <source-url>https://history.state.gov/departmenthistory/people/hodgson-james-day</source-url>
+            </original>
+            <original source-urls="1">
+                <name>James D. Hodgson</name>
+                <source-url>https://history.state.gov/departmenthistory/people/hodgson-james-day</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1915</birth-year>
+    <death-year>2012</death-year>
+    <remarks variants="5">
+        <remark source-urls="2">
+            <p>Secretary of Labor, July 1970-February 1973</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v03/persons#p_HJD1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v04/persons#p_HJD1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Secretary of Labor from July 1970</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v17/persons#p_HJD1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve13/persons#p_HJD1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Ambassador to Japan until February 5, 1977</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v37/persons#p_HJD_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Secretary of Labor until February 1973</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve12/persons#p_hodgson-james-d</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Non-career appointee. Ambassador Extraordinary and Plenipotentiary (Japan).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/hodgson-james-day</source-url>
+        </remark>
+    </remarks>
+</person>

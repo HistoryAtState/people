@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>114880</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Yarmolinsky, Adam</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="3">
+                <name>Yarmolinsky, Adam</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v02/persons#p_YA4</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v32/persons#p_YA1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v26/persons#p_YA_1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="3">
+        <remark source-urls="1">
+            <p>Special Assistant to the Secretary of Defense</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v02/persons#p_YA4</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Deputy Assistant Secretary of Defense for International Security Affairs, 1964–1965</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v32/persons#p_YA1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Counselor, Arms Control and Disarmament Agency from 1977 until 1980</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v26/persons#p_YA_1</source-url>
+        </remark>
+    </remarks>
+</person>

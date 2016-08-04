@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>102662</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Cleveland, Stanley M.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="9">
+                <name>Cleveland, Stanley M.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v03p1/persons#p_CSM1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v03p2/persons#p_CSM1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v06p1/persons#p_CLEVELANDSM1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v06p2/persons#p_CLEVELANDSM1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v04/persons#p_CSM1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v07p1/persons#p_CSM1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v07p2/persons#p_CSM1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v13/persons#p_CSM1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve11p2/persons#p_CT_1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="6">
+        <remark source-urls="2">
+            <p>Second Secretary of Embassy in France.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1951v03p1/persons#p_CSM1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1951v03p2/persons#p_CSM1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Consul in the Embassy in France after February 21, 1952.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v06p1/persons#p_CLEVELANDSM1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v06p2/persons#p_CLEVELANDSM1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>International Relations Officer, Office of European Regional Affairs</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v04/persons#p_CSM1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Office of European Regional Affairs, Bureau of European Affairs, Department of State, until June 1958; thereafter First Secretary of the Embassy in Belgium</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v07p1/persons#p_CSM1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v07p2/persons#p_CSM1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Director of the Office of Atlantic Political-Economic Affairs, Bureau of European Affairs, Department of State, from August 1962</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v13/persons#p_CSM1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Deputy Chief of Mission, U.S. Embassy in Brasiliá, from 1973 until August 1974</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve11p2/persons#p_CT_1</source-url>
+        </remark>
+    </remarks>
+</person>

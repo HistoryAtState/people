@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>115715</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Kolchak, Alexander Vasilyevich</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="1">
+                <name>Kolshak</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv02/persons#p_K5</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Kolchak, Vice Admiral Alexander Vasilyevich</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv02/persons#p_KVAAV1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="1">
+            <title source-urls="1">
+                <name>Vice Admiral</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv02/persons#p_KVAAV1</source-url>
+            </title>
+        </titles-from-name>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="2">
+        <remark source-urls="1">
+            <p>See Kolchak.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv02/persons#p_K5</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>leader of an anti-Bolshevik movement in Siberia, 1917–1920.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv02/persons#p_KVAAV1</source-url>
+        </remark>
+    </remarks>
+</person>

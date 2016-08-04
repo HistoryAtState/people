@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>109059</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Merrill, Ayres Phillips</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="1">
+                <name>Merrill, Ayres Phillips</name>
+                <source-url>https://history.state.gov/departmenthistory/people/merrill-ayres-phillips</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year>1882</death-year>
+    <remarks variants="1">
+        <remark source-urls="1">
+            <p>Non-career appointee. Minister Resident (Belgium).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/merrill-ayres-phillips</source-url>
+        </remark>
+    </remarks>
+</person>

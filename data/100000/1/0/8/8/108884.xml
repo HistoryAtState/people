@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>108884</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>McIntyre, Laurence R.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="1">
+                <name>Mclntyre, Sir Laurence R.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v17/persons#p_MSLR1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>McIntyre, Sir Laurence</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v05/persons#p_MSL1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Mclntyre, Sir Laurence</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v25/persons#p_ML_1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="1">
+            <title source-urls="3">
+                <name>Sir</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v17/persons#p_MSLR1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v05/persons#p_MSL1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v25/persons#p_ML_1</source-url>
+            </title>
+        </titles-from-name>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="3">
+        <remark source-urls="1">
+            <p>Australian Ambassador to Indonesia</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v17/persons#p_MSLR1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Permanent Representative of Australia to the United Nations, 1971</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v05/persons#p_MSL1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Australian Permanent Representative to the United Nations; President, United Nations Security Council, October 1973</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v25/persons#p_ML_1</source-url>
+        </remark>
+    </remarks>
+</person>

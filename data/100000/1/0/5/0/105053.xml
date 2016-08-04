@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>105053</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Gore-Booth, Paul Henry</name>
+        </preferred>
+        <alternates/>
+        <originals variants="4">
+            <original source-urls="1">
+                <name>Gore-Booth, Paul</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv01/persons#p_GP1</source-url>
+            </original>
+            <original source-urls="2">
+                <name>Gore-Booth, Paul Henry</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v05p1/persons#p_GOREBOOTHPH1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v05p2/persons#p_GOREBOOTHPH1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Gore-Booth, Sir Paul Henry</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v19/persons#p_GBSPH1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Gore-Booth, Paul H.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v15/persons#p_GBSPH1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="1">
+            <title source-urls="1">
+                <name>Sir</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v19/persons#p_GBSPH1</source-url>
+            </title>
+        </titles-from-name>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="4">
+        <remark source-urls="1">
+            <p>First Secretary, British Embassy, Washington.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv01/persons#p_GP1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Director of the British Information Service in the United States, October 1949–November 1953; thereafter British Ambassador in Burma.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v05p1/persons#p_GOREBOOTHPH1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v05p2/persons#p_GOREBOOTHPH1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>British High Commissioner in India</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v19/persons#p_GBSPH1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Permanent Under Secretary of State in the British Foreign Office from 1965; also Head of the Diplomatic Service from March 1968</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v15/persons#p_GBSPH1</source-url>
+        </remark>
+    </remarks>
+</person>

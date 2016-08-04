@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>105597</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Harrison, Leland</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="4">
+                <name>Harrison, Leland</name>
+                <source-url>https://history.state.gov/departmenthistory/people/harrison-leland</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1914Supp/persons#p_HL1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv02/persons#p_HL1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1946v03/persons#p_HL1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1883</birth-year>
+    <death-year>1951</death-year>
+    <remarks variants="4">
+        <remark source-urls="1">
+            <p>Foreign Service Officer. Assistant Secretary of State; Envoy Extraordinary and Minister Plenipotentiary (Uruguay); Envoy Extraordinary and Minister Plenipotentiary (Switzerland); Envoy Extraordinary and Minister Plenipotentiary (Sweden); Envoy Extraordinary and Minister Plenipotentiary (Romania).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/harrison-leland</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>United States Secretary of Legation and Chargé d’Affaires in Colomjbia.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1914Supp/persons#p_HL1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Minister to Switzerland.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv02/persons#p_HL1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>United States Minister in Switzerland</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1946v03/persons#p_HL1</source-url>
+        </remark>
+    </remarks>
+</person>

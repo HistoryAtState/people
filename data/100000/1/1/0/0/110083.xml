@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>110083</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Olson, Richard Gustave, Jr.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="1">
+                <name>Olson, Richard Gustave, Jr.</name>
+                <source-url>https://history.state.gov/departmenthistory/people/olson-richard-gustave</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Richard G. Olson, Jr.</name>
+                <source-url>https://history.state.gov/departmenthistory/people/olson-richard-gustave</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1959</birth-year>
+    <death-year/>
+    <remarks variants="1">
+        <remark source-urls="1">
+            <p>Foreign Service Officer. Ambassador Extraordinary and Plenipotentiary (United Arab Emirates); Ambassador Extraordinary and Plenipotentiary (Pakistan).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/olson-richard-gustave</source-url>
+        </remark>
+    </remarks>
+</person>

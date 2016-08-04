@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>114848</id>
+    <authorities>
+        <authority service="viaf">41718208</authority>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Xi Jinping</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="1">
+                <name>President Xi Jinping</name>
+                <source-url>https://history.state.gov/departmenthistory/visits/china</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="1">
+        <remark source-urls="1">
+            <p>President, China, People’s Republic of. Visited U.S. once, 2013</p>
+            <source-url>https://history.state.gov/departmenthistory/visits/china</source-url>
+        </remark>
+    </remarks>
+</person>

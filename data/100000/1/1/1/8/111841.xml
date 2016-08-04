@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>111841</id>
+    <authorities>
+        <authority service="viaf">186449530</authority>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Salih, Ali Abdallah</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="1">
+                <name>President Ali Abdallah Salih</name>
+                <source-url>https://history.state.gov/departmenthistory/visits/yemen</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Salih, Ali Abdallah</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v18/persons#p_SAA_2</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="2">
+        <remark source-urls="1">
+            <p>President, Yemen Arab Republic; Yemen. Visited U.S. 4 times, 1990–2004</p>
+            <source-url>https://history.state.gov/departmenthistory/visits/yemen</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>President of Yemen Arab Republic from July 18, 1978; Vice President of Yemen Arab Republic from June 24, 1978, until July 18, 1978</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v18/persons#p_SAA_2</source-url>
+        </remark>
+    </remarks>
+</person>

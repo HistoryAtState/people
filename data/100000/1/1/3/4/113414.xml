@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>113414</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Taylor, Myron Charles</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="1">
+                <name>Taylor, Myron Charles</name>
+                <source-url>https://history.state.gov/departmenthistory/people/taylor-myron-charles</source-url>
+            </original>
+            <original source-urls="3">
+                <name>Taylor, Myron C.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv01/persons#p_TMC1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v06p1/persons#p_TAYLORMC1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v06p2/persons#p_TAYLORMC1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1874</birth-year>
+    <death-year>1959</death-year>
+    <remarks variants="3">
+        <remark source-urls="1">
+            <p>Non-career appointee. (Holy See).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/taylor-myron-charles</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Personal Representative of the President to Pope Pius XII.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv01/persons#p_TMC1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Personal Representative, with rank of Ambassador, of Presidents Roosevelt and Truman to Pope Pius XII, 1939–1950.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v06p1/persons#p_TAYLORMC1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v06p2/persons#p_TAYLORMC1</source-url>
+        </remark>
+    </remarks>
+</person>

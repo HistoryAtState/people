@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>111866</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Samii, Mehdi</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="1">
+                <name>Samii, Mohammed Mehdi</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v22/persons#p_SMM1</source-url>
+            </original>
+            <original source-urls="2">
+                <name>Samii, Mehdi</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v27/persons#p_SM_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve04/persons#p_SMM1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="3">
+        <remark source-urls="1">
+            <p>Governor of the Central Bank of Iran until 1968; thereafter, Managing Director, Plan Organization of Iran</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v22/persons#p_SMM1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Managing Director, Iranian Plan Organization; also Governor, Central Bank of Iran</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v27/persons#p_SM_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Managing Director, Plan Organization, Government of Iran; also Governor, Central Bank of Iran</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve04/persons#p_SMM1</source-url>
+        </remark>
+    </remarks>
+</person>

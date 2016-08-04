@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>106439</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Ishino, Shinichi</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="1">
+                <name>Ishino, Shinichi</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v29p2/persons#p_IS1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="1">
+        <remark source-urls="1">
+            <p>Japanese Vice Minister of Finance of Japan from April 1, 1963 to April 23, 1965</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v29p2/persons#p_IS1</source-url>
+        </remark>
+    </remarks>
+</person>

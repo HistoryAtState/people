@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>109179</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Mills, Hawthorne Quinn</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="1">
+                <name>Mills, Hawthorne Q.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v21/persons#p_MHQ_1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Mills, Hawthorne Quinn</name>
+                <source-url>https://history.state.gov/departmenthistory/people/mills-hawthorne-quinn</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Hawthorne Q. Mills</name>
+                <source-url>https://history.state.gov/departmenthistory/people/mills-hawthorne-quinn</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1928</birth-year>
+    <death-year/>
+    <remarks variants="2">
+        <remark source-urls="1">
+            <p>Chargé d’Affaires ad interim in Greece from July 1977 until March 1978</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v21/persons#p_MHQ_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Foreign Service Officer. Chargé d'Affaires ad interim (Greece); Chargé d'Affaires ad interim (Afghanistan).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/mills-hawthorne-quinn</source-url>
+        </remark>
+    </remarks>
+</person>

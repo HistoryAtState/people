@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>114087</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Vinogradov, Ilya Vasilyevich</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="2">
+                <name>Vinogradov, Major General Ilya Vasilyevich</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v03p1/persons#p_VMGIV1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v03p2/persons#p_VMGIV1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="1">
+            <title source-urls="2">
+                <name>Major General</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v03p1/persons#p_VMGIV1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v03p2/persons#p_VMGIV1</source-url>
+            </title>
+        </titles-from-name>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="1">
+        <remark source-urls="2">
+            <p>Deputy Chief of Staff to the Chief of the Soviet Military Administration in Germany (Chuikov).</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1951v03p1/persons#p_VMGIV1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1951v03p2/persons#p_VMGIV1</source-url>
+        </remark>
+    </remarks>
+</person>

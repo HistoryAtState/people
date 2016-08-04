@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>111616</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Rosenson, Alexander M.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="7">
+                <name>Rosenson, Alexander M.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv02/persons#p_RAM1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v04p1/persons#p_RAM1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v04p2/persons#p_RAM1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v05/persons#p_RAM1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v06/persons#p_RAM2</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v07/persons#p_RAM2</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v05/persons#p_RAM1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="5">
+        <remark source-urls="1">
+            <p>Economic Adviser, United States Delegation, Allied Commission on Reparations.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv02/persons#p_RAM1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Chief, Monetary Affairs Staff, Office of Financial and Development Policy, Department of State</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1951v04p1/persons#p_RAM1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1951v04p2/persons#p_RAM1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Associate Chief (Chief from October 1951), Monetary Affairs Staff, Department of State.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1951v05/persons#p_RAM1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Chief, Monetary Affairs Staff, Department of State, until June 3, 1955; Attaché, Embassy in Chile, June 3-July 5, 1955; First Secretary and Consul, July 5, 1955-January 1, 1956; Office of Regional American Affairs, Department of State, January 1-May 16, 1956; thereafter, Officer in Charge of Economic Development, Office of Inter-American Regional Economic Affairs</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v06/persons#p_RAM2</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v07/persons#p_RAM2</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Office of Inter-American Regional Economic Affairs, Department of State, until October 1960; thereafter Deputy Director, Office of Inter-American Regional Economic Affairs</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v05/persons#p_RAM1</source-url>
+        </remark>
+    </remarks>
+</person>

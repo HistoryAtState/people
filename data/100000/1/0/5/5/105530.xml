@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>105530</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Harden, Richard M.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="1">
+                <name>Harden, Richard M.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v02/persons#p_HRM_1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="1">
+        <remark source-urls="1">
+            <p>Special Assistant to the President for Budget and Organization until December 28, 1977; thereafter Director, White House Office of Administration and Special Assistant for Information Management</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v02/persons#p_HRM_1</source-url>
+        </remark>
+    </remarks>
+</person>

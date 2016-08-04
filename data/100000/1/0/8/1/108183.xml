@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>108183</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Ludin (Louddin), Mohammad Kabir</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="1">
+                <name>Ludin (Louddin)</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v11p1/persons#p_LL1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Ludin (Louddin), Mohammad Kabir</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v11p2/persons#p_LL1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="2">
+        <remark source-urls="1">
+            <p>Mohammad Kabir, Afghan Ambassador to the United States from November 1953; Permanent Representative and Chairman of the Afghan Delegation at the United Nations General Assembly from November 1952.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v11p1/persons#p_LL1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Afghan Ambassador to the United States from November 1953; Permanent Representative and Chairman of the Afghan Delegation at the United Nations General Assembly from November 1952.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v11p2/persons#p_LL1</source-url>
+        </remark>
+    </remarks>
+</person>

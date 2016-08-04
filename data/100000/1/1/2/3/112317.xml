@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>112317</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Shaw, George Price</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="1">
+                <name>Shaw, George P.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v04/persons#p_SGP1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Shaw, George Price</name>
+                <source-url>https://history.state.gov/departmenthistory/people/shaw-george-price</source-url>
+            </original>
+            <original source-urls="1">
+                <name>George P. Shaw</name>
+                <source-url>https://history.state.gov/departmenthistory/people/shaw-george-price</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1892</birth-year>
+    <death-year>1966</death-year>
+    <remarks variants="2">
+        <remark source-urls="1">
+            <p>Ambassador in El Salvador from August 23, 1947 until April 25, 1952; Ambassador in Paraguay from July 1, 1952 until October 31, 1953.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v04/persons#p_SGP1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Foreign Service Officer. Ambassador Extraordinary and Plenipotentiary (Paraguay); Ambassador Extraordinary and Plenipotentiary (Nicaragua); Ambassador Extraordinary and Plenipotentiary (El Salvador).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/shaw-george-price</source-url>
+        </remark>
+    </remarks>
+</person>

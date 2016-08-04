@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>105966</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Hitchcock, Ethan Allen</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="1">
+                <name>Hitchcock, Ethan Allen</name>
+                <source-url>https://history.state.gov/departmenthistory/people/hitchcock-ethan-allen</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Ethan A. Hitchcock</name>
+                <source-url>https://history.state.gov/departmenthistory/people/hitchcock-ethan-allen</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1835</birth-year>
+    <death-year>1909</death-year>
+    <remarks variants="1">
+        <remark source-urls="1">
+            <p>Non-career appointee. Envoy Extraordinary and Minister Plenipotentiary (Russia); Ambassador Extraordinary and Plenipotentiary (Russia).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/hitchcock-ethan-allen</source-url>
+        </remark>
+    </remarks>
+</person>

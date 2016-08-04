@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>107309</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Knox, Clinton Everett</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="2">
+                <name>Knox, Clinton Everett</name>
+                <source-url>https://history.state.gov/departmenthistory/people/knox-clinton-everett</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve11p1/persons#p_KCR_1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Clinton E. Knox</name>
+                <source-url>https://history.state.gov/departmenthistory/people/knox-clinton-everett</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Knox, Clinton E.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve10/persons#p_KCE1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1908</birth-year>
+    <death-year>1980</death-year>
+    <remarks variants="3">
+        <remark source-urls="1">
+            <p>Foreign Service Officer. Ambassador Extraordinary and Plenipotentiary (Haiti); Ambassador Extraordinary and Plenipotentiary (Benin).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/knox-clinton-everett</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>U.S. Ambassador to Haiti from October 9, 1969 until April 26, 1973</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve10/persons#p_KCE1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>U.S. Ambassador to Haiti from November 13, 1969, until April 26, 1973</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve11p1/persons#p_KCR_1</source-url>
+        </remark>
+    </remarks>
+</person>

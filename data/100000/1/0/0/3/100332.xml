@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>100332</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>al-Qudsi (Kudsi), Nazim</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="3">
+                <name>al-Qudsi (Kudsi), Nazim</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v05/persons#p_AQN1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v17/persons#p_alQN1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v18/persons#p_alQN1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="2">
+        <remark source-urls="1">
+            <p>Syrian Prime Minister? until March 1951.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1951v05/persons#p_AQN1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>President of Syria, December 14, 1961–March 28, 1962; reinstated as President April 13, 1962, served until March 1963</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v17/persons#p_alQN1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v18/persons#p_alQN1</source-url>
+        </remark>
+    </remarks>
+</person>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>107771</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Ledsky, Nelson C.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="2">
+                <name>Ledsky, Nelson C.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v40/persons#p_LNC1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v21/persons#p_LNC_1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="2">
+        <remark source-urls="1">
+            <p>Political Officer at the Embassy in West Germany until July 1969; then Country Officer for Berlin and the Soviet Zone (East Germany), Office of the Country Director for Germany, Bureau for European Affairs, Department of State</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v40/persons#p_LNC1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Director, Office of Southern European Affairs, Bureau of European Affairs, Department of State</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v21/persons#p_LNC_1</source-url>
+        </remark>
+    </remarks>
+</person>

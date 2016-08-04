@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>102161</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Cannon, James M., III</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="1">
+                <name>Cannon, James, III</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v27/persons#p_CJ3_1</source-url>
+            </original>
+            <original source-urls="3">
+                <name>Cannon, James M.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v35/persons#p_CJM_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve03/persons#p_CJM1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve14p1/persons#p_CJM1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Cannon, James M., III</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve14p2/persons#p_CJM_1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="4">
+        <remark source-urls="1">
+            <p>Assistant to the President for Domestic Affairs</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v27/persons#p_CJ3_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Assistant to the President for Domestic Affairs and Director of the Domestic Council from February 28, 1975</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v35/persons#p_CJM_1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Assistant to the President for Domestic Affairs and Executive Director of the Domestic Council from March 1975</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve03/persons#p_CJM1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve14p1/persons#p_CJM1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Executive Director, White House Domestic Council and Assistant to the President for Domestic Affairs from February 1975 to January 20, 1977</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve14p2/persons#p_CJM_1</source-url>
+        </remark>
+    </remarks>
+</person>

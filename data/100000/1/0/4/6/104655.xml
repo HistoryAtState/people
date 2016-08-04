@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>104655</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Galanto, Fred J.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="2">
+                <name>Galanto, Fred J.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v24/persons#p_GFJ1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve05p2/persons#p_GFJ1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="2">
+        <remark source-urls="1">
+            <p>Officer in Charge of Somali Affairs, Bureau of African Affairs, Department of State, until July 1964; Officer in Charge of Ethiopian Affairs, July 1964–May 1966</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v24/persons#p_GFJ1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>U.S. Interests Section, Algiers, Algeria from 1969 to early 1971</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve05p2/persons#p_GFJ1</source-url>
+        </remark>
+    </remarks>
+</person>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>114643</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Williamson, Richard Salisbury</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="1">
+                <name>Williamson, Richard Salisbury</name>
+                <source-url>https://history.state.gov/departmenthistory/people/williamson-richard-salisbury</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1949</birth-year>
+    <death-year/>
+    <remarks variants="1">
+        <remark source-urls="1">
+            <p>Non-career appointee. Assistant Secretary of State for International Organization Affairs; Representative of the U.S.A. to the Vienna Office of the United Nations (Vienna).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/williamson-richard-salisbury</source-url>
+        </remark>
+    </remarks>
+</person>

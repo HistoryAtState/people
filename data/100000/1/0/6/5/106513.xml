@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>106513</id>
+    <authorities>
+        <authority service="viaf">47554067</authority>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Jagan, Cheddi B.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="1">
+                <name>President Cheddi Jagan</name>
+                <source-url>https://history.state.gov/departmenthistory/visits/guyana</source-url>
+            </original>
+            <original source-urls="2">
+                <name>Jagan, Cheddi</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v12/persons#p_JCB1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve10/persons#p_JC1</source-url>
+            </original>
+            <original source-urls="3">
+                <name>Jagan, Cheddi B.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v31/persons#p_JCB1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v32/persons#p_JCB1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve11p1/persons#p_JC_1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="6">
+        <remark source-urls="1">
+            <p>President, Guyana. Visited U.S. 2 times, 1993–1994</p>
+            <source-url>https://history.state.gov/departmenthistory/visits/guyana</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Prime Minister of British Guiana from September 5, 1961</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v12/persons#p_JCB1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Prime Minister of British Guiana until December 1964</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v31/persons#p_JCB1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Premier of British Guiana until December 1964</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v32/persons#p_JCB1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>leader of the People’s Progressive Party of Guyana from 1969</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve10/persons#p_JC1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>General Secretary of the People’s Progressive Party, Guyana, as of 1974</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve11p1/persons#p_JC_1</source-url>
+        </remark>
+    </remarks>
+</person>

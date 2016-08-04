@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>105650</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Haslam, Charles L.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="1">
+                <name>Haslam, Charles L.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v02/persons#p_HCL_1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Haslan, Charles L.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v08/persons#p_HCL_1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="1">
+        <remark source-urls="2">
+            <p>General Counsel, Department of Commerce</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v02/persons#p_HCL_1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v08/persons#p_HCL_1</source-url>
+        </remark>
+    </remarks>
+</person>

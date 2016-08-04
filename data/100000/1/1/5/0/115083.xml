@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>115083</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Zwick, Charles J.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="1">
+                <name>Zwick, Charles</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v06/persons#p_ZC1</source-url>
+            </original>
+            <original source-urls="4">
+                <name>Zwick, Charles J.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v09/persons#p_ZCJ2</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v22/persons#p_ZCJ2</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v25/persons#p_ZCJ1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v26/persons#p_ZCJ2</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="5">
+        <remark source-urls="1">
+            <p>Director, Office of Management and Budget</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v06/persons#p_ZC1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Assistant Director of the Bureau of the Budget until January 1968; thereafter Director</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v09/persons#p_ZCJ2</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Director, Bureau of the Budget, from January 1968_</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v22/persons#p_ZCJ2</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Director, Bureau of the Budget, from January 1968</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v25/persons#p_ZCJ1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Director, Bureau of the Budget, 1967–1968</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v26/persons#p_ZCJ2</source-url>
+        </remark>
+    </remarks>
+</person>

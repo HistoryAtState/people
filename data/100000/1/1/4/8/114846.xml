@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>114846</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Xanthaky, Theodore A.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="9">
+                <name>Xanthaky, Theodore A.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v04p1/persons#p_XTA1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v04p2/persons#p_XTA1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v05p1/persons#p_XANTHAKYTA1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v05p2/persons#p_XANTHAKYTA1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v06p1/persons#p_XANTHAKYTA1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v06p2/persons#p_XANTHAKYTA1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v27/persons#p_XTA1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v07p1/persons#p_XTA1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v07p2/persons#p_XTA1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="5">
+        <remark source-urls="2">
+            <p>Attaché in Portugal</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1951v04p1/persons#p_XTA1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1951v04p2/persons#p_XTA1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Attaché and Special Assistant in the Embassy in Portugal from March 1945.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v05p1/persons#p_XANTHAKYTA1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v05p2/persons#p_XANTHAKYTA1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Special Assistant to the Ambassador in Portugal from March 1945.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v06p1/persons#p_XANTHAKYTA1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v06p2/persons#p_XANTHAKYTA1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Attaché at the Embassy in Portugal</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v27/persons#p_XTA1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Attaché and Political Officer of the Embassy in Portugal, until October 1958; thereafter Counselor of the Embassy</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v07p1/persons#p_XTA1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v07p2/persons#p_XTA1</source-url>
+        </remark>
+    </remarks>
+</person>

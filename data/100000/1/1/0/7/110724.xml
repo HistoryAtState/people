@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>110724</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Pickett, James Chamberlayne</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="1">
+                <name>Pickett, James Chamberlayne</name>
+                <source-url>https://history.state.gov/departmenthistory/people/pickett-james-chamberlayne</source-url>
+            </original>
+            <original source-urls="1">
+                <name>J.C. Pickett</name>
+                <source-url>https://history.state.gov/departmenthistory/people/pickett-james-chamberlayne</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1793</birth-year>
+    <death-year>1872</death-year>
+    <remarks variants="1">
+        <remark source-urls="1">
+            <p>Non-career appointee. Chargé d'Affaires (Peru).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/pickett-james-chamberlayne</source-url>
+        </remark>
+    </remarks>
+</person>

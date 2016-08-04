@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>104174</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Fawzi, Mohammed</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="2">
+                <name>Fawzi, General Mohammed</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v19/persons#p_FGM1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v24/persons#p_FM5</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="1">
+            <title source-urls="2">
+                <name>General</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v19/persons#p_FGM1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v24/persons#p_FM5</source-url>
+            </title>
+        </titles-from-name>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="2">
+        <remark source-urls="1">
+            <p>Chief of Staff, United Arab Republic armed forces until June 1967; thereafter, Commander in Chief of Joint UAR Forces</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v19/persons#p_FGM1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Chief of Joint UAR Forces</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v24/persons#p_FM5</source-url>
+        </remark>
+    </remarks>
+</person>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>108693</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Maxim, Robert Morgan</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="1">
+                <name>Maxim, Robert M.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v02/persons#p_MRM_1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Maxim, Robert Morgan</name>
+                <source-url>https://history.state.gov/departmenthistory/people/maxim-robert-morgan</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Robert M. Maxim</name>
+                <source-url>https://history.state.gov/departmenthistory/people/maxim-robert-morgan</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1940</birth-year>
+    <death-year/>
+    <remarks variants="2">
+        <remark source-urls="1">
+            <p>International Organizations, Office of Human Rights, Bureau of Human Rights and Humanitarian Affairs, Department of State, from late 1977 until 1978; Regional Affairs Officer for Africa, Office of Human Rights, Bureau of Human Rights and Humanitarian Affairs, from 1978 until 1980; Charge d’Affaires U.S. Embassy in Lilongwe from July 1980</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v02/persons#p_MRM_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Foreign Service Officer. Chargé d'Affaires ad interim (Malawi).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/maxim-robert-morgan</source-url>
+        </remark>
+    </remarks>
+</person>

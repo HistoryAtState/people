@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>100604</id>
+    <authorities>
+        <authority service="viaf">38454611</authority>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Arosemena Monroy, Carlos Julio</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="1">
+                <name>Arosemena Monroy, Carlos Julio</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v04/persons#p_AMCJ1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>President Arosemena</name>
+                <source-url>https://history.state.gov/departmenthistory/visits/ecuador</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="2">
+        <remark source-urls="1">
+            <p>Ecuadoran Minister of National Defense from September 1952 until August 1953.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v04/persons#p_AMCJ1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>President, Ecuador. Visited U.S. once, 1962</p>
+            <source-url>https://history.state.gov/departmenthistory/visits/ecuador</source-url>
+        </remark>
+    </remarks>
+</person>

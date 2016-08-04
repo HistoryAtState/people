@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>105004</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Gonzales, William Elliott</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="1">
+                <name>Gonzales, William Elliott</name>
+                <source-url>https://history.state.gov/departmenthistory/people/gonzales-william-elliott</source-url>
+            </original>
+            <original source-urls="1">
+                <name>William E. Gonzales</name>
+                <source-url>https://history.state.gov/departmenthistory/people/gonzales-william-elliott</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1866</birth-year>
+    <death-year>1937</death-year>
+    <remarks variants="1">
+        <remark source-urls="1">
+            <p>Non-career appointee. Ambassador Extraordinary and Plenipotentiary (Peru); Envoy Extraordinary and Minister Plenipotentiary (Cuba).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/gonzales-william-elliott</source-url>
+        </remark>
+    </remarks>
+</person>

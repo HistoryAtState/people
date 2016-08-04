@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>113750</id>
+    <authorities>
+        <authority service="viaf">50538694</authority>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Trouillot, Ertha Pascal</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="1">
+                <name>Provisional President Ertha Pascal Trouillot</name>
+                <source-url>https://history.state.gov/departmenthistory/visits/haiti</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="1">
+        <remark source-urls="1">
+            <p>Provisional President, Haiti. Visited U.S. once, 1990</p>
+            <source-url>https://history.state.gov/departmenthistory/visits/haiti</source-url>
+        </remark>
+    </remarks>
+</person>

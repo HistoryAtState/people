@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>102203</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Carlson, Reynold Erland</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="1">
+                <name>Carlson, Reynold E.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v31/persons#p_CRE1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Carlson, Reynold Erland</name>
+                <source-url>https://history.state.gov/departmenthistory/people/carlson-reynold-erland</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Reynold E. Carlson</name>
+                <source-url>https://history.state.gov/departmenthistory/people/carlson-reynold-erland</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1912</birth-year>
+    <death-year>1993</death-year>
+    <remarks variants="2">
+        <remark source-urls="1">
+            <p>Ambassador to Colombia from September 16, 1966</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v31/persons#p_CRE1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Non-career appointee. Ambassador Extraordinary and Plenipotentiary (Colombia).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/carlson-reynold-erland</source-url>
+        </remark>
+    </remarks>
+</person>

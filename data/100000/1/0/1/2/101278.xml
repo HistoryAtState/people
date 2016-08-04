@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>101278</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Bevin, Ernest</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="12">
+                <name>Bevin, Ernest</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv01/persons#p_BE3</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv02/persons#p_BE3</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1946v03/persons#p_BET1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1947v02/persons#p_BE1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1948v02/persons#p_BE1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1949v03/persons#p_BE1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v03p1/persons#p_BE1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v03p2/persons#p_BE1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v05/persons#p_BE1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v05p1/persons#p_BEVINE1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v05p2/persons#p_BEVINE1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v16/persons#p_BE1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="7">
+        <remark source-urls="1">
+            <p>Member of the British Parliament.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv01/persons#p_BE3</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>British Secretary of State for Foreign Affairs (from July 28).</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv02/persons#p_BE3</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Member of the British Delegation; British Secretary of State for Foreign Affairs</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1946v03/persons#p_BET1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>British Secretary of State for Foreign Affairs</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1947v02/persons#p_BE1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1948v02/persons#p_BE1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>British Secretary of State for Foreign Affairs.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1949v03/persons#p_BE1</source-url>
+        </remark>
+        <remark source-urls="3">
+            <p>British Secretary of State for Foreign Affairs until March 1951.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1951v03p1/persons#p_BE1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1951v03p2/persons#p_BE1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1951v05/persons#p_BE1</source-url>
+        </remark>
+        <remark source-urls="3">
+            <p>British Secretary of State for Foreign Affairs, July 1945–March 1951.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v05p1/persons#p_BEVINE1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v05p2/persons#p_BEVINE1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v16/persons#p_BE1</source-url>
+        </remark>
+    </remarks>
+</person>

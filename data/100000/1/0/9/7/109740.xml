@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>109740</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Neves, Tancredo</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="1">
+                <name>Neves, Tancredo</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v12/persons#p_NT3</source-url>
+            </original>
+            <original source-urls="1">
+                <name>President-elect Tancredo Neves</name>
+                <source-url>https://history.state.gov/departmenthistory/visits/brazil</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="2">
+        <remark source-urls="1">
+            <p>Prime Minister of Brazil, September 1961-January 1963</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v12/persons#p_NT3</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>President-elect, Brazil. Visited U.S. once, 1985</p>
+            <source-url>https://history.state.gov/departmenthistory/visits/brazil</source-url>
+        </remark>
+    </remarks>
+</person>

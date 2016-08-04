@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>115575</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Halstead, Thomas A.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="1">
+                <name>Halstead, Thomas A.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v30/persons#p_HTA_1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="1">
+        <remark source-urls="1">
+            <p>public affairs adviser, Arms Control and Disarmament Agency; member, Interagency Committee on Public Diplomacy and Disarmament</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v30/persons#p_HTA_1</source-url>
+        </remark>
+    </remarks>
+</person>

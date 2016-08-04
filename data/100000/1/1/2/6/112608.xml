@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>112608</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Smith, Earl Edward Tailer</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="3">
+                <name>Smith, Earl E. T.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v06/persons#p_SEET1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v07/persons#p_SEET1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v06/persons#p_SEET1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Smith, Earl Edward Tailer</name>
+                <source-url>https://history.state.gov/departmenthistory/people/smith-earl-edward-tailer</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Earl E. T. Smith</name>
+                <source-url>https://history.state.gov/departmenthistory/people/smith-earl-edward-tailer</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1903</birth-year>
+    <death-year>1991</death-year>
+    <remarks variants="3">
+        <remark source-urls="2">
+            <p>Ambassador to Cuba from July 23, 1957</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v06/persons#p_SEET1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v07/persons#p_SEET1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Ambassador to Cuba until January 1959</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v06/persons#p_SEET1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Non-career appointee. Ambassador Extraordinary and Plenipotentiary (Cuba).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/smith-earl-edward-tailer</source-url>
+        </remark>
+    </remarks>
+</person>

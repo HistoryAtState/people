@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>100386</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Amin, Hafizullah</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="1">
+                <name>Amin, Haflzullah</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v01/persons#p_AH_1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Amin, Hafizullah</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v06/persons#p_AMH_1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="1">
+        <remark source-urls="2">
+            <p>President of Afghanistan from September until December 1979</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v01/persons#p_AH_1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v06/persons#p_AMH_1</source-url>
+        </remark>
+    </remarks>
+</person>

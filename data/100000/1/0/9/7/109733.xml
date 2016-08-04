@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>109733</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Neubert, Joseph W.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="5">
+                <name>Neubert, Joseph W.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v27/persons#p_NJW1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v17/persons#p_NJW1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve12/persons#p_neubert-joseph-w</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve13/persons#p_NJW1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve14p1/persons#p_NJW1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Neubert, Joseph</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v29/persons#p_NJ3</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="5">
+        <remark source-urls="1">
+            <p>Deputy Director, Office of Southeast Asian Affairs, Bureau of Far Eastern Affairs, Department of State, April–August 1964</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v27/persons#p_NJW1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>member, Policy Planning Council, Department of State, until June 1970; thereafter, Acting Deputy Director for Planning, Planning and Coordination Staff</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v17/persons#p_NJW1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve13/persons#p_NJW1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>member, Policy Planning Council, Department of State, until June 1970; thereafter, Acting Deputy Director of Planning, Planning and Coordination Staff</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v29/persons#p_NJ3</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Acting Deputy Director for Planning, Planning and Coordination Staff, Department of State, until July 1973</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve12/persons#p_neubert-joseph-w</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Planning and Coordination Staff, Department of State</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve14p1/persons#p_NJW1</source-url>
+        </remark>
+    </remarks>
+</person>

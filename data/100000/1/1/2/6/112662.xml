@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>112662</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Smith, Robert Solwin</name>
+        </preferred>
+        <alternates/>
+        <originals variants="4">
+            <original source-urls="5">
+                <name>Smith, Robert S.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v36/persons#p_SRS1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve05p1/persons#p_SRS1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve05p2/persons#p_SRS1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve06/persons#p_SRS1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve14p1/persons#p_SRS1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Smith, Roberts</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v02/persons#p_SR_1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Smith, Robert Solwin</name>
+                <source-url>https://history.state.gov/departmenthistory/people/smith-robert-solwin</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Robert S. Smith</name>
+                <source-url>https://history.state.gov/departmenthistory/people/smith-robert-solwin</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1924</birth-year>
+    <death-year>2013</death-year>
+    <remarks variants="6">
+        <remark source-urls="1">
+            <p>Deputy Assistant Secretary of State for African Affairs from December 1969 until February 1973</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v36/persons#p_SRS1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Deputy Assistant Secretary of State for African Affairs, December 1969 to February 1973</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve05p1/persons#p_SRS1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve05p2/persons#p_SRS1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Deputy Assistant Secretary of State for African Affairs from December 1969 to February 1973</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve06/persons#p_SRS1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>staff member for Africa and United Nations Affairs, National Security Council from September 1976</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve14p1/persons#p_SRS1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Vice President for Development, Overseas Private Investment Corporation</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v02/persons#p_SR_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Non-career appointee. Ambassador Extraordinary and Plenipotentiary (Côte d’Ivoire).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/smith-robert-solwin</source-url>
+        </remark>
+    </remarks>
+</person>

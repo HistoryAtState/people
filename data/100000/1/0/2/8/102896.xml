@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>102896</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Cottam, Howard Rex</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="4">
+                <name>Cottam, Howard R.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v17/persons#p_CHR1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v18/persons#p_CHR1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v19/persons#p_CHR1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v21/persons#p_CHR1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Cottam, Howard</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v34/persons#p_CHR1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Cottam, Howard Rex</name>
+                <source-url>https://history.state.gov/departmenthistory/people/cottam-howard-rex</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1910</birth-year>
+    <death-year>1984</death-year>
+    <remarks variants="4">
+        <remark source-urls="2">
+            <p>Deputy Assistant Secretary of State for Economic and Regional Affairs, Bureau of Near Eastern and South Asian Affairs, until March 3, 1962</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v17/persons#p_CHR1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v18/persons#p_CHR1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Ambassador to Kuwait</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v19/persons#p_CHR1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v21/persons#p_CHR1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Ambassador to Kuwait, August 1963–July 1969</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v34/persons#p_CHR1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Foreign Service Officer. Ambassador Extraordinary and Plenipotentiary (Kuwait).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/cottam-howard-rex</source-url>
+        </remark>
+    </remarks>
+</person>

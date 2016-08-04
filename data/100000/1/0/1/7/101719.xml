@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>101719</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Brewin, Roger C., III</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="1">
+                <name>Brewin, Roger C., III</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve10/persons#p_BRC1</source-url>
+            </original>
+            <original source-urls="2">
+                <name>Brewin, Roger C.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v31/persons#p_BRC1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v02/persons#p_BRC_1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="3">
+        <remark source-urls="1">
+            <p>Deputy Chief of Mission at the U.S. Embassy in Asuncion from August 1969 until August 1972; Deputy Chief of Mission at the U.S. Embassy in La Paz from August 1972</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve10/persons#p_BRC1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Officer-in-Charge of Bolivian Political Affairs, Office of Bolivian-Chilean Affairs, Bureau of Inter-American Affairs, Department of State, June 1964–August 1966</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v31/persons#p_BRC1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Economic Counselor, U.S. Embassy in Tehran until August 1978; Agency Director for Agriculture, Office of the Deputy Assistant Secretary of State for Economic and Social Affairs, Bureau of International Organization Affairs, from August 1978 until 1980; member, U.S. Delegation to the 20th session of the Food and Agriculture Organization Conference, 1980</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v02/persons#p_BRC_1</source-url>
+        </remark>
+    </remarks>
+</person>

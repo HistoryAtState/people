@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>109227</id>
+    <authorities>
+        <authority service="viaf">104259620</authority>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Mitterrand, François</name>
+        </preferred>
+        <alternates/>
+        <originals variants="4">
+            <original source-urls="1">
+                <name>President Francois Mitterrand</name>
+                <source-url>https://history.state.gov/departmenthistory/visits/france</source-url>
+            </original>
+            <original source-urls="5">
+                <name>Mitterrand, François</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v05p1/persons#p_MITTERRANDF1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v05p2/persons#p_MITTERRANDF1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v06p1/persons#p_MITTERRANDF1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v06p2/persons#p_MITTERRANDF1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1981-88v13/persons#p_MF_1</source-url>
+            </original>
+            <original source-urls="2">
+                <name>Mitterand, François</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v11p1/persons#p_MF1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v11p2/persons#p_MF1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Mitterand, Francois</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v18/persons#p_MF1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="6">
+        <remark source-urls="1">
+            <p>President, France. Visited U.S. 10 times, 1981–1993</p>
+            <source-url>https://history.state.gov/departmenthistory/visits/france</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Deputy in the French National Assembly from 1946; Minister of State, January–March 1952; Minister of the Interior, June 1954–February 1955.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v05p1/persons#p_MITTERRANDF1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v05p2/persons#p_MITTERRANDF1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Deputy in the French National Assembly after 1946; French Minister of State, January–March 1952; French Minister of the Interior, June 19, 1954–February 22, 1955.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v06p1/persons#p_MITTERRANDF1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v06p2/persons#p_MITTERRANDF1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Deputy of the French National Assembly; Minister of State, January 20–March 8, 1952; Minister for Council of Europe Affairs, June 28–September 3, 1953; thereafter, Minister of the Interior.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v11p1/persons#p_MF1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v11p2/persons#p_MF1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>French Socialist politician</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v18/persons#p_MF1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>President of France from May 26, 1981</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1981-88v13/persons#p_MF_1</source-url>
+        </remark>
+    </remarks>
+</person>

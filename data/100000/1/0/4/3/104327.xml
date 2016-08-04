@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>104327</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Flack, Joseph</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="4">
+                <name>Flack, Joseph</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v04p1/persons#p_FJ1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v04p2/persons#p_FJ1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v08/persons#p_FJ1</source-url>
+                <source-url>https://history.state.gov/departmenthistory/people/flack-joseph</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1894</birth-year>
+    <death-year>1955</death-year>
+    <remarks variants="3">
+        <remark source-urls="2">
+            <p>Ambassador to Poland</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1951v04p1/persons#p_FJ1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1951v04p2/persons#p_FJ1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Ambassador to Poland, November 30, 1950–April 22, 1955.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v08/persons#p_FJ1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Foreign Service Officer. Ambassador Extraordinary and Plenipotentiary (Poland); Ambassador Extraordinary and Plenipotentiary (Costa Rica); Ambassador Extraordinary and Plenipotentiary (Bolivia).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/flack-joseph</source-url>
+        </remark>
+    </remarks>
+</person>

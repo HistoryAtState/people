@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>114966</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Yui, O.K.</name>
+        </preferred>
+        <alternates>
+            <name>Yu Hung-chun</name>
+        </alternates>
+        <originals variants="2">
+            <original source-urls="2">
+                <name>Yui, O.K.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v14p1/persons#p_YOKYHC1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v14p2/persons#p_YOKYHC1</source-url>
+            </original>
+            <original source-urls="2">
+                <name>Yui, O.K. (Yu Hung-chun)</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v02/persons#p_YOKYH1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v03/persons#p_YOKYH1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="2">
+        <remark source-urls="2">
+            <p>(Yü Hung-Chün), Governor of Taiwan, April 1953–June 1954; President of the Executive Yuan (Premier), Republic of China, from May 1954.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v14p1/persons#p_YOKYHC1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v14p2/persons#p_YOKYHC1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>President of the Executive Yuan (Premier) of the Republic of China</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v02/persons#p_YOKYH1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v03/persons#p_YOKYH1</source-url>
+        </remark>
+    </remarks>
+</person>

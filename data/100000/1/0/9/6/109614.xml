@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>109614</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Naas, Charles W.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="2">
+                <name>Naas, Charles W.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v25/persons#p_NCW1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v27/persons#p_NCW_1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Naas, Charles</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v11/persons#p_NC1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Nass, Charles</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve07/persons#p_NC2</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="3">
+        <remark source-urls="1">
+            <p>Pakistan Desk Officer, Bureau of Near Eastern and South Asian Affairs, Department of State, until July 1964</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v25/persons#p_NCW1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Political Counselor at the Embassy in Afghanistan</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v11/persons#p_NC1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve07/persons#p_NC2</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Director, Office of Iranian Affairs, Bureau of Near Eastern and South Asian Affairs, Department of State, from 1974</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v27/persons#p_NCW_1</source-url>
+        </remark>
+    </remarks>
+</person>

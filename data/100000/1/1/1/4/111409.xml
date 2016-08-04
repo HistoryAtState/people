@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>111409</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Ritchie, Albert Edgar</name>
+        </preferred>
+        <alternates/>
+        <originals variants="4">
+            <original source-urls="1">
+                <name>Ritchie, A.E.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v10/persons#p_RAE1</source-url>
+            </original>
+            <original source-urls="2">
+                <name>Ritchie, A. E.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v07p1/persons#p_RAE1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v07p2/persons#p_RAE1</source-url>
+            </original>
+            <original source-urls="3">
+                <name>Ritchie, Albert Edgar</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v12/persons#p_RAE1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v17/persons#p_RAE1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve13/persons#p_RAE1</source-url>
+            </original>
+            <original source-urls="7">
+                <name>Ritchie, A. Edgar</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v30/persons#p_RAE1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v03/persons#p_RAE1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v04/persons#p_RAE1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v36/persons#p_RAE1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v41/persons#p_RAE_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve05p1/persons#p_RAE1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve05p2/persons#p_RAE1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="6">
+        <remark source-urls="1">
+            <p>Minister of the Canadian Embassy in the United States from February 1957</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v10/persons#p_RAE1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Minister of the Canadian Embassy in the United States until September 1959</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v07p1/persons#p_RAE1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v07p2/persons#p_RAE1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Canadian Deputy Under Secretary for External Affairs from August 1964 until July 1966; thereafter Ambassador to the United States</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v12/persons#p_RAE1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Canadian Ambassador to the United States from March 1966</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v30/persons#p_RAE1</source-url>
+        </remark>
+        <remark source-urls="7">
+            <p>Canadian Ambassador to the United States until January 1970</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v03/persons#p_RAE1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v04/persons#p_RAE1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v17/persons#p_RAE1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v41/persons#p_RAE_1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve05p1/persons#p_RAE1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve05p2/persons#p_RAE1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve13/persons#p_RAE1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Canadian Ambassador to the United States until 1970; thereafter Canadian Under Secretary of State for External Affairs</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v36/persons#p_RAE1</source-url>
+        </remark>
+    </remarks>
+</person>

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>105320</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Gusev, Fedor Tarasovich</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="7">
+                <name>Gusev, Fedor Tarasovich</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1943CairoTehran/persons#p_GFT1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv01/persons#p_GFT1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv02/persons#p_G10</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv02/persons#p_GFT1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945Malta/persons#p_GFT1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1946v03/persons#p_GFT1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1947v02/persons#p_GFT1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Gousev</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv01/persons#p_G3</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Goussev</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv02/persons#p_G11</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="6">
+        <remark source-urls="1">
+            <p>Soviet Ambassador in the United Kingdom and Soviet Representative on the European Advisory Commission.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1943CairoTehran/persons#p_GFT1</source-url>
+        </remark>
+        <remark source-urls="3">
+            <p>See Gusev.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv01/persons#p_G3</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv02/persons#p_G10</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv02/persons#p_G11</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Soviet Ambassador to the United Kingdom; Soviet Representative, European Advisory Commission; Soviet Representative, Committee on German Dismemberment (established by the Yalta Conference).</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv01/persons#p_GFT1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv02/persons#p_GFT1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Soviet Ambassador to the United Kingdom and representative on the European Advisory Commission.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1945Malta/persons#p_GFT1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Member of the Soviet Delegation; Soviet Ambassador in the United Kingdom</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1946v03/persons#p_GFT1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Deputy Minister for Foreign Affairs of the Soviet Union</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1947v02/persons#p_GFT1</source-url>
+        </remark>
+    </remarks>
+</person>

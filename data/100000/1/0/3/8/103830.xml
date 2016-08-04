@@ -1,0 +1,293 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>103830</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Eden, Anthony</name>
+        </preferred>
+        <alternates/>
+        <originals variants="4">
+            <original source-urls="1">
+                <name>Prime Minister Eden</name>
+                <source-url>https://history.state.gov/departmenthistory/visits/united-kingdom</source-url>
+            </original>
+            <original source-urls="21">
+                <name>Eden, Anthony</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1943CairoTehran/persons#p_EA1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv01/persons#p_EA1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv02/persons#p_EA1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945Malta/persons#p_EA1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945v01/persons#p_EA1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1946v03/persons#p_EA1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1948v02/persons#p_EA1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1950-55Intel/persons#p_ESA1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v03p1/persons#p_EA1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v03p2/persons#p_EA1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v04p1/persons#p_EA1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v04p2/persons#p_EA1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v05/persons#p_DA1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v03/persons#p_EDENA1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v06p1/persons#p_EDENA1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v06p2/persons#p_EDENA1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v07p1/persons#p_EASA1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v07p2/persons#p_EASA1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v10/persons#p_EA1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v16/persons#p_EA1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v22/persons#p_EA1</source-url>
+            </original>
+            <original source-urls="35">
+                <name>Eden, Sir Anthony</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v02p1/persons#p_EDENSA1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v02p2/persons#p_EDENSA1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v05p1/persons#p_EDENSA1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v05p2/persons#p_EDENSA1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v08/persons#p_ESA1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v09p1/persons#p_ESA1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v09p2/persons#p_ESA1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v11p1/persons#p_ESA1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v11p2/persons#p_ESA1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v13p1/persons#p_ESA1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v13p2/persons#p_ESA1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v14p1/persons#p_ESA1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v14p2/persons#p_ESA1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v15p1/persons#p_ESA1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v15p2/persons#p_ESA1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v01/persons#p_ESA1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v02/persons#p_ESA1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v03/persons#p_ESA1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v04/persons#p_ESA1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v05/persons#p_ESA1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v08/persons#p_ESA1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v09/persons#p_ESA1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v10/persons#p_ESA1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v11/persons#p_ESA1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v12/persons#p_ESA1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v14/persons#p_ESA1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v18/persons#p_ESA1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v20/persons#p_ESA1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v21/persons#p_ESA1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v24/persons#p_ESA1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v25/persons#p_ESA1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v26/persons#p_ESA1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v27/persons#p_ESA1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v17/persons#p_ESA1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve13/persons#p_ESA1</source-url>
+            </original>
+            <original source-urls="4">
+                <name>Eden, Rt. Hon. Sir Anthony</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v13/persons#p_ERHSA1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v15/persons#p_ERHSA1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v16/persons#p_ERHSA1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v17/persons#p_ERHSA1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="2">
+            <title source-urls="35">
+                <name>Sir</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v02p1/persons#p_EDENSA1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v02p2/persons#p_EDENSA1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v05p1/persons#p_EDENSA1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v05p2/persons#p_EDENSA1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v08/persons#p_ESA1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v09p1/persons#p_ESA1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v09p2/persons#p_ESA1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v11p1/persons#p_ESA1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v11p2/persons#p_ESA1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v13p1/persons#p_ESA1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v13p2/persons#p_ESA1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v14p1/persons#p_ESA1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v14p2/persons#p_ESA1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v15p1/persons#p_ESA1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v15p2/persons#p_ESA1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v01/persons#p_ESA1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v02/persons#p_ESA1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v03/persons#p_ESA1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v04/persons#p_ESA1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v05/persons#p_ESA1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v08/persons#p_ESA1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v09/persons#p_ESA1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v10/persons#p_ESA1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v11/persons#p_ESA1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v12/persons#p_ESA1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v14/persons#p_ESA1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v18/persons#p_ESA1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v20/persons#p_ESA1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v21/persons#p_ESA1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v24/persons#p_ESA1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v25/persons#p_ESA1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v26/persons#p_ESA1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v27/persons#p_ESA1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v17/persons#p_ESA1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve13/persons#p_ESA1</source-url>
+            </title>
+            <title source-urls="4">
+                <name>Rt. Hon. Sir</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v13/persons#p_ERHSA1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v15/persons#p_ERHSA1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v16/persons#p_ERHSA1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v17/persons#p_ERHSA1</source-url>
+            </title>
+        </titles-from-name>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="31">
+        <remark source-urls="1">
+            <p>Prime Minister, United Kingdom. Visited U.S. once, 1956</p>
+            <source-url>https://history.state.gov/departmenthistory/visits/united-kingdom</source-url>
+        </remark>
+        <remark source-urls="12">
+            <p>British Secretary of State for Foreign Affairs.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1943CairoTehran/persons#p_EA1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1945Malta/persons#p_EA1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v02p1/persons#p_EDENSA1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v02p2/persons#p_EDENSA1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v11p1/persons#p_ESA1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v11p2/persons#p_ESA1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v13p1/persons#p_ESA1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v13p2/persons#p_ESA1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v14p1/persons#p_ESA1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v14p2/persons#p_ESA1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v15p1/persons#p_ESA1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v15p2/persons#p_ESA1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>British Secretary of State for Foreign Affairs; Chairman, Committee on German Dismemberment (established by the Yalta Conference).</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv01/persons#p_EA1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>British Secretary of State for Foreign Affairs (to July 28); Chairman, Committee on German Dismemberment (established by the Yalta Conference).</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv02/persons#p_EA1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>British Secretary of State for Foreign Affairs; Chairman of British Delegation.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1945v01/persons#p_EA1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>British Secretary of State for Foreign Affairs, 1940–1945</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1946v03/persons#p_EA1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>leader of the British Conservative Party; former Secretary of State for Foreign Affairs, 1941–1945</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1948v02/persons#p_EA1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Foreign Secretary of the United Kingdom from 1951 to 1955; Prime Minister of the United Kingdom from 1955 to 1957</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1950-55Intel/persons#p_ESA1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>a leader of the Conservative Party in the British House of Commons; Secretary of State for Foreign Affairs from October 27, 1951.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1951v03p1/persons#p_EA1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1951v03p2/persons#p_EA1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>a leader of the Conservative Party in the British House of Commons; Secretary of State for Foreign Affairs, from October 27, 1951</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1951v04p1/persons#p_EA1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1951v04p2/persons#p_EA1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>British Secretary of State for Foreign Affairs, from October 27, 1951.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1951v05/persons#p_DA1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>(Sir Anthony from 1954), British Secretary of State for Foreign Affairs; Chairman, British Delegations to the 7th, 8th, and 9th Regular Sessions of the General Assembly.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v03/persons#p_EDENA1</source-url>
+        </remark>
+        <remark source-urls="3">
+            <p>British Secretary of State for Foreign Affairs, October 27, 1951–April 5, 1955.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v05p1/persons#p_EDENSA1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v05p2/persons#p_EDENSA1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v08/persons#p_ESA1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>British Secretary of State for Foreign Affairs, October 27, 1951– April 5, 1955.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v06p1/persons#p_EDENA1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v06p2/persons#p_EDENA1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>(Sir Anthony from 1954), British Secretary of State for Foreign Affairs.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v07p1/persons#p_EASA1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v07p2/persons#p_EASA1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>British Secretary of State for Foreign Affairs and Deputy Prime Minister.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v09p1/persons#p_ESA1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v09p2/persons#p_ESA1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>British Secretary of State for Foreign Affairs after October 27, 1951.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v10/persons#p_EA1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>British Secretary of State for Foreign Affairs; Head of the British Delegation at the Geneva Conference; one of the three rotating chairmen of the Geneva Conference on Korea.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v16/persons#p_EA1</source-url>
+        </remark>
+        <remark source-urls="5">
+            <p>British Secretary of State for Foreign Affairs and Deputy Prime Minister to April 1955; Prime Minister and First Lord of the Treasury, April 1955–January 1957</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v01/persons#p_ESA1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v02/persons#p_ESA1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v03/persons#p_ESA1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v21/persons#p_ESA1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v22/persons#p_EA1</source-url>
+        </remark>
+        <remark source-urls="3">
+            <p>British Secretary of State for Foreign Affairs until April 1955; Prime Minister, April 1955–January 1957</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v04/persons#p_ESA1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v24/persons#p_ESA1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v27/persons#p_ESA1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>British Secretary of State for Foreign Affairs until April 1955; thereafter Prime Minister</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v05/persons#p_ESA1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v26/persons#p_ESA1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>British Secretary of State for Foreign Affairs and Deputy Prime Minister to April 1955; Prime Minister, April 1955–January 1957</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v08/persons#p_ESA1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>British Foreign Secretary and Deputy Prime Minister until April 6, 1955; Prime Minister and First Lord of the Treasury, April 6, 1955–January 10, 1957</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v09/persons#p_ESA1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v12/persons#p_ESA1</source-url>
+        </remark>
+        <remark source-urls="5">
+            <p>British Secretary of State for Foreign Affairs and Deputy Prime Minister until April 6, 1955; Prime Minister and First Lord of the Treasury, April 6, 1955–January 10, 1957</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v10/persons#p_ESA1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v11/persons#p_ESA1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v13/persons#p_ERHSA1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v14/persons#p_ESA1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v15/persons#p_ERHSA1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>British Prime Minister and First Lord of the Treasury, April 6, 1955–January 10, 1957</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v16/persons#p_ERHSA1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>British Prime Minister and First Lord of the Treasury, April 6, 1955-January 10, 1957</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v17/persons#p_ERHSA1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>British Secretary of State for Foreign Affairs to April 1955; Prime Minister, April 1955–January 1957</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v18/persons#p_ESA1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>British Secretary of State for Foreign Affairs until April 1955; Prime Minister of the United Kingdom, April 1955–January 1957</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v20/persons#p_ESA1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>British Secretary of State for Foreign Affairs until April 1955; Prime Minister, April 1955-January 1957</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v25/persons#p_ESA1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>British Minister of Foreign Affairs, October 26, 1951–April 7, 1955; Prime Minister, April 6, 1955–January 9, 1957</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v17/persons#p_ESA1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>British Minister of Foreign Affairs, October 26, 1951–April 7, 1955;Prime Minister, April 6, 1955–January 9, 1957</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve13/persons#p_ESA1</source-url>
+        </remark>
+    </remarks>
+</person>

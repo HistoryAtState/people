@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>113538</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Thompson, Richard S.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="1">
+                <name>Thompson, Richard S.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v09/persons#p_TRS_1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="1">
+        <remark source-urls="1">
+            <p>Department of State official attached to the U.S. Delegation to the Paris Peace Talks</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v09/persons#p_TRS_1</source-url>
+        </remark>
+    </remarks>
+</person>

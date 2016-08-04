@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>108866</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>McGrath, J. Howard</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="2">
+                <name>McGrath, J. Howard</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv02/persons#p_MJJ3</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v03/persons#p_MCGRATHJH1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="2">
+        <remark source-urls="1">
+            <p>Supervising Agent, New York District, United States Secret Service.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv02/persons#p_MJJ3</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Attorney General until April 7, 1952.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v03/persons#p_MCGRATHJH1</source-url>
+        </remark>
+    </remarks>
+</person>

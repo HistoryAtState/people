@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>113822</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Turkel, Harry R.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="6">
+                <name>Turkel, Harry R.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v05/persons#p_THR1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v08/persons#p_THR1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v06/persons#p_THR1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v07/persons#p_THR1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v05/persons#p_THR1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v06/persons#p_THR1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="5">
+        <remark source-urls="1">
+            <p>Counselor for Economic Affairs of the Embassy in Greece, from June 5, 1951.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1951v05/persons#p_THR1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Counselor of the Embassy in Greece after June 5, 1951.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v08/persons#p_THR1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>International Economist, Office of Regional American Affairs, Department of State, September 28, 1955-January 12, 1956; Acting Director, Office of Regional American Affairs, January 12-May 6, 1956; Director, May 6–16, 1956; thereafter, Director, Office of Inter-American Regional Economic Affairs</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v06/persons#p_THR1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v07/persons#p_THR1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Director, Office of Inter-American Regional Economic Affairs, Department of State, until December 1959; thereafter Representative with personal rank of Ambassador to the Inter-American Economic and Social Council of the Organization of American States</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v05/persons#p_THR1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Director, Office of Inter-American Regional Economic Affairs, Department of State</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v06/persons#p_THR1</source-url>
+        </remark>
+    </remarks>
+</person>

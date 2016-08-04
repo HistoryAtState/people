@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>108320</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Maddox, William Percy</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="1">
+                <name>Maddox, William Percy</name>
+                <source-url>https://history.state.gov/departmenthistory/people/maddox-william-percy</source-url>
+            </original>
+            <original source-urls="1">
+                <name>William P. Maddox</name>
+                <source-url>https://history.state.gov/departmenthistory/people/maddox-william-percy</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1901</birth-year>
+    <death-year>1972</death-year>
+    <remarks variants="1">
+        <remark source-urls="1">
+            <p>Non-career appointee. Director of the Foreign Service Institute.</p>
+            <source-url>https://history.state.gov/departmenthistory/people/maddox-william-percy</source-url>
+        </remark>
+    </remarks>
+</person>

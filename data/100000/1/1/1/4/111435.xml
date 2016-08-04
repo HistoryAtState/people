@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>111435</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Roberto, Holden A.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="5">
+                <name>Roberto, Holden</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v21/persons#p_RH3</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v24/persons#p_RH3</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve05p1/persons#p_RH3</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve05p2/persons#p_RH1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve06/persons#p_RH3</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Roberto, Holden A.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v28/persons#p_RHA_1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="4">
+        <remark source-urls="1">
+            <p>leader of the National Front for the Liberation of Angola (FNLA)</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v21/persons#p_RH3</source-url>
+        </remark>
+        <remark source-urls="3">
+            <p>Angolan nationalist leader, President of GRAE, and leader of FNLA and UPA</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v24/persons#p_RH3</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve05p1/persons#p_RH3</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve05p2/persons#p_RH1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>leader of the Revolutionary Government of Angola in Exile (GRAE) and the National Front for the Liberation of Angola (FNLA)</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v28/persons#p_RHA_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Head of the Front National de Libération de l'Angola (National Front for the Liberation of Angola, or FNLA)</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve06/persons#p_RH3</source-url>
+        </remark>
+    </remarks>
+</person>

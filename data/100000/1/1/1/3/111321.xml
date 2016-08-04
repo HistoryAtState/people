@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>111321</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Rhee, Syngman</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="1">
+                <name>President Rhee</name>
+                <source-url>https://history.state.gov/departmenthistory/visits/korea-south</source-url>
+            </original>
+            <original source-urls="18">
+                <name>Rhee, Syngman</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv02/persons#p_RS2</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v05p1/persons#p_RHEES1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v05p2/persons#p_RHEES1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v14p1/persons#p_RS1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v14p2/persons#p_RS1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v15p1/persons#p_RS1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v15p2/persons#p_RS1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v16/persons#p_RS1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v01/persons#p_RS1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v02/persons#p_RS1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v03/persons#p_RS1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v21/persons#p_RS1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v23p1/persons#p_RS1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v23p2/persons#p_RS1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v27/persons#p_RS1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v18/persons#p_RS4</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v19/persons#p_RS1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v22/persons#p_RS1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Rhee, Dr. Syngman</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v01/persons#p_RDS1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="1">
+            <title source-urls="1">
+                <name>Dr.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v01/persons#p_RDS1</source-url>
+            </title>
+        </titles-from-name>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="6">
+        <remark source-urls="1">
+            <p>President, Korea. Visited U.S. once, 1954</p>
+            <source-url>https://history.state.gov/departmenthistory/visits/korea-south</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Chairman, Korean Commission, Washington.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv02/persons#p_RS2</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>President of the Republic of Korea after August 1948.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v05p1/persons#p_RHEES1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v05p2/persons#p_RHEES1</source-url>
+        </remark>
+        <remark source-urls="5">
+            <p>President of the Republic of Korea.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v14p1/persons#p_RS1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v14p2/persons#p_RS1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v15p1/persons#p_RS1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v15p2/persons#p_RS1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v16/persons#p_RS1</source-url>
+        </remark>
+        <remark source-urls="9">
+            <p>President of the Republic of Korea</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v01/persons#p_RS1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v02/persons#p_RS1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v03/persons#p_RS1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v21/persons#p_RS1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v23p1/persons#p_RS1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v23p2/persons#p_RS1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v27/persons#p_RS1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v18/persons#p_RS4</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v19/persons#p_RS1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>President of the Republic of Korea until April 1960</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v01/persons#p_RDS1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v22/persons#p_RS1</source-url>
+        </remark>
+    </remarks>
+</person>

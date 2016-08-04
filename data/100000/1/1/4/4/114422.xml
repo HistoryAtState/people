@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>114422</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Wellons, Alfred E.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="4">
+                <name>Wellons, Alfred E.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v05/persons#p_WAE1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v11p1/persons#p_WAE1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v11p2/persons#p_WAE1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v25/persons#p_WAE1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="3">
+        <remark source-urls="1">
+            <p>Office of African Affairs, Department of State.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1951v05/persons#p_WAE1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Office of African Affairs, Bureau of Near Eastern, South Asian, and African Affairs, Department of State, until June 22, 1952; thereafter, Officer in Charge of North African Affairs.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v11p1/persons#p_WAE1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v11p2/persons#p_WAE1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Officer in Charge, General Assembly and United Nations Organization Affairs, Office of United Nations Political Affairs, Bureau of International Organization Affairs, Department of State, July 1961–June 1963</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v25/persons#p_WAE1</source-url>
+        </remark>
+    </remarks>
+</person>

@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>100337</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>al-Rifai, Samir</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="5">
+                <name>al-Rifai, Samir</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v05/persons#p_ARS1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v17/persons#p_aRSa1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v11/persons#p_alRS1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v12/persons#p_alRS1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v13/persons#p_al-RS1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>al–Rifai, Samir</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v13/persons#p_aRS1</source-url>
+            </original>
+            <original source-urls="2">
+                <name>Rifa'i, Samir al-</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v17/persons#p_RS5</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v18/persons#p_RS5</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="8">
+        <remark source-urls="1">
+            <p>Jordanian Prime Minister until July 1951.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1951v05/persons#p_ARS1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Prime Minister of Jordan, January 9–May 22, 1956</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v13/persons#p_aRS1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Jordanian Foreign Minister from April 25, 1957</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v17/persons#p_aRSa1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Jordanian Prime Minister until his resignation on May 5, 1959</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v11/persons#p_alRS1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Prime Minister of Jordan; resigned May 5, 1959</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v12/persons#p_alRS1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Jordanian Prime Minister, May 1958–May 1959</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v13/persons#p_al-RS1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Prime Minister of Jordan and Minister of Defense, March 27–April 20, 1963; Minister of the Royal Court from July 1963</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v17/persons#p_RS5</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Prime Minister of Jordan and Minister of Defense, March 27-April 20, 1963; Minister of the Royal Court from July 1963</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v18/persons#p_RS5</source-url>
+        </remark>
+    </remarks>
+</person>

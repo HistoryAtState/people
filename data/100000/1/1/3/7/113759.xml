@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>113759</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Trued, Merlyn N.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="3">
+                <name>Trued, Merlyn N.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v08/persons#p_TMN2</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v09/persons#p_TMN2</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v29p2/persons#p_TMN2</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="2">
+        <remark source-urls="2">
+            <p>Acting Assistant Secretary of the Treasury for International Affairs, 1964–April 29, 1965; thereafter Assistant Secretary until June 10, 1966</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v08/persons#p_TMN2</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v09/persons#p_TMN2</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Acting Assistant Secretary of the Treasury for International Affairs from 1964 to April 29, 1965; thereafter Assistant Secretary of the Treasury until June 10, 1966</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v29p2/persons#p_TMN2</source-url>
+        </remark>
+    </remarks>
+</person>

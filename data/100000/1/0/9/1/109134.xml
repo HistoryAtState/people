@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>109134</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Miklos, Jack C.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="4">
+                <name>Miklos, Jack C.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v24/persons#p_MJC3</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v27/persons#p_MJC_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v36/persons#p_MJC1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve04/persons#p_MJC3</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="4">
+        <remark source-urls="1">
+            <p>Country Director for Iran, Bureau of Near Eastern and South Asian Affairs, Department of State, from July 1969</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v24/persons#p_MJC3</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Director of the Office of Iranian Affairs, Bureau of Near Eastern and South Asian Affairs, Department of State, until 1974; thereafter, Deputy Chief of Mission of the Embassy in Iran</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v27/persons#p_MJC_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Country Director for Iran, Bureau of Near Eastern and South Asian Affairs, Department of State from July 1969 until April 1974</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v36/persons#p_MJC1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Country Director for Iran from July 1969</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve04/persons#p_MJC3</source-url>
+        </remark>
+    </remarks>
+</person>

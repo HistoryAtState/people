@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>101710</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Brent, Daniel Carroll</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="1">
+                <name>Brent, Daniel Carroll</name>
+                <source-url>https://history.state.gov/departmenthistory/people/brent-daniel-carroll</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Daniel Brent</name>
+                <source-url>https://history.state.gov/departmenthistory/people/brent-daniel-carroll</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1770</birth-year>
+    <death-year>1841</death-year>
+    <remarks variants="1">
+        <remark source-urls="1">
+            <p>Non-career appointee. Secretary of State ad interim; Chief Clerk.</p>
+            <source-url>https://history.state.gov/departmenthistory/people/brent-daniel-carroll</source-url>
+        </remark>
+    </remarks>
+</person>

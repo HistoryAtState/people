@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>101510</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Bolté, Charles L.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="4">
+                <name>Bolté, Lieutenant General Charles L.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v03p1/persons#p_BLGCL1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v03p2/persons#p_BLGCL1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v15p1/persons#p_BELGCL1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v15p2/persons#p_BELGCL1</source-url>
+            </original>
+            <original source-urls="2">
+                <name>Bolté, Charles L.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v05/persons#p_BCL1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v04/persons#p_BCL1</source-url>
+            </original>
+            <original source-urls="4">
+                <name>Bolté, General Charles L.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v09p1/persons#p_BGCL1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v09p2/persons#p_BGCL1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v11p1/persons#p_BGCL1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v11p2/persons#p_BGCL1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="2">
+            <title source-urls="4">
+                <name>Lieutenant General</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v03p1/persons#p_BLGCL1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v03p2/persons#p_BLGCL1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v15p1/persons#p_BELGCL1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v15p2/persons#p_BELGCL1</source-url>
+            </title>
+            <title source-urls="4">
+                <name>General</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v09p1/persons#p_BGCL1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v09p2/persons#p_BGCL1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v11p1/persons#p_BGCL1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v11p2/persons#p_BGCL1</source-url>
+            </title>
+        </titles-from-name>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="6">
+        <remark source-urls="2">
+            <p>USA, Deputy Chief of Staff for Plans, Office of the Chief of Staff, United States Army.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1951v03p1/persons#p_BLGCL1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1951v03p2/persons#p_BLGCL1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>USA, Assistant Chief of Staff for Operations, U.S. Army, until February 12, 1951; promoted to Lieutenant General and appointed Deputy Chief of Staff for Plans, U.S. Army, February 13, 1951.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1951v05/persons#p_BCL1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Lieutenant General, United States Army, Chairman of the Inter-American Defense Board from January 2, 1951 until August 4, 1952.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v04/persons#p_BCL1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>USA, Assistant Chief of Staff for Operations until August 1952; Commander of the Seventh Army in Germany, August 1952–April 1953; Commander in Chief, U.S. Army in Europe, April–October 1953; thereafter, Vice Chief of Staff of the Army.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v09p1/persons#p_BGCL1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v09p2/persons#p_BGCL1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>USA, Assistant Chief of Staff for Operations until August 1952; Commander of the 7th Army in Germany, August 1952–April 1953; Commander in Chief, U.S. Army in Europe, April-October 1953; thereafter, Vice Chief of Staff of the Army.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v11p1/persons#p_BGCL1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v11p2/persons#p_BGCL1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>USA, Deputy Chief of Army Staff for Plans to 1953.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v15p1/persons#p_BELGCL1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v15p2/persons#p_BELGCL1</source-url>
+        </remark>
+    </remarks>
+</person>

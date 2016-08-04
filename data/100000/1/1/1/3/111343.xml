@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>111343</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Rice, Edward E.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="1">
+                <name>Rice, Edward C.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v06/persons#p_REC1</source-url>
+            </original>
+            <original source-urls="9">
+                <name>Rice, Edward E.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v01/persons#p_REE1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v02/persons#p_REE1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v03/persons#p_REE1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v04/persons#p_REE1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v22/persons#p_REE1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v23/persons#p_REE1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v24/persons#p_REE1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v25/persons#p_REE1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v30/persons#p_REE1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Rice, Edward</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v05/persons#p_RE1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="8">
+        <remark source-urls="1">
+            <p>member, Policy Planning Staff, Department of State</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v06/persons#p_REC1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Member of the Policy Planning Staff, Department of State</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v01/persons#p_REE1</source-url>
+        </remark>
+        <remark source-urls="3">
+            <p>Deputy Assistant Secretary of State for Far Eastern Affairs</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v02/persons#p_REE1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v03/persons#p_REE1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v04/persons#p_REE1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Deputy Assistant Secretary of State for Far Eastern Affairs from January 1962</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v22/persons#p_REE1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v25/persons#p_REE1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>member, Policy Planning Council, Department of State, until January 1, 1962; thereafter Deputy Assistant Secretary of State for Far Eastern Affairs</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v23/persons#p_REE1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>member of the Policy Planning Council, Department of State, until January 1, 1962; thereafter Deputy Assistant Secretary of State for Far Eastern Affairs</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v24/persons#p_REE1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Consul General in Hong Kong</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v05/persons#p_RE1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Consul General in Hong Kong and Macau, January 1964–September 1967</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v30/persons#p_REE1</source-url>
+        </remark>
+    </remarks>
+</person>

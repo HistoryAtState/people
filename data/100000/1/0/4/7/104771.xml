@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>104771</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Gauss, Clarence Edward</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="1">
+                <name>Gauss, Clarence E.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1943CairoTehran/persons#p_GCE1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Gauss, Clarence Edward</name>
+                <source-url>https://history.state.gov/departmenthistory/people/gauss-clarence-edward</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Clarence E. Gauss</name>
+                <source-url>https://history.state.gov/departmenthistory/people/gauss-clarence-edward</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1886</birth-year>
+    <death-year>1960</death-year>
+    <remarks variants="2">
+        <remark source-urls="1">
+            <p>Ambassador in China.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1943CairoTehran/persons#p_GCE1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Foreign Service Officer. Ambassador Extraordinary and Plenipotentiary (China); Envoy Extraordinary and Minister Plenipotentiary (Australia).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/gauss-clarence-edward</source-url>
+        </remark>
+    </remarks>
+</person>

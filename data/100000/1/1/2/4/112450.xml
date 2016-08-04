@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>112450</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Sidle, Winant</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="1">
+                <name>Sidle, Major General Winant</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v06/persons#p_SMGW1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Sidle, Winant</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v07/persons#p_SW1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="1">
+            <title source-urls="1">
+                <name>Major General</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v06/persons#p_SMGW1</source-url>
+            </title>
+        </titles-from-name>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="2">
+        <remark source-urls="1">
+            <p>Chief, Office of Information, Military Assistance Command, Vietnam</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v06/persons#p_SMGW1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Major General, Chief, MACV Office of Information</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v07/persons#p_SW1</source-url>
+        </remark>
+    </remarks>
+</person>

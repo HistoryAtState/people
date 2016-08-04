@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>101698</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Breckinridge, John Cabell</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="1">
+                <name>Breckinridge, John Cabell</name>
+                <source-url>https://history.state.gov/departmenthistory/people/breckinridge-john-cabell</source-url>
+            </original>
+            <original source-urls="1">
+                <name>John C. Breckinridge</name>
+                <source-url>https://history.state.gov/departmenthistory/people/breckinridge-john-cabell</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1821</birth-year>
+    <death-year>1875</death-year>
+    <remarks variants="1">
+        <remark source-urls="1">
+            <p>Non-career appointee. Envoy Extraordinary and Minister Plenipotentiary (Spain).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/breckinridge-john-cabell</source-url>
+        </remark>
+    </remarks>
+</person>

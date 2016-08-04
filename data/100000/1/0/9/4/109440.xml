@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>109440</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Morse, Wayne L.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="3">
+                <name>Morse, Wayne L.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v03p1/persons#p_MWL1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v03p2/persons#p_MWL1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v31/persons#p_MWL1</source-url>
+            </original>
+            <original source-urls="9">
+                <name>Morse, Wayne</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v01/persons#p_MW1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v05/persons#p_MW1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v06/persons#p_MW1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v04/persons#p_MW1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v02/persons#p_MW1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v03/persons#p_MW1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v04/persons#p_MW1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v05/persons#p_MW1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v33/persons#p_MWL1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Morse, Wayne L., Senator (D-Oregon)</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v12/persons#p_MWL1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="1">
+            <title source-urls="1">
+                <name>Senator (D-Oregon)</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v12/persons#p_MWL1</source-url>
+            </title>
+        </titles-from-name>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="9">
+        <remark source-urls="2">
+            <p>Senator from Oregon,</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1951v03p1/persons#p_MWL1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1951v03p2/persons#p_MWL1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Senator from Oregon</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v01/persons#p_MW1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Democratic Senator from Oregon; Chairman of the Subcommittee on American Republics Affairs, Senate Foreign Relations Committee</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v05/persons#p_MW1</source-url>
+        </remark>
+        <remark source-urls="4">
+            <p>Democratic Senator from Oregon</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v06/persons#p_MW1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v02/persons#p_MW1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v03/persons#p_MW1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v33/persons#p_MWL1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Democratic Senator from Oregon and member of the Senate Foreign Relations Committee</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v04/persons#p_MW1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Chairman, Senate Foreign Relations Subcommittee on American Republics Affairs</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v12/persons#p_MWL1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Senator (D-Oregon)</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v04/persons#p_MW1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Senator (D–OR)</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v05/persons#p_MW1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Senator (Democrat–Oregon); Chairman of the Subcommittee on American Republics Affairs, Senate Foreign Relations Committee</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v31/persons#p_MWL1</source-url>
+        </remark>
+    </remarks>
+</person>

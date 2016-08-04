@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>102687</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Cochran, Horace Merle</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="2">
+                <name>Cochran, Horace Merle</name>
+                <source-url>https://history.state.gov/departmenthistory/people/cochran-horace-merle</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v05/persons#p_CHM1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>H. Merle Cochran</name>
+                <source-url>https://history.state.gov/departmenthistory/people/cochran-horace-merle</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Cochran, H. Merle</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v24/persons#p_CHM1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1892</birth-year>
+    <death-year>1973</death-year>
+    <remarks variants="3">
+        <remark source-urls="1">
+            <p>Foreign Service Officer. Ambassador Extraordinary and Plenipotentiary (Pakistan); Ambassador Extraordinary and Plenipotentiary (Indonesia).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/cochran-horace-merle</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Ambassador to Indonesia.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1951v05/persons#p_CHM1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Deputy Managing Director, International Monetary Fund</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v24/persons#p_CHM1</source-url>
+        </remark>
+    </remarks>
+</person>

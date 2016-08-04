@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>115999</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Proper, Datus C.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="2">
+                <name>Proper, Datus C.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve11p2/persons#p_PD_3</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1981-88v13/persons#p_PDC_1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="2">
+        <remark source-urls="1">
+            <p>Assistant Director for Policy Analysis, Office of Policy Planning and Coordination, Bureau of Inter-American Affairs, Department of State, from 1975 until 1976; Officer-in-Charge of Policy Planning, Office of Planning, Public, and Congressional Affairs, Department of State, from 1976</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve11p2/persons#p_PD_3</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Director, Office of Regional Political Programs, Bureau of Inter-American Affairs, Department of State from September 1982</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1981-88v13/persons#p_PDC_1</source-url>
+        </remark>
+    </remarks>
+</person>

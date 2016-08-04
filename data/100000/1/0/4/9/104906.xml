@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>104906</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Ginzenga, Antoine</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="1">
+                <name>Ginzenga, Antoine</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v23/persons#p_GAN_1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="1">
+        <remark source-urls="1">
+            <p>Prime Minister of the opposition regime in Stanleyville from December 13, 1960 until August 5, 1961; Deputy Prime Minister of the Republic of the Congo from August 1961 until January 1962; thereafter imprisoned</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v23/persons#p_GAN_1</source-url>
+        </remark>
+    </remarks>
+</person>

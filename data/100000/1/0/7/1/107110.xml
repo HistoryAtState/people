@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>107110</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Khan, Sardar Mohammad Naim</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="2">
+                <name>Naim, Sardar Mohammad</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v11p1/persons#p_NSM1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v11p2/persons#p_NSM1</source-url>
+            </original>
+            <original source-urls="3">
+                <name>Naim, Prince Mohammed</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v08/persons#p_NPM1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v15/persons#p_NPM1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v19/persons#p_NPM1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="1">
+            <title source-urls="3">
+                <name>Prince</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v08/persons#p_NPM1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v15/persons#p_NPM1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v19/persons#p_NPM1</source-url>
+            </title>
+        </titles-from-name>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="4">
+        <remark source-urls="2">
+            <p>Afghan Ambassador to the United States until May 1953; also Representative at the Ninth Regular Session of the United Nations General Assembly, 1954.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v11p1/persons#p_NSM1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v11p2/persons#p_NSM1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Foreign Minister of Afghanistan</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v08/persons#p_NPM1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Deputy Prime Minister and Foreign Minister of Afghanistan</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v15/persons#p_NPM1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Deputy PrimeMinister and Foreign Minister of Afghanistan until March 1963</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v19/persons#p_NPM1</source-url>
+        </remark>
+    </remarks>
+</person>

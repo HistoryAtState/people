@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>104454</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Foster, Paul Frederick</name>
+        </preferred>
+        <alternates/>
+        <originals variants="4">
+            <original source-urls="1">
+                <name>Foster, Paul F.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v20/persons#p_FPF1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Foster, Admiral Paul</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v03/persons#p_FAP1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Foster, Paul Frederick</name>
+                <source-url>https://history.state.gov/departmenthistory/people/foster-paul-frederick</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Paul F. Foster</name>
+                <source-url>https://history.state.gov/departmenthistory/people/foster-paul-frederick</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="1">
+            <title source-urls="1">
+                <name>Admiral</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v03/persons#p_FAP1</source-url>
+            </title>
+        </titles-from-name>
+    </names>
+    <birth-year>1889</birth-year>
+    <death-year>1972</death-year>
+    <remarks variants="3">
+        <remark source-urls="1">
+            <p>Special Assistant to the General Manager (Liaison), Atomic Energy Commission, 1955–June 1956; thereafter Assistant General Manager for International Activities, Atomic Energy Commission</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v20/persons#p_FPF1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Member, Atomic Energy Commission; Member, Working Group on Diarmament Policy</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v03/persons#p_FAP1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Non-career appointee. Representative of the U.S.A. to the International Atomic Energy Agency (Vienna).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/foster-paul-frederick</source-url>
+        </remark>
+    </remarks>
+</person>

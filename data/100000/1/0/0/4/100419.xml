@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>100419</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Anderson, David</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="4">
+                <name>Anderson, David</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v02/persons#p_AD_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v06/persons#p_AND_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v21/persons#p_AD_1</source-url>
+                <source-url>https://history.state.gov/departmenthistory/people/anderson-david</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1937</birth-year>
+    <death-year>1997</death-year>
+    <remarks variants="3">
+        <remark source-urls="2">
+            <p>Deputy Executive Secretary of the Department of State from 1977 until 1978; thereafter Executive Secretariat staff</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v02/persons#p_AD_1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v06/persons#p_AND_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Deputy Executive Secretary of the Department of State</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v21/persons#p_AD_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Foreign Service Officer. Ambassador Extraordinary and Plenipotentiary (socialist-federalist-republic-of-yugoslavia).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/anderson-david</source-url>
+        </remark>
+    </remarks>
+</person>

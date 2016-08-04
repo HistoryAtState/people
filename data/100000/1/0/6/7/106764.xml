@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>106764</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Joukhdar, Muhammad</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="2">
+                <name>Joukhdar, Muhammad</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v34/persons#p_JM1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v36/persons#p_JM2</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="2">
+        <remark source-urls="1">
+            <p>Secretary General, Organization of Petroleum Exporting Countries</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v34/persons#p_JM1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Deputy Governor, Petroleum and Minerals Organization (Saudi Arabia)</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v36/persons#p_JM2</source-url>
+        </remark>
+    </remarks>
+</person>

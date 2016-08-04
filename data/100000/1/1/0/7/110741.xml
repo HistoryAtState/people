@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>110741</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Pijade, Mosa</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="2">
+                <name>Pijade, Mosa</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1946v03/persons#p_PM2</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v26/persons#p_PM1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Pijade, Moša</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v08/persons#p_PM1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="3">
+        <remark source-urls="1">
+            <p>Assistant Chief of the Yugoslav Delegation; Vice President of the Presidium of the National Assembly of Yugoslavia</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1946v03/persons#p_PM2</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Vice President of the Yugoslav Federal People’s Assembly (Skupstina), 1946–1954; President from 1954; Vice President of the Yugoslav Federal Executive Council, 1951–1954; member of the Politburo of the Central Committee of the Yugoslav League of Communists from 1941.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v08/persons#p_PM1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>member of the Yugoslav Communist Party Executive Committee</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v26/persons#p_PM1</source-url>
+        </remark>
+    </remarks>
+</person>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>111278</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Renchard, George Willmot</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="1">
+                <name>Renchard, George Willmot</name>
+                <source-url>https://history.state.gov/departmenthistory/people/renchard-george-willmot</source-url>
+            </original>
+            <original source-urls="1">
+                <name>George W. Renchard</name>
+                <source-url>https://history.state.gov/departmenthistory/people/renchard-george-willmot</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1907</birth-year>
+    <death-year>1982</death-year>
+    <remarks variants="1">
+        <remark source-urls="1">
+            <p>Foreign Service Officer. Ambassador Extraordinary and Plenipotentiary (Burundi).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/renchard-george-willmot</source-url>
+        </remark>
+    </remarks>
+</person>

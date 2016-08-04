@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>101800</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Brown, Frederick Z.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="1">
+                <name>Brown, Frederick Z.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v02/persons#p_BFZ_1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="1">
+        <remark source-urls="1">
+            <p>Director, Office of Press Relations, Office of the Secretary of State, 1977; Director, Vietnam, Laos, and Cambodia, Bureau of East Asian and Pacific Affairs, Department of State</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v02/persons#p_BFZ_1</source-url>
+        </remark>
+    </remarks>
+</person>

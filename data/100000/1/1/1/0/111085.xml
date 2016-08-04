@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>111085</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Rae, Saul F.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="1">
+                <name>Rae, S. E</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v02/persons#p_RSF2</source-url>
+            </original>
+            <original source-urls="2">
+                <name>Rae, Saul F.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v09/persons#p_RSF1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v05/persons#p_RSF1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Rae, S.F.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v25/persons#p_RSF2</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="4">
+        <remark source-urls="1">
+            <p>Minister of the Canadian Embassy in the United States</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v02/persons#p_RSF2</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Canadian Minister in the United States</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v09/persons#p_RSF1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Minister, Canadian Embassy, to May 1962; thereafter Canadian Ambassador and Permanent Representative to the European Office of the United Nations in Geneva</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v25/persons#p_RSF2</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Canadian Permanent Representative to the United Nations, 1972</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v05/persons#p_RSF1</source-url>
+        </remark>
+    </remarks>
+</person>

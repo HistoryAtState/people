@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>100256</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Ali, Amjad</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="4">
+                <name>Ali, Amjad</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v09p1/persons#p_A1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v09p2/persons#p_A1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v15/persons#p_AA2</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v05/persons#p_AA1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="3">
+        <remark source-urls="2">
+            <p>Pakistani Delegate to the United Nations, 1952–1953; Delegate to the United Nations Board of Governors, 1954; Ambassador to the United States from September 26, 1953.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v09p1/persons#p_A1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v09p2/persons#p_A1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Finance Minister of Pakistan until October 1958</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v15/persons#p_AA2</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Chairman, Committee on Contributions, 5th Committee of the United Nations General Assembly, 1969</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v05/persons#p_AA1</source-url>
+        </remark>
+    </remarks>
+</person>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>104898</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Gilstrap, Samuel Patrick</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="1">
+                <name>Gilstrap, Sam P.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v18/persons#p_GSP1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Gilstrap, Samuel Patrick</name>
+                <source-url>https://history.state.gov/departmenthistory/people/gilstrap-samuel-patrick</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Sam P. Gilstrap</name>
+                <source-url>https://history.state.gov/departmenthistory/people/gilstrap-samuel-patrick</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1907</birth-year>
+    <death-year>1989</death-year>
+    <remarks variants="2">
+        <remark source-urls="1">
+            <p>Counselor of the Embassy in Korea, September 1958–November 1959</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v18/persons#p_GSP1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Foreign Service Officer. Ambassador Extraordinary and Plenipotentiary (Malawi).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/gilstrap-samuel-patrick</source-url>
+        </remark>
+    </remarks>
+</person>

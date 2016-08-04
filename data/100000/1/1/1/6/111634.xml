@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>111634</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Ross, John C.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="10">
+                <name>Ross, John C.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv02/persons#p_RJC1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1949v03/persons#p_RJC1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v05/persons#p_RJC1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v03/persons#p_ROSSJC1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v09p1/persons#p_RJC1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v09p2/persons#p_RJC1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v11p1/persons#p_RJC1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v11p2/persons#p_RJC1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v15p1/persons#p_RJC1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v15p2/persons#p_RJC1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="7">
+        <remark source-urls="1">
+            <p>Deputy Director, Office of Special Political Affairs, Department of State.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv02/persons#p_RJC1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Alternate United States Representative at the United Nations.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1949v03/persons#p_RJC1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Deputy Representative on the Security Council; Adviser at the Sixth Session of the United Nations General Assembly.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1951v05/persons#p_RJC1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Deputy Representative of the United States on the Security Council.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v03/persons#p_ROSSJC1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Deputy Representative to the United Nations Security Council.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v09p1/persons#p_RJC1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v09p2/persons#p_RJC1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Deputy Representative on the United Nations Security Council.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v11p1/persons#p_RJC1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v11p2/persons#p_RJC1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Deputy United States Representative on the United Nations Security Council, 1952-1954.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v15p1/persons#p_RJC1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v15p2/persons#p_RJC1</source-url>
+        </remark>
+    </remarks>
+</person>

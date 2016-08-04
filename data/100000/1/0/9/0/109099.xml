@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>109099</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Meyers, Harry F.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="4">
+                <name>Meyers, Brigadier General Harry F.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v09p1/persons#p_MBG1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v09p2/persons#p_MBG1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v11p1/persons#p_MBGHF1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v11p2/persons#p_MBGHF1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="1">
+            <title source-urls="4">
+                <name>Brigadier General</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v09p1/persons#p_MBG1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v09p2/persons#p_MBG1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v11p1/persons#p_MBGHF1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v11p2/persons#p_MBGHF1</source-url>
+            </title>
+        </titles-from-name>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="2">
+        <remark source-urls="2">
+            <p>USA, Commander, 56th Anti–Aircraft Artillery Brigade, Ft. Revins, Massachusetts, until February 1954; Commanding General, Eastern Army Anti–Aircraft Command, Stewart Air Force Base, New York, February–June 1954; thereafter, Commanding General, 56th Army Anti–Aircraft Brigade, Ft. Totten, New York.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v09p1/persons#p_MBG1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v09p2/persons#p_MBG1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>USA, Commander of the 56th Anti-Aircraft Brigade until February 1954; Commanding General, Eastern Army Anti-Aircraft Command, Stewart Air Force Base, New York, February-June 1954; thereafter, Commanding General, 56th Army Anti-Aircraft Brigade, Ft. Totten, New York.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v11p1/persons#p_MBGHF1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v11p2/persons#p_MBGHF1</source-url>
+        </remark>
+    </remarks>
+</person>

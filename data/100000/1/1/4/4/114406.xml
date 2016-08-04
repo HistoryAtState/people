@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>114406</id>
+    <authorities>
+        <authority service="viaf">61778920</authority>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Weizmann, Chaim</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="1">
+                <name>President Weizmann</name>
+                <source-url>https://history.state.gov/departmenthistory/visits/israel</source-url>
+            </original>
+            <original source-urls="4">
+                <name>Weizmann, Chaim</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv01/persons#p_WC1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v09p1/persons#p_WC1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v09p2/persons#p_WC1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v08/persons#p_WC_1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="4">
+        <remark source-urls="1">
+            <p>President, Israel (Provisional Government); Israel. Visited U.S. 2 times, 1948–1949</p>
+            <source-url>https://history.state.gov/departmenthistory/visits/israel</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>President, World Zionist Organization; President, Jewish Agency for Palestine.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv01/persons#p_WC1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>President of Israel until December 8, 1952.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v09p1/persons#p_WC1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v09p2/persons#p_WC1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>President of Israel from 1949 until 1952</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v08/persons#p_WC_1</source-url>
+        </remark>
+    </remarks>
+</person>

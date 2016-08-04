@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>111861</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Salzman, Herbert</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="4">
+                <name>Salzman, Herbert</name>
+                <source-url>https://history.state.gov/departmenthistory/people/salzman-herbert</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v37/persons#p_SH_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve16/persons#p_SH_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v03/persons#p_SH_1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1916</birth-year>
+    <death-year>1990</death-year>
+    <remarks variants="4">
+        <remark source-urls="1">
+            <p>Non-career appointee. Representative of the U.S.A. to the Organization for Economic Cooperation and Development (Paris).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/salzman-herbert</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>U.S. Representative to the Organization for Economic Cooperation and Development from June 8, 1977 until March 8, 1981</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v37/persons#p_SH_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Vice President, Overseas Private Investment Corporation</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve16/persons#p_SH_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>U.S. Representative to the Organization for Economic Cooperation and Development from June 1977</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v03/persons#p_SH_1</source-url>
+        </remark>
+    </remarks>
+</person>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>114368</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Weddington, Sarah</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="1">
+                <name>Weddington, Sarah</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v02/persons#p_WS_1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="1">
+        <remark source-urls="1">
+            <p>General Counsel, Department of Agriculture, from 1977; Special Assistant to the President from October 22, 1978; Co-Chairman, U.S. Delegation to the 1980 United Nations World Conference on Women</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v02/persons#p_WS_1</source-url>
+        </remark>
+    </remarks>
+</person>

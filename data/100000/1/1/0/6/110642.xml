@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>110642</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Pezzullo, Lawrence A.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="1">
+                <name>Pezzullo, Lawrence</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v02/persons#p_PL3</source-url>
+            </original>
+            <original source-urls="4">
+                <name>Pezzullo, Lawrence A.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v22/persons#p_PLA_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve11p1/persons#p_PLA_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve11p2/persons#p_PLA_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v02/persons#p_PLA_1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="5">
+        <remark source-urls="1">
+            <p>Executive Secretariat Staff, Department of State</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v02/persons#p_PL3</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Deputy Director, Office of Central American Affairs, Bureau of Inter-American Affairs, Department of State, from 1973; Special Assistant to Ambassador-at-large Robert J. McCloskey until June 1974; Deputy Assistant Secretary for Congressional Relations from February 1975</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v22/persons#p_PLA_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Deputy Director, Office of Central American Affairs, Bureau of Inter-American Affairs, Department of State, as of 1973; Special Assistant to Ambassador at Large McCloskey until June 1974; Deputy Assistant Secretary for Congressional Relations, from February 1975</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve11p1/persons#p_PLA_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Deputy Director, Office of Central American Affairs, Bureau of Inter-American Affairs, Department of State from 1973; Special Assistant to Ambassador at Large McCloskey, until June 1974; Deputy Assistant Secretary of State for Congressional Relations from February 1975</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve11p2/persons#p_PLA_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Deputy Assistant Secretary of State for Congressional Affairs; Ambassador to Uruguay, from August 10, 1977, until May 29, 1979; Ambassador to Nicaragua from July 31, 1979</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v02/persons#p_PLA_1</source-url>
+        </remark>
+    </remarks>
+</person>

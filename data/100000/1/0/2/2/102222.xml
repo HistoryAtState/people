@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>102222</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Carpentier, Marcel Maurice</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="2">
+                <name>Carpentier, Lieutenant General (Général de Corps) Marcel Maurice</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v03p1/persons#p_CLGDCMM1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v03p2/persons#p_CLGDCMM1</source-url>
+            </original>
+            <original source-urls="2">
+                <name>Carpentier, Marcel Maurice</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v05p1/persons#p_CARPENTIERMM1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v05p2/persons#p_CARPENTIERMM1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="1">
+            <title source-urls="2">
+                <name>Lieutenant General; Général de Corps</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v03p1/persons#p_CLGDCMM1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v03p2/persons#p_CLGDCMM1</source-url>
+            </title>
+        </titles-from-name>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="2">
+        <remark source-urls="2">
+            <p>French Deputy Chief of Staff at SHAPE.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1951v03p1/persons#p_CLGDCMM1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1951v03p2/persons#p_CLGDCMM1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Lieutenant General, French Army; Commander-in-Chief, Allied Forces, Central Europe.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v05p1/persons#p_CARPENTIERMM1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v05p2/persons#p_CARPENTIERMM1</source-url>
+        </remark>
+    </remarks>
+</person>

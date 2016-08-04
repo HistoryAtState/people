@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>101466</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Bodine, Barbara K.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="3">
+                <name>Bodine, Barbara K.</name>
+                <source-url>https://history.state.gov/departmenthistory/people/bodine-barbara-k</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve14p1/persons#p_BBK1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v18/persons#p_BB_1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1948</birth-year>
+    <death-year/>
+    <remarks variants="3">
+        <remark source-urls="1">
+            <p>Foreign Service Officer. Ambassador Extraordinary and Plenipotentiary (Yemen).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/bodine-barbara-k</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Executive Secretariat, Department of State</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve14p1/persons#p_BBK1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Office of Arabian Peninsula Affairs, Bureau of Near Eastern and South Asian Affairs, Department of State</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v18/persons#p_BB_1</source-url>
+        </remark>
+    </remarks>
+</person>

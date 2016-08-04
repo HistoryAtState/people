@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>114575</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Wilenski, Peter</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="1">
+                <name>Wilenski, Peter</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve12/persons#p_wilenski-peter</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="1">
+        <remark source-urls="1">
+            <p>Principal Private Secretary (and principal adviser) to Prime Minister Gough Whitlam</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve12/persons#p_wilenski-peter</source-url>
+        </remark>
+    </remarks>
+</person>

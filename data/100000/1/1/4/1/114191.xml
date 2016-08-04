@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>114191</id>
+    <authorities>
+        <authority service="viaf">109834327</authority>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Walesa, Lech</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="1">
+                <name>Walesa, Lech</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v06/persons#p_WAL_1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>President Lech Walesa</name>
+                <source-url>https://history.state.gov/departmenthistory/visits/poland</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="2">
+        <remark source-urls="1">
+            <p>First Chairman of the National Coordination Committee of Solidarnosc (Solidarity) Free Trade Union</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v06/persons#p_WAL_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>President, Poland. Visited U.S. 2 times, 1991–1993</p>
+            <source-url>https://history.state.gov/departmenthistory/visits/poland</source-url>
+        </remark>
+    </remarks>
+</person>

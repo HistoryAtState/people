@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>114952</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Young, Philip</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="3">
+                <name>Young, Philip</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v22/persons#p_YP1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v17/persons#p_YP1</source-url>
+                <source-url>https://history.state.gov/departmenthistory/people/young-philip</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1910</birth-year>
+    <death-year>1987</death-year>
+    <remarks variants="3">
+        <remark source-urls="1">
+            <p>Ambassador to the Netherlands from June 1957</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v22/persons#p_YP1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Ambassador to the Netherlands from March 1957</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v17/persons#p_YP1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Non-career appointee. Ambassador Extraordinary and Plenipotentiary (Netherlands).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/young-philip</source-url>
+        </remark>
+    </remarks>
+</person>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>104633</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Funseth, Robert L.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="4">
+                <name>Funseth, Robert L.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v11/persons#p_FRL1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v16/persons#p_FRL_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve10/persons#p_FRL1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1981-88v13/persons#p_FRL_1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="4">
+        <remark source-urls="1">
+            <p>Political Officer in the Embassy in Lebanon</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v11/persons#p_FRL1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Special Assistant to the Secretary of State for Press Relations and Spokesman of the Department of State</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v16/persons#p_FRL_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Post Management Officer, Mexico and Central America, Bureau of Inter-American Affairs from June until November 1969; Coordinator of Cuban Affairs from 1969 until 1971</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve10/persons#p_FRL1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Director, Office of Northern European Affairs, Bureau of European Affairs, Department of State until November 1982; thereafter, Deputy Assistant Secretary of State for European Affairs</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1981-88v13/persons#p_FRL_1</source-url>
+        </remark>
+    </remarks>
+</person>

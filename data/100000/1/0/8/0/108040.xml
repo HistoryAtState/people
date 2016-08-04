@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>108040</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Li Xiannian</name>
+        </preferred>
+        <alternates>
+            <name>Li Hsien-nien</name>
+        </alternates>
+        <originals variants="3">
+            <original source-urls="4">
+                <name>Li Hsien-nien</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v17/persons#p_LH1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v18/persons#p_LH1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve13/persons#p_LX1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v13/persons#p_LH_1</source-url>
+            </original>
+            <original source-urls="2">
+                <name>Li Xiannian (Li Hsien-nien)</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v18/persons#p_LX1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v13/persons#p_LX_1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>President Li Xiannian</name>
+                <source-url>https://history.state.gov/departmenthistory/visits/china</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="5">
+        <remark source-urls="2">
+            <p>Vice Premier of the State Council, People's Republic of China; member, Chinese Communist Party Politiburo, 9th Central Committee, April 1969</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v17/persons#p_LH1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve13/persons#p_LX1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>see Li Xiannian</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v18/persons#p_LH1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v13/persons#p_LH_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Vice Premier of the PRC State Council until 1975</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v18/persons#p_LX1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>PRC Vice Premier until 1980</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v13/persons#p_LX_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>President, China, People’s Republic of. Visited U.S. once, 1985</p>
+            <source-url>https://history.state.gov/departmenthistory/visits/china</source-url>
+        </remark>
+    </remarks>
+</person>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>107106</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Khan, Mossharaf Hossain</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="1">
+                <name>Khan, Mossharaf Hossain, Rear Admiral</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve08/persons#p_KMHRA1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="1">
+            <title source-urls="1">
+                <name>Rear Admiral</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve08/persons#p_KMHRA1</source-url>
+            </title>
+        </titles-from-name>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="1">
+        <remark source-urls="1">
+            <p>Deputy Chief Martial Law Administrator, Bangladesh, 1975</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve08/persons#p_KMHRA1</source-url>
+        </remark>
+    </remarks>
+</person>

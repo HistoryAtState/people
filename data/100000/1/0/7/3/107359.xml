@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>107359</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Kony, Mohammed Awad El</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="2">
+                <name>Kony, Mohammed Awad El</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v19/persons#p_KMAE1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v20/persons#p_KMAE1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="1">
+        <remark source-urls="2">
+            <p>Permanent Representative of the United Arab Republic to the United Nations</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v19/persons#p_KMAE1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v20/persons#p_KMAE1</source-url>
+        </remark>
+    </remarks>
+</person>

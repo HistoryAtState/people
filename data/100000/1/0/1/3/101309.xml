@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>101309</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Biesheuvel, Barend Willem</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="1">
+                <name>Biesheuvel, Barend Willem</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v39/persons#p_BBW1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Prime Minister Barend Willem Biesheuvel</name>
+                <source-url>https://history.state.gov/departmenthistory/visits/netherlands</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="2">
+        <remark source-urls="1">
+            <p>Prime Minister of the Netherlands from July 1971 to May 1973</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v39/persons#p_BBW1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Prime Minister, Netherlands. Visited U.S. once, 1972</p>
+            <source-url>https://history.state.gov/departmenthistory/visits/netherlands</source-url>
+        </remark>
+    </remarks>
+</person>

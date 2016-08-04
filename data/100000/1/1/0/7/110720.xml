@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>110720</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Pickens, Francis Wilkinson</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="1">
+                <name>Pickens, Francis Wilkinson</name>
+                <source-url>https://history.state.gov/departmenthistory/people/pickens-francis-wilkinson</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Francis W. Pickens</name>
+                <source-url>https://history.state.gov/departmenthistory/people/pickens-francis-wilkinson</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1805</birth-year>
+    <death-year>1869</death-year>
+    <remarks variants="1">
+        <remark source-urls="1">
+            <p>Non-career appointee. Envoy Extraordinary and Minister Plenipotentiary (Russia).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/pickens-francis-wilkinson</source-url>
+        </remark>
+    </remarks>
+</person>

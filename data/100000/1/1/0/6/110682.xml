@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>110682</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Phelps, William Walter</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="1">
+                <name>Phelps, William Walter</name>
+                <source-url>https://history.state.gov/departmenthistory/people/phelps-william-walter</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1839</birth-year>
+    <death-year>1894</death-year>
+    <remarks variants="1">
+        <remark source-urls="1">
+            <p>Non-career appointee. Envoy Extraordinary and Minister Plenipotentiary (Germany); Envoy Extraordinary and Minister Plenipotentiary (Austria).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/phelps-william-walter</source-url>
+        </remark>
+    </remarks>
+</person>

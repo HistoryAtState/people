@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>114552</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Widman, F. Lisle</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="3">
+                <name>Widman, F. Lisle</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v08/persons#p_WFL2</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v31/persons#p_WFL1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v03/persons#p_WFL_1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="3">
+        <remark source-urls="1">
+            <p>Director, Office of Industrial Nations, Department of the Treasury</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v08/persons#p_WFL2</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Deputy Assistant Secretary of the Treasury for International Monetary Affairs from 1975</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v31/persons#p_WFL1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Deputy Assistant Secretary of the Treasury for International Monetary Affairs from 1976 until 1980</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v03/persons#p_WFL_1</source-url>
+        </remark>
+    </remarks>
+</person>

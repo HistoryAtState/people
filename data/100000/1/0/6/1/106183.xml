@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>106183</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Howell, Joseph Morton</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="1">
+                <name>Howell, Joseph Morton</name>
+                <source-url>https://history.state.gov/departmenthistory/people/howell-joseph-morton</source-url>
+            </original>
+            <original source-urls="1">
+                <name>J. Morton Howell</name>
+                <source-url>https://history.state.gov/departmenthistory/people/howell-joseph-morton</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1863</birth-year>
+    <death-year>1937</death-year>
+    <remarks variants="1">
+        <remark source-urls="1">
+            <p>Non-career appointee. Agent/Consul General (Egypt); Envoy Extraordinary and Minister Plenipotentiary (Egypt).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/howell-joseph-morton</source-url>
+        </remark>
+    </remarks>
+</person>

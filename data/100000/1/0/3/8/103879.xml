@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>103879</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Einaudi, Luigi R.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="4">
+                <name>Einaudi, Luigi R.</name>
+                <source-url>https://history.state.gov/departmenthistory/people/einaudi-luigi-r</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve11p2/persons#p_ELR_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve14p1/persons#p_ELR1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1981-88v13/persons#p_ELR_1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Einaudi, Luigi</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v37/persons#p_EL_1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1936</birth-year>
+    <death-year/>
+    <remarks variants="5">
+        <remark source-urls="1">
+            <p>Non-career appointee. Permanent Representative of the U.S.A. to the Organization of American States (Washington).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/einaudi-luigi-r</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Staff Director, National Security Council Interdepartmental Groups, Department of State</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v37/persons#p_EL_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>staff member, Policy Planning Staff, Department of State, from July 1974</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve11p2/persons#p_ELR_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Policy Planning Staff, Department of State</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve14p1/persons#p_ELR1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Staff Director, NSC Interdepartmental Groups, Bureau of Inter-American Affairs, Department of State; Director, Office of Policy Planning Coordination, Bureau of Inter-American Affairs, Department of State</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1981-88v13/persons#p_ELR_1</source-url>
+        </remark>
+    </remarks>
+</person>

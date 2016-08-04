@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>108380</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Mak, Dayton S.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="4">
+                <name>Mak, Dayton S.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v09p1/persons#p_MDS1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v09p2/persons#p_MDS1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v02/persons#p_MDS2</source-url>
+                <source-url>https://history.state.gov/departmenthistory/people/mak-dayton-s</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1917</birth-year>
+    <death-year/>
+    <remarks variants="3">
+        <remark source-urls="2">
+            <p>Third Secretary and Vice Consul of the Legation in Libya until February 21, 1952; Second Secretary and Vice Consul, February 21, 1952–April 2, 1953; thereafter Second Secretary and Vice Consul of the Embassy in the United Kingdom.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v09p1/persons#p_MDS1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v09p2/persons#p_MDS1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Bureau of Near Eastern and South Asian Affairs, Department of State, from December 1958</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v02/persons#p_MDS2</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Foreign Service Officer. Chargé d'Affaires (Kuwait).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/mak-dayton-s</source-url>
+        </remark>
+    </remarks>
+</person>

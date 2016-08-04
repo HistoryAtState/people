@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>112103</id>
+    <authorities>
+        <authority service="viaf">90641496</authority>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Schroeder, Gerhard</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="1">
+                <name>Chancellor Gerhard Schroeder</name>
+                <source-url>https://history.state.gov/departmenthistory/visits/germany</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Chancellor-elect Gerhard Schroeder</name>
+                <source-url>https://history.state.gov/departmenthistory/visits/germany</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="2">
+        <remark source-urls="1">
+            <p>Chancellor, Germany. Visited U.S. 9 times, 1999–2005</p>
+            <source-url>https://history.state.gov/departmenthistory/visits/germany</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Chancellor-elect, Germany. Visited U.S. once, 1998</p>
+            <source-url>https://history.state.gov/departmenthistory/visits/germany</source-url>
+        </remark>
+    </remarks>
+</person>

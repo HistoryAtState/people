@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>101056</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Beaudry, Robert M.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="5">
+                <name>Beaudry, Robert M.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v13/persons#p_BRM1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v23/persons#p_BRM1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v37/persons#p_BRM_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v41/persons#p_BRM_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve01/persons#p_BRM1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="5">
+        <remark source-urls="1">
+            <p>International Relations Officer, Office of Western European Affairs, Bureau of European Affairs, Department of State</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v13/persons#p_BRM1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Acting Officer in Charge of Netherlands Affairs, Office of Western European Affairs, Bureau of European Affairs, Department of State, until July 1963</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v23/persons#p_BRM1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Director, Office of OECD, European Community and Atlantic Political-Economic Affairs, Bureau of European Affairs, Department of State</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v37/persons#p_BRM_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Country Director for Italy, Austria, and Switzerland, Bureau of European Affairs, Department of State</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v41/persons#p_BRM_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Country Director, Italy, Austria, and Switzerland, Department of State</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve01/persons#p_BRM1</source-url>
+        </remark>
+    </remarks>
+</person>

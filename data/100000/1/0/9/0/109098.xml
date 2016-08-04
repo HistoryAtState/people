@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>109098</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Meyers, Dale</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="1">
+                <name>Meyers, Dale</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v37/persons#p_MD_3</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="1">
+        <remark source-urls="1">
+            <p>Under Secretary for Energy, Department of Energy</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v37/persons#p_MD_3</source-url>
+        </remark>
+    </remarks>
+</person>

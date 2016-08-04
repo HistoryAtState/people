@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>107273</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Kleine, Herman</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="3">
+                <name>Kleine, Herman</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve10/persons#p_KH2</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve11p1/persons#p_KH_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve11p2/persons#p_KH_1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="3">
+        <remark source-urls="1">
+            <p>Deputy Director for Agency for International Development, U.S. Embassy in Rio de Janeiro from January 1969 until December 1969; Associate U.S. Coordinator and Assistant Administrator for Agency for International Development from December 1969 until December 1970; Deputy U.S. Coordinator, Alliance for Progress from December 1970 until September 1971; Assistant Administrator for Latin America, Agency for International Development from September 1971</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve10/persons#p_KH2</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Assistant Administrator, Agency for International Development, and Deputy U.S. Coordinator, Alliance for Progress, Bureau of Inter-American Affairs, from December 1973</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve11p1/persons#p_KH_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Assistant Administrator, Agency for International Development, and Deputy U.S. Coordinator, Alliance for Progress, Bureau of Inter-American Affairs, Department of State, from December 1973</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve11p2/persons#p_KH_1</source-url>
+        </remark>
+    </remarks>
+</person>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>101722</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Brewster, Kingman, Jr.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="4">
+                <name>Brewster, Kingman, Jr.</name>
+                <source-url>https://history.state.gov/departmenthistory/people/brewster-kingman</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v03/persons#p_BK_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v26/persons#p_BK_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v30/persons#p_BKJ_1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1919</birth-year>
+    <death-year>1988</death-year>
+    <remarks variants="4">
+        <remark source-urls="1">
+            <p>Non-career appointee. Ambassador Extraordinary and Plenipotentiary (United Kingdom).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/brewster-kingman</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>U.S. Ambassador to the United Kingdom from April 1977</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v03/persons#p_BK_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>U.S. Ambassador to the United Kingdom from 1977 until 1981</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v26/persons#p_BK_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>U.S. Ambassador to the United Kingdom from June 3, 1977</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v30/persons#p_BKJ_1</source-url>
+        </remark>
+    </remarks>
+</person>

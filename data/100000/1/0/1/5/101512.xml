@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>101512</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Bolton, Frances P.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="7">
+                <name>Bolton, Frances P.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v03/persons#p_BOLTONFP1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v09p1/persons#p_BFP1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v09p2/persons#p_BFP1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v11p1/persons#p_BFP2</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v11p2/persons#p_BFP2</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v04/persons#p_BFP1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v05/persons#p_BFP1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="5">
+        <remark source-urls="1">
+            <p>Representative of the United States to the 8th Regular Session of the General Assembly; Delegate on the 4th Committee, General Assembly, 1953.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v03/persons#p_BOLTONFP1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Republican Representative from Ohio; Delegate at the 8th Regular Session of the United Nations General Assembly, 1953.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v09p1/persons#p_BFP1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v09p2/persons#p_BFP1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Republican Representative from Ohio; Member of the Delegation to the Eighth Regular Session of the United Nations General Assembly, 1953.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v11p1/persons#p_BFP2</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v11p2/persons#p_BFP2</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Representative (R-Ohio), ranking Republican on the House Foreign Affairs Committee</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v04/persons#p_BFP1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Representative (R–OH), ranking Republican on the House Foreign Affairs Committee</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v05/persons#p_BFP1</source-url>
+        </remark>
+    </remarks>
+</person>

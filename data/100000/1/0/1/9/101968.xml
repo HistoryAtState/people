@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>101968</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Burns, Findley, Jr.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="4">
+                <name>Burns, Findley, Jr.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v08/persons#p_BFJ1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v18/persons#p_BFJ2</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v19/persons#p_BFJ1</source-url>
+                <source-url>https://history.state.gov/departmenthistory/people/burns-findley-jr</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Burns, Findley Jr.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v09/persons#p_BFJ1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Burns, Finley, Jr.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve10/persons#p_BF1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1917</birth-year>
+    <death-year>2003</death-year>
+    <remarks variants="5">
+        <remark source-urls="2">
+            <p>Political Officer at the Mission at Berlin from August 1958</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v08/persons#p_BFJ1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v09/persons#p_BFJ1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Ambassador to Jordan, July 1966–November 1967</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v18/persons#p_BFJ2</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Ambassador to Jordan until November 1967</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v19/persons#p_BFJ1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>U.S. Ambassador to Ecuador from March 1970</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve10/persons#p_BF1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Foreign Service Officer. Ambassador Extraordinary and Plenipotentiary (Jordan); Ambassador Extraordinary and Plenipotentiary (Ecuador).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/burns-findley-jr</source-url>
+        </remark>
+    </remarks>
+</person>

@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>106883</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Kardelj, Edvard</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="11">
+                <name>Kardelj, Edvard</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv01/persons#p_KE1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv02/persons#p_KE2</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1946v03/persons#p_KE1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1947v02/persons#p_KE1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v04p1/persons#p_KE1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v04p2/persons#p_KE1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v08/persons#p_KE1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v26/persons#p_KE1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v16/persons#p_KE1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v17/persons#p_KE1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v13/persons#p_KE_1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Kardelj, Edward</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v10p2/persons#p_KE1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="10">
+        <remark source-urls="2">
+            <p>Second Vice President in the Provisional Government of Yugoslavia.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv01/persons#p_KE1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv02/persons#p_KE2</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Chief of the Yugoslav Delegation; Vice Premier of Yugoslavia</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1946v03/persons#p_KE1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Yugoslav Deputy Prime Minister (Vice Minister-President)</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1947v02/persons#p_KE1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Yugoslav Deputy Prime Minister and Foreign Minister</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1951v04p1/persons#p_KE1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1951v04p2/persons#p_KE1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Yugoslav Deputy Prime Minister and Minister for Foreign Affairs, 1948–1953; First Vice President of the Federal Executive Council; Secretary General and Secretary of the Executive Committee of the Socialist Alliance of the Working People of Yugoslavia.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v08/persons#p_KE1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Senior Vice President of Yugoslavia</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v26/persons#p_KE1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Vice President of the Federal Executive Council of Yugoslavia and President of the Federal Assembly of Yugoslavia</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v10p2/persons#p_KE1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Yugoslav Vice President</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v16/persons#p_KE1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>President of the Yugoslav Federal Assembly</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v17/persons#p_KE1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Member of the Presidency of Yugoslavia</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v13/persons#p_KE_1</source-url>
+        </remark>
+    </remarks>
+</person>

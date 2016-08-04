@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>114414</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Well, Günther van</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="1">
+                <name>Van Well, Guenther</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v39/persons#p_WG2</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Well, Günther van</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v40/persons#p_WG1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="2">
+        <remark source-urls="1">
+            <p>Ministerial Director and Head of the Political Division of the Federal Republic of Germany Foreign Office until March 1973; thereafter, Director of the Political Division</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v39/persons#p_WG2</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Director of the Department “Foreign Political Questions that Deal with Berlin and Germany as a Whole” in the First Political Division of the West German Foreign Office</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v40/persons#p_WG1</source-url>
+        </remark>
+    </remarks>
+</person>

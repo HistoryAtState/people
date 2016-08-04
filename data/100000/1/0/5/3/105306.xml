@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>105306</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Gundersen, Jon</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="1">
+                <name>Gundersen, Jon</name>
+                <source-url>https://history.state.gov/departmenthistory/people/gundersen-jon</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1945</birth-year>
+    <death-year/>
+    <remarks variants="1">
+        <remark source-urls="1">
+            <p>Foreign Service Officer. Chargé d'Affaires ad interim (Ukraine); Chargé d'Affaires ad interim (Estonia).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/gundersen-jon</source-url>
+        </remark>
+    </remarks>
+</person>

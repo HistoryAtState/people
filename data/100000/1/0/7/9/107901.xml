@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>107901</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Leverich, Henry P.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="8">
+                <name>Leverich, Henry P.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv01/persons#p_LHP1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv02/persons#p_LHP1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v08/persons#p_LHP1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v24/persons#p_LHP1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v25/persons#p_LHP1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v26/persons#p_LHP1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v10p1/persons#p_LHP1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v10p2/persons#p_LHP1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="5">
+        <remark source-urls="2">
+            <p>Acting Chief, Division of Central European Affairs, Department of State.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv01/persons#p_LHP1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv02/persons#p_LHP1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Officer in Charge of Balkan Affairs, Office of Eastern European Affairs, Department of State, September 1952–October 1956; Deputy Director, Office of Eastern European Affairs, from October 1956.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v08/persons#p_LHP1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Deputy Director, Office of Eastern European Affairs, Bureau of European Affairs, Department of State</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v24/persons#p_LHP1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v25/persons#p_LHP1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Officer in Charge of Balkan Affairs, Office of Eastern European Affairs, Department of State; Deputy Director of that office from October 7, 1956</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v26/persons#p_LHP1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Deputy Director, Office of Eastern European Affairs, Department of State</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v10p1/persons#p_LHP1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v10p2/persons#p_LHP1</source-url>
+        </remark>
+    </remarks>
+</person>

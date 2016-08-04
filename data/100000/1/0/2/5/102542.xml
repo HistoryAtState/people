@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>102542</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Christian, George E.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="7">
+                <name>Christian, George</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v04/persons#p_CG2</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v05/persons#p_CG2</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v14/persons#p_CG1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v16/persons#p_CG1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v19/persons#p_CG1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v27/persons#p_CG1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v29p1/persons#p_CG2</source-url>
+            </original>
+            <original source-urls="2">
+                <name>Christian, George A.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v06/persons#p_CGA2</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v07/persons#p_CGA2</source-url>
+            </original>
+            <original source-urls="2">
+                <name>Christian, George E.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v29p2/persons#p_CGE2</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v31/persons#p_CGE1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="10">
+        <remark source-urls="1">
+            <p>Press Secretary to the President from February 1, 1967</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v04/persons#p_CG2</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Press Secretary to the President after February 1, 1967</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v05/persons#p_CG2</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Special Assistant to the President and White House Press Secretary</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v06/persons#p_CGA2</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v07/persons#p_CGA2</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Special Assistant and Press Secretary to the President fromFebruary 1967</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v14/persons#p_CG1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>President Johnson's Press Secretary from 1966</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v16/persons#p_CG1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>White House Press Secretary</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v19/persons#p_CG1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Press Secretary to the President, January 1967–January 1969</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v27/persons#p_CG1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Press Secretary to President Johnson from February 1, 1967</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v29p1/persons#p_CG2</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Special Assistant to the President and White House Press Secretary from January 1967</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v29p2/persons#p_CGE2</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Special Assistant and Press Secretary to the President from February 1967</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v31/persons#p_CGE1</source-url>
+        </remark>
+    </remarks>
+</person>

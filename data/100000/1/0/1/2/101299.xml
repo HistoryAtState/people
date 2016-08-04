@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>101299</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Biddle, Anthony Joseph Drexel, Jr.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="5">
+            <original source-urls="1">
+                <name>Biddle, Anthony J. Drexel, Jr.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1943CairoTehran/persons#p_BAJD1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Biddle, Anthony Joseph Drexel, Jr.</name>
+                <source-url>https://history.state.gov/departmenthistory/people/biddle-anthony-joseph-drexel-jr</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Anthony J. Drexel Biddle Jr.</name>
+                <source-url>https://history.state.gov/departmenthistory/people/biddle-anthony-joseph-drexel-jr</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Anthony J. Biddle Jr.</name>
+                <source-url>https://history.state.gov/departmenthistory/people/biddle-anthony-joseph-drexel-jr</source-url>
+            </original>
+            <original source-urls="2">
+                <name>Biddle, Gen. A.J. Drexel, Jr.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v06p1/persons#p_BIDDLEGAJDj1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v06p2/persons#p_BIDDLEGAJDJ1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="1">
+            <title source-urls="2">
+                <name>Gen.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v06p1/persons#p_BIDDLEGAJDj1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v06p2/persons#p_BIDDLEGAJDJ1</source-url>
+            </title>
+        </titles-from-name>
+    </names>
+    <birth-year>1896</birth-year>
+    <death-year>1961</death-year>
+    <remarks variants="3">
+        <remark source-urls="1">
+            <p>Ambassador to the Belgian Government-in-Exile in England.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1943CairoTehran/persons#p_BAJD1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Executive Officer in Supreme Headquarters, Allied Powers, Europe, 1951–1953; thereafter Special Assistant to the Chief of Staff, U.S. Army.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v06p1/persons#p_BIDDLEGAJDj1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v06p2/persons#p_BIDDLEGAJDJ1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Non-career appointee. Envoy Extraordinary and Minister Plenipotentiary (Yugoslavia); Ambassador Extraordinary and Plenipotentiary (Yugoslavia); Ambassador Extraordinary and Plenipotentiary (Spain); Ambassador Extraordinary and Plenipotentiary (Poland); Envoy Extraordinary and Minister Plenipotentiary (Norway); Ambassador Extraordinary and Plenipotentiary (Norway); Envoy Extraordinary and Minister Plenipotentiary (Netherlands); Ambassador Extraordinary and Plenipotentiary (Netherlands); Envoy Extraordinary and Minister Plenipotentiary (Luxembourg); Envoy Extraordinary and Minister Plenipotentiary (Greece); Ambassador Extraordinary and Plenipotentiary (Greece); Envoy Extraordinary and Minister Plenipotentiary (Czechoslovakia); Ambassador Extraordinary and Plenipotentiary (Czechoslovakia); Ambassador Extraordinary and Plenipotentiary (Belgium).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/biddle-anthony-joseph-drexel-jr</source-url>
+        </remark>
+    </remarks>
+</person>

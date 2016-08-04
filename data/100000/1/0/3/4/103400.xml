@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>103400</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Desai, Manilal Jagdish</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="4">
+                <name>Desai, Manilal Jagdish</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v01/persons#p_DMJ1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v01/persons#p_DMJ1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v16/persons#p_DMJ1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v02/persons#p_DMJ2</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Desai Manilal Jagdish</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v01/persons#p_DMJ1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Desai, M. J.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v19/persons#p_DMJ1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="5">
+        <remark source-urls="2">
+            <p>Chairman of the International Commission for Supervision and Control of Vietnam</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v01/persons#p_DMJ1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v01/persons#p_DMJ1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Indian Commonwealth Secretary</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v16/persons#p_DMJ1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Foreign Secretary of the Indian Ministry of Foreign Affairs</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v01/persons#p_DMJ1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Secretary of the Indian Ministry of External Affairs</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v02/persons#p_DMJ2</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Foreign Secretary of the Ministry of External Affairs of India after April 1961</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v19/persons#p_DMJ1</source-url>
+        </remark>
+    </remarks>
+</person>

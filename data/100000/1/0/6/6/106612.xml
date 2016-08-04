@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>106612</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Jiang Qing</name>
+        </preferred>
+        <alternates>
+            <name>Chiang Ch’ing</name>
+        </alternates>
+        <originals variants="2">
+            <original source-urls="3">
+                <name>Chiang Ching</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v17/persons#p_CC1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v18/persons#p_CC1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve13/persons#p_JQ1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Jiang Qing (Chiang Ching)</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v18/persons#p_JQ1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="3">
+        <remark source-urls="2">
+            <p>wife of Mao Tse-tung; also, member, Chinese Communist Party Politburo during April 1969</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v17/persons#p_CC1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve13/persons#p_JQ1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>see Jiang Qing</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v18/persons#p_CC1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>wife of Mao Zedong; member of the CCP Politburo until October 1976</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v18/persons#p_JQ1</source-url>
+        </remark>
+    </remarks>
+</person>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>110905</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Powell, Herbert Butler</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="1">
+                <name>Powell, Herbert Butler</name>
+                <source-url>https://history.state.gov/departmenthistory/people/powell-herbert-butler</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Herbert B. Powell</name>
+                <source-url>https://history.state.gov/departmenthistory/people/powell-herbert-butler</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1903</birth-year>
+    <death-year>1998</death-year>
+    <remarks variants="1">
+        <remark source-urls="1">
+            <p>Non-career appointee. Ambassador Extraordinary and Plenipotentiary (New Zealand).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/powell-herbert-butler</source-url>
+        </remark>
+    </remarks>
+</person>

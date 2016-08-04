@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>100387</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Amin, Idi</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="1">
+                <name>Amin Dada, Idi</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v05/persons#p_ADI1</source-url>
+            </original>
+            <original source-urls="3">
+                <name>Amin, Idi</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v28/persons#p_AI_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v02/persons#p_AI_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v06/persons#p_AMI_1</source-url>
+            </original>
+            <original source-urls="3">
+                <name>Amin, Major General Idi</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve05p1/persons#p_ADI1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve05p2/persons#p_AMGI1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve06/persons#p_ADI1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="1">
+            <title source-urls="3">
+                <name>Major General</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve05p1/persons#p_ADI1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve05p2/persons#p_AMGI1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve06/persons#p_ADI1</source-url>
+            </title>
+        </titles-from-name>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="6">
+        <remark source-urls="1">
+            <p>President of Uganda</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v05/persons#p_ADI1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>President of Uganda; President of the Organization of African Unity from July 1975 until July 1976</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v28/persons#p_AI_1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>President of Uganda from January 25, 1971</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve05p1/persons#p_ADI1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve05p2/persons#p_AMGI1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>President of Uganda from 1971 to 1979</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve06/persons#p_ADI1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>President of Uganda until April 1979</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v02/persons#p_AI_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>President of Uganda until 1979</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v06/persons#p_AMI_1</source-url>
+        </remark>
+    </remarks>
+</person>

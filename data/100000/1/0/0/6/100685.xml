@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>100685</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Austin, Warren Robinson</name>
+        </preferred>
+        <alternates/>
+        <originals variants="4">
+            <original source-urls="3">
+                <name>Austin, Warren Robinson</name>
+                <source-url>https://history.state.gov/departmenthistory/people/austin-warren-robinson</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v05/persons#p_AWR1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve11p2/persons#p_AGS_2</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Warren R. Austin</name>
+                <source-url>https://history.state.gov/departmenthistory/people/austin-warren-robinson</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Austin, Senator Warren R.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1946v03/persons#p_ASW1</source-url>
+            </original>
+            <original source-urls="11">
+                <name>Austin, Warren R.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1948v02/persons#p_AWR1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v04p1/persons#p_AWR1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v04p2/persons#p_AWR1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v02p1/persons#p_AUSTINWR1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v02p2/persons#p_AUSTINWR1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v03/persons#p_AUSTINWR1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v10/persons#p_AWR1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v11p1/persons#p_AWR1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v11p2/persons#p_AWR1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v15p1/persons#p_AWR1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v15p2/persons#p_AWR1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="1">
+            <title source-urls="1">
+                <name>Senator</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1946v03/persons#p_ASW1</source-url>
+            </title>
+        </titles-from-name>
+    </names>
+    <birth-year>1877</birth-year>
+    <death-year>1962</death-year>
+    <remarks variants="11">
+        <remark source-urls="1">
+            <p>Non-career appointee. Representative of the U.S.A. to the United Nations.</p>
+            <source-url>https://history.state.gov/departmenthistory/people/austin-warren-robinson</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>United States Representative-Designate at the Seat of the United Nations</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1946v03/persons#p_ASW1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>United States Representative at the United Nations</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1948v02/persons#p_AWR1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Permanent Representative at the United Nations</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1951v04p1/persons#p_AWR1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1951v04p2/persons#p_AWR1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Representative at the United Nations and Representative on the Security Council; President of the Security Council in August 1951.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1951v05/persons#p_AWR1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>United States Representative at the United Nations until January 22, 1953.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v02p1/persons#p_AUSTINWR1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v02p2/persons#p_AUSTINWR1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Permanent Representative of the United States to the United Nations until January 22, 1953.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v03/persons#p_AUSTINWR1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Permanent Representative of the United States at the United Nations until January 22, 1953.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v10/persons#p_AWR1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Permanent Representative at the United Nations until January 22, 1953.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v11p1/persons#p_AWR1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v11p2/persons#p_AWR1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Permanent Representative at the United Nations to January 1953.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v15p1/persons#p_AWR1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v15p2/persons#p_AWR1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>staff member Policy Planning Staff, Department of State, from November 1974</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve11p2/persons#p_AGS_2</source-url>
+        </remark>
+    </remarks>
+</person>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>104964</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Goebbels, Joseph</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="3">
+                <name>Goebbels, Joseph</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv01/persons#p_GJ1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv02/persons#p_GJ1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945Malta/persons#p_GJ1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="1">
+        <remark source-urls="3">
+            <p>German Minister for Public Enlightenment.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv01/persons#p_GJ1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv02/persons#p_GJ1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1945Malta/persons#p_GJ1</source-url>
+        </remark>
+    </remarks>
+</person>

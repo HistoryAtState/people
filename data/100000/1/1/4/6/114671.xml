@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>114671</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Wilson, Henry Maitland</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="1">
+                <name>Wilson, Sir Henry Maitland</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1943CairoTehran/persons#p_WSHM1</source-url>
+            </original>
+            <original source-urls="3">
+                <name>Wilson, Field Marshal Sir Henry Maitland</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv01/persons#p_WFMSHM1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945Malta/persons#p_W5</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1946v03/persons#p_WFMSHM1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Wilson, Henry Maitland</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv02/persons#p_WFMSHM1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="2">
+            <title source-urls="1">
+                <name>Sir</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1943CairoTehran/persons#p_WSHM1</source-url>
+            </title>
+            <title source-urls="3">
+                <name>Field Marshal Sir</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv01/persons#p_WFMSHM1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945Malta/persons#p_W5</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1946v03/persons#p_WFMSHM1</source-url>
+            </title>
+        </titles-from-name>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="5">
+        <remark source-urls="1">
+            <p>General, Commander-in-Chief, British Forces in the Middle East; Allied Commander-in-Chief, Mediterranean Theater, from January 8, 1944.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1943CairoTehran/persons#p_WSHM1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Head, British Joint Staff Mission, Washington; member of the Combined Policy Committee (on atomic energy).</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv01/persons#p_WFMSHM1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Head, British Joint Staff Mission, Washington.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv02/persons#p_WFMSHM1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Head of the British Joint Staff Mission in Washington.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1945Malta/persons#p_W5</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Head of British Joint Staff Mission in the United States; Supreme Allied Commander, Mediterranean Theatre, 1944–1945</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1946v03/persons#p_WFMSHM1</source-url>
+        </remark>
+    </remarks>
+</person>

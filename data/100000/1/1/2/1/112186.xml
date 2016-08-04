@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>112186</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Seebohm, Hans-Christoph</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="1">
+                <name>Seebohm, Dr. Hans Christoph</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1948v02/persons#p_SHC1</source-url>
+            </original>
+            <original source-urls="2">
+                <name>Seebohm, Hans-Christoph</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v07p1/persons#p_SHC1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v07p2/persons#p_SHC1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Seebohm, Hans</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v17/persons#p_SH1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="1">
+            <title source-urls="1">
+                <name>Dr.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1948v02/persons#p_SHC1</source-url>
+            </title>
+        </titles-from-name>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="3">
+        <remark source-urls="1">
+            <p>Minister of Labor, Reconstruction and Health in Lower Saxony; Deputy Chairman of the German Party; representative on the Parliamentary Council</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1948v02/persons#p_SHC1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>German Party member of the Bundestag and Minister for Communications of the Federal Republic of Germany.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v07p1/persons#p_SHC1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v07p2/persons#p_SHC1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>German Minister for Transportation</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v17/persons#p_SH1</source-url>
+        </remark>
+    </remarks>
+</person>

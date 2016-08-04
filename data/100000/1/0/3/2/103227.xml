@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>103227</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Day, Arthur R.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="8">
+                <name>Day, Arthur R.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v02/persons#p_DAR2</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v14/persons#p_DAR2</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v15/persons#p_DAR2</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v05/persons#p_DAR2</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v26/persons#p_DAR_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve14p2/persons#p_DAR_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v08/persons#p_DAR_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v30/persons#p_DAR_1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Day, Arthur D.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v16/persons#p_DAD1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="7">
+        <remark source-urls="1">
+            <p>Reports and Operations Staff, Executive Secretariat, Department of State</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v02/persons#p_DAR2</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Office of German Affairs, Bureau of European Affairs, Department of State</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v14/persons#p_DAR2</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Member of the Berlin Task Force, Department of State, until June 1962; thereafter Political Officer at Berlin</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v15/persons#p_DAR2</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Office of United Nations Programs, Bureau of International Organization Affairs, Department of State</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v16/persons#p_DAD1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Deputy Director, Office of United Nations Political Affairs, Bureau of International Organization Affairs, Department of State</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v05/persons#p_DAR2</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Deputy Assistant Secretary of State for Near Eastern and South Asian Affairs from 1975</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v26/persons#p_DAR_1</source-url>
+        </remark>
+        <remark source-urls="3">
+            <p>Deputy Assistant Secretary of State for Near Eastern and South Asian Affairs</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve14p2/persons#p_DAR_1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v08/persons#p_DAR_1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v30/persons#p_DAR_1</source-url>
+        </remark>
+    </remarks>
+</person>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>101220</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Bergold, Harry Earl, Jr.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="5">
+            <original source-urls="2">
+                <name>Bergold, Harry Earl, Jr.</name>
+                <source-url>https://history.state.gov/departmenthistory/people/bergold-harry-earl-jr</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v22/persons#p_BHE_1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Harry E. Bergold</name>
+                <source-url>https://history.state.gov/departmenthistory/people/bergold-harry-earl-jr</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Harry E. Bergold Jr.</name>
+                <source-url>https://history.state.gov/departmenthistory/people/bergold-harry-earl-jr</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Bergold, Harry</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v37/persons#p_BH_2</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Bergold, Harry E, Jr.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve08/persons#p_BHEJ1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1931</birth-year>
+    <death-year>1995</death-year>
+    <remarks variants="4">
+        <remark source-urls="1">
+            <p>Foreign Service Officer. Ambassador Extraordinary and Plenipotentiary (Nicaragua); Ambassador Extraordinary and Plenipotentiary (Morocco); Ambassador Extraordinary and Plenipotentiary (Hungary).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/bergold-harry-earl-jr</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Deputy Assistant Secretary for European and NATO Affairs, Department of Defense; Principal Deputy Assistant Secretary for Legislative Affairs, Department of Defense</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v22/persons#p_BHE_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Energy Policy and Planning, Executive Office of the President and then Assistant Secretary of Energy for International Affairs</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v37/persons#p_BH_2</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Deputy Assistant Secretary of Defense for European and NATO Affairs from 1973 to 1976</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve08/persons#p_BHEJ1</source-url>
+        </remark>
+    </remarks>
+</person>

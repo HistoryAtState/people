@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>102446</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Chehab, Fuad</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="7">
+                <name>Chehab, General Fuad</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v09p1/persons#p_CGF1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v09p2/persons#p_CGF1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v02/persons#p_CGF2</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v11/persons#p_CGF2</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v12/persons#p_CGF2</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v17/persons#p_CGF2</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v18/persons#p_CGF2</source-url>
+            </original>
+            <original source-urls="2">
+                <name>Shihab</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v09p1/persons#p_SC2</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v09p2/persons#p_SC2</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Chehab, Fuad</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v13/persons#p_CF1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="1">
+            <title source-urls="7">
+                <name>General</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v09p1/persons#p_CGF1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v09p2/persons#p_CGF1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v02/persons#p_CGF2</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v11/persons#p_CGF2</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v12/persons#p_CGF2</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v17/persons#p_CGF2</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v18/persons#p_CGF2</source-url>
+            </title>
+        </titles-from-name>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="6">
+        <remark source-urls="2">
+            <p>Commander in Chief of the Lebanese Army; Prime Minister, Minister of Interior, and Minister of Defense, September 1952.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v09p1/persons#p_CGF1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v09p2/persons#p_CGF1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>See Chehab.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v09p1/persons#p_SC2</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v09p2/persons#p_SC2</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Lebanese Minister of Defense, November 27, 1956–January 3, 1957; thereafter Commander in Chief of the Lebanese Army</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v13/persons#p_CF1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Commander in Chief, Lebanese Army, until September 1958; thereafter President of Lebanon</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v02/persons#p_CGF2</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v12/persons#p_CGF2</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Commander in Chief of the Armed Forces of Lebanon until September 1958; thereafter President of Lebanon</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v11/persons#p_CGF2</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>President of Lebanon</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v17/persons#p_CGF2</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v18/persons#p_CGF2</source-url>
+        </remark>
+    </remarks>
+</person>

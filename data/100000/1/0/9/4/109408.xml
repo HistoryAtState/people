@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>109408</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Morokhov, Igor D.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="3">
+                <name>Morokhov, Igor D.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v16/persons#p_MID_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve14p2/persons#p_MID_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v26/persons#p_MI_1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="3">
+        <remark source-urls="1">
+            <p>First Deputy Chairman of the Soviet State Committee for Utilization of Atomic Energy; also head of the Soviet delegation to CTB and TTB/PNE talks</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v16/persons#p_MID_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>First Deputy Chairman of the Soviet State Committee for Utilization of Atomic Energy; head, Soviet delegation to the Conference of the Committee on Disarmament 1975</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve14p2/persons#p_MID_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>First Deputy Chairman of the USSR State Committee for Peaceful Utilization of Atomic Energy and Delegate to the Comprehensive Test Ban/Peaceful Nuclear Explosion Talks</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v26/persons#p_MI_1</source-url>
+        </remark>
+    </remarks>
+</person>

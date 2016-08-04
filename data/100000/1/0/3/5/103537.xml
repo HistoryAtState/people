@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>103537</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Dobriansky, Paula J.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="2">
+                <name>Dobriansky, Paula J.</name>
+                <source-url>https://history.state.gov/departmenthistory/people/dobriansky-paula-j</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1981-88v03/persons#p_DP_1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1955</birth-year>
+    <death-year/>
+    <remarks variants="2">
+        <remark source-urls="1">
+            <p>Non-career appointee. Under Secretary of State for Civilian Security, Democracy, and Human Rights.</p>
+            <source-url>https://history.state.gov/departmenthistory/people/dobriansky-paula-j</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>member, National Security Council Staff</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1981-88v03/persons#p_DP_1</source-url>
+        </remark>
+    </remarks>
+</person>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>111964</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Sauer, Walter C.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="4">
+                <name>Sauer, Walter C.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v10/persons#p_SWC1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v06/persons#p_SWC1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v07/persons#p_SWC1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v05/persons#p_SWC1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="3">
+        <remark source-urls="1">
+            <p>Vice President of the Export-Import Bank, 1952–1953.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v10/persons#p_SWC1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Executive Vice President of the Export-Import Bank</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v06/persons#p_SWC1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v07/persons#p_SWC1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Executive Vice President of the Export-Import Bank of Washington</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v05/persons#p_SWC1</source-url>
+        </remark>
+    </remarks>
+</person>

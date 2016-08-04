@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>110190</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Owen, David</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="2">
+                <name>Owen, Lord David</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v01/persons#p_OLD_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v02/persons#p_OLD_1</source-url>
+            </original>
+            <original source-urls="6">
+                <name>Owen, David</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v03/persons#p_OD_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v08/persons#p_OD_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v18/persons#p_OD_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v21/persons#p_OD_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v26/persons#p_OD_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v30/persons#p_OLD_1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="1">
+            <title source-urls="2">
+                <name>Lord</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v01/persons#p_OLD_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v02/persons#p_OLD_1</source-url>
+            </title>
+        </titles-from-name>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="5">
+        <remark source-urls="4">
+            <p>British Foreign Secretary from February 21, 1977, until May 4, 1979</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v01/persons#p_OLD_1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v02/persons#p_OLD_1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v18/persons#p_OD_1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v30/persons#p_OLD_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Secretary of State for Foreign and Commonwealth Affairs of the United Kingdom from February 1977 until May 1979</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v03/persons#p_OD_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>British Foreign Secretary</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v08/persons#p_OD_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>British Foreign Minister from February 11, 1977, until May 4, 1979</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v21/persons#p_OD_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Foreign Secretary of the United Kingdom from 1976 until May 1979</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v26/persons#p_OD_1</source-url>
+        </remark>
+    </remarks>
+</person>

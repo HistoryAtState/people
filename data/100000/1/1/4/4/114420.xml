@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>114420</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Wellington, Rebecca G.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="6">
+                <name>Wellington, Rebecca G.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v03p1/persons#p_WRG1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v03p2/persons#p_WRG1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v07p1/persons#p_WRG1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v07p2/persons#p_WRG1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v08/persons#p_WRG1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v09/persons#p_WRG1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="3">
+        <remark source-urls="2">
+            <p>Political Officer; Chief, Political Affairs Division, Berlin Element, HICOG, from May 1951.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1951v03p1/persons#p_WRG1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1951v03p2/persons#p_WRG1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Chief of the Political Affairs Division, Berlin Element, HICOG, until February 1952; thereafter Attaché at the Embassy in France.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v07p1/persons#p_WRG1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v07p2/persons#p_WRG1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>First Secretary of the Embassy in Germany until March 1959</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v08/persons#p_WRG1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v09/persons#p_WRG1</source-url>
+        </remark>
+    </remarks>
+</person>

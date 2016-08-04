@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>102266</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Carver, George A., Jr.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="4">
+            <original source-urls="8">
+                <name>Carver, George A., Jr.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v02/persons#p_CGA1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v03/persons#p_CGAJ1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v07/persons#p_CGA1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v08/persons#p_CGA1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v09/persons#p_CGA_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v10/persons#p_CGA1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v35/persons#p_CGA_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v38p2/persons#p_CGA_1</source-url>
+            </original>
+            <original source-urls="2">
+                <name>Carver, George</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v04/persons#p_CG1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v05/persons#p_CG1</source-url>
+            </original>
+            <original source-urls="4">
+                <name>Carver, George A.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v06/persons#p_CGA1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v07/persons#p_CGA1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v06/persons#p_CGA1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v20/persons#p_CGAJ1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Carver, George C.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v14/persons#p_CGAJ1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="8">
+        <remark source-urls="2">
+            <p>Member of Vietnamese Affairs Staff, Central Intelligence Agency</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v02/persons#p_CGA1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v03/persons#p_CGAJ1</source-url>
+        </remark>
+        <remark source-urls="3">
+            <p>Special Assistant for Vietnamese Affairs to the Director for Central Intelligence</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v07/persons#p_CGA1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v08/persons#p_CGA1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v09/persons#p_CGA_1</source-url>
+        </remark>
+        <remark source-urls="5">
+            <p>Special Assistant for Vietnamese Affairs to the Director of Central Intelligence</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v10/persons#p_CGA1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v06/persons#p_CGA1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v07/persons#p_CGA1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v06/persons#p_CGA1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v20/persons#p_CGAJ1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Deputy Director of Central Intelligence for National Intelligence Officers</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v35/persons#p_CGA_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Deputy to the Director of Central Intelligence for National Intelligence Officers from October 1, 1973</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v38p2/persons#p_CGA_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>member of the Vietnamese Affairs Staff, Central Intelligence Agency, until late September 1966; thereafter Special Assistant for Vietnamese Affairs, Central Intelligence Agency</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v04/persons#p_CG1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Special Assistant for Vietnamese Affairs, Central Intelligence Agency</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v05/persons#p_CG1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Special Assistant for Vietnam Affairs, Central Intelligence Agency</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v14/persons#p_CGAJ1</source-url>
+        </remark>
+    </remarks>
+</person>

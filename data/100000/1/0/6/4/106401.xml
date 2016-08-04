@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>106401</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Ingersoll, Stuart H.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="3">
+                <name>Ingersoll, Vice Admiral Stuart H.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v02/persons#p_IVASH1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v03/persons#p_IVASH1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v23p1/persons#p_IVASH1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="1">
+            <title source-urls="3">
+                <name>Vice Admiral</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v02/persons#p_IVASH1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v03/persons#p_IVASH1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v23p1/persons#p_IVASH1</source-url>
+            </title>
+        </titles-from-name>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="2">
+        <remark source-urls="2">
+            <p>USN, Commander of the Seventh Fleet, December 1955–January 1957; Commander of the United States Taiwan Defense Command, December 1955–July 1957</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v02/persons#p_IVASH1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v03/persons#p_IVASH1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>USN, Commander of the Seventh Fleet, December 1955–January 1957; Commander of the Taiwan Defense Command, December 1955–July 1957</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v23p1/persons#p_IVASH1</source-url>
+        </remark>
+    </remarks>
+</person>

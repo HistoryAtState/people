@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>100410</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Anders, William Allison</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="2">
+                <name>Anders, William Allison</name>
+                <source-url>https://history.state.gov/departmenthistory/people/anders-william-allison</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve14p2/persons#p_AWA_1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>William A. Anders</name>
+                <source-url>https://history.state.gov/departmenthistory/people/anders-william-allison</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Anders, William</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve01/persons#p_AW1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1933</birth-year>
+    <death-year/>
+    <remarks variants="3">
+        <remark source-urls="1">
+            <p>Non-career appointee. Ambassador Extraordinary and Plenipotentiary (Norway).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/anders-william-allison</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Executive–Secretary, National Aeronautics and Space Council from 1969</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve01/persons#p_AW1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Executive Secretary, National Aeronautics and Space Council, until 1973; Commissioner, Atomic Energy Commission, from August 6, 1973, until 1975; Chair, Nuclear Regulatory Commission from 1975 until 1976; U.S. Ambassador to Norway from May 11, 1976</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve14p2/persons#p_AWA_1</source-url>
+        </remark>
+    </remarks>
+</person>

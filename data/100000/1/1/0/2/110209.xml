@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>110209</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>O‘Brien, Lawrence F.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="4">
+            <original source-urls="1">
+                <name>O’Brien, Lawrence F.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v17/persons#p_OBLF1</source-url>
+            </original>
+            <original source-urls="5">
+                <name>O'Brien, Lawrence F.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v18/persons#p_OBLF1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v01/persons#p_OBLF1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v02/persons#p_OBLF1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v03/persons#p_OBLF1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v31/persons#p_OBLF1</source-url>
+            </original>
+            <original source-urls="2">
+                <name>O'Brien, Lawrence</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v05/persons#p_OBL1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v34/persons#p_OBLF1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>O'Brien, Lawrence (Larry)</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v06/persons#p_OBLL1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="6">
+        <remark source-urls="1">
+            <p>President’s Special Assistant</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v17/persons#p_OBLF1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>President's Special Assistant</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v18/persons#p_OBLF1</source-url>
+        </remark>
+        <remark source-urls="4">
+            <p>Special Assistant to the President</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v01/persons#p_OBLF1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v02/persons#p_OBLF1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v03/persons#p_OBLF1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v34/persons#p_OBLF1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Postmaster General</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v05/persons#p_OBL1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Postmaster-General to April 10, 1968</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v06/persons#p_OBLL1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Special Assistant to the President until November 1965</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v31/persons#p_OBLF1</source-url>
+        </remark>
+    </remarks>
+</person>

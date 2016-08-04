@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>104891</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Gilligan, John Joyce</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="2">
+                <name>Gilligan, John Joyce</name>
+                <source-url>https://history.state.gov/departmenthistory/people/gilligan-john-joyce</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v26/persons#p_GJ_1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>John J. Gilligan</name>
+                <source-url>https://history.state.gov/departmenthistory/people/gilligan-john-joyce</source-url>
+            </original>
+            <original source-urls="4">
+                <name>Gilligan, John J.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v01/persons#p_GJJ_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v02/persons#p_GJJ_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v03/persons#p_GJJ_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v08/persons#p_GJJ_1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1921</birth-year>
+    <death-year>2013</death-year>
+    <remarks variants="6">
+        <remark source-urls="1">
+            <p>Non-career appointee. Administrator of the Agency for International Development.</p>
+            <source-url>https://history.state.gov/departmenthistory/people/gilligan-john-joyce</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Governor of Ohio until January 13, 1975; fellow, Woodrow Wilson International Center from 1975 until 1976; Administrator, Agency for International Development, from March 30, 1977, until March 31, 1979</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v01/persons#p_GJJ_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>former Governor of Ohio; Administrator of the Agency for International Development, from March 30, 1977, until March 31, 1979; Chairman, Board of Directors, Overseas Private Investment Corporation; Chairman, Development Loan Committee</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v02/persons#p_GJJ_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Administrator, Agency for International Development, from March 1977 until March 1979</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v03/persons#p_GJJ_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Administrator of the Agency for International Development</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v08/persons#p_GJJ_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Director, Agency for International Development from March 1977 until July 1979</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v26/persons#p_GJ_1</source-url>
+        </remark>
+    </remarks>
+</person>

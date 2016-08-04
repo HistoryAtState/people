@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>103006</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Crosby, Elisha Oscar</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="1">
+                <name>Crosby, Elisha Oscar</name>
+                <source-url>https://history.state.gov/departmenthistory/people/crosby-elisha-oscar</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Elisha O. Crosby</name>
+                <source-url>https://history.state.gov/departmenthistory/people/crosby-elisha-oscar</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1818</birth-year>
+    <death-year>1895</death-year>
+    <remarks variants="1">
+        <remark source-urls="1">
+            <p>Non-career appointee. Minister Resident (Guatemala).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/crosby-elisha-oscar</source-url>
+        </remark>
+    </remarks>
+</person>

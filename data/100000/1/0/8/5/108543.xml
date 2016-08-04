@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>108543</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Marshall, Anthony Dryden</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="1">
+                <name>Marshall, Anthony D.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve06/persons#p_MAD2</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Marshall, Anthony Dryden</name>
+                <source-url>https://history.state.gov/departmenthistory/people/marshall-anthony-dryden</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Anthony D. Marshall</name>
+                <source-url>https://history.state.gov/departmenthistory/people/marshall-anthony-dryden</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1924</birth-year>
+    <death-year>2014</death-year>
+    <remarks variants="2">
+        <remark source-urls="1">
+            <p>Ambassador to Kenya from 1973 to; Ambassador to Seychelles, 1976</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve06/persons#p_MAD2</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Non-career appointee. Ambassador Extraordinary and Plenipotentiary (Trinidad and Tobago); Ambassador Extraordinary and Plenipotentiary (Seychelles); Ambassador Extraordinary and Plenipotentiary (Madagascar); Ambassador Extraordinary and Plenipotentiary (Kenya).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/marshall-anthony-dryden</source-url>
+        </remark>
+    </remarks>
+</person>

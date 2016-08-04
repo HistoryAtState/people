@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>100343</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>al-Sabban, Muhammad Surur</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="4">
+                <name>al-Sabban, Muhammad Surur</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v05/persons#p_SMS1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v05/persons#p_SSM1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v09p1/persons#p_ASMS1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v09p2/persons#p_ASMS1</source-url>
+            </original>
+            <original source-urls="2">
+                <name>Suroor (Surur) Al Sabban, Muhammad</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v09p1/persons#p_SASM1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v09p2/persons#p_SASM1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Surur, Muhammed Sheikh</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v13/persons#p_SMS1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="1">
+            <title source-urls="1">
+                <name>Sheikh</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v13/persons#p_SMS1</source-url>
+            </title>
+        </titles-from-name>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="5">
+        <remark source-urls="1">
+            <p>Saudi Arabian Minister of State.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1951v05/persons#p_SMS1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>See al-Sabban, Muhammad Surur.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1951v05/persons#p_SSM1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Saudi Arabian Minister of State; Adviser to the King from October 1953; Minister of Finance and Economics from August 30, 1954.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v09p1/persons#p_ASMS1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v09p2/persons#p_ASMS1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>See al-Sabban, Muhammad.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v09p1/persons#p_SASM1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v09p2/persons#p_SASM1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Saudi Arabian Royal Counselor and Minister of Finance and National Economy</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v13/persons#p_SMS1</source-url>
+        </remark>
+    </remarks>
+</person>

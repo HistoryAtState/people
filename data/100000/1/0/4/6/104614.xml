@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>104614</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Fujiyama, Aiichiro</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="2">
+                <name>Fujiyama, Aiichiro</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v23p1/persons#p_FA1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v18/persons#p_FA8</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="2">
+        <remark source-urls="1">
+            <p>Japanese Foreign Minister from July 1957</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v23p1/persons#p_FA1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Japanese Foreign Minister July 1957–July 1960</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v18/persons#p_FA8</source-url>
+        </remark>
+    </remarks>
+</person>

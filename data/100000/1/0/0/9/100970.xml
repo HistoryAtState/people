@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>100970</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Barzel, Rainer C.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="1">
+                <name>Barzel, Rainer (CDU)</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v15/persons#p_BRC3</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Barzel, Rainer C.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v14/persons#p_BRC3</source-url>
+            </original>
+            <original source-urls="3">
+                <name>Barzel, Rainer</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v17/persons#p_BR1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v40/persons#p_BR1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve13/persons#p_BRC3</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="4">
+        <remark source-urls="1">
+            <p>Deputy Chairman of the CDU/CSU Bundestag Fraction until November 1964; then Chairman</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v15/persons#p_BRC3</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Chairman of the CDU/CSU Parliamentary Party Group and CDU Party Chairman; also, from November 29, 1971, CDU/CSU Chancellor Candidate for the 1972 Bundestag election</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v14/persons#p_BRC3</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>leader of the Christian Democratic Union and candidate for chancellor of the Federal Republic of Germany in 1972</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v17/persons#p_BR1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve13/persons#p_BRC3</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>(CDU), member of the Bundestag; Chairman of the CDU / CSU Parliamentary Party Group; CDU Party Chairman from October 4, 1971; CDU / CSU candidate for Chancellor in the 1972 Bundestag Election (from November 29, 1971)</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v40/persons#p_BR1</source-url>
+        </remark>
+    </remarks>
+</person>

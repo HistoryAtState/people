@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>102378</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Chandler, Joseph Ripley</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="1">
+                <name>Chandler, Joseph Ripley</name>
+                <source-url>https://history.state.gov/departmenthistory/people/chandler-joseph-ripley</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Joseph R. Chandler</name>
+                <source-url>https://history.state.gov/departmenthistory/people/chandler-joseph-ripley</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1792</birth-year>
+    <death-year>1880</death-year>
+    <remarks variants="1">
+        <remark source-urls="1">
+            <p>Non-career appointee. Minister Resident (Kingdom of the Two Sicilies).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/chandler-joseph-ripley</source-url>
+        </remark>
+    </remarks>
+</person>

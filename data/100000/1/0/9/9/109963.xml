@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>109963</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Nuñez Portuondo, Emilio</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="1">
+                <name>Nuñez Portuondo, Emilio</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v06/persons#p_NPE1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Portuondo</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v06/persons#p_P1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="2">
+        <remark source-urls="1">
+            <p>Cuban Ambassador to the United Nations until January 1959</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v06/persons#p_NPE1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>see Nuñez Portuondo</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v06/persons#p_P1</source-url>
+        </remark>
+    </remarks>
+</person>

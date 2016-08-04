@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>110885</id>
+    <authorities>
+        <authority service="viaf">36913207</authority>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Portillo, Jose Lopez</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="1">
+                <name>President Jose Lopez Portillo</name>
+                <source-url>https://history.state.gov/departmenthistory/visits/mexico</source-url>
+            </original>
+            <original source-urls="1">
+                <name>President-elect Jose Lopez Portillo</name>
+                <source-url>https://history.state.gov/departmenthistory/visits/mexico</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Portillo, Jose Lopez</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v30/persons#p_LPJ_1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="3">
+        <remark source-urls="1">
+            <p>President, Mexico. Visited U.S. 4 times, 1977–1981</p>
+            <source-url>https://history.state.gov/departmenthistory/visits/mexico</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>President-elect, Mexico. Visited U.S. once, 1976</p>
+            <source-url>https://history.state.gov/departmenthistory/visits/mexico</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>President of Mexico</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v30/persons#p_LPJ_1</source-url>
+        </remark>
+    </remarks>
+</person>

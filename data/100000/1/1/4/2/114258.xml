@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>114258</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Wang Shih-chieh</name>
+        </preferred>
+        <alternates>
+            <name>Wang Shijie</name>
+        </alternates>
+        <originals variants="3">
+            <original source-urls="3">
+                <name>Wang Shih-chieh</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv02/persons#p_WS1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945Malta/persons#p_WS1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1947v02/persons#p_WSC1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Shih-chieh</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1946v03/persons#p_SC1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Wang Shih-chieh, Dr.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1946v03/persons#p_WSC1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="1">
+            <title source-urls="1">
+                <name>Dr.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1946v03/persons#p_WSC1</source-url>
+            </title>
+        </titles-from-name>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="5">
+        <remark source-urls="1">
+            <p>Chinese Minister of Information (to July 30); Minister of Foreign Affairs (from July 30).</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv02/persons#p_WS1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Chinese Minister of Information.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1945Malta/persons#p_WS1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>See Wang Shih-chieh.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1946v03/persons#p_SC1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Chief of the Chinese Delegation; Minister for Foreign Affairs of China</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1946v03/persons#p_WSC1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Chinese Foreign Minister</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1947v02/persons#p_WSC1</source-url>
+        </remark>
+    </remarks>
+</person>

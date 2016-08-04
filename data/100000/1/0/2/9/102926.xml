@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>102926</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Covey, James P.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="6">
+                <name>Covey, James P.</name>
+                <source-url>https://history.state.gov/departmenthistory/people/covey-james-p</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v28/persons#p_CJP_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve11p1/persons#p_CJP_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve11p2/persons#p_CJP_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve12/persons#p_covey-james-p</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve14p2/persons#p_CJP_1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1944</birth-year>
+    <death-year/>
+    <remarks variants="6">
+        <remark source-urls="1">
+            <p>Foreign Service Officer. Assistant Secretary of State for South and Central Asian Affairs.</p>
+            <source-url>https://history.state.gov/departmenthistory/people/covey-james-p</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Office of the Secretary of State</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v28/persons#p_CJP_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Department Duty Officer, Operations Center, Executive Secretariat, Office of the Secretary, from 1974</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve11p1/persons#p_CJP_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Department Duty Officer, Operations Center, Office of the Secretariat Staff, Department of State, from 1974</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve11p2/persons#p_CJP_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Special Assistant to the Secretary of State</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve12/persons#p_covey-james-p</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Special Assistant to the Secretary of State from 1976</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve14p2/persons#p_CJP_1</source-url>
+        </remark>
+    </remarks>
+</person>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>110886</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Posner, Michael H.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="1">
+                <name>Posner, Michael H.</name>
+                <source-url>https://history.state.gov/departmenthistory/people/posner-michael-h</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1950</birth-year>
+    <death-year/>
+    <remarks variants="1">
+        <remark source-urls="1">
+            <p>Non-career appointee. Assistant Secretary of State for Democracy, Human Rights, and Labor.</p>
+            <source-url>https://history.state.gov/departmenthistory/people/posner-michael-h</source-url>
+        </remark>
+    </remarks>
+</person>

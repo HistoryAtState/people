@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>104200</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Feldman, George Joseph</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="1">
+                <name>Feldman, George</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v41/persons#p_FG_1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Feldman, George Joseph</name>
+                <source-url>https://history.state.gov/departmenthistory/people/feldman-george-joseph</source-url>
+            </original>
+            <original source-urls="1">
+                <name>George J. Feldman</name>
+                <source-url>https://history.state.gov/departmenthistory/people/feldman-george-joseph</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1904</birth-year>
+    <death-year>1994</death-year>
+    <remarks variants="2">
+        <remark source-urls="1">
+            <p>U.S. Ambassador to Malta from July 1965 until November 1967</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v41/persons#p_FG_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Non-career appointee. Ambassador Extraordinary and Plenipotentiary (Malta); Ambassador Extraordinary and Plenipotentiary (Luxembourg).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/feldman-george-joseph</source-url>
+        </remark>
+    </remarks>
+</person>

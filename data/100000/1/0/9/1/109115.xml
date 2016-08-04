@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>109115</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Michel, Robert Henry</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="1">
+                <name>Michel, Robert H.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v10/persons#p_MRH1</source-url>
+            </original>
+            <original source-urls="2">
+                <name>Michel, Robert Henry</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v35/persons#p_MRH_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1981-88v03/persons#p_MRH_1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Michel, Robert</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v38p2/persons#p_MR_1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="4">
+        <remark source-urls="1">
+            <p>Republican Representative from Illinois; House Minority Whip</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v10/persons#p_MRH1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>member, U.S. House of Representatives (R-Illinois)</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v35/persons#p_MRH_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Representative (R–Illinois); Minority Whip</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v38p2/persons#p_MR_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Congressman (R-Illinois), House Minority Leader</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1981-88v03/persons#p_MRH_1</source-url>
+        </remark>
+    </remarks>
+</person>

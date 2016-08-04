@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>106445</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Ismay, Hastings Lionel</name>
+        </preferred>
+        <alternates/>
+        <originals variants="8">
+            <original source-urls="1">
+                <name>Ismay, Sir Hastings Lionel</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1943CairoTehran/persons#p_ISHL1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Ismay, General Sir Hastings</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv01/persons#p_IGSH1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Ismay, Hastings Lionel</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv02/persons#p_IGSH1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Ismay, General Sir Hastings Lionel</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945Malta/persons#p_I1</source-url>
+            </original>
+            <original source-urls="2">
+                <name>Ismay, Lord (Hastings Lionel Ismay)</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v05p1/persons#p_ISMAYLHLI1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v05p2/persons#p_ISMAYLHLI1</source-url>
+            </original>
+            <original source-urls="2">
+                <name>Ismay, Hastings L.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v06p1/persons#p_ISMAYHL1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v06p2/persons#p_ISMAYHL1</source-url>
+            </original>
+            <original source-urls="2">
+                <name>Ismay, General Lord Hasings Lionel</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v09p1/persons#p_IGL1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v09p2/persons#p_IGL1</source-url>
+            </original>
+            <original source-urls="4">
+                <name>Ismay, Baron Hastings Lionel</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v04/persons#p_IBHL1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v24/persons#p_IBHL1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v25/persons#p_IBHL1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v27/persons#p_IBHL1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="5">
+            <title source-urls="1">
+                <name>Sir</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1943CairoTehran/persons#p_ISHL1</source-url>
+            </title>
+            <title source-urls="2">
+                <name>General Sir</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv01/persons#p_IGSH1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945Malta/persons#p_I1</source-url>
+            </title>
+            <title source-urls="2">
+                <name>Lord</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v05p1/persons#p_ISMAYLHLI1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v05p2/persons#p_ISMAYLHLI1</source-url>
+            </title>
+            <title source-urls="2">
+                <name>General; Lord</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v09p1/persons#p_IGL1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v09p2/persons#p_IGL1</source-url>
+            </title>
+            <title source-urls="4">
+                <name>Baron</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v04/persons#p_IBHL1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v24/persons#p_IBHL1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v25/persons#p_IBHL1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v27/persons#p_IBHL1</source-url>
+            </title>
+        </titles-from-name>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="7">
+        <remark source-urls="1">
+            <p>Lieutenant General, Deputy Secretary (Military) to the War Cabinet and Chief of Staff to the Minister of Defence.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1943CairoTehran/persons#p_ISHL1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Chief of Staff to the British Minister of Defence.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv01/persons#p_IGSH1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv02/persons#p_IGSH1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>British Chief of Staff to the Minister of Defence and Deputy Secretary (Military) to the War Cabinet.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1945Malta/persons#p_I1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>British Secretary of State for Commonwealth Relations until March 12, 1952; thereafter Secretary General and Vice Chairman of the North Atlantic Treaty Organization.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v05p1/persons#p_ISMAYLHLI1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v05p2/persons#p_ISMAYLHLI1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>(Baron of Wormington), Lord Ismay (Pug), British Secretary of State for Commonwealth Relations until March 12, 1952; thereafter Secretary General and Vice Chairman of the North Atlantic Council.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v06p1/persons#p_ISMAYHL1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v06p2/persons#p_ISMAYHL1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>British Secretary of State for Commonwealth Relations until March 12, 1952; thereafter Vice Chairman of the North Atlantic Council and Secretary–General of NATO.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v09p1/persons#p_IGL1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v09p2/persons#p_IGL1</source-url>
+        </remark>
+        <remark source-urls="4">
+            <p>Secretary General of the North Atlantic Treaty Organization until April 1957</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v04/persons#p_IBHL1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v24/persons#p_IBHL1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v25/persons#p_IBHL1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v27/persons#p_IBHL1</source-url>
+        </remark>
+    </remarks>
+</person>

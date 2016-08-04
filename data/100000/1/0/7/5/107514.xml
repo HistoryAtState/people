@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>107514</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Kux, Dennis</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="3">
+                <name>Kux, Dennis</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v37/persons#p_KD_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve08/persons#p_KD3</source-url>
+                <source-url>https://history.state.gov/departmenthistory/people/kux-dennis</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1931</birth-year>
+    <death-year/>
+    <remarks variants="3">
+        <remark source-urls="1">
+            <p>Acting Director, Office of Bhutan, India, Maldives, Nepal, Sri Lanka Affairs, Bureau of Near Eastern and South Asian Affairs, Department of State, 1975</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v37/persons#p_KD_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Country Director for Bhutan, India, Maldives, Nepal, and Sri Lanka, Bureau of Near Eastern and South Asian Affairs, Department of State, from 1972 to 1977</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve08/persons#p_KD3</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Foreign Service Officer. Ambassador Extraordinary and Plenipotentiary (Côte d’Ivoire).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/kux-dennis</source-url>
+        </remark>
+    </remarks>
+</person>

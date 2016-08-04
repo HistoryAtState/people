@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>109931</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Norton, Garrison</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="1">
+                <name>Norton, Garrison</name>
+                <source-url>https://history.state.gov/departmenthistory/people/norton-garrison</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1900</birth-year>
+    <death-year>1995</death-year>
+    <remarks variants="1">
+        <remark source-urls="1">
+            <p>Non-career appointee. Assistant Secretary of State for Transportation and Communication.</p>
+            <source-url>https://history.state.gov/departmenthistory/people/norton-garrison</source-url>
+        </remark>
+    </remarks>
+</person>

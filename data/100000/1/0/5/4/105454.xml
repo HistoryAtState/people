@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>105454</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Hamilton, Edward K.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="1">
+                <name>Hamilton, Edward R.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v09/persons#p_HEK1</source-url>
+            </original>
+            <original source-urls="4">
+                <name>Hamilton, Edward</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v23/persons#p_HED_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v24/persons#p_HEK1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v26/persons#p_HEK1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v33/persons#p_HEK1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Hamilton, Edward K.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v25/persons#p_HEK1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="6">
+        <remark source-urls="1">
+            <p>member of the National Security Council Staff, September 1965–December 1968</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v09/persons#p_HEK1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>member, National Security Council Staff, October 1965 until December 1968</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v23/persons#p_HED_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>member, National Security Council Staff, October 1965–December 1968</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v24/persons#p_HEK1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Member of the National Security Council Staff, October 1965–December 1968</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v25/persons#p_HEK1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>senior staff member (on detail from the Bureau of the Budget), National Security Council, October 1965–December 1968</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v26/persons#p_HEK1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>member of the National Security Council Staff October 1965–December 1968</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v33/persons#p_HEK1</source-url>
+        </remark>
+    </remarks>
+</person>

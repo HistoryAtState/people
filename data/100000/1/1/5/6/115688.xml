@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>115688</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Kelley, Clarence M.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="1">
+                <name>Kelley, Clarence M.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v28/persons#p_KCM_1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="1">
+        <remark source-urls="1">
+            <p>Director of the Federal Bureau of Investigation until February 1978</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v28/persons#p_KCM_1</source-url>
+        </remark>
+    </remarks>
+</person>

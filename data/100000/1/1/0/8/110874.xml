@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>110874</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Porter, Dwight Johnson</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="5">
+                <name>Porter, Dwight J.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v18/persons#p_PDJ1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v19/persons#p_PDJ1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v20/persons#p_PDJ1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve01/persons#p_PDJ1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve08/persons#p_PDJ1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Porter, Dwight Johnson</name>
+                <source-url>https://history.state.gov/departmenthistory/people/porter-dwight-johnson</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Dwight J. Porter</name>
+                <source-url>https://history.state.gov/departmenthistory/people/porter-dwight-johnson</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1916</birth-year>
+    <death-year>2006</death-year>
+    <remarks variants="5">
+        <remark source-urls="1">
+            <p>Ambassador to Lebanon from June 1965</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v18/persons#p_PDJ1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Ambassador to Lebanon</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v19/persons#p_PDJ1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v20/persons#p_PDJ1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>U.S. Ambassador to Lebanon</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve01/persons#p_PDJ1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Deputy U.S. Representative, IAEA Vienna</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve08/persons#p_PDJ1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Foreign Service Officer. Assistant Secretary of State for Administration; Ambassador Extraordinary and Plenipotentiary (Lebanon).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/porter-dwight-johnson</source-url>
+        </remark>
+    </remarks>
+</person>

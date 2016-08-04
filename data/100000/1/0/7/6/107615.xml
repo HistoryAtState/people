@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>107615</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Lancaster, Bruce M.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="1">
+                <name>Lancaster, Bruce M.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v12/persons#p_LBM1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Lancaster, Bruce M.,</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve10/persons#p_LBM1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="2">
+        <remark source-urls="1">
+            <p>officer in charge Argentine Affairs, Office of East Coast Affairs, Bureau of Inter-American Affairs, from June 1962</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v12/persons#p_LBM1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Director, Office of Ecuador and Peru from May 1971</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve10/persons#p_LBM1</source-url>
+        </remark>
+    </remarks>
+</person>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>106046</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Holloway, Anne Forrester</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="1">
+                <name>Holloway, Anne</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v02/persons#p_HA_2</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Holloway, Anne Forrester</name>
+                <source-url>https://history.state.gov/departmenthistory/people/holloway-anne-forrester</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1941</birth-year>
+    <death-year>2006</death-year>
+    <remarks variants="2">
+        <remark source-urls="1">
+            <p>Special Assistant to the Assistant Secretary of State for International Organization Affairs</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v02/persons#p_HA_2</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Non-career appointee. Ambassador Extraordinary and Plenipotentiary (Mali).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/holloway-anne-forrester</source-url>
+        </remark>
+    </remarks>
+</person>

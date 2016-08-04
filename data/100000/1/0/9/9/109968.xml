@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>109968</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Nuschke, Otto</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="6">
+                <name>Nuschke, Otto</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1947v02/persons#p_NO1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1949v03/persons#p_NO1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v03p1/persons#p_NO1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v03p2/persons#p_NO1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v07p1/persons#p_NO1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v07p2/persons#p_NO1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="4">
+        <remark source-urls="1">
+            <p>member of the Christian Democratic Union Executive Committee and Landtag Deputy in Saxony-Anhalt and Brandenburg</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1947v02/persons#p_NO1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Chairman of the CDU in the Soviet Zone of Germany; Co-President of third Volkskongress.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1949v03/persons#p_NO1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Chairman; Christian Democratic Union in East Germany; Deputy Prime Minister of the German Democratic Republic.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1951v03p1/persons#p_NO1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1951v03p2/persons#p_NO1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Deputy Prime Minister of the German Democratic Republic.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v07p1/persons#p_NO1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v07p2/persons#p_NO1</source-url>
+        </remark>
+    </remarks>
+</person>

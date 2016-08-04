@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>115805</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Maniadakis, Constantine</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="1">
+                <name>Maniadakis, Constantine</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v05/persons#p_MC2</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="1">
+        <remark source-urls="1">
+            <p>joint leader of the Greek Politike Anexartetos Parataxis (Independent Political Array).</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1951v05/persons#p_MC2</source-url>
+        </remark>
+    </remarks>
+</person>

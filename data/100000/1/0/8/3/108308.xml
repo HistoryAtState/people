@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>108308</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>MacNeil, Robert</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="2">
+                <name>MacNeil, Robert</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve14p2/persons#p_MR_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v01/persons#p_MR_2</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="2">
+        <remark source-urls="1">
+            <p>correspondent, British Broadcasting Corporation</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve14p2/persons#p_MR_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>co-anchor, PBS The Mac-Neil-Lerher Report (later Mac-Neil Lerher Newshour)</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v01/persons#p_MR_2</source-url>
+        </remark>
+    </remarks>
+</person>

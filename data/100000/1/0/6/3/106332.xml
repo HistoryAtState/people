@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>106332</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Hutcheson, Richard G., III</name>
+        </preferred>
+        <alternates/>
+        <originals variants="4">
+            <original source-urls="2">
+                <name>Hutcheson, Richard</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v37/persons#p_HR_3</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v02/persons#p_HR_3</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Hutcheson, Richard G., Ill</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v01/persons#p_HRG_1</source-url>
+            </original>
+            <original source-urls="2">
+                <name>Hutcheson, Richard G., III</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v03/persons#p_HRG3_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v30/persons#p_HRG_1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Hutcheson, Richard G.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v21/persons#p_HRG_1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="3">
+        <remark source-urls="4">
+            <p>White House Staff Secretary</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v37/persons#p_HR_3</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v02/persons#p_HR_3</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v03/persons#p_HRG3_1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v30/persons#p_HRG_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>White House Staff Secretary from January 1977 until January 1981</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v01/persons#p_HRG_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>White House Staff Secretary, Staff Secretary’s Office</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v21/persons#p_HRG_1</source-url>
+        </remark>
+    </remarks>
+</person>

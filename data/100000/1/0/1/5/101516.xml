@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>101516</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Bomboko, Justin Marie</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="4">
+                <name>Bomboko, Justin</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v02/persons#p_BJM2</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v14/persons#p_BJM2</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v20/persons#p_JB1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v23/persons#p_BJU_1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Bomboko, Justin Marie</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v05/persons#p_BJM2</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="5">
+        <remark source-urls="1">
+            <p>Foreign Minister of the Republic of the Congo from July 1960</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v02/persons#p_BJM2</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Foreign Minister of the Republic of the Congo, June–September 1960; President of the Congolese College of Commissioners and Commissioner for Foreign Affairs from October 1960</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v14/persons#p_BJM2</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>President of the Congolese College of Commissioners and Commissioner for Foreign Affairs until February 1961; Foreign Minister, February 1961–April 1963; thereafter Minister of Justice</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v20/persons#p_JB1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>President of the Congolese College of Commissioners and Commissioner for Foreign Affairs from October 4, 1960 until February 9, 1961; Foreign Minister from February 1961 until April 1963; Congolese Minister of Foreign Affairs from 1965; concurrently Minister of Industry and Foreign Trade from 1967</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v23/persons#p_BJU_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Foreign Minister, Democratic Republic of the Congo (Kinshasa), 1969</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v05/persons#p_BJM2</source-url>
+        </remark>
+    </remarks>
+</person>

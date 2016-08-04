@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>107249</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Kishilov, Nikolai S.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="2">
+                <name>Kishilov, Nikolai S.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v13/persons#p_KNS2</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v14/persons#p_KNS1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="2">
+        <remark source-urls="1">
+            <p>First Secretary, International Organizations Department, Soviet Ministry of Foreign Affairs; also General Secretary and Senior Adviser, Soviet Delegation to the Strategic Arms Limitation Talks</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v13/persons#p_KNS2</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>First Secretary, International Organizations Department, Soviet Ministry of Foreign Affairs; also General Secretary and Senior Adviser, Soviet Delegation to the Strategic Arms Limitation Talks (SALT I)</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v14/persons#p_KNS1</source-url>
+        </remark>
+    </remarks>
+</person>

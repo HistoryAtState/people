@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>110490</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Peaslee, Amos Jenkins, II</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="4">
+                <name>Peaslee, Amos J.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v16/persons#p_PAJ1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v10/persons#p_PAJ1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v20/persons#p_PAJ1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v21/persons#p_PAJ1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Peaslee, Amos Jenkins, II</name>
+                <source-url>https://history.state.gov/departmenthistory/people/peaslee-amos-jenkins</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Amos J. Peaslee</name>
+                <source-url>https://history.state.gov/departmenthistory/people/peaslee-amos-jenkins</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1887</birth-year>
+    <death-year>1969</death-year>
+    <remarks variants="5">
+        <remark source-urls="1">
+            <p>Ambassador in Australia.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v16/persons#p_PAJ1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Special Assistant to the President</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v10/persons#p_PAJ1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Ambassador to Australia until February 1956; thereafter Deputy Special Assistant to President Eisenhower</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v20/persons#p_PAJ1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Ambassador to Australia to February 1956; thereafter Deputy Special Assistant to the President, assigned to the area of disarmament</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v21/persons#p_PAJ1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Non-career appointee. Ambassador Extraordinary and Plenipotentiary (Australia).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/peaslee-amos-jenkins</source-url>
+        </remark>
+    </remarks>
+</person>

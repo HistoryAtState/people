@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>104676</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Galloway, William J.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="5">
+                <name>Galloway, William J.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v05p1/persons#p_GALLOWAYWJ1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v05p2/persons#p_GALLOWAYWJ1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v05/persons#p_GWJ1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v26/persons#p_GWJ1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v09/persons#p_GWJ1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="3">
+        <remark source-urls="2">
+            <p>Special Assistant in the Embassy in the United Kingdom after October 1950; Special Assistant in the Embassy in France after April 1952; Special Assistant to the Counselor of the Department of State after July 1953.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v05p1/persons#p_GALLOWAYWJ1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v05p2/persons#p_GALLOWAYWJ1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Special Assistant to the Counselor of the Department of State</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v05/persons#p_GWJ1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v26/persons#p_GWJ1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>First Secretary of the Embassy in Austria until March 1959</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v09/persons#p_GWJ1</source-url>
+        </remark>
+    </remarks>
+</person>

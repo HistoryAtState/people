@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>100038</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Abdullah ibn Salim Al Sabah</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="2">
+                <name>Abdullah ibn Salim Al Sabah</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v05/persons#p_ASS1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v12/persons#p_SSSS1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="2">
+        <remark source-urls="1">
+            <p>Shaikh of Kuwait.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1951v05/persons#p_ASS1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Sheikh, Ruler of Kuwait</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v12/persons#p_SSSS1</source-url>
+        </remark>
+    </remarks>
+</person>

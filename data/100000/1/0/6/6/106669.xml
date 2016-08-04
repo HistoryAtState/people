@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>106669</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Johnson, Peter B.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="3">
+                <name>Johnson, Peter B.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v05/persons#p_JPB1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve11p1/persons#p_JPB_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve11p2/persons#p_JPB_1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="3">
+        <remark source-urls="1">
+            <p>Special Assistant to the Secretary of State, 1971</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v05/persons#p_JPB1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Political Officer, U.S. Embassy in San José, until August 1975; Officer in Charge, Congressional Relations, Public Affairs, Office of Policy Planning, Public and Congressional Affairs, Bureau of Inter-American Affairs, Department of State, from August 1975</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve11p1/persons#p_JPB_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Political Officer, U.S. Embassy in San Jose, until August 1975; Office of Policy Planning, Public and Congressional Affairs, Bureau of Inter-American Affairs, from August 1975</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve11p2/persons#p_JPB_1</source-url>
+        </remark>
+    </remarks>
+</person>

@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>112227</id>
+    <authorities>
+        <authority service="viaf">110151491</authority>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Senghor, Léopold Sédar</name>
+        </preferred>
+        <alternates/>
+        <originals variants="7">
+            <original source-urls="6">
+                <name>Senghor, Leopold Sedar</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v21/persons#p_SLS1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v24/persons#p_SLS1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v05/persons#p_SLS1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve05p1/persons#p_SLS1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve05p2/persons#p_SLS1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v08/persons#p_SLS_1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Senghor, Leopold S.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v28/persons#p_SLS_1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Senghor, Léopold Sédar</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve06/persons#p_SLS1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Senghor, Leopold</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v01/persons#p_SL_1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>President Leopold Sedar Senghor</name>
+                <source-url>https://history.state.gov/departmenthistory/visits/senegal</source-url>
+            </original>
+            <original source-urls="1">
+                <name>President Leopold-Sedar Senghor</name>
+                <source-url>https://history.state.gov/departmenthistory/visits/senegal</source-url>
+            </original>
+            <original source-urls="1">
+                <name>President Senghor</name>
+                <source-url>https://history.state.gov/departmenthistory/visits/senegal</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="5">
+        <remark source-urls="8">
+            <p>President of Senegal</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v21/persons#p_SLS1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v24/persons#p_SLS1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v05/persons#p_SLS1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v28/persons#p_SLS_1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve05p1/persons#p_SLS1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve05p2/persons#p_SLS1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v01/persons#p_SL_1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v08/persons#p_SLS_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>President of Senegal from 1960 to 1980</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve06/persons#p_SLS1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>President, Senegal. Visited U.S. once, 1966</p>
+            <source-url>https://history.state.gov/departmenthistory/visits/senegal</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>President, Senegal. Visited U.S. 4 times, 1971–1980</p>
+            <source-url>https://history.state.gov/departmenthistory/visits/senegal</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>President, Senegal. Visited U.S. once, 1961</p>
+            <source-url>https://history.state.gov/departmenthistory/visits/senegal</source-url>
+        </remark>
+    </remarks>
+</person>

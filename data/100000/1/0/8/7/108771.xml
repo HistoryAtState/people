@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>108771</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>McClellan, John Little</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="10">
+                <name>McClellan, John L.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v03p1/persons#p_MJL1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v03p2/persons#p_MJL1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v22/persons#p_MCJL1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v10/persons#p_MJL1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v16/persons#p_MJL_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v25/persons#p_MJL_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v33/persons#p_MJL_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v38p1/persons#p_MJL_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v38p2/persons#p_MJL_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v39/persons#p_MCJL1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>McClellan, John</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v26/persons#p_MJ_1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>McClellan, John Little</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v35/persons#p_MJL_1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="9">
+        <remark source-urls="2">
+            <p>Senator from Arkansas.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1951v03p1/persons#p_MJL1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1951v03p2/persons#p_MJL1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Democratic Senator from Arkansas</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v22/persons#p_MCJL1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v25/persons#p_MJL_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Democratic Senator from Arkansas; Chairman of the Senate Appropriations Committee</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v10/persons#p_MJL1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Senator (D–Arkansas)</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v16/persons#p_MJL_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Senator (R-Arkansas)</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v26/persons#p_MJ_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Senator (D-Arkansas)</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v33/persons#p_MJL_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Senator (D-Arkansas) and Chairman of the Senate Committee on Appropriations</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v35/persons#p_MJL_1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Senator (D–Arkansas); Chairman, Committee on Appropriations</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v38p1/persons#p_MJL_1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v38p2/persons#p_MJL_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Senator (D–Arkansas), Chairman of the Defense Subcommittee of the Senate Appropriations Committee</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v39/persons#p_MCJL1</source-url>
+        </remark>
+    </remarks>
+</person>

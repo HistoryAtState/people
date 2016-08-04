@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>114859</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Yakubovsky, Ivan Ignatievich</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="1">
+                <name>Yakubovski, General Ivan Ignatievich</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v09/persons#p_YGII1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Yakubovsky, Marshal of the Soviet Union Ivan I.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v15/persons#p_YMSUII1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="2">
+            <title source-urls="1">
+                <name>General</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v09/persons#p_YGII1</source-url>
+            </title>
+            <title source-urls="1">
+                <name>Marshal of the Soviet Union</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v15/persons#p_YMSUII1</source-url>
+            </title>
+        </titles-from-name>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="2">
+        <remark source-urls="1">
+            <p>Commander in Chief, Soviet Army Group, German Democratic Republic</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v09/persons#p_YGII1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Commander in Chief, Group of Soviet Forces in Germany from 1962</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v15/persons#p_YMSUII1</source-url>
+        </remark>
+    </remarks>
+</person>

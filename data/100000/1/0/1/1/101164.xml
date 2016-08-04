@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>101164</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Benites, Leopoldo</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="3">
+                <name>Benites, Leopoldo</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v25/persons#p_BL6</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v05/persons#p_BL1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v25/persons#p_BL_2</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="3">
+        <remark source-urls="1">
+            <p>Permanent Representative of Ecuador at the United Nations</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v25/persons#p_BL6</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Ecuadorian Deputy Representative to the United Nations; Chairman of the Preparatory Committee on the Tenth Anniversary of the Declaration on Granting Independence to Colonial Countries and Peoples</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v05/persons#p_BL1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>President of the United Nations General Assembly</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v25/persons#p_BL_2</source-url>
+        </remark>
+    </remarks>
+</person>

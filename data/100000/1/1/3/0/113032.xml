@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>113032</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Stimpson, Harry Farnum, Jr.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="4">
+            <original source-urls="2">
+                <name>Stimpson, Harry F., Jr.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v04/persons#p_SHFJ1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v08/persons#p_SHFJ1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Stimpson, Henry F., Jr.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v05/persons#p_SHEJ1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Stimpson, Harry Farnum, Jr.</name>
+                <source-url>https://history.state.gov/departmenthistory/people/stimpson-harry-farnum</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Harry F. Stimpson Jr.</name>
+                <source-url>https://history.state.gov/departmenthistory/people/stimpson-harry-farnum</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1913</birth-year>
+    <death-year>2005</death-year>
+    <remarks variants="4">
+        <remark source-urls="1">
+            <p>Special Assistant to the Under Secretary of State until July 1959; Special Assistant in the Office of the Secretary of State, July-September 1959</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v04/persons#p_SHFJ1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Special Assistant to the Under Secretary of State until July 1959; Special Assistant, Office of the Secretary of State, July–September 1959; Ambassador to Paraguay from October 1959</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v05/persons#p_SHEJ1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Special Assistant, Office of the Secretary of State, until July 1959</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v08/persons#p_SHFJ1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Non-career appointee. Ambassador Extraordinary and Plenipotentiary (Paraguay).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/stimpson-harry-farnum</source-url>
+        </remark>
+    </remarks>
+</person>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>105202</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Griffis, Stanton</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="6">
+                <name>Griffis, Stanton</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1948v02/persons#p_GS1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v04p1/persons#p_GS1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v04p2/persons#p_GS1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v06p1/persons#p_GRIFFISS1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v06p2/persons#p_GRIFFISS1</source-url>
+                <source-url>https://history.state.gov/departmenthistory/people/griffis-stanton</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1887</birth-year>
+    <death-year>1974</death-year>
+    <remarks variants="4">
+        <remark source-urls="1">
+            <p>United States Ambassador in Poland, July 1947–June 1948</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1948v02/persons#p_GS1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Ambassador to Spain, appointed February 1, 1951</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1951v04p1/persons#p_GS1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1951v04p2/persons#p_GS1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Ambassador in Spain, March 1, 1951–January 28, 1952.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v06p1/persons#p_GRIFFISS1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v06p2/persons#p_GRIFFISS1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Non-career appointee. Ambassador Extraordinary and Plenipotentiary (Spain); Ambassador Extraordinary and Plenipotentiary (Poland); Ambassador Extraordinary and Plenipotentiary (Egypt); Ambassador Extraordinary and Plenipotentiary (Argentina).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/griffis-stanton</source-url>
+        </remark>
+    </remarks>
+</person>

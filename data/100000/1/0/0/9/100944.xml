@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>100944</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Barrow, John R.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="5">
+                <name>Barrow, John R.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v05/persons#p_BJR1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v09p1/persons#p_BJR1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v09p2/persons#p_BJR1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v17/persons#p_BJR2</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v18/persons#p_BJR2</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="3">
+        <remark source-urls="1">
+            <p>Office of Near Eastern Affairs, Department of State; Political Officer at the Embassy in Iraq, from September 1951; Second Secretary of the Embassy and Counselor, from October 1951.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1951v05/persons#p_BJR1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Second Secretary and Consul of the Embassy in Iraq until June 25, 1954; thereafter Consul General at Nairobi.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v09p1/persons#p_BJR1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v09p2/persons#p_BJR1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Officer in Charge of United Arab Republic Affairs, August 6, 1961–July 7, 1963</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v17/persons#p_BJR2</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v18/persons#p_BJR2</source-url>
+        </remark>
+    </remarks>
+</person>

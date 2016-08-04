@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>106424</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Irving, Frederick</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="3">
+                <name>Irving, Frederick</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve03/persons#p_IF1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve15p2/persons#p_IF_1</source-url>
+                <source-url>https://history.state.gov/departmenthistory/people/irving-frederick</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1921</birth-year>
+    <death-year/>
+    <remarks variants="3">
+        <remark source-urls="1">
+            <p>Assistant Secretary for Oceans and International and Scientific Affairs, Department of State</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve03/persons#p_IF1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Ambassador to Iceland from September 1972 until April 1976</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve15p2/persons#p_IF_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Foreign Service Officer. Assistant Secretary of State for Oceans and International Environmental and Scientific Affairs; Ambassador Extraordinary and Plenipotentiary (Jamaica); Ambassador Extraordinary and Plenipotentiary (Iceland).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/irving-frederick</source-url>
+        </remark>
+    </remarks>
+</person>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>115661</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Jiménez, Ramón Emilio, Jr.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="1">
+                <name>Jiménez, Ramón Emilio, Jr.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve11p1/persons#p_JRE_1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="1">
+        <remark source-urls="1">
+            <p>Rear Admiral, Dominican Navy, Dominican Secretary of State for the Armed Forces from July 1971 until June 1975; Dominican Foreign Secretary, from June 1975</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve11p1/persons#p_JRE_1</source-url>
+        </remark>
+    </remarks>
+</person>

@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>111829</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Salazar, Antonio de Oliveira</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="15">
+                <name>Salazar, Antonio de Oliveira</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1943CairoTehran/persons#p_SAdO1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv02/persons#p_SAO1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v03p1/persons#p_SADO1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v03p2/persons#p_SADO1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v05p1/persons#p_SALAZARAO1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v05p2/persons#p_SALAZARAO1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v06p1/persons#p_SALAZARAO1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v06p2/persons#p_SALAZARAO1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v07p1/persons#p_SAO1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v07p2/persons#p_SAO1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v13/persons#p_SADO1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v21/persons#p_SAO1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v12/persons#p_SAO1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v24/persons#p_SAO1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v41/persons#p_SAO_1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Salazar, Antonio Oliviera</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v27/persons#p_SAO1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="10">
+        <remark source-urls="1">
+            <p>President of the Council of Ministers, Minister of Foreign Affairs, and Minister of War of Portugal.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1943CairoTehran/persons#p_SAdO1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>President of the Portuguese Council of Ministers; Minister of Foreign Affairs.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv02/persons#p_SAO1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Portuguese Prime Minister.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1951v03p1/persons#p_SADO1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1951v03p2/persons#p_SADO1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Prime Minister of Portugal after 1932.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v05p1/persons#p_SALAZARAO1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v05p2/persons#p_SALAZARAO1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Prime Minister of Portugal from 1932.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v06p1/persons#p_SALAZARAO1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v06p2/persons#p_SALAZARAO1</source-url>
+        </remark>
+        <remark source-urls="3">
+            <p>Portuguese Prime Minister</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v27/persons#p_SAO1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v07p1/persons#p_SAO1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v07p2/persons#p_SAO1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>President of the Council of Ministers of Portugal</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v13/persons#p_SADO1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Prime Minister of Portugal</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v21/persons#p_SAO1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v24/persons#p_SAO1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Portuguese Prime Minister until September 26, 1968</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v12/persons#p_SAO1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Portuguese Prime Minister until September 1968</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v41/persons#p_SAO_1</source-url>
+        </remark>
+    </remarks>
+</person>

@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>100561</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Arif, Abd al-Salam Muhammad</name>
+        </preferred>
+        <alternates/>
+        <originals variants="7">
+            <original source-urls="1">
+                <name>Arif, Abd al-Salim Muhammad</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v12/persons#p_AASM1</source-url>
+            </original>
+            <original source-urls="2">
+                <name>Arif, Colonel Abdul Salam Muhammad</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v17/persons#p_AACA1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v18/persons#p_AACA1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Aref, Field Marshal Abdul Salam Muhammad</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v21/persons#p_AACA1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Aref, Lieutenant General Abdul Rahman Muhammad</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v21/persons#p_AAGAR1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Arif [Aref], Colonel Abdul Salam Muhammad</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v34/persons#p_AACA1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Arif [Aref], General Abdul Rahman</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v34/persons#p_AAGAR1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Arif, Abd al-Salam Muhammad</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v18/persons#p_AAS_2</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="4">
+            <title source-urls="3">
+                <name>Colonel</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v17/persons#p_AACA1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v18/persons#p_AACA1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v34/persons#p_AACA1</source-url>
+            </title>
+            <title source-urls="1">
+                <name>Field Marshal</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v21/persons#p_AACA1</source-url>
+            </title>
+            <title source-urls="1">
+                <name>Lieutenant General</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v21/persons#p_AAGAR1</source-url>
+            </title>
+            <title source-urls="1">
+                <name>General</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v34/persons#p_AAGAR1</source-url>
+            </title>
+        </titles-from-name>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="7">
+        <remark source-urls="1">
+            <p>Iraqi Deputy Prime Minister, Deputy Commander in Chief, Minister of Interior, July–October, 1958; Iraqi Ambassador to West Germany, October–November, 1958; returned to Iraq, arrested</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v12/persons#p_AASM1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>President of Iraq from February 8, 1963</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v17/persons#p_AACA1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v18/persons#p_AACA1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>President of Iraq until April 1966</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v21/persons#p_AACA1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>President of Iraq April 1966-July 1968</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v21/persons#p_AAGAR1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>President of Iraq, February 1963–April 1966</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v34/persons#p_AACA1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>President of Iraq beginning April 1966; replaced Naji Talib as Prime Minister in May 1967; overthrown by Major General Ahmed Hassan al-Bakr in July 1968</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v34/persons#p_AAGAR1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>President of Iraq from February 8, 1963, until April 13, 1966</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v18/persons#p_AAS_2</source-url>
+        </remark>
+    </remarks>
+</person>

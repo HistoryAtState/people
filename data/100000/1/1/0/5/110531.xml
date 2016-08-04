@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>110531</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Peng Meng-chi</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="1">
+                <name>Peng Meng-chi, General</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v02/persons#p_PMG1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Peng Meng-chi</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v03/persons#p_PM1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="1">
+            <title source-urls="1">
+                <name>General</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v02/persons#p_PMG1</source-url>
+            </title>
+        </titles-from-name>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="2">
+        <remark source-urls="1">
+            <p>Acting Chief of the General Staff of the Republic of China to June 1955; Chief of the General Staff, June 1955–July 1957; thereafter Commander in Chief of the Army and Taiwan Defense Commander</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v02/persons#p_PMG1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>General, Acting Chief of the General Staff of the Republic of China to June 1955; Chief of the General Staff, June 1955–July 1957; thereafter Commander in Chief of the Army and Taiwan Defense Commander</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v03/persons#p_PM1</source-url>
+        </remark>
+    </remarks>
+</person>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>111000</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Puhan, Alfred</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="7">
+                <name>Puhan, Alfred</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v02/persons#p_PA7</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v23/persons#p_PA1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v11/persons#p_PA7</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v15/persons#p_PA7</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v29/persons#p_PA3</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v40/persons#p_PA1</source-url>
+                <source-url>https://history.state.gov/departmenthistory/people/puhan-alfred</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1913</birth-year>
+    <death-year>2005</death-year>
+    <remarks variants="7">
+        <remark source-urls="1">
+            <p>Deputy Director, Office of International Administration, Bureau of International Organization Affairs, Department of State, until February 1959; Director, Office of International Administration, February 1959–July 1960</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v02/persons#p_PA7</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Counselor and Consul General in the Embassy in Thailand after April 1962</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v23/persons#p_PA1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Director, Office of German Affairs, Bureau of European Affairs, Department of State, August 1964-June 1968; thereafter Acting Deputy Assistant Secretary of State for European Affairs</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v11/persons#p_PA7</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Director of the Office of German Affairs, Bureau of European Affairs, Department of State, August 1964–June 1968; thereafter Acting Deputy Assistant Secretary for European Affairs</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v15/persons#p_PA7</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Ambassador to Hungary from May 1969</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v29/persons#p_PA3</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Acting Deputy Assistant Secretary of State for European Affairs until April 1969; also Director of the Berlin Task Force from March until April 1969; Ambassador to Hungary June 16, 1969</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v40/persons#p_PA1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Foreign Service Officer. Ambassador Extraordinary and Plenipotentiary (Hungary).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/puhan-alfred</source-url>
+        </remark>
+    </remarks>
+</person>

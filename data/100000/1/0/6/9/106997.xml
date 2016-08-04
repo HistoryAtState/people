@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>106997</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Kellogg, Frank Billings</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="1">
+                <name>Kellogg, Frank B.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945Malta/persons#p_KFB1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Kellogg, Frank Billings</name>
+                <source-url>https://history.state.gov/departmenthistory/people/kellogg-frank-billings</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Frank B. Kellogg</name>
+                <source-url>https://history.state.gov/departmenthistory/people/kellogg-frank-billings</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1856</birth-year>
+    <death-year>1937</death-year>
+    <remarks variants="2">
+        <remark source-urls="1">
+            <p>Secretary of State, 1925–1929.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1945Malta/persons#p_KFB1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Non-career appointee. Secretary of State; Ambassador Extraordinary and Plenipotentiary (United Kingdom).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/kellogg-frank-billings</source-url>
+        </remark>
+    </remarks>
+</person>

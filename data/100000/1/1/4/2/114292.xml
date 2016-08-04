@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>114292</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Warner, Marvin Leon</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="1">
+                <name>Warner, Marvin</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v03/persons#p_WM_1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Warner, Marvin Leon</name>
+                <source-url>https://history.state.gov/departmenthistory/people/warner-marvin-leon</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Marvin L. Warner</name>
+                <source-url>https://history.state.gov/departmenthistory/people/warner-marvin-leon</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1919</birth-year>
+    <death-year/>
+    <remarks variants="2">
+        <remark source-urls="1">
+            <p>U.S. Ambassador to Switzerland from July 1977 until July 1979</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v03/persons#p_WM_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Non-career appointee. Ambassador Extraordinary and Plenipotentiary (Switzerland).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/warner-marvin-leon</source-url>
+        </remark>
+    </remarks>
+</person>

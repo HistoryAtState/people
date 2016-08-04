@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>107360</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Koo, V.K. Wellington</name>
+        </preferred>
+        <alternates/>
+        <originals variants="5">
+            <original source-urls="2">
+                <name>Koo, V. K. Wellington</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945v01/persons#p_KVKW1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v16/persons#p_KVKW1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Koo, Dr. V. K. Wellington</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1946v03/persons#p_KW1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Wellington Koo, V. K.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1947v02/persons#p_WKVK1</source-url>
+            </original>
+            <original source-urls="2">
+                <name>Koo, Dr. V.K. Wellington</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v14p1/persons#p_KDVKW1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v14p2/persons#p_KDVKW1</source-url>
+            </original>
+            <original source-urls="3">
+                <name>Koo, V.K. Wellington</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v02/persons#p_KVKW1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v03/persons#p_KVKW1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v11/persons#p_KVKW1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="1">
+            <title source-urls="3">
+                <name>Dr.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1946v03/persons#p_KW1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v14p1/persons#p_KDVKW1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v14p2/persons#p_KDVKW1</source-url>
+            </title>
+        </titles-from-name>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="6">
+        <remark source-urls="1">
+            <p>Chinese Ambassador in the United Kingdom; Chinese Delegate; Acting Chairman of the Chinese Delegation.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1945v01/persons#p_KVKW1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Chinese Ambassador in the United States</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1946v03/persons#p_KW1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1947v02/persons#p_WKVK1</source-url>
+        </remark>
+        <remark source-urls="3">
+            <p>Ambassador of the Republic of China in the United States.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v14p1/persons#p_KDVKW1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v14p2/persons#p_KDVKW1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v16/persons#p_KVKW1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Ambassador of the Republic of China to the United States to May 1956; Judge, International Court of Justice, from 1957</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v02/persons#p_KVKW1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Ambassador of the Republic of China to the United States to May 1956; judge, International Court of Justice, from 1957</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v03/persons#p_KVKW1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Chinese Ambassador to the United States through 1956</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v11/persons#p_KVKW1</source-url>
+        </remark>
+    </remarks>
+</person>

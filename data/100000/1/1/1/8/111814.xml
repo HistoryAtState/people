@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>111814</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Sainteny, Jean</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="9">
+                <name>Sainteny, Jean</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v13p1/persons#p_SJ1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v13p2/persons#p_SJ1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v01/persons#p_SJ1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v01/persons#p_SJ1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v04/persons#p_SJ1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v05/persons#p_SJ1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v06/persons#p_SJ1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v07/persons#p_SJ1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v06/persons#p_SJ1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="7">
+        <remark source-urls="2">
+            <p>French Delegate General in the Democratic Republic of Vietnam from September 1954.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v13p1/persons#p_SJ1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v13p2/persons#p_SJ1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Delegate General of France in North Vietnam</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v01/persons#p_SJ1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v01/persons#p_SJ1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>former French colonial official in Indochina who met with North Vietnamese leaders in July 1966</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v04/persons#p_SJ1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>former French colonial official in Indochina and adviser to President Charles de Gaulle</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v05/persons#p_SJ1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>unofficial French envoy to the Democratic Republic of Vietnam</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v06/persons#p_SJ1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>unofficial French envoy to North Vietnam</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v07/persons#p_SJ1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>former French official with contacts to the leadership of the Democratic Republic of Vietnam</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v06/persons#p_SJ1</source-url>
+        </remark>
+    </remarks>
+</person>

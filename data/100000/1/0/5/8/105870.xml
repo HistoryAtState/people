@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>105870</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Hesburgh, Theodore</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="1">
+                <name>Hesburgh, Theodore</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v01/persons#p_HT_1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Hesburgh, Reverend Theodore</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v02/persons#p_HRT_1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Hesburgh, Father Theodore</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v03/persons#p_HFT_1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="2">
+            <title source-urls="1">
+                <name>Reverend</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v02/persons#p_HRT_1</source-url>
+            </title>
+            <title source-urls="1">
+                <name>Father</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v03/persons#p_HFT_1</source-url>
+            </title>
+        </titles-from-name>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="3">
+        <remark source-urls="1">
+            <p>Reverend; President, Notre Dame University until 1977; Chair, Overseas Development Council</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v01/persons#p_HT_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Chairman, Overseas Development Council; member, Interreligious Task Force on World Food Policy; Chairman, Select Commission on Immigration and Refugee Policy; Senior Adviser, U.S. Delegation to the United Nations Pledging Conference on Refugee Relief, 1979</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v02/persons#p_HRT_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>President of the University of Notre Dame</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v03/persons#p_HFT_1</source-url>
+        </remark>
+    </remarks>
+</person>

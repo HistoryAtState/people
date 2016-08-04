@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>108701</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Mayer, Ernest de Wael</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="1">
+                <name>Mayer, Ernest de Wael</name>
+                <source-url>https://history.state.gov/departmenthistory/people/mayer-ernest-de-wael</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Ernest de W. Mayer</name>
+                <source-url>https://history.state.gov/departmenthistory/people/mayer-ernest-de-wael</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1903</birth-year>
+    <death-year>1968</death-year>
+    <remarks variants="1">
+        <remark source-urls="1">
+            <p>Foreign Service Officer. Chargé d'Affaires ad interim (Belgium).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/mayer-ernest-de-wael</source-url>
+        </remark>
+    </remarks>
+</person>

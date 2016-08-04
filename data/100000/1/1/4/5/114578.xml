@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>114578</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Wiley, Marshall Wayne</name>
+        </preferred>
+        <alternates/>
+        <originals variants="4">
+            <original source-urls="3">
+                <name>Wiley, Marshall Wayne</name>
+                <source-url>https://history.state.gov/departmenthistory/people/wiley-marshall-wayne</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v23/persons#p_WMW_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v18/persons#p_WMW_1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Marshall W. Wiley</name>
+                <source-url>https://history.state.gov/departmenthistory/people/wiley-marshall-wayne</source-url>
+            </original>
+            <original source-urls="2">
+                <name>Wiley, Marshall W.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v25/persons#p_WMW_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve09p1/persons#p_WMW_1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Wiley, Marshall</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v37/persons#p_WM_1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1925</birth-year>
+    <death-year>1998</death-year>
+    <remarks variants="6">
+        <remark source-urls="1">
+            <p>Foreign Service Officer. Ambassador Extraordinary and Plenipotentiary (Oman).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/wiley-marshall-wayne</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Counselor, U.S. Interests Section, Cairo</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v23/persons#p_WMW_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Counselor, U.S. Interests Section in Cairo</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v25/persons#p_WMW_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Deputy Chief of Mission, Embassy in Saudi Arabia</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v37/persons#p_WM_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Director of the Near East and Asia/North Africa office, Department of State</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve09p1/persons#p_WMW_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>U.S. Ambassador to Oman from November 7, 1978</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v18/persons#p_WMW_1</source-url>
+        </remark>
+    </remarks>
+</person>

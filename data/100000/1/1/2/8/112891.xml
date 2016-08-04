@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>112891</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Stahr, Elvis J., Jr.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="1">
+                <name>Stahr, Elvis J.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v01/persons#p_SEJ1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Stahr, Elvis, Jr.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v02/persons#p_SEJJ1</source-url>
+            </original>
+            <original source-urls="2">
+                <name>Stahr, Elvis J., Jr.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v08/persons#p_SEJJ1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v24/persons#p_SEJJ1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="4">
+        <remark source-urls="1">
+            <p>Jr., Secretary of the Army from January 24, 1961</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v01/persons#p_SEJ1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Secretary of the Army</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v02/persons#p_SEJJ1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Secretary of the Army, January 24, 1961-June 30, 1962</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v08/persons#p_SEJJ1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Secretary of the Army, January 24, 1961–June 30, 1962</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v24/persons#p_SEJJ1</source-url>
+        </remark>
+    </remarks>
+</person>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>114699</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Wine, James Wilmer</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="1">
+                <name>Wine, James</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v21/persons#p_WJ6</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Wine, James Wilmer</name>
+                <source-url>https://history.state.gov/departmenthistory/people/wine-james-wilmer</source-url>
+            </original>
+            <original source-urls="1">
+                <name>James Wine</name>
+                <source-url>https://history.state.gov/departmenthistory/people/wine-james-wilmer</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1918</birth-year>
+    <death-year>1990</death-year>
+    <remarks variants="2">
+        <remark source-urls="1">
+            <p>Ambassador to the Ivory Coast from November 1962</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v21/persons#p_WJ6</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Non-career appointee. Ambassador Extraordinary and Plenipotentiary (Luxembourg); Ambassador Extraordinary and Plenipotentiary (Côte d’Ivoire).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/wine-james-wilmer</source-url>
+        </remark>
+    </remarks>
+</person>

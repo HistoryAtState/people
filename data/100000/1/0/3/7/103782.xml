@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>103782</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Earle, George Howard, III</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="1">
+                <name>Earle, George Howard, III</name>
+                <source-url>https://history.state.gov/departmenthistory/people/earle-george-howard</source-url>
+            </original>
+            <original source-urls="1">
+                <name>George H. Earle, 3rd</name>
+                <source-url>https://history.state.gov/departmenthistory/people/earle-george-howard</source-url>
+            </original>
+            <original source-urls="1">
+                <name>George H. Earle III</name>
+                <source-url>https://history.state.gov/departmenthistory/people/earle-george-howard</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1890</birth-year>
+    <death-year>1974</death-year>
+    <remarks variants="1">
+        <remark source-urls="1">
+            <p>Non-career appointee. Envoy Extraordinary and Minister Plenipotentiary (Bulgaria); Envoy Extraordinary and Minister Plenipotentiary (Austria).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/earle-george-howard</source-url>
+        </remark>
+    </remarks>
+</person>

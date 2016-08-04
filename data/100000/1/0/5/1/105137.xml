@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>105137</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Gray, Isaac Pusey</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="1">
+                <name>Gray, Isaac Pusey</name>
+                <source-url>https://history.state.gov/departmenthistory/people/gray-isaac-pusey</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Isaac P. Gray</name>
+                <source-url>https://history.state.gov/departmenthistory/people/gray-isaac-pusey</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1828</birth-year>
+    <death-year>1895</death-year>
+    <remarks variants="1">
+        <remark source-urls="1">
+            <p>Non-career appointee. Envoy Extraordinary and Minister Plenipotentiary (Mexico).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/gray-isaac-pusey</source-url>
+        </remark>
+    </remarks>
+</person>

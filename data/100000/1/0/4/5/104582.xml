@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>104582</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Friendly, Alfred, Jr.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="3">
+                <name>Friendly, Alfred, Jr.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v01/persons#p_FA2_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v02/persons#p_FAJ_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v30/persons#p_FAJ_1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="3">
+        <remark source-urls="1">
+            <p>Newsweek and The New York Times correspondent; member, National Security Council staff, Press and Congressional Liaison Office and National Security Council Press Officer, from March 1980 until January 1981</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v01/persons#p_FA2_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Newsweek and The New York Times corresepondent; member, Press and Congressional Liaison Office, National Security Council Staff, and National Security Council Press Officer from March 1980 until January 1981</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v02/persons#p_FAJ_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Newsweek and The New York Times correspondent; member, National Security Council Staff, Press and Congressional Liaison Office and National Security Council Press Officer, from March 1980 until January 1981</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v30/persons#p_FAJ_1</source-url>
+        </remark>
+    </remarks>
+</person>

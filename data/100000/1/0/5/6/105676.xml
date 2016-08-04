@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>105676</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Hatta, Mohammad</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="1">
+                <name>Hatta, Mohammad</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v22/persons#p_HM1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Hatta, Dr. Mohammad</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v17/persons#p_HDM1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="1">
+            <title source-urls="1">
+                <name>Dr.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v17/persons#p_HDM1</source-url>
+            </title>
+        </titles-from-name>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="2">
+        <remark source-urls="1">
+            <p>Vice President of Indonesia to December 1956</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v22/persons#p_HM1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>former Indonesian Prime Minister</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v17/persons#p_HDM1</source-url>
+        </remark>
+    </remarks>
+</person>

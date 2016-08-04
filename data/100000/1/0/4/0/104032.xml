@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>104032</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Erskine, Graves B.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="4">
+            <original source-urls="1">
+                <name>Erskine, General (Ret.) Graves</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1950-55Intel/persons#p_EGGB1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Erskine, Graves B.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v13p1/persons#p_EGGB1</source-url>
+            </original>
+            <original source-urls="7">
+                <name>Erskine, General Graves B.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v13p2/persons#p_EGGB1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v01/persons#p_EGGB1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v21/persons#p_EGGB1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v24/persons#p_EGGB1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v25/persons#p_EGGB1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v01/persons#p_EGGB1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v06/persons#p_EGGB1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Erskine, Gen. Graves B.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v22/persons#p_EGGB1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="3">
+            <title source-urls="1">
+                <name>General (Ret.)</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1950-55Intel/persons#p_EGGB1</source-url>
+            </title>
+            <title source-urls="7">
+                <name>General</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v13p2/persons#p_EGGB1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v01/persons#p_EGGB1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v21/persons#p_EGGB1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v24/persons#p_EGGB1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v25/persons#p_EGGB1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v01/persons#p_EGGB1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v06/persons#p_EGGB1</source-url>
+            </title>
+            <title source-urls="1">
+                <name>Gen.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v22/persons#p_EGGB1</source-url>
+            </title>
+        </titles-from-name>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="8">
+        <remark source-urls="1">
+            <p>USMC, Special Assistant to the Secretary of Defense for Special Operations from June 1953 to October 31, 1961</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1950-55Intel/persons#p_EGGB1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>USMC (ret.), Director of the Office of Special Operations, Department of Defense, 1953–1954; Chairman of the Working Group of the President’s Special Committee on Indochina.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v13p1/persons#p_EGGB1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v13p2/persons#p_EGGB1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>USMC, Director of the Office of Special Operations of the Department of Defense</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v01/persons#p_EGGB1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>USMC, Director of the Office of Special Operations, Department of Defense</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v21/persons#p_EGGB1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>(USMC, retired), Assistant to the Secretary of Defense for Special Operations</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v22/persons#p_EGGB1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Director, Office of Special Operations, Office of the Secretary of Defense</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v24/persons#p_EGGB1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v25/persons#p_EGGB1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>USMC, Assistant to the Secretary of Defense for Special Operations</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v01/persons#p_EGGB1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>USA, Assistant to the Secretary of Defense for Special Operations</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v06/persons#p_EGGB1</source-url>
+        </remark>
+    </remarks>
+</person>

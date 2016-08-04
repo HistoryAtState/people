@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>111031</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Qavam Es Sultaneh, Ahme</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="1">
+                <name>Qavam Es Sultaneh</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v10/persons#p_QESA1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="1">
+        <remark source-urls="1">
+            <p>Ahme, Prime Minister of Iran, 1942–1943, 1946–1947, and July 16–July 22, 1952.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v10/persons#p_QESA1</source-url>
+        </remark>
+    </remarks>
+</person>

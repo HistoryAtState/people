@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>109195</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Mink, Patsy Takemoto</name>
+        </preferred>
+        <alternates/>
+        <originals variants="4">
+            <original source-urls="3">
+                <name>Mink, Patsy Takemoto</name>
+                <source-url>https://history.state.gov/departmenthistory/people/mink-patsy-takemoto</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve14p1/persons#p_MPT1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v30/persons#p_MPT_1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Patsy T. Mink</name>
+                <source-url>https://history.state.gov/departmenthistory/people/mink-patsy-takemoto</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Mink, Patsy T.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v02/persons#p_MPT_1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Mink, Patsy</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v13/persons#p_MP_1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1927</birth-year>
+    <death-year>2002</death-year>
+    <remarks variants="5">
+        <remark source-urls="1">
+            <p>Non-career appointee. Assistant Secretary of State for Oceans and International Environmental and Scientific Affairs.</p>
+            <source-url>https://history.state.gov/departmenthistory/people/mink-patsy-takemoto</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Democratic Representative from Hawaii</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve14p1/persons#p_MPT1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>member, U.S. House of Representatives (D-Hawaii) until January 3, 1977; Assistant Secretary of State for Oceans and International Environmental and Scientific Affairs from March 28, 1977, until May 1, 1978</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v02/persons#p_MPT_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Assistant Secretary of State for Oceans and International Environmental and Scientific Affairs from March 28, 1977 until May 1, 1978</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v13/persons#p_MP_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>member, U.S. House of Representatives until January 3, 1977; Assistant Secretary of State for Oceans and International Environmental and Scientific Affairs from March 28, 1977, until May 1, 1978</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v30/persons#p_MPT_1</source-url>
+        </remark>
+    </remarks>
+</person>

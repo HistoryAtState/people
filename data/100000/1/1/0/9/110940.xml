@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>110940</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Preeg, Ernest Henry</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="3">
+                <name>Preeg, Ernest H.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v37/persons#p_PEH_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v38p2/persons#p_PEH_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v02/persons#p_PEH_1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Preeg, Ernest Henry</name>
+                <source-url>https://history.state.gov/departmenthistory/people/preeg-ernest-henry</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Ernest H. Preeg</name>
+                <source-url>https://history.state.gov/departmenthistory/people/preeg-ernest-henry</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1934</birth-year>
+    <death-year/>
+    <remarks variants="4">
+        <remark source-urls="1">
+            <p>Director, Office of Organization of Economic Cooperation and Development, European Community and Atlantic Political-Economic Affairs, Bureau of European Affairs, Department of State</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v37/persons#p_PEH_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Director, Office of OECD European Community and Atlantic Political-Economic Affairs, Bureau of European Affairs, Department of State, 1974–1976; thereafter Deputy Assistant Secretary for International Finance and Development and Executive Director, White House Economic Policy Group</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v38p2/persons#p_PEH_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Director, Office of Organization for Economic Cooperation and Development, European Community and Atlantic Political-Economic Affairs, Bureau of European Affairs, Department of State, until 1977; Deputy Assistant Secretary of State for International Finance and Development; Executive Director, Economic Policy Group, White House Staff, 1977; Deputy Chief of Mission, U.S. Embasssy in Lima from 1977 until 1979</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v02/persons#p_PEH_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Foreign Service Officer. Ambassador Extraordinary and Plenipotentiary (Haiti).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/preeg-ernest-henry</source-url>
+        </remark>
+    </remarks>
+</person>

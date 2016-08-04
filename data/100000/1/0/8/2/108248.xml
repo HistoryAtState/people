@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>108248</id>
+    <authorities>
+        <authority service="viaf">45546531</authority>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Macapagal, Diosdado</name>
+        </preferred>
+        <alternates/>
+        <originals variants="7">
+            <original source-urls="2">
+                <name>Macapagal, Diosdado</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v15/persons#p_MD1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v01/persons#p_MD1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>MacapagaL Diosadado</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v02/persons#p_MD5</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Macapagal, Diosado</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v23/persons#p_MD1</source-url>
+            </original>
+            <original source-urls="2">
+                <name>Macapagal, Disodado</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v02/persons#p_MD1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v03/persons#p_MD1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Macapagal, Diodado</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v26/persons#p_MD5</source-url>
+            </original>
+            <original source-urls="2">
+                <name>Macapagal, Dosado</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v27/persons#p_MD1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v20/persons#p_MD5</source-url>
+            </original>
+            <original source-urls="1">
+                <name>President Macapagal</name>
+                <source-url>https://history.state.gov/departmenthistory/visits/philippines</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="7">
+        <remark source-urls="1">
+            <p>Vice President of the Philippines</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v15/persons#p_MD1</source-url>
+        </remark>
+        <remark source-urls="4">
+            <p>President of the Philippines</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v02/persons#p_MD5</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v01/persons#p_MD1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v02/persons#p_MD1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v03/persons#p_MD1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Vice President of the Philippines until December 1961; thereafter President</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v23/persons#p_MD1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>President of the Philippines until January 1, 1966</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v26/persons#p_MD5</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>President of the Philippines until December 31, 1965</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v27/persons#p_MD1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>former President of the Philippines</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v20/persons#p_MD5</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>President, Philippines. Visited U.S. 2 times, 1963–1964</p>
+            <source-url>https://history.state.gov/departmenthistory/visits/philippines</source-url>
+        </remark>
+    </remarks>
+</person>

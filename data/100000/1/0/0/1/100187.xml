@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>100187</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Ala, Hosein</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="2">
+                <name>Ala, Hosein</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1943CairoTehran/persons#p_AH1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v10/persons#p_AH1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Ala, Hosein (Hussein)</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v12/persons#p_AHH1</source-url>
+            </original>
+            <original source-urls="3">
+                <name>Ala, Hussein</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v12/persons#p_Ala1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v17/persons#p_Ala1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v18/persons#p_Ala1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="5">
+        <remark source-urls="1">
+            <p>Minister of the Iranian Imperial Court.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1943CairoTehran/persons#p_AH1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Prime Minister of Iran, March 11–April 27, 1951; Iranian Minister of Court, April 1951–April 1953; and after August 1953.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v10/persons#p_AH1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Iranian Minister of the Court until April 8, 1955; Prime Minister, April 8, 1955–April 4, 1957</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v12/persons#p_AHH1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Minister of Court of the Shah of Iran</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v12/persons#p_Ala1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Minister of the Court of the Shah of Iran</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v17/persons#p_Ala1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v18/persons#p_Ala1</source-url>
+        </remark>
+    </remarks>
+</person>

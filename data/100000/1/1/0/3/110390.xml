@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>110390</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Parodi, Alexandre</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="12">
+                <name>Parodi, Alexandre</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1948v02/persons#p_PA1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1949v03/persons#p_PA1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v03p1/persons#p_PA1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v03p2/persons#p_PA1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v04p1/persons#p_PA1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v04p2/persons#p_PA1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v05p1/persons#p_PARODIA1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v05p2/persons#p_PARODIA1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v07p1/persons#p_PA1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v07p2/persons#p_PA1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v16/persons#p_PA1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v27/persons#p_PA1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="8">
+        <remark source-urls="1">
+            <p>French Representative to the United Nations Security Council</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1948v02/persons#p_PA1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>French Representative at the United Nations Security Council, until February; Secretary-General of the Ministry for Foreign Affairs, from February 23.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1949v03/persons#p_PA1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Secretary General, French Foreign Ministry.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1951v03p1/persons#p_PA1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1951v03p2/persons#p_PA1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Secretary General, French Foreign Ministry</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1951v04p1/persons#p_PA1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1951v04p2/persons#p_PA1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Secretary-General of the French Ministry of Foreign Affairs.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v05p1/persons#p_PARODIA1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v05p2/persons#p_PARODIA1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Secretary General of the French Foreign Ministry.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v07p1/persons#p_PA1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v07p2/persons#p_PA1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Secretary General of the French Ministry of Foreign Affairs; French Delegate at the Geneva Conference.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v16/persons#p_PA1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Secretary-General of the French Foreign Ministry until 1955; Permanent Representative to the North Atlantic Treaty Organization, May 1955–July 1957; Ambassador to Morocco thereafter</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v27/persons#p_PA1</source-url>
+        </remark>
+    </remarks>
+</person>

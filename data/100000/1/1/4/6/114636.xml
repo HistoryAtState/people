@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>114636</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Williamson, Ellis W.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="2">
+                <name>Williamson, General Ellis W.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v27/persons#p_WGEW_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve04/persons#p_WGEW1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="1">
+            <title source-urls="2">
+                <name>General</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v27/persons#p_WGEW_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve04/persons#p_WGEW1</source-url>
+            </title>
+        </titles-from-name>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="2">
+        <remark source-urls="1">
+            <p>Chief, U.S. Army Mission in Iran/Military Assistance Advisory Group (ARMISH/MAAG) until July 1973</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v27/persons#p_WGEW_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Chief, U.S. Army Mission in Iran/Military Assistance Advisory Group (ARMISH/MAAG) from 1971</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve04/persons#p_WGEW1</source-url>
+        </remark>
+    </remarks>
+</person>

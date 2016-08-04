@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>102696</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Coffin, Frank M.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="6">
+                <name>Coffin, Frank M.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v08/persons#p_CFM2</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v09/persons#p_CFM2</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v17/persons#p_CFM2</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v18/persons#p_CFM2</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v01/persons#p_CFM1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v09/persons#p_CFM2</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="5">
+        <remark source-urls="1">
+            <p>Manager Director, Development Loan Fund, February-September 1961; thereafter Deputy Administrator, Agency for International Development</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v08/persons#p_CFM2</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Managing Director, Development Loan Fund, February-September 1961; thereafter Deputy Administrator, Agency for International Development</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v09/persons#p_CFM2</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Deputy Administrator, Agency for International Development, from September 30, 1961</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v17/persons#p_CFM2</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v18/persons#p_CFM2</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Deputy Administrator for Operations, Agency for International Development</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v01/persons#p_CFM1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Representaive to the Development Assistance Committee of the Organization for Economic Cooperation and Development</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v09/persons#p_CFM2</source-url>
+        </remark>
+    </remarks>
+</person>

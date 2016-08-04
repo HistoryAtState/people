@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>100212</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>al-Daftari, Ali Mumtaz</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="1">
+                <name>al-Daftari, Ali Mumtaz</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v12/persons#p_aDAM</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="1">
+        <remark source-urls="1">
+            <p>Iraqi Director General of Communications and Works until June 20, 1957; Minister of Finance and Acting Foreign Minister, June 20–December 15, 1957</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v12/persons#p_aDAM</source-url>
+        </remark>
+    </remarks>
+</person>

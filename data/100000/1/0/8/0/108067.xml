@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>108067</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Loeb, James Isaac, Jr.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="4">
+            <original source-urls="1">
+                <name>Loeb, James I., Jr.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v12/persons#p_LJIJ1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Loeb, James Isaac, Jr.</name>
+                <source-url>https://history.state.gov/departmenthistory/people/loeb-james-isaac</source-url>
+            </original>
+            <original source-urls="1">
+                <name>James Loeb</name>
+                <source-url>https://history.state.gov/departmenthistory/people/loeb-james-isaac</source-url>
+            </original>
+            <original source-urls="1">
+                <name>James I. Loeb</name>
+                <source-url>https://history.state.gov/departmenthistory/people/loeb-james-isaac</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1908</birth-year>
+    <death-year>1992</death-year>
+    <remarks variants="2">
+        <remark source-urls="1">
+            <p>Ambassador to Peru, May 23, 1961-July 26, 1962</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v12/persons#p_LJIJ1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Non-career appointee. Ambassador Extraordinary and Plenipotentiary (Peru); Ambassador Extraordinary and Plenipotentiary (Guinea).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/loeb-james-isaac</source-url>
+        </remark>
+    </remarks>
+</person>

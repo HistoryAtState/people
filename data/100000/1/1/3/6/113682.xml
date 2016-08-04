@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>113682</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Train, Russell E.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="3">
+                <name>Train, Russell</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v03/persons#p_TRE1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v04/persons#p_TRE1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v36/persons#p_TR1</source-url>
+            </original>
+            <original source-urls="3">
+                <name>Train, Russell E.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v14/persons#p_TRE1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve01/persons#p_TRE1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve14p2/persons#p_TRE_1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="5">
+        <remark source-urls="2">
+            <p>Under Secretary of Interior, 1969-1970; thereafter Director, Council on Environmental Quality</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v03/persons#p_TRE1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v04/persons#p_TRE1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Chairman of the Council on Environmental Quality</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v14/persons#p_TRE1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Under Secretary of the Interior until 1970; Chairman, Council on Environmental Quality from 1970 until 1973; Administrator of the Environmental Protection Agency from May 1973</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v36/persons#p_TR1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Under Secretary of the Interior, 1969–1970; thereafter Director,Council on Environmental Quality, 1970–1973</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve01/persons#p_TRE1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Chairman, Council on Environmental Quality until September 12, 1973; Administrator, Environmental Protection Agency, from September 12, 1973, until January 20, 1977</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve14p2/persons#p_TRE_1</source-url>
+        </remark>
+    </remarks>
+</person>

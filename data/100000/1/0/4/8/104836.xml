@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>104836</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Getz, John Ives</name>
+        </preferred>
+        <alternates/>
+        <originals variants="4">
+            <original source-urls="4">
+                <name>Getz, John I.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v13/persons#p_GJI1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v17/persons#p_GJI1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v20/persons#p_GJI1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve13/persons#p_GJI1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Getz, John</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v41/persons#p_GJ_1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Getz, John Ives</name>
+                <source-url>https://history.state.gov/departmenthistory/people/getz-john-ives</source-url>
+            </original>
+            <original source-urls="1">
+                <name>John I. Getz</name>
+                <source-url>https://history.state.gov/departmenthistory/people/getz-john-ives</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1917</birth-year>
+    <death-year/>
+    <remarks variants="5">
+        <remark source-urls="1">
+            <p>Deputy Director, Office of Atlantic Political-Military Affairs, Bureau of European Affairs, Department of State, from August 1966</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v13/persons#p_GJI1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Special Assistant to the Under Secretary of State for Political Affairs, January 1969–February 1972</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v17/persons#p_GJI1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve13/persons#p_GJI1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Special Assistant to the Under Secretary of State for Political Affairs, January 1969–1971</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v20/persons#p_GJI1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>U.S. Ambassador to Malta from March 1972</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v41/persons#p_GJ_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Foreign Service Officer. Ambassador Extraordinary and Plenipotentiary (Malta).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/getz-john-ives</source-url>
+        </remark>
+    </remarks>
+</person>

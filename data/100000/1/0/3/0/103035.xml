@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>103035</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Cudahy, John Clarence</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="1">
+                <name>Cudahy, John Clarence</name>
+                <source-url>https://history.state.gov/departmenthistory/people/cudahy-john-clarence</source-url>
+            </original>
+            <original source-urls="1">
+                <name>John Cudahy</name>
+                <source-url>https://history.state.gov/departmenthistory/people/cudahy-john-clarence</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1887</birth-year>
+    <death-year>1943</death-year>
+    <remarks variants="1">
+        <remark source-urls="1">
+            <p>Non-career appointee. Ambassador Extraordinary and Plenipotentiary (Poland); Envoy Extraordinary and Minister Plenipotentiary (Luxembourg); Envoy Extraordinary and Minister Plenipotentiary (Ireland); Ambassador Extraordinary and Plenipotentiary (Belgium).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/cudahy-john-clarence</source-url>
+        </remark>
+    </remarks>
+</person>

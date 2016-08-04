@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>112526</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Singh, Sardar Swaran</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="2">
+                <name>Singh, Sardar Swaran</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v11p1/persons#p_SSS1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v11p2/persons#p_SSS1</source-url>
+            </original>
+            <original source-urls="5">
+                <name>Singh, Swaran</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v19/persons#p_SS1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v25/persons#p_SS1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v11/persons#p_SS1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve07/persons#p_SSS1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve08/persons#p_SSS1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Singh, Sardar Swaram</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v05/persons#p_SSS1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="7">
+        <remark source-urls="2">
+            <p>Indian Minister of Works, Housing, and Supply from May 1952.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v11p1/persons#p_SSS1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v11p2/persons#p_SSS1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Indian Minister for Railways</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v19/persons#p_SS1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Indian Minister of External Affairs, July 1964–November 1966; thereafter Minister of Defense</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v25/persons#p_SS1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Indian Foreign Minister, June 1970–October 1974</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v05/persons#p_SSS1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Indian Minister of Defense until June 1970; thereafter, Minister of External Affairs</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v11/persons#p_SS1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Indian Minister of Defense until June 1970; thereafter Minister of External Affairs</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve07/persons#p_SSS1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Indian Minister of External Affairs until 1974; Minister of Defence until 1975</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve08/persons#p_SSS1</source-url>
+        </remark>
+    </remarks>
+</person>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>109245</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Modzelewski, Zygmunt</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="4">
+                <name>Modzelewski, Zygmunt</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv01/persons#p_MZ1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv02/persons#p_MZ1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1947v02/persons#p_MZ1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1948v02/persons#p_MZ1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="4">
+        <remark source-urls="1">
+            <p>Deputy Minister of Foreign Affairs in the Polish Provisional Government of National Unity; Polish Ambassador to the Soviet Union.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv01/persons#p_MZ1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Deputy Minister of Foreign Affairs in the Polish Provisional Government of National Unity.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv02/persons#p_MZ1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Polish Foreign Minister from February 1947</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1947v02/persons#p_MZ1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Polish Minister for Foreign Affairs</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1948v02/persons#p_MZ1</source-url>
+        </remark>
+    </remarks>
+</person>

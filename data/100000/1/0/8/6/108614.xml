@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>108614</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Mason, Henry Greathead Rex</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="1">
+                <name>Mason, Henry Greathead Rex</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1946v03/persons#p_MHG1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="1">
+        <remark source-urls="1">
+            <p>Chief of the New Zealand Delegation; Minister of Justice, Minister of Education, Attorney General and Native Minister of New Zealand</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1946v03/persons#p_MHG1</source-url>
+        </remark>
+    </remarks>
+</person>

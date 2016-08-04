@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>103379</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>DePoix, Vincent P.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="2">
+                <name>de Poix, Vincent P.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v10/persons#p_DPVP1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v34/persons#p_DPVP1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>DePoix, Vice Admiral Vincent P.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v25/persons#p_DVP_1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>De Poix, Vice Admiral Vincent</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve15p2/persons#p_DV_1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="1">
+            <title source-urls="2">
+                <name>Vice Admiral</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v25/persons#p_DVP_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve15p2/persons#p_DV_1</source-url>
+            </title>
+        </titles-from-name>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="4">
+        <remark source-urls="1">
+            <p>Vice Admiral, USN, Director of the Defense Intelligence Agency until September 1974</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v10/persons#p_DPVP1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>USN, Director, Defense Intelligence Agency</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v25/persons#p_DVP_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Vice Admiral, USN; Director of the Defense Intelligence Agency from August 1972</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v34/persons#p_DPVP1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Director of the Defense Intelligence Agency from August 1972 until September 1974</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve15p2/persons#p_DV_1</source-url>
+        </remark>
+    </remarks>
+</person>

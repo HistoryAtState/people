@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>108373</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Mai Van Bo</name>
+        </preferred>
+        <alternates/>
+        <originals variants="4">
+            <original source-urls="3">
+                <name>Mai Van Bo (code named “Rupert”)</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v02/persons#p_MVBR1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v03/persons#p_MVBR1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v04/persons#p_MVBR1</source-url>
+            </original>
+            <original source-urls="3">
+                <name>Rupert</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v02/persons#p_Rupert1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v03/persons#p_Rupert1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v04/persons#p_Rupert1</source-url>
+            </original>
+            <original source-urls="5">
+                <name>Mai Van Bo</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v05/persons#p_MVB1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v07/persons#p_MVB1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v06/persons#p_MVB1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v07/persons#p_MVB1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v09/persons#p_MVB_1</source-url>
+            </original>
+            <original source-urls="2">
+                <name>Bo, Mai Van</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v07/persons#p_BMV1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v08/persons#p_BMV1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="1">
+            <title source-urls="3">
+                <name>(code named “Rupert”)</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v02/persons#p_MVBR1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v03/persons#p_MVBR1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v04/persons#p_MVBR1</source-url>
+            </title>
+        </titles-from-name>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="8">
+        <remark source-urls="3">
+            <p>Commercial Representative in Paris of the Democratic Republic of Vietnam</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v02/persons#p_MVBR1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v03/persons#p_MVBR1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v04/persons#p_MVBR1</source-url>
+        </remark>
+        <remark source-urls="4">
+            <p>see Mai Van Bo</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v02/persons#p_Rupert1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v03/persons#p_Rupert1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v07/persons#p_BMV1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v08/persons#p_BMV1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>see Mai Van Bo,</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v04/persons#p_Rupert1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Delegate General and Commercial Representative in France of the Democratic Republic of Vietnam</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v05/persons#p_MVB1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Democratic Republic of Vietnam Representative to France</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v07/persons#p_MVB1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Democratic Republic of Vietnam's Delegate General in France</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v06/persons#p_MVB1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Democratic Republic of Vietnam’s Delegate General in Paris until December 1970</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v07/persons#p_MVB1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Democratic Republic of Vietnam’s Delegate General in Paris</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v09/persons#p_MVB_1</source-url>
+        </remark>
+    </remarks>
+</person>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>114828</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Wright, Thomas Kenneth</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="4">
+                <name>Wright, Thomas K.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v21/persons#p_WTK1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v11/persons#p_WTK1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v12/persons#p_WTK1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v21/persons#p_WTK1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Wright, Thomas Kenneth</name>
+                <source-url>https://history.state.gov/departmenthistory/people/wright-thomas-kenneth</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Thomas K. Wright</name>
+                <source-url>https://history.state.gov/departmenthistory/people/wright-thomas-kenneth</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1908</birth-year>
+    <death-year/>
+    <remarks variants="5">
+        <remark source-urls="1">
+            <p>Consul General in Malaya, October 1955–December 1957; Chargé d’Affaires in Malaya, August–December 1957</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v21/persons#p_WTK1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Charge d’Affaires in Jordan</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v11/persons#p_WTK1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Counselor of the Embassy in Jordan January 1958–August 1959; thereafter Director of the Office of Near East and South Asian Regional Affairs, Bureau of Near Eastern and South Asian Affairs, Department of State</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v12/persons#p_WTK1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Ambassador to Mali from January until December 1961</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v21/persons#p_WTK1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Foreign Service Officer. Ambassador Extraordinary and Plenipotentiary (Mali); Chargé d'Affaires (Malaysia).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/wright-thomas-kenneth</source-url>
+        </remark>
+    </remarks>
+</person>

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>114988</id>
+    <authorities>
+        <authority service="viaf">75691809</authority>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Ẓāhir Shāh</name>
+        </preferred>
+        <alternates/>
+        <originals variants="5">
+            <original source-urls="1">
+                <name>Mohammed Zahir Shah</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v08/persons#p_MZS1</source-url>
+            </original>
+            <original source-urls="4">
+                <name>Zahir Shah, Mohammed</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v15/persons#p_ZSM1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v19/persons#p_ZSM1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v25/persons#p_ZSM1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v06/persons#p_ZSM_1</source-url>
+            </original>
+            <original source-urls="2">
+                <name>Zahir, Mohammad</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v11/persons#p_ZM1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve07/persons#p_ZSM1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Zahir</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve08/persons#p_ZSM1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>King Mohammed Zaher</name>
+                <source-url>https://history.state.gov/departmenthistory/visits/afghanistan</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="4">
+        <remark source-urls="6">
+            <p>King of Afghanistan</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v08/persons#p_MZS1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v15/persons#p_ZSM1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v19/persons#p_ZSM1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v25/persons#p_ZSM1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v11/persons#p_ZM1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve07/persons#p_ZSM1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>King of Afghanistan until he was deposed on July 16, 1973</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve08/persons#p_ZSM1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>King of Afghanistan from November 1933 until July 1973</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v06/persons#p_ZSM_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>King, Afghanistan. Visited U.S. once, 1963</p>
+            <source-url>https://history.state.gov/departmenthistory/visits/afghanistan</source-url>
+        </remark>
+    </remarks>
+</person>

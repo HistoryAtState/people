@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>107450</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Krimer, William D.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="7">
+                <name>Krimer, William D.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v14/persons#p_KWD1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v13/persons#p_KWD1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v14/persons#p_KWD2</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v01/persons#p_KWD_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v02/persons#p_KWD_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v06/persons#p_KWD_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v26/persons#p_KW_1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="4">
+        <remark source-urls="3">
+            <p>interpreter, Department of State</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v14/persons#p_KWD1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v01/persons#p_KWD_1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v02/persons#p_KWD_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>interpreter and Language Officer, Office of Language Services, Department of State</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v13/persons#p_KWD1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Interpreter and Language Officer, Office of Language Services, Department of State</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v14/persons#p_KWD2</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>interpreter for the Department of State</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v06/persons#p_KWD_1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v26/persons#p_KW_1</source-url>
+        </remark>
+    </remarks>
+</person>

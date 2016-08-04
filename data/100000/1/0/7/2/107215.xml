@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>107215</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Kintner, William Roscoe</name>
+        </preferred>
+        <alternates/>
+        <originals variants="4">
+            <original source-urls="1">
+                <name>Kintner, William</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v10/persons#p_KW1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Kintner, Willam R.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve12/persons#p_kintner-willam-r</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Kintner, William Roscoe</name>
+                <source-url>https://history.state.gov/departmenthistory/people/kintner-william-roscoe</source-url>
+            </original>
+            <original source-urls="1">
+                <name>William R. Kintner</name>
+                <source-url>https://history.state.gov/departmenthistory/people/kintner-william-roscoe</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1915</birth-year>
+    <death-year>1997</death-year>
+    <remarks variants="3">
+        <remark source-urls="1">
+            <p>U.S. Ambassador to Thailand from 1973 until 1975</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v10/persons#p_KW1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Ambassador to Thailand from November 29, 1973 until March 14, 1975</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve12/persons#p_kintner-willam-r</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Non-career appointee. Ambassador Extraordinary and Plenipotentiary (Thailand).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/kintner-william-roscoe</source-url>
+        </remark>
+    </remarks>
+</person>

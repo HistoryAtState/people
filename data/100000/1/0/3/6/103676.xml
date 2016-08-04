@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>103676</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Dubynin, Yuri</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="1">
+                <name>Dubynin, Yuri</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v39/persons#p_DY1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="1">
+        <remark source-urls="1">
+            <p>Chief of the European Department, Ministry of Foreign Affairs of the Soviet Union from 1971; Deputy Chief of the Soviet Delegation to the CSCE from 1973 to 1975</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v39/persons#p_DY1</source-url>
+        </remark>
+    </remarks>
+</person>

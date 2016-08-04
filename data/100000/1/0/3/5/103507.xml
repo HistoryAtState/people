@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>103507</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Dinsmore, Lee Fries</name>
+        </preferred>
+        <alternates/>
+        <originals variants="4">
+            <original source-urls="1">
+                <name>Dinsmore, Lee F.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v21/persons#p_DLF1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Dinsmore, Lee</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v24/persons#p_DLF1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Dinsmore, Lee Fries</name>
+                <source-url>https://history.state.gov/departmenthistory/people/dinsmore-lee-fries</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Lee F. Dinsmore</name>
+                <source-url>https://history.state.gov/departmenthistory/people/dinsmore-lee-fries</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1916</birth-year>
+    <death-year/>
+    <remarks variants="3">
+        <remark source-urls="1">
+            <p>Officer-in-Charge of Iraq-Jordan Affairs, Office of Near East Affairs, Bureau of Near Eastern and South Asian Affairs, Department of State, May 1965-January 1966; political officer, then Charge d 'Affaires in Sanaa January 1966-July 1967; Office of Saudi Arabia, Kuwait, Yemen, Aden Affairs, Department f State, August 1967-July 1968; Principal Officer in Dhahran from September 1968</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v21/persons#p_DLF1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Principal Officer in Dhahran, Saudi Arabia until 1972</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v24/persons#p_DLF1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Foreign Service Officer. Chargé d'Affaires ad interim (Yemen).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/dinsmore-lee-fries</source-url>
+        </remark>
+    </remarks>
+</person>

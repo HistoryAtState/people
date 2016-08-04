@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>105016</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Good, Robert Crocker</name>
+        </preferred>
+        <alternates/>
+        <originals variants="4">
+            <original source-urls="1">
+                <name>Good, Robert C.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v08/persons#p_GRC1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Good, Robert Crocker</name>
+                <source-url>https://history.state.gov/departmenthistory/people/good-robert-crocker</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Robert C. Good</name>
+                <source-url>https://history.state.gov/departmenthistory/people/good-robert-crocker</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Robert F. Goodwin</name>
+                <source-url>https://history.state.gov/departmenthistory/people/good-robert-crocker</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1924</birth-year>
+    <death-year>1984</death-year>
+    <remarks variants="2">
+        <remark source-urls="1">
+            <p>Director, Office of Research and Analysis for Africa, Bureau of Intelligence and Research, Department of State, from September 18, 1961</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v08/persons#p_GRC1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Non-career appointee. Ambassador Extraordinary and Plenipotentiary (Zambia); Ambassador Extraordinary and Plenipotentiary (Samoa); Ambassador Extraordinary and Plenipotentiary (New Zealand).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/good-robert-crocker</source-url>
+        </remark>
+    </remarks>
+</person>

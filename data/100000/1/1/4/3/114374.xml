@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>114374</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Wehner, Herbert</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="8">
+                <name>Wehner, Herbert</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v03p1/persons#p_WH1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v03p2/persons#p_WH1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v07p1/persons#p_WH1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v07p2/persons#p_WH1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v15/persons#p_WH6</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v38p1/persons#p_WH_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v38p2/persons#p_WH_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v40/persons#p_WH1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="6">
+        <remark source-urls="2">
+            <p>Chairman of the Committee for All-German Questions in the Bundestag of the German Federal Republic.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1951v03p1/persons#p_WH1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1951v03p2/persons#p_WH1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Chairman of the Bundestag Committee on All-German Affairs.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v07p1/persons#p_WH1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v07p2/persons#p_WH1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>SPD Deputy Chairman from February 1964; SPD Deputy Chairman of the Bundestag Fraction until December 1966; West German Minister of All-German Affairs from December 1, 1966</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v15/persons#p_WH6</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Chairman of the SPD Parliamentary Group in the German Bundestag; also SPD Deputy Party Chairman</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v38p1/persons#p_WH_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Chairman of the West German SPD Bundestag Parliamentary Party Group; also SPD Deputy Party Chairman</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v38p2/persons#p_WH_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>(SPD), West German Minister for All-German Affairs until October 21, 1969; then Chairman of the SPD Bundestag Parliamentary Party Group; also SPD Deputy Party Chairman</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v40/persons#p_WH1</source-url>
+        </remark>
+    </remarks>
+</person>

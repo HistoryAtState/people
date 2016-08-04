@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>101450</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Blum, Leon</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="1">
+                <name>Blum, Leon</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1948v02/persons#p_BL1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="1">
+        <remark source-urls="1">
+            <p>leader of the French Socialist Party; former Prime Minister, 1936–1937, 1938, December 1946–January 1947</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1948v02/persons#p_BL1</source-url>
+        </remark>
+    </remarks>
+</person>

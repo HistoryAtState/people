@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>109691</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Nehru, Braj Kumar</name>
+        </preferred>
+        <alternates/>
+        <originals variants="5">
+            <original source-urls="2">
+                <name>Nehru, Brij K.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v11p1/persons#p_NBK1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v11p2/persons#p_NBK1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Nehru, B.K.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v15/persons#p_NBK1</source-url>
+            </original>
+            <original source-urls="3">
+                <name>Nehru, Braj Kumar</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v01/persons#p_NBK1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v02/persons#p_NBKBK1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v19/persons#p_NBK1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Nehru, B. K.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v04/persons#p_NBK1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Nehru, B.K. (Braj Kumar)</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v25/persons#p_NBKBK1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="5">
+        <remark source-urls="2">
+            <p>Financial Counselor of the Indian Embassy in the United States; Executive Director for India on the International Bank for Reconstruction and Development; Joint Secretary in Charge of External Finance Division, Indian Ministry of Finance.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v11p1/persons#p_NBK1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v11p2/persons#p_NBK1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Joint Secretary, Indian Ministry of Finance</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v15/persons#p_NBK1</source-url>
+        </remark>
+        <remark source-urls="3">
+            <p>Indian Ambassador to the United States</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v01/persons#p_NBK1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v02/persons#p_NBKBK1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v04/persons#p_NBK1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Indian Ambassador to the United States from September 1961</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v19/persons#p_NBK1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Indian Ambassador to the United States until December 1967</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v25/persons#p_NBKBK1</source-url>
+        </remark>
+    </remarks>
+</person>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>107220</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Kirca, A. Coşkun</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="1">
+                <name>Kirca, A. Coşkun</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v21/persons#p_KAC_1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="1">
+        <remark source-urls="1">
+            <p>Turkish Permanent Representative to the North Atlantic Treaty Organization</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v21/persons#p_KAC_1</source-url>
+        </remark>
+    </remarks>
+</person>

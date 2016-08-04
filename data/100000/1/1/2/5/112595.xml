@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>112595</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Smith, Abbot E.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="4">
+            <original source-urls="1">
+                <name>Smith, Admiral Abbott</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v06/persons#p_SAA1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Smith, Abbott</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v07/persons#p_SA1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Smith, Abbot E.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v02/persons#p_SAE1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Smith, Abbot</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v36/persons#p_SA2</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="1">
+            <title source-urls="1">
+                <name>Admiral</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v06/persons#p_SAA1</source-url>
+            </title>
+        </titles-from-name>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="4">
+        <remark source-urls="1">
+            <p>Chairman, National Board of Estimates</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v06/persons#p_SAA1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Admiral, Chairman, National Board of Estimates</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v07/persons#p_SA1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Chairman of the Board of National Estimates, Central Intelligence Agency, until April 16, 1971</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v02/persons#p_SAE1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Chairman, Board of National Estimates, Central Intelligence Agency, 1969</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v36/persons#p_SA2</source-url>
+        </remark>
+    </remarks>
+</person>

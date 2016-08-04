@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>104537</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Fredericks, J. Wayne</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="6">
+                <name>Fredericks, J. Wayne</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v20/persons#p_JWF1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v21/persons#p_FJW4</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v25/persons#p_FJW4</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v01/persons#p_FJW1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v23/persons#p_FJW_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v24/persons#p_FJW4</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="4">
+        <remark source-urls="3">
+            <p>Deputy Assistant Secretary of State for African Affairs from May 1961</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v20/persons#p_JWF1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v21/persons#p_FJW4</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v25/persons#p_FJW4</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Deputy Assistant Secretary of State, Bureau of African Affairs</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v01/persons#p_FJW1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Deputy Assistant Secretary of State for African Affairs, from May 1961 until September 1967</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v23/persons#p_FJW_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Deputy Assistant Secretary of State for African Affairs until September 1967</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v24/persons#p_FJW4</source-url>
+        </remark>
+    </remarks>
+</person>

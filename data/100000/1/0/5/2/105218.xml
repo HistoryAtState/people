@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>105218</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Griscom, Lloyd Carpenter</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="1">
+                <name>Griscom, Lloyd Carpenter</name>
+                <source-url>https://history.state.gov/departmenthistory/people/griscom-lloyd-carpenter</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Lloyd C. Griscom</name>
+                <source-url>https://history.state.gov/departmenthistory/people/griscom-lloyd-carpenter</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Lloyd C.Griscom</name>
+                <source-url>https://history.state.gov/departmenthistory/people/griscom-lloyd-carpenter</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1872</birth-year>
+    <death-year>1959</death-year>
+    <remarks variants="1">
+        <remark source-urls="1">
+            <p>Non-career appointee. Envoy Extraordinary and Minister Plenipotentiary (Japan); Ambassador Extraordinary and Plenipotentiary (Italy); Envoy Extraordinary and Minister Plenipotentiary (Iran); Ambassador Extraordinary and Plenipotentiary (Brazil).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/griscom-lloyd-carpenter</source-url>
+        </remark>
+    </remarks>
+</person>

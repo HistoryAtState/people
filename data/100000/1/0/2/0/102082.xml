@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>102082</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Cairns, Jim</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="1">
+                <name>Cairns, Jim</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve12/persons#p_cairns-jim</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="1">
+        <remark source-urls="1">
+            <p>Australian Minister for Overseas Trade until December 11, 1974; Deputy Prime Minister from June 12, 1974 until July 2, 1975; Treasurer from December 11, 1974 until June 6, 1975</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve12/persons#p_cairns-jim</source-url>
+        </remark>
+    </remarks>
+</person>

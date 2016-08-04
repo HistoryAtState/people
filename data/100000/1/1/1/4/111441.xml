@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>111441</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Roberts, George B., Jr.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="2">
+                <name>Roberts, George B., Jr.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve10/persons#p_RGB1</source-url>
+                <source-url>https://history.state.gov/departmenthistory/people/roberts-george-b</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1930</birth-year>
+    <death-year/>
+    <remarks variants="2">
+        <remark source-urls="1">
+            <p>Deputy Chief of Mission, U.S. Embassy in Kingston from December 1969 until May 1973</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve10/persons#p_RGB1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Foreign Service Officer. Chargé d'Affaires ad interim (Laos); Chargé d'Affaires ad interim (Kyrgyzstan); Ambassador Extraordinary and Plenipotentiary (Guyana).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/roberts-george-b</source-url>
+        </remark>
+    </remarks>
+</person>

@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>107590</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Laloy, Jean Leonard</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="10">
+                <name>Laloy, Jean</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1946v03/persons#p_LJ1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1948v02/persons#p_LJ1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1949v03/persons#p_LJ1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v03p1/persons#p_LJ1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v03p2/persons#p_LJ1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v07p1/persons#p_LJ1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v07p2/persons#p_LJ1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v08/persons#p_LJ1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v09/persons#p_LJ1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v14/persons#p_LJ4</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Laloy, Jean L.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v16/persons#p_LJL1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Laloy, Jean Leonard</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v27/persons#p_LJL1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="9">
+        <remark source-urls="1">
+            <p>Member of the Secretariat, French Delegation; Member of the Office of European Affairs, French Ministry of Foreign Affairs</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1946v03/persons#p_LJ1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>French Commissariat for German and Austrian Affairs</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1948v02/persons#p_LJ1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>French Commissariat for German and Austrian Affairs.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1949v03/persons#p_LJ1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Officer in Charge of U.S.S.R. Affairs, French Foreign Ministry.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1951v03p1/persons#p_LJ1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1951v03p2/persons#p_LJ1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Counselor to the French Delegation at the Geneva Conference.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v16/persons#p_LJL1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Technical Adviser in the Cabinet of the French Foreign Minister, January–February 1955; Deputy Director, from February 1955; Minister-Counselor of the French Embassy in the Soviet Union, 1955–March 1956; thereafter Officer in Charge of European Affairs, Foreign Ministry</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v27/persons#p_LJL1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Director of European Affairs, French Foreign Ministry</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v07p1/persons#p_LJ1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v07p2/persons#p_LJ1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Director, European Affairs, French Foreign Ministry</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v08/persons#p_LJ1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v09/persons#p_LJ1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Minister of European Affairs, French Foreign Ministry</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v14/persons#p_LJ4</source-url>
+        </remark>
+    </remarks>
+</person>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>114016</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Vass, Laurence Coolidge</name>
+        </preferred>
+        <alternates/>
+        <originals variants="4">
+            <original source-urls="4">
+                <name>Vass, Laurence C.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v03p1/persons#p_VLC1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v03p2/persons#p_VLC1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v05p1/persons#p_VASSLC1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v05p2/persons#p_VASSLC1</source-url>
+            </original>
+            <original source-urls="2">
+                <name>Vass, Lawrence C.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v06p1/persons#p_VASSLC1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v06p2/persons#p_VASSLC1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Vass, Laurence Coolidge</name>
+                <source-url>https://history.state.gov/departmenthistory/people/vass-laurence-coolidge</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Laurence C. Vass </name>
+                <source-url>https://history.state.gov/departmenthistory/people/vass-laurence-coolidge</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1909</birth-year>
+    <death-year/>
+    <remarks variants="4">
+        <remark source-urls="2">
+            <p>Officer in Charge of Political-Military Affairs, Office of European Regional Affairs, Department of State.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1951v03p1/persons#p_VLC1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1951v03p2/persons#p_VLC1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Officer in Charge of North Atlantic Treaty Economic and Military Assistance Affairs, Office of European Regional Affairs, Department of State, May 1951–August 1954.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v05p1/persons#p_VASSLC1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v05p2/persons#p_VASSLC1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Officer in Charge of North Atlantic Treaty Economic and Military Assistance Affairs, Office of European Regional Affairs, Department of State, May 13, 1951–August 15, 1954.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v06p1/persons#p_VASSLC1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v06p2/persons#p_VASSLC1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Foreign Service Officer. Chargé d'Affaires ad interim (Kenya).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/vass-laurence-coolidge</source-url>
+        </remark>
+    </remarks>
+</person>

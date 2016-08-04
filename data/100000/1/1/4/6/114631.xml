@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>114631</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Williams, Walter</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="5">
+                <name>Williams, Walter</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v06p1/persons#p_WILLIAMSW1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v06p2/persons#p_WILLIAMSW1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v10/persons#p_WW1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v04/persons#p_WW2</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v10p1/persons#p_WW1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="3">
+        <remark source-urls="2">
+            <p>Deputy Under Secretary of Commerce until January 1953; thereafter Under Secretary of Commerce.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v06p1/persons#p_WILLIAMSW1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v06p2/persons#p_WILLIAMSW1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Under Secretary of Commerce</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v10/persons#p_WW1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v04/persons#p_WW2</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Under Secretary of Commerce until 1958</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v10p1/persons#p_WW1</source-url>
+        </remark>
+    </remarks>
+</person>

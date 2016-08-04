@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>108999</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Melady, Thomas Patrick</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="4">
+                <name>Melady, Thomas Patrick</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve05p1/persons#p_MTP1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve05p2/persons#p_MTP1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve06/persons#p_MTP1</source-url>
+                <source-url>https://history.state.gov/departmenthistory/people/melady-thomas-patrick</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1927</birth-year>
+    <death-year>2014</death-year>
+    <remarks variants="3">
+        <remark source-urls="2">
+            <p>Ambassador to Burundi from January 31, 1970 to May 25, 1972; Ambassador to Uganda from July 30, 1972 to February 9, 1973</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve05p1/persons#p_MTP1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve05p2/persons#p_MTP1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Ambassador to Burundi from January 1970 to May 1972; Ambassador to Uganda from July 1972 to February 1973</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve06/persons#p_MTP1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Non-career appointee. Ambassador Extraordinary and Plenipotentiary (Uganda); Ambassador Extraordinary and Plenipotentiary (Holy See); Ambassador Extraordinary and Plenipotentiary (Burundi).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/melady-thomas-patrick</source-url>
+        </remark>
+    </remarks>
+</person>

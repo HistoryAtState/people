@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>104991</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Gómez, Laureano</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="1">
+                <name>Gómez, Laureano</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v04/persons#p_GL1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="1">
+        <remark source-urls="1">
+            <p>President of Colombia from August 7, 1950 until October 31, 1951.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v04/persons#p_GL1</source-url>
+        </remark>
+    </remarks>
+</person>

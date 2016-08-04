@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>113095</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Straus, Richard</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="7">
+                <name>Straus, Richard</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v03p1/persons#p_SR2</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v03p2/persons#p_SR2</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v02p1/persons#p_STRAUSR1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v02p2/persons#p_STRAUSR1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v07p1/persons#p_SR2</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v07p2/persons#p_SR2</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v30/persons#p_SR_2</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="4">
+        <remark source-urls="2">
+            <p>Information and Education Specialist, Office of German Public Affairs, Department of State.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1951v03p1/persons#p_SR2</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1951v03p2/persons#p_SR2</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Member of the Office of German Affairs, Department of State, 1952–1954; Acting Public Affairs Adviser, 1953.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v02p1/persons#p_STRAUSR1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v02p2/persons#p_STRAUSR1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Office of German Public Affairs, Department of State, until November 1953; thereafter Acting Public Affairs Adviser in the Office of German Affairs.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v07p1/persons#p_SR2</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v07p2/persons#p_SR2</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Director, Office of Western European and Canadian Programs, Bureau of Educational and Cultural Affairs, Department of State, until 1978; Director, Office of Academic Programs, Associate Directorate for Educational and Cultural Affairs, U.S. International Communication Agency, from 1978; Senior Advisor, Associate Directorate for Educational and Cultural Affairs, U.S. International Communication Agency, from 1979</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v30/persons#p_SR_2</source-url>
+        </remark>
+    </remarks>
+</person>

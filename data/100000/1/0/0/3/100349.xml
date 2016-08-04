@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>100349</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Alsogaray, Alvaro C.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="1">
+                <name>Alsogaray, Alvaro</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v12/persons#p_AAC1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Alsogaray, Alvaro C.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v31/persons#p_AAC1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="2">
+        <remark source-urls="1">
+            <p>Argentine Minister of Economy, May 1962-October 1963</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v12/persons#p_AAC1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Argentine Ambassador at Large July–September 1966; Argentine Ambassador to the United States October 1966–September 1968</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v31/persons#p_AAC1</source-url>
+        </remark>
+    </remarks>
+</person>

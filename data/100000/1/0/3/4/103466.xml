@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>103466</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Dickinson, Andrew B.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="1">
+                <name>Dickinson, Andrew B.</name>
+                <source-url>https://history.state.gov/departmenthistory/people/dickinson-andrew-b</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1801</birth-year>
+    <death-year>1873</death-year>
+    <remarks variants="1">
+        <remark source-urls="1">
+            <p>Non-career appointee. Minister Resident (Nicaragua); Minister Resident and Extraordinary (Nicaragua).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/dickinson-andrew-b</source-url>
+        </remark>
+    </remarks>
+</person>

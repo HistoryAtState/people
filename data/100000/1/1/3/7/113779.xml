@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>113779</id>
+    <authorities>
+        <authority service="viaf">103649263</authority>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Tsaldaris, Constantine</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="1">
+                <name>Prime Minister Tsaldaris</name>
+                <source-url>https://history.state.gov/departmenthistory/visits/greece</source-url>
+            </original>
+            <original source-urls="3">
+                <name>Tsaldaris, Constantine</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1946v03/persons#p_TC1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v05/persons#p_TC1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v24/persons#p_TC1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="4">
+        <remark source-urls="1">
+            <p>Prime Minister, Greece. Visited U.S. once, 1946</p>
+            <source-url>https://history.state.gov/departmenthistory/visits/greece</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Chief of the Greek Delegation; Premier and Foreign Minister of Greece</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1946v03/persons#p_TC1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>leader of the Populist Party in Greece; member of the Greek Parliament.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1951v05/persons#p_TC1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>former Prime Minister of Greece</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v24/persons#p_TC1</source-url>
+        </remark>
+    </remarks>
+</person>

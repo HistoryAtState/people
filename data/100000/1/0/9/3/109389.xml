@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>109389</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Morgan, Philip Hicky</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="1">
+                <name>Morgan, Philip Hicky</name>
+                <source-url>https://history.state.gov/departmenthistory/people/morgan-philip-hicky</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Philip H. Morgan</name>
+                <source-url>https://history.state.gov/departmenthistory/people/morgan-philip-hicky</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1825</birth-year>
+    <death-year>1900</death-year>
+    <remarks variants="1">
+        <remark source-urls="1">
+            <p>Non-career appointee. Envoy Extraordinary and Minister Plenipotentiary (Mexico).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/morgan-philip-hicky</source-url>
+        </remark>
+    </remarks>
+</person>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>106654</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Johnson, Herschel Vespasian, II</name>
+        </preferred>
+        <alternates/>
+        <originals variants="4">
+            <original source-urls="2">
+                <name>Johnson, Herschel Vespasian, II</name>
+                <source-url>https://history.state.gov/departmenthistory/people/johnson-herschel-vespasian</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv02/persons#p_JHV1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Herschel V. Johnson</name>
+                <source-url>https://history.state.gov/departmenthistory/people/johnson-herschel-vespasian</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Johnson, Herschel</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1943CairoTehran/persons#p_JH1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Johnson, Herschel V.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v04/persons#p_JHV1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1894</birth-year>
+    <death-year>1966</death-year>
+    <remarks variants="4">
+        <remark source-urls="1">
+            <p>Foreign Service Officer. Envoy Extraordinary and Minister Plenipotentiary (Sweden); Ambassador Extraordinary and Plenipotentiary (Brazil).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/johnson-herschel-vespasian</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Minister in Sweden.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1943CairoTehran/persons#p_JH1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Minister to Sweden.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv02/persons#p_JHV1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Ambassador in Brazil from July 22, 1948 until May 27, 1953.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v04/persons#p_JHV1</source-url>
+        </remark>
+    </remarks>
+</person>

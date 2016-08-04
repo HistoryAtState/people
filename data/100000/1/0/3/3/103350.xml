@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>103350</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Deng, Francis M.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="1">
+                <name>Deng, Francis M.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve06/persons#p_DFM2</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="1">
+        <remark source-urls="1">
+            <p>Sudanese Ambassador to the United States from 1974 to 1976; Minister of State for Foreign Affairs from 1976 to 1980</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve06/persons#p_DFM2</source-url>
+        </remark>
+    </remarks>
+</person>

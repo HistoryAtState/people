@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>110829</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Poinsett, Joel Roberts</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="1">
+                <name>Poinsett, Joel Roberts</name>
+                <source-url>https://history.state.gov/departmenthistory/people/poinsett-joel-roberts</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Joel R. Poinsett</name>
+                <source-url>https://history.state.gov/departmenthistory/people/poinsett-joel-roberts</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1779</birth-year>
+    <death-year>1851</death-year>
+    <remarks variants="1">
+        <remark source-urls="1">
+            <p>Non-career appointee. Envoy Extraordinary and Minister Plenipotentiary (Mexico).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/poinsett-joel-roberts</source-url>
+        </remark>
+    </remarks>
+</person>

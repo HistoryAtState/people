@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>108269</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>MacDonald, Malcolm John</name>
+        </preferred>
+        <alternates/>
+        <originals variants="4">
+            <original source-urls="2">
+                <name>MacDonald, Malcolm John</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v05p1/persons#p_MACDONALDMJ1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v05p2/persons#p_MACDONALDMJ1</source-url>
+            </original>
+            <original source-urls="7">
+                <name>MacDonald, Malcolm</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v13p1/persons#p_MM1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v01/persons#p_MDM1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v08/persons#p_MDM1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v21/persons#p_MDM1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v01/persons#p_MDM1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v02/persons#p_MDM1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v03/persons#p_MDM1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Macdonald, Malcolm</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v13p2/persons#p_MM1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>MacDonald, Sir Malcolm John</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v27/persons#p_MDSMJ1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="1">
+            <title source-urls="1">
+                <name>Sir</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v27/persons#p_MDSMJ1</source-url>
+            </title>
+        </titles-from-name>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="8">
+        <remark source-urls="2">
+            <p>British High Commissioner in Southeast Asia, until September 13, 1955.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v05p1/persons#p_MACDONALDMJ1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v05p2/persons#p_MACDONALDMJ1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Commissioner General for the United Kingdom in Southeast Asia.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v13p1/persons#p_MM1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v13p2/persons#p_MM1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Commissioner General for the United Kingdom in Southeast Asia (Singapore) to September 1955; thereafter High Commissioner for India</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v01/persons#p_MDM1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v21/persons#p_MDM1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>British High Commissioner in India</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v08/persons#p_MDM1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>British High Commissioner in India and Representative to the Southeast Asian Treaty Organization from 1955</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v27/persons#p_MDSMJ1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>British High Commissioner for India</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v01/persons#p_MDM1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Leader of British Delegation and Co-Chairman, International Conference on Laos, 1961–1962</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v02/persons#p_MDM1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Leader of British Delegation and Co-Chairman, International Conference on Laos, 1961-1962</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v03/persons#p_MDM1</source-url>
+        </remark>
+    </remarks>
+</person>

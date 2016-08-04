@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>116207</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Toyoda, Soemu</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="1">
+                <name>Toyoda, Admiral Soemu</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv02/persons#p_TAS1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="1">
+            <title source-urls="1">
+                <name>Admiral</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv02/persons#p_TAS1</source-url>
+            </title>
+        </titles-from-name>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="1">
+        <remark source-urls="1">
+            <p>Chief of Staff, Japanese Imperial Navy.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv02/persons#p_TAS1</source-url>
+        </remark>
+    </remarks>
+</person>

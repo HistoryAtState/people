@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>108753</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>McCarthy, Charles W.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="1">
+                <name>McCarthy, C. W.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1943CairoTehran/persons#p_MCW1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>McCarthy, Colonel Charles W.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv01/persons#p_MCCW1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>McCarthy, Charles W.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv02/persons#p_MCCW1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="1">
+            <title source-urls="1">
+                <name>Colonel</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv01/persons#p_MCCW1</source-url>
+            </title>
+        </titles-from-name>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="3">
+        <remark source-urls="1">
+            <p>Colonel, U. S. A.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1943CairoTehran/persons#p_MCW1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>U. S. A., Joint Secretary, Informal Policy Committee on Germany.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv01/persons#p_MCCW1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>U. S. A., Secretary, State–War–Navy Coordinating Committee.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv02/persons#p_MCCW1</source-url>
+        </remark>
+    </remarks>
+</person>

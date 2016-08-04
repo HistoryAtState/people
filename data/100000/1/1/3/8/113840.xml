@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>113840</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Twaddell, William H.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="5">
+                <name>Twaddell, William H.</name>
+                <source-url>https://history.state.gov/departmenthistory/people/twaddell-william-h</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v01/persons#p_TWH_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v06/persons#p_TWH_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v21/persons#p_TWH_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v26/persons#p_TW_1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1941</birth-year>
+    <death-year/>
+    <remarks variants="5">
+        <remark source-urls="1">
+            <p>Foreign Service Officer. Ambassador Extraordinary and Plenipotentiary (Nigeria); Ambassador Extraordinary and Plenipotentiary (Mauritania).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/twaddell-william-h</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Office of Economic Research and Analysis, Bureau of Intelligence and Research, Department of State, from July 1975 until January 1977; Special Assistant, Office of the Secretary, from January 1977</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v01/persons#p_TWH_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>staff, Office of the Secretary of State</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v06/persons#p_TWH_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Special Assistant to Secretary of State Vance</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v21/persons#p_TWH_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Office of the Secretary of State</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v26/persons#p_TW_1</source-url>
+        </remark>
+    </remarks>
+</person>

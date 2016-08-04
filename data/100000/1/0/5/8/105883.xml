@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>105883</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Hewitt, Ashley C.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="5">
+                <name>Hewitt, Ashley C.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v21/persons#p_HAC_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve10/persons#p_HAC1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve11p1/persons#p_HAC_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve11p2/persons#p_HAC_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve16/persons#p_HAC_1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="5">
+        <remark source-urls="1">
+            <p>member, National Security Council Operations Staff for Latin America, from 1971</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v21/persons#p_HAC_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Operations Staff for Latin America, National Security Council from 1971</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve10/persons#p_HAC1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Deputy Chief of Mission-Counselor, U.S. Embassy in Kingston, from July 1973 until August 1975; Chargé d’Affaires ad interim, U.S. Embassy in Kingston, from 1973 until 1974; Chief, Industrial and Strategic Materials Division, Office of International Commodities, Bureau of Economic and Business Affairs, Department of State, from August 1975</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve11p1/persons#p_HAC_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>National War College until July 1973; Deputy Chief of Mission-Counselor, U.S. Embassy in Kingston, from July 1973 until August 1975; Chargé d’Affaires, U.S. Embassy in Kingston, from 1973 until 1974; Chief, Industrial and Strategic Materials Division, Office of International Commodities, Bureau of Economic and Business Affairs, Department of State, from August 1975</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve11p2/persons#p_HAC_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>member, National Security Council Operations Staff for Latin America from 1971</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve16/persons#p_HAC_1</source-url>
+        </remark>
+    </remarks>
+</person>

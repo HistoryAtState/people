@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>102528</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Cho Pyong-ok</name>
+        </preferred>
+        <alternates>
+            <name>Cho Pung-ok</name>
+        </alternates>
+        <originals variants="1">
+            <original source-urls="1">
+                <name>Cho Pyong-ok (Cho Pung-ok)</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v18/persons#p_CPCP1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="1">
+        <remark source-urls="1">
+            <p>Republic of Korea Democratic Party leader, and member of the National Assembly until February 1960</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v18/persons#p_CPCP1</source-url>
+        </remark>
+    </remarks>
+</person>

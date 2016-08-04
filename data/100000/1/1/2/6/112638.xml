@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>112638</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Smith, Joseph Kingsbury</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="1">
+                <name>Smith, Kingsbury</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1949v03/persons#p_SK2</source-url>
+            </original>
+            <original source-urls="2">
+                <name>Smith, Joseph Kingsbury</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v03p1/persons#p_SJK1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v03p2/persons#p_SJK1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="2">
+        <remark source-urls="1">
+            <p>European General Manager of the International News Service.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1949v03/persons#p_SK2</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>European General Manager, International News Service, Paris.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1951v03p1/persons#p_SJK1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1951v03p2/persons#p_SJK1</source-url>
+        </remark>
+    </remarks>
+</person>

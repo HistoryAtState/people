@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>110185</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Ovando Candía, Alfredo</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="1">
+                <name>Ovando Candía, General Alfredo</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v31/persons#p_OCGA1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Ovando Candía, Alfredo</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v21/persons#p_OCA_1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Ovando Candia</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve10/persons#p_OC1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="1">
+            <title source-urls="1">
+                <name>General</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v31/persons#p_OCGA1</source-url>
+            </title>
+        </titles-from-name>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="3">
+        <remark source-urls="1">
+            <p>Commander-in-Chief of the Armed Forces in Bolivia; Co-President of Bolivia May 26, 1965–January 5, 1966; President of Bolivia January 5–August 6, 1966</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v31/persons#p_OCGA1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>General, Bolivian President from 1969 until 1970</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v21/persons#p_OCA_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Bolivian President from 1969 until 1970</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve10/persons#p_OC1</source-url>
+        </remark>
+    </remarks>
+</person>

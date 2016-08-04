@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>113112</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Strong, Curtis C.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="3">
+                <name>Strong, Curtis C.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v25/persons#p_SCC2</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v23/persons#p_SCC_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v24/persons#p_SCC2</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="3">
+        <remark source-urls="1">
+            <p>United Nations Adviser, Bureau of African Affairs, Department of State, from April 1963</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v25/persons#p_SCC2</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>United Nations Adviser, Office of Inter-African Affairs, Bureau of African Affairs, Department of State, until 1964; Deputy Director, Office of Central African Affairs, November 1964 until October 1965; Deputy Director, Office of Eastern and Southern African Affairs, October 1965 until July 1966; Country Director for East African Affairs, July 1966 until June 1967</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v23/persons#p_SCC_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>United Nations Adviser, Office of Inter-African Affairs, Bureau of African Affairs, Department of State, until October 1964; Deputy Director, Office of Central African Affairs, November 1964–October 1965; Deputy Director, Office of Eastern and Southern African Affairs, October 1965–July 1966; Country Director for East African Affairs, July 1966–June 1967</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v24/persons#p_SCC2</source-url>
+        </remark>
+    </remarks>
+</person>

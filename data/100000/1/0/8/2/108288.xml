@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>108288</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Mack, William H.B.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="1">
+                <name>Mack, William H.B.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv02/persons#p_MWHB1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Mack, Sir William H. B.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1947v02/persons#p_MSWHB1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="1">
+            <title source-urls="1">
+                <name>Sir</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1947v02/persons#p_MSWHB1</source-url>
+            </title>
+        </titles-from-name>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="2">
+        <remark source-urls="1">
+            <p>Political Adviser to the Commander in Chief, British Forces of Occupation in Austria.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv02/persons#p_MWHB1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Political Adviser to the Commander in Chief of British Forces of Occupation in Austria; British Minister in Austria from September 1947</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1947v02/persons#p_MSWHB1</source-url>
+        </remark>
+    </remarks>
+</person>

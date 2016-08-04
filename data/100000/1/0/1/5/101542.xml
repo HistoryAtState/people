@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>101542</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Boochever, Louis C., Jr.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="2">
+                <name>Boochever, Louis C., Jr.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v06p1/persons#p_BOOCHEVERLCJ1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v06p2/persons#p_BOOCHEVERLCJ1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Boochever, Louis C.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v04/persons#p_BLC1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="2">
+        <remark source-urls="2">
+            <p>Financial Economist in the Office of European Regional Affairs, Department of State, from June 26, 1950; International Relations Officer in the Office of European Regional Affairs after April 13, 1952.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v06p1/persons#p_BOOCHEVERLCJ1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v06p2/persons#p_BOOCHEVERLCJ1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>U.S. Deputy Representative to the European Coal and Steel Community until January 1956; Office of European Regional Affairs, Department of State, from February 1956</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v04/persons#p_BLC1</source-url>
+        </remark>
+    </remarks>
+</person>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>106508</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Jacquot, Pierre Elie</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="1">
+                <name>Jacquot, General Pierre Elie</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v01/persons#p_JGPE1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="1">
+            <title source-urls="1">
+                <name>General</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v01/persons#p_JGPE1</source-url>
+            </title>
+        </titles-from-name>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="1">
+        <remark source-urls="1">
+            <p>Commander in Chief of the French Forces in Indochina, May 1955–April 1956</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v01/persons#p_JGPE1</source-url>
+        </remark>
+    </remarks>
+</person>

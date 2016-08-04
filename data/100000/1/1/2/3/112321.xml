@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>112321</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Shaw, John F.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="7">
+                <name>Shaw, John F.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v10/persons#p_SJF1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v12/persons#p_SJF1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v13/persons#p_SJF1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v14/persons#p_SJF1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v15/persons#p_SJF1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v16/persons#p_SJF1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v17/persons#p_SJF1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="4">
+        <remark source-urls="1">
+            <p>Office of Near Eastern Affairs, Department of State, July 3, 1955–September 23, 1956; thereafter Officer in Charge of Economic Affairs in the Office</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v10/persons#p_SJF1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Office of Near Eastern Affairs, Department of State, July 3, 1955–new September 23, 1956; thereafter Officer in Charge of Economic Affairs</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v12/persons#p_SJF1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Office of Near Eastern Affairs, Department of State, July 3, 1955–September 23, 1956; thereafter Officer in Charge of Economic Affairs in that office</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v13/persons#p_SJF1</source-url>
+        </remark>
+        <remark source-urls="4">
+            <p>Office of Near Eastern Affairs, Department of State, July 3, 1955–September 23, 1956; thereafter Officer in Charge of Economic Affairs</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v14/persons#p_SJF1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v15/persons#p_SJF1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v16/persons#p_SJF1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v17/persons#p_SJF1</source-url>
+        </remark>
+    </remarks>
+</person>

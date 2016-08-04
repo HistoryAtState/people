@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>102046</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Byrne, Patricia Mary</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="2">
+                <name>Byrne, Patricia Mary</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v21/persons#p_BPM1</source-url>
+                <source-url>https://history.state.gov/departmenthistory/people/byrne-patricia-mary</source-url>
+            </original>
+            <original source-urls="2">
+                <name>Byrne, Patricia M.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v16/persons#p_BPM1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve08/persons#p_BPM1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Patricia M. Byrne</name>
+                <source-url>https://history.state.gov/departmenthistory/people/byrne-patricia-mary</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1925</birth-year>
+    <death-year>2007</death-year>
+    <remarks variants="4">
+        <remark source-urls="1">
+            <p>International Relations Officer in the Office of Philippine and Southeast Asian Affairs, Department of State, to March 1956; thereafter Officer in Charge of Lao Affairs</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v21/persons#p_BPM1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Officer in Charge of Laos Affairs, Department of State, until March 1958</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v16/persons#p_BPM1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Deputy Chief of Mission of the U.S. Embassy in Sri Lanka from 1973 to 1975</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve08/persons#p_BPM1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Foreign Service Officer. Ambassador Extraordinary and Plenipotentiary (Mali); Ambassador Extraordinary and Plenipotentiary (Burma).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/byrne-patricia-mary</source-url>
+        </remark>
+    </remarks>
+</person>

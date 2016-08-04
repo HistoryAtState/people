@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>111485</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Rockefeller, John D., III</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="1">
+                <name>Rockefeller, John D. III</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v01/persons#p_RJD_1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Rockefeller, John D., III</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v02/persons#p_RJD3_1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Rockefeller, John D.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v34/persons#p_RJD1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="3">
+        <remark source-urls="1">
+            <p>philanthropist; founder, Asia Society</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v01/persons#p_RJD_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Chairman, Rockefeller Foundation and Chairman of the Board of the Population Council</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v02/persons#p_RJD3_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>III, Chairman of the Rockefeller Foundation; Chairman of the Board of the Population Council</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v34/persons#p_RJD1</source-url>
+        </remark>
+    </remarks>
+</person>

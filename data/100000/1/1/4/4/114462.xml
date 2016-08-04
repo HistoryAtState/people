@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>114462</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Westrick, Ludger</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="2">
+                <name>Westrick, Ludger</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v03p1/persons#p_WL1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v03p2/persons#p_WL1</source-url>
+            </original>
+            <original source-urls="3">
+                <name>Westrick, Ludgar</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v09/persons#p_WL5</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v15/persons#p_WL5</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v13/persons#p_WL5</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Westrick, Ludger (CDU)</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v15/persons#p_WL5</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="1">
+            <title source-urls="1">
+                <name>(CDU)</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v15/persons#p_WL5</source-url>
+            </title>
+        </titles-from-name>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="5">
+        <remark source-urls="2">
+            <p>State Secretary, Ministry of Economics, Federal Republic of Germany.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1951v03p1/persons#p_WL1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1951v03p2/persons#p_WL1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Office of the Chancellor, German State Secretary</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v09/persons#p_WL5</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>State Secretary in the German Economics Ministry</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v15/persons#p_WL5</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>State Secretary in the Office of the German Chancellor</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v13/persons#p_WL5</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>head of the West German Federal Chancellery and Minister for Special Tasks, June 1964–November 1966</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v15/persons#p_WL5</source-url>
+        </remark>
+    </remarks>
+</person>

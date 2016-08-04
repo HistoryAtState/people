@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>106737</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Jones, William G.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="4">
+                <name>Jones, William G.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v15p1/persons#p_JWG1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v15p2/persons#p_JWG1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v23p2/persons#p_JWG1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v18/persons#p_JWG1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="3">
+        <remark source-urls="2">
+            <p>Chief, Northeast Asian Economic Branch, Division of Research for the Far East, Department of State, to 1953; Acting Officer in Charge of Korean Affairs, Office of Northeast Asian Affairs, Department of State, from November 1953.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v15p1/persons#p_JWG1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v15p2/persons#p_JWG1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Officer in Charge of Korean Affairs, Bureau of Far Eastern Affairs, Department of State, until April 1956</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v23p2/persons#p_JWG1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>First Secretary of the Embassy in Korea</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v18/persons#p_JWG1</source-url>
+        </remark>
+    </remarks>
+</person>

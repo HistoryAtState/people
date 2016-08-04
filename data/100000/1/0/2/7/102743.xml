@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>102743</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Collins, Varnum Lansing, Jr.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="3">
+                <name>Collins, V. Lansing, Jr.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v06p1/persons#p_COLLINSVLJ1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v06p2/persons#p_COLLINSVLJ1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v27/persons#p_CVLJ1</source-url>
+            </original>
+            <original source-urls="4">
+                <name>Collins, Varnum L., Jr.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v07p1/persons#p_CVLJ1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v07p2/persons#p_CVLJ1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v09p1/persons#p_CVL1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v09p2/persons#p_CVL1</source-url>
+            </original>
+            <original source-urls="2">
+                <name>Collins, V. Lansing</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v12/persons#p_CVL1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v31/persons#p_CVL1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="6">
+        <remark source-urls="2">
+            <p>Officer in Charge of Italian and Austrian Affairs, Office of Western European Affairs, Department of State, after September 6, 1950; detailed to the National War College August 15, 1953; First Secretary and Consul at the Embassy in Italy after June 20, 1954.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v06p1/persons#p_COLLINSVLJ1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v06p2/persons#p_COLLINSVLJ1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Office of Western European Affairs, Department of State, until June 1954.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v07p1/persons#p_CVLJ1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v07p2/persons#p_CVLJ1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Officer in Charge of Italian and Austrian Affairs, Bureau of European Affairs, Department of State until August 15, 1953; detailed to National War College, August 15, 1953–June 20, 1954; thereafter First Secretary and Consul of the Embassy in Italy.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v09p1/persons#p_CVL1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v09p2/persons#p_CVL1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>First Secretary and Consul of the Embassy in Italy until September 1957; thereafter Counselor of the Embassy in Turkey</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v27/persons#p_CVLJ1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Director, Office of Central American and Panamanian Affairs, Bureau of Inter-American Affairs, from January 20, 1963</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v12/persons#p_CVL1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Director, Office of Central American and Panamanian Affairs (after March 12, 1964, Office of Panamanian Affairs), Bureau of Inter-American Affairs, Department of State, until August 1964</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v31/persons#p_CVL1</source-url>
+        </remark>
+    </remarks>
+</person>

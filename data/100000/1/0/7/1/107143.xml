@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>107143</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Kiesinger, Kurt Georg</name>
+        </preferred>
+        <alternates/>
+        <originals variants="4">
+            <original source-urls="9">
+                <name>Kiesinger, Kurt Georg</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v05p1/persons#p_KIESINGERKG1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v05p2/persons#p_KIESINGERKG1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v08/persons#p_KKG1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v11/persons#p_KKG1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v03/persons#p_KKG1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v17/persons#p_KKG1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v40/persons#p_KKG1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve02/persons#p_KKG1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve13/persons#p_KKG1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Kiesinger, Kurt G.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v13/persons#p_KKG1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Kiesinger, Kurt Georg (CDU)</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v15/persons#p_KKG1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Kiesinger, Kurt</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v41/persons#p_KK_1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="1">
+            <title source-urls="1">
+                <name>(CDU)</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v15/persons#p_KKG1</source-url>
+            </title>
+        </titles-from-name>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="10">
+        <remark source-urls="2">
+            <p>Christian Democratic Union member of the Bundestag of the Federal Republic of Germany and Chairman of the Foreign Affairs Committee.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v05p1/persons#p_KIESINGERKG1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v05p2/persons#p_KIESINGERKG1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Chancellor of the Federal Republic of Germany from December 1, 1966</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v08/persons#p_KKG1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Chancellor of the Federal Republic of Germany after December 1, 1966</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v11/persons#p_KKG1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Chancellor of the Federal Republic of Germany from December 1966</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v13/persons#p_KKG1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Minister President of Baden-Wurttemberg until December 1, 1966; then Chancellor of the Federal Republic of Germany; CDU Chairman from May 1967</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v15/persons#p_KKG1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>West German Chancellor until October 1969</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v03/persons#p_KKG1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v41/persons#p_KK_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Chancellor of the Federal Republic of Germany until October 21, 1969</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v17/persons#p_KKG1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>(CDU), Chancellor of the Federal Republic of Germany until October 21, 1969; CDU / CSU Candidate for Chancellor in the 1969 Bundestag election; also CDU Party Chairman until October 4, 1971</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v40/persons#p_KKG1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>CDU, Chancellor of the Federal Republic of Germany until October 1969; CDU/CSU Candidate for Chancellor in the 1969 Bundestag election; also CDU Party Chairman until October 1971</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve02/persons#p_KKG1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Chancellor of the Federal Republic of Germany until October 21,1969</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve13/persons#p_KKG1</source-url>
+        </remark>
+    </remarks>
+</person>

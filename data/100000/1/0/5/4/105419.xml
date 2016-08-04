@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>105419</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Hall, Henry Cook</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="1">
+                <name>Hall, Henry Cook</name>
+                <source-url>https://history.state.gov/departmenthistory/people/hall-henry-cook</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Henry C. Hall</name>
+                <source-url>https://history.state.gov/departmenthistory/people/hall-henry-cook</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1820</birth-year>
+    <death-year>1901</death-year>
+    <remarks variants="1">
+        <remark source-urls="1">
+            <p>Non-career appointee. Minister Resident (Nicaragua); Envoy Extraordinary and Minister Plenipotentiary (Nicaragua); Minister Resident (Honduras); Envoy Extraordinary and Minister Plenipotentiary (Honduras); Minister Resident (Guatemala); Envoy Extraordinary and Minister Plenipotentiary (Guatemala); Minister Resident (El Salvador); Envoy Extraordinary and Minister Plenipotentiary (El Salvador); Minister Resident (Costa Rica); Envoy Extraordinary and Minister Plenipotentiary (Costa Rica).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/hall-henry-cook</source-url>
+        </remark>
+    </remarks>
+</person>

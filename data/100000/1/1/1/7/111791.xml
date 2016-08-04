@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>111791</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Sabri, Ali</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="8">
+                <name>Sabri, Ali</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v09p1/persons#p_SA1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v09p2/persons#p_SA1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v11/persons#p_SA7</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v13/persons#p_SA1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v17/persons#p_SA7</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v18/persons#p_SA7</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v18/persons#p_SA7</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v21/persons#p_SA7</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Sabry, Ali</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v17/persons#p_SA1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="7">
+        <remark source-urls="2">
+            <p>Egyptian Air Force Squadron Leader and member of the Revolutionary Command Council; Chief of Air Force Intelligence from July 1952.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v09p1/persons#p_SA1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v09p2/persons#p_SA1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Egyptian Director of Intelligence for External Activities, June 1956-May 1957; Minister of State for Presidential Affairs from May 1957</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v17/persons#p_SA1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Minister of State for Presidential Affairs of the United Arab Republic</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v11/persons#p_SA7</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>United Arab Republic Minister for Presidential Affairs from March 1958</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v13/persons#p_SA1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Vice Prime Minister of the United Arab Republic and Minister for Presidential Affairs</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v17/persons#p_SA7</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v18/persons#p_SA7</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Prime Minister of the United Arab Republic until September 1965</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v18/persons#p_SA7</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>President of the Executive Council of the United Arab Republic until September 1965; Vice President October 1965-June 1967; Deputy Prime Minister June 1967-April 1968</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v21/persons#p_SA7</source-url>
+        </remark>
+    </remarks>
+</person>

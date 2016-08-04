@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>110311</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Palmer, Ely Eliot</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="2">
+                <name>Palmer, Ely Eliot</name>
+                <source-url>https://history.state.gov/departmenthistory/people/palmer-ely-eliot</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v05/persons#p_PEE1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Ely E. Palmer</name>
+                <source-url>https://history.state.gov/departmenthistory/people/palmer-ely-eliot</source-url>
+            </original>
+            <original source-urls="2">
+                <name>Palmer, Ely E.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v09p1/persons#p_PEE1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v09p2/persons#p_PEE1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1887</birth-year>
+    <death-year>1977</death-year>
+    <remarks variants="3">
+        <remark source-urls="1">
+            <p>Foreign Service Officer. Envoy Extraordinary and Minister Plenipotentiary (Afghanistan); Ambassador Extraordinary and Plenipotentiary (Afghanistan).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/palmer-ely-eliot</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>United States Representative and Chairman, United Nations Conciliation Commission for Palestine.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1951v05/persons#p_PEE1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Representative on the United Nations Conciliation Commission for Palestine until July 22, 1952.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v09p1/persons#p_PEE1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v09p2/persons#p_PEE1</source-url>
+        </remark>
+    </remarks>
+</person>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>103599</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Dorr, Russell H.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="1">
+                <name>Dorr, Russell</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1947v02/persons#p_DR1</source-url>
+            </original>
+            <original source-urls="5">
+                <name>Dorr, Russell H.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1948v02/persons#p_DRH1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v05/persons#p_DRH1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v06p1/persons#p_DORRRH1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v06p2/persons#p_DORRRH1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v08/persons#p_DRH2</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="5">
+        <remark source-urls="1">
+            <p>United States Delegate to the Inter-Allied Reparations Agency, Brussels</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1947v02/persons#p_DR1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>United States Delegate to the Inter-Allied Reparation Agency, with the rank of Minister to October 7, 1948</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1948v02/persons#p_DRH1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Chief of the Economic Cooperation Administration, Mission to Turkey.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1951v05/persons#p_DRH1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Economic Commissioner in the Office of the Special Representative in Europe at Paris after June 6, 1952.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v06p1/persons#p_DORRRH1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v06p2/persons#p_DORRRH1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Economic Commissioner in the Office of the Special Representative at Paris after June 6, 1952; Chief of the Mutual Security Agency Mission in Turkey, October 7, 1948–1952.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v08/persons#p_DRH2</source-url>
+        </remark>
+    </remarks>
+</person>

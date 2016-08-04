@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>102297</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Castelo Branco, Humberto de Alencar</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="1">
+                <name>Castello Branco</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v04/persons#p_CB1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Castello Branco, General Humberto de Alencar</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v31/persons#p_CBGHA1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Castelo Branco, Humberto de Alencar</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve10/persons#p_CBHA1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="1">
+            <title source-urls="1">
+                <name>General</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v31/persons#p_CBGHA1</source-url>
+            </title>
+        </titles-from-name>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="3">
+        <remark source-urls="1">
+            <p>General Humberto de Alencar, President of Brazil</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v04/persons#p_CB1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Chief of Staff of the Army in Brazil until April 1964; President of Brazil April 15, 1964–March 15, 1967</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v31/persons#p_CBGHA1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>General, Chief of Staff of the Army in Brazil until April 1964; President of Brazil from April 15, 1964 until March 15, 1967</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve10/persons#p_CBHA1</source-url>
+        </remark>
+    </remarks>
+</person>

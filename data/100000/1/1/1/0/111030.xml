@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>111030</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Qassim, Abdul Karim</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="4">
+                <name>Qassim, General Abdul Karim</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v11/persons#p_QGAK1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v12/persons#p_QGAK1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v17/persons#p_QGAK1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v18/persons#p_QGAK1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Kassem, Kassim</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v13/persons#p_KK1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Qassim, Brigadier Abdul Karim</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v13/persons#p_QBAK1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="2">
+            <title source-urls="4">
+                <name>General</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v11/persons#p_QGAK1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v12/persons#p_QGAK1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v17/persons#p_QGAK1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v18/persons#p_QGAK1</source-url>
+            </title>
+            <title source-urls="1">
+                <name>Brigadier</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v13/persons#p_QBAK1</source-url>
+            </title>
+        </titles-from-name>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="5">
+        <remark source-urls="1">
+            <p>led coup that overthrew the Government of Iraq on July 14, 1958; thereafter Iraqi Prime Minister</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v11/persons#p_QGAK1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Prime Minister of Iraq from July 14, 1958</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v12/persons#p_QGAK1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>see Qassim</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v13/persons#p_KK1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Iraqi Prime Minister from July 1958</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v13/persons#p_QBAK1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Prime Minister of Iraq until February 8, 1963</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v17/persons#p_QGAK1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v18/persons#p_QGAK1</source-url>
+        </remark>
+    </remarks>
+</person>

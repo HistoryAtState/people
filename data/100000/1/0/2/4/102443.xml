@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>102443</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Cheek, James Richard</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="2">
+                <name>Cheek, James Richard</name>
+                <source-url>https://history.state.gov/departmenthistory/people/cheek-james-richard</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve11p1/persons#p_CJ_3</source-url>
+            </original>
+            <original source-urls="1">
+                <name>James R. Cheek</name>
+                <source-url>https://history.state.gov/departmenthistory/people/cheek-james-richard</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Cheek, James R</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve10/persons#p_CJR1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1936</birth-year>
+    <death-year>2011</death-year>
+    <remarks variants="3">
+        <remark source-urls="1">
+            <p>Foreign Service Officer. Ambassador Extraordinary and Plenipotentiary (Sudan); Chargé d'Affaires ad interim (Ethiopia); Ambassador Extraordinary and Plenipotentiary (Argentina).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/cheek-james-richard</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Political Officer, U.S. Embassy in Managua, Nicaragua, from 1971</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve10/persons#p_CJR1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Political Section Chief, Embassy in Managua, as of 1973</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve11p1/persons#p_CJ_3</source-url>
+        </remark>
+    </remarks>
+</person>

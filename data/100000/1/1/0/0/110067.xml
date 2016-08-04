@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>110067</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Oliver, Covey Thomas</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="2">
+                <name>Oliver, Covey Thomas</name>
+                <source-url>https://history.state.gov/departmenthistory/people/oliver-covey-thomas</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv02/persons#p_OCT1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Covey T. Oliver</name>
+                <source-url>https://history.state.gov/departmenthistory/people/oliver-covey-thomas</source-url>
+            </original>
+            <original source-urls="5">
+                <name>Oliver, Covey T.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv01/persons#p_OCT1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1948v02/persons#p_OCT1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v11/persons#p_OCT1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v31/persons#p_OCT1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v32/persons#p_OCT1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1913</birth-year>
+    <death-year>2007</death-year>
+    <remarks variants="6">
+        <remark source-urls="1">
+            <p>Non-career appointee. Assistant Secretary of State for Western Hemisphere Affairs; Ambassador Extraordinary and Plenipotentiary (Colombia).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/oliver-covey-thomas</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Acting Chief, Division of Economic Security Controls, Department of State.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv01/persons#p_OCT1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv02/persons#p_OCT1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Acting Chief, Division of Economic Property Policy, Department of State</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1948v02/persons#p_OCT1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Ambassador to Colombia, August 13, 1964-August 26, 1966; Assistant Secretary of State for Inter-American Affairs and Coordinator, Alliance for Progress, July 1, 1967-December 31, 1968</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v11/persons#p_OCT1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Ambassador to Colombia May 1, 1964–August 29, 1966; Assistant Secretary of State for Inter-American Affairs and U.S. Coordinator of the Alliance for Progress July 1, 1967–December 31, 1968</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v31/persons#p_OCT1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Assistant Secretary of State for Inter-American Affairs, July 1, 1967–December 31, 1968</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v32/persons#p_OCT1</source-url>
+        </remark>
+    </remarks>
+</person>

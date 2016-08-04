@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>105347</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Haakon VII</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="3">
+                <name>Haakon VII</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1914Supp/persons#p_HVII1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v03p1/persons#p_H1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v03p2/persons#p_H1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="1">
+        <remark source-urls="3">
+            <p>King of Norway.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1914Supp/persons#p_HVII1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1951v03p1/persons#p_H1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1951v03p2/persons#p_H1</source-url>
+        </remark>
+    </remarks>
+</person>

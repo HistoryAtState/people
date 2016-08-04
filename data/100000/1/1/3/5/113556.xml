@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>113556</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Thorneycroft, George Edward Peter</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="3">
+                <name>Thorneycroft, Peter</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v04/persons#p_TP1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v10/persons#p_TP1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v27/persons#p_TP1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Thorneycroft, George Edward Peter</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v13/persons#p_TGEP1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="3">
+        <remark source-urls="2">
+            <p>President of the British Board of Trade until January 1957; Chancellor of the Exchequer thereafter</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v04/persons#p_TP1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v27/persons#p_TP1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>President of the British Board of Trade until January 1957; thereafter Chancellor of the Exchequer</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v10/persons#p_TP1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>British Minister of Defense from 1962</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v13/persons#p_TGEP1</source-url>
+        </remark>
+    </remarks>
+</person>

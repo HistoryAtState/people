@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>100195</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>al-Azm, Khalid</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="1">
+                <name>Azm, Khalid al-</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv01/persons#p_AK1</source-url>
+            </original>
+            <original source-urls="2">
+                <name>al-Azm, Khalid</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v05/persons#p_AAK1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v13/persons#p_aAK1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>al-Azm, Khalid Pasha</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v12/persons#p_aAKP</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="4">
+        <remark source-urls="1">
+            <p>Syrian Minister to France.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv01/persons#p_AK1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Syrian Prime Minister, March–August 1951.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1951v05/persons#p_AAK1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Syrian Foreign Minister, February 13–September 13, 1955</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v12/persons#p_aAKP</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Syrian Minister of Foreign Affairs and Defense, February 13–September 13, 1955; again Minister of Defense from January 2, 1957; Minister of Finance from November 17, 1957</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v13/persons#p_aAK1</source-url>
+        </remark>
+    </remarks>
+</person>

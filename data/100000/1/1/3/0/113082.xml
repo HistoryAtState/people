@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>113082</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Stovall, Pleasant Alexander</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="4">
+                <name>Stovall, Pleasant Alexander</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1914Supp/persons#p_SPA1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1915Supp/persons#p_SPA1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1916Supp/persons#p_SPA1</source-url>
+                <source-url>https://history.state.gov/departmenthistory/people/stovall-pleasant-alexander</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Pleasant A. Stovall</name>
+                <source-url>https://history.state.gov/departmenthistory/people/stovall-pleasant-alexander</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1857</birth-year>
+    <death-year>1935</death-year>
+    <remarks variants="3">
+        <remark source-urls="2">
+            <p>United States Minister in Switzerland.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1914Supp/persons#p_SPA1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1915Supp/persons#p_SPA1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>U. S. Minister in Switzerland.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1916Supp/persons#p_SPA1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Non-career appointee. Envoy Extraordinary and Minister Plenipotentiary (Switzerland).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/stovall-pleasant-alexander</source-url>
+        </remark>
+    </remarks>
+</person>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>111312</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Reynaud, Paul</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="7">
+                <name>Reynaud, Paul</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1948v02/persons#p_RP1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v04p1/persons#p_RP1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v04p2/persons#p_RP1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v05p1/persons#p_REYNAUDP1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v05p2/persons#p_REYNAUDP1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v06p1/persons#p_REYNAUDP1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v06p2/persons#p_REYNAUDP1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="4">
+        <remark source-urls="1">
+            <p>leader of the French Republican Independent Party; delegate to the National Assembly and former Prime Minister (1940)</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1948v02/persons#p_RP1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>former Prime Minister of France; Delegate to the Consultative Assembly, Council of Europe, 1951</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1951v04p1/persons#p_RP1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1951v04p2/persons#p_RP1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Deputy in the French National Assembly after 1946; President of the National Assembly’s Commission on Finances; French Member of the Common Assembly of the European Coal and Steel Community.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v05p1/persons#p_REYNAUDP1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v05p2/persons#p_REYNAUDP1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>French Member of the Common Assembly of the European Coal and Steel Community; Deputy in the French National Assembly after 1946 and President of the National Assembly’s Commission on Finances.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v06p1/persons#p_REYNAUDP1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v06p2/persons#p_REYNAUDP1</source-url>
+        </remark>
+    </remarks>
+</person>

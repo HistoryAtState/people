@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>108523</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Markezinis, Spyridon (Spyros)</name>
+        </preferred>
+        <alternates/>
+        <originals variants="4">
+            <original source-urls="2">
+                <name>Markezinis, Spyridon (Spyros)</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v05/persons#p_MSB1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v08/persons#p_MSS1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Markezinia, Spyros</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v24/persons#p_MS1</source-url>
+            </original>
+            <original source-urls="2">
+                <name>Markezinis, Spiros</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v16/persons#p_MS1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v29/persons#p_MS1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Markezinis, Spyro</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v30/persons#p_MS5</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="6">
+        <remark source-urls="1">
+            <p>leader of the New Party in Greece.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1951v05/persons#p_MSB1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Greek Minister of Coordination.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v08/persons#p_MSS1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>founder and leader of the Progressive Party in Greece</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v24/persons#p_MS1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Greek politician</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v16/persons#p_MS1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>prominent Greek liberal politician who refused to take part in the 1967 coup</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v29/persons#p_MS1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Greek Prime Minister from October until November 1973</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v30/persons#p_MS5</source-url>
+        </remark>
+    </remarks>
+</person>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>112332</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Shea, Joseph Hooker</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="1">
+                <name>Shea, Joseph H.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1916Supp/persons#p_SJH1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Shea, Joseph Hooker</name>
+                <source-url>https://history.state.gov/departmenthistory/people/shea-joseph-hooker</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Joseph H. Shea</name>
+                <source-url>https://history.state.gov/departmenthistory/people/shea-joseph-hooker</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1863</birth-year>
+    <death-year>1928</death-year>
+    <remarks variants="2">
+        <remark source-urls="1">
+            <p>U. S. Ambassador in Chile.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1916Supp/persons#p_SJH1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Non-career appointee. Ambassador Extraordinary and Plenipotentiary (Chile).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/shea-joseph-hooker</source-url>
+        </remark>
+    </remarks>
+</person>

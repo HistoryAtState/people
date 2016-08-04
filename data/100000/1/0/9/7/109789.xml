@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>109789</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Nguyen Duc Thang</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="4">
+                <name>Nguyen Duc Thang</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v02/persons#p_NDT1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v03/persons#p_NDT1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v04/persons#p_NDT1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v05/persons#p_NDT1</source-url>
+            </original>
+            <original source-urls="3">
+                <name>Thang</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v02/persons#p_Thang1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v03/persons#p_Thang1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v04/persons#p_Thang1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Nguyen Duc Thang, Commanding General</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v06/persons#p_NDTCG1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="1">
+            <title source-urls="1">
+                <name>Commanding General</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v06/persons#p_NDTCG1</source-url>
+            </title>
+        </titles-from-name>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="5">
+        <remark source-urls="2">
+            <p>General, ARVN, Assistant Chief of Staff, J-3 (Operations); Minister of Rural Construction after October 1965</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v02/persons#p_NDT1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v03/persons#p_NDT1</source-url>
+        </remark>
+        <remark source-urls="3">
+            <p>see Nguyen Duc Thang</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v02/persons#p_Thang1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v03/persons#p_Thang1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v04/persons#p_Thang1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>General, ARVN, Vietnamese Minister of Rural Construction/Revolutionary Development</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v04/persons#p_NDT1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>General, ARVN, Vietnamese Minister of Rural Revolutionary Development through October; thereafter Commanding General of IV CTZ.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v05/persons#p_NDT1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>IV Combat Tactical Zone, Army of the Republic of Vietnam</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v06/persons#p_NDTCG1</source-url>
+        </remark>
+    </remarks>
+</person>

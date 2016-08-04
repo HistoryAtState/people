@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>112005</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Scassa, Eugene L.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="1">
+                <name>Scassa, Eugene L.</name>
+                <source-url>https://history.state.gov/departmenthistory/people/scassa-eugene-l</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1939</birth-year>
+    <death-year>2012</death-year>
+    <remarks variants="1">
+        <remark source-urls="1">
+            <p>Foreign Service Officer. Ambassador Extraordinary and Plenipotentiary (Belize).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/scassa-eugene-l</source-url>
+        </remark>
+    </remarks>
+</person>

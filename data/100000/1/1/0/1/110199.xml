@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>110199</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Owen, Ruth (Bryan)</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="1">
+                <name>Owen, Ruth (Bryan)</name>
+                <source-url>https://history.state.gov/departmenthistory/people/owen-ruth-bryan</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Ruth Bryan Owen</name>
+                <source-url>https://history.state.gov/departmenthistory/people/owen-ruth-bryan</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Ruth Bryan Rohde</name>
+                <source-url>https://history.state.gov/departmenthistory/people/owen-ruth-bryan</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1885</birth-year>
+    <death-year>1954</death-year>
+    <remarks variants="1">
+        <remark source-urls="1">
+            <p>Non-career appointee. Envoy Extraordinary and Minister Plenipotentiary (Denmark).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/owen-ruth-bryan</source-url>
+        </remark>
+    </remarks>
+</person>

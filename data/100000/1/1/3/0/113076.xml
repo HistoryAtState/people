@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>113076</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Stoph, Willi</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="3">
+                <name>Stoph, Willi</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v07p1/persons#p_SW1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v07p2/persons#p_SW1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v40/persons#p_SW2</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Stoph, Willi (SED)</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v15/persons#p_SW6</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="1">
+            <title source-urls="1">
+                <name>(SED)</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v15/persons#p_SW6</source-url>
+            </title>
+        </titles-from-name>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="3">
+        <remark source-urls="2">
+            <p>Minister of the Interior of the German Democratic Republic from May 1952 and member of the Politburo of the Socialist Unity Party.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v07p1/persons#p_SW1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v07p2/persons#p_SW1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Chairman of the East German Council of Ministers (head of government) from September 24, 1964</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v15/persons#p_SW6</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Chairman of the Ministerial Council of the German Democratic Republic; member of the Politburo of the Central Committee of the Socialist Unity Party of (East) Germany</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v40/persons#p_SW2</source-url>
+        </remark>
+    </remarks>
+</person>

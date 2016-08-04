@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>110528</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Penfield, Frederic Courtland</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="4">
+                <name>Penfield, Frederic Courtland</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1914Supp/persons#p_PFC1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1915Supp/persons#p_PFC1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1916Supp/persons#p_PFC1</source-url>
+                <source-url>https://history.state.gov/departmenthistory/people/penfield-frederic-courtland</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Frederic C. Penfield</name>
+                <source-url>https://history.state.gov/departmenthistory/people/penfield-frederic-courtland</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Frederick Courtland Penfield</name>
+                <source-url>https://history.state.gov/departmenthistory/people/penfield-frederic-courtland</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1855</birth-year>
+    <death-year>1922</death-year>
+    <remarks variants="3">
+        <remark source-urls="2">
+            <p>United States Ambassador in Austria-Hungary.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1914Supp/persons#p_PFC1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1915Supp/persons#p_PFC1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>U. S. Ambassador in Austria-Hungary.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1916Supp/persons#p_PFC1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Non-career appointee. Agent/Consul General (Egypt); Ambassador Extraordinary and Plenipotentiary (Austria).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/penfield-frederic-courtland</source-url>
+        </remark>
+    </remarks>
+</person>

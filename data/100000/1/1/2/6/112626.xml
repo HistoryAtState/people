@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>112626</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Smith, Horace Harrison</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="2">
+                <name>Smith, Horace H.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v22/persons#p_SHH1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v16/persons#p_SHH1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Smith, Horace Harrison</name>
+                <source-url>https://history.state.gov/departmenthistory/people/smith-horace-harrison</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Horace H. Smith</name>
+                <source-url>https://history.state.gov/departmenthistory/people/smith-horace-harrison</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1905</birth-year>
+    <death-year>1976</death-year>
+    <remarks variants="3">
+        <remark source-urls="1">
+            <p>Counselor of Embassy in the Philippines from August 1956</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v22/persons#p_SHH1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Ambassador to Laos, March 26, 1958–June 21, 1960</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v16/persons#p_SHH1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Foreign Service Officer. Ambassador Extraordinary and Plenipotentiary (Laos).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/smith-horace-harrison</source-url>
+        </remark>
+    </remarks>
+</person>

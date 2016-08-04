@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>102399</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Chaplin, Maxwell</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="2">
+                <name>Chaplin, Maxwell</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve10/persons#p_CM1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1981-88v13/persons#p_CM_1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="2">
+        <remark source-urls="1">
+            <p>Country Director for Mexico from January 1969 until August 1969; detailed to National War College from August 1969 until June 1970; Deputy Chief of Mission at the U.S. Embassy in Quito from June 1970</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve10/persons#p_CM1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Deputy Chief of Mission, U.S. Embassy in Buenos Aires from 1976 until 1980</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1981-88v13/persons#p_CM_1</source-url>
+        </remark>
+    </remarks>
+</person>

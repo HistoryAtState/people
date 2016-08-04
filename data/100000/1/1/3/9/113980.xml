@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>113980</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Van Fleet, James A.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="4">
+                <name>Van Fleet, James A.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v05/persons#p_VJA1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v13p1/persons#p_VFGJ1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v16/persons#p_VFJA1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v09/persons#p_VFJA_1</source-url>
+            </original>
+            <original source-urls="3">
+                <name>Van Fleet, General James A.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v09p1/persons#p_VFGJ1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v09p2/persons#p_VFGJ1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v13p2/persons#p_VFGJA1</source-url>
+            </original>
+            <original source-urls="2">
+                <name>Van Fleet, Lieutenant General James A.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v15p1/persons#p_VFLGJA1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v15p2/persons#p_VFLGJA1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="2">
+            <title source-urls="3">
+                <name>General</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v09p1/persons#p_VFGJ1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v09p2/persons#p_VFGJ1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v13p2/persons#p_VFGJA1</source-url>
+            </title>
+            <title source-urls="2">
+                <name>Lieutenant General</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v15p1/persons#p_VFLGJA1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v15p2/persons#p_VFLGJA1</source-url>
+            </title>
+        </titles-from-name>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="6">
+        <remark source-urls="1">
+            <p>USA, former Director, Joint U.S. Military Advisory and Planning Group in Greece, 1948–1950, and Chief, Joint U.S. Military Aid Group to Greece, until July 17, 1950.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1951v05/persons#p_VJA1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>USA, Commanding General, Eighth Army, Korea until February 11, 1953; retired from the Army, March 31, 1953.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v09p1/persons#p_VFGJ1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v09p2/persons#p_VFGJ1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>USA, Commanding General, United States Eighth Army, in Korea, to February 11, 1953.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v13p1/persons#p_VFGJ1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v13p2/persons#p_VFGJA1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>USA, Commander of the United States Eighth Army in Korea to February 11, 1953.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v15p1/persons#p_VFLGJA1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v15p2/persons#p_VFLGJA1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>General (ret.), former Commander of the United States 8th Army in Korea; appointed Special Representative of President Eisenhower to conduct a military survey in the Far East, April 1954.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v16/persons#p_VFJA1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>General, USA, from April 1951 commanded the U.S. Eighth Army in Korea</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v09/persons#p_VFJA_1</source-url>
+        </remark>
+    </remarks>
+</person>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>105115</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Grantham, Elonzo B., Jr.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="1">
+                <name>Grantham, Rear Admiral Elonzo B., Jr., USN</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v12/persons#p_GRAEBJ1</source-url>
+            </original>
+            <original source-urls="2">
+                <name>Grantham, Rear Admiral Elonzo B., Jr.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v17/persons#p_GRAEBJ1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v18/persons#p_GRAEBJ1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Grantham, Rear Admiral Elonzo B.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v13/persons#p_GRAEB1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="2">
+            <title source-urls="1">
+                <name>Rear Admiral (USN)</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v12/persons#p_GRAEBJ1</source-url>
+            </title>
+            <title source-urls="3">
+                <name>Rear Admiral</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v17/persons#p_GRAEBJ1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v18/persons#p_GRAEBJ1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v13/persons#p_GRAEB1</source-url>
+            </title>
+        </titles-from-name>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="3">
+        <remark source-urls="1">
+            <p>Director for Near East, South Asia, and African Affairs, International Security Affairs, Department of Defense</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v12/persons#p_GRAEBJ1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Regional Director, Near East, South Asia and Africa, Office of the Deputy Assistant Secretary of Defense for International Security Affairs</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v17/persons#p_GRAEBJ1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v18/persons#p_GRAEBJ1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>USN, Regional Director, Near East, South Asia, and Africa, Office of the Assistant Secretary of Defense for International Security Affairs, 1959–1960</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v13/persons#p_GRAEB1</source-url>
+        </remark>
+    </remarks>
+</person>

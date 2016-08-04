@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>108386</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Maki, Hosein</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="1">
+                <name>Maki, Hosein</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v10/persons#p_MH1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="1">
+        <remark source-urls="1">
+            <p>Confidante of Iranian Prime Minister Mosadeq; member, Board of Directors of the National Iranian Oil Company until December 1952; Deputy in the 17th Majlis, 1952–1953.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v10/persons#p_MH1</source-url>
+        </remark>
+    </remarks>
+</person>

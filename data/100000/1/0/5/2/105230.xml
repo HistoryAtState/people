@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>105230</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Gross, Christian</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="1">
+                <name>Gross, Christian</name>
+                <source-url>https://history.state.gov/departmenthistory/people/gross-christian</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1895</birth-year>
+    <death-year>1933</death-year>
+    <remarks variants="1">
+        <remark source-urls="1">
+            <p>Foreign Service Officer. Chargé d'Affaires ad interim (Haiti).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/gross-christian</source-url>
+        </remark>
+    </remarks>
+</person>

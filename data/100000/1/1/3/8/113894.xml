@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>113894</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Urrutía Holguín, Francisco</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="2">
+                <name>Urrutia, Francisco</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v03/persons#p_URRUTIAF1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v13/persons#p_UF1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Urrutia, Holguin Francisco</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v16/persons#p_UHF1</source-url>
+            </original>
+            <original source-urls="2">
+                <name>Urrutía Holguín, Francisco</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v06/persons#p_UHF1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v07/persons#p_UHF1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="4">
+        <remark source-urls="1">
+            <p>Deputy Permanent Representative of Colombia to the United Nations until February 1953; Permanent Representative to the United Nations and Representative on the Security Council from August 19, 1953.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v03/persons#p_URRUTIAF1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Colombian Permanent Representative at the United Nations: Member of the Colombian Delegation at the Geneva Conference.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v16/persons#p_UHF1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Colombian Ambassador to the United Nations until September 1957; Representative to the Security Council, 1957; President of that Council, August 1957; Ambassador to the United States, November 10, 1955-September 1957</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v06/persons#p_UHF1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v07/persons#p_UHF1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Personal Representative of the United Nations Secretary-General for negotiations pertaining to the demilitarization of the Mount Scopus area until April 1958; thereafter specially-designated Representative of the Secretary-General</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v13/persons#p_UF1</source-url>
+        </remark>
+    </remarks>
+</person>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>108609</id>
+    <authorities>
+        <authority service="viaf">16532023</authority>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Masire, Quett Ketumile</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="1">
+                <name>President Quett Ketumile Masire</name>
+                <source-url>https://history.state.gov/departmenthistory/visits/botswana</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="1">
+        <remark source-urls="1">
+            <p>President, Botswana. Visited U.S. 2 times, 1984–1989</p>
+            <source-url>https://history.state.gov/departmenthistory/visits/botswana</source-url>
+        </remark>
+    </remarks>
+</person>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>113010</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Stewart, George C.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="3">
+                <name>Stewart, George C.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v06p1/persons#p_STEWARTGC1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v06p2/persons#p_STEWARTGC1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v13p1/persons#p_SMGGC1</source-url>
+            </original>
+            <original source-urls="2">
+                <name>Stewart, Major General George C.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v09p1/persons#p_SMG1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v09p2/persons#p_SMG1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Stewart, Major General George C</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v13p2/persons#p_SMGGC1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="1">
+            <title source-urls="3">
+                <name>Major General</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v09p1/persons#p_SMG1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v09p2/persons#p_SMG1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v13p2/persons#p_SMGGC1</source-url>
+            </title>
+        </titles-from-name>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="3">
+        <remark source-urls="2">
+            <p>Major General, U.S. Army; Deputy Administrator, General Staff, Department of the Army until 1953; thereafter Director of Military Assistance, Department of International Security Affairs.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v06p1/persons#p_STEWARTGC1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v06p2/persons#p_STEWARTGC1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>USA, Deputy for Foreign Military Aid to the Assistant Chief of Staff for Logistics, Army Headquarters, until March 1, 1953; thereafter Director of the Office of Military Assistance, Department of Defense.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v09p1/persons#p_SMG1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v09p2/persons#p_SMG1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>USA, Director of the Office of Military Assistance, Department of Defense, from March 1, 1953.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v13p1/persons#p_SMGGC1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v13p2/persons#p_SMGGC1</source-url>
+        </remark>
+    </remarks>
+</person>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>106280</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Humphrey, Donald D.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="2">
+                <name>Humphrey, Donald D.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1948v02/persons#p_HDD1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v23/persons#p_HDD1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="2">
+        <remark source-urls="1">
+            <p>Deputy Economic Adviser to the U.S. Military Governor for Germany</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1948v02/persons#p_HDD1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>head of the U.S. Economic Team to Indonesia, August-September 1961</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v23/persons#p_HDD1</source-url>
+        </remark>
+    </remarks>
+</person>

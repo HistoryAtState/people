@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>103693</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Duggan, William Redman</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="1">
+                <name>Duggan, William Redman</name>
+                <source-url>https://history.state.gov/departmenthistory/people/duggan-william-redman</source-url>
+            </original>
+            <original source-urls="1">
+                <name>William R. Duggan</name>
+                <source-url>https://history.state.gov/departmenthistory/people/duggan-william-redman</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1915</birth-year>
+    <death-year>1977</death-year>
+    <remarks variants="1">
+        <remark source-urls="1">
+            <p>Foreign Service Officer. Chargé d'Affaires ad interim (Tanzania).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/duggan-william-redman</source-url>
+        </remark>
+    </remarks>
+</person>

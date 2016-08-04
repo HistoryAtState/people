@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>103340</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Deming, Olcott Hawthorne</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="2">
+                <name>Deming, Olcott H.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v21/persons#p_DOH1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v23/persons#p_DOH_1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Deming, Olcott Hawthorne</name>
+                <source-url>https://history.state.gov/departmenthistory/people/deming-olcott-hawthorne</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Olcott H. Deming</name>
+                <source-url>https://history.state.gov/departmenthistory/people/deming-olcott-hawthorne</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1910</birth-year>
+    <death-year>2007</death-year>
+    <remarks variants="3">
+        <remark source-urls="1">
+            <p>Director, Office of Eastern and Southern African Affairs, Bureau of African Affairs, Department of State, until August 1962; Ambassador to Uganda from January 1963</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v21/persons#p_DOH1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Ambassador to Uganda, January 1963 until June 1966</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v23/persons#p_DOH_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Foreign Service Officer. Ambassador Extraordinary and Plenipotentiary (Uganda).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/deming-olcott-hawthorne</source-url>
+        </remark>
+    </remarks>
+</person>

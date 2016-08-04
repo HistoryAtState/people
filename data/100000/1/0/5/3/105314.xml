@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>105314</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Gunther, Franklin Mott</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="1">
+                <name>Gunther, Franklin Mott</name>
+                <source-url>https://history.state.gov/departmenthistory/people/gunther-franklin-mott</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1885</birth-year>
+    <death-year>1941</death-year>
+    <remarks variants="1">
+        <remark source-urls="1">
+            <p>Foreign Service Officer. Envoy Extraordinary and Minister Plenipotentiary (Romania); Envoy Extraordinary and Minister Plenipotentiary (Egypt); Envoy Extraordinary and Minister Plenipotentiary (Ecuador).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/gunther-franklin-mott</source-url>
+        </remark>
+    </remarks>
+</person>

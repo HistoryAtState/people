@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>103845</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Edwards, William Jackson (Jack)</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="2">
+                <name>Edwards, William Jackson (Jack)</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v35/persons#p_EWJ_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve03/persons#p_EWJJ1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="2">
+        <remark source-urls="1">
+            <p>member, U.S. House of Representatives (R-Alabama)</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v35/persons#p_EWJ_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Republican Representative from Alabama, U.S. House of Representatives Appropriations Committee</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve03/persons#p_EWJJ1</source-url>
+        </remark>
+    </remarks>
+</person>

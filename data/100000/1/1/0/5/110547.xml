@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>110547</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Perez, Carlos Andres</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="1">
+                <name>President Carlos Andres Perez</name>
+                <source-url>https://history.state.gov/departmenthistory/visits/venezuela</source-url>
+            </original>
+            <original source-urls="7">
+                <name>Perez, Carlos Andres</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v22/persons#p_PCA_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve11p1/persons#p_APC_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve11p2/persons#p_PCA_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v03/persons#p_PCA_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v08/persons#p_PCA_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v26/persons#p_PCA_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v30/persons#p_PCA_1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Pérez, Carlos Andrés</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v37/persons#p_PCA_1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="5">
+        <remark source-urls="1">
+            <p>President, Venezuela. Visited U.S. 9 times, 1977–1992</p>
+            <source-url>https://history.state.gov/departmenthistory/visits/venezuela</source-url>
+        </remark>
+        <remark source-urls="3">
+            <p>President of Venezuela from March 12, 1974</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v22/persons#p_PCA_1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve11p1/persons#p_APC_1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve11p2/persons#p_PCA_1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>President of Venezuela</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v37/persons#p_PCA_1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v08/persons#p_PCA_1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>President of Venezuela until March 1979</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v03/persons#p_PCA_1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v30/persons#p_PCA_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>President of Venezuela from 1974 until 1979</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v26/persons#p_PCA_1</source-url>
+        </remark>
+    </remarks>
+</person>

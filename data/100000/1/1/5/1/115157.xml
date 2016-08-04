@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>115157</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Azzawi, Fadhil</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="1">
+                <name>Azzawi, Fadhil</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v18/persons#p_AF_1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="1">
+        <remark source-urls="1">
+            <p>Head of the Iraqi Interests Section in Washington from 1979 until 1980</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v18/persons#p_AF_1</source-url>
+        </remark>
+    </remarks>
+</person>

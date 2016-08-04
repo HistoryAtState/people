@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>102786</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Connor, James E.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="3">
+                <name>Connor, James</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v27/persons#p_CJ_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v31/persons#p_CJ2</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve15p2/persons#p_CJ_4</source-url>
+            </original>
+            <original source-urls="6">
+                <name>Connor, James E.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v28/persons#p_CJE_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v37/persons#p_CJE_2</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v38p2/persons#p_CJE_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve11p2/persons#p_CJE_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve14p1/persons#p_CJE2</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve14p2/persons#p_CJE_2</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="7">
+        <remark source-urls="3">
+            <p>Secretary to the Cabinet from January 1975; White House Staff Secretary from June 1975</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v27/persons#p_CJ_1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v31/persons#p_CJ2</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve11p2/persons#p_CJE_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>White House Staff Secretary and Secretary to the Cabinet, Executive Office of the President from 1974</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v28/persons#p_CJE_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Staff Secretary and Secretary to the Cabinet</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v37/persons#p_CJE_2</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Director of the Office of Planning and Analysis, Atomic Energy Commission, until 1974; thereafter Secretary to the Cabinet and Staff Secretary to the President</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v38p2/persons#p_CJE_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Staff Secretary and Secretary to the Cabinet, Executive Office of the President</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve14p1/persons#p_CJE2</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Director, Office of Planning and Analysis, Atomic Energy Commission until 1974; detailed to White House Personnel Office from November 1974 until January 1975; White House Cabinet Secretary, Executive Office of the President from January 1975 until January 1977; White House Staff Secretary, Executive Office of the President from June 1975 until January 1977</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve14p2/persons#p_CJE_2</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Secretary to the Cabinet from January 1975 until January 1977; White House Staff Secretary from June 1975 until January 1977</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve15p2/persons#p_CJ_4</source-url>
+        </remark>
+    </remarks>
+</person>

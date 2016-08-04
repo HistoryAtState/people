@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>108899</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>McKesson, John Alexander, III</name>
+        </preferred>
+        <alternates/>
+        <originals variants="4">
+            <original source-urls="3">
+                <name>McKesson, John A.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v01/persons#p_MKJA1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v17/persons#p_MKJA1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v18/persons#p_MKJA1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>McKesson, John A., III</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v28/persons#p_MJA_1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>McKesson, John Alexander, III</name>
+                <source-url>https://history.state.gov/departmenthistory/people/mckesson-john-alexander</source-url>
+            </original>
+            <original source-urls="1">
+                <name>John A. McKesson III</name>
+                <source-url>https://history.state.gov/departmenthistory/people/mckesson-john-alexander</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1922</birth-year>
+    <death-year>2002</death-year>
+    <remarks variants="4">
+        <remark source-urls="1">
+            <p>Second Secretary of the Embassy in Vietnam to January 1957; First Secretary, January 1957–July 1957; thereafter First Secretary of the Embassy in France</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v01/persons#p_MKJA1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Acting Executive Secretary, Department of State, from August 1963</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v17/persons#p_MKJA1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v18/persons#p_MKJA1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Director, Office of Central African Affairs, Bureau of African Affairs, Department of State, from 1970 until 1971; U.S. Ambassador to Gabon from February 1971 until June 1975</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v28/persons#p_MJA_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Foreign Service Officer. Ambassador Extraordinary and Plenipotentiary (Gabon).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/mckesson-john-alexander</source-url>
+        </remark>
+    </remarks>
+</person>

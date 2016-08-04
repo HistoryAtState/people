@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>108602</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Marvel, Josiah, Jr.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="1">
+                <name>Marvel, Josiah, Jr.</name>
+                <source-url>https://history.state.gov/departmenthistory/people/marvel-josiah</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1904</birth-year>
+    <death-year>1955</death-year>
+    <remarks variants="1">
+        <remark source-urls="1">
+            <p>Non-career appointee. Envoy Extraordinary and Minister Plenipotentiary (Denmark); Ambassador Extraordinary and Plenipotentiary (Denmark).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/marvel-josiah</source-url>
+        </remark>
+    </remarks>
+</person>

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>106101</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Hoover, Herbert Clark</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="5">
+                <name>Hoover, Herbert</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1914Supp/persons#p_HH1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945-50Intel/persons#p_HH1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv01/persons#p_HH1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1947v02/persons#p_HHB1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1950-55Intel/persons#p_HH1</source-url>
+            </original>
+            <original source-urls="2">
+                <name>Hoover, Herbert Clark</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1915Supp/persons#p_HHC1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1916Supp/persons#p_HHC1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Herbert C. Hoover</name>
+                <source-url>https://history.state.gov/cms/apps/presidents/data/presidents.xml#hoover-herbert-c</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1874</birth-year>
+    <death-year>1964</death-year>
+    <remarks variants="7">
+        <remark source-urls="1">
+            <p>Chairman of Commission for Relief in Belgium.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1914Supp/persons#p_HH1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Chairman of the Commission for Relief in Belgium.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1915Supp/persons#p_HHC1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1916Supp/persons#p_HHC1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>former President; Chairman of the Commission on Organization of the Executive Branch of the Government</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1945-50Intel/persons#p_HH1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>President of the United States, 1929–1933.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv01/persons#p_HH1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>President of the United States, 1929–1933</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1947v02/persons#p_HHB1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>former President; Chairman of the Commission on Organization of the Executive Branch of the Government from 1953</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1950-55Intel/persons#p_HH1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>President of the United States, from March 4, 1929 until March 4, 1933</p>
+            <source-url>https://history.state.gov/cms/apps/presidents/data/presidents.xml#hoover-herbert-c</source-url>
+        </remark>
+    </remarks>
+</person>

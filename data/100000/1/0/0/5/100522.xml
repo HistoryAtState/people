@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>100522</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Aram, Abbas</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="7">
+                <name>Aram, Abbas</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v12/persons#p_AA7</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v17/persons#p_AA7</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v18/persons#p_AA7</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v19/persons#p_AA2</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v21/persons#p_AA7</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v22/persons#p_AA7</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v24/persons#p_AA7</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="5">
+        <remark source-urls="2">
+            <p>Foreign Minister of Iran</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v12/persons#p_AA7</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v19/persons#p_AA2</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Iranian Foreign Minister from July 19, 1962</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v17/persons#p_AA7</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v18/persons#p_AA7</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Foreign Minister of Iran, January 1965-February 1967</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v21/persons#p_AA7</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Foreign Minister of Iran until March 1967</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v22/persons#p_AA7</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Iranian Ambassador to the United Kingdom</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v24/persons#p_AA7</source-url>
+        </remark>
+    </remarks>
+</person>

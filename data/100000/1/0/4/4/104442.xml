@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>104442</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Fortier, Louis J.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="1">
+                <name>Fortier, Brigadier General Louis J.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945-50Intel/persons#p_FBGLJ1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="1">
+            <title source-urls="1">
+                <name>Brigadier General</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945-50Intel/persons#p_FBGLJ1</source-url>
+            </title>
+        </titles-from-name>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="1">
+        <remark source-urls="1">
+            <p>(USA) Chairman, Ad Hoc Committee of the Central Intelligence Group (the Fortier Committee), from 1946</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1945-50Intel/persons#p_FBGLJ1</source-url>
+        </remark>
+    </remarks>
+</person>

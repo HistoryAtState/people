@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>112131</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Schwartz, Harry H.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="8">
+                <name>Schwartz, Harry H.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v04/persons#p_SHH1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v05p1/persons#p_SCHWARTZHH1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v05p2/persons#p_SCHWARTZHH1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v07p1/persons#p_SHH1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v07p2/persons#p_SHH1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v19/persons#p_SHH2</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v20/persons#p_SHH2</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v33/persons#p_SHH6</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Schwartz, Harry</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve01/persons#p_SHH6</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="6">
+        <remark source-urls="1">
+            <p>member of the Polícy Planning Staff, Department of State, State Representative on the National Security Council Planning Board from May 1953 until March 1954.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v04/persons#p_SHH1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Member of the Policy Planning Staff and Department of State Representative on the National Security Council Planning Board, May 1953–March 1954.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v05p1/persons#p_SCHWARTZHH1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v05p2/persons#p_SCHWARTZHH1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Office of the Counselor of the Department of State until May 1953.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v07p1/persons#p_SHH1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v07p2/persons#p_SHH1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Deputy Assistant Secretary of Defense for International Security Affairs</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v19/persons#p_SHH2</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v20/persons#p_SHH2</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Special Deputy Executive Secretary and Staff Director, Senior Interdepartmental Group, March 1966–August 1967</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v33/persons#p_SHH6</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Special Assistant to the Secretary of State for International Narcotics Issues</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve01/persons#p_SHH6</source-url>
+        </remark>
+    </remarks>
+</person>

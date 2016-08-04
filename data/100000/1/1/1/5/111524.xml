@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>111524</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Rogers, Jordan T.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="2">
+                <name>Rogers, Jordan T.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v03p1/persons#p_RJT1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v03p2/persons#p_RJT1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Rogers, Jordon T.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve10/persons#p_RJT1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="2">
+        <remark source-urls="2">
+            <p>Office of German Economic Affairs, Department of State.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1951v03p1/persons#p_RJT1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1951v03p2/persons#p_RJT1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Director of the Office of Regional Economic Policy, Bureau of Inter-American Affairs, Department of State from March of 1971</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve10/persons#p_RJT1</source-url>
+        </remark>
+    </remarks>
+</person>

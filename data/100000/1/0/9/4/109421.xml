@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>109421</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Morris, Patrick F.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="2">
+                <name>Morris, Patrick F.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v31/persons#p_MPF1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v22/persons#p_MPF_1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="2">
+        <remark source-urls="1">
+            <p>Director, Office of Bolivian-Chilean Affairs, Bureau of Inter-American Affairs, Department of State, November 1965–September 1968</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v31/persons#p_MPF1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Deputy Director of the Office of Panamanian Affairs, Bureau of Inter-American Affairs/Bureau for Latin America, Department of State/Agency for International Development</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v22/persons#p_MPF_1</source-url>
+        </remark>
+    </remarks>
+</person>

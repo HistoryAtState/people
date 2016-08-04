@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>100878</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Barkett, David D.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="1">
+                <name>Barkett, Colonel David D.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945Malta/persons#p_BCDD1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="1">
+            <title source-urls="1">
+                <name>Colonel</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945Malta/persons#p_BCDD1</source-url>
+            </title>
+        </titles-from-name>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="1">
+        <remark source-urls="1">
+            <p>U. S. A., Chief of Staff, China Combat Command (Provisional), China Theater.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1945Malta/persons#p_BCDD1</source-url>
+        </remark>
+    </remarks>
+</person>

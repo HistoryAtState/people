@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>113683</id>
+    <authorities>
+        <authority service="viaf">18121287</authority>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Trajkovski, Boris</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="1">
+                <name>President Boris Trajkovski</name>
+                <source-url>https://history.state.gov/departmenthistory/visits/macedonia</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="1">
+        <remark source-urls="1">
+            <p>President, Macedonia, Former Yugoslav Republic of. Visited U.S. once, 2001</p>
+            <source-url>https://history.state.gov/departmenthistory/visits/macedonia</source-url>
+        </remark>
+    </remarks>
+</person>

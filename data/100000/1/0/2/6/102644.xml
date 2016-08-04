@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>102644</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Clayton, Powell</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="1">
+                <name>Clayton, Powell</name>
+                <source-url>https://history.state.gov/departmenthistory/people/clayton-powell</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1833</birth-year>
+    <death-year>1914</death-year>
+    <remarks variants="1">
+        <remark source-urls="1">
+            <p>Non-career appointee. Envoy Extraordinary and Minister Plenipotentiary (Mexico); Ambassador Extraordinary and Plenipotentiary (Mexico).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/clayton-powell</source-url>
+        </remark>
+    </remarks>
+</person>

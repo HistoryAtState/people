@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>106661</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Johnson, Joseph E.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="5">
+                <name>Johnson, Joseph E.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945v01/persons#p_JJE1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v02p1/persons#p_JOHNSONJE1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v02p2/persons#p_JOHNSONJE1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v17/persons#p_JJE1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v18/persons#p_JJE1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Johnson, Joseph</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v34/persons#p_JJ2</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="4">
+        <remark source-urls="1">
+            <p>Acting Chief, Division of International Security Affairs; one of the three Chief Technical Experts, United States Delegation.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1945v01/persons#p_JJE1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>President of the Carnegie Endowment for International Peace; Member of the Secretary of State’s Panel of Consultants on Disarmament, 1952.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v02p1/persons#p_JOHNSONJE1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v02p2/persons#p_JOHNSONJE1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Special Representative of the United Nations Conciliation Commission for Palestine from August 24, 1961</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v17/persons#p_JJE1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v18/persons#p_JJE1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Vice President, Arabian American Oil Company</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v34/persons#p_JJ2</source-url>
+        </remark>
+    </remarks>
+</person>

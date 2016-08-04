@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>103260</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Dearing, Fred Morris</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="3">
+                <name>Dearing, Fred Morris</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1914Supp/persons#p_DFM1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1916Supp/persons#p_DFM1</source-url>
+                <source-url>https://history.state.gov/departmenthistory/people/dearing-fred-morris</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1879</birth-year>
+    <death-year>1963</death-year>
+    <remarks variants="3">
+        <remark source-urls="1">
+            <p>United States Secretary of Embassy and Chargé d’Affaires in Spain.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1914Supp/persons#p_DFM1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>U. S. Chargé d’Affaires in Russia.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1916Supp/persons#p_DFM1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Foreign Service Officer. Assistant Secretary of State; Envoy Extraordinary and Minister Plenipotentiary (Sweden); Envoy Extraordinary and Minister Plenipotentiary (Portugal); Ambassador Extraordinary and Plenipotentiary (Peru).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/dearing-fred-morris</source-url>
+        </remark>
+    </remarks>
+</person>

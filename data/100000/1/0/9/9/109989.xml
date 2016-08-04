@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>109989</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Obama, Barack</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="1">
+                <name>Barack Obama</name>
+                <source-url>https://history.state.gov/cms/apps/presidents/data/presidents.xml#obama-barack</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1961</birth-year>
+    <death-year/>
+    <remarks variants="1">
+        <remark source-urls="1">
+            <p>President of the United States, from January 20, 2009</p>
+            <source-url>https://history.state.gov/cms/apps/presidents/data/presidents.xml#obama-barack</source-url>
+        </remark>
+    </remarks>
+</person>

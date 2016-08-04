@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>114501</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>White, Ivan B.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="9">
+                <name>White, Ivan B.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v06p1/persons#p_WHITEIB1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v06p2/persons#p_WHITEIB1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v09p1/persons#p_WIB1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v09p2/persons#p_WIB1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v02/persons#p_WIB1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v07p1/persons#p_WIB1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v07p2/persons#p_WIB1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v09/persons#p_WIB1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v13/persons#p_WIB1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="4">
+        <remark source-urls="2">
+            <p>Economic Counselor of Embassy in Spain, August 17, 1951–September 17, 1953; Member of the Mutual Security Agency Economic Group in Spain, April 1952–September 1953.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v06p1/persons#p_WHITEIB1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v06p2/persons#p_WHITEIB1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Counselor of the Embassy in Spain until September 17, 1953; thereafter Counselor of the Embassy in Israel.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v09p1/persons#p_WIB1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v09p2/persons#p_WIB1</source-url>
+        </remark>
+        <remark source-urls="3">
+            <p>Deputy Assistant Secretary of State for European Affairs from March 1959</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v02/persons#p_WIB1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v09/persons#p_WIB1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v13/persons#p_WIB1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Deputy Assistant Secretary of State for European Affairs after March 1959</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v07p1/persons#p_WIB1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v07p2/persons#p_WIB1</source-url>
+        </remark>
+    </remarks>
+</person>

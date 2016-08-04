@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>105396</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Halaby, Najeeb E., Jr.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="7">
+                <name>Halaby, Najeeb E., Jr.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v03p1/persons#p_HNE1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v03p2/persons#p_HNE1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v05/persons#p_HNE1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v05p1/persons#p_HALABYNEJ1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v05p2/persons#p_HALABYNEJ1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v06p1/persons#p_HALABYNEJ1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v06p2/persons#p_HALABYNEJ1</source-url>
+            </original>
+            <original source-urls="2">
+                <name>Halaby, Najeeb E.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v11p1/persons#p_HNE1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v11p2/persons#p_HNE1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Halaby, Najeeb</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v34/persons#p_HN2</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="6">
+        <remark source-urls="2">
+            <p>Special Assistant to the Administrator, Office of the Assistant for International Security Affairs, ECA.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1951v03p1/persons#p_HNE1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1951v03p2/persons#p_HNE1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Assistant for International Security Affairs to the Administrator of the Economic Cooperation Administration.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1951v05/persons#p_HNE1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Assistant for International Security Affairs in the Mutual Security Agency, 1952; Deputy Assistant Secretary of Defense for International Security Affairs after 1953.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v05p1/persons#p_HALABYNEJ1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v05p2/persons#p_HALABYNEJ1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Deputy Assistant Secretary of Defense for International Security Affairs, 1952–1954.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v06p1/persons#p_HALABYNEJ1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v06p2/persons#p_HALABYNEJ1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Deputy Assistant Secretary of Defense for International Security Affairs.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v11p1/persons#p_HNE1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v11p2/persons#p_HNE1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Administrator, Federal Aviation Administration</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v34/persons#p_HN2</source-url>
+        </remark>
+    </remarks>
+</person>

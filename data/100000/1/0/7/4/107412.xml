@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>107412</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Kozyrev, Semyon Pavlovich</name>
+        </preferred>
+        <alternates/>
+        <originals variants="4">
+            <original source-urls="1">
+                <name>Kausurev</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv02/persons#p_K1</source-url>
+            </original>
+            <original source-urls="2">
+                <name>Kozyrev, Semyon Pavlovich</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv02/persons#p_KSP1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v25/persons#p_KSP1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Kozyrev, Semen P.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v40/persons#p_KSP1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Kozyrev, Seymon P.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve03/persons#p_KSP1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="5">
+        <remark source-urls="1">
+            <p>See Kozyrev.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv02/persons#p_K1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Director, First European Division, People’s Commissariat for Foreign Affairs of the Soviet Union.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv02/persons#p_KSP1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Soviet Ambassador to Italy</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v25/persons#p_KSP1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Soviet Deputy Foreign Minister</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v40/persons#p_KSP1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Deputy Minister of Foreign Affairs, Union of Soviet Socialist Republics, and Head of Soviet Delegation to the Third United Nations Conference on the Law of the Sea from 1976</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve03/persons#p_KSP1</source-url>
+        </remark>
+    </remarks>
+</person>

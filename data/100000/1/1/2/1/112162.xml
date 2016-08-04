@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>112162</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Scruggs, William Lindsay</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="1">
+                <name>Scruggs, William Lindsay</name>
+                <source-url>https://history.state.gov/departmenthistory/people/scruggs-william-lindsay</source-url>
+            </original>
+            <original source-urls="1">
+                <name>William L. Scruggs</name>
+                <source-url>https://history.state.gov/departmenthistory/people/scruggs-william-lindsay</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1836</birth-year>
+    <death-year>1912</death-year>
+    <remarks variants="1">
+        <remark source-urls="1">
+            <p>Non-career appointee. Envoy Extraordinary and Minister Plenipotentiary (Venezuela); Minister Resident (Colombia); Envoy Extraordinary and Minister Plenipotentiary (Colombia).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/scruggs-william-lindsay</source-url>
+        </remark>
+    </remarks>
+</person>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>111574</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Roosa, Robert V.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="3">
+                <name>Roosa, Robert V.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v09/persons#p_RRV1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v29p2/persons#p_RRV1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v03/persons#p_RRV_1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="3">
+        <remark source-urls="1">
+            <p>Under Secretary of the Treasury for Monetary Affairs from January 1961</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v09/persons#p_RRV1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Under Secretary of the Treasury for Monetary Affairs until 1964</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v29p2/persons#p_RRV1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Under Secretary of the Treasury for Monetary Affairs from 1961 until 1964</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v03/persons#p_RRV_1</source-url>
+        </remark>
+    </remarks>
+</person>

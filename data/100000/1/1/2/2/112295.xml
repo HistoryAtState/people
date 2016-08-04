@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>112295</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Shantz, Harold</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="4">
+                <name>Shantz, Harold</name>
+                <source-url>https://history.state.gov/departmenthistory/people/shantz-harold</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv01/persons#p_SH2</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv02/persons#p_SH3</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v08/persons#p_SH1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1894</birth-year>
+    <death-year>1967</death-year>
+    <remarks variants="3">
+        <remark source-urls="1">
+            <p>Foreign Service Officer. Envoy Extraordinary and Minister Plenipotentiary (Romania).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/shantz-harold</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Chargé d’Affaires ad interim in Yugoslavia.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv01/persons#p_SH2</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv02/persons#p_SH3</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Minister in Rumania, September 1952–June 1953.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v08/persons#p_SH1</source-url>
+        </remark>
+    </remarks>
+</person>

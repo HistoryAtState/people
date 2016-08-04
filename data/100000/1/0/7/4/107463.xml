@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>107463</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Kroll, Hans S.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="2">
+                <name>Kroll, Hans</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v08/persons#p_KH1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v09/persons#p_KH1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Kroll, Hans S.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v14/persons#p_KHS2</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Kroll, Hans, S.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v15/persons#p_KHS2</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="3">
+        <remark source-urls="2">
+            <p>German Ambassador to the Soviet Union from May 1958</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v08/persons#p_KH1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v09/persons#p_KH1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>German Ambassador to the Soviet Union</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v14/persons#p_KHS2</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>German Ambassador to the Soviet Union until September 1962</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v15/persons#p_KHS2</source-url>
+        </remark>
+    </remarks>
+</person>

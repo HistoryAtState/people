@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>102680</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Cluverius, Wat Tyler, IV</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="2">
+                <name>Cluverius, Wat Tyler, IV</name>
+                <source-url>https://history.state.gov/departmenthistory/people/cluverius-wat-tyler</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v18/persons#p_CWT_1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Wat T. Cluverius, 4th</name>
+                <source-url>https://history.state.gov/departmenthistory/people/cluverius-wat-tyler</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1934</birth-year>
+    <death-year>2010</death-year>
+    <remarks variants="2">
+        <remark source-urls="1">
+            <p>Foreign Service Officer. Ambassador Extraordinary and Plenipotentiary (Bahrain).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/cluverius-wat-tyler</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>U.S. Ambassador to Bahrain until August 2, 1978</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v18/persons#p_CWT_1</source-url>
+        </remark>
+    </remarks>
+</person>

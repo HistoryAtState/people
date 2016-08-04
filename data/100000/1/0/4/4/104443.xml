@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>104443</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Fortuine, Robert</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="1">
+                <name>Fortuine, Robert</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v02/persons#p_FR_2</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="1">
+        <remark source-urls="1">
+            <p>U.S. Public Health Service physician and international health attaché, U.S. Mission to the United Nations in Geneva</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v02/persons#p_FR_2</source-url>
+        </remark>
+    </remarks>
+</person>

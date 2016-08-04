@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>109539</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Munro, Dana Gardner</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="1">
+                <name>Munro, Dana Gardner</name>
+                <source-url>https://history.state.gov/departmenthistory/people/munro-dana-gardner</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Dana G. Munro</name>
+                <source-url>https://history.state.gov/departmenthistory/people/munro-dana-gardner</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1892</birth-year>
+    <death-year>1990</death-year>
+    <remarks variants="1">
+        <remark source-urls="1">
+            <p>Foreign Service Officer. Envoy Extraordinary and Minister Plenipotentiary (Haiti).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/munro-dana-gardner</source-url>
+        </remark>
+    </remarks>
+</person>

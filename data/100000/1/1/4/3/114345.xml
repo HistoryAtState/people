@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>114345</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Watts, William</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="8">
+                <name>Watts, William</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v02/persons#p_WW1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v05/persons#p_WW1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v06/persons#p_WW1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v32/persons#p_WW1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v39/persons#p_WW1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v40/persons#p_WW1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve02/persons#p_WW1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve10/persons#p_WW1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="6">
+        <remark source-urls="3">
+            <p>National Security Council Staff Secretary from 1969 until April 1970</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v02/persons#p_WW1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v40/persons#p_WW1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve02/persons#p_WW1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>member, National Security Council staff, 1969</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v05/persons#p_WW1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Staff Secretary of the National Security Council Secretariat until April 1970</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v06/persons#p_WW1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Secretary, National Security Council staff from 1969 until April 1970</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v32/persons#p_WW1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>National Security Council Staff Secretary from 1969 to April 1970</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v39/persons#p_WW1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Staff Secretary, National Security Council Staff Secretariat from 1970 until 1971</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve10/persons#p_WW1</source-url>
+        </remark>
+    </remarks>
+</person>

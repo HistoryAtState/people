@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>108345</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Magruder, Alexander Richardson</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="3">
+                <name>Magruder, Alexander Richardson</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1914Supp/persons#p_MAR1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1916Supp/persons#p_MAR1</source-url>
+                <source-url>https://history.state.gov/departmenthistory/people/magruder-alexander-richardson</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Alexander R. Magruder</name>
+                <source-url>https://history.state.gov/departmenthistory/people/magruder-alexander-richardson</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1883</birth-year>
+    <death-year>1973</death-year>
+    <remarks variants="3">
+        <remark source-urls="1">
+            <p>United States Secretary of Legation and Chargé d’Affaires in Denmark.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1914Supp/persons#p_MAR1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>U. S. Secretary of Legation at Stockholm.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1916Supp/persons#p_MAR1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Foreign Service Officer. Chargé d'Affaires pro tempore (Finland).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/magruder-alexander-richardson</source-url>
+        </remark>
+    </remarks>
+</person>

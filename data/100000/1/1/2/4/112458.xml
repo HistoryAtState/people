@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>112458</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Sievering, Nelson F., Jr.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="3">
+                <name>Sievering, Nelson F., Jr.</name>
+                <source-url>https://history.state.gov/departmenthistory/people/sievering-nelson-f</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve08/persons#p_SNFJ1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve14p2/persons#p_SNF_1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1924</birth-year>
+    <death-year>1997</death-year>
+    <remarks variants="3">
+        <remark source-urls="1">
+            <p>Non-career appointee. Representative of the U.S.A. to the International Atomic Energy Agency (Vienna).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/sievering-nelson-f</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Bureau of Oceans and International Environmental and Scientific Affairs, Department of State</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve08/persons#p_SNFJ1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Director, Office of General Scientific Affairs, Bureau of International Scientific and Technological Affairs, Department of State; Acting Deputy Director, Bureau of International Scientific and Technological Affairs, 1974; Program Coordinator, Scientific and Technological Affairs, Bureau of Oceans and International Environmental Affairs, Department of State, from 1974 until 1975; Assistant Administrator for International Affairs, Energy Research and Development Agency, from February 1975</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve14p2/persons#p_SNF_1</source-url>
+        </remark>
+    </remarks>
+</person>

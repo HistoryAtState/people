@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>113622</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Togliatti, Palmiro</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="6">
+                <name>Togliatti, Palmiro</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv01/persons#p_TP1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1949v03/persons#p_TP1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v05p1/persons#p_TOGLIATTIP1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v05p2/persons#p_TOGLIATTIP1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v24/persons#p_TP1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v27/persons#p_TP2</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Togliatti, Dr. Palmiro</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1946v03/persons#p_TP1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="1">
+            <title source-urls="1">
+                <name>Dr.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1946v03/persons#p_TP1</source-url>
+            </title>
+        </titles-from-name>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="5">
+        <remark source-urls="1">
+            <p>Secretary General, Italian Communist Party.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv01/persons#p_TP1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Secretary-General of the Italian Communist Party; Leader of the Communist Party Group in the Italian Parliament</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1946v03/persons#p_TP1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Secretary General of the Communist Party of Italy.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1949v03/persons#p_TP1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Secretary-General of the Italian Communist Party.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v05p1/persons#p_TOGLIATTIP1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v05p2/persons#p_TOGLIATTIP1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Secretary General of the Italian Communist Party</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v24/persons#p_TP1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v27/persons#p_TP2</source-url>
+        </remark>
+    </remarks>
+</person>

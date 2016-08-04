@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>103838</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Edmondson, William Brockway</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="1">
+                <name>Edmondson, William B.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v28/persons#p_EWB_1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Edmondson, William Brockway</name>
+                <source-url>https://history.state.gov/departmenthistory/people/edmondson-william-brockway</source-url>
+            </original>
+            <original source-urls="1">
+                <name>William S. Edmondson</name>
+                <source-url>https://history.state.gov/departmenthistory/people/edmondson-william-brockway</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1927</birth-year>
+    <death-year>2013</death-year>
+    <remarks variants="2">
+        <remark source-urls="1">
+            <p>Bureau of African Affairs, Department of State; Deputy Chief of Mission at the U.S. Embassy in South Africa from September 1974 until September 1975; Deputy Assistant Secretary, Bureau of African Affairs, Department of State from 1976 until 1977</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v28/persons#p_EWB_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Foreign Service Officer. Ambassador Extraordinary and Plenipotentiary (South Africa).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/edmondson-william-brockway</source-url>
+        </remark>
+    </remarks>
+</person>

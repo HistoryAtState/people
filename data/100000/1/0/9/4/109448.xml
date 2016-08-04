@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>109448</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Moscoso, Teodoro</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="3">
+                <name>Moscoso, Teodoro</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v12/persons#p_MT4</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v31/persons#p_MT1</source-url>
+                <source-url>https://history.state.gov/departmenthistory/people/moscoso-teodoro</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1910</birth-year>
+    <death-year>1992</death-year>
+    <remarks variants="3">
+        <remark source-urls="1">
+            <p>member, Task Force on Latin America; Ambassador to Venezuela, May-November 1961; Assistant Administrator for Latin America, Agency for International Development, U.S. Coordinator for the Alliance for Progress</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v12/persons#p_MT4</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>U.S. Representative to the Inter-American Economic and Social Committee and the Inter-American Committee on the Alliance for Progress, and Special Adviser to the Assistant Secretary of State for Inter-American Affairs, January–May 1964</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v31/persons#p_MT1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Non-career appointee. Ambassador Extraordinary and Plenipotentiary (Venezuela).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/moscoso-teodoro</source-url>
+        </remark>
+    </remarks>
+</person>

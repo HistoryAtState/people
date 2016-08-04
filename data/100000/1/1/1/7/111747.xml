@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>111747</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Russell, Donald Stuart</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="3">
+                <name>Russell, Donald Stuart</name>
+                <source-url>https://history.state.gov/departmenthistory/people/russell-donald-stuart</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945-50Intel/persons#p_RDS1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv02/persons#p_RD1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Donald S. Russell</name>
+                <source-url>https://history.state.gov/departmenthistory/people/russell-donald-stuart</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Russell, Donald</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv01/persons#p_RD1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1906</birth-year>
+    <death-year>1998</death-year>
+    <remarks variants="3">
+        <remark source-urls="1">
+            <p>Non-career appointee. Assistant Secretary of State for Administration.</p>
+            <source-url>https://history.state.gov/departmenthistory/people/russell-donald-stuart</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Assistant Secretary of State for Administration, September 24, 1945-January 20, 1947</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1945-50Intel/persons#p_RDS1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Special Assistant to the Secretary of State.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv01/persons#p_RD1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv02/persons#p_RD1</source-url>
+        </remark>
+    </remarks>
+</person>

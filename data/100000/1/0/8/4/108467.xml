@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>108467</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Manning, Thomas Courtland</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="1">
+                <name>Manning, Thomas Courtland</name>
+                <source-url>https://history.state.gov/departmenthistory/people/manning-thomas-courtland</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Thomas C. Manning</name>
+                <source-url>https://history.state.gov/departmenthistory/people/manning-thomas-courtland</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1825</birth-year>
+    <death-year>1887</death-year>
+    <remarks variants="1">
+        <remark source-urls="1">
+            <p>Non-career appointee. Envoy Extraordinary and Minister Plenipotentiary (Mexico).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/manning-thomas-courtland</source-url>
+        </remark>
+    </remarks>
+</person>

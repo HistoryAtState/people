@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>101923</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Bulnes Sanfuentes, Francisco</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="2">
+                <name>Bulnes Sanfuentes, Francisco</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v21/persons#p_BSF_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve16/persons#p_BSF_1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="2">
+        <remark source-urls="1">
+            <p>Senator, Chilean National Party, from 1961 until 1968</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v21/persons#p_BSF_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Senator, Chilean Partido Nacional (National Party) from 1961 until 1968</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve16/persons#p_BSF_1</source-url>
+        </remark>
+    </remarks>
+</person>

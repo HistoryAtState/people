@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>105917</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Hill, David Jayne</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="1">
+                <name>Hill, David Jayne</name>
+                <source-url>https://history.state.gov/departmenthistory/people/hill-david-jayne</source-url>
+            </original>
+            <original source-urls="1">
+                <name>David J. Hill</name>
+                <source-url>https://history.state.gov/departmenthistory/people/hill-david-jayne</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1850</birth-year>
+    <death-year>1932</death-year>
+    <remarks variants="1">
+        <remark source-urls="1">
+            <p>Non-career appointee. Assistant Secretary of State; Envoy Extraordinary and Minister Plenipotentiary (Switzerland); Envoy Extraordinary and Minister Plenipotentiary (Netherlands); Envoy Extraordinary and Minister Plenipotentiary (Luxembourg); Ambassador Extraordinary and Plenipotentiary (Germany).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/hill-david-jayne</source-url>
+        </remark>
+    </remarks>
+</person>

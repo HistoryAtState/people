@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>103266</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Debré, Michel</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="13">
+                <name>Debre, Michel</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v05p1/persons#p_DEBREM1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v05p2/persons#p_DEBREM1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v06p1/persons#p_DEBREM1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v06p2/persons#p_DEBREM1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v08/persons#p_DM4</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v09/persons#p_DM4</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v15/persons#p_DM4</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v17/persons#p_DM1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v03/persons#p_DM4</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v04/persons#p_DM4</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v39/persons#p_DM4</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve05p1/persons#p_DM4</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve05p2/persons#p_DM1</source-url>
+            </original>
+            <original source-urls="8">
+                <name>Debré, Michel</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v07p1/persons#p_DM1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v07p2/persons#p_DM1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v08/persons#p_DM1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v09/persons#p_DM1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v13/persons#p_DM1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v13/persons#p_DM1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v12/persons#p_DM1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v41/persons#p_DM_1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>DebrZ, Michel</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v07/persons#p_DZM1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="12">
+        <remark source-urls="2">
+            <p>French Senator and member of the Rassemblement du Peuple Français; French Representative to the Consultative Assembly of the Council of Europe and French Delegate to the Common Assembly of the European Coal and Steel Community.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v05p1/persons#p_DEBREM1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v05p2/persons#p_DEBREM1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>French Representative to the Consultative Assembly of the Council of Europe; French Representative to the Common Assembly of the European Coal and Steel Community.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v06p1/persons#p_DEBREM1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v06p2/persons#p_DEBREM1</source-url>
+        </remark>
+        <remark source-urls="5">
+            <p>French Prime Minister from January 1959</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v07p1/persons#p_DM1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v07p2/persons#p_DM1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v08/persons#p_DM1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v09/persons#p_DM1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v13/persons#p_DM1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Prime Minister of France until April 1962</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v13/persons#p_DM1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>French Minister of Foreign Affairs</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v07/persons#p_DZM1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>French Finance and Economic Affairs Minister, January 9, 1966–May 31, 1968; thereafter Foreign Minister</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v08/persons#p_DM4</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v09/persons#p_DM4</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>French Minister of Economic Affairs and Finance, January 9, 1966-June 1, 1968; thereafter Minister of Foreign Affairs</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v12/persons#p_DM1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>French Finance and Economic Affairs Minister from January 9, 1966 to June 1, 1968; thereafter Foreign Minister</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v15/persons#p_DM4</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>French Foreign Minister</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v17/persons#p_DM1</source-url>
+        </remark>
+        <remark source-urls="4">
+            <p>French Foreign Minister until June 1969</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v03/persons#p_DM4</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v04/persons#p_DM4</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve05p1/persons#p_DM4</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve05p2/persons#p_DM1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Foreign Minister of France until June 1969; Minister of Defense of France from 1969 to 1973</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v39/persons#p_DM4</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>French Foreign Minister until June 1969; thereafter Defense Minister</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v41/persons#p_DM_1</source-url>
+        </remark>
+    </remarks>
+</person>

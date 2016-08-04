@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>113961</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Vandenberg, Arthur H.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="6">
+                <name>Vandenberg, Arthur H.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv01/persons#p_VAH1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv02/persons#p_VAH1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945Malta/persons#p_VAH1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945v01/persons#p_VAH1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1947v02/persons#p_VAH1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v11/persons#p_VAH1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Vandenberg, Senator Arthur H.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1946v03/persons#p_VSAH1</source-url>
+            </original>
+            <original source-urls="2">
+                <name>Vandenberg, Arthur</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1948v02/persons#p_VA1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v03/persons#p_VA_1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="1">
+            <title source-urls="1">
+                <name>Senator</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1946v03/persons#p_VSAH1</source-url>
+            </title>
+        </titles-from-name>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="6">
+        <remark source-urls="3">
+            <p>United States Senator from Michigan.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv01/persons#p_VAH1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv02/persons#p_VAH1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1945Malta/persons#p_VAH1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Senator, Michigan; United States Delegate; Vice Chairman of the United States Delegation.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1945v01/persons#p_VAH1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Member of the United States Delegation (arrived on August 23); United States Senator from Michigan, ranking Republican on the Senate Foreign Relations Committee</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1946v03/persons#p_VSAH1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>United States Senator from Michigan; Chairman of the Senate Foreign Relations Committee</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1947v02/persons#p_VAH1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1948v02/persons#p_VA1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Republican Senator from Michigan, 1928–1951</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v11/persons#p_VAH1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Senator (R–Michigan) from 1927 until 1952</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v03/persons#p_VA_1</source-url>
+        </remark>
+    </remarks>
+</person>

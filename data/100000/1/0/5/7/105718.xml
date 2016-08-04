@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>105718</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Haymerle, Heinrich</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="2">
+                <name>Haymerle, Heinrich</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v03/persons#p_HAYMERLEH1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v17/persons#p_HH1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Haymerle, Heinz</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v09/persons#p_HH1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="3">
+        <remark source-urls="1">
+            <p>Austrian Permanent Observer at the United Nations, 1953–1954.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v03/persons#p_HAYMERLEH1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Political Director, Austrian Foreign Ministry</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v09/persons#p_HH1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Director for Political Affairs of the Austrian Foreign Ministry</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v17/persons#p_HH1</source-url>
+        </remark>
+    </remarks>
+</person>

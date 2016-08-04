@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>114111</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Vogt, John W., Jr.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="5">
+            <original source-urls="1">
+                <name>Vogt, Lieutenant General John W., Jr.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v06/persons#p_VLGJWJ1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Vogt, John W., Jr.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v10/persons#p_VJW1</source-url>
+            </original>
+            <original source-urls="5">
+                <name>Vogt, John W.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v07/persons#p_VJW1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v08/persons#p_VJW1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v09/persons#p_VJW_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v32/persons#p_VJW1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v34/persons#p_VJW1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Vogt, Lt. General John W.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v29/persons#p_VLGJW1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Vogt, Lieutenant General John W.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve04/persons#p_VLGJWJ1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="2">
+            <title source-urls="2">
+                <name>Lieutenant General</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v06/persons#p_VLGJWJ1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve04/persons#p_VLGJWJ1</source-url>
+            </title>
+            <title source-urls="1">
+                <name>Lt. General</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v29/persons#p_VLGJW1</source-url>
+            </title>
+        </titles-from-name>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="9">
+        <remark source-urls="1">
+            <p>USAF, Director for Operations, Joint Staff of the Joint Chiefs of Staff</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v06/persons#p_VLGJWJ1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>General, USA, Military Assistance Command, Vietnam</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v10/persons#p_VJW1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Lieutenant General, USAF, Director of the Joint Staff, Joint Chiefs of Staff</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v07/persons#p_VJW1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Lieutenant General, USAF, until April 7, 1972, General from April 8; Director, Joint Staff, Joint Chiefs of Staff until April 7; Commander, 7th Air Force, and Deputy Commander, Military Assistance Command, Vietnam, from April 10</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v08/persons#p_VJW1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>General, USAF, Commander, 7th Air Force, and Deputy Commander for Air, Military Assistance Command, Vietnam</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v09/persons#p_VJW_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Director, Joint Staff Organization, Joint Chiefs of Staff</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v29/persons#p_VLGJW1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Lieutenant General, USAF, Director, Joint Staff, Joint chiefs of Staff from July 20, 1970 until April 7, 1972</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v32/persons#p_VJW1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Lieutenant General, USAF; Director, Joint Staff, Joint Chiefs of Staff from July 20, 1970, until April 7, 1972</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v34/persons#p_VJW1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Director, Joint Staff, Department of Defense, until April 1972</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve04/persons#p_VLGJWJ1</source-url>
+        </remark>
+    </remarks>
+</person>

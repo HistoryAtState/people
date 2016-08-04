@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>100783</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Baker, Newton Diehl</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="1">
+                <name>Baker, Newton D.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1916Supp/persons#p_BND1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Baker, Newton Diehl</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1917-72PubDip/persons#p_BND_1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="2">
+        <remark source-urls="1">
+            <p>Secretary of War of the United States.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1916Supp/persons#p_BND1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Secretary of War from 1916 until 1921</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1917-72PubDip/persons#p_BND_1</source-url>
+        </remark>
+    </remarks>
+</person>

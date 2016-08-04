@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>105047</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Gordon, Walter L.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="1">
+                <name>Gordon, Walter L.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v12/persons#p_GWL1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="1">
+        <remark source-urls="1">
+            <p>Canadian Minister of Finance and Receiver General until November 10, 1965; Minister Without Portfolio, January 9-April 3, 1967; thereafter President of the Privy Council until March 10, 1968</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v12/persons#p_GWL1</source-url>
+        </remark>
+    </remarks>
+</person>

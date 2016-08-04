@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>109766</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Ngo Dinh Can</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="7">
+                <name>Ngo Dinh Can</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v01/persons#p_NDC1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v01/persons#p_NDC1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v01/persons#p_NDC1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v02/persons#p_NDC1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v03/persons#p_NDC1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v04/persons#p_NDC1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v01/persons#p_NDC1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Can</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v01/persons#p_CAN1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="7">
+        <remark source-urls="1">
+            <p>Brother of Ngo Dinh Diem (unofficial boss” of Hue and central Vietnam)</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v01/persons#p_NDC1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>see Ngo Dinh Can</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v01/persons#p_CAN1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>brother of Ngo Dinh Diem (unofficial “boss” of Hue and central Vietnam)</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v01/persons#p_NDC1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>brother of President Diem and effective unofficial governor of central Vietnam</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v01/persons#p_NDC1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>President Diem 's brother</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v02/persons#p_NDC1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>brother of President Diem</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v03/persons#p_NDC1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v04/persons#p_NDC1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>brother of Ngo Dinh Diem, convicted of murder, extortion, and misuse of power and executed on May 9, 1964</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v01/persons#p_NDC1</source-url>
+        </remark>
+    </remarks>
+</person>

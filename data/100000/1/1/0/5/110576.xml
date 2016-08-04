@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>110576</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Perry, Jack Richard</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="2">
+                <name>Perry, Jack</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v06/persons#p_PJ1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v07/persons#p_PJ1</source-url>
+            </original>
+            <original source-urls="2">
+                <name>Perry, Jack R.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v13/persons#p_PJR1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v02/persons#p_PJR_1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Perry, Jack Richard</name>
+                <source-url>https://history.state.gov/departmenthistory/people/perry-jack-richard</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1930</birth-year>
+    <death-year/>
+    <remarks variants="5">
+        <remark source-urls="1">
+            <p>Political Officer and Second Secretary of the Embassy in Paris</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v06/persons#p_PJ1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Political Officer in the Embassy in France</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v07/persons#p_PJ1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>International Relations Officer, Multilateral Political Relations Section, Soviet Foreign Affairs Division, Office of Soviet Union Affairs, Bureau of European Affairs, Department of State</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v13/persons#p_PJR1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Deputy Executive Secretary of the Department of State from 1979</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v02/persons#p_PJR_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Foreign Service Officer. Ambassador Extraordinary and Plenipotentiary (Bulgaria).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/perry-jack-richard</source-url>
+        </remark>
+    </remarks>
+</person>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>110075</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Olmsted, George H.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="4">
+                <name>Olmsted, Brigadier General George H.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v03p1/persons#p_OBGGH1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v03p2/persons#p_OBGGH1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v04p1/persons#p_OBGGH1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v04p2/persons#p_OBGGH1</source-url>
+            </original>
+            <original source-urls="2">
+                <name>Olmsted, Major General George H.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v11p1/persons#p_OGGH1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v11p2/persons#p_OGGH1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="2">
+            <title source-urls="4">
+                <name>Brigadier General</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v03p1/persons#p_OBGGH1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v03p2/persons#p_OBGGH1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v04p1/persons#p_OBGGH1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v04p2/persons#p_OBGGH1</source-url>
+            </title>
+            <title source-urls="2">
+                <name>Major General</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v11p1/persons#p_OGGH1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v11p2/persons#p_OGGH1</source-url>
+            </title>
+        </titles-from-name>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="3">
+        <remark source-urls="2">
+            <p>USA, Director, Office of Military Assistance, Office of the Secretary of Defense; Head of United States Delegation to the Tripartite Committee on Military Assistance to Yugoslavia, April 9, 1951; Chief, Joint MDAP mission to Yugoslavia from August 1951.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1951v03p1/persons#p_OBGGH1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1951v03p2/persons#p_OBGGH1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>USA, Head of the United States Delegation to the Tripartite Committee on Military Assistance to Yugoslavia, meeting in Washington beginning April 9, 1951; Chief, Joint MDAP Mission to Yugoslavia, from August 1951</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1951v04p1/persons#p_OBGGH1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1951v04p2/persons#p_OBGGH1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>USA, Director, Office of Military Assistance of the Office of the Assistant Secretary of Defense for International Security Affairs until 1953.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v11p1/persons#p_OGGH1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v11p2/persons#p_OGGH1</source-url>
+        </remark>
+    </remarks>
+</person>

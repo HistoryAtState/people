@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>111407</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Ristić, Marko</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="1">
+                <name>Ristić, Marko</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1946v03/persons#p_RM2</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="1">
+        <remark source-urls="1">
+            <p>Member of the Yugoslav Delegation; Yugoslav Ambassador in France</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1946v03/persons#p_RM2</source-url>
+        </remark>
+    </remarks>
+</person>

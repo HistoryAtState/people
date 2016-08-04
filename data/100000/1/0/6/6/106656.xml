@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>106656</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Johnson, James</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="1">
+                <name>Johnson, James</name>
+                <source-url>https://history.state.gov/departmenthistory/people/johnson-james</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1810</birth-year>
+    <death-year>1891</death-year>
+    <remarks variants="1">
+        <remark source-urls="1">
+            <p>Non-career appointee. Minister Resident (Colombia).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/johnson-james</source-url>
+        </remark>
+    </remarks>
+</person>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>110319</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Palmer, Stephen E., Jr.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="2">
+                <name>Palmer, Stephen E., Jr.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v13/persons#p_PSEJ1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v02/persons#p_PSEJ_1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Palmer, Stephen</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v23/persons#p_PS1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Palmer, Stephen E.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve14p1/persons#p_PSEJ1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="4">
+        <remark source-urls="1">
+            <p>Office of United Nations Political and Security Affairs, Bureau of International Organization Affairs, Department of State, from May 1959</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v13/persons#p_PSEJ1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Director, Office of Regional Affairs, Bureau of Near Eastern and South Asian Affairs and Staff Director, National Security Council Interdepartmental Group, Department of State, from 1977 until 1978; Director, Country Reports Project, Bureau of Human Rights and Humanitarian Affairs, from 1978 until 1979; Chief of Humanitarian Affairs, U.S. Mission in Geneva, 1979; Deputy Assistant Secretary of State for Human Rights and Humanitarian Affairs from 1979; Acting Assistant Secretary of State for Human Rights and Humanitarian Affairs during late 1980 and early 1981</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v02/persons#p_PSEJ_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Office of United Nations Political and Security Affairs, Bureau of International Organization Affairs, Department of State</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v23/persons#p_PS1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Director, Regional Affairs Division, Bureau of Near Eastern and South Asian Affairs, Department of State</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve14p1/persons#p_PSEJ1</source-url>
+        </remark>
+    </remarks>
+</person>

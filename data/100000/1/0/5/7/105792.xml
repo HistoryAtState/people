@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>105792</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Hemmendinger, Noel</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="5">
+                <name>Hemmendinger, Noel</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1948v02/persons#p_HN1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v14p1/persons#p_HN1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v14p2/persons#p_HN1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v23p1/persons#p_HN1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v23p2/persons#p_HN1</source-url>
+            </original>
+            <original source-urls="2">
+                <name>Hemmindinger, Noel</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v15p1/persons#p_HN1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v15p2/persons#p_HN1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="5">
+        <remark source-urls="1">
+            <p>Assistant to the Assistant Secretary of State for Occupied Areas</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1948v02/persons#p_HN1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Officer in Charge of Economic Affairs, Office of Northeast Asian Affairs, Department of State, to September 1954; thereafter Acting Deputy Director, Office of Northeast Asian Affairs.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v14p1/persons#p_HN1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v14p2/persons#p_HN1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Officer in Charge of Economic Affairs, Office of Northeast Asian Affairs, Department of State, to 1954; Acting Deputy Director, Office of Northeast Asian Affairs, from September 9, 1954.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v15p1/persons#p_HN1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v15p2/persons#p_HN1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Deputy Director of the Office of Northeast Asian Affairs, Department of State, from January 1955</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v23p1/persons#p_HN1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Deputy Director of the Office of Northeast Asian Affairs, Bureau of Far Eastern Affairs, Department of State, from January 1955; Acting Director from January 6, 1956</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v23p2/persons#p_HN1</source-url>
+        </remark>
+    </remarks>
+</person>

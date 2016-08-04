@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>103524</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Djerejian, Edward Peter</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="1">
+                <name>Djerejian, Edward P.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v27/persons#p_DEP_1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Djerejian, Edward Peter</name>
+                <source-url>https://history.state.gov/departmenthistory/people/djerejian-edward-peter</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Edward P. Djerejian</name>
+                <source-url>https://history.state.gov/departmenthistory/people/djerejian-edward-peter</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1939</birth-year>
+    <death-year/>
+    <remarks variants="2">
+        <remark source-urls="1">
+            <p>Office of Lebanon, Jordan, Syrian Arab Republic, and Iraq Affairs, Bureau of Near Eastern and South Asian Affairs, Department of State</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v27/persons#p_DEP_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Foreign Service Officer. Assistant Secretary of State for Near Eastern Affairs; Ambassador Extraordinary and Plenipotentiary (Syria); Ambassador Extraordinary and Plenipotentiary (Israel).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/djerejian-edward-peter</source-url>
+        </remark>
+    </remarks>
+</person>

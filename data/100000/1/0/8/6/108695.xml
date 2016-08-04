@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>108695</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Maximov, Mikhail Alexeyevich</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="2">
+                <name>Maximov, Mikhail Alexeyevich</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1943CairoTehran/persons#p_MMA1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv02/persons#p_MM1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="2">
+        <remark source-urls="1">
+            <p>Soviet Chargé d’Affaires in Iran.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1943CairoTehran/persons#p_MMA1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Soviet Ambassador to Iran.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv02/persons#p_MM1</source-url>
+        </remark>
+    </remarks>
+</person>

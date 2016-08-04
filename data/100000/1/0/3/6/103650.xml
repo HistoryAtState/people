@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>103650</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Drew, Gerald Augustin</name>
+        </preferred>
+        <alternates/>
+        <originals variants="4">
+            <original source-urls="2">
+                <name>Drew, Gerald Augustin</name>
+                <source-url>https://history.state.gov/departmenthistory/people/drew-gerald-augustin</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v05/persons#p_DGA1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Gerald A.Drew</name>
+                <source-url>https://history.state.gov/departmenthistory/people/drew-gerald-augustin</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Gerald A. Drew</name>
+                <source-url>https://history.state.gov/departmenthistory/people/drew-gerald-augustin</source-url>
+            </original>
+            <original source-urls="3">
+                <name>Drew, Gerald A.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v06/persons#p_DGA1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v07/persons#p_DGA1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v05/persons#p_DGA1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1903</birth-year>
+    <death-year>1970</death-year>
+    <remarks variants="4">
+        <remark source-urls="1">
+            <p>Foreign Service Officer. Inspector General of the Department of State and the Foreign Service; Director General of the Foreign Service; Envoy Extraordinary and Minister Plenipotentiary (Jordan); Ambassador Extraordinary and Plenipotentiary (Haiti); Ambassador Extraordinary and Plenipotentiary (Bolivia).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/drew-gerald-augustin</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Minister in Jordan.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1951v05/persons#p_DGA1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Ambassador to Bolivia until April 6, 1957; Ambassador to Haiti from May 15, 1957</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v06/persons#p_DGA1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v07/persons#p_DGA1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Ambassador to Haiti until July 1960</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v05/persons#p_DGA1</source-url>
+        </remark>
+    </remarks>
+</person>

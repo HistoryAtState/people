@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>105588</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Harris, Patricia Roberts</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="4">
+                <name>Harris, Patricia Roberts</name>
+                <source-url>https://history.state.gov/departmenthistory/people/harris-patricia-roberts</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v01/persons#p_HPR_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v02/persons#p_HPR_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v20/persons#p_HPR_1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1924</birth-year>
+    <death-year>1985</death-year>
+    <remarks variants="4">
+        <remark source-urls="1">
+            <p>Non-career appointee. Ambassador Extraordinary and Plenipotentiary (Luxembourg).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/harris-patricia-roberts</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>lawyer; Secretary of Housing and Urban Development from January 23, 1977, until August 3, 1979; Secretary of Health and Human Services from August 3, 1979, until January 20, 1981</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v01/persons#p_HPR_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Secretary of Housing and Urban Development from January 23, 1977, until August 3, 1979; Secretary of Health and Human Services from August 3, 1979, until January 20, 1981</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v02/persons#p_HPR_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Secretary of Housing and Urban Development from January 23, 1977, until August 3, 1979; thereafter Secretary of Health and Human Services until January 20, 1981</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v20/persons#p_HPR_1</source-url>
+        </remark>
+    </remarks>
+</person>

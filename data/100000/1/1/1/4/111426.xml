@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>111426</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Roa y Garcia, Raúl</name>
+        </preferred>
+        <alternates/>
+        <originals variants="4">
+            <original source-urls="1">
+                <name>Roa y Garcia, Raúl</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v05/persons#p_RGR1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Roa, Raúl</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v06/persons#p_RR1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Roa Garcia, Raul</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v10/persons#p_RGR1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Roa Y Garcia, Raul</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve01/persons#p_RGR1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="4">
+        <remark source-urls="1">
+            <p>Cuban Representative to the Organization of American States from January 1959; Cuban Foreign Minister from June 12, 1959</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v05/persons#p_RGR1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Cuban Representative on the Council of the Organization of American States, January–June 1959; thereafter Cuban Minister of State (Foreign Minister)</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v06/persons#p_RR1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Cuban Minister for External Relations</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v10/persons#p_RGR1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Cuban Minister of Foreign Relations</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve01/persons#p_RGR1</source-url>
+        </remark>
+    </remarks>
+</person>

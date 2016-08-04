@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>105686</id>
+    <authorities>
+        <authority service="viaf">109312616</authority>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Havel, Vaclav</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="1">
+                <name>President Vaclav Havel</name>
+                <source-url>https://history.state.gov/departmenthistory/visits/czechoslovakia https://history.state.gov/departmenthistory/visits/czech-republic</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="1">
+        <remark source-urls="1">
+            <p>President, Czechoslovakia; Czech Republic. Visited U.S. 8 times, 1990–2002</p>
+            <source-url>https://history.state.gov/departmenthistory/visits/czechoslovakia https://history.state.gov/departmenthistory/visits/czech-republic</source-url>
+        </remark>
+    </remarks>
+</person>

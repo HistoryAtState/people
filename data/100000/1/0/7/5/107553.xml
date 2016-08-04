@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>107553</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Ladgham, Bahi</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="3">
+                <name>Ladgham, Bahi</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v18/persons#p_LB1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v13/persons#p_LB1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve05p2/persons#p_LB1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="3">
+        <remark source-urls="1">
+            <p>Tunisian Deputy Prime Minister, April 1956–July 1957; thereafter Acting Vice President and Secretary of State for Coordination and Defense</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v18/persons#p_LB1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Tunisian Defense Secretary</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v13/persons#p_LB1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Secretary of State to the Presidency of Tunisia, 1969; Prime Minister until November 1970</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve05p2/persons#p_LB1</source-url>
+        </remark>
+    </remarks>
+</person>

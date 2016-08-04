@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>105714</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Hayes, Carlton Joseph Huntley</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="1">
+                <name>Hayes, Carleton J. H.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1943CairoTehran/persons#p_HCJH1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Hayes, Carlton Joseph Huntley</name>
+                <source-url>https://history.state.gov/departmenthistory/people/hayes-carlton-joseph-huntley</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Carlton J. H. Hayes</name>
+                <source-url>https://history.state.gov/departmenthistory/people/hayes-carlton-joseph-huntley</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1882</birth-year>
+    <death-year>1964</death-year>
+    <remarks variants="2">
+        <remark source-urls="1">
+            <p>Ambassador in Spain.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1943CairoTehran/persons#p_HCJH1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Non-career appointee. Ambassador Extraordinary and Plenipotentiary (Spain).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/hayes-carlton-joseph-huntley</source-url>
+        </remark>
+    </remarks>
+</person>

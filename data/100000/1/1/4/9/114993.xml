@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>114993</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Zak, Marilyn</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="1">
+                <name>Zak, Marilyn</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v02/persons#p_ZM_1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="1">
+        <remark source-urls="1">
+            <p>inspector, Coordination and Review Staff, Office of the Inspector General, Department of State; Office of Evaluation, Bureau for Program and Policy Coordination, Agency for International Development, from late 1978</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v02/persons#p_ZM_1</source-url>
+        </remark>
+    </remarks>
+</person>

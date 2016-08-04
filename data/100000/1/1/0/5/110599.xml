@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>110599</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Peters, Thomas J.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="1">
+                <name>Peters, Thomas J.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve03/persons#p_PTJ1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="1">
+        <remark source-urls="1">
+            <p>Deputy Chief, International Narcotics Control, Federal Drug Management Division, Office of Management and Budget, Executive Office of the President</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve03/persons#p_PTJ1</source-url>
+        </remark>
+    </remarks>
+</person>

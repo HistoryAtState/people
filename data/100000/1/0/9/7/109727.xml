@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>109727</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Nessen, Ronald H. (“Ron”)</name>
+        </preferred>
+        <alternates/>
+        <originals variants="5">
+            <original source-urls="2">
+                <name>Nessen, Ron</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v10/persons#p_NR1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v18/persons#p_NR1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Nessen, Ronald H.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v16/persons#p_NRH_1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Nessen, Ronald H. (“Ron”)</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v22/persons#p_NRH_1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Nessen, Ronald H. “Ron,”</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v26/persons#p_NRHR_1</source-url>
+            </original>
+            <original source-urls="2">
+                <name>Nessen, Ronald</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v38p1/persons#p_NR_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v38p2/persons#p_NR_1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="7">
+        <remark source-urls="1">
+            <p>White House Press Secretary from 1974</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v10/persons#p_NR1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>White House Press Secretary from September 20, 1974</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v16/persons#p_NRH_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Press Secretary to President Gerald Ford</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v18/persons#p_NR1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>White House Press Secretary</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v22/persons#p_NRH_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Press Secretary for President Ford</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v26/persons#p_NRHR_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>White House Press Secretary from September 1974 until January 1977</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v38p1/persons#p_NR_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Press Secretary to the President, September 1974–January 1977</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v38p2/persons#p_NR_1</source-url>
+        </remark>
+    </remarks>
+</person>

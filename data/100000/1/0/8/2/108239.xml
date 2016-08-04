@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>108239</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Lyon, Frederick B.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="4">
+                <name>Lyon, Frederick B.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945-50Intel/persons#p_LFB1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v24/persons#p_LFB1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v10p1/persons#p_LFB1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v10p2/persons#p_LFB1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="3">
+        <remark source-urls="1">
+            <p>Director, Office of Controls, Department of State, from 1945</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1945-50Intel/persons#p_LFB1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Minister-Counselor, Embassy in Turkey</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v24/persons#p_LFB1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Minister of the Embassy in Turkey until April 1958</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v10p1/persons#p_LFB1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v10p2/persons#p_LFB1</source-url>
+        </remark>
+    </remarks>
+</person>

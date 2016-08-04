@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>104042</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Escudero, Stanley Tuemler</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="1">
+                <name>Escudero, Stanley T.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v27/persons#p_EST_1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Escudero, Stanley Tuemler</name>
+                <source-url>https://history.state.gov/departmenthistory/people/escudero-stanley-tuemler</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Stanley T. Escudero</name>
+                <source-url>https://history.state.gov/departmenthistory/people/escudero-stanley-tuemler</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1942</birth-year>
+    <death-year/>
+    <remarks variants="2">
+        <remark source-urls="1">
+            <p>Consular Coordinator of the Embassy in Iran</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v27/persons#p_EST_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Foreign Service Officer. Ambassador Extraordinary and Plenipotentiary (Uzbekistan); Ambassador Extraordinary and Plenipotentiary (Tajikistan); Ambassador Extraordinary and Plenipotentiary (Azerbaijan).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/escudero-stanley-tuemler</source-url>
+        </remark>
+    </remarks>
+</person>

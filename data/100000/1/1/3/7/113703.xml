@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>113703</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Tran Van Chuong</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="3">
+                <name>Chuong</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v16/persons#p_C1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v01/persons#p_Chuong1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v01/persons#p_CHUONG1</source-url>
+            </original>
+            <original source-urls="7">
+                <name>Tran Van Chuong</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v16/persons#p_TVC1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v01/persons#p_TVC1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v01/persons#p_TVC1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v01/persons#p_TVC1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v02/persons#p_TVC1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v03/persons#p_TVC1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v04/persons#p_TVC1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="8">
+        <remark source-urls="1">
+            <p>See Tran Van Chuong.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v16/persons#p_C1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Minister of State for the State of Vietnam after June 1954; Delegate of the State of Vietnam at the Geneva Conference.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v16/persons#p_TVC1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>see Tran Van Chuong</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v01/persons#p_Chuong1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v01/persons#p_CHUONG1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Vietnamese Ambassador to the United States</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v01/persons#p_TVC1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Vietnamese Ambassador to the United States Tran Van Dinh, Director General for Information, Republic of Vietnam, from October 1960</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v01/persons#p_TVC1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Ambassador of the Republic of Vietnam to the United States and father of Madame Nhu</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v01/persons#p_TVC1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Ambassador of the Republic of Vietnam to the United States</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v02/persons#p_TVC1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Vietnamese Ambassador to the United States until August 22, 1963</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v03/persons#p_TVC1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v04/persons#p_TVC1</source-url>
+        </remark>
+    </remarks>
+</person>

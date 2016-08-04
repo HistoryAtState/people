@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>111467</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Robinson, Hamlin</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="5">
+                <name>Robinson, Hamlin</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1948v02/persons#p_RH1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v04/persons#p_RH1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v06/persons#p_RH1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v07/persons#p_RH1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v09/persons#p_RH1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="4">
+        <remark source-urls="1">
+            <p>U.S. Deputy Delegate to the Inter-Allied Reparation Agency (from October 1948)</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1948v02/persons#p_RH1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Assistant Chief, Investment and Economic Development Staff, Bureau of Economic Affairs, Department of State, after October 30, 1949; Special Assistant, Office of Financial and Development Policy, 1953.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v04/persons#p_RH1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Special Assistant to the Director, Office of International Financial and Development Affairs, Bureau of Economic Affairs, Department of State, until March 18, 1956; Special Assistant, Office of the Deputy Under Secretary of State for Economic Affairs, March 18, 1956-spring 1957; thereafter, Special Assistant, Office of the Assistant Secretary of State for Economic Affairs</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v06/persons#p_RH1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v07/persons#p_RH1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Special Assistant in the Office of International Financial and Development Affairs, Bureau of Economic Affairs, Department of State</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v09/persons#p_RH1</source-url>
+        </remark>
+    </remarks>
+</person>

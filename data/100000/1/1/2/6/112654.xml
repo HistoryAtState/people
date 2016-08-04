@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>112654</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Smith, Paul Albert</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="1">
+                <name>Smith, Paul Albert</name>
+                <source-url>https://history.state.gov/departmenthistory/people/smith-paul-albert</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Paul A. Smith</name>
+                <source-url>https://history.state.gov/departmenthistory/people/smith-paul-albert</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1901</birth-year>
+    <death-year>1978</death-year>
+    <remarks variants="1">
+        <remark source-urls="1">
+            <p>Non-career appointee. Representative of the U.S.A. on the Council of the International Civil Aviation Organization (Montreal).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/smith-paul-albert</source-url>
+        </remark>
+    </remarks>
+</person>

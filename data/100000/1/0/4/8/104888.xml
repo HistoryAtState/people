@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>104888</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Gillespie, Charles A., Jr.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="2">
+                <name>Gillespie, Charles A., Jr.</name>
+                <source-url>https://history.state.gov/departmenthistory/people/gillespie-charles-a</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1981-88v13/persons#p_GCA_1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1935</birth-year>
+    <death-year>2008</death-year>
+    <remarks variants="2">
+        <remark source-urls="1">
+            <p>Foreign Service Officer. Ambassador Extraordinary and Plenipotentiary (Colombia); Ambassador Extraordinary and Plenipotentiary (Chile).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/gillespie-charles-a</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Executive Assistant to the Assistant Secretary of State for Inter-American Affairs</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1981-88v13/persons#p_GCA_1</source-url>
+        </remark>
+    </remarks>
+</person>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>115680</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Karkashian, John E.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="2">
+                <name>Karkashian, John E.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve11p2/persons#p_KJE_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve16/persons#p_KJE_1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="2">
+        <remark source-urls="1">
+            <p>Deputy Director, Office of Bolivian-Chilean Affairs, Bureau of Inter-American Affairs, Department of State, until January 1974; Director, Office of Bolivian-Chilean Affairs, Bureau of Inter-American Affairs, Department of State, from January 1974 until September 1975; Foreign Service Institute from September 1975 until October 1976; Deputy Director, Office for Combating Terrorism, Deputy Under Secretary of State for Management, from October 1976</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve11p2/persons#p_KJE_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Deputy Director, Office of Bolivia-Chile Affairs, Bureau of Inter-American Affairs, Department of State</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve16/persons#p_KJE_1</source-url>
+        </remark>
+    </remarks>
+</person>

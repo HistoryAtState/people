@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>111541</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Rola-Żymierski, Michal</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="1">
+                <name>Rola-Żymierski, Marshal Michal</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv01/persons#p_RMM1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Rola-Żymierski, Michal</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv02/persons#p_RZMM1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Rola-Zymierski, Michal</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945Malta/persons#p_RZM1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="1">
+            <title source-urls="1">
+                <name>Marshal</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv01/persons#p_RMM1</source-url>
+            </title>
+        </titles-from-name>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="2">
+        <remark source-urls="2">
+            <p>Minister of National Defense in the Polish Provisional Government of National Unity.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv01/persons#p_RMM1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv02/persons#p_RZMM1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Commander in Chief of Polish Forces and Minister of National Defense in the Lublin Polish Government.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1945Malta/persons#p_RZM1</source-url>
+        </remark>
+    </remarks>
+</person>

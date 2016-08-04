@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>101149</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Bender, Albert F.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="2">
+                <name>Bender, Albert F.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v11/persons#p_BAF1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v05/persons#p_BAF1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="2">
+        <remark source-urls="1">
+            <p>Adviser on Legal and Political Matters at the Mission at the United Nations until April 8, 1956; thereafter Senior Adviser on International Organizations and Legal Matters at the Mission</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v11/persons#p_BAF1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Counsellor for Legal and International Organization Affairs, U.S. Mission to the United Nations, 1972</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v05/persons#p_BAF1</source-url>
+        </remark>
+    </remarks>
+</person>

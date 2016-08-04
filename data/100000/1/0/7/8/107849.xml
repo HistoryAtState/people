@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>107849</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Leonard, Walter Anderson</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="1">
+                <name>Leonard, Walter Anderson</name>
+                <source-url>https://history.state.gov/departmenthistory/people/leonard-walter-anderson</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Walter Leonard</name>
+                <source-url>https://history.state.gov/departmenthistory/people/leonard-walter-anderson</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1880</birth-year>
+    <death-year>1955</death-year>
+    <remarks variants="1">
+        <remark source-urls="1">
+            <p>Foreign Service Officer. Chargé d'Affaires ad interim (Estonia).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/leonard-walter-anderson</source-url>
+        </remark>
+    </remarks>
+</person>

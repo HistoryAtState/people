@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>105721</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Hays, Brooks</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="2">
+                <name>Hays, Brooks</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v09/persons#p_HB1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v11/persons#p_HB1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="2">
+        <remark source-urls="1">
+            <p>Democratic Congressman from Arkansas; Member, House Foreign Relations Committee; Member, United States Delegation at the 10th Regular Session of the General Assembly</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v09/persons#p_HB1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Democratic Representative from Arkansas; member, House Foreign Affairs Committee; Representative to the Tenth Session of the United Nations General Assembly</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v11/persons#p_HB1</source-url>
+        </remark>
+    </remarks>
+</person>

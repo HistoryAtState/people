@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>112968</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Stephanopoulos, Stephanos (“Stephen”)</name>
+        </preferred>
+        <alternates/>
+        <originals variants="6">
+            <original source-urls="1">
+                <name>Stephanopoulos, Stephanos (“Stephen”)</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v05/persons#p_SS2</source-url>
+            </original>
+            <original source-urls="2">
+                <name>Stephanopoulous, Stephanos</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v05p1/persons#p_STEPHANOPOULOUSS1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v05p2/persons#p_STEPHANOPOULOUSS1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Stephanopoulos, Stephanos (Stephen)</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v08/persons#p_SSS1</source-url>
+            </original>
+            <original source-urls="4">
+                <name>Stephanopoulos, Stephan</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v16/persons#p_SS2</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v04/persons#p_SS1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v24/persons#p_SS3</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v27/persons#p_SS1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Stephanopoulos, Stephanos</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v24/persons#p_SS2</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Stephanopoulos, Stephen</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v16/persons#p_SS1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="6">
+        <remark source-urls="1">
+            <p>joint leader of the Greek Populist-Unionist Party, incorporated into the Greek Rally in August 1951; member of the Greek Parliament.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1951v05/persons#p_SS2</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Greek Minister of Foreign Affairs, November 23, 1952–October 6, 1955.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v05p1/persons#p_STEPHANOPOULOUSS1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v05p2/persons#p_STEPHANOPOULOUSS1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Greek Rally Member of Parliament; Minister of Foreign Affairs, November 1952–October 1954; Deputy Prime Minister, December 1954–October 1955.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v08/persons#p_SSS1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Greek Minister of Foreign Affairs; Head of the Greek Delegation at the Geneva Conference.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v16/persons#p_SS2</source-url>
+        </remark>
+        <remark source-urls="4">
+            <p>Greek Minister of Foreign Affairs until October 1955</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v04/persons#p_SS1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v24/persons#p_SS2</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v24/persons#p_SS3</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v27/persons#p_SS1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Greek Prime Minister, September 1965–December 1966</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v16/persons#p_SS1</source-url>
+        </remark>
+    </remarks>
+</person>

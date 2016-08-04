@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>102388</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Chang Myon</name>
+        </preferred>
+        <alternates>
+            <name>Chang, John Myun</name>
+        </alternates>
+        <originals variants="4">
+            <original source-urls="2">
+                <name>Chang Myon</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v15p1/persons#p_CHANGM1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v15p2/persons#p_CMCJM1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Chang, Myon, (John Myun Chang)</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v23p2/persons#p_CMJMC1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Chang Myon (John Myun Chang)</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v18/persons#p_CMJMC1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Chang, Myon</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v22/persons#p_CM1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="4">
+        <remark source-urls="2">
+            <p>(Chang, John M.), Prime Minister of the Republic of Korea, February 1951–April 1952.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v15p1/persons#p_CHANGM1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v15p2/persons#p_CMCJM1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Vice President of the Republic of Korea after May 1956</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v23p2/persons#p_CMJMC1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Vice President of the Republic of Korea until April 1960; Prime Minister from August 1960</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v18/persons#p_CMJMC1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Prime Minister of Korea until May 1961</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v22/persons#p_CM1</source-url>
+        </remark>
+    </remarks>
+</person>

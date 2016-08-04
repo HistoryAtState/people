@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>103088</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Cutler, Walter Leon</name>
+        </preferred>
+        <alternates/>
+        <originals variants="4">
+            <original source-urls="1">
+                <name>Cutler, Walter L.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v28/persons#p_CWL_1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Cutler, Walter</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve06/persons#p_CW3</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Cutler, Walter Leon</name>
+                <source-url>https://history.state.gov/departmenthistory/people/cutler-walter-leon</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Walter L. Cutler</name>
+                <source-url>https://history.state.gov/departmenthistory/people/cutler-walter-leon</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1931</birth-year>
+    <death-year/>
+    <remarks variants="3">
+        <remark source-urls="1">
+            <p>Director, Office of Central African Affairs, Bureau of African Affairs, Department of State; U.S. Ambassador to Zaire from November 1975</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v28/persons#p_CWL_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Country Director, Office of Central African Affairs, Bureau of African Affairs, Department of State; thereafter Ambassador to Zaire</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve06/persons#p_CW3</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Foreign Service Officer. Ambassador Extraordinary and Plenipotentiary (Tunisia); Ambassador Extraordinary and Plenipotentiary (Saudi Arabia); Ambassador Extraordinary and Plenipotentiary (Iran); Ambassador Extraordinary and Plenipotentiary (Congo (Kinshasa)).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/cutler-walter-leon</source-url>
+        </remark>
+    </remarks>
+</person>

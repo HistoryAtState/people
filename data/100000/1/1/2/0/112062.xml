@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>112062</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Schmidt, Adolph William</name>
+        </preferred>
+        <alternates/>
+        <originals variants="4">
+            <original source-urls="2">
+                <name>Schmidt, Adolph W.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v17/persons#p_SAW1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve13/persons#p_SAW3</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Schmidt, Adolph</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v41/persons#p_SA_1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Schmidt, Adolph William</name>
+                <source-url>https://history.state.gov/departmenthistory/people/schmidt-adolph-william</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Adolph W. Schmidt</name>
+                <source-url>https://history.state.gov/departmenthistory/people/schmidt-adolph-william</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1904</birth-year>
+    <death-year>2000</death-year>
+    <remarks variants="3">
+        <remark source-urls="2">
+            <p>Ambassador to Canada</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v17/persons#p_SAW1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve13/persons#p_SAW3</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>U.S. Ambassador to Canada from September 1969</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v41/persons#p_SA_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Non-career appointee. Ambassador Extraordinary and Plenipotentiary (Canada).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/schmidt-adolph-william</source-url>
+        </remark>
+    </remarks>
+</person>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>103339</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Deming, Frederick L.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="2">
+                <name>Deming, Frederick L.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v08/persons#p_DFL2</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v12/persons#p_DFL1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="2">
+        <remark source-urls="1">
+            <p>Under Secretary of the Treasury for Monetary Affairs from February 1, 1965</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v08/persons#p_DFL2</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Under Secretary of the Treasury for Monetary Affairs</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v12/persons#p_DFL1</source-url>
+        </remark>
+    </remarks>
+</person>

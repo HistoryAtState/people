@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>106932</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Kauffmann, Henrik L.H. de</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="1">
+                <name>Kauffman, Henrik de</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945Malta/persons#p_KHD</source-url>
+            </original>
+            <original source-urls="2">
+                <name>Kauffmann, Henrik L. H. de</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v03p1/persons#p_KHLHD1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v03p2/persons#p_KHLHD1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Kauffmann, Henrik L. H.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v27/persons#p_KHLH1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="3">
+        <remark source-urls="1">
+            <p>Danish Minister to the United States.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1945Malta/persons#p_KHD</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Danish Ambassador in the United States.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1951v03p1/persons#p_KHLHD1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1951v03p2/persons#p_KHLHD1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Danish Ambassador to the United States</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v27/persons#p_KHLH1</source-url>
+        </remark>
+    </remarks>
+</person>

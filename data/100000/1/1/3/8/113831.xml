@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>113831</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Turner, Stansfield M.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="1">
+                <name>Turner, Stansfield M., Admiral</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v33/persons#p_TSMA_1</source-url>
+            </original>
+            <original source-urls="5">
+                <name>Turner, Stansfield</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v37/persons#p_TS_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v01/persons#p_TS_3</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v02/persons#p_TS_2</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v03/persons#p_TS_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v13/persons#p_TS_1</source-url>
+            </original>
+            <original source-urls="6">
+                <name>Turner, Stansfield M.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v06/persons#p_TSM_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v18/persons#p_TS_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v20/persons#p_TS_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v21/persons#p_TSM_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v26/persons#p_TSM_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v28/persons#p_TS_1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="1">
+            <title source-urls="1">
+                <name>Admiral</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v33/persons#p_TSMA_1</source-url>
+            </title>
+        </titles-from-name>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="10">
+        <remark source-urls="1">
+            <p>Director of Central Intelligence from January 1977 until January 1981</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v33/persons#p_TSMA_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Director of Central Intelligence, from January 1977 until January 1981</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v37/persons#p_TS_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Admiral, USN, Commander-in-chief, AFSOUTH, until February 1977; Director of Central Intelligence from March 9, 1977, until January 20, 1981</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v01/persons#p_TS_3</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Admiral, USN, Director of Central Intelligence from March 9, 1977, until January 20, 1981</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v02/persons#p_TS_2</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v21/persons#p_TSM_1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Admiral, Director of Central Intelligence from March 1977</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v03/persons#p_TS_1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v28/persons#p_TS_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Director of the Central Intelligence Agency</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v06/persons#p_TSM_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Admiral, Director of Central Intelligence Agency from 1977 until 1981</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v13/persons#p_TS_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Admiral, USN; Director of Central Intelligence</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v18/persons#p_TS_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Director of Central Intelligence from March 9, 1977, until January 20, 1981</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v20/persons#p_TS_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Admiral, USN; Director of Central Intelligence from January 1977 until January 1981</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v26/persons#p_TSM_1</source-url>
+        </remark>
+    </remarks>
+</person>

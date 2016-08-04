@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>107349</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Komplektov, Viktor G.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="4">
+                <name>Komplektov, Viktor G.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v16/persons#p_KVG_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v33/persons#p_KVG_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve14p2/persons#p_KVG_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v01/persons#p_KVG_1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="2">
+        <remark source-urls="3">
+            <p>Deputy Chief of the United States of America Department in the Soviet Ministry of Foreign Affairs</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v16/persons#p_KVG_1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v33/persons#p_KVG_1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v01/persons#p_KVG_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Deputy Chief, United States of America Department Soviet Ministry of Foreign Affairs; Acting Chief in 1976</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve14p2/persons#p_KVG_1</source-url>
+        </remark>
+    </remarks>
+</person>

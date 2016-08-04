@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>108223</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Lyman, Princeton Nathan</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="1">
+                <name>Lyman, Princeton Nathan</name>
+                <source-url>https://history.state.gov/departmenthistory/people/lyman-princeton-nathan</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Princeton Nathan Lyman</name>
+                <source-url>https://history.state.gov/departmenthistory/people/lyman-princeton-nathan</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Princeton N. Lyman</name>
+                <source-url>https://history.state.gov/departmenthistory/people/lyman-princeton-nathan</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1935</birth-year>
+    <death-year/>
+    <remarks variants="1">
+        <remark source-urls="1">
+            <p>Foreign Service Officer. Assistant Secretary of State for International Organization Affairs; Assistant Secretary of State for Population, Refugees, and Migration Affairs; Ambassador Extraordinary and Plenipotentiary (South Africa); Ambassador Extraordinary and Plenipotentiary (Nigeria).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/lyman-princeton-nathan</source-url>
+        </remark>
+    </remarks>
+</person>

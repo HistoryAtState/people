@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>101954</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Burke, J. Herbert</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="3">
+                <name>Burke, J. Herbert</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve14p1/persons#p_BJH3</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v28/persons#p_BJH_2</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v30/persons#p_BJH_2</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="3">
+        <remark source-urls="1">
+            <p>Republican Representative from Florida; member, U.S. Delegations to the United Nations Development Program and the United Nations General Assembly in 1975</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve14p1/persons#p_BJH3</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>member, U.S. House of Representatives (R—Florida)</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v28/persons#p_BJH_2</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>member, U.S. House of Representatives (R-Florida) until January 3, 1979</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v30/persons#p_BJH_2</source-url>
+        </remark>
+    </remarks>
+</person>

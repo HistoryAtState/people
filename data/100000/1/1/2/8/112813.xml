@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>112813</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Spearman, Leonard H. O.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="1">
+                <name>Spearman, Leonard H. O.</name>
+                <source-url>https://history.state.gov/departmenthistory/people/spearman-leonard-h-o</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Leonard H.O. Spearman</name>
+                <source-url>https://history.state.gov/departmenthistory/people/spearman-leonard-h-o</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1929</birth-year>
+    <death-year>2008</death-year>
+    <remarks variants="1">
+        <remark source-urls="1">
+            <p>Non-career appointee. Ambassador Extraordinary and Plenipotentiary (Rwanda); Ambassador Extraordinary and Plenipotentiary (Lesotho).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/spearman-leonard-h-o</source-url>
+        </remark>
+    </remarks>
+</person>

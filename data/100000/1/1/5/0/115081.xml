@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>115081</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Zurhellen, Joseph Owen, Jr.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="4">
+            <original source-urls="2">
+                <name>Zurhellen, Joseph Owen, Jr.</name>
+                <source-url>https://history.state.gov/departmenthistory/people/zurhellen-joseph-owen</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v23/persons#p_ZJO_1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>J. Owen Zurhellen Jr.</name>
+                <source-url>https://history.state.gov/departmenthistory/people/zurhellen-joseph-owen</source-url>
+            </original>
+            <original source-urls="2">
+                <name>Zurhellen, J. Owen, Jr.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v10/persons#p_ZJO1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve12/persons#p_zurhellen-j-owen-jr</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Zurhellen, Joseph O.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v25/persons#p_ZJO_1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1920</birth-year>
+    <death-year>1990</death-year>
+    <remarks variants="5">
+        <remark source-urls="1">
+            <p>Foreign Service Officer. Ambassador Extraordinary and Plenipotentiary (Suriname).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/zurhellen-joseph-owen</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Deputy Assistant Secretary of State for East Asian and Pacific Affairs</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v10/persons#p_ZJO1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Deputy Chief of Mission, U.S. Embassy in Tel Aviv, until 1973</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v23/persons#p_ZJO_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Deputy Chief of Mission, U.S. Embassy in Tel Aviv, until June 1973</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v25/persons#p_ZJO_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Deputy Assistant Secretary in the Bureau of East Asian and Pacific Affairs</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve12/persons#p_zurhellen-j-owen-jr</source-url>
+        </remark>
+    </remarks>
+</person>

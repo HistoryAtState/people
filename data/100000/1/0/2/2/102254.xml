@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>102254</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Carter, John Ridgely</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="1">
+                <name>Carter, John Ridgely</name>
+                <source-url>https://history.state.gov/departmenthistory/people/carter-john-ridgely</source-url>
+            </original>
+            <original source-urls="1">
+                <name>John R. Carter</name>
+                <source-url>https://history.state.gov/departmenthistory/people/carter-john-ridgely</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1862</birth-year>
+    <death-year>1944</death-year>
+    <remarks variants="1">
+        <remark source-urls="1">
+            <p>Non-career appointee. Envoy Extraordinary and Minister Plenipotentiary (Yugoslavia); Envoy Extraordinary and Minister Plenipotentiary (Romania); Diplomatic Agent (Bulgaria); Envoy Extraordinary and Minister Plenipotentiary (Bulgaria); Envoy Extraordinary and Minister Plenipotentiary (Argentina).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/carter-john-ridgely</source-url>
+        </remark>
+    </remarks>
+</person>

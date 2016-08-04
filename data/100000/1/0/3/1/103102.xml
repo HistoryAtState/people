@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>103102</id>
+    <authorities>
+        <authority service="viaf">34461248</authority>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Daddah, Mokhtar Ould</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="1">
+                <name>Daddah, Moktar Ould</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v25/persons#p_DMO1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>President Mokhtar Ould Daddah</name>
+                <source-url>https://history.state.gov/departmenthistory/visits/mauritania</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="2">
+        <remark source-urls="1">
+            <p>President of Mauritania</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v25/persons#p_DMO1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>President, Mauritania. Visited U.S. 2 times, 1960–1971</p>
+            <source-url>https://history.state.gov/departmenthistory/visits/mauritania</source-url>
+        </remark>
+    </remarks>
+</person>

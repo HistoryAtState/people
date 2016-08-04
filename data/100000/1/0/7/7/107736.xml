@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>107736</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Lazarev</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="1">
+                <name>Lazarev, Colonel</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v14/persons#p_LC3</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="1">
+            <title source-urls="1">
+                <name>Colonel</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v14/persons#p_LC3</source-url>
+            </title>
+        </titles-from-name>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="1">
+        <remark source-urls="1">
+            <p>Soviet Deputy Political Adviser in Berlin</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v14/persons#p_LC3</source-url>
+        </remark>
+    </remarks>
+</person>

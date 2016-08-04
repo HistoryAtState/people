@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>102599</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Clark, Harlan Bendell</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="2">
+                <name>Clark, Harlan Bendell</name>
+                <source-url>https://history.state.gov/departmenthistory/people/clark-harlan-bendell</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v05/persons#p_CHB1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Harlan B. Clark</name>
+                <source-url>https://history.state.gov/departmenthistory/people/clark-harlan-bendell</source-url>
+            </original>
+            <original source-urls="2">
+                <name>Clark, Harlan B.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v09p1/persons#p_CHB1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v09p2/persons#p_CHB1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1913</birth-year>
+    <death-year>2000</death-year>
+    <remarks variants="3">
+        <remark source-urls="1">
+            <p>Foreign Service Officer. Chargé d'Affaires ad interim (Yemen).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/clark-harlan-bendell</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Officer in Charge of Lebanon-Syria-Iraq Affairs, Department of State, from October 1949; First Secretary and Consul of the Legation in Syria, from March 1951.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1951v05/persons#p_CHB1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>First Secretary and Consul of the Legation in Syria until October 19, 1953; Counselor, October 19, 1953–July 1, 1954.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v09p1/persons#p_CHB1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v09p2/persons#p_CHB1</source-url>
+        </remark>
+    </remarks>
+</person>

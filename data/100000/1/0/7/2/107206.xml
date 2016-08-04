@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>107206</id>
+    <authorities>
+        <authority service="viaf">56618205</authority>
+    </authorities>
+    <names>
+        <preferred>
+            <name>King, William Lyon MacKenzie</name>
+        </preferred>
+        <alternates/>
+        <originals variants="7">
+            <original source-urls="2">
+                <name>King, William Lyon Mackenzie</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1943CairoTehran/persons#p_KWLM1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v27/persons#p_KWLM1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>King, W. L. Mackenzie</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945v01/persons#p_KWLM1</source-url>
+            </original>
+            <original source-urls="3">
+                <name>Mackenzie King</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945v01/persons#p_MK1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1946v03/persons#p_MK1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v27/persons#p_MK1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>King, William Lyon MacKenzie</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1946v03/persons#p_KWLM1</source-url>
+            </original>
+            <original source-urls="2">
+                <name>King, W. L. MacKenzie</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v03p1/persons#p_KWLM1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v03p2/persons#p_KWLM1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Prime Minister Mackenzie King</name>
+                <source-url>https://history.state.gov/departmenthistory/visits/canada</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Prime Minster Mackenzie King</name>
+                <source-url>https://history.state.gov/departmenthistory/visits/canada</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="9">
+        <remark source-urls="1">
+            <p>Prime Minister of Canada.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1943CairoTehran/persons#p_KWLM1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Prime Minister of Canada; Chairman of Canadian Delegation.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1945v01/persons#p_KWLM1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>See King.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1945v01/persons#p_MK1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1946v03/persons#p_MK1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Chief of the Canadian Delegation; Prime Minister of Canada; Foreign Minister until September 4, 1946</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1946v03/persons#p_KWLM1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Canadian Prime Minister, 1921–1930, 1935–1948.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1951v03p1/persons#p_KWLM1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1951v03p2/persons#p_KWLM1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>former Prime Minister of Canada</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v27/persons#p_KWLM1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>see King, William Lyon Mackenzie</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v27/persons#p_MK1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Prime Minister, Canada. Visited U.S. 18 times, 1937–1947</p>
+            <source-url>https://history.state.gov/departmenthistory/visits/canada</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Prime Minister, Canada. Visited U.S. once, 1935</p>
+            <source-url>https://history.state.gov/departmenthistory/visits/canada</source-url>
+        </remark>
+    </remarks>
+</person>

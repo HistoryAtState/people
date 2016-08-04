@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>109806</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Nguyen Phu Duc</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="2">
+                <name>Nguyen Phu Duc</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v09/persons#p_NPD_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v10/persons#p_NPD1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Duc, Nguyen Phu</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v09/persons#p_NPD_1alt1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Duc</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v10/persons#p_D1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="3">
+        <remark source-urls="1">
+            <p>Special Assistant to South Vietnamese President Thieu</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v09/persons#p_NPD_1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>see Nguyen Phu Duc</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v09/persons#p_NPD_1alt1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v10/persons#p_D1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Political Adviser to the President of the Republic of Vietnam; Acting Foreign Minister of the Republic of Vietnam</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v10/persons#p_NPD1</source-url>
+        </remark>
+    </remarks>
+</person>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>102561</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Churchill, George T.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="2">
+                <name>Churchill, George T.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v16/persons#p_CGT1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v29/persons#p_CGT1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="2">
+        <remark source-urls="1">
+            <p>Officer in Charge of Turkish Affairs, Department of State, October 1964–July 1966</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v16/persons#p_CGT1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Director, Office of Cypriot Affairs, Bureau of Near Eastern and South Asian Affairs, Department of State from March 1971</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v29/persons#p_CGT1</source-url>
+        </remark>
+    </remarks>
+</person>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>112793</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Spaak, Fernand</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="3">
+                <name>Spaak, Fernand</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v32/persons#p_SF1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v36/persons#p_SF1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve02/persons#p_SF1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="3">
+        <remark source-urls="1">
+            <p>Belgian diplomat, Director General for Energy, European Community, from 1969</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v32/persons#p_SF1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Director General for Energy, European Communities Commission; European Delegate to the High Level Group of the Organization for Economic Cooperation and Development Oil Committee</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v36/persons#p_SF1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Belgium, Director General for Energy, European Communities, from 1969</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve02/persons#p_SF1</source-url>
+        </remark>
+    </remarks>
+</person>

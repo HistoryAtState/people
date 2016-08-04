@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>108153</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Lowenstein, James Gordon</name>
+        </preferred>
+        <alternates/>
+        <originals variants="4">
+            <original source-urls="3">
+                <name>Lowenstein, James</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v29/persons#p_LJ1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve15p2/persons#p_LJ_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v02/persons#p_LJ_1</source-url>
+            </original>
+            <original source-urls="4">
+                <name>Lowenstein, James G.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v30/persons#p_LJG1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v39/persons#p_LJG1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve15p1/persons#p_LJG1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v21/persons#p_LJG_1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Lowenstein, James Gordon</name>
+                <source-url>https://history.state.gov/departmenthistory/people/lowenstein-james-gordon</source-url>
+            </original>
+            <original source-urls="1">
+                <name>James G. Lowenstein</name>
+                <source-url>https://history.state.gov/departmenthistory/people/lowenstein-james-gordon</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1927</birth-year>
+    <death-year/>
+    <remarks variants="7">
+        <remark source-urls="1">
+            <p>Staff Member, Senate Foreign Relations Committee</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v29/persons#p_LJ1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Deputy Assistant Secretary of State for European Affairs from April 1974 until 1977</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v30/persons#p_LJG1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve15p1/persons#p_LJG1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Deputy Assistant Secretary for European Affairs, Department of State, from April 1974</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v39/persons#p_LJG1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Deputy Assistant Secretary of State for European Affairs from April 1974 until May 1977</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve15p2/persons#p_LJ_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Deputy Assistant Secretary of State for European Affairs until 1977; thereafter Ambassador to Luxembourg</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v02/persons#p_LJ_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Deputy Assistant Secretary of State for European Affairs</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v21/persons#p_LJG_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Foreign Service Officer. Ambassador Extraordinary and Plenipotentiary (Luxembourg).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/lowenstein-james-gordon</source-url>
+        </remark>
+    </remarks>
+</person>

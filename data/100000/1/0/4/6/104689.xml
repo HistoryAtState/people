@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>104689</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Gannett, Michael R.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="6">
+                <name>Gannett, Michael R.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1948v02/persons#p_GMR1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v04p1/persons#p_GMR1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v04p2/persons#p_GMR1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v12/persons#p_GMR1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v17/persons#p_GMR1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v18/persons#p_GMR1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="4">
+        <remark source-urls="1">
+            <p>Second Secretary United States Legation in Austria</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1948v02/persons#p_GMR1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Office of Eastern European Affairs, Department of State</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1951v04p1/persons#p_GMR1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1951v04p2/persons#p_GMR1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Officer in Charge, Baghdad Pact-CENTO Affairs, Bureau of Near Eastern and South Asian Affairs, Department of State, from February 1960</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v12/persons#p_GMR1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Officer in Charge of Central Treaty Organization Affairs, Office of Near Eastern, South Asian Regional Affairs, Bureau of Near Eastern and South Asian Affairs, Department of State, until August 6, 1961</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v17/persons#p_GMR1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v18/persons#p_GMR1</source-url>
+        </remark>
+    </remarks>
+</person>

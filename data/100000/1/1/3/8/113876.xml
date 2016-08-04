@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>113876</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Underhill, Francis Trelease, Jr.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="2">
+                <name>Underhill, Francis T., Jr.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v17/persons#p_UFTJ1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v26/persons#p_UFTJ1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Underhill, Francis Trelease, Jr.</name>
+                <source-url>https://history.state.gov/departmenthistory/people/underhill-francis-trelease</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Francis T. Underhill Jr.</name>
+                <source-url>https://history.state.gov/departmenthistory/people/underhill-francis-trelease</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1921</birth-year>
+    <death-year>1999</death-year>
+    <remarks variants="3">
+        <remark source-urls="1">
+            <p>Officer in Charge of Indonesian-Pacific Island Affairs, Office of Southwest Pacific Affairs, Bureau of Far Eastern Affairs, Department of State, until February 1959</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v17/persons#p_UFTJ1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Deputy Director, Office of South West Pacific Affairs, July 1964–July 1966; thereafter Country Director for Indonesia until July 1968</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v26/persons#p_UFTJ1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Foreign Service Officer. Ambassador Extraordinary and Plenipotentiary (Malaysia).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/underhill-francis-trelease</source-url>
+        </remark>
+    </remarks>
+</person>

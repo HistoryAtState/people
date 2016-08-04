@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>108498</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Marcovich, Hebert</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="1">
+                <name>Marcovich, Hebert</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v05/persons#p_MH1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="1">
+        <remark source-urls="1">
+            <p>French professor and intermediary in Pennsylvania</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v05/persons#p_MH1</source-url>
+        </remark>
+    </remarks>
+</person>

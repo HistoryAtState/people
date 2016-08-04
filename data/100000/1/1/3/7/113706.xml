@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>113706</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Tran Van Huong</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="9">
+                <name>Tran Van Huong</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v01/persons#p_TVH1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v02/persons#p_TVH1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v03/persons#p_TVH1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v06/persons#p_TVH1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v07/persons#p_TVHPM1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v06/persons#p_TVH1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v09/persons#p_TVH_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v10/persons#p_TVH1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v20/persons#p_TVH1</source-url>
+            </original>
+            <original source-urls="3">
+                <name>Huong</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v02/persons#p_HUONG1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v03/persons#p_Huong1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v06/persons#p_HUONG1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Huong, Tran Van</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v09/persons#p_TVH_1alt1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="8">
+        <remark source-urls="1">
+            <p>Vietnamese Prime Minister after November 4,1964</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v01/persons#p_TVH1</source-url>
+        </remark>
+        <remark source-urls="4">
+            <p>see Tran Van Huong</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v02/persons#p_HUONG1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v03/persons#p_Huong1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v06/persons#p_HUONG1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v09/persons#p_TVH_1alt1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Vietnamese Premier until January 27, 1965</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v02/persons#p_TVH1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v03/persons#p_TVH1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Republic of Vietnam Prime Minister from May 18, 1968</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v06/persons#p_TVH1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Prime Minister, Republic of Vietnam</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v07/persons#p_TVHPM1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Prime Minister of the Republic of Vietnam after late 1969</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v06/persons#p_TVH1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v20/persons#p_TVH1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Vice President, Republic of Vietnam</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v09/persons#p_TVH_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>President of the Republic of Vietnam from April 21, 1975, until April 28, 1975</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v10/persons#p_TVH1</source-url>
+        </remark>
+    </remarks>
+</person>

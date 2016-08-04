@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>113117</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Stroop, Paul D.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="2">
+                <name>Stroop, Captain Paul D.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv01/persons#p_SCPD1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945Malta/persons#p_S20</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Stroop, Paul D.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv02/persons#p_SCPD1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="1">
+            <title source-urls="2">
+                <name>Captain</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv01/persons#p_SCPD1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945Malta/persons#p_S20</source-url>
+            </title>
+        </titles-from-name>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="2">
+        <remark source-urls="1">
+            <p>U. S. N., Aviations Plans Officer on the Staff of the Commander in Chief, United States Fleet.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv01/persons#p_SCPD1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>U. S. N., Aviation Plans Officer on the Staff of the Commander in Chief, United States Fleet.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv02/persons#p_SCPD1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1945Malta/persons#p_S20</source-url>
+        </remark>
+    </remarks>
+</person>

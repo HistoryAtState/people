@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>108521</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Mark, David Everett</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="2">
+                <name>Mark, David Everett</name>
+                <source-url>https://history.state.gov/departmenthistory/people/mark-david-everett</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve16/persons#p_MDE_1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>David E. Mark</name>
+                <source-url>https://history.state.gov/departmenthistory/people/mark-david-everett</source-url>
+            </original>
+            <original source-urls="6">
+                <name>Mark, David E.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v25/persons#p_MDE1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v26/persons#p_MDE1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v21/persons#p_MDE_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v25/persons#p_MDE_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve08/persons#p_MDE1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve15p1/persons#p_MDE1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1923</birth-year>
+    <death-year>2005</death-year>
+    <remarks variants="7">
+        <remark source-urls="1">
+            <p>Foreign Service Officer. Ambassador Extraordinary and Plenipotentiary (Burundi).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/mark-david-everett</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Office of Eastern European Affairs, Department of State, until June 1957; thereafter First Secretary and Consul of the Embassy in the Soviet Union</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v25/persons#p_MDE1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Second Secretary for Consular Affairs of the Embassy in Romania until June 16,1957; thereafter First Secretary for Consular Affairs of the Embassy in the Soviet Union</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v26/persons#p_MDE1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Deputy Director for Regional Research, Bureau of Intelligence and Research, Department of State from 1969</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v21/persons#p_MDE_1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve16/persons#p_MDE_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Deputy Director, Bureau of Intelligence and Research, Department of State</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v25/persons#p_MDE_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Bureau of Intelligence and Research, Department of State</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve08/persons#p_MDE1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Deputy Director, Bureau of Intelligence and Research, Department of State, from 1969 to 1974</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve15p1/persons#p_MDE1</source-url>
+        </remark>
+    </remarks>
+</person>

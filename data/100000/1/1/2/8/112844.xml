@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>112844</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Spiro, Herbert John</name>
+        </preferred>
+        <alternates/>
+        <originals variants="4">
+            <original source-urls="1">
+                <name>Spiro, Herbert</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v39/persons#p_SHJ1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Spiro, Herbert J.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v40/persons#p_SHJ1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Spiro, Herbert John</name>
+                <source-url>https://history.state.gov/departmenthistory/people/spiro-herbert-john</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Herbert J. Spiro</name>
+                <source-url>https://history.state.gov/departmenthistory/people/spiro-herbert-john</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1924</birth-year>
+    <death-year>2010</death-year>
+    <remarks variants="3">
+        <remark source-urls="1">
+            <p>Planning and Coordination Staff, Department of State from July 1970</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v39/persons#p_SHJ1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>member of the Planning and Coordination Staff, Department of State, from July 1970</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v40/persons#p_SHJ1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Non-career appointee. Ambassador Extraordinary and Plenipotentiary (Equatorial Guinea); Ambassador Extraordinary and Plenipotentiary (Cameroon).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/spiro-herbert-john</source-url>
+        </remark>
+    </remarks>
+</person>

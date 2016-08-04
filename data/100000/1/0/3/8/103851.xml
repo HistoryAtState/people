@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>103851</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Egal, Mohammed Haji Ibrahim</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="3">
+                <name>Egal, Mohammed Ibrahim</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v24/persons#p_EMI1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve05p1/persons#p_EMI1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve05p2/persons#p_EMI1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Prime Minister Mohammed Haji Ibrahim Egal</name>
+                <source-url>https://history.state.gov/departmenthistory/visits/somalia</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="2">
+        <remark source-urls="3">
+            <p>Prime Minister and Minister of Foreign Affairs of Somalia from June 1967</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v24/persons#p_EMI1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve05p1/persons#p_EMI1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve05p2/persons#p_EMI1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Prime Minister, Somalia; Somali Republic. Visited U.S. 2 times, 1968–1969</p>
+            <source-url>https://history.state.gov/departmenthistory/visits/somalia</source-url>
+        </remark>
+    </remarks>
+</person>

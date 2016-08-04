@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>107176</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Kim Il Sung</name>
+        </preferred>
+        <alternates/>
+        <originals variants="6">
+            <original source-urls="2">
+                <name>Kim Il Sung</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v15p1/persons#p_KIS1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v15p2/persons#p_KIS1</source-url>
+            </original>
+            <original source-urls="2">
+                <name>Kim Il-sung</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v18/persons#p_KIS1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v35/persons#p_KI_1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Kim Il-Sung</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v29p1/persons#p_KIS1</source-url>
+            </original>
+            <original source-urls="3">
+                <name>Kim Il-sung (Kim Il Sung)</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v18/persons#p_KI1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve12/persons#p_kim-il-sung</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v13/persons#p_KI_1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Kim Il Sung (Kim Il-sung)</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v19p1/persons#p_KIS1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Kim Il-Sŏng</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve14p1/persons#p_KIS1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="9">
+        <remark source-urls="2">
+            <p>Premier of the Democratic People’s Republic of Korea and Supreme Commander of the Korean People’s Army.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v15p1/persons#p_KIS1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v15p2/persons#p_KIS1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Premier of the Democratic People’s Republic of Korea</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v18/persons#p_KIS1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Premier of the People's Republic of Korea</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v29p1/persons#p_KIS1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>President (Chairman of the Presidium of the Supreme People’s Assembly) of the DPRK and General Secretary of the Central Committee of the Workers’ Party of Korea</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v18/persons#p_KI1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Premier (Chairman of the Council of Ministers) of the DPRK until December 28, 1972; President (Chairman of the Presidium of the Supreme People’s Assembly) of the DPRK from December 28, 1972; and General Secretary of the Central Committee of the Workers’ Party of Korea</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v19p1/persons#p_KIS1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>President of the Democratic People’s Republic of Korea (North Korea)</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v35/persons#p_KI_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Premier (Chairman of the Council of Ministers) of the Democratic People’s Republic of Korea until December 28, 1972; President (Chairman of the Presidium of the Supreme People's Assembly) of the Democratic People’s Republic of Korea from December 28, 1972; and General Secretary of the Central Committee of the Workers' Party of Korea</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve12/persons#p_kim-il-sung</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>President of the Democratic People’s Republic of Korea</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve14p1/persons#p_KIS1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Premier (Chairman of the Council of Ministers) of the DPRK from September 3, 1948 until December 28, 1972; President (Chairman of the Presidium of the Supreme People’s Assembly) of the DPRK from December 28, 1972 until July 8, 1994; and General Secretary of the Central Committee of the Workers’ Party of Korea from September 3, 1948 until July 8, 1994</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v13/persons#p_KI_1</source-url>
+        </remark>
+    </remarks>
+</person>

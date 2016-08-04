@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>114497</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>White, Francis</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="6">
+                <name>White, Francis</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v04/persons#p_WF2</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v04/persons#p_WF1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v06/persons#p_WF2</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v07/persons#p_WF2</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v27/persons#p_WF1</source-url>
+                <source-url>https://history.state.gov/departmenthistory/people/white-francis</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1892</birth-year>
+    <death-year>1961</death-year>
+    <remarks variants="4">
+        <remark source-urls="1">
+            <p>Ambassador in Mexico from April 28, 1953.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v04/persons#p_WF2</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Ambassador to Sweden from September 1957</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v04/persons#p_WF1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v27/persons#p_WF1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Ambassador to Mexico until June 30, 1957</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v06/persons#p_WF2</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v07/persons#p_WF2</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Foreign Service Officer. Assistant Secretary of State; Ambassador Extraordinary and Plenipotentiary (Sweden); Ambassador Extraordinary and Plenipotentiary (Mexico); Envoy Extraordinary and Minister Plenipotentiary (Czechoslovakia).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/white-francis</source-url>
+        </remark>
+    </remarks>
+</person>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>105862</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Hertzberg, Arthur</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="3">
+                <name>Hertzberg, Arthur</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v01/persons#p_HA_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v08/persons#p_HA_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v08/persons#p_HA_2</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="3">
+        <remark source-urls="1">
+            <p>Rabbi; President, American Jewish Congress until 1978; also, Vice President, World Jewish Congress</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v01/persons#p_HA_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>President of the American Jewish Congress from 1972 until 1978, Vice-President of the World Jewish Congress from 1975, and President of the American Jewish Policy Foundation from 1978</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v08/persons#p_HA_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>American rabbi, Judaic scholar, and Jewish activist</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v08/persons#p_HA_2</source-url>
+        </remark>
+    </remarks>
+</person>

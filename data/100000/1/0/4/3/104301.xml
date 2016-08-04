@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>104301</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Fishburn, John T.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="2">
+                <name>Fishburn, John T.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v06/persons#p_FJT1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v07/persons#p_FJT1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="1">
+        <remark source-urls="2">
+            <p>Labor Adviser, Office of Regional American Affairs, Bureau of Inter-American Affairs, Department of State, until September 8, 1957; thereafter, First Secretary and Labor Attaché, Embassy in Brazil</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v06/persons#p_FJT1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v07/persons#p_FJT1</source-url>
+        </remark>
+    </remarks>
+</person>

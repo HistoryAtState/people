@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>104222</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Ferguson, Clarence Clyde, Jr.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="5">
+                <name>Ferguson, Clarence Clyde, Jr.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve05p1/persons#p_FCCJ1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve05p2/persons#p_FCCJ1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve06/persons#p_FCCJ1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve14p1/persons#p_FCCJ1</source-url>
+                <source-url>https://history.state.gov/departmenthistory/people/ferguson-clarence-clyde-jr</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1924</birth-year>
+    <death-year>1983</death-year>
+    <remarks variants="3">
+        <remark source-urls="3">
+            <p>Special Coordinator on Relief to Victims of the Nigerian Civil War from February 1969 to June 1970; Ambassador to Uganda from June 1970 until July 1972; Deputy Assistant Secretary of State for African Affairs from August 1972 to October 1973</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve05p1/persons#p_FCCJ1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve05p2/persons#p_FCCJ1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve06/persons#p_FCCJ1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Deputy Assistant Secretary of State for African Affairs, U.S. Representative to the United Nations Economic and Social Council</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve14p1/persons#p_FCCJ1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Non-career appointee. Ambassador Extraordinary and Plenipotentiary (Uganda).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/ferguson-clarence-clyde-jr</source-url>
+        </remark>
+    </remarks>
+</person>

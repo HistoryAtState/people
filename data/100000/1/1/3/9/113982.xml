@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>113982</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Vang Pao</name>
+        </preferred>
+        <alternates/>
+        <originals variants="5">
+            <original source-urls="1">
+                <name>Vang Phao</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v24/persons#p_VP1</source-url>
+            </original>
+            <original source-urls="4">
+                <name>Vang Pao</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v28/persons#p_VP1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v07/persons#p_VP1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v08/persons#p_VP1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v09/persons#p_VP_1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Vang Pao, Gen.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v06/persons#p_VPG1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Pao, Vang</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v07/persons#p_PV1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Vang Pao, General</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v20/persons#p_VP1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="2">
+            <title source-urls="1">
+                <name>Gen.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v06/persons#p_VPG1</source-url>
+            </title>
+            <title source-urls="1">
+                <name>General</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v20/persons#p_VP1</source-url>
+            </title>
+        </titles-from-name>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="8">
+        <remark source-urls="1">
+            <p>leader of Meo (Hmong) guerrilla forces</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v24/persons#p_VP1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>General, Lao Armed Forces, Commander of Military Region Two and head of the Meo (H'mong) guerrilla forces</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v28/persons#p_VP1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>RLA, Commander of Military Region II and leader of the Hmong (Meo) forces</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v06/persons#p_VPG1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>see Vang Pao</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v07/persons#p_PV1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>General, Royal Lao Armed Forces, Commander of Military Region Two, Hmong head of the Meo (guerrilla forces)</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v07/persons#p_VP1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>General, Royal Lao Armed Forces, Commander of Military Region Two, head of the Meo (Hmong) guerrilla forces</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v08/persons#p_VP1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>General, Royal Lao Armed Forces, Commander of Military Region Two and head of the Meo (Hmong) guerrilla forces</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v09/persons#p_VP_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>RLA, Commander of Military Region II and leader of the Meo (Hmong) forces</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v20/persons#p_VP1</source-url>
+        </remark>
+    </remarks>
+</person>

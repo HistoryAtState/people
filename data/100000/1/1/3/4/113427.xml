@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>113427</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Tcherniakov, Yuri N.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="4">
+                <name>Tcherniakov, Yuri N.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v14/persons#p_TYN1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v19/persons#p_TYN1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v20/persons#p_TYN1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v23/persons#p_TYN_1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="4">
+        <remark source-urls="1">
+            <p>Counselor and then Minister Counselor at the Soviet Embassy in Washington from 1965</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v14/persons#p_TYN1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Minister-Counselor of the Soviet Embassy</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v19/persons#p_TYN1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Charge d'Affaires of the Soviet Embassy until December 1968</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v20/persons#p_TYN1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Chargé d’Affaires, Soviet Embassy, Washington</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v23/persons#p_TYN_1</source-url>
+        </remark>
+    </remarks>
+</person>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>101395</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Blake, James Joseph</name>
+        </preferred>
+        <alternates/>
+        <originals variants="4">
+            <original source-urls="2">
+                <name>Blake, James J.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v24/persons#p_BJJ1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve05p2/persons#p_BJJ1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Blake, James</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v36/persons#p_BJ1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Blake, James Joseph</name>
+                <source-url>https://history.state.gov/departmenthistory/people/blake-james-joseph</source-url>
+            </original>
+            <original source-urls="1">
+                <name>James J. Blake</name>
+                <source-url>https://history.state.gov/departmenthistory/people/blake-james-joseph</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1922</birth-year>
+    <death-year>2009</death-year>
+    <remarks variants="4">
+        <remark source-urls="1">
+            <p>Deputy Director, Office of Northern African Affairs, Bureau of African Affairs, Department of State, until August 1965; thereafter Director</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v24/persons#p_BJJ1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Deputy Country Director, Office of North African Affairs, Bureau of African Affairs, Department of State from November 1969 until March 1974; Assistant Secretary of State for African Affairs from March 1974</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v36/persons#p_BJ1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Country Director for Algeria, Libya, Morocco, Spanish Sahara, Tunisia, Sudan, and Mauritania, Bureau of African Affairs, Department of State, 1970 to 1971</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve05p2/persons#p_BJJ1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Foreign Service Officer. Ambassador Extraordinary and Plenipotentiary (Iceland).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/blake-james-joseph</source-url>
+        </remark>
+    </remarks>
+</person>

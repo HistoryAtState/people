@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>112901</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Standley, William Harrison</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="1">
+                <name>Standley, William H.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1943CairoTehran/persons#p_SWH1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Standley, William Harrison</name>
+                <source-url>https://history.state.gov/departmenthistory/people/standley-william-harrison</source-url>
+            </original>
+            <original source-urls="1">
+                <name>William H. Standley</name>
+                <source-url>https://history.state.gov/departmenthistory/people/standley-william-harrison</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1872</birth-year>
+    <death-year>1963</death-year>
+    <remarks variants="2">
+        <remark source-urls="1">
+            <p>Admiral, U. S. N., retired, Ambassador to the Soviet Union, February 14, 1942–October 1, 1943.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1943CairoTehran/persons#p_SWH1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Non-career appointee. Ambassador Extraordinary and Plenipotentiary (Russia).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/standley-william-harrison</source-url>
+        </remark>
+    </remarks>
+</person>

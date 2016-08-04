@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>114153</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Vu Van Mau</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="4">
+                <name>Mau</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v01/persons#p_Mau1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v01/persons#p_MAU1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v03/persons#p_MAU1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v04/persons#p_MAU1</source-url>
+            </original>
+            <original source-urls="6">
+                <name>Vu Van Mau</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v01/persons#p_VVM1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v01/persons#p_VVM1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v02/persons#p_VVM1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v03/persons#p_VVM1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v04/persons#p_VVM1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v23/persons#p_VVM1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="7">
+        <remark source-urls="4">
+            <p>see Vu Van Mau</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v01/persons#p_Mau1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v01/persons#p_MAU1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v03/persons#p_MAU1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v04/persons#p_MAU1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Vietnamese Minister of Foreign Affairs, May–October 1955; thereafter Secretary of State for Foreign Affairs</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v01/persons#p_VVM1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Secretary of State for Foreign Affairs, Republic of Vietnam</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v01/persons#p_VVM1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Secretary of State for Foreign Affairs for the Republic of Vietnam</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v02/persons#p_VVM1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Vietnamese Foreign Minister until August 22, 1963; Ambassador to the United Kingdom after December 24, 1963</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v03/persons#p_VVM1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Vietnamese Foreign Minister until August 22, 1963; Ambassador to the United Kingdom after December 24,1963</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v04/persons#p_VVM1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Vietnamese Foreign Minister until August 22, 1963</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v23/persons#p_VVM1</source-url>
+        </remark>
+    </remarks>
+</person>

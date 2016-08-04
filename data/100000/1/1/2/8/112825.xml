@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>112825</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Sperling, Fritz</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="1">
+                <name>Sperling, Fritz</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1947v02/persons#p_SF1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="1">
+        <remark source-urls="1">
+            <p>Chairman of the Bavarian branch of the German Communist Party</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1947v02/persons#p_SF1</source-url>
+        </remark>
+    </remarks>
+</person>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>111979</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Savimbi, Jonas Malheiro</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="5">
+                <name>Savimbi, Jonas</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v21/persons#p_SJM2</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v24/persons#p_SJM2</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v28/persons#p_SJ_2</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve05p1/persons#p_SJM2</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve05p2/persons#p_SJ1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Savimbi, Jonas M.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve06/persons#p_SJM2</source-url>
+            </original>
+            <original source-urls="2">
+                <name>Savimbi, Jonas Malheiro</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v01/persons#p_SJM_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1981-88v03/persons#p_SJM_1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="3">
+        <remark source-urls="2">
+            <p>leader of the National Union for the Total Independence of Angola (UNITA)</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v21/persons#p_SJM2</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1981-88v03/persons#p_SJM_1</source-url>
+        </remark>
+        <remark source-urls="5">
+            <p>leader of the Angolan national liberation movement UNITA</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v24/persons#p_SJM2</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve05p1/persons#p_SJM2</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve05p2/persons#p_SJ1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve06/persons#p_SJM2</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v01/persons#p_SJM_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>President of the National Union for the Total Independence of Angola (UNITA)</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v28/persons#p_SJ_2</source-url>
+        </remark>
+    </remarks>
+</person>

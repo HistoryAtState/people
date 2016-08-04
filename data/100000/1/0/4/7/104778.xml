@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>104778</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Gayler, Noel A.M.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="4">
+            <original source-urls="1">
+                <name>Gayler, Vice Admiral Noel A. M.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v02/persons#p_GVANAM1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Gayler, Noel A.M.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v09/persons#p_GNAM_1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Gayler, Noel A.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v10/persons#p_GNA1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Gayler, Admiral Noel A.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v25/persons#p_GNA_1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="2">
+            <title source-urls="1">
+                <name>Vice Admiral</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v02/persons#p_GVANAM1</source-url>
+            </title>
+            <title source-urls="1">
+                <name>Admiral</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v25/persons#p_GNA_1</source-url>
+            </title>
+        </titles-from-name>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="4">
+        <remark source-urls="1">
+            <p>USN, Director, National Security Agency from August 1969 until 1971</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v02/persons#p_GVANAM1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Admiral, USN, Commander in Chief, Pacific</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v09/persons#p_GNAM_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Admiral, USN, Commander-in-Chief, Pacific Command until August 30, 1976</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v10/persons#p_GNA1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>USN, Commander in Chief, U.S. Pacific Command</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v25/persons#p_GNA_1</source-url>
+        </remark>
+    </remarks>
+</person>

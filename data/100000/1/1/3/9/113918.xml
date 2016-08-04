@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>113918</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Vaillaud, Michel</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="1">
+                <name>Vaillaud, Michel</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v36/persons#p_VM1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="1">
+        <remark source-urls="1">
+            <p>French Delegate to the High Level Group of the Organization for Economic Cooperation and Development Oil Committee</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v36/persons#p_VM1</source-url>
+        </remark>
+    </remarks>
+</person>

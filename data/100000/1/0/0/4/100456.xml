@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>100456</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Andreani, Jacques</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="1">
+                <name>Andreani, Jacques</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v39/persons#p_AJ2</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="1">
+        <remark source-urls="1">
+            <p>Chief of the Bureau of Eastern European and Soviet Affairs, Ministry of Foreign Affairs, France until 1970; Assistant Government Representative to NATO from 1970 to 1972; Head of the French delegation to the CSCE from 1972 to 1975</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v39/persons#p_AJ2</source-url>
+        </remark>
+    </remarks>
+</person>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>109624</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Nagy, Imre</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="5">
+                <name>Nagy, Imre</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v08/persons#p_NI1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v02/persons#p_NI2</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v10p1/persons#p_NI1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v10p2/persons#p_NI1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v29/persons#p_NI1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="4">
+        <remark source-urls="1">
+            <p>Hungarian Prime Minister, July 1953–April 1955 and October–November 1956; member of the Politburo of the Hungarian Communist Party, 1944–1948, April 1951–1955; expelled from party leadership in April 1955.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v08/persons#p_NI1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>former Prime Minister of Hungary</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v02/persons#p_NI2</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v29/persons#p_NI1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Hungarian Prime Minister, October 24–November 4, 1956</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v10p1/persons#p_NI1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Prime Minister of Hungary, October 24–November 4, 1956</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v10p2/persons#p_NI1</source-url>
+        </remark>
+    </remarks>
+</person>

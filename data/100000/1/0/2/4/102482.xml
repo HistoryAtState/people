@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>102482</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Chiang Ching-kuo</name>
+        </preferred>
+        <alternates>
+            <name>Jiang Jingguo</name>
+        </alternates>
+        <originals variants="5">
+            <original source-urls="2">
+                <name>Chiang Ching-Kuo</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v14p1/persons#p_CCKLG1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v14p2/persons#p_CCKLG1</source-url>
+            </original>
+            <original source-urls="3">
+                <name>Chiang Ching-kuo, Lieutenant General</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v02/persons#p_CCLG1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v03/persons#p_CCLG1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v19/persons#p_CC2</source-url>
+            </original>
+            <original source-urls="7">
+                <name>Chiang Ching-kuo</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v22/persons#p_CC2</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v30/persons#p_CC1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v05/persons#p_CCK1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v18/persons#p_CCK1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v20/persons#p_JJC1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve13/persons#p_JJC1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v13/persons#p_CCK_1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Chiang Ching-kuo, General</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v17/persons#p_CCG1</source-url>
+            </original>
+            <original source-urls="2">
+                <name>Jiang Jingguo (Chiang Ching-kuo)</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v18/persons#p_JJC1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v13/persons#p_JJ_2</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="2">
+            <title source-urls="3">
+                <name>Lieutenant General</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v02/persons#p_CCLG1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v03/persons#p_CCLG1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v19/persons#p_CC2</source-url>
+            </title>
+            <title source-urls="2">
+                <name>General</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v17/persons#p_CCG1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve13/persons#p_JJC1</source-url>
+            </title>
+        </titles-from-name>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="12">
+        <remark source-urls="2">
+            <p>Lieutenant General, Director of the Political Department, Ministry of National Defense, Republic of China, to June 1954; Deputy Secretary General, National Defense Council, after September 1954.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v14p1/persons#p_CCKLG1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v14p2/persons#p_CCKLG1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Deputy Secretary General of the National Defense Council, Republic of China</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v02/persons#p_CCLG1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v03/persons#p_CCLG1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Deputy Secretary General, National Defense Council, Republic of China; Minister without Portfolio from July 1958</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v19/persons#p_CC2</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>General, Minister without Portfolio and Deputy Secretary General of the National Defense Council of the Republic of China</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v22/persons#p_CC2</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>General, Defense Minister of the Republic of China from January 1965</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v30/persons#p_CC1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Vice Premier, Republic of China</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v05/persons#p_CCK1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>son of Chiang Kai-shek; Minister of Defense, Republic of China, until 1969; Vice Premier of the Executive Yuan, 1969–1972; Premier from 1972; member, Kuomintang (Guomindang) Standing Committee and the Republic of China National Security Council</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v17/persons#p_CCG1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>see Jiang Jingguo</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v18/persons#p_CCK1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v13/persons#p_CCK_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>son of Jiang Jieshi; ROC Premier</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v18/persons#p_JJC1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Son of Chiang Kai-shek; Minister of Defense, Republic of China, until 1969; Vice Premier of the Executive Yuan from 1969–1972; Premier from 1972; member, Kuomintang Standing Committee and the Republic of China National Security Council</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v20/persons#p_JJC1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>General, son of Chiang Kai-shek; Minister of Defense, Republic of China, until 1969; Vice Premier of the Executive Yuan, 1969–1972; Premier from 1972;member, Kuomintang (Guomindang) Standing Committee and the Republic of China National Security Council</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve13/persons#p_JJC1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>son of Jiang Jieshi; Minister of Defense of the ROC from 1965 until 1969; Vice Premier of the Executive Yuan from 1969 until 1972; Premier from 1972 until 1978; President from 1978 until 1988</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v13/persons#p_JJ_2</source-url>
+        </remark>
+    </remarks>
+</person>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>105253</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Grunewald, Rademaker</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="1">
+                <name>Grunewald, Rademaker</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve10/persons#p_GR2</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="1">
+        <remark source-urls="1">
+            <p>Brazil Navy Minister until August 1969; head of military triumvirate that acted as head of state for Brazil, from August 1969 until October 1969</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve10/persons#p_GR2</source-url>
+        </remark>
+    </remarks>
+</person>

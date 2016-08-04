@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>110517</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Pelletreau, Robert Halsey, Jr.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="5">
+            <original source-urls="1">
+                <name>Pelletreau, Robert H.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v08/persons#p_PRH_1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Pelletreau, Robert Halsey, Jr.</name>
+                <source-url>https://history.state.gov/departmenthistory/people/pelletreau-robert-halsey</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Robert H. Pelletreau Jr.</name>
+                <source-url>https://history.state.gov/departmenthistory/people/pelletreau-robert-halsey</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Robert H. Pelletreau</name>
+                <source-url>https://history.state.gov/departmenthistory/people/pelletreau-robert-halsey</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Robert H. Pelletreau, Jr.</name>
+                <source-url>https://history.state.gov/departmenthistory/people/pelletreau-robert-halsey</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1935</birth-year>
+    <death-year/>
+    <remarks variants="2">
+        <remark source-urls="1">
+            <p>Deputy Chief of Mission, U.S. Embassy in Damascus</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v08/persons#p_PRH_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Foreign Service Officer. Assistant Secretary of State for Near Eastern Affairs; Ambassador Extraordinary and Plenipotentiary (Tunisia); Ambassador Extraordinary and Plenipotentiary (Egypt); Ambassador Extraordinary and Plenipotentiary (Bahrain).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/pelletreau-robert-halsey</source-url>
+        </remark>
+    </remarks>
+</person>

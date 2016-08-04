@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>100776</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Baker, James Addison, III</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="4">
+                <name>Baker, James Addison, III</name>
+                <source-url>https://history.state.gov/departmenthistory/people/baker-james-addison</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve14p2/persons#p_BJA_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1981-88v03/persons#p_BJA_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1981-88v13/persons#p_BJA_1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1930</birth-year>
+    <death-year/>
+    <remarks variants="3">
+        <remark source-urls="1">
+            <p>Non-career appointee. Secretary of State.</p>
+            <source-url>https://history.state.gov/departmenthistory/people/baker-james-addison</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Under Secretary of Commerce from 1975 until 1976</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve14p2/persons#p_BJA_1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>White House Chief of Staff</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1981-88v03/persons#p_BJA_1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1981-88v13/persons#p_BJA_1</source-url>
+        </remark>
+    </remarks>
+</person>

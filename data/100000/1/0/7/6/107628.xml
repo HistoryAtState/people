@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>107628</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Lane, Arthur Bliss</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="4">
+                <name>Lane, Arthur Bliss</name>
+                <source-url>https://history.state.gov/departmenthistory/people/lane-arthur-bliss</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv01/persons#p_LAB1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv02/persons#p_LAB1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1947v02/persons#p_LAB1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Lane, Arthur B.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945Malta/persons#p_LAB1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1894</birth-year>
+    <death-year>1956</death-year>
+    <remarks variants="4">
+        <remark source-urls="1">
+            <p>Foreign Service Officer. Envoy Extraordinary and Minister Plenipotentiary (Yugoslavia); Ambassador Extraordinary and Plenipotentiary (Poland); Envoy Extraordinary and Minister Plenipotentiary (Nicaragua); Envoy Extraordinary and Minister Plenipotentiary (Lithuania); Envoy Extraordinary and Minister Plenipotentiary (Latvia); Envoy Extraordinary and Minister Plenipotentiary (Estonia); Envoy Extraordinary and Minister Plenipotentiary (Costa Rica); Ambassador Extraordinary and Plenipotentiary (Colombia).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/lane-arthur-bliss</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Appointed Ambassador to Poland.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv01/persons#p_LAB1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv02/persons#p_LAB1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>American Ambassador to Poland.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1945Malta/persons#p_LAB1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>United States Ambassador in Colombia, 1942–1944; United States Ambassador in Poland, August 1945–March 1947</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1947v02/persons#p_LAB1</source-url>
+        </remark>
+    </remarks>
+</person>

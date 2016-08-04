@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>107120</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Khomeini, Ruhollah</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="4">
+                <name>Khomeini, Ayatollah Ruhollah</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v22/persons#p_KAR1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v27/persons#p_KAR_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v01/persons#p_KA_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v03/persons#p_KAR_1</source-url>
+            </original>
+            <original source-urls="2">
+                <name>Khomeini, Ruhollah</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v37/persons#p_KR_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v21/persons#p_KR_1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="1">
+            <title source-urls="4">
+                <name>Ayatollah</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v22/persons#p_KAR1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v27/persons#p_KAR_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v01/persons#p_KA_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v03/persons#p_KAR_1</source-url>
+            </title>
+        </titles-from-name>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="5">
+        <remark source-urls="1">
+            <p>dissident Iranian religious leader</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v22/persons#p_KAR1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>exiled Iranian religious leader</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v27/persons#p_KAR_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Ayutollah, Iranian religious leader; Supreme Leader from December 3, 1979</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v37/persons#p_KR_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>exiled leader of the Iranian Shi’ite sect to February 1979; first Supreme Leader of Iran from December 1979</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v01/persons#p_KA_1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Supreme Leader of Iran from December 1979</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v03/persons#p_KAR_1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v21/persons#p_KR_1</source-url>
+        </remark>
+    </remarks>
+</person>

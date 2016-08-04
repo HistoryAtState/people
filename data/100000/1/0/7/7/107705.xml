@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>107705</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Laval, Pierre</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="1">
+                <name>Premier Laval</name>
+                <source-url>https://history.state.gov/departmenthistory/visits/france</source-url>
+            </original>
+            <original source-urls="2">
+                <name>Laval, Pierre</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1943CairoTehran/persons#p_LP1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv01/persons#p_LP1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="2">
+        <remark source-urls="1">
+            <p>Premier, France. Visited U.S. once, 1931</p>
+            <source-url>https://history.state.gov/departmenthistory/visits/france</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>French Deputy Premier, July–December 1940; also Minister of Foreign Affairs, October–December 1940.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1943CairoTehran/persons#p_LP1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv01/persons#p_LP1</source-url>
+        </remark>
+    </remarks>
+</person>

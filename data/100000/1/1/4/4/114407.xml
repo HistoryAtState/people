@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>114407</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Weizsäcker, Richard von</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="1">
+                <name>Weizsäcker, Richard von</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v40/persons#p_WR1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>President Richard von Weiszaecker</name>
+                <source-url>https://history.state.gov/departmenthistory/visits/germany</source-url>
+            </original>
+            <original source-urls="1">
+                <name>President Richard von Weizsaecker</name>
+                <source-url>https://history.state.gov/departmenthistory/visits/germany</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="3">
+        <remark source-urls="1">
+            <p>(CDU), member of the Bundestag</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v40/persons#p_WR1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>President, Germany. Visited U.S. once, 1993</p>
+            <source-url>https://history.state.gov/departmenthistory/visits/germany</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>President, Germany, Federal Republic of; Germany. Visited U.S. 2 times, 1989–1992</p>
+            <source-url>https://history.state.gov/departmenthistory/visits/germany</source-url>
+        </remark>
+    </remarks>
+</person>

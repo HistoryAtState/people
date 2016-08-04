@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>113843</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Twinam, Joseph Wright</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="2">
+                <name>Twinam, Joseph Wright</name>
+                <source-url>https://history.state.gov/departmenthistory/people/twinam-joseph-wright</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v18/persons#p_TJW_1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Joseph W. Twinam</name>
+                <source-url>https://history.state.gov/departmenthistory/people/twinam-joseph-wright</source-url>
+            </original>
+            <original source-urls="3">
+                <name>Twinam, Joseph W.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v24/persons#p_TJW1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v27/persons#p_TJW_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v37/persons#p_TJW_1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1934</birth-year>
+    <death-year>2001</death-year>
+    <remarks variants="5">
+        <remark source-urls="1">
+            <p>Foreign Service Officer. Ambassador Extraordinary and Plenipotentiary (Bahrain).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/twinam-joseph-wright</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Political Officer, Jidda, Saudi Arabia, until August 1970; Political and Economic Officer, Office of Arabian Peninsula Affairs, Bureau of Near Eastern and South Asian Affairs, Department of State, from August 1970 until November 1971; Acting Director, Office of Arabian Peninsula Affairs, Bureau of Near Eastern and South Asian Affairs, Department of State, from November 1971 until June 1972</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v24/persons#p_TJW1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>U.S. Ambassador to Bahrain</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v27/persons#p_TJW_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Director, Arabian Peninsula Affairs, Bureau of Near Eastern and South Asian Affairs, Department of State</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v37/persons#p_TJW_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Director, Office of Arabian Peninsula Affairs, Bureau of Near Eastern and South Asian Affairs, Department of State; Deputy Secretary of State for Near Eastern and South Asian Affairs</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v18/persons#p_TJW_1</source-url>
+        </remark>
+    </remarks>
+</person>

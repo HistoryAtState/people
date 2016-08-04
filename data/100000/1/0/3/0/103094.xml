@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>103094</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Cyrankiewicz, Jozef</name>
+        </preferred>
+        <alternates/>
+        <originals variants="4">
+            <original source-urls="1">
+                <name>Cyrankiewicz, Josef</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v08/persons#p_CJ1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Cyrankicwicz, Joseph</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v16/persons#p_CJ2</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Cyrankiewicz, Jozef</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v29/persons#p_CJ1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Cyrankiewicz, Józef</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v40/persons#p_CJ1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="4">
+        <remark source-urls="1">
+            <p>Polish Prime Minister.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v08/persons#p_CJ1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Polish Prime Minister</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v16/persons#p_CJ2</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Premier of the People's Republic of Poland until 1970; thereafter, Polish head of state</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v29/persons#p_CJ1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Polish Minister-President; then Chairman of the State Council from December 23, 1970 until March 28, 1972</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v40/persons#p_CJ1</source-url>
+        </remark>
+    </remarks>
+</person>

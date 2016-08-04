@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>104405</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Foo Ping-sheung</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="2">
+                <name>Foo Ping-sheung</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1943CairoTehran/persons#p_FPs1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1946v03/persons#p_FPS1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Ping-sheung</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1946v03/persons#p_PS1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Foo Ping-Sheung</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1947v02/persons#p_FPS1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="4">
+        <remark source-urls="1">
+            <p>Chinese Ambassador at Moscow.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1943CairoTehran/persons#p_FPs1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Member of the Chinese Delegation; Chinese Ambassador in the Soviet Union</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1946v03/persons#p_FPS1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>See Foo Ping-sheung.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1946v03/persons#p_PS1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Chinese Ambassador in the Soviet Union</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1947v02/persons#p_FPS1</source-url>
+        </remark>
+    </remarks>
+</person>

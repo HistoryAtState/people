@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>106404</id>
+    <authorities>
+        <authority service="viaf">61185844</authority>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Ingraham, Hubert A.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="1">
+                <name>Prime Minister Hubert A. Ingraham</name>
+                <source-url>https://history.state.gov/departmenthistory/visits/bahamas</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Prime Minister Hubert Ingraham</name>
+                <source-url>https://history.state.gov/departmenthistory/visits/bahamas</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="2">
+        <remark source-urls="1">
+            <p>Prime Minister, Bahamas. Visited U.S. 3 times, 1993–2007</p>
+            <source-url>https://history.state.gov/departmenthistory/visits/bahamas</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Prime Minister, Bahamas. Visited U.S. once, 2008</p>
+            <source-url>https://history.state.gov/departmenthistory/visits/bahamas</source-url>
+        </remark>
+    </remarks>
+</person>

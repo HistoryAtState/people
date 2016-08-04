@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>108466</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Manning, Robert Joseph</name>
+        </preferred>
+        <alternates/>
+        <originals variants="4">
+            <original source-urls="9">
+                <name>Manning, Robert J.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v03/persons#p_MRJ1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v05/persons#p_MRJ1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v15/persons#p_MRJ4</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v22/persons#p_MRJ1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v25/persons#p_MRJ4</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v01/persons#p_MRJ1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v15/persons#p_MRJ4</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v28/persons#p_MRJ1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v31/persons#p_MRJ1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Manning, Robert 1.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v04/persons#p_MR1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Manning, Robert Joseph</name>
+                <source-url>https://history.state.gov/departmenthistory/people/manning-robert-joseph</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Robert J. Manning</name>
+                <source-url>https://history.state.gov/departmenthistory/people/manning-robert-joseph</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1919</birth-year>
+    <death-year>2012</death-year>
+    <remarks variants="7">
+        <remark source-urls="3">
+            <p>Assistant Secretary of State for Public Affairs</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v03/persons#p_MRJ1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v04/persons#p_MR1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v15/persons#p_MRJ4</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Assistant Secretary of State for Public Affairs from April 1962</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v05/persons#p_MRJ1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v22/persons#p_MRJ1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Assistant Secretary of State for Public Affairs, April 4, 1962–July 31, 1964</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v25/persons#p_MRJ4</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Assistant Secretary of State for Public Affairs until July 31, 1964</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v01/persons#p_MRJ1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v15/persons#p_MRJ4</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Assistant Secretary of State for Public Affairs April 11, 1962–July 31, 1964</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v28/persons#p_MRJ1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Assistant Secretary of State for Public Affairs to July 31, 1964</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v31/persons#p_MRJ1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Non-career appointee. Assistant Secretary of State for Public Affairs.</p>
+            <source-url>https://history.state.gov/departmenthistory/people/manning-robert-joseph</source-url>
+        </remark>
+    </remarks>
+</person>

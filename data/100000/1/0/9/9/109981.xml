@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>109981</id>
+    <authorities>
+        <authority service="viaf">39382046</authority>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Nyerere, Julius K.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="5">
+            <original source-urls="1">
+                <name>President Julius K. Nyerere</name>
+                <source-url>https://history.state.gov/departmenthistory/visits/tanzania</source-url>
+            </original>
+            <original source-urls="1">
+                <name>President Nyerere</name>
+                <source-url>https://history.state.gov/departmenthistory/visits/tanzania</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Prime Minister Nyerere</name>
+                <source-url>https://history.state.gov/departmenthistory/visits/tanzania</source-url>
+            </original>
+            <original source-urls="8">
+                <name>Nyerere, Julius</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v21/persons#p_NJK1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v24/persons#p_NJK1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v28/persons#p_NJ_2</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve05p1/persons#p_NJK1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve05p2/persons#p_NJ1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v03/persons#p_NJ_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v06/persons#p_NYJ_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v13/persons#p_NJ_2</source-url>
+            </original>
+            <original source-urls="2">
+                <name>Nyerere, Julius K.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve06/persons#p_NJK1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v30/persons#p_NJ_2</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="8">
+        <remark source-urls="1">
+            <p>President, Tanzania. Visited U.S. once, 1977</p>
+            <source-url>https://history.state.gov/departmenthistory/visits/tanzania</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>President, Tanganyika. Visited U.S. once, 1963</p>
+            <source-url>https://history.state.gov/departmenthistory/visits/tanzania</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Prime Minister, Tanganyika. Visited U.S. once, 1961</p>
+            <source-url>https://history.state.gov/departmenthistory/visits/tanzania</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>President of Tanganyika from December 1962</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v21/persons#p_NJK1</source-url>
+        </remark>
+        <remark source-urls="4">
+            <p>President of Tanganyika until country renamed in October 1964; thereafter President of Tanzania</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v24/persons#p_NJK1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve05p1/persons#p_NJK1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve05p2/persons#p_NJ1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v30/persons#p_NJ_2</source-url>
+        </remark>
+        <remark source-urls="3">
+            <p>President of Tanzania</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v28/persons#p_NJ_2</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v03/persons#p_NJ_1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v06/persons#p_NYJ_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>President of Tanzania from 1964 to 1985</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve06/persons#p_NJK1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>President of Tanzania from 1964 until 1985</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v13/persons#p_NJ_2</source-url>
+        </remark>
+    </remarks>
+</person>

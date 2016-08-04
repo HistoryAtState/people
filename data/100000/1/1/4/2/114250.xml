@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>114250</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Wampler, Mary</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="3">
+                <name>Wampler, Mary</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve03/persons#p_WM1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve11p1/persons#p_WME_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve11p2/persons#p_WME_1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="3">
+        <remark source-urls="1">
+            <p>Director, Office of International Narcotics Matters, Agency for International Development (United States)</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve03/persons#p_WM1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Special Assistant to the Deputy Administrator, Office of the Administrator, Agency for International Development, until April 1975; Director of the Office of International Narcotics Control, Bureau of Program and Management Services, from April 1975</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve11p1/persons#p_WME_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Special Assistant to the Deputy Administrator, Office of the Administrator, Agency for International Development, until April 1975; Director Office of International Narcotics Control, Bureau of Program and Management Services, from April 1975</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve11p2/persons#p_WME_1</source-url>
+        </remark>
+    </remarks>
+</person>

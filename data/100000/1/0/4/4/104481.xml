@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>104481</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Fox, Williams Carlton</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="1">
+                <name>Fox, Williams Carlton</name>
+                <source-url>https://history.state.gov/departmenthistory/people/fox-williams-carlton</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Williams C. Fox</name>
+                <source-url>https://history.state.gov/departmenthistory/people/fox-williams-carlton</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1855</birth-year>
+    <death-year>1924</death-year>
+    <remarks variants="1">
+        <remark source-urls="1">
+            <p>Non-career appointee. Envoy Extraordinary and Minister Plenipotentiary (Ecuador).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/fox-williams-carlton</source-url>
+        </remark>
+    </remarks>
+</person>

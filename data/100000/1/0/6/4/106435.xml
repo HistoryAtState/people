@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>106435</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Isham, Heyward</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="6">
+                <name>Isham, Heyward</name>
+                <source-url>https://history.state.gov/departmenthistory/people/isham-heyward</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v10p1/persons#p_IH1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v10p2/persons#p_IH1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v09/persons#p_IH_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v10/persons#p_IH1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve11p1/persons#p_IH_1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1926</birth-year>
+    <death-year>2009</death-year>
+    <remarks variants="6">
+        <remark source-urls="1">
+            <p>Foreign Service Officer. Director of the Bureau of Counterterrorism; Ambassador Extraordinary and Plenipotentiary (Haiti).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/isham-heyward</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Intelligence Research Specialist, Department of State, until November 1959; thereafter Staff Assistant to the Special Assistant to the Secretary of State</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v10p1/persons#p_IH1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Staff Assistant to the Special Assistant to the Secretary of State after November 1959</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v10p2/persons#p_IH1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Deputy Chief, U.S. Delegation to the Paris Peace Talks</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v09/persons#p_IH_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Deputy Chief Delegate to the Paris Conference on Vietnam</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v10/persons#p_IH1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>U.S. Ambassador to Haiti from January 31, 1974, until July 8, 1977</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve11p1/persons#p_IH_1</source-url>
+        </remark>
+    </remarks>
+</person>

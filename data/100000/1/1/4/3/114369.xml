@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>114369</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Wedemeyer, Albert C.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="2">
+                <name>Wedemeyer, Albert C.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1943CairoTehran/persons#p_WAC1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv02/persons#p_WLGAC1</source-url>
+            </original>
+            <original source-urls="3">
+                <name>Wedemeyer, Lieutenant General Albert C.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv01/persons#p_WLGAC1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945Malta/persons#p_W4</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1948v02/persons#p_WLGAC1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="1">
+            <title source-urls="3">
+                <name>Lieutenant General</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv01/persons#p_WLGAC1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945Malta/persons#p_W4</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1948v02/persons#p_WLGAC1</source-url>
+            </title>
+        </titles-from-name>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="4">
+        <remark source-urls="1">
+            <p>Major General, U. S. A., Deputy Chief of Staff, Southeast Asia Command.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1943CairoTehran/persons#p_WAC1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>U. S. A., Commanding General, United States Forces, China Theater; Chief of Staff to the Supreme Commander, China Theater.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv01/persons#p_WLGAC1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv02/persons#p_WLGAC1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>U. S. A., Commanding General, United States Army Forces in the China Theater, and Chief of Staff to Generalissimo Chiang Kai-shek.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1945Malta/persons#p_W4</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Director of Plans and Operations, General Staff, United States Army</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1948v02/persons#p_WLGAC1</source-url>
+        </remark>
+    </remarks>
+</person>

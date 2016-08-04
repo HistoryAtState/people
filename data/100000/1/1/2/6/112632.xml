@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>112632</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Smith, James Hopkins, Jr.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="4">
+            <original source-urls="2">
+                <name>Smith, James Hopkins, Jr.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v08/persons#p_SJHJ1</source-url>
+                <source-url>https://history.state.gov/departmenthistory/people/smith-james-hopkins</source-url>
+            </original>
+            <original source-urls="7">
+                <name>Smith, James H., Jr.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v10/persons#p_SJHJ1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v12/persons#p_SJHJ1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v04/persons#p_SJHJ1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v05/persons#p_SJHJ1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v12/persons#p_SJHJ1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v15/persons#p_SJHJ1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v16/persons#p_SJHJ1</source-url>
+            </original>
+            <original source-urls="3">
+                <name>Smith, James H.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v08/persons#p_SJH1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v09/persons#p_SJH1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v11/persons#p_SJHJ1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>James H. Smith, Jr.</name>
+                <source-url>https://history.state.gov/departmenthistory/people/smith-james-hopkins</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1909</birth-year>
+    <death-year>1982</death-year>
+    <remarks variants="9">
+        <remark source-urls="1">
+            <p>Director of the International Cooperation Administration from August 1957</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v08/persons#p_SJHJ1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Assistant Secretary of the Navy for Air until May 28, 1956; member, Air Coordinating Committee, until May 28, 1956; Director, International Cooperation Administration, from August 19, 1957</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v10/persons#p_SJHJ1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Director of the International Cooperation Administration from September 15, 1957</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v12/persons#p_SJHJ1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Director of the International Cooperation Administration to January 1959</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v04/persons#p_SJHJ1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Director of the International Cooperation Administration until March 1959</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v05/persons#p_SJHJ1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v15/persons#p_SJHJ1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Director, International Cooperation Administration</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v12/persons#p_SJHJ1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Director of the International Cooperation Administration until January 31, 1959</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v16/persons#p_SJHJ1</source-url>
+        </remark>
+        <remark source-urls="3">
+            <p>Director of the International Cooperation Administration</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v08/persons#p_SJH1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v09/persons#p_SJH1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v11/persons#p_SJHJ1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Non-career appointee. Director of the International Cooperation Administration.</p>
+            <source-url>https://history.state.gov/departmenthistory/people/smith-james-hopkins</source-url>
+        </remark>
+    </remarks>
+</person>

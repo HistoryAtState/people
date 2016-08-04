@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>101158</id>
+    <authorities>
+        <authority service="viaf">39418979</authority>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Beneš, Edvard</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="1">
+                <name>President Benes</name>
+                <source-url>https://history.state.gov/departmenthistory/visits/czechoslovakia</source-url>
+            </original>
+            <original source-urls="4">
+                <name>Beneš, Edvard</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv01/persons#p_BE2</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv02/persons#p_BE1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945Malta/persons#p_BE1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1946v03/persons#p_BEN1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="3">
+        <remark source-urls="1">
+            <p>President, Czechoslovakia (government-in-exile). Visited U.S. once, 1943</p>
+            <source-url>https://history.state.gov/departmenthistory/visits/czechoslovakia</source-url>
+        </remark>
+        <remark source-urls="3">
+            <p>President of Czechoslovakia.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv01/persons#p_BE2</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv02/persons#p_BE1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1945Malta/persons#p_BE1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>President of Czechoslovakia</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1946v03/persons#p_BEN1</source-url>
+        </remark>
+    </remarks>
+</person>

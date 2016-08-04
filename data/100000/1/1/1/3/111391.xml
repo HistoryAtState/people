@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>111391</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Rikhye, Indar Jit</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="1">
+                <name>Rikhye, Brigadier General Indar Jit</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v20/persons#p_IJR1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Rikhye, Major General Indar Jit</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v19/persons#p_RMGIJ1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Rikhye, Brigadier General lndar Jit</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v23/persons#p_RBG_1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="2">
+            <title source-urls="2">
+                <name>Brigadier General</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v20/persons#p_IJR1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v23/persons#p_RBG_1</source-url>
+            </title>
+            <title source-urls="1">
+                <name>Major General</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v19/persons#p_RMGIJ1</source-url>
+            </title>
+        </titles-from-name>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="2">
+        <remark source-urls="2">
+            <p>Military Adviser to the U.N. Secretary-General</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v20/persons#p_IJR1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v23/persons#p_RBG_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Commander of the United Nations Emergency Force in the Middle East</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v19/persons#p_RMGIJ1</source-url>
+        </remark>
+    </remarks>
+</person>

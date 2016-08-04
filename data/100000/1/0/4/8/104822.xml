@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>104822</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Geren, Paul F.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="7">
+                <name>Geren, Paul F.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v05/persons#p_GP1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v09p1/persons#p_GPF1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v09p2/persons#p_GPF1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v12/persons#p_GPF1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v13/persons#p_GPF1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v14/persons#p_GPF1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v15/persons#p_GPF1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="4">
+        <remark source-urls="1">
+            <p>Second Secretary of the Legation in Syria.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1951v05/persons#p_GP1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Second Secretary and Consul of the Embassy in Syria until February 21, 1952; First Secretary and Consul, February 21, 1952–February 11, 1954; thereafter Counselor of the Embassy in Jordan.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v09p1/persons#p_GPF1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v09p2/persons#p_GPF1</source-url>
+        </remark>
+        <remark source-urls="3">
+            <p>Counselor of the Embassy in Jordan until November 14, 1955; Officer in Charge of Egypt and Anglo-Egyptian Sudan Affairs, Office of Near Eastern Affairs, Department of State, November 15, 1955–summer 1956</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v12/persons#p_GPF1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v13/persons#p_GPF1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v15/persons#p_GPF1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Counselor of the Embassy in Jordan until November 14, 1955; Officer in Charge of Egypt and Anglo–Egyptian Sudan Affairs, Office of Near Eastern Affairs, Department of State, November 15, 1955–summer 1956</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v14/persons#p_GPF1</source-url>
+        </remark>
+    </remarks>
+</person>

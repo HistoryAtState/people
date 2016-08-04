@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>113004</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Stevenson, Ralph Clarmont Skrine</name>
+        </preferred>
+        <alternates/>
+        <originals variants="4">
+            <original source-urls="3">
+                <name>Stevenson, Ralph Clarmont Skrine</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1943CairoTehran/persons#p_SRCS1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv02/persons#p_SRCS1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v05/persons#p_SRC1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Stevenson, R. C. Skrine</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv01/persons#p_SRCS1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Stevenson, Ralph Skrine</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945Malta/persons#p_SRS1</source-url>
+            </original>
+            <original source-urls="2">
+                <name>Stevenson, Sir Ralph Clement Skrine</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v05p1/persons#p_STEVENSONSRCS1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v05p2/persons#p_STEVENSONSRCS1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="1">
+            <title source-urls="2">
+                <name>Sir</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v05p1/persons#p_STEVENSONSRCS1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v05p2/persons#p_STEVENSONSRCS1</source-url>
+            </title>
+        </titles-from-name>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="4">
+        <remark source-urls="1">
+            <p>British Ambassador to the Yugoslav Government-in-Exile.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1943CairoTehran/persons#p_SRCS1</source-url>
+        </remark>
+        <remark source-urls="3">
+            <p>British Ambassador to Yugoslavia.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv01/persons#p_SRCS1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv02/persons#p_SRCS1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1945Malta/persons#p_SRS1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>British Ambassador to Egypt.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1951v05/persons#p_SRC1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>British Ambassador in Egypt after June 15, 1950.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v05p1/persons#p_STEVENSONSRCS1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v05p2/persons#p_STEVENSONSRCS1</source-url>
+        </remark>
+    </remarks>
+</person>

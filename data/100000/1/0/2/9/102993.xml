@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>102993</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Crockett, Kennedy McCampbell</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="3">
+                <name>Crockett, Kennedy M.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v12/persons#p_CKM1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v32/persons#p_CKM1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve10/persons#p_CKM1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Crockett, Kennedy McCampbell</name>
+                <source-url>https://history.state.gov/departmenthistory/people/crockett-kennedy-mccampbell</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Kennedy M. Crockett</name>
+                <source-url>https://history.state.gov/departmenthistory/people/crockett-kennedy-mccampbell</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1920</birth-year>
+    <death-year/>
+    <remarks variants="4">
+        <remark source-urls="1">
+            <p>Deputy Director, Office of Caribbean and Mexican Affairs, Bureau of Inter-American Affairs, from November 11, 1962</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v12/persons#p_CKM1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Director, Office of Caribbean Affairs, Bureau of Inter-American Affairs, Department of State, June 21, 1964–October 10, 1965</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v32/persons#p_CKM1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>U.S. Ambassador to Nicaragua from July 27, 1967 until April 19, 1970</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve10/persons#p_CKM1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Foreign Service Officer. Ambassador Extraordinary and Plenipotentiary (Nicaragua).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/crockett-kennedy-mccampbell</source-url>
+        </remark>
+    </remarks>
+</person>

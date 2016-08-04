@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>114078</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Villarosa, Sharon</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="1">
+                <name>Villarosa, Sharon</name>
+                <source-url>https://history.state.gov/departmenthistory/people/villarosa-sharon-english-woods</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Sharon English Woods Villarosa</name>
+                <source-url>https://history.state.gov/departmenthistory/people/villarosa-sharon-english-woods</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1951</birth-year>
+    <death-year/>
+    <remarks variants="1">
+        <remark source-urls="1">
+            <p>Foreign Service Officer. Ambassador Extraordinary and Plenipotentiary (Seychelles); Ambassador Extraordinary and Plenipotentiary (Mauritius); Chargé d'Affaires ad interim (Burma).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/villarosa-sharon-english-woods</source-url>
+        </remark>
+    </remarks>
+</person>

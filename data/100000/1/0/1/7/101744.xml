@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>101744</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Brill, Kenneth C.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="1">
+                <name>Brill, Kenneth C.</name>
+                <source-url>https://history.state.gov/departmenthistory/people/brill-kenneth-c</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1947</birth-year>
+    <death-year/>
+    <remarks variants="1">
+        <remark source-urls="1">
+            <p>Foreign Service Officer. Executive Secretary; Representative of the U.S.A. to the Vienna Office of the United Nations (Vienna); Chargé d'Affaires ad interim (India); Ambassador Extraordinary and Plenipotentiary (Cyprus).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/brill-kenneth-c</source-url>
+        </remark>
+    </remarks>
+</person>

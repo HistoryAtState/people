@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>100657</id>
+    <authorities>
+        <authority service="viaf">76520022</authority>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Atherton, Ray</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="1">
+                <name>Atherton, Ray</name>
+                <source-url>https://history.state.gov/departmenthistory/people/atherton-ray</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1883</birth-year>
+    <death-year>1960</death-year>
+    <remarks variants="1">
+        <remark source-urls="1">
+            <p>Foreign Service Officer. Envoy Extraordinary and Minister Plenipotentiary (Luxembourg); Chargé d'Affaires ad interim (Greece); Envoy Extraordinary and Minister Plenipotentiary (Denmark); Envoy Extraordinary and Minister Plenipotentiary (Canada); Ambassador Extraordinary and Plenipotentiary (Canada); Envoy Extraordinary and Minister Plenipotentiary (Bulgaria).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/atherton-ray</source-url>
+        </remark>
+    </remarks>
+</person>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>107606</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Lam Le Trinh</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="1">
+                <name>Lam Le Trinh</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v01/persons#p_LLT1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="1">
+        <remark source-urls="1">
+            <p>Minister of Interior, Republic of Vietnam, from February 1958</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v01/persons#p_LLT1</source-url>
+        </remark>
+    </remarks>
+</person>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>106955</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Keane, John F.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="3">
+                <name>Keane, John F.</name>
+                <source-url>https://history.state.gov/departmenthistory/people/keane-john-f</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve11p2/persons#p_KJF_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1981-88v13/persons#p_KJF_1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1944</birth-year>
+    <death-year/>
+    <remarks variants="3">
+        <remark source-urls="1">
+            <p>Foreign Service Officer. Ambassador Extraordinary and Plenipotentiary (Paraguay).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/keane-john-f</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Consular Officer, U.S. Embassy in Lima, from January 1973 until December 1973; Political Officer, Political Section, U.S. Embassy in Lima, from December 1973 until July 1974; Country Officer, U.S. Embassy in Mexico City, from July 1974 until May 1976; Special Assistant to the Assistant Secretary of State for Inter-American Affairs from May 1976</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve11p2/persons#p_KJF_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Political Officer, U.S. Embassy in Buenos Aires until September 1984</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1981-88v13/persons#p_KJF_1</source-url>
+        </remark>
+    </remarks>
+</person>

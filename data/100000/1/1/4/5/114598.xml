@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>114598</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Willard, Joseph Edward</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="3">
+                <name>Willard, Joseph Edward</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1914Supp/persons#p_WJE1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1916Supp/persons#p_WJE1</source-url>
+                <source-url>https://history.state.gov/departmenthistory/people/willard-joseph-edward</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Willard, Joseph E.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1915Supp/persons#p_WJE1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Joseph E. Willard</name>
+                <source-url>https://history.state.gov/departmenthistory/people/willard-joseph-edward</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1865</birth-year>
+    <death-year>1924</death-year>
+    <remarks variants="3">
+        <remark source-urls="2">
+            <p>United States Ambassador in Spain.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1914Supp/persons#p_WJE1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1915Supp/persons#p_WJE1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>U. S. Ambassador in Spain.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1916Supp/persons#p_WJE1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Non-career appointee. Envoy Extraordinary and Minister Plenipotentiary (Spain); Ambassador Extraordinary and Plenipotentiary (Spain).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/willard-joseph-edward</source-url>
+        </remark>
+    </remarks>
+</person>

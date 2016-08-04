@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>110836</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Polk, Frank Lyon</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="4">
+                <name>Polk, Frank Lyon</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1915Supp/persons#p_PFL1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1916Supp/persons#p_PFL1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1917-72PubDip/persons#p_PFL_1</source-url>
+                <source-url>https://history.state.gov/departmenthistory/people/polk-frank-lyon</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1871</birth-year>
+    <death-year>1943</death-year>
+    <remarks variants="3">
+        <remark source-urls="2">
+            <p>Counselor for the Department of State of the United States.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1915Supp/persons#p_PFL1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1916Supp/persons#p_PFL1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Counselor of the Department of State</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1917-72PubDip/persons#p_PFL_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Non-career appointee. Under Secretary of State; Secretary of State ad interim; Counselor.</p>
+            <source-url>https://history.state.gov/departmenthistory/people/polk-frank-lyon</source-url>
+        </remark>
+    </remarks>
+</person>

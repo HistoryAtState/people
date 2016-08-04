@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>101766</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Broderick, William D.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="2">
+                <name>Broderick, William D.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v31/persons#p_BWD1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve10/persons#p_BWD1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="2">
+        <remark source-urls="1">
+            <p>Deputy Director, Office of Bolivian-Chilean Affairs, Bureau of Inter-American Affairs, Department of State, July 1966–August 1968</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v31/persons#p_BWD1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Staff Director, National Security Council Interdepartmental Group for Inter-American Affairs from January 1969 until June 1970; Country Director, Caribbean Countries, Bureau of Inter-American Affairs, Department of State from June 1970 until April 1972</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve10/persons#p_BWD1</source-url>
+        </remark>
+    </remarks>
+</person>

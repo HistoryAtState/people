@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>101555</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Borden, James Wallace</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="1">
+                <name>Borden, James Wallace</name>
+                <source-url>https://history.state.gov/departmenthistory/people/borden-james-wallace</source-url>
+            </original>
+            <original source-urls="1">
+                <name>James W. Borden</name>
+                <source-url>https://history.state.gov/departmenthistory/people/borden-james-wallace</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1810</birth-year>
+    <death-year>1882</death-year>
+    <remarks variants="1">
+        <remark source-urls="1">
+            <p>Non-career appointee. Commissioner (Hawai’i).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/borden-james-wallace</source-url>
+        </remark>
+    </remarks>
+</person>

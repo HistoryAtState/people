@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>114910</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Yerofeyev, Vladimir Yakovlevich</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="1">
+                <name>Erofeev</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1948v02/persons#p_E1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Yerofeyev, Vladimir Yakovlevich</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1948v02/persons#p_YVY1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Erofeev, Vladimir</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v27/persons#p_EV_1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="3">
+        <remark source-urls="1">
+            <p>see Yerofeyev, Vladimir Yakovlevich</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1948v02/persons#p_E1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Deputy Chief of the Second European Division, Soviet Foreign Ministry</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1948v02/persons#p_YVY1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Soviet Ambassador to Iran</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v27/persons#p_EV_1</source-url>
+        </remark>
+    </remarks>
+</person>

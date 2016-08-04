@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>108520</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Marjoribanks, James Alexander Milne</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="1">
+                <name>Marjoribanks, James Alexander Milne</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1946v03/persons#p_MJAM1</source-url>
+            </original>
+            <original source-urls="3">
+                <name>Marjoribanks, James A. M.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1947v02/persons#p_MJAM1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1948v02/persons#p_MJAM1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1949v03/persons#p_MJAM1</source-url>
+            </original>
+            <original source-urls="2">
+                <name>Marjoribanks, James A.M.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v06p1/persons#p_MARJORIBANKSJAM1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v06p2/persons#p_MARJORIBANKSJAM1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="4">
+        <remark source-urls="1">
+            <p>Political Adviser, British Delegation to the Council of Foreign Ministers</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1946v03/persons#p_MJAM1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Assistant Head, German Political Department, British Foreign Office</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1947v02/persons#p_MJAM1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1948v02/persons#p_MJAM1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>British Representative at the Austrian treaty negotiations, February 9–May 10; Deputy for Austria at the Sixth Session of the Council of Foreign Ministers.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1949v03/persons#p_MJAM1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Deputy Head of the British Delegation to the High Authority of the European Coal and Steel Community after August 31, 1952.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v06p1/persons#p_MARJORIBANKSJAM1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v06p2/persons#p_MARJORIBANKSJAM1</source-url>
+        </remark>
+    </remarks>
+</person>

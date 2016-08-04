@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>100763</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Bailey, Kenneth H.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="1">
+                <name>Bailey, Kenneth H.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v05/persons#p_BKH1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="1">
+        <remark source-urls="1">
+            <p>political and economic officer, Bureau of International Organization Affairs, UN Budgetary and Administrative Policy Staff from April 1972</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v05/persons#p_BKH1</source-url>
+        </remark>
+    </remarks>
+</person>

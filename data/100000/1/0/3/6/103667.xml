@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>103667</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Dryer, Thomas Jefferson</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="1">
+                <name>Dryer, Thomas Jefferson</name>
+                <source-url>https://history.state.gov/departmenthistory/people/dryer-thomas-jefferson</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Thomas J. Dryer</name>
+                <source-url>https://history.state.gov/departmenthistory/people/dryer-thomas-jefferson</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1808</birth-year>
+    <death-year>1879</death-year>
+    <remarks variants="1">
+        <remark source-urls="1">
+            <p>Non-career appointee. Commissioner (Hawai’i).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/dryer-thomas-jefferson</source-url>
+        </remark>
+    </remarks>
+</person>

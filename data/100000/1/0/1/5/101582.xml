@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>101582</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Botelho Moniz, Julio Carlos Alves Dias</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="2">
+                <name>Botelho Moniz, Julio Carlos Alves Dias</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v07p1/persons#p_BMJCAD1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v07p2/persons#p_BMJCAD1</source-url>
+            </original>
+            <original source-urls="2">
+                <name>Moniz.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v07p1/persons#p_MONIZ1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v07p2/persons#p_Moniz1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="2">
+        <remark source-urls="2">
+            <p>Chief, General Staff of the Portuguese Armed Forces, until August 1958; thereafter Minister of National Defense</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v07p1/persons#p_BMJCAD1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v07p2/persons#p_BMJCAD1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>See Botelho Moniz</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v07p1/persons#p_MONIZ1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v07p2/persons#p_Moniz1</source-url>
+        </remark>
+    </remarks>
+</person>

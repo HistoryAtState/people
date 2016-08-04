@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>111623</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Roshchin, Alexei Alexeevich</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="2">
+                <name>Roshchin, Alexei Alexeevich</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v11/persons#p_RAA4</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve14p2/persons#p_RAA_2</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Roshchin, Alexei A.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v32/persons#p_RAA1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Roshchin, Alexey A.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve02/persons#p_RAA4</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="4">
+        <remark source-urls="1">
+            <p>Soviet Representative to the Eighteen-Nation Disarmament Committee after 1966</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v11/persons#p_RAA4</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Soviet representative to the Eighteen-Nation Disarmament Committee Conference of the Committee on Disarmament</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v32/persons#p_RAA1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Leader of the Soviet Delegation to the ENDC/CCD</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve02/persons#p_RAA4</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>head, Soviet delegation to the Conference of the Committee on Disarmament</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve14p2/persons#p_RAA_2</source-url>
+        </remark>
+    </remarks>
+</person>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>109307</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Montgomery, Edward P.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="4">
+                <name>Montgomery, Edward P.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v02p1/persons#p_MONTGOMERYEP1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v02p2/persons#p_MONTGOMERYEP1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v05p1/persons#p_MONTGOMERYEP1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v05p2/persons#p_MONTGOMERYEP1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="2">
+        <remark source-urls="2">
+            <p>Chief of the Current Information Policy Staff, Office of Policy and Plans, United States International Information Administration (United States Information Agency after August 1953), 1952–1953; Acting Public Affairs Adviser, Bureau of European Affairs, Department of State, 1954.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v02p1/persons#p_MONTGOMERYEP1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v02p2/persons#p_MONTGOMERYEP1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Chief of the Current Information Policy Staff, United States Information Agency, November 1952–August 1953; thereafter Acting Public Affairs Adviser for the Bureau of European Affairs, Department of State.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v05p1/persons#p_MONTGOMERYEP1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v05p2/persons#p_MONTGOMERYEP1</source-url>
+        </remark>
+    </remarks>
+</person>

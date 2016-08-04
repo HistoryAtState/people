@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>100867</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Barclay, Colville A. de R.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="1">
+                <name>Barclay, Sir Colville</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1914Supp/persons#p_BSC1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Barclay, Colville de R.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1915Supp/persons#p_BCDR1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Barclay, Colville A. de R.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1916Supp/persons#p_BCADR1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="1">
+            <title source-urls="1">
+                <name>Sir</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1914Supp/persons#p_BSC1</source-url>
+            </title>
+        </titles-from-name>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="2">
+        <remark source-urls="1">
+            <p>British Counselor of Embassy and Chargé d’Affaires at Washington.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1914Supp/persons#p_BSC1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Counselor of the British Embassy at Washington.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1915Supp/persons#p_BCDR1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1916Supp/persons#p_BCADR1</source-url>
+        </remark>
+    </remarks>
+</person>

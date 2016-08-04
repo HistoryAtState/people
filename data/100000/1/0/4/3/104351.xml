@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>104351</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Fletcher, Henry Prather</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="2">
+                <name>Fletcher, Henry Prather</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1914Supp/persons#p_FHP1</source-url>
+                <source-url>https://history.state.gov/departmenthistory/people/fletcher-henry-prather</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Henry P. Fletcher</name>
+                <source-url>https://history.state.gov/departmenthistory/people/fletcher-henry-prather</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1873</birth-year>
+    <death-year>1959</death-year>
+    <remarks variants="2">
+        <remark source-urls="1">
+            <p>United States Ambassador in Chile.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1914Supp/persons#p_FHP1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Foreign Service Officer. Under Secretary of State; Ambassador Extraordinary and Plenipotentiary (Mexico); Envoy Extraordinary and Minister Plenipotentiary (Luxembourg); Ambassador Extraordinary and Plenipotentiary (Italy); Envoy Extraordinary and Minister Plenipotentiary (Chile); Ambassador Extraordinary and Plenipotentiary (Chile); Ambassador Extraordinary and Plenipotentiary (Belgium).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/fletcher-henry-prather</source-url>
+        </remark>
+    </remarks>
+</person>

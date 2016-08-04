@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>104189</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Fedorenko, Nicolai T.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="8">
+            <original source-urls="1">
+                <name>Fedorenko, N. T.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v16/persons#p_FNT1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Fedorenko, Nikolai T.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v11/persons#p_FNT1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Fedorenko, Nikolai Trofimovich. T.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v25/persons#p_FNT1</source-url>
+            </original>
+            <original source-urls="2">
+                <name>Fedorenko, Nikolai</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v02/persons#p_FN1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v03/persons#p_FN1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Fedorenko, Nikolai Trofimovisch</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v11/persons#p_FNT1</source-url>
+            </original>
+            <original source-urls="2">
+                <name>Fedorenko, Nicolai T.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v14/persons#p_FNT1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v33/persons#p_FNT1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Federenko, Nikolai</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v16/persons#p_FN2</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Fedorenko, Nikolai Trofimovich</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v19/persons#p_FNT1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="8">
+        <remark source-urls="1">
+            <p>Member of the Collegium of the Soviet Ministry of Foreign Affairs; Member of the Soviet Delegation at the Geneva Conference.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v16/persons#p_FNT1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Soviet Deputy Minister of Foreign Affairs</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v11/persons#p_FNT1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Permanent Representative of the Soviet Union at the United Nations, 1963</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v25/persons#p_FNT1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Soviet Representative to the United Nations</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v02/persons#p_FN1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v03/persons#p_FN1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Soviet Permanent Representative to the United Nations until May 1966</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v11/persons#p_FNT1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Soviet Permanent Representative to the United Nations to March 1968</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v14/persons#p_FNT1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Soviet Permanent Representative to the United Nations</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v16/persons#p_FN2</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v19/persons#p_FNT1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Soviet Permanent Representative to the United Nations until March 1968</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v33/persons#p_FNT1</source-url>
+        </remark>
+    </remarks>
+</person>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>105826</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Henze, Paul B.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="6">
+                <name>Henze, Paul B.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v02/persons#p_HPB_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v13/persons#p_HPB_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v18/persons#p_HPB_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v20/persons#p_HP_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v21/persons#p_HPB_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v30/persons#p_HPB_1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="5">
+        <remark source-urls="2">
+            <p>member, Intelligence Coordination Cluster, National Security Council Staff</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v02/persons#p_HPB_1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v30/persons#p_HPB_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>member, National Security Council Staff for Intelligence Coordination from 1977 until 1980; headed the Nationality Working Group in the NSC from 1977 until 1980 and also covered NSC issues involving Cyprus/Turkey/Greece, the Horn of Africa, and international broadcasting</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v13/persons#p_HPB_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>member, National Security Council Staff for Intelligence Coordination</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v18/persons#p_HPB_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Intelligence Coordinator, National Security Council, from January 1977 until December 1980</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v20/persons#p_HP_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Intelligence Coordinator, National Security Council Staff, from January 1977 until December 1980</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v21/persons#p_HPB_1</source-url>
+        </remark>
+    </remarks>
+</person>

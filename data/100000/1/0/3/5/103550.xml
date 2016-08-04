@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>103550</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Dodson, Christine</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="9">
+                <name>Dodson, Christine</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v37/persons#p_DC_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v01/persons#p_DC_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v02/persons#p_DC_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v03/persons#p_DC_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v13/persons#p_DC_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v18/persons#p_DC_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v20/persons#p_DC_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v21/persons#p_DC_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v30/persons#p_DC_1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="6">
+        <remark source-urls="1">
+            <p>Deputy Staff Secretary, National Security Council, from January until May 1977; Staff Secretary, National Security Council, from May 1977 until January 1981</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v37/persons#p_DC_1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Deputy Staff Secretary, National Security Council, from January until May 1977; thereafter Staff Secretary</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v01/persons#p_DC_1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v02/persons#p_DC_1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Deputy Staff Secretary, National Security Council, until May 1977; Staff Secretary, National Security Council, from May 1977</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v03/persons#p_DC_1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v30/persons#p_DC_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Staff Secretary, National Security Council</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v13/persons#p_DC_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Deputy Staff Secretary, National Security Council, from January 1977 until May 1977; Staff Secretary, National Security Council, from May 1977</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v18/persons#p_DC_1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Deputy Staff Secretary of the National Security Council from January 1977 until May 1977; thereafter Staff Secretary until January 1981</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v20/persons#p_DC_1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v21/persons#p_DC_1</source-url>
+        </remark>
+    </remarks>
+</person>

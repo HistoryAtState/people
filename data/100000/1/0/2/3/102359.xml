@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>102359</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Chafee, John H.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="9">
+                <name>Chafee, John H.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v17/persons#p_CJH1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v24/persons#p_CJH2</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v32/persons#p_CJH1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v34/persons#p_CJH1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve04/persons#p_CJH2</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve05p1/persons#p_CJH2</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve05p2/persons#p_CJH1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve13/persons#p_CJH2</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v01/persons#p_CJH_1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="6">
+        <remark source-urls="2">
+            <p>Secretary of the Navy, January 31, 1969–May 4, 1972</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v17/persons#p_CJH1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve13/persons#p_CJH2</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Secretary of the Navy from January 31, 1969, until May 4, 1972</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v24/persons#p_CJH2</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v34/persons#p_CJH1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Secretary of the Navy from January 31, 1969 until May 4, 1972</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v32/persons#p_CJH1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Secretary of the Navy until January 1972</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve04/persons#p_CJH2</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Secretary of the Navy from January 1969 to May 1972</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve05p1/persons#p_CJH2</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve05p2/persons#p_CJH1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Senator (R-Rhode Island) from December 29, 1976</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v01/persons#p_CJH_1</source-url>
+        </remark>
+    </remarks>
+</person>

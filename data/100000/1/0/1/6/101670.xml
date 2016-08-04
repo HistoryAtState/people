@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>101670</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Bramante, A. Donald</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="1">
+                <name>Bramante, A. Donald</name>
+                <source-url>https://history.state.gov/departmenthistory/people/bramante-a-donald</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1930</birth-year>
+    <death-year/>
+    <remarks variants="1">
+        <remark source-urls="1">
+            <p>Foreign Service Officer. Chargé d'Affaires ad interim (Gambia, The).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/bramante-a-donald</source-url>
+        </remark>
+    </remarks>
+</person>

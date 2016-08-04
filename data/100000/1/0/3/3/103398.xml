@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>103398</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Derwinski, Edward J.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="3">
+                <name>Derwinski, Edward J.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v05/persons#p_DEJ1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v21/persons#p_DEJ_1</source-url>
+                <source-url>https://history.state.gov/departmenthistory/people/derwinski-edward-j</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1926</birth-year>
+    <death-year>2012</death-year>
+    <remarks variants="3">
+        <remark source-urls="1">
+            <p>Representative, U.S. Delegation to the 26th General Assembly of the United Nations, 1971</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v05/persons#p_DEJ1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>member, U.S. House of Representatives (R-Illinois)</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v21/persons#p_DEJ_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Non-career appointee. Under Secretary of State for Arms Control and International Security Affairs; Counselor.</p>
+            <source-url>https://history.state.gov/departmenthistory/people/derwinski-edward-j</source-url>
+        </remark>
+    </remarks>
+</person>

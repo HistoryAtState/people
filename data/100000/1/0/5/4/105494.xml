@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>105494</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Haniel von Haimhausen, Edgar K.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="2">
+                <name>Haniel von Haimhausen, Edgar K.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1914Supp/persons#p_HVHEK1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1915Supp/persons#p_HVHEK1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="2">
+        <remark source-urls="1">
+            <p>German Counselor of Embassy and Chargé d’Affaires at Washington.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1914Supp/persons#p_HVHEK1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Counselor of the German Embassy at Washington.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1915Supp/persons#p_HVHEK1</source-url>
+        </remark>
+    </remarks>
+</person>

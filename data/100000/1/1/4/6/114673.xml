@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>114673</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Wilson, Huntington (Francis Mairs Huntington-Wilson)</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="1">
+                <name>Wilson, Huntington (Francis Mairs Huntington-Wilson)</name>
+                <source-url>https://history.state.gov/departmenthistory/people/wilson-huntington-francis-mairs-huntington-wilson</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Huntington Wilson</name>
+                <source-url>https://history.state.gov/departmenthistory/people/wilson-huntington-francis-mairs-huntington-wilson</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1875</birth-year>
+    <death-year>1946</death-year>
+    <remarks variants="1">
+        <remark source-urls="1">
+            <p>Non-career appointee. Third Assistant Secretary of State; Assistant Secretary of State; Envoy Extraordinary and Minister Plenipotentiary (Yugoslavia); Envoy Extraordinary and Minister Plenipotentiary (Romania); Diplomatic Agent (Bulgaria); Envoy Extraordinary and Minister Plenipotentiary (Argentina).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/wilson-huntington-francis-mairs-huntington-wilson</source-url>
+        </remark>
+    </remarks>
+</person>

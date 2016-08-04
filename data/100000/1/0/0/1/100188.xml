@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>100188</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Alam, Asadollah</name>
+        </preferred>
+        <alternates/>
+        <originals variants="4">
+            <original source-urls="1">
+                <name>Alam, Asadullah</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v12/persons#p_AA1</source-url>
+            </original>
+            <original source-urls="2">
+                <name>Alam, Asadollah</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v17/persons#p_AA11</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v18/persons#p_AA11</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Alam, Amir Asadullah</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v22/persons#p_AA11</source-url>
+            </original>
+            <original source-urls="2">
+                <name>Alam, Assadollah</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v27/persons#p_AA_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v36/persons#p_AA1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="1">
+            <title source-urls="1">
+                <name>Amir</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v22/persons#p_AA11</source-url>
+            </title>
+        </titles-from-name>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="5">
+        <remark source-urls="1">
+            <p>Iranian Minister of the Interior, April 8, 1955–April 4, 1957</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v12/persons#p_AA1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Prime Minister of Iran from July 19, 1962</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v17/persons#p_AA11</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v18/persons#p_AA11</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Minister of the Court of the Shah of Iran from 1967</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v22/persons#p_AA11</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Iranian Minister of Court</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v27/persons#p_AA_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Iranian Court Minister</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v36/persons#p_AA1</source-url>
+        </remark>
+    </remarks>
+</person>

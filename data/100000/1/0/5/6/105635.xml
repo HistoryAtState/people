@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>105635</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Harvey, Oliver Charles</name>
+        </preferred>
+        <alternates/>
+        <originals variants="4">
+            <original source-urls="1">
+                <name>Harvey, Oliver</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv01/persons#p_HO1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Harvey, Oliver Charles</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv02/persons#p_HO1</source-url>
+            </original>
+            <original source-urls="4">
+                <name>Harvey, Sir Oliver Charles</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1947v02/persons#p_HSOC1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1948v02/persons#p_HSOC1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v03p1/persons#p_HSOC1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v03p2/persons#p_HSOC1</source-url>
+            </original>
+            <original source-urls="2">
+                <name>Harvey, Sir Oliver C.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v05p1/persons#p_HARVEYSOC1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v05p2/persons#p_HARVEYSOC1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="1">
+            <title source-urls="6">
+                <name>Sir</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1947v02/persons#p_HSOC1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1948v02/persons#p_HSOC1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v03p1/persons#p_HSOC1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v03p2/persons#p_HSOC1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v05p1/persons#p_HARVEYSOC1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v05p2/persons#p_HARVEYSOC1</source-url>
+            </title>
+        </titles-from-name>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="5">
+        <remark source-urls="2">
+            <p>Acting Assistant Under-Secretary of State, British Foreign Office.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv01/persons#p_HO1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv02/persons#p_HO1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Deputy Under Secretary of State (Political), British Foreign Office; Superintending Under Secretary of the German Department, February 1946–December 1947</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1947v02/persons#p_HSOC1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>British Ambassador in France</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1948v02/persons#p_HSOC1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>British Ambassador in France.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1951v03p1/persons#p_HSOC1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1951v03p2/persons#p_HSOC1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>British Ambassador in France, January 1948–April 1954.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v05p1/persons#p_HARVEYSOC1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v05p2/persons#p_HARVEYSOC1</source-url>
+        </remark>
+    </remarks>
+</person>

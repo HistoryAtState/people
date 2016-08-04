@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>100274</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>al-Jabri, Majd al-Din</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="1">
+                <name>al–Jabri, Majd al–Din</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v13/persons#p_aJMaD1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="1">
+        <remark source-urls="1">
+            <p>Syrian Minister of Public Works until February 13, 1955, and June 14–December 31, 1956</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v13/persons#p_aJMaD1</source-url>
+        </remark>
+    </remarks>
+</person>

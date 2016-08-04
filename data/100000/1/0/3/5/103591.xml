@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>103591</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Doolin, Dennis J.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="7">
+                <name>Doolin, Dennis J.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v06/persons#p_DDJ1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v07/persons#p_DDJ1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v08/persons#p_DDJ1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v17/persons#p_DDJ1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v20/persons#p_DDJ1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve12/persons#p_doolin-dennis-j</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve13/persons#p_DDJ1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="4">
+        <remark source-urls="1">
+            <p>Deputy Assistant Secretary of Defense for International Security Affairs responsible for East Asia and Pacific affairs</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v06/persons#p_DDJ1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Deputy Assistant Secretary of Defense for East Asian and Pacific Affairs</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v07/persons#p_DDJ1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v08/persons#p_DDJ1</source-url>
+        </remark>
+        <remark source-urls="3">
+            <p>Deputy Assistant Secretary of Defense for International Security Affairs responsible for East Asia and Pacific Affairs</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v17/persons#p_DDJ1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v20/persons#p_DDJ1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve13/persons#p_DDJ1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Deputy Assistant Secretary of Defense for East Asia and Pacific Affairs</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve12/persons#p_doolin-dennis-j</source-url>
+        </remark>
+    </remarks>
+</person>

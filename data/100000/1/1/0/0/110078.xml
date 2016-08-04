@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>110078</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Olsen, Arthur Joseph</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="1">
+                <name>Olsen, Arthur J.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v21/persons#p_OAJ_1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Olsen, Arthur Joseph</name>
+                <source-url>https://history.state.gov/departmenthistory/people/olsen-arthur-joseph</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Arthur J. Olsen</name>
+                <source-url>https://history.state.gov/departmenthistory/people/olsen-arthur-joseph</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1920</birth-year>
+    <death-year>2003</death-year>
+    <remarks variants="2">
+        <remark source-urls="1">
+            <p>Deputy Chief of Mission of the Embassy in Belgium</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v21/persons#p_OAJ_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Foreign Service Officer. Chargé d'Affaires ad interim (Sweden).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/olsen-arthur-joseph</source-url>
+        </remark>
+    </remarks>
+</person>

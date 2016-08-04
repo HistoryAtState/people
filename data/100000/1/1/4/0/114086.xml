@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>114086</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Vinh Loc</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="3">
+                <name>Vinh Loc</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v04/persons#p_VL1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v05/persons#p_VL1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v09/persons#p_VL_1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Loc, Vinh</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v09/persons#p_VL_1alt1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="3">
+        <remark source-urls="2">
+            <p>General, ARVN, Commander of II Corps</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v04/persons#p_VL1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v05/persons#p_VL1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Lieutenant General, ARVN, Commandant, National War College of South Vietnam</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v09/persons#p_VL_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>see Vinh Loc</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v09/persons#p_VL_1alt1</source-url>
+        </remark>
+    </remarks>
+</person>

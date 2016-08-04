@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>109107</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Michael I</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="2">
+                <name>Michael (Mihai) I</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv01/persons#p_M1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1946v03/persons#p_MMI1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Rumania, The King of</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv01/persons#p_R3</source-url>
+            </original>
+            <original source-urls="2">
+                <name>Michael I</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv02/persons#p_MMI1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv02/persons#p_R2</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="4">
+        <remark source-urls="2">
+            <p>King of Rumania.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv01/persons#p_M1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv02/persons#p_MMI1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>See Michael I.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv01/persons#p_R3</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>The King of. See Michael I.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv02/persons#p_R2</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>King of Rumania</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1946v03/persons#p_MMI1</source-url>
+        </remark>
+    </remarks>
+</person>

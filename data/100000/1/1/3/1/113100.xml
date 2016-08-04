@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>113100</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Streator, Edward J.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="3">
+                <name>Streator, Edward J.</name>
+                <source-url>https://history.state.gov/departmenthistory/people/streator-edward-j</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1981-88v03/persons#p_SEJ_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1981-88v13/persons#p_SEJ_1</source-url>
+            </original>
+            <original source-urls="2">
+                <name>Streator, Edward</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v29/persons#p_SE1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v39/persons#p_SE1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1930</birth-year>
+    <death-year/>
+    <remarks variants="5">
+        <remark source-urls="1">
+            <p>Foreign Service Officer. Representative of the U.S.A. to the Organization for Economic Cooperation and Development (Paris).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/streator-edward-j</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Office of NATO and Atlantic Political-Military Affairs, Bureau of European Affairs, Department of State Sukarno, former President of Indonesia</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v29/persons#p_SE1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Deputy Director, Office of NATO and Atlantic Political-Military Affairs, Bureau of European Affairs, Department of State from February 1969 to December 1973; Director, Office of NATO and Atlantic Political-Military Affairs from December 1973</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v39/persons#p_SE1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Deputy Chief of Mission of the Embassy in the Soviet Union</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1981-88v03/persons#p_SEJ_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Deputy Chief of Mission, U.S. Embassy in London until August 1984</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1981-88v13/persons#p_SEJ_1</source-url>
+        </remark>
+    </remarks>
+</person>

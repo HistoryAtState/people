@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>111958</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Satterthwaite, Livingston L.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="8">
+                <name>Satterthwaite, Livingston L.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv02/persons#p_SL1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1949v03/persons#p_SLL1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v03p1/persons#p_SLL1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v03p2/persons#p_SLL1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v05/persons#p_SL1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v05p1/persons#p_SATTERTHWAITELL1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v05p2/persons#p_SATTERTHWAITELL1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v08/persons#p_SLL1</source-url>
+            </original>
+            <original source-urls="2">
+                <name>Satterthwaite, Livingston</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v09/persons#p_SL2</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v10/persons#p_SL2</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="8">
+        <remark source-urls="1">
+            <p>Civil Air Attaché, American Embassy, London.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv02/persons#p_SL1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Chief of the Division of British Commonwealth Affairs; Deputy Director of the Office of British Commonwealth and Northern European Affairs, Department of State, from October.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1949v03/persons#p_SLL1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Deputy Director, Office of British Commonwealth and Northern European Affairs, Department of State, until August 1951; thereafter, on detail to the National War College.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1951v03p1/persons#p_SLL1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1951v03p2/persons#p_SLL1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Deputy Director, Office of British Commonwealth and Northern European Affairs, Department of State.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1951v05/persons#p_SL1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Counselor of the Embassy in Turkey after May 2, 1952; Political Adviser to the European Commission after March 17, 1953; Counselor of the Embassy in France after March 16, 1953.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v05p1/persons#p_SATTERTHWAITELL1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v05p2/persons#p_SATTERTHWAITELL1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Political Adviser to the Commander in Chief, European Command; Counselor of the Embassy in Turkey from May 2, 1952; Political Adviser to the European Commission at Frankfurt after March 17, 1953; Counselor of the Embassy in France after March 16, 1954.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v08/persons#p_SLL1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Counselor of the Embassy in France until March 23, 1955; Deputy Executive Secretary, Operations Coordinating Board, March 23, 1955–January 15, 1956; Special Assistant, Operations Coordinating Board, January 15, 1956–August 1, 1956; Acting Director, Office of Transport and Communications Policy, Department of State, August 1, 1956–September 23, 1956; thereafter Director</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v09/persons#p_SL2</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Counselor of Embassy in France until March 23, 1955; Deputy Executive Secretary of the Operations Coordinating Board, March 23, 1955–January 15, 1956; Special Assistant to the Board, January 15–August 1, 1956; Acting Director, Office of Transport and Communications Policy, Department of State, August 1–September 23, 1956; thereafter Director</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v10/persons#p_SL2</source-url>
+        </remark>
+    </remarks>
+</person>

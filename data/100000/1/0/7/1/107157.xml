@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>107157</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Killoran, Thomas F.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="2">
+                <name>Killoran, Thomas F.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v31/persons#p_KTF1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve10/persons#p_KTF1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Killoran, Thomas</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v28/persons#p_KT_1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="3">
+        <remark source-urls="1">
+            <p>U.S. Consul General in San Pedro Sula September 1964–July 1966; Officer-in-Charge of Guatemalan Political and Economic Affairs, Office of Central American Affairs, Bureau of Inter-American Affairs, Department of State, August 1966–February 1968; thereafter Deputy Director, Office of Central American Affairs</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v31/persons#p_KTF1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>U.S. Consul General in Luanda</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v28/persons#p_KT_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Deputy Director, Central America, Bureau of Inter-American Affairs, Department of State from July 1968 until August 1970</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve10/persons#p_KTF1</source-url>
+        </remark>
+    </remarks>
+</person>

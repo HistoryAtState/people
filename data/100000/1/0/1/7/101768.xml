@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>101768</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Broe, William V.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="5">
+                <name>Broe, William V.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v31/persons#p_BWV1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v32/persons#p_BWV1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v21/persons#p_BWV_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve10/persons#p_BWV1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve16/persons#p_BWV_1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="5">
+        <remark source-urls="1">
+            <p>Chief of the Western Hemisphere Division, Directorate of Plans, Central Intelligence Agency, from June 1965</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v31/persons#p_BWV1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Chief, Western Hemisphere Division, Directorate of Plans, Central Intelligence Agency after June 1965</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v32/persons#p_BWV1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Western Hemisphere Office Director, Central Intelligence Agency until 1973</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v21/persons#p_BWV_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Chief of Western Hemisphere Division, Central Intelligence Agency from 1969</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve10/persons#p_BWV1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Western Hemisphere Division Director, Central Intelligence Agency until 1973</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve16/persons#p_BWV_1</source-url>
+        </remark>
+    </remarks>
+</person>

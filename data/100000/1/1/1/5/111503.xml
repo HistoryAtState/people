@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>111503</id>
+    <authorities>
+        <authority service="viaf">107535575</authority>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Rodriguez, Rafael Caldera</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="1">
+                <name>President Rafael Caldera Rodriguez</name>
+                <source-url>https://history.state.gov/departmenthistory/visits/venezuela</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="1">
+        <remark source-urls="1">
+            <p>President, Venezuela. Visited U.S. 2 times, 1970–1994</p>
+            <source-url>https://history.state.gov/departmenthistory/visits/venezuela</source-url>
+        </remark>
+    </remarks>
+</person>

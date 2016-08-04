@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>108557</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Martens, Robert J.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="5">
+                <name>Martens, Robert J.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v05/persons#p_MRJ2</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v26/persons#p_MRJ5</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve14p1/persons#p_MRJ5</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve14p2/persons#p_MRJ_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v02/persons#p_MRJ_1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Martens, Robert J .</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve15p1/persons#p_MRJ5</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="6">
+        <remark source-urls="1">
+            <p>Officer in Charge of Soviet Educational and Cultural Exchanges, Soviet and East European Exchanges Staff, Bureau of European Affairs, Department of State</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v05/persons#p_MRJ2</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Political Officer at the Embassy in Djakarta until October 1966</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v26/persons#p_MRJ5</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Director, Office of Regional Affairs, Bureau of East Asian and Pacific Affairs, Department of State</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve14p1/persons#p_MRJ5</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Director, Regional Affairs, Bureau of East Asian and Pacific Affairs Department of State from 1974</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve14p2/persons#p_MRJ_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Chargé d'Affaires ad interim, Embassy Romania</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve15p1/persons#p_MRJ5</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Director, Office of Regional Affairs and Staff Director, National Security Council Interdepartmental Group, Bureau of East Asian and Pacific Affairs, Department of State, until late 1978; thereafter Deputy Chief of Mission U.S. Embassy in Stockholm</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v02/persons#p_MRJ_1</source-url>
+        </remark>
+    </remarks>
+</person>

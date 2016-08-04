@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>100383</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Amery, Harold Julian</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="2">
+                <name>Amery, Julian</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v05p1/persons#p_AMERYJ1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v05p2/persons#p_AMERYJ1</source-url>
+            </original>
+            <original source-urls="2">
+                <name>Amery, Harold Julian</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v10p1/persons#p_AHJ1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v10p2/persons#p_AHJ1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="3">
+        <remark source-urls="2">
+            <p>Conservative member of the British House of Commons.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v05p1/persons#p_AMERYJ1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v05p2/persons#p_AMERYJ1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>British Parliamentary Under Secretary of State for the Colonies, December 1958–October 1960</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v10p1/persons#p_AHJ1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>British Parliamentary United Secretary of State for the Colonies, December 1958–October 1960</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v10p2/persons#p_AHJ1</source-url>
+        </remark>
+    </remarks>
+</person>

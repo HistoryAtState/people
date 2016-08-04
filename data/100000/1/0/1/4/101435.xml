@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>101435</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Bloch, Julia Chang</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="2">
+                <name>Bloch, Julia Chang</name>
+                <source-url>https://history.state.gov/departmenthistory/people/bloch-julia-chang</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v30/persons#p_BJC_1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1942</birth-year>
+    <death-year/>
+    <remarks variants="2">
+        <remark source-urls="1">
+            <p>Non-career appointee. Ambassador Extraordinary and Plenipotentiary (Nepal).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/bloch-julia-chang</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>chief minority counsel, Senate Select Committee on Nutrition and Human Needs until 1977; Deputy Assistant Director, Office of Assistant Director, Africa, United States Information Agency; Deputy Director, Office of the Director for African Affairs, U.S. International Communication Agency, from 1978</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v30/persons#p_BJC_1</source-url>
+        </remark>
+    </remarks>
+</person>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>109032</id>
+    <authorities>
+        <authority service="viaf">68960646</authority>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Menem, Carlos Saul</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="1">
+                <name>President Carlos Menem</name>
+                <source-url>https://history.state.gov/departmenthistory/visits/argentina</source-url>
+            </original>
+            <original source-urls="1">
+                <name>President Carlos Saul Menem</name>
+                <source-url>https://history.state.gov/departmenthistory/visits/argentina</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="2">
+        <remark source-urls="1">
+            <p>President, Argentina. Visited U.S. 2 times, 1999</p>
+            <source-url>https://history.state.gov/departmenthistory/visits/argentina</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>President, Argentina. Visited U.S. 7 times, 1989–1996</p>
+            <source-url>https://history.state.gov/departmenthistory/visits/argentina</source-url>
+        </remark>
+    </remarks>
+</person>

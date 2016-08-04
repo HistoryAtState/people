@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>104784</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Gebelt, Stephen Gurney</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="1">
+                <name>Gebelt, Stephen G.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v28/persons#p_GSG_1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Gebelt, Stephen Gurney</name>
+                <source-url>https://history.state.gov/departmenthistory/people/gebelt-stephen-gurney</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Stephen G. Gebelt</name>
+                <source-url>https://history.state.gov/departmenthistory/people/gebelt-stephen-gurney</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1922</birth-year>
+    <death-year>1977</death-year>
+    <remarks variants="2">
+        <remark source-urls="1">
+            <p>Portugal Desk Officer, Bureau of European Affairs, Department of State, from November 1968 until September 1969; Deputy Chief of Mission at the U.S. Embassy in Lesotho from September 1969 until October 1970</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v28/persons#p_GSG_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Foreign Service Officer. Chargé d'Affaires ad interim (Lesotho).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/gebelt-stephen-gurney</source-url>
+        </remark>
+    </remarks>
+</person>

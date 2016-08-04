@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>106524</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Jamali, Muhammad Fadil</name>
+        </preferred>
+        <alternates/>
+        <originals variants="4">
+            <original source-urls="1">
+                <name>Jamali, Muhammad Fadil</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v05/persons#p_JMF1</source-url>
+            </original>
+            <original source-urls="2">
+                <name>al-Jamali, Mohamed Fadjil</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v09p1/persons#p_AJMF1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v09p2/persons#p_AJMF1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Jamali, Muhammed Fadil</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v12/persons#p_JMF1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Jamali, Dr. Mohammed Fadhil</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v13/persons#p_JDMF1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="1">
+            <title source-urls="1">
+                <name>Dr.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v13/persons#p_JDMF1</source-url>
+            </title>
+        </titles-from-name>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="4">
+        <remark source-urls="1">
+            <p>Iraqi Representative at the United Nations.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1951v05/persons#p_JMF1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Permanent Representative of Iraq at the United Nations; Deputy Prime Minister and Minister of Foreign Affairs, July 1952–January 1953; Prime Minister and President of the Chamber of Deputies, September 1953–April 1954; again Minister of Foreign Affairs, April–August 1954.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v09p1/persons#p_AJMF1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v09p2/persons#p_AJMF1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>former Iraqi Prime Minister and Foreign Minister</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v12/persons#p_JMF1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Iraqi Foreign Minister, March–May 1958, and Representative to the United Nations Security Council, 1958</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v13/persons#p_JDMF1</source-url>
+        </remark>
+    </remarks>
+</person>

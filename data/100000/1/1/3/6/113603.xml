@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>113603</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Tjarda van Starkenborgh Stachouwer, Jonkheer Alidius W. L.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="5">
+            <original source-urls="1">
+                <name>van Starkenborgh Stachouwer, Jonkheer A. W. L. Tjarda</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1946v03/persons#p_VSSJ1</source-url>
+            </original>
+            <original source-urls="2">
+                <name>Starkenborgh</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v03p1/persons#p_S1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v03p2/persons#p_S1</source-url>
+            </original>
+            <original source-urls="2">
+                <name>Tjarda van Starkenborgh Stachouwer, Jonkheer Alidius W. L.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v03p1/persons#p_TVSS1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v03p2/persons#p_TVSS1</source-url>
+            </original>
+            <original source-urls="2">
+                <name>Starkenborgh.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v05p1/persons#p_STARKENBORGH1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v05p2/persons#p_STARKENBORGH1</source-url>
+            </original>
+            <original source-urls="2">
+                <name>Tjarda Van Starkenborgh Stachouwer, Alidius W. L.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v05p1/persons#p_TJARDAVSSAWL1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v05p2/persons#p_TJARDAVSSAWL1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="4">
+        <remark source-urls="1">
+            <p>Assistant Chief of the Netherlands Delegation; Ambassador of the Netherlands in France</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1946v03/persons#p_VSSJ1</source-url>
+        </remark>
+        <remark source-urls="4">
+            <p>See Tjarda van Starkenborgh Stachouwer.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1951v03p1/persons#p_S1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1951v03p2/persons#p_S1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v05p1/persons#p_STARKENBORGH1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v05p2/persons#p_STARKENBORGH1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Netherlands Deputy Representative on the North Atlantic Council.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1951v03p1/persons#p_TVSS1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1951v03p2/persons#p_TVSS1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Netherlands Deputy Representative on the North Atlantic Council until 1952.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v05p1/persons#p_TJARDAVSSAWL1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v05p2/persons#p_TJARDAVSSAWL1</source-url>
+        </remark>
+    </remarks>
+</person>

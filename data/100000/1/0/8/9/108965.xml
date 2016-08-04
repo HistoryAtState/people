@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>108965</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>McWilliams, Edmund</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="1">
+                <name>McWilliams, Edmund</name>
+                <source-url>https://history.state.gov/departmenthistory/people/mcwilliams-edmund</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1947</birth-year>
+    <death-year/>
+    <remarks variants="1">
+        <remark source-urls="1">
+            <p>Foreign Service Officer. Chargé d'Affaires ad interim (Tajikistan); Chargé d'Affaires ad interim (Kyrgyzstan).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/mcwilliams-edmund</source-url>
+        </remark>
+    </remarks>
+</person>

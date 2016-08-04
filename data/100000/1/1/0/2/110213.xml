@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>110213</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>O‘Connor, James F., Jr.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="2">
+                <name>O’Conner, James F., Jr.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v06/persons#p_OCJFJ1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v07/persons#p_OCJFJ1</source-url>
+            </original>
+            <original source-urls="2">
+                <name>O’Connor, James F.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v05/persons#p_OCJF1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve10/persons#p_OCJF1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>O'Connor, James F.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v12/persons#p_OCJF1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="4">
+        <remark source-urls="2">
+            <p>Office of South American Affairs, Bureau of Inter-American Affairs, Department of State, until October 2, 1955; thereafter, Second Secretary of the Embassy in Argentina</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v06/persons#p_OCJFJ1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v07/persons#p_OCJFJ1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Officer in Charge of Argentine Affairs, Bureau of Inter-American Affairs, Department of State, after September 1959</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v05/persons#p_OCJF1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>officer in charge Argentine Affairs, Office of East Coast Affairs, Bureau of Inter-American Affairs, until July 1961</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v12/persons#p_OCJF1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Political Officer, U.S. Embassy in Asunción from January 1969 until January 1970</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve10/persons#p_OCJF1</source-url>
+        </remark>
+    </remarks>
+</person>

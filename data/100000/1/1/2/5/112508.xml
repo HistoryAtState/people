@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>112508</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Simons, Thomas W., Jr.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="4">
+                <name>Simons, Thomas W., Jr.</name>
+                <source-url>https://history.state.gov/departmenthistory/people/simons-thomas-w</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve11p2/persons#p_STW_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1981-88v03/persons#p_STW_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1981-88v13/persons#p_STW_1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1938</birth-year>
+    <death-year/>
+    <remarks variants="4">
+        <remark source-urls="1">
+            <p>Foreign Service Officer. Ambassador Extraordinary and Plenipotentiary (Poland); Ambassador Extraordinary and Plenipotentiary (Pakistan).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/simons-thomas-w</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Office of Disarmament and Arms Control, Bureau of Politico-Military Affairs, Department of State, from 1973 until 1974; Policy Planning Staff, Department of State, from 1974</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve11p2/persons#p_STW_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Director, Office of Soviet Union Affairs, Bureau of European Affairs, Department of State</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1981-88v03/persons#p_STW_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Director, Office of Soviet Union Affairs, Bureau of European Affairs, Department of State from September 1981</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1981-88v13/persons#p_STW_1</source-url>
+        </remark>
+    </remarks>
+</person>

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>113035</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Stimson, Henry Louis</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="4">
+                <name>Stimson, Henry L.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1943CairoTehran/persons#p_SHL1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv01/persons#p_SHL1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945Malta/persons#p_SHL1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1946v03/persons#p_SHL1</source-url>
+            </original>
+            <original source-urls="2">
+                <name>Stimson, Henry Louis</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945-50Intel/persons#p_SHL1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv02/persons#p_SHL2</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="6">
+        <remark source-urls="1">
+            <p>Secretary of War, 1940–45.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1943CairoTehran/persons#p_SHL1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Secretary of War until September 27, 1945</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1945-50Intel/persons#p_SHL1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Secretary of War; Chairman, Combined Policy Committee (on atomic energy).</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv01/persons#p_SHL1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Governor General of the Philippines, 1927–1929; Secretary of War, 1911–1913, 1940–September 1945.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv02/persons#p_SHL2</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Secretary of War.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1945Malta/persons#p_SHL1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Secretary of War, 1940–1945</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1946v03/persons#p_SHL1</source-url>
+        </remark>
+    </remarks>
+</person>

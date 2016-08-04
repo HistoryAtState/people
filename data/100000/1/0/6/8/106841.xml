@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>106841</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Kamel, Mustafa</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="1">
+                <name>Kamil, Mostafa</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v13/persons#p_KM1</source-url>
+            </original>
+            <original source-urls="4">
+                <name>Kamel, Mustafa</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v17/persons#p_KM2</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v18/persons#p_KM2</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v18/persons#p_KM2</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v19/persons#p_KM1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Kamel, Mostafa</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v21/persons#p_KM2</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="5">
+        <remark source-urls="1">
+            <p>United Arab Republic Ambassador to the United States from August 1958</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v13/persons#p_KM1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>United Arab Republic Ambassador to the United States</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v17/persons#p_KM2</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v18/persons#p_KM2</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Ambassador of the United Arab Republic until 1967</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v18/persons#p_KM2</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Ambassador of the United Arab Republic to the United States until June 1967</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v19/persons#p_KM1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>United Arab Republic Ambassador to the United States until June 1967</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v21/persons#p_KM2</source-url>
+        </remark>
+    </remarks>
+</person>

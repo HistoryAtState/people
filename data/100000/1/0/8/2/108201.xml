@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>108201</id>
+    <authorities>
+        <authority service="viaf">66598261</authority>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Lumumba, Patrice E.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="4">
+                <name>Lumumba, Patrice</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v02/persons#p_LP3</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v14/persons#p_LP3</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v20/persons#p_PL1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v21/persons#p_LP3</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Lumumba, Patrice E.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v23/persons#p_LPE_1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Prime Minister Lumumba</name>
+                <source-url>https://history.state.gov/departmenthistory/visits/congo-democratic-republic</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="6">
+        <remark source-urls="1">
+            <p>Prime Minister of the Republic of Congo from July 1960</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v02/persons#p_LP3</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Prime Minister of the Republic of the Congo, June–September 1960; dismissed by President Kasavubu September 1960; arrested and imprisoned December 1960</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v14/persons#p_LP3</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>former Prime Minister of the Republic of the Congo; died January 1961</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v20/persons#p_PL1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>leader of the Congo National Movement (MNC); first Prime Minister of independent Congo Republic; murdered in February 1961</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v21/persons#p_LP3</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Congolese Prime Minister from June 24, 1960 until September 5, 1960, died January 1961</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v23/persons#p_LPE_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Prime Minister, Democratic Republic of the Congo (Zaire). Visited U.S. once, 1960</p>
+            <source-url>https://history.state.gov/departmenthistory/visits/congo-democratic-republic</source-url>
+        </remark>
+    </remarks>
+</person>

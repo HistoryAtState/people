@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>105475</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Hammond, Ogden Haggerty</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="1">
+                <name>Hammond, Ogden Haggerty</name>
+                <source-url>https://history.state.gov/departmenthistory/people/hammond-ogden-haggerty</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Ogden H. Hammond</name>
+                <source-url>https://history.state.gov/departmenthistory/people/hammond-ogden-haggerty</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1869</birth-year>
+    <death-year>1956</death-year>
+    <remarks variants="1">
+        <remark source-urls="1">
+            <p>Non-career appointee. Ambassador Extraordinary and Plenipotentiary (Spain).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/hammond-ogden-haggerty</source-url>
+        </remark>
+    </remarks>
+</person>

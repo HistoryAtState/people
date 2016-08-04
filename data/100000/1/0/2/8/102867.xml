@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>102867</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Corry, Andrew Vincent</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="2">
+                <name>Corry, Andrew V.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v11p1/persons#p_CAV1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v11p2/persons#p_CAV1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Corry, Andrew Vincent</name>
+                <source-url>https://history.state.gov/departmenthistory/people/corry-andrew-vincent</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Andrew V. Corry</name>
+                <source-url>https://history.state.gov/departmenthistory/people/corry-andrew-vincent</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1904</birth-year>
+    <death-year>1981</death-year>
+    <remarks variants="2">
+        <remark source-urls="2">
+            <p>Attaché of the Embassy in India until June 1954; also assigned to Colombo, Kabul, Karachi and Katmandu.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v11p1/persons#p_CAV1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v11p2/persons#p_CAV1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Foreign Service Officer. Ambassador Extraordinary and Plenipotentiary (Sri Lanka); Ambassador Extraordinary and Plenipotentiary (Sierra Leone); Ambassador Extraordinary and Plenipotentiary (Maldives).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/corry-andrew-vincent</source-url>
+        </remark>
+    </remarks>
+</person>

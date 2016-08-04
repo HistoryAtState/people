@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>113496</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Thien Khiet</name>
+        </preferred>
+        <alternates/>
+        <originals variants="4">
+            <original source-urls="2">
+                <name>Khiet</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v03/persons#p_KHIET1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v04/persons#p_KHIET1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Tien Khiet</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v03/persons#p_TK1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Tinh Khiet</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v04/persons#p_TK1</source-url>
+            </original>
+            <original source-urls="2">
+                <name>Thien Khiet</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v02/persons#p_TK1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v03/persons#p_TK1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="3">
+        <remark source-urls="2">
+            <p>see Tien Khiet</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v03/persons#p_KHIET1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v04/persons#p_KHIET1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>chief bonze in Hue</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v03/persons#p_TK1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v04/persons#p_TK1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Buddhist leader</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v02/persons#p_TK1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v03/persons#p_TK1</source-url>
+        </remark>
+    </remarks>
+</person>

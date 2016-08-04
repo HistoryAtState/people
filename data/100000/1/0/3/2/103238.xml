@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>103238</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Dayton, M. Leon</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="4">
+                <name>Dayton, M. Leon</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v04p1/persons#p_DML1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v04p2/persons#p_DML1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v09p1/persons#p_DML1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v09p2/persons#p_DML1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Dayton, Leon</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v08/persons#p_DL2</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="3">
+        <remark source-urls="2">
+            <p>Chief, ECA Mission in Italy</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1951v04p1/persons#p_DML1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1951v04p2/persons#p_DML1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Chief of the Mutual Security Agency Mission in Turkey from July 6, 1952.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v08/persons#p_DL2</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Chief, Economic Cooperation Administration Mission in Italy until July 6, 1952; Chief, Mutual Security Agency Mission in Turkey, July 6, 1952–1954; Chief of the Mutual Security Agency Missions in Italy and Trieste, 1953; Director of the United States Operations Mission in Turkey (Foreign Operations Administration) from 1954.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v09p1/persons#p_DML1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v09p2/persons#p_DML1</source-url>
+        </remark>
+    </remarks>
+</person>

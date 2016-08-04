@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>111394</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Riley, Roderick H.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="4">
+                <name>Riley, Roderick H.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v03p1/persons#p_RRH1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v03p2/persons#p_RRH1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v06p1/persons#p_RILEYRH1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v06p2/persons#p_RILEYRH1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="2">
+        <remark source-urls="2">
+            <p>Officer in Charge of Industry and Development, Office of German Economic Affairs, Department of State, from spring 1951; Officer in Charge of Trade and Resources from fall 1951.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1951v03p1/persons#p_RRH1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1951v03p2/persons#p_RRH1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Officer in Charge of Trade and Resources, Office of German Economic Affairs, Department of State, from 1951.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v06p1/persons#p_RILEYRH1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v06p2/persons#p_RILEYRH1</source-url>
+        </remark>
+    </remarks>
+</person>

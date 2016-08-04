@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>104597</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Frosch, Robert A.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="4">
+                <name>Frosch, Robert A.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v11/persons#p_FRA4</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v02/persons#p_FRA_2</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v13/persons#p_FRA_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v26/persons#p_FRA_1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="4">
+        <remark source-urls="1">
+            <p>Director, Nuclear Test Detection, Advanced Research Projects Agency, Department of Defense, until 1965; Deputy Director, Advanced Research Projects Agency, 1965-1966; Assistant Secretary of the Navy for Research and Development, 1966-1967; Chairman, Interagency Committee on Marine Research, Education and Facilities, after 1967</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v11/persons#p_FRA4</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Administrator of the National Aeronautics and Space Administration from June 21, 1977, until January 20, 1981</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v02/persons#p_FRA_2</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>NASA Administrator from 1977 until 1981</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v13/persons#p_FRA_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Administrator of the National Aeronautics and Space Administration from June 1977 until January 20, 1981</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v26/persons#p_FRA_1</source-url>
+        </remark>
+    </remarks>
+</person>

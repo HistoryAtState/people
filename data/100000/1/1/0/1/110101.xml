@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>110101</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Oplinger, Gerald G.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="3">
+                <name>Oplinger, Gerald G.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve11p2/persons#p_OGG_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v02/persons#p_OGG_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v26/persons#p_OG_1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="3">
+        <remark source-urls="1">
+            <p>Deputy Director, Office of Atomic Energy and Aerospace, Bureau of Politico-Military Affairs, Department of State, from 1973 until 1975; Office of Nuclear Policy and Operations, Bureau of Politico-Military Affairs, Department of State, from 1975; Director, Office of Nuclear Policy and Operations, Bureau of Politico-Military Affairs, Department of State, from March 1976</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve11p2/persons#p_OGG_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Director, Office of Nuclear Policy and Operations, Bureau of Politico-Military Affairs, Department of State; thereafter member, Global Issues Cluster, National Security Council Staff, from July 1979 until January 1981; member, National Security Council Ad Hoc Group on Population Policy</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v02/persons#p_OGG_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Member, Office of Nuclear Policy and Operations, Bureau of Politico-Military Affairs, Department of State from 1977 until 1978; Member, National Security Council Staff from 1979 until 1981</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v26/persons#p_OG_1</source-url>
+        </remark>
+    </remarks>
+</person>

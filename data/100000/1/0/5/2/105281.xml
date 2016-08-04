@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>105281</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Guggenheim, M. Robert</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="3">
+                <name>Guggenheim, M. Robert</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v06p1/persons#p_GUGGENHEIMMR1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v06p2/persons#p_GUGGENHEIMMR1</source-url>
+                <source-url>https://history.state.gov/departmenthistory/people/guggenheim-m-robert</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1885</birth-year>
+    <death-year>1959</death-year>
+    <remarks variants="2">
+        <remark source-urls="2">
+            <p>Ambassador in Portugal, August 12, 1953–September 19, 1954.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v06p1/persons#p_GUGGENHEIMMR1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v06p2/persons#p_GUGGENHEIMMR1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Non-career appointee. Ambassador Extraordinary and Plenipotentiary (Portugal).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/guggenheim-m-robert</source-url>
+        </remark>
+    </remarks>
+</person>

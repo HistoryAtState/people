@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>112039</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Schieffer, Bob</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="1">
+                <name>Schieffer, Bob</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v01/persons#p_SB_1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="1">
+        <remark source-urls="1">
+            <p>correspondent, CBS News</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v01/persons#p_SB_1</source-url>
+        </remark>
+    </remarks>
+</person>

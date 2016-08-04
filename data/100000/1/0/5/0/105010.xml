@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>105010</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Gonzalez, Raymond Emmanuel</name>
+        </preferred>
+        <alternates/>
+        <originals variants="4">
+            <original source-urls="3">
+                <name>Gonzalez, Raymond Emmanuel</name>
+                <source-url>https://history.state.gov/departmenthistory/people/gonzalez-raymond-emmanuel</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v22/persons#p_GRE_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve16/persons#p_GRE_1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Raymond E. Gonzalez</name>
+                <source-url>https://history.state.gov/departmenthistory/people/gonzalez-raymond-emmanuel</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Gonzalez, Raymond E.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v21/persons#p_GRE_1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>González, Raymond E.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve10/persons#p_GRE1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1924</birth-year>
+    <death-year/>
+    <remarks variants="5">
+        <remark source-urls="1">
+            <p>Foreign Service Officer. Ambassador Extraordinary and Plenipotentiary (Ecuador).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/gonzalez-raymond-emmanuel</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Political Officer, U.S. Embassy in Lima from June 1970</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v21/persons#p_GRE_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Deputy Chief of Mission, U.S. Embassy, Panama</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v22/persons#p_GRE_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Political Officer, U.S. Embassy in San José from 1966 until 1970</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve10/persons#p_GRE1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Political Officer, U.S. Embassy in Peru from June 1970</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve16/persons#p_GRE_1</source-url>
+        </remark>
+    </remarks>
+</person>

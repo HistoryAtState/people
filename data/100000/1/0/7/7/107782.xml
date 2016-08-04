@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>107782</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Lee, John M.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="1">
+                <name>Lee, Rear Admiral John M.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v13/persons#p_LRAJM1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Lee, John M.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v34/persons#p_LJM1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Lee, Vice Admiral John M.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v39/persons#p_LVAJM1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="2">
+            <title source-urls="1">
+                <name>Rear Admiral</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v13/persons#p_LRAJM1</source-url>
+            </title>
+            <title source-urls="1">
+                <name>Vice Admiral</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v39/persons#p_LVAJM1</source-url>
+            </title>
+        </titles-from-name>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="3">
+        <remark source-urls="1">
+            <p>member of the MLF Negotiating Team, 1963</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v13/persons#p_LRAJM1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Vice Admiral, USN; Assistant Director, Arms Control and Disarmament Agency from 1970</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v34/persons#p_LJM1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>USN, Assistant Director, Bureau of Weapons Evaluation and Control, ACDA from 1970</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v39/persons#p_LVAJM1</source-url>
+        </remark>
+    </remarks>
+</person>

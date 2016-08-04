@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>103708</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Dumont, Donald Albert</name>
+        </preferred>
+        <alternates/>
+        <originals variants="4">
+            <original source-urls="1">
+                <name>Dumont, Donald A.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v21/persons#p_DDA1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Dumont, Donald</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v25/persons#p_DDA1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Dumont, Donald Albert</name>
+                <source-url>https://history.state.gov/departmenthistory/people/dumont-donald-albert</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Donald A. Dumont</name>
+                <source-url>https://history.state.gov/departmenthistory/people/dumont-donald-albert</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1911</birth-year>
+    <death-year>1996</death-year>
+    <remarks variants="3">
+        <remark source-urls="1">
+            <p>Deputy Director, Office of Western African and Malagasy Affairs, Bureau of African Affairs, Department of State, from September 1961 until October 1962; thereafter Ambassador to Burundi</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v21/persons#p_DDA1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>United Nations Adviser, Bureau of African Affairs, Department of State, from January 1961; Deputy Director, Office of Western African and Malagasy Affairs, September 1961–October 1962</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v25/persons#p_DDA1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Foreign Service Officer. Chargé d'Affaires ad interim (Mali); Envoy Extraordinary and Minister Plenipotentiary (Burundi); Ambassador Extraordinary and Plenipotentiary (Burundi).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/dumont-donald-albert</source-url>
+        </remark>
+    </remarks>
+</person>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>110116</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Orig, Alfredo</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="1">
+                <name>Orig, Chief Cook Alfredo</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv01/persons#p_OCCA1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Orig, Alfredo</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv02/persons#p_OCCA1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="1">
+            <title source-urls="1">
+                <name>Chief Cook</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv01/persons#p_OCCA1</source-url>
+            </title>
+        </titles-from-name>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="2">
+        <remark source-urls="1">
+            <p>U. S. N., member of the President’s messman detail.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv01/persons#p_OCCA1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>U. S. N., Head Boy, President’s messman detail.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv02/persons#p_OCCA1</source-url>
+        </remark>
+    </remarks>
+</person>

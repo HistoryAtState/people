@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>106935</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Kaul, Triloki Nath</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="3">
+                <name>Kaul, Triloki Nath</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v11/persons#p_KTN1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve07/persons#p_KTN1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve08/persons#p_KTN1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="3">
+        <remark source-urls="1">
+            <p>Foreign Secretary of the Indian Ministry of External Affairs from February 1969</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v11/persons#p_KTN1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Foreign Secretary of Indian Ministry of External Affairs from February 1969</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve07/persons#p_KTN1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Indian Ambassador to the United States from 1973 to 1976</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve08/persons#p_KTN1</source-url>
+        </remark>
+    </remarks>
+</person>

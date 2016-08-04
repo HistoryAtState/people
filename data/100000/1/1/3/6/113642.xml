@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>113642</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Ton That Dinh</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="2">
+                <name>Dinh</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v03/persons#p_DINH1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v04/persons#p_DINH1</source-url>
+            </original>
+            <original source-urls="2">
+                <name>Ton That Dinh, Major General</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v03/persons#p_TTDMG1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v04/persons#p_TTDMG1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Ton That Dinh</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v01/persons#p_TTD1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="1">
+            <title source-urls="2">
+                <name>Major General</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v03/persons#p_TTDMG1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v04/persons#p_TTDMG1</source-url>
+            </title>
+        </titles-from-name>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="3">
+        <remark source-urls="2">
+            <p>see Ton That Dinh</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v03/persons#p_DINH1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v04/persons#p_DINH1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>ARVN, Military Governor of Saigon, August 21-November 1, 1963; thereafter Commander of III Corps, Second Deputy Chairman of the Executive Committee of the Military Revolutionary Council, and Minister of Public Security of the Provisional Government</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v03/persons#p_TTDMG1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v04/persons#p_TTDMG1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Major General, ARVN, Vietnamese Minister of Interior until January 30, 1964</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v01/persons#p_TTD1</source-url>
+        </remark>
+    </remarks>
+</person>

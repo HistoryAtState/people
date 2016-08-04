@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>102999</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Cromwell, William Kennedy, III</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="1">
+                <name>Cromwell, W. Kennedy</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v05/persons#p_CWK1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Cromwell, William Kennedy, III</name>
+                <source-url>https://history.state.gov/departmenthistory/people/cromwell-william-kennedy</source-url>
+            </original>
+            <original source-urls="1">
+                <name>W. Kennedy Cromwell 3rd</name>
+                <source-url>https://history.state.gov/departmenthistory/people/cromwell-william-kennedy</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1924</birth-year>
+    <death-year>2012</death-year>
+    <remarks variants="2">
+        <remark source-urls="1">
+            <p>Regional Affairs Officer, Bureau of African Affairs, Department of State</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v05/persons#p_CWK1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Foreign Service Officer. Chargé d'Affaires ad interim (Botswana).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/cromwell-william-kennedy</source-url>
+        </remark>
+    </remarks>
+</person>

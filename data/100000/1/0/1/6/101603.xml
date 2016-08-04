@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>101603</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Bourbon-Busset, Jacques de</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="5">
+                <name>Bourbon-Busset, Jacques de</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1948v02/persons#p_BBJD1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v03p1/persons#p_BBJD1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v03p2/persons#p_BBJD1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v05p1/persons#p_BOURBONBUSSETJ1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v05p2/persons#p_BOURBONBUSSETJ1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="3">
+        <remark source-urls="1">
+            <p>Deputy Chief, Division of Southern Europe, French Ministry for Foreign Affairs</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1948v02/persons#p_BBJD1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Directeur du Cabinet, French Foreign Ministry.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1951v03p1/persons#p_BBJD1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1951v03p2/persons#p_BBJD1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Director of the Cabinet, French Ministry of Foreign Affairs.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v05p1/persons#p_BOURBONBUSSETJ1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v05p2/persons#p_BOURBONBUSSETJ1</source-url>
+        </remark>
+    </remarks>
+</person>

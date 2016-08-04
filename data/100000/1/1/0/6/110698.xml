@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>110698</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Phillips, Stanley Davis</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="1">
+                <name>Phillips, Stanley Davis</name>
+                <source-url>https://history.state.gov/departmenthistory/people/phillips-stanley-davis</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1942</birth-year>
+    <death-year/>
+    <remarks variants="1">
+        <remark source-urls="1">
+            <p>Non-career appointee. Ambassador Extraordinary and Plenipotentiary (Estonia).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/phillips-stanley-davis</source-url>
+        </remark>
+    </remarks>
+</person>

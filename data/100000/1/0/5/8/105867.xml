@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>105867</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Herzog, Chaim</name>
+        </preferred>
+        <alternates/>
+        <originals variants="4">
+            <original source-urls="1">
+                <name>President Chaim Herzog</name>
+                <source-url>https://history.state.gov/departmenthistory/visits/israel</source-url>
+            </original>
+            <original source-urls="3">
+                <name>Herzog, Chaim</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v05/persons#p_HCC1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v23/persons#p_HGC_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v08/persons#p_HC_1</source-url>
+            </original>
+            <original source-urls="2">
+                <name>Herzog, Colonel Chaim</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v09p1/persons#p_HCC1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v09p2/persons#p_HCC1</source-url>
+            </original>
+            <original source-urls="2">
+                <name>Herzog, Col. Chaim</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v14/persons#p_HCC1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v15/persons#p_HCC1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="2">
+            <title source-urls="2">
+                <name>Colonel</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v09p1/persons#p_HCC1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v09p2/persons#p_HCC1</source-url>
+            </title>
+            <title source-urls="2">
+                <name>Col.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v14/persons#p_HCC1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v15/persons#p_HCC1</source-url>
+            </title>
+        </titles-from-name>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="6">
+        <remark source-urls="1">
+            <p>President, Israel. Visited U.S. 4 times, 1983–1993</p>
+            <source-url>https://history.state.gov/departmenthistory/visits/israel</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Military, Naval, and Air Attaché, Israeli Embassy in the United States.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1951v05/persons#p_HCC1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Military, Naval, and Air Attaché of the Israeli Embassy in the United States.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v09p1/persons#p_HCC1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v09p2/persons#p_HCC1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>former Israeli Military, Naval, and Air Attaché of the Embassy in the United States; Commanding Officer of the Jerusalem District</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v14/persons#p_HCC1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v15/persons#p_HCC1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Special Assistant to Golda Meir</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v23/persons#p_HGC_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Israeli Ambassador to the United Nations from 1975 until 1978</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v08/persons#p_HC_1</source-url>
+        </remark>
+    </remarks>
+</person>

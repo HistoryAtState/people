@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>111327</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Rhodes, John I. M.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="1">
+                <name>Rhodes, John I. M.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v05/persons#p_RJIM1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="1">
+        <remark source-urls="1">
+            <p>Minister and Treasury Adviser, United Kingdom Mission to the United Nations, 1969</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v05/persons#p_RJIM1</source-url>
+        </remark>
+    </remarks>
+</person>

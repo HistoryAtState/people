@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>107299</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Knight, William E., II</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="4">
+                <name>Knight, William E., II</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v06p1/persons#p_KNIGHTWEII1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v06p2/persons#p_KNIGHTWEII1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v13/persons#p_KWE1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v16/persons#p_KWEII1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Knight, William E.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v27/persons#p_KWE1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="3">
+        <remark source-urls="2">
+            <p>Italian Desk Officer, Office of Western European Affairs, Department of State after December 17, 1951.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v06p1/persons#p_KNIGHTWEII1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v06p2/persons#p_KNIGHTWEII1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Office of Western European Affairs, Bureau of European Affairs, Department of State</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v13/persons#p_KWE1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v16/persons#p_KWEII1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Office of Western European Affairs, Bureau of European Affairs, Department of State, until March 1955; First Secretary-Consul in the Embassy in Iceland, March 1955–October 1957</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v27/persons#p_KWE1</source-url>
+        </remark>
+    </remarks>
+</person>

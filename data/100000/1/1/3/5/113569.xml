@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>113569</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Thurmond, James Strom</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="2">
+                <name>Thurmond, Strom</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v10/persons#p_TS1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v16/persons#p_TS_1</source-url>
+            </original>
+            <original source-urls="3">
+                <name>Thurmond, James Strom</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v22/persons#p_TJS_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v35/persons#p_TJS_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve03/persons#p_TJS1</source-url>
+            </original>
+            <original source-urls="3">
+                <name>Thurmond, J. Strom</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v38p1/persons#p_TJS_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v38p2/persons#p_TJS_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v01/persons#p_TJS_1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="5">
+        <remark source-urls="1">
+            <p>Democratic Senator from South Carolina</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v10/persons#p_TS1</source-url>
+        </remark>
+        <remark source-urls="3">
+            <p>Senator (R–South Carolina)</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v16/persons#p_TS_1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v38p1/persons#p_TJS_1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v38p2/persons#p_TJS_1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Senator (R-South Carolina)</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v22/persons#p_TJS_1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v01/persons#p_TJS_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Senator (D-South Carolina)</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v35/persons#p_TJS_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Republican Representative from South Carolina</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve03/persons#p_TJS1</source-url>
+        </remark>
+    </remarks>
+</person>

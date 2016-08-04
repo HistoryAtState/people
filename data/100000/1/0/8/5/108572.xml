@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>108572</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Martin, James V., Jr.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="1">
+                <name>Martin, James V.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v23p1/persons#p_MJV1</source-url>
+            </original>
+            <original source-urls="2">
+                <name>Martin, James V., Jr.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v18/persons#p_MJVJ1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v05/persons#p_MJVJ1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="3">
+        <remark source-urls="1">
+            <p>Consul in Fukuoka, Japan, to 1956; thereafter Officer in Charge of Japanese Affairs in the Office of Northeast Asian Affairs, Department of State</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v23p1/persons#p_MJV1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Officer in Charge of Japanese Affairs until November 1958, Office of Northeast Asian Affairs, Bureau of Far Eastern Affairs, Department of State</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v18/persons#p_MJVJ1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Director for Australian and New Zealand Affairs, Bureau of East Asian and Pacific Affairs, Department of State</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v05/persons#p_MJVJ1</source-url>
+        </remark>
+    </remarks>
+</person>

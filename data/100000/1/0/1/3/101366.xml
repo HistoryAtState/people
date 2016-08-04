@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>101366</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Black, Donald P.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="2">
+                <name>Black, Donald P.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve03/persons#p_BDP1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve14p2/persons#p_BDP_1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="2">
+        <remark source-urls="1">
+            <p>Office of United Nations Political Affairs, Bureau of International Organization Affairs, Department of State</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve03/persons#p_BDP1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Officer in Charge, Arms Control, Outer Space Affairs, Office of United Nations Political Affairs, Bureau of International Organization Affairs, Department of State as of 1974; Chief, CCD and UN Division, International Relations Bureau, Arms Control and Disarmament Agency from 1976</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve14p2/persons#p_BDP_1</source-url>
+        </remark>
+    </remarks>
+</person>

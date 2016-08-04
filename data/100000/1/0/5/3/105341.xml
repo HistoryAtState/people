@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>105341</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Guzmán-Fernández, Silvestre Antonio</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="1">
+                <name>Guzmán-Fernández, Silvestre Antonio</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v32/persons#p_GFSA1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="1">
+        <remark source-urls="1">
+            <p>prospective candidate for President of the Government of National Reconciliation of the Dominican Republic</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v32/persons#p_GFSA1</source-url>
+        </remark>
+    </remarks>
+</person>

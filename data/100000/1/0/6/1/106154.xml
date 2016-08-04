@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>106154</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>House, Arthur H.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="1">
+                <name>House, Arthur H.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v38p2/persons#p_HAH_1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="1">
+        <remark source-urls="1">
+            <p>White House Fellow; Deputy Assistant to the President, August 1975–September 1976</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v38p2/persons#p_HAH_1</source-url>
+        </remark>
+    </remarks>
+</person>

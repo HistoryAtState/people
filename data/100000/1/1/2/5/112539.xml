@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>112539</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Siscoe, Frank G.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="4">
+                <name>Siscoe, Frank G.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v10p1/persons#p_SFG1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v10p2/persons#p_SFG1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v05/persons#p_SFG1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v25/persons#p_SFG1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="4">
+        <remark source-urls="1">
+            <p>Counselor of the Embassy in Poland from May 1957</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v10p1/persons#p_SFG1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Counselor of the Embassy in Poland</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v10p2/persons#p_SFG1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Director of the Soviet and East European Exchanges Staff, Bureau of European Affairs, Department of State</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v05/persons#p_SFG1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Director, Soviet and East European Exchanges Staff, Bureau of European Affairs, Department of State; U.S. Antarctic Observer, 1963–1964</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v25/persons#p_SFG1</source-url>
+        </remark>
+    </remarks>
+</person>

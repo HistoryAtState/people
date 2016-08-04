@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>103781</id>
+    <authorities>
+        <authority service="viaf">99670757</authority>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Eanes, Antonio dos Santos Ramalho</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="1">
+                <name>Eanes, António Ramalho</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve15p2/persons#p_EAR_1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>President Antonio dos Santos Ramalho Eanes</name>
+                <source-url>https://history.state.gov/departmenthistory/visits/portugal</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="2">
+        <remark source-urls="1">
+            <p>Portuguese President from July 1976 until March 1986</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve15p2/persons#p_EAR_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>President, Portugal. Visited U.S. 2 times, 1978–1983</p>
+            <source-url>https://history.state.gov/departmenthistory/visits/portugal</source-url>
+        </remark>
+    </remarks>
+</person>

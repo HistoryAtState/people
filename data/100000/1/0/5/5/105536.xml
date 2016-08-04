@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>105536</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Harding, John</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="3">
+                <name>Harding, Field Marshal Sir John</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v12/persons#p_HFMSJ1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v24/persons#p_HFMSJ1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v10p1/persons#p_HFMSJ1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="1">
+            <title source-urls="3">
+                <name>Field Marshal Sir</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v12/persons#p_HFMSJ1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v24/persons#p_HFMSJ1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v10p1/persons#p_HFMSJ1</source-url>
+            </title>
+        </titles-from-name>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="3">
+        <remark source-urls="1">
+            <p>Chief of the Imperial General Staff of the British Army until 1955</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v12/persons#p_HFMSJ1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Chief of the Imperial Staff until 1955; Governor and Commander-in-Chief in Cyprus, from September 1955</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v24/persons#p_HFMSJ1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Governor-General of Cyprus until 1957</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v10p1/persons#p_HFMSJ1</source-url>
+        </remark>
+    </remarks>
+</person>

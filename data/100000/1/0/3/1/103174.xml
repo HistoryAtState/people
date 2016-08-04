@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>103174</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Davies, John Paton, Jr.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="2">
+                <name>Davies, John Paton, Jr.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1943CairoTehran/persons#p_DJPJ1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1948v02/persons#p_DJP1</source-url>
+            </original>
+            <original source-urls="2">
+                <name>Davies, John P., Jr.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v07p1/persons#p_DJPJ1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v07p2/persons#p_DJPJ1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="3">
+        <remark source-urls="1">
+            <p>Second Secretary of Embassy at Chungking; Political Adviser to the Commanding General, United States Forces, China–Burma–India Theater (General Stilwell).</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1943CairoTehran/persons#p_DJPJ1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>member, Policy Planning Staff, Department of State</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1948v02/persons#p_DJP1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Director of the Office of Political Affairs, HICOG, in 1952.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v07p1/persons#p_DJPJ1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v07p2/persons#p_DJPJ1</source-url>
+        </remark>
+    </remarks>
+</person>

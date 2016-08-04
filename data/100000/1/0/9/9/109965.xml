@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>109965</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Nunn, David Alexander</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="1">
+                <name>Nunn, David Alexander</name>
+                <source-url>https://history.state.gov/departmenthistory/people/nunn-david-alexander</source-url>
+            </original>
+            <original source-urls="1">
+                <name>David A. Nunn</name>
+                <source-url>https://history.state.gov/departmenthistory/people/nunn-david-alexander</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1833</birth-year>
+    <death-year>1918</death-year>
+    <remarks variants="1">
+        <remark source-urls="1">
+            <p>Selecte a value.... Minister Resident (Ecuador).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/nunn-david-alexander</source-url>
+        </remark>
+    </remarks>
+</person>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>114548</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Wickersham, James Pyle</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="1">
+                <name>Wickersham, James Pyle</name>
+                <source-url>https://history.state.gov/departmenthistory/people/wickersham-james-pyle</source-url>
+            </original>
+            <original source-urls="1">
+                <name>J. P. Wickersham</name>
+                <source-url>https://history.state.gov/departmenthistory/people/wickersham-james-pyle</source-url>
+            </original>
+            <original source-urls="1">
+                <name>J.P. Wickersham</name>
+                <source-url>https://history.state.gov/departmenthistory/people/wickersham-james-pyle</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1825</birth-year>
+    <death-year>1891</death-year>
+    <remarks variants="1">
+        <remark source-urls="1">
+            <p>Non-career appointee. Chargé d'Affaires (Denmark); Minister Resident/Consul General (Denmark).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/wickersham-james-pyle</source-url>
+        </remark>
+    </remarks>
+</person>

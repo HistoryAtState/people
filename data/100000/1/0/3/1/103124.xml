@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>103124</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Dallas, George Mifflin</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="1">
+                <name>Dallas, George Mifflin</name>
+                <source-url>https://history.state.gov/departmenthistory/people/dallas-george-mifflin</source-url>
+            </original>
+            <original source-urls="1">
+                <name>George M. Dallas</name>
+                <source-url>https://history.state.gov/departmenthistory/people/dallas-george-mifflin</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1792</birth-year>
+    <death-year>1864</death-year>
+    <remarks variants="1">
+        <remark source-urls="1">
+            <p>Non-career appointee. Envoy Extraordinary and Minister Plenipotentiary (United Kingdom); Envoy Extraordinary and Minister Plenipotentiary (Russia).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/dallas-george-mifflin</source-url>
+        </remark>
+    </remarks>
+</person>

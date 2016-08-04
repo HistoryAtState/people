@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>109690</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Nehmer, Stanley</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="2">
+                <name>Nehmer, Stanley</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v09/persons#p_NS7</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve10/persons#p_NS1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="2">
+        <remark source-urls="1">
+            <p>Director, Office of International Resources, Bureau of Economic Affairs, Department of State, September 27, 1964–August 28, 1965; Director, Office of International Commodities, Bureau of Economic Affairs, August 29–September 11, 1965; thereafter Deputy Assistant Secretary of Commerce for Resources</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v09/persons#p_NS7</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Deputy Assistant Secretary for Resources, U.S. Department of Commerce from 1969</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve10/persons#p_NS1</source-url>
+        </remark>
+    </remarks>
+</person>

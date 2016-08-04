@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>113043</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Stockdale, Edward Grant</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="1">
+                <name>Stockdale, Edward Grant</name>
+                <source-url>https://history.state.gov/departmenthistory/people/stockdale-edward-grant</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Edward G. Stockdale</name>
+                <source-url>https://history.state.gov/departmenthistory/people/stockdale-edward-grant</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1915</birth-year>
+    <death-year>1963</death-year>
+    <remarks variants="1">
+        <remark source-urls="1">
+            <p>Non-career appointee. Ambassador Extraordinary and Plenipotentiary (Ireland).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/stockdale-edward-grant</source-url>
+        </remark>
+    </remarks>
+</person>

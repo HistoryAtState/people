@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>108487</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Marasciulo, Edward</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="1">
+                <name>Marasciulo, Edward</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve10/persons#p_ME1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="1">
+        <remark source-urls="1">
+            <p>Deputy Director, Office of Argentina-Paraguay-Uruguay, Bureau of Inter-American Affairs from May 1970</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve10/persons#p_ME1</source-url>
+        </remark>
+    </remarks>
+</person>

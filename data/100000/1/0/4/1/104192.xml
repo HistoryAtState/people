@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>104192</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Feinberg, Abraham</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="3">
+                <name>Feinberg, Abraham</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v05/persons#p_FA1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v19/persons#p_FA1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v20/persons#p_FA1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="3">
+        <remark source-urls="1">
+            <p>President, Development Corporation for Israel.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1951v05/persons#p_FA1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Chairman of the Executive Committee of the American Bank and Trust Company, New York City</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v19/persons#p_FA1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Chairman of the Executive Committee, American Bank and Trust Company, New York City</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v20/persons#p_FA1</source-url>
+        </remark>
+    </remarks>
+</person>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>101064</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Bebler, Ales</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="3">
+                <name>Bebler, Ales</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1946v03/persons#p_BEAS1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1949v03/persons#p_BA1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v05/persons#p_BA2</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Bebler, Aleš</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v08/persons#p_BA1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Bebler, Dr. Ales</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v26/persons#p_BDA1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="1">
+            <title source-urls="1">
+                <name>Dr.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v26/persons#p_BDA1</source-url>
+            </title>
+        </titles-from-name>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="5">
+        <remark source-urls="1">
+            <p>Member of the Yugoslav Delegation; Deputy Minister for Foreign Affairs in Yugoslavia</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1946v03/persons#p_BEAS1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>’, Yugoslav Deputy Foreign Minister.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1949v03/persons#p_BA1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Yugoslav Representative at the United Nations; President of the United Nations Security Council in September 1951.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1951v05/persons#p_BA2</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Yugoslav Under Secretary of State for Foreign Affairs.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v08/persons#p_BA1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Yugoslav Under Secretary of State for Foreign Affairs through 1955; thereafter Ambassador to France</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v26/persons#p_BDA1</source-url>
+        </remark>
+    </remarks>
+</person>

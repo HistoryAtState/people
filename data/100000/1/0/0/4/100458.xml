@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>100458</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Andrei, Stefan</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="2">
+                <name>Andrei, Stefan</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve15p1/persons#p_AS5</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v20/persons#p_AS_1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="2">
+        <remark source-urls="1">
+            <p>Secretary for International Affairs, Romanian Communist Party</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve15p1/persons#p_AS5</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Romanian Minister of Foreign Affairs from March 1978 until December 1985</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v20/persons#p_AS_1</source-url>
+        </remark>
+    </remarks>
+</person>

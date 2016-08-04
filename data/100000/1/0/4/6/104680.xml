@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>104680</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Galvin, Robert W.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="2">
+                <name>Galvin, Robert W.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v35/persons#p_GRW_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v38p2/persons#p_GRW_1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="2">
+        <remark source-urls="1">
+            <p>member of the President’s Foreign Intelligence Advisory Board from June 18, 1973; Chairman and Chief Executive Officer of Motorola, Inc.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v35/persons#p_GRW_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>CEO, Motorola; member, President’s Foreign Intelligence Advisory Board</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v38p2/persons#p_GRW_1</source-url>
+        </remark>
+    </remarks>
+</person>

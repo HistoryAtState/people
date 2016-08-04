@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>100504</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Antonov, Sergei</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="1">
+                <name>Antonov, Sergei</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v15/persons#p_AS_2</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="1">
+        <remark source-urls="1">
+            <p>General, KGB, head of section responsible for foreign leaders’ security</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v15/persons#p_AS_2</source-url>
+        </remark>
+    </remarks>
+</person>

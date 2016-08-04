@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>111552</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Romberg, Alan D.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="1">
+                <name>Romberg, Alan</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v37/persons#p_RA_1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Romberg, Alan D.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v13/persons#p_RAD_1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="2">
+        <remark source-urls="1">
+            <p>Japan Desk Officer, Department of State</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v37/persons#p_RA_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>member, Policy Planning Staff, Department of State</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v13/persons#p_RAD_1</source-url>
+        </remark>
+    </remarks>
+</person>

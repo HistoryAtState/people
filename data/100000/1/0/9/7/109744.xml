@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>109744</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Newberry, Daniel Oliver</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="4">
+                <name>Newberry, Daniel O.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v22/persons#p_NDO1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v11/persons#p_NDO1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve07/persons#p_NDO1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve08/persons#p_NDO1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Newberry, Daniel Oliver</name>
+                <source-url>https://history.state.gov/departmenthistory/people/newberry-daniel-oliver</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Daniel O. Newberry</name>
+                <source-url>https://history.state.gov/departmenthistory/people/newberry-daniel-oliver</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1922</birth-year>
+    <death-year>1999</death-year>
+    <remarks variants="4">
+        <remark source-urls="1">
+            <p>Officer in Charge of CENTO Affairs, Office of Near Eastern and South Asian Regional Affairs, Bureau of Near Eastern and South Asian Affairs, Department of State, October 1964–August 1965; Officer in Charge of Multilateral Organization Affairs August 1965–July 1966; Iranian Desk Officer July 1966–June 1967</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v22/persons#p_NDO1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Deputy Chief of Mission in Afghanistan from October 1972</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v11/persons#p_NDO1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve07/persons#p_NDO1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Interim Chargé d'Affaires, Bangladesh Embassy, from 1972 to 1974</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve08/persons#p_NDO1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Foreign Service Officer. Chargé d'Affaires ad interim (Bangladesh).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/newberry-daniel-oliver</source-url>
+        </remark>
+    </remarks>
+</person>

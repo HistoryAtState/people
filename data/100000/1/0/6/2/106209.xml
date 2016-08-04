@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>106209</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Hsu Shao-chang</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="1">
+                <name>Hsü Hsao-cheng</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1914Supp/persons#p_HCH1</source-url>
+            </original>
+            <original source-urls="2">
+                <name>Hsu Shao-chang</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v02/persons#p_HS1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v03/persons#p_HS1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="2">
+        <remark source-urls="1">
+            <p>Chinese General.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1914Supp/persons#p_HCH1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Director of the Department of American Affairs in the Foreign Ministry of the Republic of China</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v02/persons#p_HS1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v03/persons#p_HS1</source-url>
+        </remark>
+    </remarks>
+</person>

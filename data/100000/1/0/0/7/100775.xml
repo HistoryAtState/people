@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>100775</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Baker, Howard Henry, Jr.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="7">
+            <original source-urls="6">
+                <name>Baker, Howard Henry, Jr.</name>
+                <source-url>https://history.state.gov/departmenthistory/people/baker-howard-henry</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve14p2/persons#p_BH_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v18/persons#p_BH_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v26/persons#p_BH_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v30/persons#p_BH_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1981-88v03/persons#p_BHH_1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Howard Baker Jr.</name>
+                <source-url>https://history.state.gov/departmenthistory/people/baker-howard-henry</source-url>
+            </original>
+            <original source-urls="2">
+                <name>Baker, Howard</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v10/persons#p_BH1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v33/persons#p_BH_1</source-url>
+            </original>
+            <original source-urls="2">
+                <name>Baker, Howard H., Jr.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v35/persons#p_BHH_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v37/persons#p_BHH_1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Baker, Howard M.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve01/persons#p_BHM1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Baker, Howard H. Jr.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v01/persons#p_BHHJ_1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Baker, Howard H.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v13/persons#p_BHH_1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1925</birth-year>
+    <death-year>2014</death-year>
+    <remarks variants="8">
+        <remark source-urls="1">
+            <p>Non-career appointee. Ambassador Extraordinary and Plenipotentiary (Japan).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/baker-howard-henry</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Republican Senator from Tennessee</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v10/persons#p_BH1</source-url>
+        </remark>
+        <remark source-urls="6">
+            <p>Senator (R-Tennessee)</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v33/persons#p_BH_1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v35/persons#p_BHH_1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve14p2/persons#p_BH_1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v01/persons#p_BHHJ_1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v18/persons#p_BH_1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v30/persons#p_BH_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Senator (R–Tennessee)</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v37/persons#p_BHH_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Senator (R–Tennessee);Chairman, Presidential Advisory Committee for the United Nations Conference on the Human Environment</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve01/persons#p_BHM1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Senator (R–Tennessee) from 1967 until 1984</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v13/persons#p_BHH_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Senator (D–Tennessee); Senate Minority Leader from 1977 until 1981</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v26/persons#p_BH_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Senator (R-Tennessee), Senate Majority Leader</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1981-88v03/persons#p_BHH_1</source-url>
+        </remark>
+    </remarks>
+</person>

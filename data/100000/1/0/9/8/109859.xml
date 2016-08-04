@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>109859</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Nigro, Louis John, Jr.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="1">
+                <name>Nigro, Louis John, Jr.</name>
+                <source-url>https://history.state.gov/departmenthistory/people/nigro-louis-john</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Louis J. Nigro, Jr.</name>
+                <source-url>https://history.state.gov/departmenthistory/people/nigro-louis-john</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1947</birth-year>
+    <death-year>2013</death-year>
+    <remarks variants="1">
+        <remark source-urls="1">
+            <p>Foreign Service Officer. Ambassador Extraordinary and Plenipotentiary (Chad).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/nigro-louis-john</source-url>
+        </remark>
+    </remarks>
+</person>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>102744</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Collisson, Norman H.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="1">
+                <name>Collisson, Captain Norman H.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1948v02/persons#p_CCNH1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="1">
+            <title source-urls="1">
+                <name>Captain</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1948v02/persons#p_CCNH1</source-url>
+            </title>
+        </titles-from-name>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="1">
+        <remark source-urls="1">
+            <p>Special Assistant to the Secretary of the Interior; member of the Working Group on Reparations; Chairman of the Cabinet Technical Mission on Reparations; E.C.A. Representative in Western Germany from September 1948</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1948v02/persons#p_CCNH1</source-url>
+        </remark>
+    </remarks>
+</person>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>107131</id>
+    <authorities>
+        <authority service="viaf">77383504</authority>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Kibaki, Mwai</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="1">
+                <name>President Mwai Kibaki</name>
+                <source-url>https://history.state.gov/departmenthistory/visits/kenya</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="1">
+        <remark source-urls="1">
+            <p>President, Kenya. Visited U.S. once, 2003</p>
+            <source-url>https://history.state.gov/departmenthistory/visits/kenya</source-url>
+        </remark>
+    </remarks>
+</person>

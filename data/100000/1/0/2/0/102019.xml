@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>102019</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Butler, Malcolm H.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="5">
+                <name>Butler, Malcolm</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v16/persons#p_BM_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v27/persons#p_BM_3</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v28/persons#p_BM_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve06/persons#p_BMH1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v02/persons#p_BM_2</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Butler, Malcolm H.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve14p1/persons#p_BMH1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="6">
+        <remark source-urls="1">
+            <p>Staff Member of the Office of International Economic Affairs (responsible for trade, East-West economic issues, aviation, and maritime issues), National Security Council staff</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v16/persons#p_BM_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>member, National Security Council Staff</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v27/persons#p_BM_3</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>member, National Security Council staff</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v28/persons#p_BM_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>member of the National Security Council Staff</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve06/persons#p_BMH1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>staff member for International Economic Affairs, National Security Council</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve14p1/persons#p_BMH1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Deputy Assistant Administrator with responsibility for the Office of Intragovernmental Affairs, Bureau of Intragovernmental and International Affairs, Agency for International Development, from 1977 until 1979; also Deputy Executive Director, Development Coordination Committee; Planning Office, International Development Cooperation Agency, from 1979</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v02/persons#p_BM_2</source-url>
+        </remark>
+    </remarks>
+</person>

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>106069</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Holt, Harold E.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="4">
+                <name>Holt, Harold E.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v23/persons#p_HHE1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v08/persons#p_HHE3</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v09/persons#p_HHE3</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v27/persons#p_HHE1</source-url>
+            </original>
+            <original source-urls="2">
+                <name>Holt, Harold</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v04/persons#p_HH1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v05/persons#p_HH1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Prime Minister Harold E. Holt</name>
+                <source-url>https://history.state.gov/departmenthistory/visits/australia</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="7">
+        <remark source-urls="1">
+            <p>Australian Minister of Finance and Treasurer</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v23/persons#p_HHE1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Australian Prime Minister from January 26, 1966</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v04/persons#p_HH1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Australian Prime Minister until December</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v05/persons#p_HH1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Prime Minister of Australia from January 26, 1966</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v08/persons#p_HHE3</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v09/persons#p_HHE3</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Prime Minister of Australia, January 26, 1966–December 1967</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v27/persons#p_HHE1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Prime Minister, Australia. Visited U.S. 2 times, 1966</p>
+            <source-url>https://history.state.gov/departmenthistory/visits/australia</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Prime Minister, Australia. Visited U.S. once, 1967</p>
+            <source-url>https://history.state.gov/departmenthistory/visits/australia</source-url>
+        </remark>
+    </remarks>
+</person>

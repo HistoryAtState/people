@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>107649</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Langley, James McLellan</name>
+        </preferred>
+        <alternates/>
+        <originals variants="4">
+            <original source-urls="3">
+                <name>Langley, James M.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v08/persons#p_LJM1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v12/persons#p_LJM1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v15/persons#p_LJM1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Langley, James</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v12/persons#p_LJ1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Langley, James McLellan</name>
+                <source-url>https://history.state.gov/departmenthistory/people/langley-james-mclellan</source-url>
+            </original>
+            <original source-urls="1">
+                <name>James M. Langley</name>
+                <source-url>https://history.state.gov/departmenthistory/people/langley-james-mclellan</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1894</birth-year>
+    <death-year>1968</death-year>
+    <remarks variants="5">
+        <remark source-urls="1">
+            <p>Ambassador to Pakistan from July 1957</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v08/persons#p_LJM1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Ambassador to Pakistan from July 27, 1957</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v12/persons#p_LJ1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Ambassador to Pakistan until July 29, 1959</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v12/persons#p_LJM1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Ambassador to Pakistan until July 1959</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v15/persons#p_LJM1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Non-career appointee. Ambassador Extraordinary and Plenipotentiary (Pakistan).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/langley-james-mclellan</source-url>
+        </remark>
+    </remarks>
+</person>

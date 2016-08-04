@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>105363</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Hackworth, Green Haywood</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="1">
+                <name>Hackworth, Green Haywood</name>
+                <source-url>https://history.state.gov/departmenthistory/people/hackworth-green-haywood</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Green H. Hackworth</name>
+                <source-url>https://history.state.gov/departmenthistory/people/hackworth-green-haywood</source-url>
+            </original>
+            <original source-urls="4">
+                <name>Hackworth, Green H.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1943CairoTehran/persons#p_HGH1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv01/persons#p_HGH1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945Malta/persons#p_HGH1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945v01/persons#p_HGH1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1883</birth-year>
+    <death-year>1973</death-year>
+    <remarks variants="3">
+        <remark source-urls="1">
+            <p>Non-career appointee. Legal Adviser.</p>
+            <source-url>https://history.state.gov/departmenthistory/people/hackworth-green-haywood</source-url>
+        </remark>
+        <remark source-urls="3">
+            <p>Legal Adviser, Department of State.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1943CairoTehran/persons#p_HGH1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv01/persons#p_HGH1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1945Malta/persons#p_HGH1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Legal Adviser; Adviser, United Spates Relegation; U.S. Representative, Committee of Jurists; Chairman, Advisory Committee of Jurists.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1945v01/persons#p_HGH1</source-url>
+        </remark>
+    </remarks>
+</person>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>102088</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Caldwell, John Curtis</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="1">
+                <name>Caldwell, John Curtis</name>
+                <source-url>https://history.state.gov/departmenthistory/people/caldwell-john-curtis</source-url>
+            </original>
+            <original source-urls="1">
+                <name>John C. Caldwell</name>
+                <source-url>https://history.state.gov/departmenthistory/people/caldwell-john-curtis</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1833</birth-year>
+    <death-year>1912</death-year>
+    <remarks variants="1">
+        <remark source-urls="1">
+            <p>Non-career appointee. Minister Resident (Uruguay); Chargé d'Affaires (Uruguay); Minister Resident (Paraguay); Chargé d'Affaires (Paraguay).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/caldwell-john-curtis</source-url>
+        </remark>
+    </remarks>
+</person>

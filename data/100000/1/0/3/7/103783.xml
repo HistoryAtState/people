@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>103783</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Earle, Ralph, II</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="5">
+                <name>Earle, Ralph, II</name>
+                <source-url>https://history.state.gov/departmenthistory/people/earle-ralph</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v33/persons#p_ER2_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v06/persons#p_ERI_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v18/persons#p_ER_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v26/persons#p_ER_1</source-url>
+            </original>
+            <original source-urls="2">
+                <name>Earle, Ralph II</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v32/persons#p_ER1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve02/persons#p_ERII1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1928</birth-year>
+    <death-year/>
+    <remarks variants="7">
+        <remark source-urls="1">
+            <p>Non-career appointee. Director of the U.S. Arms Control and Disarmament Agency.</p>
+            <source-url>https://history.state.gov/departmenthistory/people/earle-ralph</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Principal Deputy Assistant Secretary of Defense, International Security Affairs until 1969</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v32/persons#p_ER1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Arms Control and Disarmament Agency Representative on the U.S. SALT Delegation from 1973 until May 11, 1977; Alternate Chairman of the U.S. SALT Delegation from May 12, 1977, until August 31, 1978; Chief of the U.S. SALT Delegation from September 1, 1978, until 1980; Director of the Arms Control and Disarmament Agency from January 1980 until January 1981</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v33/persons#p_ER2_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Principal Deputy Assistant Secretary of Defense for International Security Affairs until 1969; Defense Advisor, U.S. Mission to NATO 1969–1972)</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve02/persons#p_ERII1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Chief of the United States Delegation to the Strategic Arms Limitation Talks; Director, Arms Control and Disarmament Agency, from January 3, 1980 until March 16, 1980</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v06/persons#p_ERI_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Head of the U.S. Delegation to the SALT talks; Director, Arms Control and Disarmament Agency from January 3,1980, until January 15, 1981</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v18/persons#p_ER_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>U.S. Ambassador and Director of the Arms Control and Disarmament Agency from 1980</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v26/persons#p_ER_1</source-url>
+        </remark>
+    </remarks>
+</person>

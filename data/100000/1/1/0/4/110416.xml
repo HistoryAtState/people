@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>110416</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Passman, Otto Ernest</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="8">
+                <name>Passman, Otto E.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v04/persons#p_POE1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v09/persons#p_POE1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v10/persons#p_POE1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v17/persons#p_POE1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v38p1/persons#p_POE_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v38p2/persons#p_POE_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve06/persons#p_POE1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve13/persons#p_POE1</source-url>
+            </original>
+            <original source-urls="4">
+                <name>Passman, Otto</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v20/persons#p_POE1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v26/persons#p_PO_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v31/persons#p_PO1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve15p2/persons#p_PO_2</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Passman, Otto Ernest</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve14p1/persons#p_POE1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="12">
+        <remark source-urls="1">
+            <p>Democratic Congressman from Louisiana</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v04/persons#p_POE1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Representative (D-Louisana)</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v09/persons#p_POE1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Democratic Representative from Louisiana; Chairman of the House Appropriations subcommittee</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v10/persons#p_POE1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Representative (D-Louisiana)</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v17/persons#p_POE1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve13/persons#p_POE1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Representative (D–Louisiana)</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v20/persons#p_POE1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>member, U.S. House of Representatives (D-Louisiana)</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v26/persons#p_PO_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Democratic Representative from Louisiana; Chairman, House of Representatives Foreign Aid Appropriations Subcommittee</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v31/persons#p_PO1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>member, U.S. House of Representatives (D–Louisiana) until January 3, 1977</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v38p1/persons#p_POE_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Representative (D–Louisiana) until January 3, 1977</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v38p2/persons#p_POE_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Democrat Congressman from Louisiana from 1947 to 1977</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve06/persons#p_POE1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Democratic Representative from Louisiana</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve14p1/persons#p_POE1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Member, U.S. House of Representatives (D-Louisiana) from 1947 until 1976</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve15p2/persons#p_PO_2</source-url>
+        </remark>
+    </remarks>
+</person>

@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>102177</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Carbonnel, Eric C.M. de</name>
+        </preferred>
+        <alternates/>
+        <originals variants="5">
+            <original source-urls="2">
+                <name>de Carbonnel, Eric</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1946v03/persons#p_DCE1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1947v02/persons#p_DCE1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Carbonnel, Eric de</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1948v02/persons#p_CED1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Carbonnel, Eric CM. de</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v07p1/persons#p_CECM1</source-url>
+            </original>
+            <original source-urls="2">
+                <name>de Carbonnel.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v07p1/persons#p_DECARBONNEL1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v07p2/persons#p_DECARBONNEL1</source-url>
+            </original>
+            <original source-urls="2">
+                <name>Carbonnel, Eric C.M. de</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v07p2/persons#p_CECM1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v09/persons#p_CECM1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="6">
+        <remark source-urls="1">
+            <p>Advisor, French Delegation; Deputy Director, Office of Economic and Financial Affairs, French Ministry of Foreign Affairs</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1946v03/persons#p_DCE1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Deputy Director, Office of Economic and Financial Affairs, French Foreign Ministry</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1947v02/persons#p_DCE1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Deputy Director, Office of Economic and Financial Affairs, French Ministry for Foreign Affairs, until March 1948</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1948v02/persons#p_CED1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>French Representative to the European Economic Communities, April 1958–June 1959; thereafter Secretary General in the Foreign Ministry</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v07p1/persons#p_CECM1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v07p2/persons#p_CECM1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>See Carbonnel</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v07p1/persons#p_DECARBONNEL1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v07p2/persons#p_DECARBONNEL1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Secretary General of the French Foreign Ministry</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v09/persons#p_CECM1</source-url>
+        </remark>
+    </remarks>
+</person>

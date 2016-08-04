@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>112276</id>
+    <authorities>
+        <authority service="viaf">79038848</authority>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Shagari, Shehu</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="1">
+                <name>President Shehu Shagari</name>
+                <source-url>https://history.state.gov/departmenthistory/visits/nigeria</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="1">
+        <remark source-urls="1">
+            <p>President, Nigeria. Visited U.S. once, 1980</p>
+            <source-url>https://history.state.gov/departmenthistory/visits/nigeria</source-url>
+        </remark>
+    </remarks>
+</person>

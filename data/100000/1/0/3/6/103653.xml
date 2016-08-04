@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>103653</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Dreyfus, Louis Goethe, Jr.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="1">
+                <name>Dreyfus, Louis G., Jr.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1943CairoTehran/persons#p_DLGJ1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Dreyfus, Louis Goethe, Jr.</name>
+                <source-url>https://history.state.gov/departmenthistory/people/dreyfus-louis-goethe-jr</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Louis G. Dreyfus Jr.</name>
+                <source-url>https://history.state.gov/departmenthistory/people/dreyfus-louis-goethe-jr</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1889</birth-year>
+    <death-year>1973</death-year>
+    <remarks variants="2">
+        <remark source-urls="1">
+            <p>Minister in Iran, July 1939–March 1944.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1943CairoTehran/persons#p_DLGJ1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Foreign Service Officer. Envoy Extraordinary and Minister Plenipotentiary (Sweden); Envoy Extraordinary and Minister Plenipotentiary (Iran); Envoy Extraordinary and Minister Plenipotentiary (Iceland); Envoy Extraordinary and Minister Plenipotentiary (Afghanistan); Ambassador Extraordinary and Plenipotentiary (Afghanistan).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/dreyfus-louis-goethe-jr</source-url>
+        </remark>
+    </remarks>
+</person>

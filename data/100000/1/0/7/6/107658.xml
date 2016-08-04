@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>107658</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Lansing, Robert</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="5">
+                <name>Lansing, Robert</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1914Supp/persons#p_LR1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1915Supp/persons#p_LR1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1916Supp/persons#p_LR1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1917-72PubDip/persons#p_LR_1</source-url>
+                <source-url>https://history.state.gov/departmenthistory/people/lansing-robert</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1864</birth-year>
+    <death-year>1928</death-year>
+    <remarks variants="5">
+        <remark source-urls="1">
+            <p>Counselor for the Department of State and Acting Secretary of State of the United States.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1914Supp/persons#p_LR1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Counselor for the Department of State, Mar. 27, 1914; Secretary of State ad interim, June 9-23, 1915; Secretary of State, June 24, 1915.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1915Supp/persons#p_LR1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Secretary of State of the United States.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1916Supp/persons#p_LR1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Secretary of State from 1915 until 1920</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1917-72PubDip/persons#p_LR_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Non-career appointee. Secretary of State; Secretary of State ad interim; Counselor.</p>
+            <source-url>https://history.state.gov/departmenthistory/people/lansing-robert</source-url>
+        </remark>
+    </remarks>
+</person>

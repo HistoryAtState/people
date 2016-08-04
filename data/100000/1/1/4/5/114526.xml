@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>114526</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Whiteman, Marjorie M.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="7">
+                <name>Whiteman, Marjorie M.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v05/persons#p_WMM1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v06/persons#p_WMM1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v07/persons#p_WMM1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v05/persons#p_WMM1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v06/persons#p_WMM1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v12/persons#p_WMM1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v31/persons#p_WMM1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="6">
+        <remark source-urls="1">
+            <p>Assistant Legal Adviser for Inter-American Affairs, Department of State.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1951v05/persons#p_WMM1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Assistant Legal Adviser for Latin American Affairs, Department of State</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v06/persons#p_WMM1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v07/persons#p_WMM1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Attorney-Adviser, Inter-American Area, Office of the Assistant Legal Adviser for Inter-American Affairs, Department of State, until October 1958; thereafter Assistant Legal Adviser for Inter-American Affairs</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v05/persons#p_WMM1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Assistant Legal Adviser for Inter-American Affairs, Department of State</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v06/persons#p_WMM1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Assistant Legal Adviser for Inter-American Affairs, Office of the Legal Adviser</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v12/persons#p_WMM1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Assistant Legal Adviser for Inter-American Affairs, Department of State, until June 1965</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v31/persons#p_WMM1</source-url>
+        </remark>
+    </remarks>
+</person>

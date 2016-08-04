@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>106377</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Ilchman, Alice Stone</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="2">
+                <name>Ilchman, Alice Stone</name>
+                <source-url>https://history.state.gov/departmenthistory/people/ilchman-alice-stone</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v30/persons#p_IAS_1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1935</birth-year>
+    <death-year>2006</death-year>
+    <remarks variants="2">
+        <remark source-urls="1">
+            <p>Non-career appointee. Assistant Secretary of State for Educational and Cultural Affairs.</p>
+            <source-url>https://history.state.gov/departmenthistory/people/ilchman-alice-stone</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Dean of the College, Wellesley College, until March 1978; Associate Director for Educational and Cultural Affairs, U.S. International Communication Agency, from March 1978</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v30/persons#p_IAS_1</source-url>
+        </remark>
+    </remarks>
+</person>

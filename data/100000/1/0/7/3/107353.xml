@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>107353</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Kono, Ichiro</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="3">
+                <name>Kono, Ichiro</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v23p1/persons#p_KI1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v18/persons#p_KI4</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v29p2/persons#p_KI4</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="3">
+        <remark source-urls="1">
+            <p>Japanese Minister of Agriculture and Forestry to December 1956; Director of the Administrative Management Agency, November 1955–December 1956; Director of the Economic Planning Agency from July 1957</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v23p1/persons#p_KI1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Director General of the Japanese Economic Planning Board, 1957–1958; member of the Liberal Democratic Party in the House of Representatives from 1958</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v18/persons#p_KI4</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Advisor to the Prime Minister of Japan, Ikeda Hayato, from July 18, 1964 to November 9, 1964; Advisor to Prime Minister Eisaku Sato, from November 9, 1964 to June 3, 1965</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v29p2/persons#p_KI4</source-url>
+        </remark>
+    </remarks>
+</person>

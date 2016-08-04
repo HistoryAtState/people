@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>108041</id>
+    <authorities>
+        <authority service="viaf">39393082</authority>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Lleras Camargo, Alberto</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="5">
+                <name>Lleras Camargo, Alberto</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945v01/persons#p_LCA1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v06/persons#p_LCA1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v07/persons#p_LCA1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v05/persons#p_LCA1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v12/persons#p_LCA1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>President Lleras</name>
+                <source-url>https://history.state.gov/departmenthistory/visits/colombia</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="5">
+        <remark source-urls="1">
+            <p>Colombian Minister for Foreign Affairs; Chairman, Colombian Delegation.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1945v01/persons#p_LCA1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>President of Colombia, 1945–1946; Secretary General of the Organization of American States, 1947-August 1, 1954; Head of the Colombian Liberal Party, 1956–1957</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v06/persons#p_LCA1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v07/persons#p_LCA1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>President of Colombia from August 7, 1958</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v05/persons#p_LCA1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>President of Colombia until 1962</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v12/persons#p_LCA1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>President, Colombia. Visited U.S. once, 1960</p>
+            <source-url>https://history.state.gov/departmenthistory/visits/colombia</source-url>
+        </remark>
+    </remarks>
+</person>

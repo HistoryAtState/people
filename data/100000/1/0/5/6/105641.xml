@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>105641</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Haselton, Norris S.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="3">
+                <name>Haselton, Norris S.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v03p1/persons#p_HNS1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v03p2/persons#p_HNS1</source-url>
+                <source-url>https://history.state.gov/departmenthistory/people/haselton-norris-s</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1902</birth-year>
+    <death-year>1981</death-year>
+    <remarks variants="2">
+        <remark source-urls="2">
+            <p>Officer in Charge of Economic Affairs, Office of British Commonwealth and Northern European Affairs, Department of State, until April 1951; thereafter, Acting Officer in charge of Dominion Affairs.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1951v03p1/persons#p_HNS1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1951v03p2/persons#p_HNS1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Foreign Service Officer. Inspector General of the Department of State and the Foreign Service; Deputy Inspector General of Foreign Assistance.</p>
+            <source-url>https://history.state.gov/departmenthistory/people/haselton-norris-s</source-url>
+        </remark>
+    </remarks>
+</person>

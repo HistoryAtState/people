@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>100495</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Anthis, Rollen H.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="5">
+            <original source-urls="2">
+                <name>Anthis, Colonel Rollen H.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v11p1/persons#p_ACRH1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v11p2/persons#p_ACRH1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Anthis, Brig. Gen. Roland H.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v01/persons#p_ABGRH1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Anthis, Brig. Gen. Roland H. (USAF)</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v02/persons#p_ABGRH1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Anthis, Brigadier General Roland H.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v03/persons#p_ABGRH1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Anthis, Brigadier General Rollen H.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v01/persons#p_ABGRH1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="4">
+            <title source-urls="2">
+                <name>Colonel</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v11p1/persons#p_ACRH1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v11p2/persons#p_ACRH1</source-url>
+            </title>
+            <title source-urls="1">
+                <name>Brig. Gen.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v01/persons#p_ABGRH1</source-url>
+            </title>
+            <title source-urls="1">
+                <name>Brig. Gen. (USAF)</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v02/persons#p_ABGRH1</source-url>
+            </title>
+            <title source-urls="2">
+                <name>Brigadier General</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v03/persons#p_ABGRH1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v01/persons#p_ABGRH1</source-url>
+            </title>
+        </titles-from-name>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="5">
+        <remark source-urls="2">
+            <p>USAF, Commanding Officer, Wheelus Air Force Base, Libya, from July 1952.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v11p1/persons#p_ACRH1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v11p2/persons#p_ACRH1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Commander of the U.S. 2d Air Division</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v01/persons#p_ABGRH1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Commander, U.S. Second Air Division; Chief, U.S. Air Force Advisory Group, Vietnam</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v02/persons#p_ABGRH1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>USAF, Commander U.S. Second Air Division; Chief, U.S. Air Force Advisory Group, Vietnam</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v03/persons#p_ABGRH1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>USAF, Commander U.S. 2d Air Force advanced air echelon headquarters in Saigon; Chief, Air Force Section, Military Assistance Advisory Group, Vietnam</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v01/persons#p_ABGRH1</source-url>
+        </remark>
+    </remarks>
+</person>

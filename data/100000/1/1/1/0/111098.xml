@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>111098</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Rahman, Mujibur</name>
+        </preferred>
+        <alternates/>
+        <originals variants="4">
+            <original source-urls="2">
+                <name>Rahman, Sheikh Mujibur, (Mujib)</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v11/persons#p_RSM1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve07/persons#p_RSM1</source-url>
+            </original>
+            <original source-urls="4">
+                <name>Rahman, Mujibur</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v17/persons#p_RM1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v18/persons#p_RM1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v29/persons#p_RM1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve13/persons#p_RSM1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Rahman, Sheikh Mujibur (Mujib)</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve08/persons#p_RSM1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Prime Minister Mujibur Rahman</name>
+                <source-url>https://history.state.gov/departmenthistory/visits/bangladesh</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="1">
+            <title source-urls="3">
+                <name>Sheikh</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v11/persons#p_RSM1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve07/persons#p_RSM1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve08/persons#p_RSM1</source-url>
+            </title>
+        </titles-from-name>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="5">
+        <remark source-urls="2">
+            <p>President of the Awami League; Prime Minister and Minister of Defense of Bangladesh from January 1972</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v11/persons#p_RSM1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve07/persons#p_RSM1</source-url>
+        </remark>
+        <remark source-urls="3">
+            <p>Prime Minister of Bangladesh from 1972</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v17/persons#p_RM1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v29/persons#p_RM1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve13/persons#p_RSM1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Prime Minister of Bangladesh until 1975</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v18/persons#p_RM1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>President of the Awami League; Prime Minister of Bangladesh, from 1972 to 75; President of Bangladesh, 1975</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve08/persons#p_RSM1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Prime Minister, Bangladesh. Visited U.S. once, 1974</p>
+            <source-url>https://history.state.gov/departmenthistory/visits/bangladesh</source-url>
+        </remark>
+    </remarks>
+</person>

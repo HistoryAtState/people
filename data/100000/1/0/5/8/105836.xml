@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>105836</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Hermes, Peter</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="2">
+                <name>Hermes, Peter</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v37/persons#p_HP_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v26/persons#p_HP_1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="2">
+        <remark source-urls="1">
+            <p>Assistant Secretary for Economic Affairs, West German Ministry of Foreign Affairs</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v37/persons#p_HP_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>State Secretary of the Foreign Ministry of the Federal Republic of Germany until 1977; Federal Republic of Germany Ambassador to the United States from 1979 until 1984</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v26/persons#p_HP_1</source-url>
+        </remark>
+    </remarks>
+</person>

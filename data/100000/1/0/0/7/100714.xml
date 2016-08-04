@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>100714</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Azzam Pasha, Abdel Rahman</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="1">
+                <name>Azzam Pasha, Abdel Rahman</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v05/persons#p_AAR1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Azzam Pasha, Abdel (Abdul) Rahman</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v12/persons#p_APAAR1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Azzam, Adul Rahman</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v12/persons#p_AAR1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="3">
+        <remark source-urls="1">
+            <p>Secretary General of the League of Arab States.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1951v05/persons#p_AAR1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Saudi Arabian Ambassador to the League of Arab States, also Secretary General, until 1953</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v12/persons#p_APAAR1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Special Representative of King Saud</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v12/persons#p_AAR1</source-url>
+        </remark>
+    </remarks>
+</person>

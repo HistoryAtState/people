@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>106911</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Katay Don Sasorith</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="3">
+                <name>Katay Don Sasorith</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v01/persons#p_KDS1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v21/persons#p_KDS1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v16/persons#p_KDS1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="3">
+        <remark source-urls="1">
+            <p>Prime Minister of Laos to February 1956; Deputy Prime Minister and Minister of State, March 1956–August 1957; thereafter Minister of Interior, Economy, and Social Welfare</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v01/persons#p_KDS1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Prime Minister of Laos until February 1956; Deputy Prime Minister and Minister of State, March 1956–August 1957; thereafter Minister of Interior, Economy, and Social Welfare</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v21/persons#p_KDS1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Lao Minister of Interior, Economy, and Social Welfare until August 1958; Vice Premier and Minister of Interior and National Defense, August 1958–January 1959; Vice Premier, Minister of Interior and Cults, January 1959–December 1959</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v16/persons#p_KDS1</source-url>
+        </remark>
+    </remarks>
+</person>

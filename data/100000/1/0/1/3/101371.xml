@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>101371</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Black, John W.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="1">
+                <name>Black, John W.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v08/persons#p_BJW5</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="1">
+        <remark source-urls="1">
+            <p>Deputy Director, U.S. Travel Service, to 1964; Director, 1965–May 20, 1968</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v08/persons#p_BJW5</source-url>
+        </remark>
+    </remarks>
+</person>

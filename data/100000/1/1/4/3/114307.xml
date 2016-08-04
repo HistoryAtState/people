@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>114307</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Washburn, Abbott M.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="7">
+                <name>Washburn, Abbott M.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v02p1/persons#p_WASHBURNAM1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v02p2/persons#p_WASHBURNAM1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v25/persons#p_WAM1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v27/persons#p_WAM1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v05/persons#p_WAM1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v06/persons#p_WAM1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v30/persons#p_WAM_1</source-url>
+            </original>
+            <original source-urls="2">
+                <name>Washburn, Abbott</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v03/persons#p_WAM1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v25/persons#p_WAM1</source-url>
+            </original>
+            <original source-urls="2">
+                <name>Washburn, Abbot</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v10p1/persons#p_WA1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v10p2/persons#p_WA1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="6">
+        <remark source-urls="2">
+            <p>Executive Secretary of the President’s Committee on International Information Activities, 1953; Deputy Special Assistant to the President, 1953; Deputy Director of the United States Information Agency after November 30, 1953.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v02p1/persons#p_WASHBURNAM1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v02p2/persons#p_WASHBURNAM1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Deputy Director, U.S. Information Agency</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v25/persons#p_WAM1</source-url>
+        </remark>
+        <remark source-urls="3">
+            <p>Deputy Director of the United States Information Agency</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v27/persons#p_WAM1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v05/persons#p_WAM1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v10p1/persons#p_WA1</source-url>
+        </remark>
+        <remark source-urls="3">
+            <p>Deputy Director, United States Information Agency</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v03/persons#p_WAM1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v06/persons#p_WAM1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v10p2/persons#p_WA1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Acting Director, U.S. Information Agency, 1961</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v25/persons#p_WAM1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>former Deputy Director, United States Information Agency, from 1954 until 1961; member, Federal Communications Commission, from 1974 until 1982</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v30/persons#p_WAM_1</source-url>
+        </remark>
+    </remarks>
+</person>

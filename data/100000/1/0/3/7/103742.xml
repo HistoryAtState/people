@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>103742</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Durham, Carl T.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="2">
+                <name>Durham, Carl T.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v19/persons#p_DCT1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v20/persons#p_DCT1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="1">
+        <remark source-urls="2">
+            <p>Democratic Representative from North Carolina; Vice Chairman, Joint Committee on Atomic Energy, January 1955–January 1957; thereafter Chairman</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v19/persons#p_DCT1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v20/persons#p_DCT1</source-url>
+        </remark>
+    </remarks>
+</person>

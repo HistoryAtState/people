@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>109863</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Niklessa, Ivan Guryevich</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="1">
+                <name>Niklessa, Ivan Guryevich</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v05/persons#p_NIG1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="1">
+        <remark source-urls="1">
+            <p>Senior Counselor, Soviet Mission to the United Nations Nishibori, Director-General of UN Affairs, Japanese Foreign Ministry, 1971</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v05/persons#p_NIG1</source-url>
+        </remark>
+    </remarks>
+</person>

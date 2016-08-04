@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>104429</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Forrestel, Emmet P.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="2">
+                <name>Forrestel, Rear Admiral Emmet P.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v04p1/persons#p_FRAEP1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v04p2/persons#p_FRAEP1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="1">
+            <title source-urls="2">
+                <name>Rear Admiral</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v04p1/persons#p_FRAEP1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v04p2/persons#p_FRAEP1</source-url>
+            </title>
+        </titles-from-name>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="1">
+        <remark source-urls="2">
+            <p>USN, Chief, United States Military Assistance Advisory Group in the Netherlands</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1951v04p1/persons#p_FRAEP1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1951v04p2/persons#p_FRAEP1</source-url>
+        </remark>
+    </remarks>
+</person>

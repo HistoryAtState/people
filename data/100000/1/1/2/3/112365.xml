@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>112365</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Sherer, Albert William (“Bud”), Jr.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="6">
+            <original source-urls="2">
+                <name>Sherer, Albert W.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v10p1/persons#p_SAW1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v10p2/persons#p_SAW1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Sherer, Albert W., Jr., “Bud,”</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v16/persons#p_SAW_1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Sherer, Albert William, Jr., “Bud,”</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v39/persons#p_SAWJB1</source-url>
+            </original>
+            <original source-urls="2">
+                <name>Sherer, Albert William, Jr.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve14p1/persons#p_SAWJB1</source-url>
+                <source-url>https://history.state.gov/departmenthistory/people/sherer-albert-william</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Albert W. Sherer Jr.</name>
+                <source-url>https://history.state.gov/departmenthistory/people/sherer-albert-william</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Albert W. Sherer</name>
+                <source-url>https://history.state.gov/departmenthistory/people/sherer-albert-william</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1916</birth-year>
+    <death-year>1986</death-year>
+    <remarks variants="5">
+        <remark source-urls="2">
+            <p>Officer in Charge of Polish, Baltic, and Czechoslovak Affairs, Office of Eastern European Affairs, Department of State</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v10p1/persons#p_SAW1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v10p2/persons#p_SAW1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Chief of the U.S. Delegation to the Conference on European Security and Cooperation negotiations</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v16/persons#p_SAW_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Ambassador to Czechoslovakia from 1972; Chief of the U.S. Delegation to the CSCE negotiations from February 1974</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v39/persons#p_SAWJB1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Deputy U.S. Representative on the United Nations Security Council</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve14p1/persons#p_SAWJB1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Foreign Service Officer. Ambassador Extraordinary and Plenipotentiary (Togo); Ambassador Extraordinary and Plenipotentiary (Guinea); Ambassador Extraordinary and Plenipotentiary (Equatorial Guinea); Ambassador Extraordinary and Plenipotentiary (Czechoslovakia).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/sherer-albert-william</source-url>
+        </remark>
+    </remarks>
+</person>

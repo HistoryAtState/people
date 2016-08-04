@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>100029</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Abdulgani, Roeslan</name>
+        </preferred>
+        <alternates/>
+        <originals variants="4">
+            <original source-urls="1">
+                <name>Abdulgani, Ruslan</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v21/persons#p_AR1</source-url>
+            </original>
+            <original source-urls="2">
+                <name>Abdulgani, Roeslan</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v22/persons#p_AR1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v17/persons#p_AHR1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Roeslan Abdulgani</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v22/persons#p_RA1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Abdulgani, Hadji Roeslan</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v05/persons#p_AHR1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="5">
+        <remark source-urls="1">
+            <p>Secretary-General of the Indonesian Ministry of Foreign Affairs to March 1956; thereafter Minister of Foreign Affairs and Head of the Indonesian Delegation to the United Nations</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v21/persons#p_AR1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Secretary General of the Indonesian Foreign Office to March 1956; Foreign Minister, March 1956–March 1957</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v22/persons#p_AR1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>see Abdulgani</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v22/persons#p_RA1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Vice Chairman and Secretary General of the Indonesian National Council</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v17/persons#p_AHR1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Indonesian Permanent Representative to the United Nations</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v05/persons#p_AHR1</source-url>
+        </remark>
+    </remarks>
+</person>

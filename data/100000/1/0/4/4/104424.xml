@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>104424</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Forlani, Arnaldo</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="3">
+                <name>Forlani, Arnaldo</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v37/persons#p_FA_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v41/persons#p_FA_2</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v03/persons#p_FA_1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="3">
+        <remark source-urls="1">
+            <p>Italian Minister of Foreign Affairs from July 29, 1976 until August 4, 1979; Prime Minister from October 18, 1980</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v37/persons#p_FA_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>member, Italian Christian Democrat Party</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v41/persons#p_FA_2</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Minister of Foreign Affairs of Italy until August 1979</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v03/persons#p_FA_1</source-url>
+        </remark>
+    </remarks>
+</person>

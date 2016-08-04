@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>107886</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Leusse de Syon, Bruno de</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="1">
+                <name>De Leusse, Bruno</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v13/persons#p_LSB2</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Leusse de Syon, Bruno de</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v15/persons#p_LSB2</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="2">
+        <remark source-urls="1">
+            <p>Minister-Counselor of the French Embassy in Washington</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v13/persons#p_LSB2</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Minister Counselor of the French Embassy in Washington until January 1966; then Director for the Cabinet of the French Foreign Minister (Couve de Murville/Debre) to July 1968; then Director for the Cabinet of the French Prime Minister (Couve de Murville)</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v15/persons#p_LSB2</source-url>
+        </remark>
+    </remarks>
+</person>

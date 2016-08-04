@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>109419</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Morris, Leland Burnette</name>
+        </preferred>
+        <alternates/>
+        <originals variants="4">
+            <original source-urls="1">
+                <name>Morris, Leland Burnett</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1914Supp/persons#p_MLB1</source-url>
+            </original>
+            <original source-urls="2">
+                <name>Morris, Leland Burnette</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1916Supp/persons#p_MLB1</source-url>
+                <source-url>https://history.state.gov/departmenthistory/people/morris-leland-burnette</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Morris, Leland B.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945Malta/persons#p_MLB1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Leland B. Morris</name>
+                <source-url>https://history.state.gov/departmenthistory/people/morris-leland-burnette</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1886</birth-year>
+    <death-year>1950</death-year>
+    <remarks variants="4">
+        <remark source-urls="1">
+            <p>United States Vice and Deputy Consul General and Interpreter at Smyrna.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1914Supp/persons#p_MLB1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>U. S. Vice Consul at Smyrna.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1916Supp/persons#p_MLB1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>American Ambassador to Iran.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1945Malta/persons#p_MLB1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Foreign Service Officer. Ambassador Extraordinary and Plenipotentiary (Iran); Envoy Extraordinary and Minister Plenipotentiary (Iceland).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/morris-leland-burnette</source-url>
+        </remark>
+    </remarks>
+</person>

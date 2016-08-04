@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>106436</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Ishibashi, Tanzan</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="2">
+                <name>Ishibashi, Tanzan</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v23p1/persons#p_IT1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v18/persons#p_IT2</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="2">
+        <remark source-urls="1">
+            <p>Japanese Minister of Trade and Industry to December 1956; Prime Minister and Director of the National Defense Agency, December 1956–February 1957</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v23p1/persons#p_IT1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Japanese politician and leader of the Liberal Democratic Party; Prime Minister, December 1956–February 1957</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v18/persons#p_IT2</source-url>
+        </remark>
+    </remarks>
+</person>

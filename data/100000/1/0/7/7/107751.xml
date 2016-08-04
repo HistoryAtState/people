@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>107751</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Leathers, Frederick James</name>
+        </preferred>
+        <alternates/>
+        <originals variants="4">
+            <original source-urls="1">
+                <name>Leathers, Lord (Frederick James)</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1943CairoTehran/persons#p_LLFJ1</source-url>
+            </original>
+            <original source-urls="2">
+                <name>Leathers, Lord</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv01/persons#p_LL1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945Malta/persons#p_LL1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Leathers, Frederick James</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv02/persons#p_LL1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Leathers Of Purfleet, Lord</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v10/persons#p_LOF1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="1">
+            <title source-urls="4">
+                <name>Lord</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1943CairoTehran/persons#p_LLFJ1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv01/persons#p_LL1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945Malta/persons#p_LL1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v10/persons#p_LOF1</source-url>
+            </title>
+        </titles-from-name>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="2">
+        <remark source-urls="4">
+            <p>British Minister of War Transport.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1943CairoTehran/persons#p_LLFJ1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv01/persons#p_LL1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv02/persons#p_LL1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1945Malta/persons#p_LL1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>British Secretary of State for the Coordination of Transport Fuel and Power after October 1951.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v10/persons#p_LOF1</source-url>
+        </remark>
+    </remarks>
+</person>

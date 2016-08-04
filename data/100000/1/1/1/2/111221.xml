@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>111221</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Reams, Robert Borden</name>
+        </preferred>
+        <alternates/>
+        <originals variants="4">
+            <original source-urls="2">
+                <name>Reams, Robert Borden</name>
+                <source-url>https://history.state.gov/departmenthistory/people/reams-robert-borden</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv02/persons#p_RRB1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>R. Borden Reams</name>
+                <source-url>https://history.state.gov/departmenthistory/people/reams-robert-borden</source-url>
+            </original>
+            <original source-urls="3">
+                <name>Reams, R. Borden</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv01/persons#p_RRB1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v06p1/persons#p_REAMSRB1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v06p2/persons#p_REAMSRB1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Reams, Robert B.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v13/persons#p_RRB1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1904</birth-year>
+    <death-year>1994</death-year>
+    <remarks variants="4">
+        <remark source-urls="1">
+            <p>Foreign Service Officer. Ambassador Extraordinary and Plenipotentiary (Niger); Chargé d'Affaires ad interim (Denmark); Ambassador Extraordinary and Plenipotentiary (Côte d’Ivoire); Ambassador Extraordinary and Plenipotentiary (Benin); Ambassador Extraordinary and Plenipotentiary (Burkina Faso).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/reams-robert-borden</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Information Officer, Office of the Secretary of State.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv01/persons#p_RRB1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv02/persons#p_RRB1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Counselor of the Legation in Switzerland after March 5, 1951.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v06p1/persons#p_REAMSRB1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v06p2/persons#p_REAMSRB1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Deputy Operations Coordinator, Office of the Under Secretary of State, January 27–June 5, 1957; thereafter Special Assistant for Foreign Operations</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v13/persons#p_RRB1</source-url>
+        </remark>
+    </remarks>
+</person>

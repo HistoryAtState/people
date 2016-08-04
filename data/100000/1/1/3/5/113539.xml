@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>113539</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Thompson, Robert G. K.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="4">
+            <original source-urls="2">
+                <name>Thompson, Robert G.K.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v01/persons#p_TRGK1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v02/persons#p_TRGK1</source-url>
+            </original>
+            <original source-urls="2">
+                <name>Thompson, Brigadier Robert G. K.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v03/persons#p_TBRGK1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v04/persons#p_TBRGK1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Thompson, Robert G. K.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v01/persons#p_TRGK1</source-url>
+            </original>
+            <original source-urls="3">
+                <name>Thompson, Sir Robert</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v06/persons#p_TSR1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v06/persons#p_TSR1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v10/persons#p_TSR1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="2">
+            <title source-urls="2">
+                <name>Brigadier</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v03/persons#p_TBRGK1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v04/persons#p_TBRGK1</source-url>
+            </title>
+            <title source-urls="3">
+                <name>Sir</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v06/persons#p_TSR1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v06/persons#p_TSR1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v10/persons#p_TSR1</source-url>
+            </title>
+        </titles-from-name>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="7">
+        <remark source-urls="1">
+            <p>former British Permanent Secretary of Defense in the Malayan Federation; Head of the British Advisory Mission, Vietnam, from September 1961</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v01/persons#p_TRGK1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Head of the British Advisory Mission, Vietnam</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v02/persons#p_TRGK1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>head of the British Advisory Mission in Vietnam</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v03/persons#p_TBRGK1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v04/persons#p_TBRGK1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>RAF Retired, Chief of the British Advisory Mission to the Republic of Vietnam</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v01/persons#p_TRGK1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>counter-insurgency expert</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v06/persons#p_TSR1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>British counterinsurgency expert</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v06/persons#p_TSR1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>British counterinsurgency expert; adviser to President Nixon</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v10/persons#p_TSR1</source-url>
+        </remark>
+    </remarks>
+</person>

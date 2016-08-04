@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>113109</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Stroessner, Alfredo</name>
+        </preferred>
+        <alternates/>
+        <originals variants="4">
+            <original source-urls="1">
+                <name>President Alfredo Stroessner</name>
+                <source-url>https://history.state.gov/departmenthistory/visits/paraguay</source-url>
+            </original>
+            <original source-urls="4">
+                <name>Stroessner, Alfredo</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v04/persons#p_SA1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v06/persons#p_SA1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v07/persons#p_SA1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve11p2/persons#p_SMA_1</source-url>
+            </original>
+            <original source-urls="2">
+                <name>Stroessner, General Alfredo</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v05/persons#p_SGA1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v31/persons#p_SGA1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Stroessner, Afredo</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve10/persons#p_SA2</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="1">
+            <title source-urls="2">
+                <name>General</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v05/persons#p_SGA1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v31/persons#p_SGA1</source-url>
+            </title>
+        </titles-from-name>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="5">
+        <remark source-urls="1">
+            <p>President, Paraguay. Visited U.S. 2 times, 1968–1977</p>
+            <source-url>https://history.state.gov/departmenthistory/visits/paraguay</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>General, President of Paraguay after August 15, 1954.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v04/persons#p_SA1</source-url>
+        </remark>
+        <remark source-urls="4">
+            <p>President of Paraguay</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v06/persons#p_SA1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v07/persons#p_SA1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v05/persons#p_SGA1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v31/persons#p_SGA1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Paraguayan President from 1969</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve10/persons#p_SA2</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>General, President of Paraguay</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve11p2/persons#p_SMA_1</source-url>
+        </remark>
+    </remarks>
+</person>

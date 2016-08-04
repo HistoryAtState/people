@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>114522</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Whitehouse, Charles Sheldon</name>
+        </preferred>
+        <alternates/>
+        <originals variants="6">
+            <original source-urls="3">
+                <name>Whitehouse, Charles S.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v10/persons#p_WCS1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v05/persons#p_WCS1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v10/persons#p_WCS1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Whitehouse, Charles</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v07/persons#p_WC1</source-url>
+            </original>
+            <original source-urls="2">
+                <name>Whitehouse, Charles W.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v08/persons#p_WCW1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v09/persons#p_WCW_1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Whitehouse, Charles, S.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve12/persons#p_whitehouse-charles-s</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Whitehouse, Charles Sheldon</name>
+                <source-url>https://history.state.gov/departmenthistory/people/whitehouse-charles-sheldon</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Charles S. Whitehouse</name>
+                <source-url>https://history.state.gov/departmenthistory/people/whitehouse-charles-sheldon</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1926</birth-year>
+    <death-year>2001</death-year>
+    <remarks variants="8">
+        <remark source-urls="1">
+            <p>Special Assistant to the Deputy Under Secretary of State for Economic Affairs</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v10/persons#p_WCS1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Special Assistant, Office of the Deputy Under Secretary of State for Economic Affairs until June 1958; Special Assistant to the Under Secretary of State for Economic Affairs, June 1958–March 1959</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v05/persons#p_WCS1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>specialist in East Asian affairs, Department of State; on occasion Acting Assistant Secretary of State for East Asian and Pacific Affairs</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v07/persons#p_WC1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Deputy U.S. Ambassador to South Vietnam from March 1972</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v08/persons#p_WCW1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Deputy U.S. Ambassador to South Vietnam</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v09/persons#p_WCW_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Deputy U.S. Ambassador to Vietnam until August 1973; U.S. Ambassador to Laos from September 20, 1973, until April 12, 1975; U.S. Ambassador to Thailand from May 30, 1975</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v10/persons#p_WCS1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Deputy Ambassador to Vietnam until August 1973; Ambassador to Laos from September 20, 1973 until April 12, 1975; Ambassador to Thailand from May 30, 1975</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve12/persons#p_whitehouse-charles-s</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Foreign Service Officer. Ambassador Extraordinary and Plenipotentiary (Thailand); Ambassador Extraordinary and Plenipotentiary (Laos).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/whitehouse-charles-sheldon</source-url>
+        </remark>
+    </remarks>
+</person>

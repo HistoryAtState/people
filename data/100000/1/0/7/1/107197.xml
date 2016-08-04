@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>107197</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>King, Hamilton</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="1">
+                <name>King, Hamilton</name>
+                <source-url>https://history.state.gov/departmenthistory/people/king-hamilton</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1852</birth-year>
+    <death-year>1912</death-year>
+    <remarks variants="1">
+        <remark source-urls="1">
+            <p>Non-career appointee. Minister Resident/Consul General (Thailand); Envoy Extraordinary and Minister Plenipotentiary (Thailand).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/king-hamilton</source-url>
+        </remark>
+    </remarks>
+</person>

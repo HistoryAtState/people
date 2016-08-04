@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>104088</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Everton, John Scott</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="1">
+                <name>Everton, John S.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v23/persons#p_EJS1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Everton, John Scott</name>
+                <source-url>https://history.state.gov/departmenthistory/people/everton-john-scott</source-url>
+            </original>
+            <original source-urls="1">
+                <name>John S. Everton</name>
+                <source-url>https://history.state.gov/departmenthistory/people/everton-john-scott</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1908</birth-year>
+    <death-year/>
+    <remarks variants="2">
+        <remark source-urls="1">
+            <p>Ambassador to Burma, May 4, 1961-May 21, 1963</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v23/persons#p_EJS1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Foreign Service Officer. Ambassador Extraordinary and Plenipotentiary (Burma).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/everton-john-scott</source-url>
+        </remark>
+    </remarks>
+</person>

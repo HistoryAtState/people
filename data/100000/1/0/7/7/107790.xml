@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>107790</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Leet, Mildred Robbins</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="1">
+                <name>Leet, Mildred Robbins</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v02/persons#p_LMR_1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="1">
+        <remark source-urls="1">
+            <p>consultant, U.S. Delegation to the 27th session of the United Nations Commission on the Status of Women, 1978; member, U.S. Delegation to the United Nations Conference on Science and Technology for Development, 1979</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v02/persons#p_LMR_1</source-url>
+        </remark>
+    </remarks>
+</person>

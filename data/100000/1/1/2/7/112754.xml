@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>112754</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Soong, May-ling</name>
+        </preferred>
+        <alternates>
+            <name>Chiang Kai-shek, Madame</name>
+            <name>Jiang Jieshi, Madame</name>
+            <name>Song Meiling</name>
+        </alternates>
+        <originals variants="3">
+            <original source-urls="1">
+                <name>Chiang, May-ling (Soong)</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1943CairoTehran/persons#p_CMlS1</source-url>
+            </original>
+            <original source-urls="4">
+                <name>Chiang Kai-shek, Madame</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v17/persons#p_CKM1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v18/persons#p_CKS1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve13/persons#p_JJM1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v13/persons#p_CKSM_1</source-url>
+            </original>
+            <original source-urls="2">
+                <name>Jiang Jieshi, Madame (Madame Chiang Kai-shek)</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v18/persons#p_JJM1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v13/persons#p_JJM_1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="1">
+            <title source-urls="6">
+                <name>Madame</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1943CairoTehran/persons#p_CMlS1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v17/persons#p_CKM1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v18/persons#p_CKS1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v18/persons#p_JJM1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve13/persons#p_JJM1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v13/persons#p_JJM_1</source-url>
+            </title>
+        </titles-from-name>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="4">
+        <remark source-urls="1">
+            <p>Madame Chiang Kai-shek.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1943CairoTehran/persons#p_CMlS1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>wife of Chiang Kai-shek; born Soong Mayling (Song Meiling)</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v17/persons#p_CKM1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve13/persons#p_JJM1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>see Jiang Jieshi, Madame</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v18/persons#p_CKS1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v13/persons#p_CKSM_1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>wife of Jiang Jieshi; born Song Meiling (Soong Mayling)</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v18/persons#p_JJM1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v13/persons#p_JJM_1</source-url>
+        </remark>
+    </remarks>
+</person>

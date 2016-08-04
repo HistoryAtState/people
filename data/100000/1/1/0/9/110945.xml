@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>110945</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Press, Frank</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="6">
+                <name>Press, Frank</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v01/persons#p_PF_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v02/persons#p_PF_2</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v03/persons#p_PF_2</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v13/persons#p_PF_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v26/persons#p_PF_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v30/persons#p_PF_1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="6">
+        <remark source-urls="1">
+            <p>Professor, Massachusetts Institute of Technology until June 1, 1977; thereafter, Special Adviser to the President for Science and Technology and Director, White House Office of Science and Technology Policy</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v01/persons#p_PF_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Special Adviser to the President for Science and Technology and Director, White House Office of Science and Technology Policy, from June 1, 1977</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v02/persons#p_PF_2</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Advisor to the President on Science and Director, Office of Science and Technology Policy from March 1977</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v03/persons#p_PF_2</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Special Adviser to the President for Science and Technology; Director, Office of Science and Technology Policy from 1977</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v13/persons#p_PF_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Science Advisor and Director of the Office of Science and Technology Policy from 1977 until 1980</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v26/persons#p_PF_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Professor, MIT until June 1, 1977; thereafter, Special Adviser to the President for Science and Technology and Director, White House Office of Science and Technology Policy</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v30/persons#p_PF_1</source-url>
+        </remark>
+    </remarks>
+</person>

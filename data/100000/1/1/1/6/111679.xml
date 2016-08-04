@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>111679</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Rowe, James H.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="1">
+                <name>Rowe, James R.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v07/persons#p_RJR1</source-url>
+            </original>
+            <original source-urls="2">
+                <name>Rowe, James H.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v33/persons#p_RJH1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v01/persons#p_RJH_1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="3">
+        <remark source-urls="1">
+            <p>Washington lawyer</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v07/persons#p_RJR1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Jr., lawyer and longtime friend and adviser to President Johnson</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v33/persons#p_RJH1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>lawyer; administrative assistant to Franklin Roosevelt from 1939 until 1941; adviser to Lyndon Johnson</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v01/persons#p_RJH_1</source-url>
+        </remark>
+    </remarks>
+</person>

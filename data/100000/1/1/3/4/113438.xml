@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>113438</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Tekoah, Yosef</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="2">
+                <name>Tekoah, Joseph</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v09p1/persons#p_TJ1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v09p2/persons#p_TJ1</source-url>
+            </original>
+            <original source-urls="6">
+                <name>Tekoah, Yosef</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v13/persons#p_TY1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v20/persons#p_TY1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v05/persons#p_TY2</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v16/persons#p_TY_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v23/persons#p_TY_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v25/persons#p_TY_1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="5">
+        <remark source-urls="2">
+            <p>Assistant Legal Adviser, Israeli Foreign Ministry.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v09p1/persons#p_TJ1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v09p2/persons#p_TJ1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Israeli Deputy Representative at the United Nations from October 1958; Acting Representative at the United Nations, 1959–1960</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v13/persons#p_TY1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Permanent Representative of Israel to the United Nations Touqan, Ahmad, Deputy Prime Minister of Jordan</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v20/persons#p_TY1</source-url>
+        </remark>
+        <remark source-urls="3">
+            <p>Israeli Permanent Representative to the United Nations</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v05/persons#p_TY2</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v16/persons#p_TY_1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v25/persons#p_TY_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Israeli Representative to the United Nations</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v23/persons#p_TY_1</source-url>
+        </remark>
+    </remarks>
+</person>

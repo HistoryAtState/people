@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>113084</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Stowe, Ronald F.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="2">
+                <name>Stowe, Ronald F.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve03/persons#p_SRF1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve14p1/persons#p_SRF3</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="2">
+        <remark source-urls="1">
+            <p>Assistant Legal Adviser for United Nations Affairs, Department of State, from January 1974</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve03/persons#p_SRF1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Assistant Legal Adviser for United Nations Affairs, Office of the Legal Adviser, Department of State from January 1974</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve14p1/persons#p_SRF3</source-url>
+        </remark>
+    </remarks>
+</person>

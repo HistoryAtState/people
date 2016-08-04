@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>101790</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Brown, Aaron Switzer</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="3">
+                <name>Brown, Aaron S.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v06p1/persons#p_BROWNAS1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v06p2/persons#p_BROWNAS1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v31/persons#p_BAS1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Brown, Aaron Switzer</name>
+                <source-url>https://history.state.gov/departmenthistory/people/brown-aaron-switzer</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Aaron S. Brown</name>
+                <source-url>https://history.state.gov/departmenthistory/people/brown-aaron-switzer</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1913</birth-year>
+    <death-year>1969</death-year>
+    <remarks variants="3">
+        <remark source-urls="2">
+            <p>Counselor of Embassy in Portugal after December 17, 1953.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v06p1/persons#p_BROWNAS1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v06p2/persons#p_BROWNAS1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Ambassador to Nicaragua until May 3, 1967</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v31/persons#p_BAS1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Foreign Service Officer. Ambassador Extraordinary and Plenipotentiary (Nicaragua).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/brown-aaron-switzer</source-url>
+        </remark>
+    </remarks>
+</person>

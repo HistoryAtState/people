@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>105327</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Guthrie, Donald Keith</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="3">
+                <name>Guthrie, Donald Keith</name>
+                <source-url>https://history.state.gov/departmenthistory/people/guthrie-donald-keith</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v22/persons#p_GDK_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve16/persons#p_GDK_1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Keith Guthrie</name>
+                <source-url>https://history.state.gov/departmenthistory/people/guthrie-donald-keith</source-url>
+            </original>
+            <original source-urls="2">
+                <name>Guthrie, D. Keith</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v21/persons#p_GDK_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve10/persons#p_GDK1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1936</birth-year>
+    <death-year/>
+    <remarks variants="4">
+        <remark source-urls="1">
+            <p>Foreign Service Officer. Chargé d'Affaires ad interim (Belize).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/guthrie-donald-keith</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>National Security Council Staff Secretariat from 1970 until 1972</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v21/persons#p_GDK_1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve16/persons#p_GDK_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Office of Panamanian Affairs, Bureau of Inter-American Affairs/Bureau for Latin America, Department of State/Agency for International Development</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v22/persons#p_GDK_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Deputy Director, Panamanian Political Affairs, Bureau of Inter-American Affairs from January 1969 until July 1969</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve10/persons#p_GDK1</source-url>
+        </remark>
+    </remarks>
+</person>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>111726</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Rumor, Mariano</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="5">
+                <name>Rumor, Mariano</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v31/persons#p_RM1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v38p2/persons#p_RM_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v39/persons#p_RM4</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v41/persons#p_RM_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve15p2/persons#p_RM_1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Prime Minister Mariano Rumor</name>
+                <source-url>https://history.state.gov/departmenthistory/visits/italy</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="5">
+        <remark source-urls="2">
+            <p>Italian Prime Minister from July 1973 until November 1974; Italian Minister of Foreign Affairs from November 1974 until July 1976</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v31/persons#p_RM1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve15p2/persons#p_RM_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Italian Minister of the Interior until 1973; President of the Council of Ministers of Italy, 1973–1974; thereafter Minister of Foreign Affairs</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v38p2/persons#p_RM_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Prime Minister of Italy until July 1970</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v39/persons#p_RM4</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Italian Prime Minister until July 1970</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v41/persons#p_RM_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Prime Minister, Italy. Visited U.S. once, 1969</p>
+            <source-url>https://history.state.gov/departmenthistory/visits/italy</source-url>
+        </remark>
+    </remarks>
+</person>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>108465</id>
+    <authorities>
+        <authority service="viaf">96921168</authority>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Manning, Patrick A. M.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="1">
+                <name>Prime Minister Patrick A. M. Manning</name>
+                <source-url>https://history.state.gov/departmenthistory/visits/trinidad-and-tobago</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="1">
+        <remark source-urls="1">
+            <p>Prime Minister, Trinidad and Tobago. Visited U.S. 3 times, 1992–1994</p>
+            <source-url>https://history.state.gov/departmenthistory/visits/trinidad-and-tobago</source-url>
+        </remark>
+    </remarks>
+</person>

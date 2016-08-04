@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>102810</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Cook, Orval R.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="2">
+                <name>Cook, Orval R.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v05p1/persons#p_COOKOR1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v05p2/persons#p_COOKOR1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Cook, General Orval R.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v12/persons#p_CGOR1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Cook, General Orval</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v34/persons#p_CGO1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="1">
+            <title source-urls="2">
+                <name>General</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v12/persons#p_CGOR1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v34/persons#p_CGO1</source-url>
+            </title>
+        </titles-from-name>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="3">
+        <remark source-urls="2">
+            <p>General, United States Air Force; Deputy Commander in Chief, United States European Command, after 1954.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v05p1/persons#p_COOKOR1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v05p2/persons#p_COOKOR1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>USAF, Deputy Commander in Chief of the United States European Command</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v12/persons#p_CGOR1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Chair of the Public Advisory Committee on construction of the SST; former president of Aerospace Industries Group</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v34/persons#p_CGO1</source-url>
+        </remark>
+    </remarks>
+</person>

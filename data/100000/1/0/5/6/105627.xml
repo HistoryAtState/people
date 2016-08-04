@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>105627</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Hartshorn, Edwin S.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="2">
+                <name>Hartshorn, Brigadier General Edwin S.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v21/persons#p_HBGES1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v16/persons#p_HBGES1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="1">
+            <title source-urls="2">
+                <name>Brigadier General</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v21/persons#p_HBGES1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v16/persons#p_HBGES1</source-url>
+            </title>
+        </titles-from-name>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="2">
+        <remark source-urls="1">
+            <p>USA, Chief of the Military Assistance Advisory Group in Cambodia from June 1957</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v21/persons#p_HBGES1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>USA, Chief of the Military Assistance Advisory Group, Cambodia</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v16/persons#p_HBGES1</source-url>
+        </remark>
+    </remarks>
+</person>

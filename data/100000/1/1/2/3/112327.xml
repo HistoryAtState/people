@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>112327</id>
+    <authorities>
+        <authority service="viaf">5057562</authority>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Shazar, Zalman</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="2">
+                <name>Shazar, Zalman</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v18/persons#p_SZ3</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v20/persons#p_SZ1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>President Shazar</name>
+                <source-url>https://history.state.gov/departmenthistory/visits/israel</source-url>
+            </original>
+            <original source-urls="1">
+                <name>President Zalman Shazar</name>
+                <source-url>https://history.state.gov/departmenthistory/visits/israel</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="3">
+        <remark source-urls="2">
+            <p>President of Israel</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v18/persons#p_SZ3</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v20/persons#p_SZ1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>President, Israel. Visited U.S. once, 1963</p>
+            <source-url>https://history.state.gov/departmenthistory/visits/israel</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>President, Israel. Visited U.S. 2 times, 1966–1973</p>
+            <source-url>https://history.state.gov/departmenthistory/visits/israel</source-url>
+        </remark>
+    </remarks>
+</person>

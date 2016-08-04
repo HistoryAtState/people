@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>108411</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Malikyar, Abdullah</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="3">
+                <name>Malikyar, Abdullah</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v25/persons#p_MA2</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v11/persons#p_MA1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve07/persons#p_MA2</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Malkiyar, Abdullah</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve08/persons#p_MA2</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="3">
+        <remark source-urls="1">
+            <p>First Deputy Prime Minister of Afghanistan until February 1964; Minister of Finance until June 1964; Acting Prime Minister, February–June 1964; Afghan Ambassador to the United Kingdom, October 1964–March 1967; thereafter Ambassador to the United States</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v25/persons#p_MA2</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Afghan Ambassador to the United States</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v11/persons#p_MA1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve07/persons#p_MA2</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Afghan Ambassador to the United States until 1978</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve08/persons#p_MA2</source-url>
+        </remark>
+    </remarks>
+</person>

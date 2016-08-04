@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>114971</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Yun Po Sun</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="1">
+                <name>Yun, Po Sun</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v18/persons#p_YP2</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Yun Po-sun</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v22/persons#p_YP1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Yun Po-son</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v29p1/persons#p_YP1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="3">
+        <remark source-urls="1">
+            <p>President of the Republic of Korea from August 1960</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v18/persons#p_YP2</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>President of the Republic of Korea until June 1962; candidate for President, October 1963</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v22/persons#p_YP1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>President of the Korean Civil Rule Party</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v29p1/persons#p_YP1</source-url>
+        </remark>
+    </remarks>
+</person>

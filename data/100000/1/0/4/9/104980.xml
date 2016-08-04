@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>104980</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Goldmann, Nahum</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="6">
+                <name>Goldmann, Nahum</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv01/persons#p_GN1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v05/persons#p_GN1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v09p1/persons#p_GN1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v09p2/persons#p_GN1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v26/persons#p_GN_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v08/persons#p_GN_1</source-url>
+            </original>
+            <original source-urls="2">
+                <name>Goldmann, Dr. Nahum</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v17/persons#p_GDN1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v18/persons#p_GDN1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Goldman, Nahum</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v16/persons#p_GN_1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="1">
+            <title source-urls="2">
+                <name>Dr.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v17/persons#p_GDN1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v18/persons#p_GDN1</source-url>
+            </title>
+        </titles-from-name>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="8">
+        <remark source-urls="1">
+            <p>Representative in the United States of the Jewish Agency for Palestine.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv01/persons#p_GN1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Chairman, American Section, Jewish Agency for Palestine.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1951v05/persons#p_GN1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Chairman of the Jewish Agency for Palestine.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v09p1/persons#p_GN1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v09p2/persons#p_GN1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>President of the World Zionist Organization; also President of the World Jewish Congress</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v17/persons#p_GDN1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>President of World Zionist Organization; also President of the World Jewish Congress</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v18/persons#p_GDN1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>President of the World Jewish Congress</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v16/persons#p_GN_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Zionist and President of the World Jewish Congress</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v26/persons#p_GN_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>President of the World Zionist Organization from 1956 until 1968; President of the World Jewish Congress from 1948 until 1977</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v08/persons#p_GN_1</source-url>
+        </remark>
+    </remarks>
+</person>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>106223</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Huddle, Jerome Klahr</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="1">
+                <name>Huddle, J. Klhar</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945-50Intel/persons#p_HJK1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Huddle, Jerome Klahr</name>
+                <source-url>https://history.state.gov/departmenthistory/people/huddle-jerome-klahr</source-url>
+            </original>
+            <original source-urls="1">
+                <name>J. Klahr Huddle</name>
+                <source-url>https://history.state.gov/departmenthistory/people/huddle-jerome-klahr</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1891</birth-year>
+    <death-year>1959</death-year>
+    <remarks variants="2">
+        <remark source-urls="1">
+            <p>Assistant Director for Research and Evaluation (changed to Assistant Director for Reports and Estimates in late 1946), Central Intelligence Group, September 1946-May 1947</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1945-50Intel/persons#p_HJK1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Foreign Service Officer. Ambassador Extraordinary and Plenipotentiary (Burma).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/huddle-jerome-klahr</source-url>
+        </remark>
+    </remarks>
+</person>

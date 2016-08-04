@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>107149</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Kilday, Lowell C.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="3">
+                <name>Kilday, Lowell C.</name>
+                <source-url>https://history.state.gov/departmenthistory/people/kilday-lowell-c</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v31/persons#p_KLC1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1981-88v13/persons#p_KLC_1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1931</birth-year>
+    <death-year>2011</death-year>
+    <remarks variants="3">
+        <remark source-urls="1">
+            <p>Foreign Service Officer. Ambassador Extraordinary and Plenipotentiary (Dominican Republic).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/kilday-lowell-c</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Officer-in-Charge of Ecuadorian Political Affairs, Office of Ecuadorian-Peruvian Affairs, Bureau of Inter-American Affairs, Department of State, August 1967–November 1968</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v31/persons#p_KLC1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Director, Office of Brazilian Affairs, Bureau of Inter-American Affairs, Department of State until August 1983</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1981-88v13/persons#p_KLC_1</source-url>
+        </remark>
+    </remarks>
+</person>

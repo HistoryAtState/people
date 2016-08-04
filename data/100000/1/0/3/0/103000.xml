@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>103000</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Cronk, Edwin Monroe</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="3">
+                <name>Cronk, Edwin M.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v17/persons#p_CEM1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve12/persons#p_cronk-edwin-m</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve13/persons#p_CEM1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Cronk, Edwin Monroe</name>
+                <source-url>https://history.state.gov/departmenthistory/people/cronk-edwin-monroe</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Edwin M. Cronk</name>
+                <source-url>https://history.state.gov/departmenthistory/people/cronk-edwin-monroe</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1918</birth-year>
+    <death-year/>
+    <remarks variants="3">
+        <remark source-urls="2">
+            <p>Deputy Assistant Secretary of State for International Trade Policy, Bureau of Economic Affairs, October 1969–June 1972; Ambassador to Singapore from June 27, 1972</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v17/persons#p_CEM1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve13/persons#p_CEM1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Deputy Assistant Secretary for International Trade Policy, Bureau of Economic Affairs, Department of State, until June 1972; Ambassador to Singapore from June 27, 1972 until June 7, 1975</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve12/persons#p_cronk-edwin-m</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Foreign Service Officer. Ambassador Extraordinary and Plenipotentiary (Singapore).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/cronk-edwin-monroe</source-url>
+        </remark>
+    </remarks>
+</person>

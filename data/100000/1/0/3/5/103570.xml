@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>103570</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Donald, Richard Hempstead</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="1">
+                <name>Donald, Richard H.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v05/persons#p_DRH1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Donald, Richard Hempstead</name>
+                <source-url>https://history.state.gov/departmenthistory/people/donald-richard-hempstead</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Richard H. Donald</name>
+                <source-url>https://history.state.gov/departmenthistory/people/donald-richard-hempstead</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1922</birth-year>
+    <death-year/>
+    <remarks variants="2">
+        <remark source-urls="1">
+            <p>Director of Regional Affairs, Bureau of East Asian and Pacific Affairs, Department of State</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v05/persons#p_DRH1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Foreign Service Officer. Chargé d'Affaires ad interim (Singapore).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/donald-richard-hempstead</source-url>
+        </remark>
+    </remarks>
+</person>

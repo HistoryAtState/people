@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>104128</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Falcón-Briceño, Marcos</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="1">
+                <name>Falcón-Briceño, Marcos</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v05/persons#p_FBM1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Falcón Briceno, Marcos</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v12/persons#p_FBM1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="2">
+        <remark source-urls="1">
+            <p>Venezuelan Ambassador to the United States, August 14, 1958–November 11, 1960</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v05/persons#p_FBM1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Foreign Minister of Venezuela</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v12/persons#p_FBM1</source-url>
+        </remark>
+    </remarks>
+</person>

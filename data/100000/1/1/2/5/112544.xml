@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>112544</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Sisowath Sirik Matak</name>
+        </preferred>
+        <alternates/>
+        <originals variants="6">
+            <original source-urls="1">
+                <name>Sirik Matak</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v21/persons#p_SM1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Sirik Matak, Sisowath</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v06/persons#p_SMS1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Sisowath Sirik Matak</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v07/persons#p_SSM1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Sirik Matak (Sisowath Sirik Matak, sometimes Sivik)</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v10/persons#p_SM1</source-url>
+            </original>
+            <original source-urls="2">
+                <name>Sirik Matak (Sisowath Sirik Matak)</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v17/persons#p_SMSSM1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve13/persons#p_SM4</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Sirik Matak (Sisowath Sirik Matak, sometimes spelled Sivik)</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v18/persons#p_SM2</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="6">
+        <remark source-urls="1">
+            <p>Prince and General, Cambodian Minister of National Defense, January-October 1955; Chief of Staff of the Royal Cambodian Armed Forces to August 1955; Minister of Defense and Minister of Internal Security, January–September 1956; Minister of Defense and Minister of Information and Tourism from July 1957</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v21/persons#p_SM1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>First Deputy Prime Minister of Cambodia in Charge of Interior, Order, Security, Education and Religious Affairs August 1969–July 1970; thereafter, Deputy Prime Minister in charge of the Office of the Prime Minister</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v06/persons#p_SMS1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>influential figure in Khmer Republic (Cambodian) politics, cousin of Sihanouk and ally of Lon Nol</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v07/persons#p_SSM1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Prince and cousin of Norodom Sihanouk; Cambodian Deputy Prime Minister, then member of the High Political Council until 1974</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v10/persons#p_SM1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Prince and cousin of Norodom Sihanouk; ally of Lon Nol; Deputy Prime Minister of Cambodia; member of the High Political Council from 1970</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v17/persons#p_SMSSM1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve13/persons#p_SM4</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Prince and cousin of Norodom Sihanouk; ally of Lon Nol; Deputy Prime Minister, then member of the High Political Council, from 1970 to 1974</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v18/persons#p_SM2</source-url>
+        </remark>
+    </remarks>
+</person>

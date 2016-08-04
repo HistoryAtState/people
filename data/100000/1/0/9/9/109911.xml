@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>109911</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Nong Kimny</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="3">
+                <name>Kimny</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v13p1/persons#p_K1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v13p2/persons#p_Kimny1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v16/persons#p_K31</source-url>
+            </original>
+            <original source-urls="6">
+                <name>Nong Kimny</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v13p1/persons#p_NK1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v13p2/persons#p_NK1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v16/persons#p_NK1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v21/persons#p_NK1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v16/persons#p_NK1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v23/persons#p_NK1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Nong Kimmy</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v27/persons#p_NK2</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="6">
+        <remark source-urls="3">
+            <p>See Nong Kimny.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v13p1/persons#p_K1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v13p2/persons#p_Kimny1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v16/persons#p_K31</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Cambodian Ambassador in the United States from July 1, 1952.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v13p1/persons#p_NK1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v13p2/persons#p_NK1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Cambodian Ambassador in the United States; Member of the Cambodian Delegation at the Geneva Conference.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v16/persons#p_NK1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Cambodian Ambassador to the United States</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v21/persons#p_NK1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v23/persons#p_NK1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Cambodian Permanent Representative to the United Nations</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v16/persons#p_NK1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Cambodian Ambassador to the United States until March 1964; thereafter Cambodian Ambassador to India</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v27/persons#p_NK2</source-url>
+        </remark>
+    </remarks>
+</person>

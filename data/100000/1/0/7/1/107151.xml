@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>107151</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Killen, James S.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="6">
+                <name>Killen, James S.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v08/persons#p_KJS1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v26/persons#p_KJS1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v22/persons#p_KJS1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v01/persons#p_KJS1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v02/persons#p_KJS1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v03/persons#p_KJS1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="5">
+        <remark source-urls="1">
+            <p>Chief, Mutual Assistance Agency Mission in Yugoslavia (from 1953, Foreign Operations Administration), October 1952–October 1955.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v08/persons#p_KJS1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Chief of the U.S. Operations Mission in Yugoslavia until August 1956</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v26/persons#p_KJS1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Director, USOM Korea after August 1961</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v22/persons#p_KJS1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Director, United States Operations Mission in Saigon</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v01/persons#p_KJS1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Director, Agency for International Development Mission in Vietnam; Senior Evaluation Officer, Office of Administration, Agency for International Development, after October 10, 1965</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v02/persons#p_KJS1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v03/persons#p_KJS1</source-url>
+        </remark>
+    </remarks>
+</person>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>107238</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Kirkpatrick, Lyman B., Jr.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="1">
+                <name>Kirkpatrick, Lyman B.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1950-55Intel/persons#p_KLB1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Kirkpatrick, Lyman B., Jr.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v33/persons#p_KLB1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="2">
+        <remark source-urls="1">
+            <p>Deputy Assistant Director for Office of Operations, Central Intelligence Agency until 1950; Executive Assistant to the Director of Central Intelligence from 1950 to 1951; Assistant Director for Special Operations from 1951 to 1952, Chief of Operations, Deputy Directorate of Plans from 1952 to 1953; Special Assistant to the Deputy Director for Plans in 1953; Inspector General from April 1953 to 1962</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1950-55Intel/persons#p_KLB1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Executive Director-Comptroller, Central Intelligence Agency until June 1965</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v33/persons#p_KLB1</source-url>
+        </remark>
+    </remarks>
+</person>

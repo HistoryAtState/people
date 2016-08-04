@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>103632</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Doyle, Austin K.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="1">
+                <name>Doyle, Austin K.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1943CairoTehran/persons#p_DAK1</source-url>
+            </original>
+            <original source-urls="2">
+                <name>Doyle, Vice Admiral Austin K.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v02/persons#p_DVAAK1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v03/persons#p_DVAAK1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Doyle, Vice Admiral A.K.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v19/persons#p_DVAAK1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="1">
+            <title source-urls="3">
+                <name>Vice Admiral</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v02/persons#p_DVAAK1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v03/persons#p_DVAAK1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v19/persons#p_DVAAK1</source-url>
+            </title>
+        </titles-from-name>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="3">
+        <remark source-urls="1">
+            <p>Captain, U. S. N, member of the Joint Staff Planners and of the Combined Staff Planners.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1943CairoTehran/persons#p_DAK1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>USN, Commander of the United States Taiwan Defense Command from July 1957</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v02/persons#p_DVAAK1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v03/persons#p_DVAAK1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Commander, United States Taiwan Defense Command/Military Assistance Advisory Group, Taiwan, through July 1958</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v19/persons#p_DVAAK1</source-url>
+        </remark>
+    </remarks>
+</person>

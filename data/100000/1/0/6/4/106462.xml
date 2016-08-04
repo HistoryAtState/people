@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>106462</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Jabir al-Ahmad al-Jabir al Sabah</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="1">
+                <name>Jabir al-Ahmad al-Jabir al Sabah, Shaikh</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v24/persons#p_JAJSS1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Sabah al-Ahmad al-Jabir al Sabah, Shaikh</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v24/persons#p_SAJSS1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="1">
+            <title source-urls="2">
+                <name>Shaikh</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v24/persons#p_JAJSS1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v24/persons#p_SAJSS1</source-url>
+            </title>
+        </titles-from-name>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="2">
+        <remark source-urls="1">
+            <p>Crown Prince and Prime Minister of Kuwait</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v24/persons#p_JAJSS1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Kuwaiti Minister of Foreign Affairs</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v24/persons#p_SAJSS1</source-url>
+        </remark>
+    </remarks>
+</person>

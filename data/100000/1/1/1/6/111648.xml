@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>111648</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Roth, Hellmuth</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="1">
+                <name>Roth, Hellmuth</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v32/persons#p_RH1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Roth, Helmut</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v39/persons#p_RH1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Roth, Colonel Hellmuth</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve02/persons#p_RH1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="1">
+            <title source-urls="1">
+                <name>Colonel</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve02/persons#p_RH1</source-url>
+            </title>
+        </titles-from-name>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="3">
+        <remark source-urls="1">
+            <p>Colonel, Chief of the Disarmament Division, Ministry of Foreign Affairs, Federal Republic of Germany from September 1969</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v32/persons#p_RH1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Directory of Subdivision B, General Disarmament and European Security, the Second Political Division and Representative of the Federal Republic of Germany for Questions of Disarmament and Arms Control from August 1969; Commissioner for Disarmament and Arms Control from November 3, 1969</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v39/persons#p_RH1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Chief of the Disarmament Division, Ministry of Foreign Affairs, Federal Republic of Germany, from September 1969</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve02/persons#p_RH1</source-url>
+        </remark>
+    </remarks>
+</person>

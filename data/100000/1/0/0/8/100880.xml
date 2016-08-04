@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>100880</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Barkley, Richard Clark</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="2">
+                <name>Barkley, Richard Clark</name>
+                <source-url>https://history.state.gov/departmenthistory/people/barkley-richard-clark</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v22/persons#p_BRC_1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1932</birth-year>
+    <death-year/>
+    <remarks variants="2">
+        <remark source-urls="1">
+            <p>Foreign Service Officer. Ambassador Extraordinary and Plenipotentiary (Turkey); Ambassador Extraordinary and Plenipotentiary (German Democratic Republic).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/barkley-richard-clark</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Special Assistant to Ambassador at Large Ellsworth Bunker</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v22/persons#p_BRC_1</source-url>
+        </remark>
+    </remarks>
+</person>

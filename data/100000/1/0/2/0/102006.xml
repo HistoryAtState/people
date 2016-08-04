@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>102006</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Busmann, Eduard Star</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="1">
+                <name>Busmann, Eduard Star</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1946v03/persons#p_BES1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Star Busmann</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1946v03/persons#p_SB3</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="2">
+        <remark source-urls="1">
+            <p>Member of Netherlands Delegation; Minister of the Netherlands in France</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1946v03/persons#p_BES1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>See Busmann.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1946v03/persons#p_SB3</source-url>
+        </remark>
+    </remarks>
+</person>

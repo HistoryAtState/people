@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>100493</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Anspacher, John M.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="2">
+                <name>Anspacher, John N.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v07p1/persons#p_AJN1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v07p2/persons#p_AJN1</source-url>
+            </original>
+            <original source-urls="2">
+                <name>Anspacher, John M.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v01/persons#p_AJM1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v02/persons#p_AJM4</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="3">
+        <remark source-urls="2">
+            <p>staff member of the Psychological Strategy Board until 1953; thereafter Chief of the Policy Staff, HICOG.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v07p1/persons#p_AJN1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v07p2/persons#p_AJN1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Counselor for Public Affairs in Vietnam</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v01/persons#p_AJM1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Counselor for Public Affairs in the Embassy in Saigon</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v02/persons#p_AJM4</source-url>
+        </remark>
+    </remarks>
+</person>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>114405</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Weizman, Ezer</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="2">
+                <name>Weizman, Brigadier General Ezer</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v19/persons#p_WBGE1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v20/persons#p_WBGE1</source-url>
+            </original>
+            <original source-urls="2">
+                <name>Weizman, Ezer</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v06/persons#p_WEE_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v08/persons#p_WE_1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>President Ezer Weizman</name>
+                <source-url>https://history.state.gov/departmenthistory/visits/israel</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="1">
+            <title source-urls="2">
+                <name>Brigadier General</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v19/persons#p_WBGE1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v20/persons#p_WBGE1</source-url>
+            </title>
+        </titles-from-name>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="4">
+        <remark source-urls="1">
+            <p>Chief of Operations of the Israel Defense Forces</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v19/persons#p_WBGE1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Chief of Operations, Israeli Defense Forces</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v20/persons#p_WBGE1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Israeli Defense Minister from June 1977</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v06/persons#p_WEE_1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v08/persons#p_WE_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>President, Israel. Visited U.S. once, 1997</p>
+            <source-url>https://history.state.gov/departmenthistory/visits/israel</source-url>
+        </remark>
+    </remarks>
+</person>

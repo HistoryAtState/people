@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>105180</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Gregory, Henry Stanley</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="1">
+                <name>Gregory, Henry Stanley</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1946v03/persons#p_GHS1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Gregory, Sir Henry</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1948v02/persons#p_GSH1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="1">
+            <title source-urls="1">
+                <name>Sir</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1948v02/persons#p_GSH1</source-url>
+            </title>
+        </titles-from-name>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="2">
+        <remark source-urls="1">
+            <p>Member of the British Delegation; Commissioner of His Majesty’s Customs and Excise, 1938–1946</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1946v03/persons#p_GHS1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Administrator of Enemy Property, British Board of Trade</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1948v02/persons#p_GSH1</source-url>
+        </remark>
+    </remarks>
+</person>

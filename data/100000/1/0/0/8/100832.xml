@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>100832</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Bandaranaike, Felix Dias</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="1">
+                <name>Bandaranaike, Felix Dias</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v15/persons#p_BFDFD1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="1">
+        <remark source-urls="1">
+            <p>(also known as Felix Dias), Minister of Finance of Ceylon from July 1960</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v15/persons#p_BFDFD1</source-url>
+        </remark>
+    </remarks>
+</person>

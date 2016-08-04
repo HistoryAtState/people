@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>104374</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Fluker, J. Robert</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="3">
+                <name>Fluker, J. Robert</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v11p1/persons#p_FJR1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v11p2/persons#p_FJR1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v08/persons#p_FJR1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="2">
+        <remark source-urls="2">
+            <p>Acting Officer in Charge of Economic Affairs, Office of South Asian Affairs, Bureau of Near Eastern, South Asian, and African Affairs, Department of State, until October 12, 1952; thereafter, Officer in Charge of Economic Affairs.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v11p1/persons#p_FJR1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v11p2/persons#p_FJR1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Officer in Charge of Economic Affairs, Office of South Asian Affairs, Department of State, to September 1955; thereafter Counselor of Embassy for Economic Affairs in India</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v08/persons#p_FJR1</source-url>
+        </remark>
+    </remarks>
+</person>

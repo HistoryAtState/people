@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>112668</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Smith, Thomas William Macauley</name>
+        </preferred>
+        <alternates/>
+        <originals variants="4">
+            <original source-urls="1">
+                <name>Smith, Thomas W. M.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v05/persons#p_STWM1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Smith, Thomas William Macauley</name>
+                <source-url>https://history.state.gov/departmenthistory/people/smith-thomas-william-macauley</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Thomas W.M. Smith</name>
+                <source-url>https://history.state.gov/departmenthistory/people/smith-thomas-william-macauley</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Thomas W. M. Smith</name>
+                <source-url>https://history.state.gov/departmenthistory/people/smith-thomas-william-macauley</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1930</birth-year>
+    <death-year>1987</death-year>
+    <remarks variants="2">
+        <remark source-urls="1">
+            <p>Chief of the UN Economic Affairs Division, Office of International Economic and Social Affairs, Bureau of International Organization Affairs, Department of State</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v05/persons#p_STWM1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Foreign Service Officer. Ambassador Extraordinary and Plenipotentiary (Nigeria); Ambassador Extraordinary and Plenipotentiary (Ghana).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/smith-thomas-william-macauley</source-url>
+        </remark>
+    </remarks>
+</person>

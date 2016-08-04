@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>107487</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Kuchel, Thomas H.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="4">
+                <name>Kuchel, Thomas H.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v02/persons#p_KTH1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v03/persons#p_KTH1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v04/persons#p_KTH1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v05/persons#p_KTH1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Kuchel, Thomas</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v07/persons#p_KT2</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="3">
+        <remark source-urls="2">
+            <p>Republican Senator from California</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v02/persons#p_KTH1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v03/persons#p_KTH1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Senator (R-California)</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v04/persons#p_KTH1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v07/persons#p_KT2</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Senator (R–CA)</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v05/persons#p_KTH1</source-url>
+        </remark>
+    </remarks>
+</person>

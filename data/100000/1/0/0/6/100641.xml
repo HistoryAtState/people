@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>100641</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Askew, Reubin O’Donovan</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="3">
+                <name>Askew, Reubin</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v37/persons#p_AR_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v01/persons#p_AR_2</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v03/persons#p_AR_1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Askew, Reubin O’Donovan</name>
+                <source-url>https://history.state.gov/departmenthistory/people/askew-reubin-odonovan</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Reubin O’D. Askew</name>
+                <source-url>https://history.state.gov/departmenthistory/people/askew-reubin-odonovan</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1928</birth-year>
+    <death-year/>
+    <remarks variants="4">
+        <remark source-urls="1">
+            <p>U.S. Special Trade Representative, from August 1979 until January 1981</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v37/persons#p_AR_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Governor of Florida until 1979; thereafter Special Representative for Trade Negotiations</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v01/persons#p_AR_2</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>United States Trade Representative from October 1979</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v03/persons#p_AR_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Non-career appointee. U.S. Trade Representative.</p>
+            <source-url>https://history.state.gov/departmenthistory/people/askew-reubin-odonovan</source-url>
+        </remark>
+    </remarks>
+</person>

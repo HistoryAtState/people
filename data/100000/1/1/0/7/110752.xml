@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>110752</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Pilliod, Charles J., Jr.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="1">
+                <name>Pilliod, Charles J., Jr.</name>
+                <source-url>https://history.state.gov/departmenthistory/people/pilliod-charles-j</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1918</birth-year>
+    <death-year/>
+    <remarks variants="1">
+        <remark source-urls="1">
+            <p>Non-career appointee. Ambassador Extraordinary and Plenipotentiary (Mexico).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/pilliod-charles-j</source-url>
+        </remark>
+    </remarks>
+</person>

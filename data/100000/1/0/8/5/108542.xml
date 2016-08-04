@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>108542</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Marshall, Andrew W.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="5">
+                <name>Marshall, Andrew W.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v02/persons#p_MAW1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v35/persons#p_MAW_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v38p2/persons#p_MAW_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v13/persons#p_MAW_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v28/persons#p_MAW_1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Marshall, Andy</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v27/persons#p_MA_1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Marshall, Andrew</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v36/persons#p_MA1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="6">
+        <remark source-urls="1">
+            <p>Consultant to the National Security Council from 1970; Director of the Net Assessment Group, National Security Council Staff, from November 1971</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v02/persons#p_MAW1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Director of Net Assessment, Department of Defense</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v27/persons#p_MA_1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Consultant to the National Security Council; Director of the Net Assessment Group, National Security Council Staff, until 1973; thereafter Director of the Office of Net Assessment, Office of the Secretary of Defense</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v35/persons#p_MAW_1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v38p2/persons#p_MAW_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>member, National Security Council staff</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v36/persons#p_MA1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Director, Office of Net Assessment, Department of Defense from 1973</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v13/persons#p_MAW_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Director, Office of Net Assessment, Department of Defense</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v28/persons#p_MAW_1</source-url>
+        </remark>
+    </remarks>
+</person>

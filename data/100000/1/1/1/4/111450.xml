@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>111450</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Robertson, David A.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="4">
+                <name>Robertson, David A.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v09p1/persons#p_RDA1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v09p2/persons#p_RDA1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v11p1/persons#p_RDA1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v11p2/persons#p_RDA1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="1">
+        <remark source-urls="4">
+            <p>First Secretary of the Embassy in the Union of South Africa until February 1, 1953; Officer in Charge of Economic Affairs, Office of Near Eastern Affairs, Bureau of Near Eastern, South Asian, and African Affairs, Department of State, from March 9, 1953.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v09p1/persons#p_RDA1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v09p2/persons#p_RDA1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v11p1/persons#p_RDA1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v11p2/persons#p_RDA1</source-url>
+        </remark>
+    </remarks>
+</person>

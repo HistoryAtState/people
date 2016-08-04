@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>101637</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Bowman, Richard C.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="3">
+                <name>Bowman, Colonel Richard C.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v02/persons#p_BCRC1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v03/persons#p_BCRC1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v11/persons#p_BRC1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Bowman, R.C.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v10/persons#p_BRC1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Bowman, Richard C.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v28/persons#p_BRC1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="1">
+            <title source-urls="3">
+                <name>Colonel</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v02/persons#p_BCRC1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v03/persons#p_BCRC1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v11/persons#p_BRC1</source-url>
+            </title>
+        </titles-from-name>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="4">
+        <remark source-urls="2">
+            <p>Member of the National Security Council Staff</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v02/persons#p_BCRC1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v03/persons#p_BCRC1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Member, National Security Council Staff, 1964–1966</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v10/persons#p_BRC1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Member, National Security Council Staff, 1964-1966</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v11/persons#p_BRC1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>staff member, National Security Council 1964–1966; liaison with Joint Chiefs of Staff</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v28/persons#p_BRC1</source-url>
+        </remark>
+    </remarks>
+</person>

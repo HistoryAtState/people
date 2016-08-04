@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>100819</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Balluseck, Daniel J. von</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="3">
+                <name>Balluseck, Daniel J. von</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v05/persons#p_BDJ1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v11p1/persons#p_BDJV1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v11p2/persons#p_BDJV1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Balluseck, D. J. von</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v03/persons#p_BALLUSECKDJ1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Von Balluseck.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v03/persons#p_VONBALLUSECK1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="4">
+        <remark source-urls="1">
+            <p>Netherlands Representative at the United Nations; President of the United Nations Security Council in April 1951.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1951v05/persons#p_BDJ1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Permanent Representative of the Netherlands to the United Nations.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v03/persons#p_BALLUSECKDJ1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>See Balluseck.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v03/persons#p_VONBALLUSECK1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Permanent Representative of the Netherlands at the United Nations.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v11p1/persons#p_BDJV1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v11p2/persons#p_BDJV1</source-url>
+        </remark>
+    </remarks>
+</person>

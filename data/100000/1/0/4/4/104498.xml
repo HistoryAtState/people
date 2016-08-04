@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>104498</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Franco y Franco, Tulio</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="1">
+                <name>Franco y Franco, Tulio</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v03/persons#p_FRANCOYFRANCOT1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="1">
+        <remark source-urls="1">
+            <p>Permanent Representative of the Dominican Republic to the United Nations from 1953; Chairman, Dominican Republic Delegations to the 8th and 9th Regular Sessions of the General Assembly.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v03/persons#p_FRANCOYFRANCOT1</source-url>
+        </remark>
+    </remarks>
+</person>

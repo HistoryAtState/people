@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>110668</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Phan Khac Suu</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="4">
+                <name>Phan Khac Suu</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v01/persons#p_PKS1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v02/persons#p_PKS1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v03/persons#p_PKS1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v05/persons#p_PKS1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Pham Khac Suu</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v01/persons#p_PKS1</source-url>
+            </original>
+            <original source-urls="3">
+                <name>Suu</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v01/persons#p_Suu1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v02/persons#p_Suu1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v03/persons#p_Suu1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="6">
+        <remark source-urls="1">
+            <p>Independent Member of the National Assembly of the Republic of Vietnam from September 1959</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v01/persons#p_PKS1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Chairman of the Vietnamese High National Council, September 26, 1964; Chief of Staff of the Republic of Vietnam after October 26, 1964</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v01/persons#p_PKS1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>see Pham Khac Suu</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v01/persons#p_Suu1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Vietnamese Chief of State until June 11, 1965</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v02/persons#p_PKS1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v03/persons#p_PKS1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>see Phan Khac Suu</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v02/persons#p_Suu1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v03/persons#p_Suu1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>chairman of the Vietnamese Constituent Assembly and presidential candidate</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v05/persons#p_PKS1</source-url>
+        </remark>
+    </remarks>
+</person>

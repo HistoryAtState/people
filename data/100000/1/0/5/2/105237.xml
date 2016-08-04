@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>105237</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Grossman, Marc Isaiah</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="1">
+                <name>Grossman, Marc Isaiah</name>
+                <source-url>https://history.state.gov/departmenthistory/people/grossman-marc-isaiah</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Marc Grossman</name>
+                <source-url>https://history.state.gov/departmenthistory/people/grossman-marc-isaiah</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Marc I. Grossman</name>
+                <source-url>https://history.state.gov/departmenthistory/people/grossman-marc-isaiah</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1951</birth-year>
+    <death-year/>
+    <remarks variants="1">
+        <remark source-urls="1">
+            <p>Foreign Service Officer. Under Secretary of State for Political Affairs; Executive Secretary; Director General of the Foreign Service; Career Ambassador; Assistant Secretary of State for European and Eurasian Affairs; Ambassador Extraordinary and Plenipotentiary (Turkey).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/grossman-marc-isaiah</source-url>
+        </remark>
+    </remarks>
+</person>

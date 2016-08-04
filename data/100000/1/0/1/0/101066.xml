@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>101066</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Bech, Joseph</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="10">
+                <name>Bech, Joseph</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1948v02/persons#p_BJ1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1949v03/persons#p_BJ2</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v03p1/persons#p_BJ2</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v03p2/persons#p_BJ2</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v05p1/persons#p_BECHJ1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v05p2/persons#p_BECHJ1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v06p1/persons#p_BECHJ1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v06p2/persons#p_BECHJ1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v04/persons#p_BJ1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v27/persons#p_BJ1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="6">
+        <remark source-urls="1">
+            <p>Minister for Foreign Affairs of Luxembourg</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1948v02/persons#p_BJ1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Luxembourg Minister of Foreign Affairs and Viticulture.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1949v03/persons#p_BJ2</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Luxembourg Foreign Minister and Minister of Defense.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1951v03p1/persons#p_BJ2</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1951v03p2/persons#p_BJ2</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Luxembourg Minister of Foreign Affairs, Foreign Commerce, and National Defense after 1951; Prime Minister and Minister of Foreign Affairs after December 29, 1953.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v05p1/persons#p_BECHJ1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v05p2/persons#p_BECHJ1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Luxembourg Minister of Foreign Affairs, Foreign Commerce and National Defense from 1951; Prime Minister after December 29, 1953.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v06p1/persons#p_BECHJ1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v06p2/persons#p_BECHJ1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>President, Minister of Foreign Affairs, and Minister of Foreign Trade of Luxembourg</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v04/persons#p_BJ1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v27/persons#p_BJ1</source-url>
+        </remark>
+    </remarks>
+</person>

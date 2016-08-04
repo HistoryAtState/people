@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>115704</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>King, John F.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="3">
+                <name>King, John F.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve11p1/persons#p_KJF_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve11p2/persons#p_KJF_2</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1981-88v13/persons#p_KJF_2</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="3">
+        <remark source-urls="1">
+            <p>Coordinator of Cuban Affairs, Bureau of Inter-American Affairs, Department of State from August 1973 until November 1973; Director, Office of Press Relations, from November 1973 until February 1975; Director, Office of Ecuadorian and Peruvian Affairs, from February 1975 until July 1976; Director of the Office of Regional Political Programs, from July 1976</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve11p1/persons#p_KJF_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Coordinator of the Office of Cuban Affairs, Bureau of Inter-American Affairs, Department of State, from August 1973 until November 1973; Director, Office of Press Relations, from November 1973 until February 1975; Director of the Office of Ecuadorian and Peruvian Affairs, Bureau of Inter-American Affairs, Department of State, from February 1975 until July 1976; Director of the Office of Regional Political Programs, Bureau of Inter-American Affairs, from July 1976</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve11p2/persons#p_KJF_2</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Political Counselor, U.S. Embassy in Buenos Aires until April 1984</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1981-88v13/persons#p_KJF_2</source-url>
+        </remark>
+    </remarks>
+</person>

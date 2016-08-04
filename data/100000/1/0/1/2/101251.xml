@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>101251</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Berry, Burton Yost</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="2">
+                <name>Berry, Burton Yost</name>
+                <source-url>https://history.state.gov/departmenthistory/people/berry-burton-yost</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v05/persons#p_BBY1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Burton Y. Berry</name>
+                <source-url>https://history.state.gov/departmenthistory/people/berry-burton-yost</source-url>
+            </original>
+            <original source-urls="12">
+                <name>Berry, Burton Y.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv01/persons#p_BBY1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945Malta/persons#p_BBY1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v03p1/persons#p_BBY1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v03p2/persons#p_BBY1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v06p1/persons#p_BERRYBY1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v06p2/persons#p_BERRYBY1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v08/persons#p_BBY1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v09p1/persons#p_BBY1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v09p2/persons#p_BBY1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v10/persons#p_BBY1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v11p1/persons#p_BBY1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v11p2/persons#p_BBY1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1901</birth-year>
+    <death-year>1985</death-year>
+    <remarks variants="8">
+        <remark source-urls="1">
+            <p>Foreign Service Officer. Ambassador Extraordinary and Plenipotentiary (Iraq).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/berry-burton-yost</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>United States Representative in Rumania.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv01/persons#p_BBY1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>American Representative in Rumania with the personal rank of Minister.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1945Malta/persons#p_BBY1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Deputy Assistant Secretary of State for Near Eastern, South Asian, and African Affairs, Department of State.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1951v03p1/persons#p_BBY1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1951v03p2/persons#p_BBY1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Deputy Assistant Secretary of the State for Near Eastern, South Asian, and African Affairs, from August 1950; Acting Assistant Secretary, from December 11, 1951.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1951v05/persons#p_BBY1</source-url>
+        </remark>
+        <remark source-urls="3">
+            <p>Acting Assistant Secretary of State for Near Eastern Affairs until June 1952.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v06p1/persons#p_BERRYBY1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v06p2/persons#p_BERRYBY1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v08/persons#p_BBY1</source-url>
+        </remark>
+        <remark source-urls="4">
+            <p>Deputy Assistant Secretary of State for Near Eastern, South Asian, and African Affairs until June 25, 1952; Ambassador to Iraq, August 11, 1952–May 3, 1954.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v09p1/persons#p_BBY1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v09p2/persons#p_BBY1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v11p1/persons#p_BBY1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v11p2/persons#p_BBY1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Acting Assistant Secretary of State for Near Eastern Affairs, December 1951–June 1952; Ambassador in Iraq, June 25, 1952–May 3, 1954.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v10/persons#p_BBY1</source-url>
+        </remark>
+    </remarks>
+</person>

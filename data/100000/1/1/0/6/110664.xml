@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>110664</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Pham Xuan Chieu</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="3">
+                <name>Pham Xuan Chieu</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v01/persons#p_PXC1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v02/persons#p_PXC1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v03/persons#p_PXC1</source-url>
+            </original>
+            <original source-urls="2">
+                <name>Chieu</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v02/persons#p_CHIEU1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v03/persons#p_Chieu1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="3">
+        <remark source-urls="1">
+            <p>General, Chief of Staff, ARVN</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v01/persons#p_PXC1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>see Pham Xuan Chieu</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v02/persons#p_CHIEU1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v03/persons#p_Chieu1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>General, ARVN, Member and Chairman of the National Legislative Council; Member of the National Leadership Committee</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v02/persons#p_PXC1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v03/persons#p_PXC1</source-url>
+        </remark>
+    </remarks>
+</person>

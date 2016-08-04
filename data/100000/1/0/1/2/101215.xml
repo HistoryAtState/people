@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>101215</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Bergeson, Alfred Echols</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="2">
+                <name>Bergesen, Alf E.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v27/persons#p_BAE1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve12/persons#p_bergesen-alf-e</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Bergesen, Alfred E.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v20/persons#p_BAE3</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Bergeson, Alf Echols</name>
+                <source-url>https://history.state.gov/departmenthistory/people/bergeson-alf-echols</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1924</birth-year>
+    <death-year>1995</death-year>
+    <remarks variants="4">
+        <remark source-urls="1">
+            <p>Charge d'Affaires ad interim to Cambodia, September 18, 1964–May 3, 1965</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v27/persons#p_BAE1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Acting Director for Thailand/Burma Affairs, Bureau of East Asian and Pacific Affairs, Department of State</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v20/persons#p_BAE3</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Deputy Director of the Office of Thailand and Burma Affairs</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve12/persons#p_bergesen-alf-e</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Foreign Service Officer. Chargé d'Affaires ad interim (Cambodia).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/bergeson-alf-echols</source-url>
+        </remark>
+    </remarks>
+</person>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>103909</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Elder, Walter</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="1">
+                <name>Elder, Walter</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v10/persons#p_EW1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="1">
+        <remark source-urls="1">
+            <p>Executive Assistant to the Director of Central Intelligence from April 1962</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v10/persons#p_EW1</source-url>
+        </remark>
+    </remarks>
+</person>

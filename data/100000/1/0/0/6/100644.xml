@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>100644</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Assad, Hafez</name>
+        </preferred>
+        <alternates/>
+        <originals variants="7">
+            <original source-urls="2">
+                <name>Asad, Hafez</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v15/persons#p_AH_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v38p2/persons#p_AH_1</source-url>
+            </original>
+            <original source-urls="5">
+                <name>al-Asad (Assad), Hafez</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v16/persons#p_AH_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v26/persons#p_AH_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v36/persons#p_AAH1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v06/persons#p_AAH_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v08/persons#p_AH_1</source-url>
+            </original>
+            <original source-urls="3">
+                <name>Assad, Hafez</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v23/persons#p_AH_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v18/persons#p_AH_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1981-88v03/persons#p_AAH_1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Asad, Hafez al-</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v25/persons#p_AH_1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>al-Assad (Asad), Hafiz</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v27/persons#p_AH_2</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Assad (Asad), Hafez</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v38p1/persons#p_AH_1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>al-Assad, Hafiz</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v21/persons#p_AH_1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="3">
+        <remark source-urls="3">
+            <p>Syrian President</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v15/persons#p_AH_1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v16/persons#p_AH_1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v38p1/persons#p_AH_1</source-url>
+        </remark>
+        <remark source-urls="10">
+            <p>President of Syria</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v23/persons#p_AH_1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v25/persons#p_AH_1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v26/persons#p_AH_1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v27/persons#p_AH_2</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v38p2/persons#p_AH_1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v06/persons#p_AAH_1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v08/persons#p_AH_1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v18/persons#p_AH_1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v21/persons#p_AH_1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1981-88v03/persons#p_AAH_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Syrian President from 1971</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v36/persons#p_AAH1</source-url>
+        </remark>
+    </remarks>
+</person>

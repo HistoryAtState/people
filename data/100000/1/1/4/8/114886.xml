@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>114886</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Yates, John Melvin</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="1">
+                <name>Yates, John Melvin</name>
+                <source-url>https://history.state.gov/departmenthistory/people/yates-john-melvin</source-url>
+            </original>
+            <original source-urls="1">
+                <name>John M. Yates</name>
+                <source-url>https://history.state.gov/departmenthistory/people/yates-john-melvin</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1939</birth-year>
+    <death-year/>
+    <remarks variants="1">
+        <remark source-urls="1">
+            <p>Foreign Service Officer. Ambassador Extraordinary and Plenipotentiary (Equatorial Guinea); Chargé d'Affaires ad interim (Congo (Kinshasa)); Ambassador Extraordinary and Plenipotentiary (Cape Verde); Ambassador Extraordinary and Plenipotentiary (Cameroon); Ambassador Extraordinary and Plenipotentiary (Benin).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/yates-john-melvin</source-url>
+        </remark>
+    </remarks>
+</person>

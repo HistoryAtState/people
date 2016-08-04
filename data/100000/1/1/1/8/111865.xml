@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>111865</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Samford, John</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="1">
+                <name>Samford, Lieutenant General John</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1950-55Intel/persons#p_SLGJ1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="1">
+            <title source-urls="1">
+                <name>Lieutenant General</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1950-55Intel/persons#p_SLGJ1</source-url>
+            </title>
+        </titles-from-name>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="1">
+        <remark source-urls="1">
+            <p>USAF, Director of Intelligence for the United States Air Force from 1952 to 1956; Director, National Security Agency from November 1956 to November 1960</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1950-55Intel/persons#p_SLGJ1</source-url>
+        </remark>
+    </remarks>
+</person>

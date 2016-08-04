@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>114549</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Wickham, John A., Jr.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="4">
+            <original source-urls="2">
+                <name>Wickham, John</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v09/persons#p_WJ_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v36/persons#p_WJ3</source-url>
+            </original>
+            <original source-urls="5">
+                <name>Wickham, John A., Jr.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v10/persons#p_WJA1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v27/persons#p_WJA_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v33/persons#p_WJA_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v35/persons#p_WJA_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve14p2/persons#p_WJA_1</source-url>
+            </original>
+            <original source-urls="2">
+                <name>Wickham, Major General John, Jr.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v39/persons#p_WMGJAJ1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve15p2/persons#p_WJJ_1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Wickham, Major General John A., Jr.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve15p1/persons#p_WMGJAJ1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="1">
+            <title source-urls="3">
+                <name>Major General</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v39/persons#p_WMGJAJ1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve15p1/persons#p_WMGJAJ1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve15p2/persons#p_WJJ_1</source-url>
+            </title>
+        </titles-from-name>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="10">
+        <remark source-urls="1">
+            <p>Brigadier General, USA, Deputy Chief, U.S. Delegation to the Four Party Joint Commission in Vietnam from January 27, 1973</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v09/persons#p_WJ_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Major General, USA, Military Assistant to the Secretary of Defense from 1974 until 1975</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v10/persons#p_WJA1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Major General, USA, Military Assistant to the Secretary of Defense</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v27/persons#p_WJA_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Major General, Senior Military Assistant to the Secretary of Defense from 1973 until 1976</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v33/persons#p_WJA_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Major General, USA; Senior Military Assistant to the Secretary of Defense from 1973 until 1976</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v35/persons#p_WJA_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Major General, USA; Military Assistant to the Secretary of Defense</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v36/persons#p_WJ3</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>USA, Military Assistant to Secretary of Defense Schlesinger from 1973 to 1976</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v39/persons#p_WMGJAJ1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Major General, USA; Deputy Chief of Staff for Economic Affairs, U.S. Military Assistance Command, Vietnam until 1973; aide to the Secretary of Defense from 1973 until 1976</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve14p2/persons#p_WJA_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Senior Military Assistant to the Secretary of Defense from 1973 to 1976</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve15p1/persons#p_WMGJAJ1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Senior Military Assistant to the Secretary of Defense from 1973 until 1976</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve15p2/persons#p_WJJ_1</source-url>
+        </remark>
+    </remarks>
+</person>

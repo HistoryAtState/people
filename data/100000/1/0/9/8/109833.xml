@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>109833</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Nhouy Abhay, Thao</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="1">
+                <name>Nhouy Abhay, Thao</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v21/persons#p_NAT1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Nhouy Abhay</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v16/persons#p_NA1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="2">
+        <remark source-urls="1">
+            <p>Minister of the Interior and Social Welfare of Laos from 1956 to August 1957; thereafter Minister of Education, Sports and Youth</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v21/persons#p_NAT1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Lao Deputy Prime Minister and Minister of National Education and Fine Arts, January–June 1960</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v16/persons#p_NA1</source-url>
+        </remark>
+    </remarks>
+</person>

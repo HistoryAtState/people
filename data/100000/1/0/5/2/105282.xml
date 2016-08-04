@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>105282</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Guhin, Michael A.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="4">
+                <name>Guhin, Michael A.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v32/persons#p_GMA1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v35/persons#p_GMA_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve02/persons#p_GMA1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve14p2/persons#p_GMA_1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="4">
+        <remark source-urls="1">
+            <p>member, National Security Council Operations staff, Scientific Affairs from 1969 until 1971</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v32/persons#p_GMA1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>member, National Security Council staff until December 1974</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v35/persons#p_GMA_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Member of the National Security Council Operations Staff, Scientific Affairs</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve02/persons#p_GMA1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>member, National Security Council staff until 1975; Assistant Director for Export-Import and Nuclear Safeguards, Nuclear Regulatory Commission from 1976</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve14p2/persons#p_GMA_1</source-url>
+        </remark>
+    </remarks>
+</person>

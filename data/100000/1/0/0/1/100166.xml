@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>100166</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Aidit, Dipa Nusantara</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="1">
+                <name>Aidit, Dipa N.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v17/persons#p_ADN1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Aidit Dipa Nusantara</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v23/persons#p_ADN1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Aidit, Dipa Nusantara</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v26/persons#p_ADN1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="3">
+        <remark source-urls="1">
+            <p>Chairman of the Communist Party of Indonesia (PKI)</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v17/persons#p_ADN1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>leader of the PKI (Partai Komunis Indonesia/Indonesian Communist Party)</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v23/persons#p_ADN1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Head of the Communist Party of Indonesia until October 1965</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v26/persons#p_ADN1</source-url>
+        </remark>
+    </remarks>
+</person>

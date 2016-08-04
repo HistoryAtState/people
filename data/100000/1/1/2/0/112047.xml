@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>112047</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Schindler, Alexander</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="2">
+                <name>Schindler, Alexander</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v01/persons#p_SA_2</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v08/persons#p_SA_2</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="2">
+        <remark source-urls="1">
+            <p>Rabbi; President, Union of American Hebrew Congregations</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v01/persons#p_SA_2</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>President of the Union of American Hebrew Congregations from 1973; Chairman of the Conference of Presidents of Major American Jewish Organizations</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v08/persons#p_SA_2</source-url>
+        </remark>
+    </remarks>
+</person>

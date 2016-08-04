@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>100309</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Allen, Roger</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="1">
+                <name>Allen, Roger</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v05/persons#p_AR1</source-url>
+            </original>
+            <original source-urls="5">
+                <name>Allen, Sir Roger</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v09p1/persons#p_ASR1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v09p2/persons#p_ASR1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v10p1/persons#p_ASR1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v10p2/persons#p_ASR1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v34/persons#p_ASR1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="1">
+            <title source-urls="5">
+                <name>Sir</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v09p1/persons#p_ASR1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v09p2/persons#p_ASR1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v10p1/persons#p_ASR1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v10p2/persons#p_ASR1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v34/persons#p_ASR1</source-url>
+            </title>
+        </titles-from-name>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="4">
+        <remark source-urls="1">
+            <p>Head, African Department, British Foreign Office.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1951v05/persons#p_AR1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Head of the African Department of the British Foreign Office until September 28, 1953; Assistant Under Secretary of State of the African, Eastern, and Levant Department, September 28, 1953–June 10, 1954; thereafter Deputy High Commissioner in the Federal Republic of Germany at Bonn.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v09p1/persons#p_ASR1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v09p2/persons#p_ASR1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>British Ambassador to Greece</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v10p1/persons#p_ASR1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v10p2/persons#p_ASR1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>British Ambassador to Iraq</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v34/persons#p_ASR1</source-url>
+        </remark>
+    </remarks>
+</person>

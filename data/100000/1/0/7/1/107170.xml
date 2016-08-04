@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>107170</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Kim Dae Jung</name>
+        </preferred>
+        <alternates>
+            <name>Kim Tae-jung</name>
+        </alternates>
+        <originals variants="4">
+            <original source-urls="1">
+                <name>Kim Dae Jung (Kim Tae-jung)</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v19p1/persons#p_KDJ1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Kim Dae-jung</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve12/persons#p_kim-dae-jung</source-url>
+            </original>
+            <original source-urls="1">
+                <name>President Kim Dae Jung</name>
+                <source-url>https://history.state.gov/departmenthistory/visits/korea-south</source-url>
+            </original>
+            <original source-urls="1">
+                <name>President Kim Dae-jung</name>
+                <source-url>https://history.state.gov/departmenthistory/visits/korea-south</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="4">
+        <remark source-urls="1">
+            <p>Korean opposition leader and New Democratic Party presidential candidate</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v19p1/persons#p_KDJ1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>member, South Korean National Assembly; Presidential candidate of New Democratic Party in 1971; leading opposition figure</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve12/persons#p_kim-dae-jung</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>President, Korea. Visited U.S. once, 1999</p>
+            <source-url>https://history.state.gov/departmenthistory/visits/korea-south</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>President, Korea. Visited U.S. 2 times, 1998–2000</p>
+            <source-url>https://history.state.gov/departmenthistory/visits/korea-south</source-url>
+        </remark>
+    </remarks>
+</person>

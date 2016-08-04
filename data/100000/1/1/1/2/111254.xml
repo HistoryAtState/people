@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>111254</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Reid, Whitelaw</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="1">
+                <name>Reid, Whitelaw</name>
+                <source-url>https://history.state.gov/departmenthistory/people/reid-whitelaw</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1837</birth-year>
+    <death-year>1912</death-year>
+    <remarks variants="1">
+        <remark source-urls="1">
+            <p>Non-career appointee. Ambassador Extraordinary and Plenipotentiary (United Kingdom); Envoy Extraordinary and Minister Plenipotentiary (France).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/reid-whitelaw</source-url>
+        </remark>
+    </remarks>
+</person>

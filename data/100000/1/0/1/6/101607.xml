@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>101607</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Bourguiba, Habib Ben Ali, Jr.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="4">
+                <name>Bourguiba, Habib, Jr.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v17/persons#p_BHJ2</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v18/persons#p_BHJ2</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v24/persons#p_BHJ2</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve05p2/persons#p_BHJ1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="3">
+        <remark source-urls="2">
+            <p>Tunisian Ambassador to the United States</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v17/persons#p_BHJ2</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v18/persons#p_BHJ2</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Tunisian Secretary of State for Foreign Affairs from November 1964</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v24/persons#p_BHJ2</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Foreign Minister of Tunisia until June 1970</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve05p2/persons#p_BHJ1</source-url>
+        </remark>
+    </remarks>
+</person>

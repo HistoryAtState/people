@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>109769</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Ngo Dinh Nhu</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="9">
+                <name>Ngo Dinh Nhu</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v01/persons#p_NDN1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v21/persons#p_NDN1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v01/persons#p_NDN1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v16/persons#p_NDN1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v01/persons#p_NDN1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v02/persons#p_NDN1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v03/persons#p_NDN1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v04/persons#p_NDN1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v23/persons#p_NDN1</source-url>
+            </original>
+            <original source-urls="5">
+                <name>Nhu</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v01/persons#p_NHU1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v16/persons#p_Nhu1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v03/persons#p_NHU1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v04/persons#p_NHU1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v23/persons#p_N1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="9">
+        <remark source-urls="1">
+            <p>Secretary-General of the Personalist Labor Revolutionary Party of Vietnam; brother and adviser to Ngo Dinh Diem</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v01/persons#p_NDN1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Secretary-General of the Personalist Revolutionary Workers Party of Vietnam; brother and adviser to Ngo Dinh Diem</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v21/persons#p_NDN1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Secretary-General of the Personalist Revolutionary Workers Party of Vietnam; brother and counselor to Ngo Dinh Diem</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v01/persons#p_NDN1</source-url>
+        </remark>
+        <remark source-urls="5">
+            <p>see Ngo Dinh Nhu</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v01/persons#p_NHU1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v16/persons#p_Nhu1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v03/persons#p_NHU1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v04/persons#p_NHU1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v23/persons#p_N1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>brother of and Counselor to President Ngo Dinh Diem</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v16/persons#p_NDN1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>brother of President Diem and Political Adviser to the President</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v01/persons#p_NDN1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>President Diem 's brother and Political Adviser to the President</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v02/persons#p_NDN1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>brother of President Diem; Presidential Counselor and Head of the Interministerial Committee for Strategic Hamlets until November 1, 1963</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v03/persons#p_NDN1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v04/persons#p_NDN1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>brother and political adviser to President Ngo Dinh Diem until November 1, 1963</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v23/persons#p_NDN1</source-url>
+        </remark>
+    </remarks>
+</person>

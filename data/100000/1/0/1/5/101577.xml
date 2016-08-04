@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>101577</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Boster, Davis Eugene</name>
+        </preferred>
+        <alternates/>
+        <originals variants="6">
+            <original source-urls="1">
+                <name>Booster, Davis E.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1950-55Intel/persons#p_BDE1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Boster, David E.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v03/persons#p_BDE2</source-url>
+            </original>
+            <original source-urls="3">
+                <name>Boster, Davis E.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v05/persons#p_BDE1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v31/persons#p_BDE2</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve08/persons#p_BDE2</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Boster, Davis</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v39/persons#p_BDE2</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Boster, Davis Eugene</name>
+                <source-url>https://history.state.gov/departmenthistory/people/boster-davis-eugene</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Davis E. Boster</name>
+                <source-url>https://history.state.gov/departmenthistory/people/boster-davis-eugene</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1920</birth-year>
+    <death-year>2005</death-year>
+    <remarks variants="6">
+        <remark source-urls="2">
+            <p>Staff Assistant to Secretary of State Dulles</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1950-55Intel/persons#p_BDE1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v03/persons#p_BDE2</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Officer in Charge of Bilateral Political Relations, Office of Soviet Union Affairs, Bureau of European Affairs, Department of State, 1961</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v05/persons#p_BDE1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>special assistant to the Assistant Secretary of State for Inter-American Affairs January 1964–April 1965</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v31/persons#p_BDE2</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Special Assistant to the Assistant Secretary of State for European Affairs and Chief of the United States Delegation to the CSCE from October 1973 to March 1974</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v39/persons#p_BDE2</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>U.S. Ambassador to Bangladesh from 1974 to 1976</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve08/persons#p_BDE2</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Foreign Service Officer. Ambassador Extraordinary and Plenipotentiary (Guatemala); Ambassador Extraordinary and Plenipotentiary (Bangladesh).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/boster-davis-eugene</source-url>
+        </remark>
+    </remarks>
+</person>

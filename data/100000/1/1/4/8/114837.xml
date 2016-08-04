@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>114837</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Wygant, Michael Gordon</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="1">
+                <name>Wygant, Michael Gordon</name>
+                <source-url>https://history.state.gov/departmenthistory/people/wygant-michael-gordon</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Michael G. Wygant</name>
+                <source-url>https://history.state.gov/departmenthistory/people/wygant-michael-gordon</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1936</birth-year>
+    <death-year/>
+    <remarks variants="1">
+        <remark source-urls="1">
+            <p>Foreign Service Officer. Representative (Micronesia, Federated States of).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/wygant-michael-gordon</source-url>
+        </remark>
+    </remarks>
+</person>

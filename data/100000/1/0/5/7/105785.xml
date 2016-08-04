@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>105785</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Helman, Gerald B.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="3">
+                <name>Helman, Gerald B.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve14p1/persons#p_HGB1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v02/persons#p_HGB_1</source-url>
+                <source-url>https://history.state.gov/departmenthistory/people/helman-gerald-b</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Gerald Bernard Helman</name>
+                <source-url>https://history.state.gov/departmenthistory/people/helman-gerald-b</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1932</birth-year>
+    <death-year/>
+    <remarks variants="3">
+        <remark source-urls="1">
+            <p>Director, Office of United Nations Political Affairs, Bureau of International Organization Affairs, Department of State</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve14p1/persons#p_HGB1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Director, Office of United Nations Political Affairs, Office of the Deputy Assistant Secretary for Political and Multilateral Affairs, Bureau of International Organization Affairs, Department of State, until 1978; Deputy Assistant Secretary of State for Political and Multilateral Affairs, Bureau of International Organization Affairs, from 1978 until 1979; U.S. Representative to the European Office of the United Nations from December 6, 1979</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v02/persons#p_HGB_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Foreign Service Officer. Representative of the U.S.A. to the European Office of the United Nations (Geneva).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/helman-gerald-b</source-url>
+        </remark>
+    </remarks>
+</person>

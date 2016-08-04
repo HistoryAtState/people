@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>100057</id>
+    <authorities>
+        <authority service="viaf">85569020</authority>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Abrams, Elliott</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="3">
+                <name>Abrams, Elliott</name>
+                <source-url>https://history.state.gov/departmenthistory/people/abrams-elliott</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1981-88v03/persons#p_AE_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1981-88v13/persons#p_AE_1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1948</birth-year>
+    <death-year/>
+    <remarks variants="3">
+        <remark source-urls="1">
+            <p>Non-career appointee. Assistant Secretary of State for International Organization Affairs; Assistant Secretary of State for Western Hemisphere Affairs; Assistant Secretary of State for Democracy, Human Rights, and Labor.</p>
+            <source-url>https://history.state.gov/departmenthistory/people/abrams-elliott</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Assistant Secretary of State for Human Rights and Humanitarian Affairs from December 1981 until July 1985</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1981-88v03/persons#p_AE_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Assistant Secretary of State for Human Rights and Humanitarian Affairs from December 12, 1981</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1981-88v13/persons#p_AE_1</source-url>
+        </remark>
+    </remarks>
+</person>

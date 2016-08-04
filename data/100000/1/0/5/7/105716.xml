@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>105716</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Hayes, Rutherford B.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="1">
+                <name>Rutherford B. Hayes</name>
+                <source-url>https://history.state.gov/cms/apps/presidents/data/presidents.xml#hayes-rutherford-b</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1822</birth-year>
+    <death-year>1893</death-year>
+    <remarks variants="1">
+        <remark source-urls="1">
+            <p>President of the United States, from March 4, 1877 until March 4, 1881</p>
+            <source-url>https://history.state.gov/cms/apps/presidents/data/presidents.xml#hayes-rutherford-b</source-url>
+        </remark>
+    </remarks>
+</person>

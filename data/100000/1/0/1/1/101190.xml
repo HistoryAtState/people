@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>101190</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Bensinger, Peter B.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="1">
+                <name>Bensinger, Peter B.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve03/persons#p_BPB1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="1">
+        <remark source-urls="1">
+            <p>Acting Administrator, Drug Enforcement Administration, Department of Justice, from January 23, 1976 until February 23, 1976; thereafter Administrator, Drug Enforcement Administration, Department of Justice</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve03/persons#p_BPB1</source-url>
+        </remark>
+    </remarks>
+</person>

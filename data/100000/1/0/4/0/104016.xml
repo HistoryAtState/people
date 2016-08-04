@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>104016</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Erhardt, John George</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="3">
+                <name>Erhardt, John George</name>
+                <source-url>https://history.state.gov/departmenthistory/people/erhardt-john-george</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv02/persons#p_EJG1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v05/persons#p_EJG1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>John G. Erhardt</name>
+                <source-url>https://history.state.gov/departmenthistory/people/erhardt-john-george</source-url>
+            </original>
+            <original source-urls="4">
+                <name>Erhardt, John G.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv01/persons#p_EJG1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1947v02/persons#p_EJG1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1948v02/persons#p_EJG1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1949v03/persons#p_EJG1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1889</birth-year>
+    <death-year>1951</death-year>
+    <remarks variants="6">
+        <remark source-urls="1">
+            <p>Foreign Service Officer. Ambassador Extraordinary and Plenipotentiary (South Africa); Envoy Extraordinary and Minister Plenipotentiary (Austria).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/erhardt-john-george</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Political Adviser on Austrian Affairs to the Commanding General, United States Army Forces, Mediterranean Theater.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv01/persons#p_EJG1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv02/persons#p_EJG1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>United States Minister in Austria; Political Adviser to the United States High Commissioner for Austria</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1947v02/persons#p_EJG1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>United States Minister in Austria</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1948v02/persons#p_EJG1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>United States Minister in Austria.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1949v03/persons#p_EJG1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Ambassador to the Union of South Africa, 1950–1951; died February 18, 1951.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1951v05/persons#p_EJG1</source-url>
+        </remark>
+    </remarks>
+</person>

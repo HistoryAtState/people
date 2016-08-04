@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>102415</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Charles I</name>
+        </preferred>
+        <alternates>
+            <name>Charles IV</name>
+        </alternates>
+        <originals variants="1">
+            <original source-urls="1">
+                <name>Charles I (IV)</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1916Supp/persons#p_CI1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="1">
+        <remark source-urls="1">
+            <p>Emperor of Austria and King of Hungary (Nov. 21 and Dec. 30, 1916, respectively).</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1916Supp/persons#p_CI1</source-url>
+        </remark>
+    </remarks>
+</person>

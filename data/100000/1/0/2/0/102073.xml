@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>102073</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Cadwalader, John Lambert</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="1">
+                <name>Cadwalader, John Lambert</name>
+                <source-url>https://history.state.gov/departmenthistory/people/cadwalader-john-lambert</source-url>
+            </original>
+            <original source-urls="1">
+                <name>John L. Cadwalader</name>
+                <source-url>https://history.state.gov/departmenthistory/people/cadwalader-john-lambert</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1836</birth-year>
+    <death-year>1914</death-year>
+    <remarks variants="1">
+        <remark source-urls="1">
+            <p>Non-career appointee. Assistant Secretary of State.</p>
+            <source-url>https://history.state.gov/departmenthistory/people/cadwalader-john-lambert</source-url>
+        </remark>
+    </remarks>
+</person>

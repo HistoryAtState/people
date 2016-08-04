@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>100679</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Austad, Marcus Jacob (Mark Evans)</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="1">
+                <name>Austad, Mark E .</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve15p1/persons#p_AME2</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Austad, Marcus Jacob (Mark Evans)</name>
+                <source-url>https://history.state.gov/departmenthistory/people/austad-marcus-jacob-mark-evans</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Mark Evans Austad</name>
+                <source-url>https://history.state.gov/departmenthistory/people/austad-marcus-jacob-mark-evans</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1917</birth-year>
+    <death-year>1988</death-year>
+    <remarks variants="2">
+        <remark source-urls="1">
+            <p>Ambassador to Finland from March 20, 1975 to April 14, 1977</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve15p1/persons#p_AME2</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Non-career appointee. Ambassador Extraordinary and Plenipotentiary (Norway); Ambassador Extraordinary and Plenipotentiary (Finland).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/austad-marcus-jacob-mark-evans</source-url>
+        </remark>
+    </remarks>
+</person>

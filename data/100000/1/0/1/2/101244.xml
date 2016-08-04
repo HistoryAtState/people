@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>101244</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Bernstein, Bernard</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="1">
+                <name>Bernstein, Bernard</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1946v03/persons#p_BEB1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="1">
+        <remark source-urls="1">
+            <p>Chairman, Working Committee of Jewish Organizations at the Paris Peace Conference; Financial Adviser to the Supreme Commander, Allied Forces in Europe (Eisenhower), for Civil Affairs and Military Government, 1944–1945</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1946v03/persons#p_BEB1</source-url>
+        </remark>
+    </remarks>
+</person>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>107876</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Letelier del Solar, Orlando</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="3">
+                <name>Letelier del Solar, Orlando</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v21/persons#p_LSO_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve11p2/persons#p_LSMO_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve16/persons#p_LSO_1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="3">
+        <remark source-urls="1">
+            <p>Chilean Ambassador to the United States from 1970 until May 5, 1973; Chilean Foreign Minister from May 5 until August 9, 1973; Minister of Interior from August 9 until August 27, 1973; Minister of Defense from August 27 until September 11, 1973</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v21/persons#p_LSO_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Chilean Ambassador to the United States from 1971 until 1973; Foreign Minister from 1973; Staff Member, Institute for Policy Studies, from 1974 until his assassination on September 21, 1976</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve11p2/persons#p_LSMO_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Chilean Ambassador to the United States from 1970 until May 5, 1973; Chilean Foreign Minister from May 5 to August 9, 1973; Minister of Interior from August 9 to August 27, 1973; Minister of Defense from August 27 to September 11, 1973</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve16/persons#p_LSO_1</source-url>
+        </remark>
+    </remarks>
+</person>

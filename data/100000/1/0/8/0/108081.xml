@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>108081</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Long, Boaz Walton</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="1">
+                <name>Long, Boaz Walton</name>
+                <source-url>https://history.state.gov/departmenthistory/people/long-boaz-walton</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Boaz W. Long</name>
+                <source-url>https://history.state.gov/departmenthistory/people/long-boaz-walton</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Boaz Long</name>
+                <source-url>https://history.state.gov/departmenthistory/people/long-boaz-walton</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1876</birth-year>
+    <death-year>1962</death-year>
+    <remarks variants="1">
+        <remark source-urls="1">
+            <p>Non-career appointee. Envoy Extraordinary and Minister Plenipotentiary (Nicaragua); Ambassador Extraordinary and Plenipotentiary (Guatemala); Envoy Extraordinary and Minister Plenipotentiary (El Salvador); Envoy Extraordinary and Minister Plenipotentiary (Ecuador); Ambassador Extraordinary and Plenipotentiary (Ecuador); Envoy Extraordinary and Minister Plenipotentiary (Cuba).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/long-boaz-walton</source-url>
+        </remark>
+    </remarks>
+</person>

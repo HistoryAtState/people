@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>107418</id>
+    <authorities>
+        <authority service="viaf">61667490</authority>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Krag, Jens Otto</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="6">
+                <name>Krag, Jens Otto</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v07p1/persons#p_KJO1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v07p2/persons#p_KJO1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v12/persons#p_KJO1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v13/persons#p_KJO1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v14/persons#p_KJO1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v15/persons#p_KJO1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Prime Minister Jens Otto Krag</name>
+                <source-url>https://history.state.gov/departmenthistory/visits/denmark</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Prime Minister Krag</name>
+                <source-url>https://history.state.gov/departmenthistory/visits/denmark</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="7">
+        <remark source-urls="2">
+            <p>Danish Foreign Minister and Minister of Foreign Economic Relations from October 1958</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v07p1/persons#p_KJO1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v07p2/persons#p_KJO1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Prime Minister of Denmark until January 24, 1968; also Danish Foreign Minister, November 28, 1966-October 1, 1967</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v12/persons#p_KJO1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Danish Prime Minister</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v13/persons#p_KJO1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Danish Prime Minister until January 24, 1968; also Danish Foreign Minister, November 28, 1966–October 1, 1967</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v14/persons#p_KJO1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Danish Prime Minister until January 24, 1968; also Danish Foreign Minister, November 28,1966–October 1, 1967</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v15/persons#p_KJO1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Prime Minister, Denmark. Visited U.S. 3 times, 1966–1967</p>
+            <source-url>https://history.state.gov/departmenthistory/visits/denmark</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Prime Minister, Denmark. Visited U.S. 2 times, 1963–1964</p>
+            <source-url>https://history.state.gov/departmenthistory/visits/denmark</source-url>
+        </remark>
+    </remarks>
+</person>

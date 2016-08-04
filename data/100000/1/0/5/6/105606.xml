@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>105606</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Hart, Charles Calmer</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="1">
+                <name>Hart, Charles Calmer</name>
+                <source-url>https://history.state.gov/departmenthistory/people/hart-charles-calmer</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Charles C. Hart</name>
+                <source-url>https://history.state.gov/departmenthistory/people/hart-charles-calmer</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1878</birth-year>
+    <death-year>1956</death-year>
+    <remarks variants="1">
+        <remark source-urls="1">
+            <p>Non-career appointee. Envoy Extraordinary and Minister Plenipotentiary (Iran); Envoy Extraordinary and Minister Plenipotentiary (Albania).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/hart-charles-calmer</source-url>
+        </remark>
+    </remarks>
+</person>

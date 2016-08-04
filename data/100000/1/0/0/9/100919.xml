@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>100919</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Barran, David H.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="1">
+                <name>Barran, David H.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v36/persons#p_BDH1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="1">
+        <remark source-urls="1">
+            <p>Chairman, Committee of Managing Directors, Royal Dutch Shell</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v36/persons#p_BDH1</source-url>
+        </remark>
+    </remarks>
+</person>

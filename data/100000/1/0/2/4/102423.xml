@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>102423</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Chase, Gordon</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="6">
+                <name>Chase, Gordon</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v11/persons#p_CG4</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v24/persons#p_CG4</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v30/persons#p_CG1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v31/persons#p_CG1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v32/persons#p_CG1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v33/persons#p_CG4</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="6">
+        <remark source-urls="1">
+            <p>National Security Council Staff member</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v11/persons#p_CG4</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>member, National Security Council Staff, until January 1966</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v24/persons#p_CG4</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>staff member, National Security Council, until January 1966</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v30/persons#p_CG1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>member of the National Security Council staff until January 1966</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v31/persons#p_CG1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>member, National Security Council staff until January 1966; thereafter McGeorge Bundy 's personal assistant</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v32/persons#p_CG1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>member of the National Security Council Staff until January 1966</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v33/persons#p_CG4</source-url>
+        </remark>
+    </remarks>
+</person>

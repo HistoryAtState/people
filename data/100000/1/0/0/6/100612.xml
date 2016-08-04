@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>100612</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Arthur, Lawrence L.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="1">
+                <name>Arthur, Lawrence L.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v02/persons#p_ALL_1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="1">
+        <remark source-urls="1">
+            <p>Refugee and Migration Officer, Office of Refugee and Migration Affairs, Bureau of Human Rights and Humanitarian Affairs, Department of State, from 1977 until 1979; Asylum Officer, Office of Human Rights, Bureau of Human Rights and Humanitarian Affairs, from 1979; Chief, Asylum Unit, Office of Human Rights, Bureau of Human Rights and Humanitarian Affairs, from 1980</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v02/persons#p_ALL_1</source-url>
+        </remark>
+    </remarks>
+</person>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>109546</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Murdani, Benjamin</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="1">
+                <name>Moerdani, Benjamin</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve12/persons#p_moerdani-benjamin_alt1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Murdani, Benjamin</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve12/persons#p_murdani-benjamin</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="2">
+        <remark source-urls="1">
+            <p>see Murdani, Benjamin</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve12/persons#p_moerdani-benjamin_alt1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Major general and Chief of Intelligence for the Indonesian Department of Defense and Security</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve12/persons#p_murdani-benjamin</source-url>
+        </remark>
+    </remarks>
+</person>

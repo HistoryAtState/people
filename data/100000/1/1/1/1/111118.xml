@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>111118</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Rallis, Georgios</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="1">
+                <name>Rallis, George</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v16/persons#p_RG1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Rallis, Georgios</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v21/persons#p_RG_1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="2">
+        <remark source-urls="1">
+            <p>Greek Minister of Public Order, April 1967</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v16/persons#p_RG1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Greek Foreign Minister until May 1980; Prime Minister from May 1980 until October 1981</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v21/persons#p_RG_1</source-url>
+        </remark>
+    </remarks>
+</person>

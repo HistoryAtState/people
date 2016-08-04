@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>102837</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Cooper, John Sherman</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="8">
+                <name>Cooper, John Sherman</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v02/persons#p_CJS1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v03/persons#p_CJS1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v08/persons#p_CJS1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v07/persons#p_CJS1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v15/persons#p_CJS_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v20/persons#p_CJS1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve15p1/persons#p_CJS1</source-url>
+                <source-url>https://history.state.gov/departmenthistory/people/cooper-john-sherman</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1901</birth-year>
+    <death-year>1991</death-year>
+    <remarks variants="6">
+        <remark source-urls="3">
+            <p>Ambassador to India, April 1955–April 1956; Republican Senator from Kentucky from January 1957</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v02/persons#p_CJS1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v03/persons#p_CJS1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v08/persons#p_CJS1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Republican Senator from Kentucky, member of the Senate Foreign Relations Committee</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v07/persons#p_CJS1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Senator (R–Kentucky) until January 1973; U.S. Ambassador to the German Democratic Republic from December 1974</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v15/persons#p_CJS_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Senator (R–Kentucky)</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v20/persons#p_CJS1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Ambassador to the German Democratic Republic from September 19, 1974 to September 28, 1976</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve15p1/persons#p_CJS1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Non-career appointee. Ambassador Extraordinary and Plenipotentiary (Nepal); Ambassador Extraordinary and Plenipotentiary (India); Ambassador Extraordinary and Plenipotentiary (German Democratic Republic).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/cooper-john-sherman</source-url>
+        </remark>
+    </remarks>
+</person>

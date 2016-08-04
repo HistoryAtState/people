@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>110448</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Patterson, Robert P.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="5">
+                <name>Patterson, Robert P.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945-50Intel/persons#p_PRP1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv01/persons#p_PRP1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv02/persons#p_PRP1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1946v03/persons#p_PR1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1947v02/persons#p_PRP1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="4">
+        <remark source-urls="1">
+            <p>Secretary of War, September 27, 1945-July 18, 1947</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1945-50Intel/persons#p_PRP1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Under Secretary of War.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv01/persons#p_PRP1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv02/persons#p_PRP1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Secretary of War</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1946v03/persons#p_PR1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Secretary of War, September 1945–July 1947</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1947v02/persons#p_PRP1</source-url>
+        </remark>
+    </remarks>
+</person>

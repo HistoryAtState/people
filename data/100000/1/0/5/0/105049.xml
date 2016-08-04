@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>105049</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Gore, Albert, Sr.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="1">
+                <name>Gore, Albert E.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v01/persons#p_GAE1</source-url>
+            </original>
+            <original source-urls="8">
+                <name>Gore, Albert</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v03/persons#p_GAE2</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v13/persons#p_GA1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v07/persons#p_GAE2</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v17/persons#p_GAE2</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v18/persons#p_GAE2</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v04/persons#p_GA1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v06/persons#p_GA1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v11/persons#p_GAE2</source-url>
+            </original>
+            <original source-urls="2">
+                <name>Gore, Albert, Sr.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v32/persons#p_GA1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v28/persons#p_GAS_1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="9">
+        <remark source-urls="1">
+            <p>Senator from Tennessee, member of the Subcommittee on State Department Organization and Public Affairs, Senate Foreign Relations Committee</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v01/persons#p_GAE1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Democratic Senator from Tennessee; member, Joint Committee on Atomic Energy</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v03/persons#p_GAE2</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Democratic Senator from Tennessee</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v13/persons#p_GA1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v07/persons#p_GAE2</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Democratic Senator from Tennessee; Chairman, Near East Subcommittee of the Senate Foreign Relations Committee</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v17/persons#p_GAE2</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v18/persons#p_GAE2</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Senator (D-Tennessee)</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v04/persons#p_GA1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Senator (Democrat-Tennessee)</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v06/persons#p_GA1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Democratic Senator from Tennessee; Chairman, Disarmament Subcommittee of the Senate Foreign Relations Committee</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v11/persons#p_GAE2</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Senator (D–Tennessee)</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v32/persons#p_GA1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>member of the Intelligence Oversight Board from May 1977</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v28/persons#p_GAS_1</source-url>
+        </remark>
+    </remarks>
+</person>

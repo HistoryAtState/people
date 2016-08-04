@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>111752</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Russell, Richard B., Jr.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="14">
+                <name>Russell, Richard B.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v09/persons#p_RRB1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v10/persons#p_RRB2</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v17/persons#p_RRB1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v04/persons#p_RRB1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v07/persons#p_RRB1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v04/persons#p_RRB1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v05/persons#p_RRB1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v07/persons#p_RRB1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v14/persons#p_RRB1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v15/persons#p_RRB1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v31/persons#p_RRB1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v07/persons#p_RRB1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v20/persons#p_RRB1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v29/persons#p_RRB1</source-url>
+            </original>
+            <original source-urls="3">
+                <name>Russell, Richard</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v01/persons#p_RR1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v06/persons#p_RR2</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v26/persons#p_RRB1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Russell, Richard B., Jr.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v23/persons#p_RRB_1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="15">
+        <remark source-urls="2">
+            <p>Democratic Senator from Georgia; second ranking Democrat, Senate Appropriations Committee</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v09/persons#p_RRB1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v10/persons#p_RRB2</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Democratic Senator from Georgia; Chairman of the Senate Armed Services Committee; Member of the Senate Appropriations Committee</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v17/persons#p_RRB1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Democratic Senator from Georgia</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v04/persons#p_RRB1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v07/persons#p_RRB1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Senator (D–GA), member, Senate Armed Services Committee</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v01/persons#p_RR1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Senator (D-Georgia), Chairman of the Senate Armed Services Committee</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v04/persons#p_RRB1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Senator (D–GA), Chairman of the Senate Armed Services Committee</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v05/persons#p_RRB1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Senator (Democrat-Georgia)</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v06/persons#p_RR2</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Senator (D-Georgia)</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v07/persons#p_RRB1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Democratic Senator from Georgia; Chairman of the Senate Armed Services Committee</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v14/persons#p_RRB1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Senator (D-Georgia); Chairman of the Senate Armed Services Committee</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v15/persons#p_RRB1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Senator (Democratic) from Georgia</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v26/persons#p_RRB1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Senator (Democrat–Georgia); Chairman of the Senate Armed Services Committee</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v31/persons#p_RRB1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Democratic Senator from Georgia and Chair of the Appropriations Committee</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v07/persons#p_RRB1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Senator (D–Georgia)</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v20/persons#p_RRB1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v29/persons#p_RRB1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Senator (D-Georgia) from January 12, 1933</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v23/persons#p_RRB_1</source-url>
+        </remark>
+    </remarks>
+</person>

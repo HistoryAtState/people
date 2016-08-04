@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>104519</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Fraser, Arvonne</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="2">
+                <name>Fraser, Arvonne</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve14p1/persons#p_FA7</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v02/persons#p_FA_1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="2">
+        <remark source-urls="1">
+            <p>former President, Women’s Equity Action League; Alternate U.S. Representative to the United Nations World Conference of the International Women’s Year</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve14p1/persons#p_FA7</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Coordinator, Office of Women in Development (stand-alone office until 1978; thereafter Bureau for Program and Policy Coordination) Agency for International Development; member, U.S. Delegation to the 1980 United Nations World Conference on Women</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v02/persons#p_FA_1</source-url>
+        </remark>
+    </remarks>
+</person>

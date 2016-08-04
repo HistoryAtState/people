@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>112164</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Seaborg, Glenn T.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="15">
+                <name>Seaborg, Glenn T.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v05/persons#p_SGT1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v07/persons#p_SGT1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v13/persons#p_SGT1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v25/persons#p_SGT1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v10/persons#p_SGT1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v11/persons#p_SGT1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v12/persons#p_SGT1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v20/persons#p_SGT1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v34/persons#p_SGT1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v17/persons#p_SGT1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v32/persons#p_SGT1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v34/persons#p_SGT1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve02/persons#p_SGT1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve13/persons#p_SGT1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve14p2/persons#p_SGT_1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Seaborg, Glen T.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v29/persons#p_SGT1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Seaborg, Dr. Glen T.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve01/persons#p_SGT1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="1">
+            <title source-urls="1">
+                <name>Dr.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve01/persons#p_SGT1</source-url>
+            </title>
+        </titles-from-name>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="8">
+        <remark source-urls="1">
+            <p>Chairman of the Atomic Energy Commission from March 1961</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v05/persons#p_SGT1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Chairman of the Atomic Energy Commission from March 1, 1961</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v07/persons#p_SGT1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Chairman of the Atomic Energy Commission</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v13/persons#p_SGT1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v11/persons#p_SGT1</source-url>
+        </remark>
+        <remark source-urls="5">
+            <p>Chairman, Atomic Energy Commission</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v25/persons#p_SGT1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v10/persons#p_SGT1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v12/persons#p_SGT1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v20/persons#p_SGT1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v34/persons#p_SGT1</source-url>
+        </remark>
+        <remark source-urls="4">
+            <p>Chairman, Atomic Energy Commission until 1971</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v17/persons#p_SGT1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v29/persons#p_SGT1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve13/persons#p_SGT1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve14p2/persons#p_SGT_1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Chairman, Atomic Energy Commission until August 1971</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v32/persons#p_SGT1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve02/persons#p_SGT1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Chairman of the Atomic Energy Commission until August 1971</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v34/persons#p_SGT1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Chair, Atomic Energy Commission until 1971</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve01/persons#p_SGT1</source-url>
+        </remark>
+    </remarks>
+</person>

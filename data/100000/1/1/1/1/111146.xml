@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>111146</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Randall, Harold M.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="3">
+                <name>Randall, Harold M.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v04/persons#p_RHM1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v06/persons#p_RHM1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v07/persons#p_RHM1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="2">
+        <remark source-urls="1">
+            <p>Counselor of Embassy for Economic Affairs in Mexico after January 19, 1950; Counselor of Embassy for Economic Affairs in Cuba after April 15, 1952.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v04/persons#p_RHM1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Office of Regional American Affairs, Bureau of Inter-American Affairs, Department of State, until August 22, 1955; thereafter, United States Representative to the Inter-American Economic and Social Council of the Organization of American States, with personal rank of Ambassador</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v06/persons#p_RHM1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v07/persons#p_RHM1</source-url>
+        </remark>
+    </remarks>
+</person>

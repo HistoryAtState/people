@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>112686</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Smythe, Hugh Heyne</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="2">
+                <name>Smythe, Hugh H.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v18/persons#p_SHH5</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v19/persons#p_SHH3</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Smythe, Hugh Heyne</name>
+                <source-url>https://history.state.gov/departmenthistory/people/smythe-hugh-heyne</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Hugh H. Smythe</name>
+                <source-url>https://history.state.gov/departmenthistory/people/smythe-hugh-heyne</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1913</birth-year>
+    <death-year/>
+    <remarks variants="3">
+        <remark source-urls="1">
+            <p>Ambassador to Syria, October 1965–June 6, 1967, when Syria severed diplomatic relations with the United States</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v18/persons#p_SHH5</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Ambassador to Syria until June 1967</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v19/persons#p_SHH3</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Non-career appointee. Ambassador Extraordinary and Plenipotentiary (Syria); Ambassador Extraordinary and Plenipotentiary (Malta).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/smythe-hugh-heyne</source-url>
+        </remark>
+    </remarks>
+</person>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>110144</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Osborne, John Eugene</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="3">
+                <name>Osborne, John E.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1914Supp/persons#p_OJE1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1915Supp/persons#p_OJE1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1916Supp/persons#p_OJE1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Osborne, John Eugene</name>
+                <source-url>https://history.state.gov/departmenthistory/people/osborne-john-eugene</source-url>
+            </original>
+            <original source-urls="1">
+                <name>John E. Osborne</name>
+                <source-url>https://history.state.gov/departmenthistory/people/osborne-john-eugene</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1858</birth-year>
+    <death-year>1943</death-year>
+    <remarks variants="2">
+        <remark source-urls="3">
+            <p>Assistant Secretary of State of the United States.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1914Supp/persons#p_OJE1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1915Supp/persons#p_OJE1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1916Supp/persons#p_OJE1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Non-career appointee. Assistant Secretary of State.</p>
+            <source-url>https://history.state.gov/departmenthistory/people/osborne-john-eugene</source-url>
+        </remark>
+    </remarks>
+</person>

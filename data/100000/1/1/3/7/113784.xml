@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>113784</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Tshombe, Moïse K.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="1">
+                <name>Tshombé, Moïse</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v14/persons#p_TM5</source-url>
+            </original>
+            <original source-urls="3">
+                <name>Tshombe, Moise</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v20/persons#p_MT1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v24/persons#p_TM5</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve06/persons#p_TM5</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Tshombe, Moïse K.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v23/persons#p_TMK_1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="5">
+        <remark source-urls="1">
+            <p>President of Katanga Province in the Republic of the Congo from June 1960; declared Katangan independence July 1960</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v14/persons#p_TM5</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>President of Katanga Province in the Republic of the Congo</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v20/persons#p_MT1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>President of Katanga Province in the Republic of the Congo; Prime Minister from July 10, 1964 until October 13, 1965</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v23/persons#p_TMK_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Prime Minister of the Congo, July 1964–October 1965</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v24/persons#p_TM5</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Leader of the Katanga (Zaire) separatist movement to 1969</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve06/persons#p_TM5</source-url>
+        </remark>
+    </remarks>
+</person>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>103058</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Curiel, Carolyn</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="1">
+                <name>Curiel, Carolyn</name>
+                <source-url>https://history.state.gov/departmenthistory/people/curiel-carolyn</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1954</birth-year>
+    <death-year/>
+    <remarks variants="1">
+        <remark source-urls="1">
+            <p>Non-career appointee. Ambassador Extraordinary and Plenipotentiary (Belize).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/curiel-carolyn</source-url>
+        </remark>
+    </remarks>
+</person>

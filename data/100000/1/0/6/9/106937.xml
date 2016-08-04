@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>106937</id>
+    <authorities>
+        <authority service="viaf">34469417</authority>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Kaunda, Kenneth David</name>
+        </preferred>
+        <alternates/>
+        <originals variants="4">
+            <original source-urls="5">
+                <name>Kaunda, Kenneth</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v23/persons#p_KKE_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v05/persons#p_KK1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v28/persons#p_KK_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve14p1/persons#p_KKD1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v02/persons#p_KK_1</source-url>
+            </original>
+            <original source-urls="3">
+                <name>Kaunda, Kenneth D.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v24/persons#p_KKD1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve05p1/persons#p_KKD1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve05p2/persons#p_KKD1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Kaunda, Kenneth David</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve06/persons#p_KKD1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>President Kenneth D. Kaunda</name>
+                <source-url>https://history.state.gov/departmenthistory/visits/zambia</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="6">
+        <remark source-urls="1">
+            <p>President of Zambia from 1964</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v23/persons#p_KKE_1</source-url>
+        </remark>
+        <remark source-urls="5">
+            <p>President of Zambia</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v24/persons#p_KKD1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v05/persons#p_KK1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve05p1/persons#p_KKD1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve05p2/persons#p_KKD1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v02/persons#p_KK_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>President of Zambia; President of the Organization of African Unity from September 1970 until June 1971</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v28/persons#p_KK_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>President of Zambia; Chairman of the Non-Aligned Movement from 1970 to 1973</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve06/persons#p_KKD1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>President of the Republic of Zambia</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve14p1/persons#p_KKD1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>President, Zambia. Visited U.S. 5 times, 1975–1989</p>
+            <source-url>https://history.state.gov/departmenthistory/visits/zambia</source-url>
+        </remark>
+    </remarks>
+</person>

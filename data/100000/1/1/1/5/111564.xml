@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>111564</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Rondon, Fernando Enrique</name>
+        </preferred>
+        <alternates/>
+        <originals variants="4">
+            <original source-urls="1">
+                <name>Rondon, Fernando</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve01/persons#p_RFE1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Rondon, Fernando E.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve06/persons#p_RFE1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Rondon, Fernando Enrique</name>
+                <source-url>https://history.state.gov/departmenthistory/people/rondon-fernando-enrique</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Fernando E. Rondon</name>
+                <source-url>https://history.state.gov/departmenthistory/people/rondon-fernando-enrique</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1936</birth-year>
+    <death-year/>
+    <remarks variants="3">
+        <remark source-urls="1">
+            <p>Member, National Security Council Staff</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve01/persons#p_RFE1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>member, National Security Council Staff from 1970 to 1973</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve06/persons#p_RFE1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Foreign Service Officer. Ambassador Extraordinary and Plenipotentiary (Madagascar); Ambassador Extraordinary and Plenipotentiary (Ecuador); Ambassador Extraordinary and Plenipotentiary (Comoros).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/rondon-fernando-enrique</source-url>
+        </remark>
+    </remarks>
+</person>

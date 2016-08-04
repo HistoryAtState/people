@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>112958</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Steinhardt, Laurence Adolph</name>
+        </preferred>
+        <alternates/>
+        <originals variants="4">
+            <original source-urls="2">
+                <name>Steinhardt, Laurence A.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1943CairoTehran/persons#p_SLA1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945Malta/persons#p_SLA1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Steinhardt, Laurence</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1947v02/persons#p_SL4</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Steinhardt, Laurence Adolph</name>
+                <source-url>https://history.state.gov/departmenthistory/people/steinhardt-laurence-adolph</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Laurence A. Steinhardt</name>
+                <source-url>https://history.state.gov/departmenthistory/people/steinhardt-laurence-adolph</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1892</birth-year>
+    <death-year>1950</death-year>
+    <remarks variants="4">
+        <remark source-urls="1">
+            <p>Ambassador in Turkey.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1943CairoTehran/persons#p_SLA1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>American Ambassador to Turkey.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1945Malta/persons#p_SLA1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>United States Ambassador in Czechoslovakia</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1947v02/persons#p_SL4</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Non-career appointee. Ambassador Extraordinary and Plenipotentiary (Turkey); Envoy Extraordinary and Minister Plenipotentiary (Sweden); Ambassador Extraordinary and Plenipotentiary (Russia); Ambassador Extraordinary and Plenipotentiary (Peru); Ambassador Extraordinary and Plenipotentiary (Czechoslovakia); Ambassador Extraordinary and Plenipotentiary (Canada).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/steinhardt-laurence-adolph</source-url>
+        </remark>
+    </remarks>
+</person>

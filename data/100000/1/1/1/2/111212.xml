@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>111212</id>
+    <authorities>
+        <authority service="viaf">67569269</authority>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Razak, Tun Abdul</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="1">
+                <name>Prime Minister Tun Abdul Razak</name>
+                <source-url>https://history.state.gov/departmenthistory/visits/malaysia</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="1">
+        <remark source-urls="1">
+            <p>Prime Minister, Malaysia. Visited U.S. once, 1971</p>
+            <source-url>https://history.state.gov/departmenthistory/visits/malaysia</source-url>
+        </remark>
+    </remarks>
+</person>

@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>102912</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Coulson, John Eltringham</name>
+        </preferred>
+        <alternates/>
+        <originals variants="6">
+            <original source-urls="1">
+                <name>Coulson, J. E.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv01/persons#p_CJE1</source-url>
+            </original>
+            <original source-urls="2">
+                <name>Coulson, John Eltringham</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv02/persons#p_CJE2</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v05/persons#p_CJE1</source-url>
+            </original>
+            <original source-urls="4">
+                <name>Coulson, John E.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v04/persons#p_CJE1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v10/persons#p_CJE1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v20/persons#p_CJE1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v27/persons#p_CJE1</source-url>
+            </original>
+            <original source-urls="4">
+                <name>Coulson, Sir John E.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v12/persons#p_CSJE1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v15/persons#p_CSJE1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v16/persons#p_CSJE1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v17/persons#p_CSJE1</source-url>
+            </original>
+            <original source-urls="2">
+                <name>Coulson, Sir John Eltringham</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v13/persons#p_CSJE1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v14/persons#p_CSJE1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Coulson, John E. (Sir John from March 1957)</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v24/persons#p_CJESJM1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="2">
+            <title source-urls="6">
+                <name>Sir</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v12/persons#p_CSJE1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v13/persons#p_CSJE1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v14/persons#p_CSJE1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v15/persons#p_CSJE1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v16/persons#p_CSJE1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v17/persons#p_CSJE1</source-url>
+            </title>
+            <title source-urls="1">
+                <name>Sir (from March 1957)</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v24/persons#p_CJESJM1</source-url>
+            </title>
+        </titles-from-name>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="7">
+        <remark source-urls="2">
+            <p>Acting Head, Economic Relations Department, British Foreign Office.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv01/persons#p_CJE1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv02/persons#p_CJE2</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>United Kingdom Alternate Representative at the United Nations.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1951v05/persons#p_CJE1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>British Minister to the United States, October 1955–summer 1957</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v04/persons#p_CJE1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v27/persons#p_CJE1</source-url>
+        </remark>
+        <remark source-urls="4">
+            <p>Assistant Under Secretary of State, British Foreign Office, until October 1955; Minister of the British Embassy in the United States from October 27, 1955</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v10/persons#p_CJE1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v13/persons#p_CSJE1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v14/persons#p_CSJE1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v15/persons#p_CSJE1</source-url>
+        </remark>
+        <remark source-urls="3">
+            <p>Minister of the British Embassy in the United States from October 27, 1955</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v12/persons#p_CSJE1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v16/persons#p_CSJE1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v17/persons#p_CSJE1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>British Assistant Under Secretary of State for Foreign Affairs until October 1955; Minister of the Embassy in the United States, October 1955–September 1957</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v20/persons#p_CJE1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>British Assistant Under-Secretary of State for Foreign Affairs until October 1955; Minister of the Embassy in the United States, October 1955–September 1957</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v24/persons#p_CJESJM1</source-url>
+        </remark>
+    </remarks>
+</person>

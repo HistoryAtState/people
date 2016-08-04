@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>109049</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Merino Castro, Jose T.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="3">
+                <name>Merino Castro, Jose T.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v21/persons#p_MCJT_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve11p2/persons#p_MCJT_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve16/persons#p_MCJT_1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="3">
+        <remark source-urls="1">
+            <p>Admiral, Chilean Director of Naval Services, 1969; Naval Squadron Commander from 1970; Intendant at Valparaiso Naval Base from 1972; member of ruling Military Junta from September 11, 1973</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v21/persons#p_MCJT_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Admiral, Delegate of the Chilean military junta from September 11, 1973, until June 27, 1974</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve11p2/persons#p_MCJT_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Admiral, Chilean Director of Naval Services, 1969; Naval Squadron Commander from 1970; Intendant at Valparaiso Naval Base from 1972; member of ruling military Junta from September 11, 1973</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve16/persons#p_MCJT_1</source-url>
+        </remark>
+    </remarks>
+</person>

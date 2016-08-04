@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>104461</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Foulkes, Charles</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="2">
+                <name>Foulkes, Charles</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v05p1/persons#p_FOULKESC1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v05p2/persons#p_FOULKESC1</source-url>
+            </original>
+            <original source-urls="2">
+                <name>Foulkes, General Charles</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v07p1/persons#p_FGC1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v07p2/persons#p_FGC1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="1">
+            <title source-urls="2">
+                <name>General</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v07p1/persons#p_FGC1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v07p2/persons#p_FGC1</source-url>
+            </title>
+        </titles-from-name>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="3">
+        <remark source-urls="1">
+            <p>Lieutenant General, Canadian Army; Chairman of the Canadian Joint Chief s of Staff from 1951.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v05p1/persons#p_FOULKESC1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Lieutenant General, Canadian Army; Chairman of the Canadian Joint Chiefs of Staff from 1951.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v05p2/persons#p_FOULKESC1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Chairman, Canadian Chiefs of Staff Committee</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v07p1/persons#p_FGC1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v07p2/persons#p_FGC1</source-url>
+        </remark>
+    </remarks>
+</person>

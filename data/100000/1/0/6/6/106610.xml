@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>106610</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Jha, Chandra Shekhar</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="1">
+                <name>Jha, C. S.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v25/persons#p_JCS1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Jha, Chandra Shekhar</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v25/persons#p_JCS1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="2">
+        <remark source-urls="1">
+            <p>Permanent Representative of India at the United Nations, 1961; Chairman of the UN Human Rights Commission, 1961</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v25/persons#p_JCS1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Foreign Secretary of Indian Ministry of Foreign Affairs from February 1965</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v25/persons#p_JCS1</source-url>
+        </remark>
+    </remarks>
+</person>

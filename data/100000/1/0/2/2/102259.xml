@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>102259</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Carter, William Beverly, Jr.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="4">
+            <original source-urls="5">
+                <name>Carter, W. Beverly, Jr.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v05/persons#p_CWBJ1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v28/persons#p_CWB_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve05p1/persons#p_CWBJ1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve05p2/persons#p_CWBJ1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve05p2/persons#p_CWBJ2</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Carter, William Beverly, Jr.</name>
+                <source-url>https://history.state.gov/departmenthistory/people/carter-william-beverly</source-url>
+            </original>
+            <original source-urls="1">
+                <name>W. Beverly Carter Jr.</name>
+                <source-url>https://history.state.gov/departmenthistory/people/carter-william-beverly</source-url>
+            </original>
+            <original source-urls="1">
+                <name>W. Beverly Carter, Jr.</name>
+                <source-url>https://history.state.gov/departmenthistory/people/carter-william-beverly</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1921</birth-year>
+    <death-year>1982</death-year>
+    <remarks variants="5">
+        <remark source-urls="1">
+            <p>Deputy Assistant Secretary of State for African Affairs</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v05/persons#p_CWBJ1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>U.S. Ambassador to Tanzania from July 1972 until October 1975</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v28/persons#p_CWB_1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Deputy Assistant Secretary of State for African Affairs, November 1969 to June 1972; thereafter, Ambassador to Tanzania</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve05p1/persons#p_CWBJ1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve05p2/persons#p_CWBJ2</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Deputy Assistant Secretary for African Affairs, Department of State, until mid-1972</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve05p2/persons#p_CWBJ1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Foreign Service Officer. Ambassador at Large; Ambassador Extraordinary and Plenipotentiary (Tanzania); Ambassador Extraordinary and Plenipotentiary (Liberia).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/carter-william-beverly</source-url>
+        </remark>
+    </remarks>
+</person>

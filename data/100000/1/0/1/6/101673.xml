@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>101673</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Brand, Vance</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="4">
+                <name>Brand, Vance</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v06/persons#p_BV1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v07/persons#p_BV1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v04/persons#p_BV1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v05/persons#p_BV1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="3">
+        <remark source-urls="2">
+            <p>member, Board of Directors, Export-Import Bank</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v06/persons#p_BV1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v07/persons#p_BV1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Director, Export-Import Bank of Washington, until September 1959; thereafter Managing Director, Development Loan Fund</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v04/persons#p_BV1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Director of the Export-Import Bank of Washington; also Director of the Development Loan Fund from September 1959</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v05/persons#p_BV1</source-url>
+        </remark>
+    </remarks>
+</person>

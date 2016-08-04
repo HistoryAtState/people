@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>101107</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Belin, Ferdinand Lammot</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="1">
+                <name>Belin, Ferdinand Lammot</name>
+                <source-url>https://history.state.gov/departmenthistory/people/belin-ferdinand-lammot</source-url>
+            </original>
+            <original source-urls="1">
+                <name>F. Lammot Belin</name>
+                <source-url>https://history.state.gov/departmenthistory/people/belin-ferdinand-lammot</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1881</birth-year>
+    <death-year>1961</death-year>
+    <remarks variants="1">
+        <remark source-urls="1">
+            <p>Foreign Service Officer. Ambassador Extraordinary and Plenipotentiary (Poland).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/belin-ferdinand-lammot</source-url>
+        </remark>
+    </remarks>
+</person>

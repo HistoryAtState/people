@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>105802</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Henderson, William Watson</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="1">
+                <name>Henderson</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1948v02/persons#p_H1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Henderson, Lord</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1949v03/persons#p_HL1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="1">
+            <title source-urls="2">
+                <name>Lord</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1948v02/persons#p_H1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1949v03/persons#p_HL1</source-url>
+            </title>
+        </titles-from-name>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="2">
+        <remark source-urls="1">
+            <p>Lord (William Watson Henderson), Parliamentary Under-Secretary of State, British Foreign Office</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1948v02/persons#p_H1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Parliamentary Under-Secretary, British Foreign Office.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1949v03/persons#p_HL1</source-url>
+        </remark>
+    </remarks>
+</person>

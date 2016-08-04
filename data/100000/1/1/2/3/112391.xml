@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>112391</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Shimoda Takeso</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="1">
+                <name>Shimoda, Takezo</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v23p1/persons#p_ST1</source-url>
+            </original>
+            <original source-urls="2">
+                <name>Shimoda, Takeso</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v29p2/persons#p_ST5</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v03/persons#p_ST5</source-url>
+            </original>
+            <original source-urls="2">
+                <name>Shimoda Takeso</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v17/persons#p_ST1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve13/persons#p_ST5</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="4">
+        <remark source-urls="1">
+            <p>Director of the Treaty Bureau in the Japanese Foreign Ministry to 1957; Minister at the Japanese Embassy from spring 1957</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v23p1/persons#p_ST1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Japanese Ambassador to the United States from June 1967</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v29p2/persons#p_ST5</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Japanese Ambassador to the United States until December 1970</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v03/persons#p_ST5</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Japanese Ambassador to the United States until September 1970</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v17/persons#p_ST1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve13/persons#p_ST5</source-url>
+        </remark>
+    </remarks>
+</person>

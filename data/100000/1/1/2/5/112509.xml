@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>112509</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Simonson, Joseph</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="2">
+                <name>Simonson, Joseph</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v18/persons#p_SJ1</source-url>
+                <source-url>https://history.state.gov/departmenthistory/people/simonson-joseph</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1904</birth-year>
+    <death-year>1985</death-year>
+    <remarks variants="2">
+        <remark source-urls="1">
+            <p>Ambassador to Ethiopia to May 1957</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v18/persons#p_SJ1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Non-career appointee. Ambassador Extraordinary and Plenipotentiary (Ethiopia).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/simonson-joseph</source-url>
+        </remark>
+    </remarks>
+</person>

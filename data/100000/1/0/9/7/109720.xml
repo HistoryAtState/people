@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>109720</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Nendaka, Victor</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="1">
+                <name>Nendaka, Victor</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v23/persons#p_NVI_1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="1">
+        <remark source-urls="1">
+            <p>Head of Security Services, Republic of the Congo from 1960 until 1965; Minister of the Interior from October 1965 until November 1965; Minister of Transport and Communications, November 28, 1965; Minister of Finance and Budget from August 16, 1968</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v23/persons#p_NVI_1</source-url>
+        </remark>
+    </remarks>
+</person>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>106001</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Hoegh, Leo A.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="3">
+                <name>Hoegh, Leo A.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v03/persons#p_HLA1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v04/persons#p_HLA1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v05/persons#p_HLA1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="3">
+        <remark source-urls="1">
+            <p>Director, Office of Civil Defense, until July 1958; thereafter Director, Office of Defense Mobilization</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v03/persons#p_HLA1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Head of the Office of Civilian Defense until July 1958; thereafter Director of the Office of Civil and Defense Mobilization</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v04/persons#p_HLA1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Administrator of the Federal Civil Defense Administration until July 1958; thereafter Director of the Office of Civil and Defense Mobilization</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v05/persons#p_HLA1</source-url>
+        </remark>
+    </remarks>
+</person>

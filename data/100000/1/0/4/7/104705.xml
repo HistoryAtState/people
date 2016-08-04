@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>104705</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Gard, Robert G.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="1">
+                <name>Gard, General Robert G.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v23p2/persons#p_GGRG1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="1">
+            <title source-urls="1">
+                <name>General</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v23p2/persons#p_GGRG1</source-url>
+            </title>
+        </titles-from-name>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="1">
+        <remark source-urls="1">
+            <p>Senior United Nations Command Member of the Military Armistice Commission; also Chief of the U.S. Provisional Military Assistance and Advisory Group, Korea</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v23p2/persons#p_GGRG1</source-url>
+        </remark>
+    </remarks>
+</person>

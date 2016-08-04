@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>108024</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Litsey, Weldon</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="3">
+                <name>Litsey, Weldon</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v11p1/persons#p_LW2</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v11p2/persons#p_LW2</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v05/persons#p_LW1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="2">
+        <remark source-urls="2">
+            <p>Second Secretary and Consul of the Embassy in Liberia until March 25, 1952; First Secretary and Consul, March 25, 1952–October 14, 1953; thereafter, Consul at Vigo.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v11p1/persons#p_LW2</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v11p2/persons#p_LW2</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Office of Inter-American Regional Economic Affairs, Department of State, until August 1959; thereafter First Secretary of the Embassy in Argentina</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v05/persons#p_LW1</source-url>
+        </remark>
+    </remarks>
+</person>

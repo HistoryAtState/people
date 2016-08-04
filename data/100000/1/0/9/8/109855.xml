@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>109855</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Niemczyk, Julian Martin</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="1">
+                <name>Niemczyk, Julian Martin</name>
+                <source-url>https://history.state.gov/departmenthistory/people/niemczyk-julian-martin</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1920</birth-year>
+    <death-year>2009</death-year>
+    <remarks variants="1">
+        <remark source-urls="1">
+            <p>Non-career appointee. Ambassador Extraordinary and Plenipotentiary (Czechoslovakia).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/niemczyk-julian-martin</source-url>
+        </remark>
+    </remarks>
+</person>

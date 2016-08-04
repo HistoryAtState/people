@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>111396</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Riley, William E.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="1">
+                <name>Riley, William E.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v05/persons#p_RWE1</source-url>
+            </original>
+            <original source-urls="2">
+                <name>Riley, Lieutenant General William E.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v09p1/persons#p_RLG1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v09p2/persons#p_RLG1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="1">
+            <title source-urls="2">
+                <name>Lieutenant General</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v09p1/persons#p_RLG1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v09p2/persons#p_RLG1</source-url>
+            </title>
+        </titles-from-name>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="2">
+        <remark source-urls="1">
+            <p>USMC (promoted to Lieutenant General, May 1951), Chief of Staff, United Nations Truce Supervision Organization.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1951v05/persons#p_RWE1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>USMC, Chief of Staff, United Nations Truce Supervision Organization, until June 1953.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v09p1/persons#p_RLG1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v09p2/persons#p_RLG1</source-url>
+        </remark>
+    </remarks>
+</person>

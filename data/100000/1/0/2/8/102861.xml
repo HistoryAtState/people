@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>102861</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Cornwall-Jones, Arthur Thomas</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="2">
+                <name>Cornwall-Jones, Arthur Thomas</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1943CairoTehran/persons#p_CJAT1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv02/persons#p_CJBAT1</source-url>
+            </original>
+            <original source-urls="2">
+                <name>Cornwall-Jones, Brigadier Arthur Thomas</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv01/persons#p_CBAT1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945Malta/persons#p_CJBAT1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="1">
+            <title source-urls="2">
+                <name>Brigadier</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv01/persons#p_CBAT1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945Malta/persons#p_CJBAT1</source-url>
+            </title>
+        </titles-from-name>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="3">
+        <remark source-urls="1">
+            <p>Colonel, Secretary of the British Middle East Defence Committee.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1943CairoTehran/persons#p_CJAT1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>British Secretary, Combined Chiefs of Staff.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv01/persons#p_CBAT1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv02/persons#p_CJBAT1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Secretary, British Joint Staff Mission in Washington, and British Secretary, Combined Chiefs of Staff.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1945Malta/persons#p_CJBAT1</source-url>
+        </remark>
+    </remarks>
+</person>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>106331</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Hutchenson, John H.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="1">
+                <name>Hutchenson, John H.</name>
+                <source-url>https://history.state.gov/departmenthistory/people/hutchenson-john-h</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="1">
+        <remark source-urls="1">
+            <p>Non-career appointee. Minister Resident (Hawai’i).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/hutchenson-john-h</source-url>
+        </remark>
+    </remarks>
+</person>

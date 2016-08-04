@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>102817</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Cooksey, Howard H.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="1">
+                <name>Cooksey, Howard H.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v09/persons#p_CHH_1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="1">
+        <remark source-urls="1">
+            <p>Major General, USA, Commander, 1st Regional Assistance Command, South Vietnam, and, from January 27 until March 29, 1973, Acting Chief of Staff, Military Assistance Command, Vietnam</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v09/persons#p_CHH_1</source-url>
+        </remark>
+    </remarks>
+</person>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>111273</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Reischauer, Edwin O.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="8">
+                <name>Reischauer, Edwin O.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v09/persons#p_REO1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v22/persons#p_REO1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v04/persons#p_REO1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v06/persons#p_REO1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v08/persons#p_REO1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v26/persons#p_REO1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v29p1/persons#p_REO1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v29p2/persons#p_REO1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="5">
+        <remark source-urls="1">
+            <p>Ambassador to Japan from April 27, 1961</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v09/persons#p_REO1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Ambassador to Japan from April 1961</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v22/persons#p_REO1</source-url>
+        </remark>
+        <remark source-urls="4">
+            <p>Ambassador to Japan until August 19, 1966</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v04/persons#p_REO1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v08/persons#p_REO1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v26/persons#p_REO1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v29p1/persons#p_REO1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Professor of History, Harvard University, and Ambassador to Japan, 1961–1966</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v06/persons#p_REO1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Ambassador to Japan from March 29, 1961 to August 19, 1966</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v29p2/persons#p_REO1</source-url>
+        </remark>
+    </remarks>
+</person>

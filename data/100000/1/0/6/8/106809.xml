@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>106809</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Kadar, Janos</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="1">
+                <name>Kádár, János</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v25/persons#p_KJ1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Kádár Janos</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v02/persons#p_KDJ1</source-url>
+            </original>
+            <original source-urls="6">
+                <name>Kadar, Janos</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v10p1/persons#p_KJ1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v10p2/persons#p_KJ1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v17/persons#p_KJ1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v29/persons#p_KJ1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v39/persons#p_KJ3</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve15p1/persons#p_KJ3</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="6">
+        <remark source-urls="1">
+            <p>General Secretary of the Hungarian Workers’ Party; Prime Minister of Hungary from November 1956</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v25/persons#p_KJ1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Hungarian Prime Minister and First Secretary of the Hungarian Revolutionary Socialist Party through January 1958; thereafter First Secretary only</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v02/persons#p_KDJ1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Hungarian Prime Minister until January 1958; First Secretary of the Hungarian Revolutionary Socialist Party</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v10p1/persons#p_KJ1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Prime Minister of Hungary until January 1958; First Secretary of the Hungarian Revolutionary Socialist Party</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v10p2/persons#p_KJ1</source-url>
+        </remark>
+        <remark source-urls="3">
+            <p>First Secretary of the Hungarian Communist Party</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v17/persons#p_KJ1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v29/persons#p_KJ1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v39/persons#p_KJ3</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>First Secretary of the Hungarian Communist Party from 1956</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve15p1/persons#p_KJ3</source-url>
+        </remark>
+    </remarks>
+</person>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>102627</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Claro Salas, Fernando (Pepe)</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="1">
+                <name>Claro Salas, Fernando (Pepe)</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v21/persons#p_CSF_1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="1">
+        <remark source-urls="1">
+            <p>Chilean Copper Corporation</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v21/persons#p_CSF_1</source-url>
+        </remark>
+    </remarks>
+</person>

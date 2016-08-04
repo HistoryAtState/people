@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>101274</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Beugel, Ernst Hans van der</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="2">
+                <name>Beugel, Ernst Hans van der</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v03p1/persons#p_BEHVD1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v03p2/persons#p_BEHVD1</source-url>
+            </original>
+            <original source-urls="2">
+                <name>Van der Beugel</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v03p1/persons#p_VDB1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v03p2/persons#p_VDB1</source-url>
+            </original>
+            <original source-urls="2">
+                <name>Van Der Beugel, Ernest</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v07p1/persons#p_VDBE1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v07p2/persons#p_VDBE1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="3">
+        <remark source-urls="2">
+            <p>Chief, Division of Western European Affairs, Netherlands Foreign Ministry.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1951v03p1/persons#p_BEHVD1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1951v03p2/persons#p_BEHVD1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>See Beugel.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1951v03p1/persons#p_VDB1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1951v03p2/persons#p_VDB1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Dutch State Secretary for Foreign Affairs</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v07p1/persons#p_VDBE1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v07p2/persons#p_VDBE1</source-url>
+        </remark>
+    </remarks>
+</person>

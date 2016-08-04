@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>112244</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Serrano, Felixberto M.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="2">
+                <name>Serrano, Felixberto M.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v03/persons#p_SERRANOFM1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v15/persons#p_SFM1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Serrano, Felixbert</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v23/persons#p_SF1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="3">
+        <remark source-urls="1">
+            <p>Permanent Representative of the Philippines to the United Nations from 1954; Cochairman, Philippine Delegation to the 9th Regular Session of the General Assembly.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v03/persons#p_SERRANOFM1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Permanent Philippine Representative to the United Nations and Acting Minister of Foreign Affairs until 1958; thereafter Foreign Minister</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v15/persons#p_SFM1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Philippines Foreign Secretary until December 1961</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v23/persons#p_SF1</source-url>
+        </remark>
+    </remarks>
+</person>

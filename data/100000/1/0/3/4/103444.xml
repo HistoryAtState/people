@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>103444</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Diallo, Telli Boubacar</name>
+        </preferred>
+        <alternates/>
+        <originals variants="5">
+            <original source-urls="1">
+                <name>Diallo, Telli Boubacar</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v02/persons#p_DTB1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Diallo, Telli Boubecar</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v14/persons#p_DTB1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Diallo, Telli</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v25/persons#p_DTB1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Telli, Boubacar Diallo</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v23/persons#p_TBD_1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Telli, Diallo</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v05/persons#p_TD1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="5">
+        <remark source-urls="1">
+            <p>Guinean Ambassador to the United States</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v02/persons#p_DTB1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Guinean Ambassador to the United States from April 1959</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v14/persons#p_DTB1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Permanent Representative of Guinea at the United Nations</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v25/persons#p_DTB1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Guinean Permanent Representative to the United Nations from September 1958 until June 1964; Ambassador to the United States from April 1959 until June 1961; Secretary-General of the Organization of African Unity from July 21, 1964</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v23/persons#p_TBD_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Secretary-General, Organization of African Unity until July 1972</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v05/persons#p_TD1</source-url>
+        </remark>
+    </remarks>
+</person>

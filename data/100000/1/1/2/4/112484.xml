@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>112484</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Silver, Warren A.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="3">
+                <name>Silver, Warren A.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v05/persons#p_SWA1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v10/persons#p_SWA1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v02/persons#p_SWA1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Silver, Warren</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v01/persons#p_SW1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="4">
+        <remark source-urls="1">
+            <p>Office of International Security Affairs, Department of State.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1951v05/persons#p_SWA1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Office of South Asian Affairs, Department of State</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v10/persons#p_SWA1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Operations Center, Department of State; Member of the Interdepartmental Task Force on Vietnam; Member of the Staley Group</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v01/persons#p_SW1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>member of the Interdepartmental Task Force on Vietnam; member of the Staley Group</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v02/persons#p_SWA1</source-url>
+        </remark>
+    </remarks>
+</person>

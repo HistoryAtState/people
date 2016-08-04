@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>106339</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Huynh Van Ton</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="2">
+                <name>Huynh Van Ton</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v02/persons#p_HVT1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v03/persons#p_HVTC1</source-url>
+            </original>
+            <original source-urls="2">
+                <name>Ton</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v02/persons#p_Ton1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v03/persons#p_Ton1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="3">
+        <remark source-urls="1">
+            <p>Colonel, ARVN, participant in anti-Khanh coup attempt, February 19–20, 1965</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v02/persons#p_HVT1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>see Huynh Van Ton</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v02/persons#p_Ton1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v03/persons#p_Ton1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Colonel, ARVN, participant in anti-Khanh coup attempt, February 19-20, 1965</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v03/persons#p_HVTC1</source-url>
+        </remark>
+    </remarks>
+</person>

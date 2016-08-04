@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>108685</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Maurer, Ion Gheorghe</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="3">
+                <name>Maurer, Ion Gheorghe</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v06/persons#p_MIG1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v29/persons#p_MIG1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v39/persons#p_MIG1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Maurer, Ion</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v17/persons#p_MI1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Prime Minister Ion Gheorghe Maurer</name>
+                <source-url>https://history.state.gov/departmenthistory/visits/romania</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="4">
+        <remark source-urls="1">
+            <p>President of the Council of Ministers of Romania</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v06/persons#p_MIG1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Romanian Prime Minister</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v17/persons#p_MI1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v29/persons#p_MIG1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Prime Minister of Romania until March 29, 1974</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v39/persons#p_MIG1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Prime Minister, Romania. Visited U.S. once, 1967</p>
+            <source-url>https://history.state.gov/departmenthistory/visits/romania</source-url>
+        </remark>
+    </remarks>
+</person>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>104894</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Gilmore, Harry G.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="1">
+                <name>Gilmore, Harry G.</name>
+                <source-url>https://history.state.gov/departmenthistory/people/gilmore-harry-g</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Harry J. Gilmore</name>
+                <source-url>https://history.state.gov/departmenthistory/people/gilmore-harry-g</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1937</birth-year>
+    <death-year>2015</death-year>
+    <remarks variants="1">
+        <remark source-urls="1">
+            <p>Foreign Service Officer. Ambassador Extraordinary and Plenipotentiary (Armenia).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/gilmore-harry-g</source-url>
+        </remark>
+    </remarks>
+</person>

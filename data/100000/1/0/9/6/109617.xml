@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>109617</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Nachmanoff, Arnold</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="8">
+                <name>Nachmanoff, Arnold</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v05/persons#p_NA1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v13/persons#p_NA1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v21/persons#p_NA_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve01/persons#p_NA1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve10/persons#p_NA1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve16/persons#p_NA_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v02/persons#p_NA_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v03/persons#p_NA_1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="8">
+        <remark source-urls="1">
+            <p>member of the National Security Council staff</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v05/persons#p_NA1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>member, National Security Council Operations Staff (Latin America)</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v13/persons#p_NA1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>member, National Security Council Operations Staff, Latin America, from February 1969 until November 1970; Senior Staff Member for Latin American Affairs from November 1970</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v21/persons#p_NA_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Member, Operations Staff, Latin America, National Security Council</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve01/persons#p_NA1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Member of the National Security Council Staff, Operations Staff, Latin America from 1969 until 1972</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve10/persons#p_NA1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>member, National Security Council Operations Staff, Latin America from February 1969 to November 1970; Senior Staff Member for Latin American Affairs from November 1970</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve16/persons#p_NA_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Deputy Assistant Secretary of Treasury for Developing Nations; member, National Security Council Ad Hoc Group on Population Policy; agency representative, White House International Health Assessment</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v02/persons#p_NA_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Deputy Assistant Secretary of the Treasury for Developing Nations</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v03/persons#p_NA_1</source-url>
+        </remark>
+    </remarks>
+</person>

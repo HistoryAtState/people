@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>114758</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Wolff, Alan</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="3">
+                <name>Wolff, Alan</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v31/persons#p_WA1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v03/persons#p_WA_2</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v28/persons#p_WA_1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="3">
+        <remark source-urls="1">
+            <p>Deputy General Counsel, Office of the Special Representative for Trade Negotiations from 1973 until 1974; General Counsel, Office of the Special Representative for Trade Negotiations from 1974</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v31/persons#p_WA1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>General Counsel, Office of the Special Representative for Trade Negotiations until May 1977; Deputy Special Representative for Trade Negotiations from May 1977 until October 1979</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v03/persons#p_WA_2</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Deputy Special Representative for Trade Negotiations from May 1977 until October 1979</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v28/persons#p_WA_1</source-url>
+        </remark>
+    </remarks>
+</person>

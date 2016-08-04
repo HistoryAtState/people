@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>108496</id>
+    <authorities>
+        <authority service="viaf">104723526</authority>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Marcos, Ferdinand E.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="8">
+                <name>Marcos, Ferdinand</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v04/persons#p_MF1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v05/persons#p_MF1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v26/persons#p_MFE2</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v27/persons#p_MF1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v06/persons#p_MF1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve12/persons#p_marcos-ferdinand</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v02/persons#p_MF_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v13/persons#p_MR_1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Marcos, Ferdinand E.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v20/persons#p_MFE2</source-url>
+            </original>
+            <original source-urls="1">
+                <name>President Ferdinand Marcos</name>
+                <source-url>https://history.state.gov/departmenthistory/visits/philippines</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="6">
+        <remark source-urls="5">
+            <p>President of the Philippines</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v04/persons#p_MF1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v05/persons#p_MF1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v06/persons#p_MF1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v20/persons#p_MFE2</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v02/persons#p_MF_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>President of the Philippines after December 1965</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v26/persons#p_MFE2</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>President of the Philippines after 1965</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v27/persons#p_MF1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Philippine President</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve12/persons#p_marcos-ferdinand</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>President of Philippines from 1965 until 1986</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v13/persons#p_MR_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>President, Philippines. Visited U.S. 3 times, 1966–1982</p>
+            <source-url>https://history.state.gov/departmenthistory/visits/philippines</source-url>
+        </remark>
+    </remarks>
+</person>

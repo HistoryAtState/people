@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>114879</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Yariv, Aharon</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="2">
+                <name>Yariv, Aharon</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v23/persons#p_YMGA_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v26/persons#p_YA_1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Yaariv, Major General Aharon</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v25/persons#p_YA_1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="1">
+            <title source-urls="1">
+                <name>Major General</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v25/persons#p_YA_1</source-url>
+            </title>
+        </titles-from-name>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="3">
+        <remark source-urls="1">
+            <p>Chief of the Intelligence Corps, Israeli Defense Forces</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v23/persons#p_YMGA_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>retired head of Israeli military intelligence; Israeli representative at the KM 101 talks</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v25/persons#p_YA_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Major General, Israeli Transport Minister and Information Minister</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v26/persons#p_YA_1</source-url>
+        </remark>
+    </remarks>
+</person>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>105279</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Gufler, Bernard Anthony</name>
+        </preferred>
+        <alternates/>
+        <originals variants="4">
+            <original source-urls="3">
+                <name>Gufler, Bernard A.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v11p1/persons#p_GBA1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v11p2/persons#p_GBA1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v15/persons#p_GBA1</source-url>
+            </original>
+            <original source-urls="3">
+                <name>Gufler, Bernard</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v08/persons#p_GB1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v09/persons#p_GB1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v16/persons#p_GB1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Gufler, Bernard Anthony</name>
+                <source-url>https://history.state.gov/departmenthistory/people/gufler-bernard-anthony</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Bernard Gufler</name>
+                <source-url>https://history.state.gov/departmenthistory/people/gufler-bernard-anthony</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1903</birth-year>
+    <death-year>1973</death-year>
+    <remarks variants="5">
+        <remark source-urls="2">
+            <p>Counselor of the Embassy in Ceylon until October 15, 1953; Foreign Service Inspector, Bureau of Security and Consular Affairs, Department of State, from January 1, 1954.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v11p1/persons#p_GBA1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v11p2/persons#p_GBA1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Assistant Chief of Mission at Berlin</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v08/persons#p_GB1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v09/persons#p_GB1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Ambassador to Ceylon from July 1959</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v15/persons#p_GBA1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Ambassador to Finland until April 1963</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v16/persons#p_GB1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Foreign Service Officer. Ambassador Extraordinary and Plenipotentiary (Sri Lanka); Ambassador Extraordinary and Plenipotentiary (Finland).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/gufler-bernard-anthony</source-url>
+        </remark>
+    </remarks>
+</person>

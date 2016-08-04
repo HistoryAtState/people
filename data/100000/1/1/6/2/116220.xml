@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>116220</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Twe, Didwo</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="1">
+                <name>Twe, Didwo</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v05/persons#p_TD1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="1">
+        <remark source-urls="1">
+            <p>leader of the Liberian United People’s Party, 1949–1951, and the Liberian Reformation Party, from April 1951; candidate for President of Liberia in May 1951.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1951v05/persons#p_TD1</source-url>
+        </remark>
+    </remarks>
+</person>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>101910</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Bula Nyati, Mandungu</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="1">
+                <name>Bula</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v28/persons#p_B_1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Mandungu Bula Nyati</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v28/persons#p_MBN_1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Bula Nyati, Mandungu</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve06/persons#p_BNM1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="3">
+        <remark source-urls="1">
+            <p>see Mandungu Bula Nyati</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v28/persons#p_B_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Zairian Foreign Minister from 1975 until 1976</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v28/persons#p_MBN_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Zairian Foreign Minister from 1975 to 1976</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve06/persons#p_BNM1</source-url>
+        </remark>
+    </remarks>
+</person>

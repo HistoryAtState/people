@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>103613</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Douglas, Lewis Williams</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="6">
+                <name>Douglas, Lewis W.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1943CairoTehran/persons#p_DLW1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1947v02/persons#p_DLW1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1948v02/persons#p_DLW1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1949v03/persons#p_DLW1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v06p1/persons#p_DOUGLASLW1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v06p2/persons#p_DOUGLASLW1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Douglas, Lewis Williams</name>
+                <source-url>https://history.state.gov/departmenthistory/people/douglas-lewis-williams</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Lewis W. Douglas</name>
+                <source-url>https://history.state.gov/departmenthistory/people/douglas-lewis-williams</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1894</birth-year>
+    <death-year>1974</death-year>
+    <remarks variants="5">
+        <remark source-urls="1">
+            <p>Deputy Administrator, War Shipping Administration.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1943CairoTehran/persons#p_DLW1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>United States Ambassador in the United Kingdom</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1947v02/persons#p_DLW1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1948v02/persons#p_DLW1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>United States Ambassador in the United Kingdom; Representative at the tripartite talks on prohibited and restricted industries in Germany, London, February–March.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1949v03/persons#p_DLW1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Ambassador in the United Kingdom, until November 16, 1950.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v06p1/persons#p_DOUGLASLW1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v06p2/persons#p_DOUGLASLW1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Non-career appointee. Ambassador Extraordinary and Plenipotentiary (United Kingdom).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/douglas-lewis-williams</source-url>
+        </remark>
+    </remarks>
+</person>

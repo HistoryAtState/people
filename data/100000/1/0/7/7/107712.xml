@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>107712</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Law, Andrew Bonar</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="2">
+                <name>Law, Andrew Bonar</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1914Supp/persons#p_LAB1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1916Supp/persons#p_LAB1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="2">
+        <remark source-urls="1">
+            <p>Leader of the Opposition in the British House of Commons.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1914Supp/persons#p_LAB1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>British Secretary of State for the Colonies prior to Dec. 11, 1916; Chancellor of the Exchequer after Dec. 11.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1916Supp/persons#p_LAB1</source-url>
+        </remark>
+    </remarks>
+</person>

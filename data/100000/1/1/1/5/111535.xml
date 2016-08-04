@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>111535</id>
+    <authorities>
+        <authority service="viaf">105153033</authority>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Roh Tae-woo</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="1">
+                <name>President Roh Tae-woo</name>
+                <source-url>https://history.state.gov/departmenthistory/visits/korea-south</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="1">
+        <remark source-urls="1">
+            <p>President, Korea; South Korea. Visited U.S. 5 times, 1988–1991</p>
+            <source-url>https://history.state.gov/departmenthistory/visits/korea-south</source-url>
+        </remark>
+    </remarks>
+</person>

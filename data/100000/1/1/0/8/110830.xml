@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>110830</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Polansky, Sol</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="3">
+                <name>Polansky, Sol</name>
+                <source-url>https://history.state.gov/departmenthistory/people/polansky-sol</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v13/persons#p_PS1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v20/persons#p_PS_1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1926</birth-year>
+    <death-year/>
+    <remarks variants="3">
+        <remark source-urls="1">
+            <p>Foreign Service Officer. Ambassador Extraordinary and Plenipotentiary (Bulgaria).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/polansky-sol</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Political Officer (Deputy Chief of the Political Section), U.S. Embassy in Moscow</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v13/persons#p_PS1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Deputy Chief of Mission, U.S. Embassy East Berlin, until 1979</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v20/persons#p_PS_1</source-url>
+        </remark>
+    </remarks>
+</person>

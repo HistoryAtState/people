@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>111689</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Rowny, Edward L.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="1">
+                <name>Rowny, Maj. Gen. Edward L.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v02/persons#p_RMGEL1</source-url>
+            </original>
+            <original source-urls="2">
+                <name>Rowny, Edward L.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v33/persons#p_REL_2</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1981-88v03/persons#p_RE_1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="1">
+            <title source-urls="1">
+                <name>Maj. Gen.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v02/persons#p_RMGEL1</source-url>
+            </title>
+        </titles-from-name>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="3">
+        <remark source-urls="1">
+            <p>Special Assistant for Tactical Mobility, Department of the Army</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v02/persons#p_RMGEL1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Lieutenant General, USA, U.S. Representative to the Strategic Arms Limitation Talks from 1971 to 1979</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v33/persons#p_REL_2</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>General, USA, Head U.S. Negotiator, START negotiations</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1981-88v03/persons#p_RE_1</source-url>
+        </remark>
+    </remarks>
+</person>

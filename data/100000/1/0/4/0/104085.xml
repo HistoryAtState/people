@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>104085</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Everest, Frank F.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="1">
+                <name>Everest, Brigadier General Frank F.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945Malta/persons#p_E4</source-url>
+            </original>
+            <original source-urls="4">
+                <name>Everest, Lieutenant General Frank F.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v09p1/persons#p_ELG1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v09p2/persons#p_ELG1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v15p1/persons#p_ELGFF1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v15p2/persons#p_ELGFF1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="2">
+            <title source-urls="1">
+                <name>Brigadier General</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945Malta/persons#p_E4</source-url>
+            </title>
+            <title source-urls="4">
+                <name>Lieutenant General</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v09p1/persons#p_ELG1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v09p2/persons#p_ELG1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v15p1/persons#p_ELGFF1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v15p2/persons#p_ELGFF1</source-url>
+            </title>
+        </titles-from-name>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="3">
+        <remark source-urls="1">
+            <p>U. S. A., senior Air Force member of the Joint War Plans Committee.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1945Malta/persons#p_E4</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>USAF, Commander, Fifth Air Force, Far East Air Force, Korea until May 1952; Deputy Commander, Tactical Air Force Command, Langley Air Force Base, Virginia, May 1952–April 24, 1953; Director, Joint Staff, Joint Chiefs of Staff, April 24, 1953–March 18, 1954; Deputy Chief of Staff for Operations, U.S. Air Force Headquarters from April 1, 1954.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v09p1/persons#p_ELG1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v09p2/persons#p_ELG1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>USAF; Director, Joint Staff, Joint Chiefs of Staff, 1953-1954.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v15p1/persons#p_ELGFF1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v15p2/persons#p_ELGFF1</source-url>
+        </remark>
+    </remarks>
+</person>

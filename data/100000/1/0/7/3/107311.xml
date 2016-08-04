@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>107311</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Knox, William Franklin (“Frank”)</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="1">
+                <name>Knox, W. Franklin</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1943CairoTehran/persons#p_KWF1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Knox, William Franklin “Frank”</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v01/persons#p_KWF_1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="2">
+        <remark source-urls="1">
+            <p>Secretary of the Navy, 1940–44.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1943CairoTehran/persons#p_KWF1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>publisher, The Chicago Daily News; Republican Vice Presidential nominee, 1936; Secretary of the Navy from 1940 until his death on April 28, 1944</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v01/persons#p_KWF_1</source-url>
+        </remark>
+    </remarks>
+</person>

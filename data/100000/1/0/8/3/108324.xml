@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>108324</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Maechling, Charles W., Jr.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="4">
+            <original source-urls="1">
+                <name>Maechling Charles</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v02/persons#p_MCWJ1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Maechling, Charles W., Jr.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v08/persons#p_MCWJ1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Maechling, Charles, Jr.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v01/persons#p_MCJ1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Maechling, Charles Jr.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve01/persons#p_MCWJ1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="4">
+        <remark source-urls="1">
+            <p>Director of Internal Defense, Office of the Deputy Under Secretary of State for Political Affairs</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v02/persons#p_MCWJ1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Director for Internal Defense, Office of Politico-Military Affairs, Department of State, from February 6, 1962</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v08/persons#p_MCWJ1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Special Assistant to the Under Secretary of State for Political Affairs</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v01/persons#p_MCJ1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Deputy General Counsel, National Science Foundation</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve01/persons#p_MCWJ1</source-url>
+        </remark>
+    </remarks>
+</person>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>105985</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Hoang Xuan Lam</name>
+        </preferred>
+        <alternates/>
+        <originals variants="4">
+            <original source-urls="1">
+                <name>Hoang Xuan Lam, General</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v04/persons#p_HXLG1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Lam</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v04/persons#p_Lam1</source-url>
+            </original>
+            <original source-urls="3">
+                <name>Hoang Xuan Lam</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v05/persons#p_HXL1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v07/persons#p_HXLG1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v08/persons#p_HXL1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Lam, Hoang Xuan</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v08/persons#p_LHX1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="1">
+            <title source-urls="1">
+                <name>General</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v04/persons#p_HXLG1</source-url>
+            </title>
+        </titles-from-name>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="5">
+        <remark source-urls="1">
+            <p>ARVN, Commander of I Corps from May 1966</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v04/persons#p_HXLG1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>see Hoang Xuan Lam</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v04/persons#p_Lam1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v08/persons#p_LHX1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>General ARVN, Commander of I Corps, Republic of Vietnam</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v05/persons#p_HXL1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>General, Republic of Vietnam Commander, I Corps</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v07/persons#p_HXLG1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>General, ARVN, Commander (MR –1) until May 3, 1972</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v08/persons#p_HXL1</source-url>
+        </remark>
+    </remarks>
+</person>

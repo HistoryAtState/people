@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>107838</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Le Nguyen Khang</name>
+        </preferred>
+        <alternates/>
+        <originals variants="4">
+            <original source-urls="2">
+                <name>Khang</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v02/persons#p_KHANG1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v03/persons#p_Khang1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Le Nguyen Khang, General</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v02/persons#p_LNKG1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Le Nguyen Khang</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v03/persons#p_LNK1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Le Nguyen Thang</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v07/persons#p_LNT1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="1">
+            <title source-urls="1">
+                <name>General</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v02/persons#p_LNKG1</source-url>
+            </title>
+        </titles-from-name>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="4">
+        <remark source-urls="2">
+            <p>see Le Nguyen Khang</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v02/persons#p_KHANG1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v03/persons#p_Khang1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Vietnamese Marine Corps Commander</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v02/persons#p_LNKG1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>General, Vietnamese Marine Corps Commander</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v03/persons#p_LNK1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>General, Republic of Vietnam Commander, III Corps</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v07/persons#p_LNT1</source-url>
+        </remark>
+    </remarks>
+</person>

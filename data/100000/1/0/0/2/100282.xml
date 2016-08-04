@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>100282</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Alkhimov, Vladimir S.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="2">
+                <name>Alkhimov, Vladimir S.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v14/persons#p_AVS1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1981-88v03/persons#p_AVS_1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Alkhimov, Vladimir</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v15/persons#p_AV_1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="3">
+        <remark source-urls="1">
+            <p>Soviet Deputy Minister of Foreign Trade</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v14/persons#p_AVS1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Soviet Deputy Foreign Trade Minister</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v15/persons#p_AV_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Chairman of the Board of Gosbank</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1981-88v03/persons#p_AVS_1</source-url>
+        </remark>
+    </remarks>
+</person>

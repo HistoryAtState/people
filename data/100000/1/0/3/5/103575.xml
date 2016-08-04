@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>103575</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Donelan, Joseph Francis, Jr.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="4">
+            <original source-urls="6">
+                <name>Donelan, Joseph F., Jr.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v05/persons#p_DJFJ1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v17/persons#p_DJFJ1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v38p1/persons#p_DJF_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v38p2/persons#p_DJF_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve12/persons#p_donelan-joseph-f-jr</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve13/persons#p_DJFJ1</source-url>
+            </original>
+            <original source-urls="2">
+                <name>Donelan, Joseph F. Jr.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve01/persons#p_DJFJ1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve03/persons#p_DJF1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Donelan, Joseph Francis, Jr.</name>
+                <source-url>https://history.state.gov/departmenthistory/people/donelan-joseph-francis-jr</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Joseph F. Donelan, Jr.</name>
+                <source-url>https://history.state.gov/departmenthistory/people/donelan-joseph-francis-jr</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1918</birth-year>
+    <death-year>1999</death-year>
+    <remarks variants="6">
+        <remark source-urls="1">
+            <p>Deputy Assistant Secretary of State for Budget and Finance, 1970</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v05/persons#p_DJFJ1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Assistant Secretary of State for Administration from June 14, 1971</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v17/persons#p_DJFJ1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve13/persons#p_DJFJ1</source-url>
+        </remark>
+        <remark source-urls="3">
+            <p>Assistant Secretary of State for Administration until March 31, 1973</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v38p1/persons#p_DJF_1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v38p2/persons#p_DJF_1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve12/persons#p_donelan-joseph-f-jr</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Assistant Secretary of State for Administration, June 1971–March 1973</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve01/persons#p_DJFJ1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Assistant Secretary, Bureau of Administration, Department of State</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve03/persons#p_DJF1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Foreign Service Officer. Assistant Secretary of State for Administration.</p>
+            <source-url>https://history.state.gov/departmenthistory/people/donelan-joseph-francis-jr</source-url>
+        </remark>
+    </remarks>
+</person>

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>107620</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Land, Edwin H.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="1">
+                <name>Land, Edwin</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1950-55Intel/persons#p_LEH1</source-url>
+            </original>
+            <original source-urls="5">
+                <name>Land, Edwin H.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v25/persons#p_LEH4</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v33/persons#p_LEH4</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v35/persons#p_LEH_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v38p1/persons#p_LEH_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v38p2/persons#p_LEH_1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="6">
+        <remark source-urls="1">
+            <p>Founder of Polaroid; Chairman, Technical Capabilities Panel, Office of Defense Mobilization from 1954; member, President’s Board of Consultants on Foreign Intelligence Activities from 1962</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1950-55Intel/persons#p_LEH1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Member, Ad Hoc Committee on Space</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v25/persons#p_LEH4</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>member of the President's Foreign Intelligence Advisory Board; founder of Polaroid Corporation and inventor of Polaroid camera</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v33/persons#p_LEH4</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>member of the President’s Foreign Intelligence Advisory Board; Chairman of the Board, Polaroid Corporation</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v35/persons#p_LEH_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>CEO and founder, Polaroid Corporation and member, President’s Foreign Intelligence Advisory Board</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v38p1/persons#p_LEH_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>CEO and founder, Polaroid Corporation, and member, President’s Foreign Intelligence Advisory Board</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v38p2/persons#p_LEH_1</source-url>
+        </remark>
+    </remarks>
+</person>

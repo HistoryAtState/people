@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>107378</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Kornfeld, Joseph Saul</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="1">
+                <name>Kornfeld, Joseph Saul</name>
+                <source-url>https://history.state.gov/departmenthistory/people/kornfeld-joseph-saul</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1876</birth-year>
+    <death-year>1943</death-year>
+    <remarks variants="1">
+        <remark source-urls="1">
+            <p>Non-career appointee. Envoy Extraordinary and Minister Plenipotentiary (Iran).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/kornfeld-joseph-saul</source-url>
+        </remark>
+    </remarks>
+</person>

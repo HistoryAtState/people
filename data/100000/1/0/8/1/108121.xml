@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>108121</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Lord, Mary P.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="1">
+                <name>Lord, Mary P. (Mrs. Oswald B.)</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v11/persons#p_LMPMOB1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="1">
+            <title source-urls="1">
+                <name>(Mrs. Oswald B.)</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v11/persons#p_LMPMOB1</source-url>
+            </title>
+        </titles-from-name>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="1">
+        <remark source-urls="1">
+            <p>Representative on the Human Rights Commission of the United Nations Economic and Social Council; Alternate Representative to the Tenth, Eleventh, and Twelfth Sessions of the United Nations General Assembly</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v11/persons#p_LMPMOB1</source-url>
+        </remark>
+    </remarks>
+</person>

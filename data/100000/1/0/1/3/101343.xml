@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>101343</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Biryuzov, Sergey Semenovich</name>
+        </preferred>
+        <alternates/>
+        <originals variants="4">
+            <original source-urls="1">
+                <name>Biryuzov, Colonel General Sergey Semenovich</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv01/persons#p_BCGSS1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Biryusov</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv02/persons#p_B2</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Buriusoff</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv02/persons#p_B4</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Biryuzov, Sergey Semenovich</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv02/persons#p_BCGSS1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="1">
+            <title source-urls="1">
+                <name>Colonel General</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv01/persons#p_BCGSS1</source-url>
+            </title>
+        </titles-from-name>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="2">
+        <remark source-urls="2">
+            <p>(Soviet) Deputy Chairman, Allied Control Commission for Bulgaria.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv01/persons#p_BCGSS1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv02/persons#p_BCGSS1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>See Biryuzov.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv02/persons#p_B2</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv02/persons#p_B4</source-url>
+        </remark>
+    </remarks>
+</person>

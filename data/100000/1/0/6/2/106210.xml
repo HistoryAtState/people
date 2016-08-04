@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>106210</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Hua Guofeng</name>
+        </preferred>
+        <alternates>
+            <name>Hua Kuo-feng</name>
+        </alternates>
+        <originals variants="4">
+            <original source-urls="2">
+                <name>Hua Guofeng (Hua Kuo-feng)</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v18/persons#p_HG1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v13/persons#p_HG_1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Hua Kuo-feng</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v18/persons#p_HK1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Hua Guofeng</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v01/persons#p_HG_2</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Hua Guofeng (Hua Kuo-Feng)</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v06/persons#p_HKF_1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="5">
+        <remark source-urls="1">
+            <p>Member of Politburo from 1973; Premier of PRC from 1976; Chairman of Chinese Communist Party from 1976</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v18/persons#p_HG1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>see Hua Guofeng</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v18/persons#p_HK1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>member of the Politburo; Premier of the State Council of the People’s Republic of China from 1976 until 1980; Chair of the Chinese Communist Party from 1976 until 1981</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v01/persons#p_HG_2</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Chairman of the Chinese Communist Party</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v06/persons#p_HKF_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Member of Politburo from 1973 until 1982; Premier of the State Council of PRC from 1976 until 1980; Chairman of Chinese Communist Party from 1976 until 1981</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v13/persons#p_HG_1</source-url>
+        </remark>
+    </remarks>
+</person>

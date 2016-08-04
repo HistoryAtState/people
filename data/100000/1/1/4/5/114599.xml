@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>114599</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Willauer, Whiting</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="5">
+                <name>Willauer, Whiting</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54Guat/persons#p_WW1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v04/persons#p_WW1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v05/persons#p_WW1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v06/persons#p_WW1</source-url>
+                <source-url>https://history.state.gov/departmenthistory/people/willauer-whiting</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1906</birth-year>
+    <death-year>1962</death-year>
+    <remarks variants="5">
+        <remark source-urls="1">
+            <p>Ambassador to Honduras from March 5, 1954</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54Guat/persons#p_WW1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Ambassador in Honduras from March 5, 1954 until March 24, 1958.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v04/persons#p_WW1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Ambassador to Honduras until March 1958; Ambassador to Costa Rica from May 1958</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v05/persons#p_WW1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Ambassador to Honduras until March 1958; Ambassador to Costa Rica, May 1958–December 1960; thereafter Special Assistant to the Assistant Secretary of State for Inter-American Affairs</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v06/persons#p_WW1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Non-career appointee. Ambassador Extraordinary and Plenipotentiary (Honduras); Ambassador Extraordinary and Plenipotentiary (Costa Rica).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/willauer-whiting</source-url>
+        </remark>
+    </remarks>
+</person>

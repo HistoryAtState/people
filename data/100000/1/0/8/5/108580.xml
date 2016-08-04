@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>108580</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Martin, Paul J.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="11">
+                <name>Martin, Paul</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v15p1/persons#p_MP1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v15p2/persons#p_MP1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v11/persons#p_MP1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v20/persons#p_MP1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v13/persons#p_MP1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v25/persons#p_MPJ3</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v12/persons#p_MP1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v13/persons#p_MPJ3</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v16/persons#p_MP1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v30/persons#p_MP1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v33/persons#p_MPJ3</source-url>
+            </original>
+            <original source-urls="3">
+                <name>Martin, Paul J.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v01/persons#p_MPJ1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v04/persons#p_MPJ1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v05/persons#p_MPJ1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="10">
+        <remark source-urls="2">
+            <p>Canadian Minister of National Health and Welfare; Member of the Canadian Delegation at the Seventh Regular Session of the United Nations General Assembly, 1952.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v15p1/persons#p_MP1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v15p2/persons#p_MP1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Canadian Minister of National Health and Welfare until 1957; Canadian Representative at the Tenth Regular Session of the United Nations General Assembly</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v11/persons#p_MP1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Canadian Minister of National Health and Welfare until June 1957; Chairman, Canadian Delegation to the U.N. General Assembly and Representative on the Subcommittee to the Disarmament Commission, 1955</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v20/persons#p_MP1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Liberal Party member of Parliament and from April 1963 Canadian Minister of External Affairs</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v13/persons#p_MP1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Canadian Secretary of State for External Affairs from April 22, 1963</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v25/persons#p_MPJ3</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Canadian Minister of External Affairs</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v01/persons#p_MPJ1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Canadian Foreign Minister</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v04/persons#p_MPJ1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Canadian Secretary of State for External Affairs</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v05/persons#p_MPJ1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v13/persons#p_MPJ3</source-url>
+        </remark>
+        <remark source-urls="3">
+            <p>Canadian Secretary of State for External Affairs until April 1968</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v12/persons#p_MP1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v30/persons#p_MP1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v33/persons#p_MPJ3</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Canadian Foreign Minister to April 1968</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v16/persons#p_MP1</source-url>
+        </remark>
+    </remarks>
+</person>

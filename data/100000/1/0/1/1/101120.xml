@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>101120</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Bell, James Dunbar</name>
+        </preferred>
+        <alternates/>
+        <originals variants="4">
+            <original source-urls="9">
+                <name>Bell, James D.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v01/persons#p_BJD1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v21/persons#p_BJD1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v22/persons#p_BJD1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v23p1/persons#p_BJD1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v01/persons#p_BJD1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v15/persons#p_BJD1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v17/persons#p_BJD2</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v23/persons#p_BJD1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v25/persons#p_BJD2</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Bell, James D</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v26/persons#p_BJD2</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Bell, James Dunbar</name>
+                <source-url>https://history.state.gov/departmenthistory/people/bell-james-dunbar</source-url>
+            </original>
+            <original source-urls="1">
+                <name>James D. Bell</name>
+                <source-url>https://history.state.gov/departmenthistory/people/bell-james-dunbar</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1911</birth-year>
+    <death-year>1979</death-year>
+    <remarks variants="8">
+        <remark source-urls="2">
+            <p>Deputy Director of the Office of Philippine and Southeast Asian Affairs, Department of State, July 1955–March 1956; thereafter Director of the Office of Southwest Pacific Affairs</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v01/persons#p_BJD1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v21/persons#p_BJD1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Deputy Director of the Office of Philippine and Southeast Asian Affairs, Department of State, July 1955–March 1956; Director of the Office of Southwest Pacific Affairs, March 1956–April 1957; Counselor of Embassy in Indonesia, April–December 1957</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v22/persons#p_BJD1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Deputy Director of the Office of Philippine and Southeast Asian Affairs, Department of State, from July 1955; Director of the Office of Southwest Pacific Affairs</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v23p1/persons#p_BJD1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Director of the Office of Southwest Pacific Affairs, Department of State, from June 1960</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v01/persons#p_BJD1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v15/persons#p_BJD1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Director, Office of Southwest Pacific Affairs, Bureau of Far Eastern Affairs, Department of State, from June 1960</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v17/persons#p_BJD2</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v25/persons#p_BJD2</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Director, Office of Southwest Pacific Affairs, Bureau of Far Eastern Affairs, Department of State, until April 1962</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v23/persons#p_BJD1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Ambassador to Malaysia, after March 4, 1964</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v26/persons#p_BJD2</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Foreign Service Officer. Ambassador Extraordinary and Plenipotentiary (Malaysia).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/bell-james-dunbar</source-url>
+        </remark>
+    </remarks>
+</person>

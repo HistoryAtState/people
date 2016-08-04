@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>109751</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Ne Win</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="1">
+                <name>Ne Win, Lt. Gen.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v22/persons#p_NWLG1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Ne Win, General</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v23/persons#p_NWG1</source-url>
+            </original>
+            <original source-urls="2">
+                <name>Ne Win</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v27/persons#p_NW1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve01/persons#p_NW1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="2">
+            <title source-urls="1">
+                <name>Lt. Gen.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v22/persons#p_NWLG1</source-url>
+            </title>
+            <title source-urls="1">
+                <name>General</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v23/persons#p_NWG1</source-url>
+            </title>
+        </titles-from-name>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="4">
+        <remark source-urls="1">
+            <p>Supreme Commander, Burmese Armed Forces</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v22/persons#p_NWLG1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Chief of Staff of the Burma Defense Forces; head of the Revolutionary Council after March 1962</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v23/persons#p_NWG1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>General, Chairman of the Revolutionary Council of the Union of Burma</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v27/persons#p_NW1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Chairman, Burma Union Revolutionary Council</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve01/persons#p_NW1</source-url>
+        </remark>
+    </remarks>
+</person>

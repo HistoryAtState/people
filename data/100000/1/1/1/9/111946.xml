@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>111946</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Sarper, Selim R.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="6">
+                <name>Sarper, Selim</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1943CairoTehran/persons#p_SS2</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv01/persons#p_SS2</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v24/persons#p_SS1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v10p1/persons#p_SS1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v10p2/persons#p_SS1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v16/persons#p_SS1</source-url>
+            </original>
+            <original source-urls="6">
+                <name>Sarper, Selim R.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv02/persons#p_SS2</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v05/persons#p_SS1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v03/persons#p_SARPERSR1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v11p1/persons#p_SSR1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v11p2/persons#p_SSR1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v11/persons#p_SSR1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="9">
+        <remark source-urls="1">
+            <p>Director General of the Press of Turkey.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1943CairoTehran/persons#p_SS2</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Turkish Ambassador to the Soviet Union.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv01/persons#p_SS2</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv02/persons#p_SS2</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Turkish Permanent Representative at the United Nations; President of the United Nations Security Council in May 1951.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1951v05/persons#p_SS1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Permanent Representative of Turkey to the United Nations; Representative on the Security Council, 1952 and 1954; Vice Chairman,. Turkish Delegations to the 7th and 8th Regular Sessions of the General Assembly; Chairman, Delegation to the 9th Regular Session.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v03/persons#p_SARPERSR1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Turkish Permanent Representative at the United Nations.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v11p1/persons#p_SSR1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v11p2/persons#p_SSR1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Turkish Representative at the United Nations until July 1957</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v11/persons#p_SSR1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Turkish Permanent Representative to the United Nations</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v24/persons#p_SS1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Turkish Permanent Representative to the North Atlantic Council until spring 1960; Minister of Foreign Affairs from May 1960</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v10p1/persons#p_SS1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v10p2/persons#p_SS1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Turkish Foreign Minister until March 1963</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v16/persons#p_SS1</source-url>
+        </remark>
+    </remarks>
+</person>

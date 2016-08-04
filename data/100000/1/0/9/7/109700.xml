@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>109700</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Nelson, Clifford R.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="4">
+                <name>Nelson, Clifford R.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v09p1/persons#p_NCR1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v09p2/persons#p_NCR1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve14p1/persons#p_NCR1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v02/persons#p_NCR_1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="3">
+        <remark source-urls="2">
+            <p>Vice Consul at Salzburg until September 29, 1952; thereafter Second Secretary and Vice Consul of the Embassy in Saudi Arabia.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v09p1/persons#p_NCR1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v09p2/persons#p_NCR1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Deputy Special Assistant to the Secretary of State for Population Matters</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve14p1/persons#p_NCR1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Director, Office of the Coordinator for Population Affairs, Bureau of Oceans and International Environmental and Scientific Affairs, Department of State, until late 1978</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v02/persons#p_NCR_1</source-url>
+        </remark>
+    </remarks>
+</person>

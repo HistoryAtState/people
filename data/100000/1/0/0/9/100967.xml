@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>100967</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Barwick, Garfield E.J.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="1">
+                <name>Barwick, Sir Garfield</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v02/persons#p_BSGEJ1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Barwick, Sir Garfield E.G.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v23/persons#p_BSGEG1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Barwick, Sir Garfield E. J.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v26/persons#p_BSGEJ1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="1">
+            <title source-urls="3">
+                <name>Sir</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v02/persons#p_BSGEJ1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v23/persons#p_BSGEG1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v26/persons#p_BSGEJ1</source-url>
+            </title>
+        </titles-from-name>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="3">
+        <remark source-urls="1">
+            <p>Australian Foreign Minister</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v02/persons#p_BSGEJ1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Australian Minister of External Affairs after December 22, 1961</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v23/persons#p_BSGEG1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Australian Minister of External Affairs until April 24, 1964</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v26/persons#p_BSGEJ1</source-url>
+        </remark>
+    </remarks>
+</person>

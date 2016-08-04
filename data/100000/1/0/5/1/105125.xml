@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>105125</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Graves, Charles Hinman</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="1">
+                <name>Graves, Charles Hinman</name>
+                <source-url>https://history.state.gov/departmenthistory/people/graves-charles-hinman</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Charles H. Graves</name>
+                <source-url>https://history.state.gov/departmenthistory/people/graves-charles-hinman</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1839</birth-year>
+    <death-year>1928</death-year>
+    <remarks variants="1">
+        <remark source-urls="1">
+            <p>Non-career appointee. Envoy Extraordinary and Minister Plenipotentiary (Sweden); Envoy Extraordinary and Minister Plenipotentiary (Norway).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/graves-charles-hinman</source-url>
+        </remark>
+    </remarks>
+</person>

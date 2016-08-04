@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>110711</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Pibulsonggram</name>
+        </preferred>
+        <alternates/>
+        <originals variants="5">
+            <original source-urls="1">
+                <name>Pibulsonggram, Field Marshal P. (Phibun Songkhram)</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v21/persons#p_PFMPPS1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Phibun Songkhram.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v21/persons#p_PS1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Pibulsonggram, Field Marshal P.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v22/persons#p_PFMP1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Phibun Songkhram</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v22/persons#p_PS1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Prime Minister Pibulsonggram</name>
+                <source-url>https://history.state.gov/departmenthistory/visits/thailand</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="1">
+            <title source-urls="2">
+                <name>Field Marshal</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v21/persons#p_PFMPPS1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v22/persons#p_PFMP1</source-url>
+            </title>
+        </titles-from-name>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="5">
+        <remark source-urls="1">
+            <p>Prime Minister of Thailand to September 1957; Minister of Defense and of the Interior to March 1957</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v21/persons#p_PFMPPS1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>See Pibulsonggram</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v21/persons#p_PS1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Thai Prime Minister and Minister of Defense to September 1957</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v22/persons#p_PFMP1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>see Pibulsonggram</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v22/persons#p_PS1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Prime Minister, Thailand. Visited U.S. once, 1955</p>
+            <source-url>https://history.state.gov/departmenthistory/visits/thailand</source-url>
+        </remark>
+    </remarks>
+</person>

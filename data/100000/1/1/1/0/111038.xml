@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>111038</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Quaison-Sackey, Alexander</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="4">
+                <name>Quaison-Sackey, Alex</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v02/persons#p_QSA1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v25/persons#p_QSA1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v02/persons#p_QSA1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v03/persons#p_QSA1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Quaison-Sackey, Alexander</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v33/persons#p_QSA1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="4">
+        <remark source-urls="1">
+            <p>member, Ghanian Delegation to the United Nations</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v02/persons#p_QSA1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Permanent Representative of Ghana at the United Nations</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v25/persons#p_QSA1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Ghanaian Representative to the United Nations; President, Nineteenth Session, United Nations General Assembly</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v02/persons#p_QSA1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v03/persons#p_QSA1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>President of the United Nations General Assembly December 1964–December 1965</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v33/persons#p_QSA1</source-url>
+        </remark>
+    </remarks>
+</person>

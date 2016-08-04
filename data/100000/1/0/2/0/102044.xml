@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>102044</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Byrd, Harry Flood, Jr.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="1">
+                <name>Byrd, Harry F.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v09/persons#p_BHF1</source-url>
+            </original>
+            <original source-urls="2">
+                <name>Byrd, Harry F., Jr.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v16/persons#p_BHF_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v28/persons#p_BHF_1</source-url>
+            </original>
+            <original source-urls="4">
+                <name>Byrd, Harry Flood, Jr.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v22/persons#p_BHF_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v38p1/persons#p_BHFJ_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v38p2/persons#p_BHF_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve03/persons#p_BHF1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="5">
+        <remark source-urls="1">
+            <p>Democratic Senator from Virginia; Chairman, Senate Finance Committee</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v09/persons#p_BHF1</source-url>
+        </remark>
+        <remark source-urls="3">
+            <p>Senator (I–Virginia)</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v16/persons#p_BHF_1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v38p1/persons#p_BHFJ_1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v38p2/persons#p_BHF_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Senator (I-Virginia)</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v22/persons#p_BHF_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Democratic Senator from Virginia until 1970, Independent Senator from Virginia from 1970</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v28/persons#p_BHF_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Independent Senator from Virginia</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve03/persons#p_BHF1</source-url>
+        </remark>
+    </remarks>
+</person>

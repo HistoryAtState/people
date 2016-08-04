@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>107177</id>
+    <authorities>
+        <authority service="viaf">70410147</authority>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Kim Jong Pil</name>
+        </preferred>
+        <alternates>
+            <name>Kim Chong-p’il</name>
+        </alternates>
+        <originals variants="5">
+            <original source-urls="2">
+                <name>Kim Chong-pil (Kim Chong-p'il)</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v22/persons#p_KCKC1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v29p1/persons#p_KCKC1</source-url>
+            </original>
+            <original source-urls="2">
+                <name>Kim Jong Pil</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v17/persons#p_KJP1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve13/persons#p_KCKC1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Kim Jong Pil (Kim Chong-p’il)</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v19p1/persons#p_KJP1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Kim Chong-p’il</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve14p1/persons#p_KCKC1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Prime Minister Chong Pil Kim</name>
+                <source-url>https://history.state.gov/departmenthistory/visits/korea-south</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="6">
+        <remark source-urls="1">
+            <p>Lieutenant Colonel, ROKA, Director, Korean Central Intelligence Agency until January 1963</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v22/persons#p_KCKC1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>member of the Republic of Korea National Assembly and Chairman of the Korean Democratic Republican Party</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v29p1/persons#p_KCKC1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Prime Minister of the Republic of Korea from June 3, 1971</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v17/persons#p_KJP1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve13/persons#p_KCKC1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Prime Minister of the ROK from June 3, 1971</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v19p1/persons#p_KJP1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Prime Minister of the Republic of Korea until December 19, 1975</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve14p1/persons#p_KCKC1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Prime Minister, Korea. Visited U.S. once, 1973</p>
+            <source-url>https://history.state.gov/departmenthistory/visits/korea-south</source-url>
+        </remark>
+    </remarks>
+</person>

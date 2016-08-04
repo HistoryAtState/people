@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>114452</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>West, Robert R.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="3">
+                <name>West, Robert R.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1948v02/persons#p_WRR1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v04p1/persons#p_WRR1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v04p2/persons#p_WRR1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="2">
+        <remark source-urls="1">
+            <p>Deputy Assistant Secretary of the Army</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1948v02/persons#p_WRR1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Special Assistant to the Secretary of State (Migration Affairs); Chairman, United States Delegation to the Second International Labor Organization Conference on Migration, Naples, October 1951</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1951v04p1/persons#p_WRR1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1951v04p2/persons#p_WRR1</source-url>
+        </remark>
+    </remarks>
+</person>

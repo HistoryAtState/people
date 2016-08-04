@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>109985</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Oakley, Phyllis Elliott</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="1">
+                <name>Oakley, Phyllis E.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v02/persons#p_OPE_1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Oakley, Phyllis Elliott</name>
+                <source-url>https://history.state.gov/departmenthistory/people/oakley-phyllis-elliott</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Phyllis E. Oakley</name>
+                <source-url>https://history.state.gov/departmenthistory/people/oakley-phyllis-elliott</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1934</birth-year>
+    <death-year/>
+    <remarks variants="2">
+        <remark source-urls="1">
+            <p>Officer in Charge of Public Affairs, Office of Policy Planning, Public, and Congressional Affairs, Bureau of Inter-American Affairs, Department of State, until 1979; Assistant Cultural Affairs Officer, U.S. Embassy in Kinshasa from late 1979</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v02/persons#p_OPE_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Foreign Service Officer. Assistant Secretary of State for Intelligence and Research; Assistant Secretary of State for Population, Refugees, and Migration Affairs.</p>
+            <source-url>https://history.state.gov/departmenthistory/people/oakley-phyllis-elliott</source-url>
+        </remark>
+    </remarks>
+</person>

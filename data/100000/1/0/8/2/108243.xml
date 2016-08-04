@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>108243</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Lythcott, George</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="2">
+                <name>Lythcott, Dr. George</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve05p1/persons#p_LDG1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve05p2/persons#p_LDG1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="1">
+            <title source-urls="2">
+                <name>Dr.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve05p1/persons#p_LDG1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve05p2/persons#p_LDG1</source-url>
+            </title>
+        </titles-from-name>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="2">
+        <remark source-urls="1">
+            <p>Associate Dean for International Medical Affairs, College of Physicians &amp; Surgeons, Columbia University; former Regional Director in Lagos for the 19 country project of the Public Health Service/Communicable Disease Center from July 1966 to June 1969</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve05p1/persons#p_LDG1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Associate Dean for International Medical Affairs, College of Physicians &amp; Surgeons, Columbia University; former Regional Director in Lagos for the 19 country project of the Public Health Service/Communicable Disease Center until June 1969</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve05p2/persons#p_LDG1</source-url>
+        </remark>
+    </remarks>
+</person>

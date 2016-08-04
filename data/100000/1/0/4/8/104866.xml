@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>104866</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Gibson, Hugh Simons</name>
+        </preferred>
+        <alternates/>
+        <originals variants="4">
+            <original source-urls="1">
+                <name>Gibson, Hugh S.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1916Supp/persons#p_GHS1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Gibson, Hugh</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1917-72PubDip/persons#p_GH_1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Gibson, Hugh Simons</name>
+                <source-url>https://history.state.gov/departmenthistory/people/gibson-hugh-simons</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Hugh S. Gibson</name>
+                <source-url>https://history.state.gov/departmenthistory/people/gibson-hugh-simons</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1883</birth-year>
+    <death-year>1954</death-year>
+    <remarks variants="3">
+        <remark source-urls="1">
+            <p>U. S. Secretary of Embassy at London.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1916Supp/persons#p_GHS1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Secretary at the Embassy in Paris from February 13, 1918</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1917-72PubDip/persons#p_GH_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Foreign Service Officer. Envoy Extraordinary and Minister Plenipotentiary (Switzerland); Envoy Extraordinary and Minister Plenipotentiary (Poland); Envoy Extraordinary and Minister Plenipotentiary (Luxembourg); Ambassador Extraordinary and Plenipotentiary (Brazil); Ambassador Extraordinary and Plenipotentiary (Belgium).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/gibson-hugh-simons</source-url>
+        </remark>
+    </remarks>
+</person>

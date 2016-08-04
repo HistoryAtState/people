@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>106966</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Keeler, Erwin P.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="5">
+                <name>Keeler, Erwin P.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v05/persons#p_KEP1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v09p1/persons#p_KEP1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v09p2/persons#p_KEP1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v11p1/persons#p_KEP1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v11p2/persons#p_KEP1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="3">
+        <remark source-urls="1">
+            <p>First Secretary of the Embassy in Israel, from April 1951.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1951v05/persons#p_KEP1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Counselor of the Embassy in Israel until October 6, 1952; Principal Officer at Lagos, October 6–24, 1952; thereafter Consul General.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v09p1/persons#p_KEP1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v09p2/persons#p_KEP1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Counselor of the Embassy in Israel until October 6, 1952; Principal Officer, Consulate General at Lagos, October 6–24, 1952; thereafter, Consul General at Lagos.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v11p1/persons#p_KEP1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v11p2/persons#p_KEP1</source-url>
+        </remark>
+    </remarks>
+</person>

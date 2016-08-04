@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>111385</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Rifai, Zaid</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="7">
+                <name>Rifai, Zaid</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v19/persons#p_RZ1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v20/persons#p_RZ1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v23/persons#p_RZ_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v24/persons#p_RZ1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v25/persons#p_RZ_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v26/persons#p_RZ_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve01/persons#p_RZ1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>al-Rifai, Zaid</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v27/persons#p_RZ_1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="8">
+        <remark source-urls="1">
+            <p>Secretary-General of the Royal Court of Jordan; King Hussein 's private secretary</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v19/persons#p_RZ1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Secretary-General of the Royal Court of Jordan; King Hussein's private secretary</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v20/persons#p_RZ1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Secretary General of the Royal Court of Jordan; King Hussein’s private secretary</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v23/persons#p_RZ_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Secretary-General of the Royal Court of Jordan; King Hussein’s private secretary</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v24/persons#p_RZ1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Prime Minister and Foreign Minister of Jordan from May 26, 1973</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v25/persons#p_RZ_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Jordanian Prime Minister until July 1976</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v26/persons#p_RZ_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Jordanian Foreign Minister</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v27/persons#p_RZ_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Chief, Jordanian Royal Diwan</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve01/persons#p_RZ1</source-url>
+        </remark>
+    </remarks>
+</person>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>108651</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Matsch, Franz</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="1">
+                <name>Matsch, Dr. Franz</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v02/persons#p_MF7</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Matsch, Franz</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v25/persons#p_MF7</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="1">
+            <title source-urls="1">
+                <name>Dr.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v02/persons#p_MF7</source-url>
+            </title>
+        </titles-from-name>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="2">
+        <remark source-urls="1">
+            <p>Austrian Representative at the United Nations</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v02/persons#p_MF7</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Permanent Representative of Austria at the United Nations; Chairman, United Nations Committee on the Peaceful Uses of Outer Space</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v25/persons#p_MF7</source-url>
+        </remark>
+    </remarks>
+</person>

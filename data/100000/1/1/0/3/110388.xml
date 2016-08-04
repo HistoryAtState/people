@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>110388</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Park Tongsun</name>
+        </preferred>
+        <alternates>
+            <name>Pak Dong-seon</name>
+        </alternates>
+        <originals variants="1">
+            <original source-urls="1">
+                <name>Park Tongsun (Pak Dong-seon)</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v13/persons#p_PT_1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="1">
+        <remark source-urls="1">
+            <p>was accused of bribing members of the U.S. Congress on behalf of the ROK government</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v13/persons#p_PT_1</source-url>
+        </remark>
+    </remarks>
+</person>

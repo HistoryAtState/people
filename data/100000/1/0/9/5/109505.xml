@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>109505</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Mugabe, Robert</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="1">
+                <name>Mugabe, Robert</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v28/persons#p_MR_2</source-url>
+            </original>
+            <original source-urls="1">
+                <name>President Robert Mugabe</name>
+                <source-url>https://history.state.gov/departmenthistory/visits/zimbabwe</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Prime Minister Robert Mugabe</name>
+                <source-url>https://history.state.gov/departmenthistory/visits/zimbabwe</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="3">
+        <remark source-urls="1">
+            <p>leader of the Zimbabwe People’s Army (ZIPA) and, in 1975, of the Zimbabwe African National Union (ZANU)</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v28/persons#p_MR_2</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>President, Zimbabwe. Visited U.S. 2 times, 1991–1995</p>
+            <source-url>https://history.state.gov/departmenthistory/visits/zimbabwe</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Prime Minister, Zimbabwe. Visited U.S. 2 times, 1980–1983</p>
+            <source-url>https://history.state.gov/departmenthistory/visits/zimbabwe</source-url>
+        </remark>
+    </remarks>
+</person>

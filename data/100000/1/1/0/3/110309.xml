@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>110309</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Palmer, Bruce, Jr.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="2">
+                <name>Palmer, General Bruce</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v06/persons#p_PGB1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v07/persons#p_PGB1</source-url>
+            </original>
+            <original source-urls="2">
+                <name>Palmer, General Bruce, Jr.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v32/persons#p_PGBJ1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve02/persons#p_PGBJ1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Palmer, Bruce Jr.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v32/persons#p_PB1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="1">
+            <title source-urls="4">
+                <name>General</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v06/persons#p_PGB1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v07/persons#p_PGB1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v32/persons#p_PGBJ1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve02/persons#p_PGBJ1</source-url>
+            </title>
+        </titles-from-name>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="4">
+        <remark source-urls="2">
+            <p>Chief of Staff, U.S. Army, Vietnam</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v06/persons#p_PGB1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v07/persons#p_PGB1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>USA, Commander of U.S. Forces and Deputy Commander of General Inter-American Peace Force, Dominican Republic, 1965</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v32/persons#p_PGBJ1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>General, USA, Chief of Staff (Acting), U.S. Army, from June 1972 to October 1972</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v32/persons#p_PB1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>USA, Chief of Staff (Acting), U.S. Army, from June 1972 to October 1972</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve02/persons#p_PGBJ1</source-url>
+        </remark>
+    </remarks>
+</person>

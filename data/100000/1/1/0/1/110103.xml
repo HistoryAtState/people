@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>110103</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Oppenheimer, J. Robert</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="3">
+                <name>Oppenheimer, J. Robert</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv02/persons#p_OJR1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v02p1/persons#p_OPPENHEIMERJR1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v02p2/persons#p_OPPENHEIMERJR1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="2">
+        <remark source-urls="1">
+            <p>Director, Manhattan District project laboratory, Santa Fe, New Mexico.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv02/persons#p_OJR1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Director of the Institute for Advanced Study, Princeton, New Jersey; Chairman of the General Advisory Committee of the United States Atomic Energy Commission until August 8, 1952; Chairman of the Secretary of State’s Panel of Consultants on Disarmament, 1952.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v02p1/persons#p_OPPENHEIMERJR1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v02p2/persons#p_OPPENHEIMERJR1</source-url>
+        </remark>
+    </remarks>
+</person>

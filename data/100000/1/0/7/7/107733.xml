@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>107733</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Lay, Julius Gareche</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="3">
+                <name>Lay, Julius G.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1914Supp/persons#p_LJG1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1915Supp/persons#p_LJG1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1916Supp/persons#p_LJC1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Lay, Julius Gareche</name>
+                <source-url>https://history.state.gov/departmenthistory/people/lay-julius-gareche</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Julius G. Lay</name>
+                <source-url>https://history.state.gov/departmenthistory/people/lay-julius-gareche</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1872</birth-year>
+    <death-year>1939</death-year>
+    <remarks variants="3">
+        <remark source-urls="2">
+            <p>United States Consul General at Berlin.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1914Supp/persons#p_LJG1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1915Supp/persons#p_LJG1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>U. S. Consul General at Berlin.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1916Supp/persons#p_LJC1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Foreign Service Officer. Envoy Extraordinary and Minister Plenipotentiary (Uruguay); Envoy Extraordinary and Minister Plenipotentiary (Honduras).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/lay-julius-gareche</source-url>
+        </remark>
+    </remarks>
+</person>

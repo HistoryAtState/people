@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>108827</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>McDonald, David L.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="1">
+                <name>MacDonald, Admiral David L.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v01/persons#p_MDADL1</source-url>
+            </original>
+            <original source-urls="7">
+                <name>McDonald, Admiral David L.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v02/persons#p_MDADL1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v03/persons#p_MDADL1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v04/persons#p_MDADL1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v05/persons#p_MDADL1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v10/persons#p_MDADL1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v19/persons#p_MDADL1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v28/persons#p_MDADL1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="1">
+            <title source-urls="8">
+                <name>Admiral</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v01/persons#p_MDADL1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v02/persons#p_MDADL1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v03/persons#p_MDADL1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v04/persons#p_MDADL1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v05/persons#p_MDADL1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v10/persons#p_MDADL1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v19/persons#p_MDADL1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v28/persons#p_MDADL1</source-url>
+            </title>
+        </titles-from-name>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="5">
+        <remark source-urls="3">
+            <p>USN, Chief of Naval Operations</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v01/persons#p_MDADL1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v02/persons#p_MDADL1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v03/persons#p_MDADL1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Chief of Naval Operations</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v04/persons#p_MDADL1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>USN (ret.), former Chief of Naval Operations</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v05/persons#p_MDADL1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Chief of Naval Operations until August 1, 1967</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v10/persons#p_MDADL1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v28/persons#p_MDADL1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>USN, Chief of Naval Operations until August 1967</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v19/persons#p_MDADL1</source-url>
+        </remark>
+    </remarks>
+</person>

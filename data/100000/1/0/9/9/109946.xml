@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>109946</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Novikov, Kirill Vasilyevich</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="4">
+                <name>Novikov, Kirill Vasilyevich</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv02/persons#p_NKV1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945Malta/persons#p_NKV1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945v01/persons#p_NKV1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1947v02/persons#p_NKV1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Novikov, Kiril Vasilyevich</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1946v03/persons#p_NKV1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Novikov, K. V.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v16/persons#p_NKV1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="6">
+        <remark source-urls="1">
+            <p>Director, Second European Division, People’s Commissariat for Foreign Affairs of the Soviet Union; Soviet Delegate, United Nations Conference on International Organization; Secretary, Soviet Delegation to the Berlin Conference.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv02/persons#p_NKV1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>member of the Collegium of the People’s Commissariat for Foreign Affairs of the Soviet Union, and Chief of the Second European Division.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1945Malta/persons#p_NKV1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Chief of the British Department of the Soviet Foreign Office; Soviet Delegate; Secretary-General of the Soviet Delegation.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1945v01/persons#p_NKV1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Member of the Soviet Delegation; Chief, Second European Division (United Kingdom), Ministry of Foreign Affairs of the Soviet Union</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1946v03/persons#p_NKV1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Director, Second European Division and Member of the Collegium of the Soviet Foreign Ministry; Soviet Representative to the Austrian Treaty Commission, May–October 1947</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1947v02/persons#p_NKV1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Head of the Southeast Asia Department, Soviet Ministry of Foreign Affairs; Member of the Soviet Delegation at the Geneva Conference.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v16/persons#p_NKV1</source-url>
+        </remark>
+    </remarks>
+</person>

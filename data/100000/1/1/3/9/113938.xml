@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>113938</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Valkov, Vasiliy Vasiliyevich</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="1">
+                <name>Valkov, Vasiliy Vasiliyevich</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v08/persons#p_VVV1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="1">
+        <remark source-urls="1">
+            <p>Soviet Ambassador to the Netherlands, 1950–1952; Head, Balkan Department, Soviet Foreign Ministry, 1950–1952; Soviet Ambassador to Yugoslavia, 1953–1955.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v08/persons#p_VVV1</source-url>
+        </remark>
+    </remarks>
+</person>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>100980</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Basora, Adrian A.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="1">
+                <name>Basora, Adrian A.</name>
+                <source-url>https://history.state.gov/departmenthistory/people/basora-adrian-a</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1938</birth-year>
+    <death-year/>
+    <remarks variants="1">
+        <remark source-urls="1">
+            <p>Foreign Service Officer. Ambassador Extraordinary and Plenipotentiary (Czechoslovakia); Ambassador Extraordinary and Plenipotentiary (Czech Republic).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/basora-adrian-a</source-url>
+        </remark>
+    </remarks>
+</person>

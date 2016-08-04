@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>104812</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>George VI</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="1">
+                <name>King George VI</name>
+                <source-url>https://history.state.gov/departmenthistory/visits/united-kingdom</source-url>
+            </original>
+            <original source-urls="3">
+                <name>George VI</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1943CairoTehran/persons#p_GVI1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv01/persons#p_GVI1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv02/persons#p_GV1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Great Britain and Northern Ireland</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv02/persons#p_GBNI1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="3">
+        <remark source-urls="1">
+            <p>King, United Kingdom. Visited U.S. once, 1939</p>
+            <source-url>https://history.state.gov/departmenthistory/visits/united-kingdom</source-url>
+        </remark>
+        <remark source-urls="3">
+            <p>King of the United Kingdom of Great Britain and Northern Ireland.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1943CairoTehran/persons#p_GVI1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv01/persons#p_GVI1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv02/persons#p_GV1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>The King of the United Kingdom of. See George VI.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv02/persons#p_GBNI1</source-url>
+        </remark>
+    </remarks>
+</person>

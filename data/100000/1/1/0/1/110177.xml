@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>110177</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Oudom Souvannavong</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="1">
+                <name>Oudom Souvannavong</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v28/persons#p_OS1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="1">
+        <remark source-urls="1">
+            <p>President of the Lao National Assembly 1966–1967</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v28/persons#p_OS1</source-url>
+        </remark>
+    </remarks>
+</person>

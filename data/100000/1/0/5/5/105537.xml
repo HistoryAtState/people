@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>105537</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Harding, Warren G.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="1">
+                <name>Warren G. Harding</name>
+                <source-url>https://history.state.gov/cms/apps/presidents/data/presidents.xml#harding-warren-g</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1865</birth-year>
+    <death-year>1923</death-year>
+    <remarks variants="1">
+        <remark source-urls="1">
+            <p>President of the United States, from March 4, 1921 until August 2, 1923</p>
+            <source-url>https://history.state.gov/cms/apps/presidents/data/presidents.xml#harding-warren-g</source-url>
+        </remark>
+    </remarks>
+</person>

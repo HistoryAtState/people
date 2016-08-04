@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>105147</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Green, Joseph Coy</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="4">
+                <name>Green, Joseph C.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v09p1/persons#p_GJC1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v09p2/persons#p_GJC1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v11p1/persons#p_GJC1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v11p2/persons#p_GJC1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Green, Joseph Coy</name>
+                <source-url>https://history.state.gov/departmenthistory/people/green-joseph-coy</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Joseph C. Green</name>
+                <source-url>https://history.state.gov/departmenthistory/people/green-joseph-coy</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1887</birth-year>
+    <death-year>1978</death-year>
+    <remarks variants="3">
+        <remark source-urls="2">
+            <p>Minister in Jordan, July 31–September 23, 1952; Ambassador, September 23, 1952–July 31, 1953.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v09p1/persons#p_GJC1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v09p2/persons#p_GJC1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Envoy to Jordan, July 31–September 23, 1952; Ambassador to Jordan, September 23, 1952–July 31, 1953.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v11p1/persons#p_GJC1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v11p2/persons#p_GJC1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Non-career appointee. Envoy Extraordinary and Minister Plenipotentiary (Jordan); Ambassador Extraordinary and Plenipotentiary (Jordan).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/green-joseph-coy</source-url>
+        </remark>
+    </remarks>
+</person>

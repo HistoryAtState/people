@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>112681</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Smyth, Henry DeWolf</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="3">
+                <name>Smyth, Henry D.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v02p1/persons#p_SMYTHHD1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v02p2/persons#p_SMYTHHD1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v11/persons#p_SHDW1</source-url>
+            </original>
+            <original source-urls="3">
+                <name>Smyth, Henry DeWolf</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v32/persons#p_SHD1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve02/persons#p_SHDW1</source-url>
+                <source-url>https://history.state.gov/departmenthistory/people/smyth-henry-dewolf</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1898</birth-year>
+    <death-year>1986</death-year>
+    <remarks variants="5">
+        <remark source-urls="2">
+            <p>Member of the United States Atomic Energy Commission until September 30, 1954.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v02p1/persons#p_SMYTHHD1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v02p2/persons#p_SMYTHHD1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Representative to the International Atomic Energy Agency</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v11/persons#p_SHDW1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Representative to the International Atomic Energy Agency until August 1970</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v32/persons#p_SHD1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>U.S. Representative to the IAEA until August 1970</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve02/persons#p_SHDW1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Non-career appointee. Representative of the U.S.A. to the International Atomic Energy Agency (Vienna).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/smyth-henry-dewolf</source-url>
+        </remark>
+    </remarks>
+</person>

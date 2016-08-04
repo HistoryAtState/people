@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>108277</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Macedo Soares, Jose Carlos de</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="1">
+                <name>Macedo Soares, Jose Carlos de</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v05/persons#p_MSJC1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="1">
+        <remark source-urls="1">
+            <p>Brazilian Minister of Foreign Affairs until July 4, 1958</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v05/persons#p_MSJC1</source-url>
+        </remark>
+    </remarks>
+</person>

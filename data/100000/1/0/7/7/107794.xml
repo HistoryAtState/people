@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>107794</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Lefevre, Theodore</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="3">
+                <name>Lefevre, Theodore</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v23/persons#p_LTH_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v24/persons#p_LT1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve01/persons#p_LT1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="3">
+        <remark source-urls="1">
+            <p>Belgian Prime Minister from 1961 until 1965</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v23/persons#p_LTH_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Belgian Prime Minister until June 1965</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v24/persons#p_LT1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Belgian Minister of Scientific Policy and Planning; Chairman, European Space Commission; and leader of the European Space Conference Post–Apollo negotiating team</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve01/persons#p_LT1</source-url>
+        </remark>
+    </remarks>
+</person>

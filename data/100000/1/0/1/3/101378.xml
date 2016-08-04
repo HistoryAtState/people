@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>101378</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Blackiston, Slator C., Jr.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="4">
+                <name>Blackiston, Slator C., Jr.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v13/persons#p_BSCJ1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v15/persons#p_BSCJ1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v16/persons#p_BSCJ1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v17/persons#p_BSCJ1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="3">
+        <remark source-urls="2">
+            <p>Vice Consul at Jerusalem until February 9, 1956; Consul, February 9–April 8, 1956; Office of Near Eastern Affairs, Department of State, April 8, 1956–March 10, 1957; thereafter Attaché of the Embassy in Lebanon</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v13/persons#p_BSCJ1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v16/persons#p_BSCJ1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Vice Consul at Jerusalem until February 9, 1956; Consul, February 9–April 8, 1956; Office of Near Eastern Affairs, Department of State, April 8, 1956–March 10, 1957; thereafter Attache’ of the Embassy in Lebanon</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v15/persons#p_BSCJ1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Office of Near Eastern Affairs, Department of State, April 8, 1956- March 10, 1957; thereafter Attaché of the Embassy in Lebanon</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v17/persons#p_BSCJ1</source-url>
+        </remark>
+    </remarks>
+</person>

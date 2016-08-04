@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>109091</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Meyer, Francis Gerald</name>
+        </preferred>
+        <alternates/>
+        <originals variants="4">
+            <original source-urls="1">
+                <name>Meyer, Frank G.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v05/persons#p_MFG1</source-url>
+            </original>
+            <original source-urls="2">
+                <name>Meyer, Francis G.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v17/persons#p_MFG1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve13/persons#p_MFG2</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Meyer, Francis Gerald</name>
+                <source-url>https://history.state.gov/departmenthistory/people/meyer-francis-gerald</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Francis G. Meyer</name>
+                <source-url>https://history.state.gov/departmenthistory/people/meyer-francis-gerald</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1913</birth-year>
+    <death-year>1995</death-year>
+    <remarks variants="3">
+        <remark source-urls="1">
+            <p>Assistant Secretary of State for Administration, September 1969–May 1971</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v05/persons#p_MFG1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Assistant Secretary of State for Administration, September 26, 1969–May 31, 1971</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v17/persons#p_MFG1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve13/persons#p_MFG2</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Non-career appointee. Assistant Secretary of State for Administration.</p>
+            <source-url>https://history.state.gov/departmenthistory/people/meyer-francis-gerald</source-url>
+        </remark>
+    </remarks>
+</person>

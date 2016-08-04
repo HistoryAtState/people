@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>112413</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Short, William</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="1">
+                <name>Short, William</name>
+                <source-url>https://history.state.gov/departmenthistory/people/short-william</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1759</birth-year>
+    <death-year>1849</death-year>
+    <remarks variants="1">
+        <remark source-urls="1">
+            <p>Non-career appointee. Minister Resident (Spain); Minister Plenipotentiary (Russia); Minister Resident (Netherlands); Minister Plenipotentiary (France).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/short-william</source-url>
+        </remark>
+    </remarks>
+</person>

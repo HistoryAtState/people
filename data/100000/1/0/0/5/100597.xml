@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>100597</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Arnold, Olney</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="2">
+                <name>Arnold, Olney</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1914Supp/persons#p_AO1</source-url>
+                <source-url>https://history.state.gov/departmenthistory/people/arnold-olney</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1861</birth-year>
+    <death-year>1916</death-year>
+    <remarks variants="2">
+        <remark source-urls="1">
+            <p>United states Agent and Consul General at Cairo.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1914Supp/persons#p_AO1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Non-career appointee. Agent/Consul General (Egypt).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/arnold-olney</source-url>
+        </remark>
+    </remarks>
+</person>

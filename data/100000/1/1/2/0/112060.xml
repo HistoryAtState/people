@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>112060</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Schmedemann, Albert George</name>
+        </preferred>
+        <alternates/>
+        <originals variants="4">
+            <original source-urls="2">
+                <name>Schmedeman, Albert George</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1914Supp/persons#p_SAG1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1916Supp/persons#p_SAG1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Schmedeman, Albert G.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1915Supp/persons#p_SAG1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Schmedemann, Albert George</name>
+                <source-url>https://history.state.gov/departmenthistory/people/schmedemann-albert-george</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Albert G. Schmedemann</name>
+                <source-url>https://history.state.gov/departmenthistory/people/schmedemann-albert-george</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1864</birth-year>
+    <death-year>1946</death-year>
+    <remarks variants="3">
+        <remark source-urls="2">
+            <p>United States Minister in Norway.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1914Supp/persons#p_SAG1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1915Supp/persons#p_SAG1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>U. S. Minister in Norway.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1916Supp/persons#p_SAG1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Non-career appointee. Envoy Extraordinary and Minister Plenipotentiary (Norway).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/schmedemann-albert-george</source-url>
+        </remark>
+    </remarks>
+</person>

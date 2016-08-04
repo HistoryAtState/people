@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>106054</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Holman, Eugene</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="3">
+                <name>Holman, Eugene</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v10/persons#p_HE1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v12/persons#p_HE1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v12/persons#p_HE5</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="3">
+        <remark source-urls="1">
+            <p>Chairman of the Board, Standard Oil Company of New Jersey</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v10/persons#p_HE1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Director, Chairman of the Board, and Chief Executive Officer of the Standard Oil Company of New Jersey</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v12/persons#p_HE1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Standard Oil Company of New Jersey</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v12/persons#p_HE5</source-url>
+        </remark>
+    </remarks>
+</person>

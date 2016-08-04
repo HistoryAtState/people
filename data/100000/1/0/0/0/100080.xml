@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>100080</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Acree, Vernon D.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="1">
+                <name>Acree, Vernon D.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve03/persons#p_AVD1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="1">
+        <remark source-urls="1">
+            <p>Commissioner of Customs, United States Customs Service</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve03/persons#p_AVD1</source-url>
+        </remark>
+    </remarks>
+</person>

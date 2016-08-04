@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>113701</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Tran Trung Dung</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="2">
+                <name>Dung</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v01/persons#p_Dung1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v01/persons#p_DUNG1</source-url>
+            </original>
+            <original source-urls="2">
+                <name>Tran Trung Dung</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v01/persons#p_TTD1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v01/persons#p_TTD1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="3">
+        <remark source-urls="2">
+            <p>see Tran Trung Dung</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v01/persons#p_Dung1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v01/persons#p_DUNG1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Vietnamese Deputy Minister of Defense, May–October 1955; thereafter Assistant Secretary of State for Defense</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v01/persons#p_TTD1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Assistant Secretary of State for Defense, Republic of Vietnam, to October 1960</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v01/persons#p_TTD1</source-url>
+        </remark>
+    </remarks>
+</person>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>108131</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Loudon, Alexander</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="4">
+                <name>Loudon, Alexander</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1943CairoTehran/persons#p_LA2</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv01/persons#p_LA1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv02/persons#p_LA1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945v01/persons#p_LA1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="3">
+        <remark source-urls="1">
+            <p>Netherlands Ambassador in the United States.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1943CairoTehran/persons#p_LA2</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Netherland Ambassador to the United States.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv01/persons#p_LA1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv02/persons#p_LA1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Netherlands Ambassador in the United States; Vice Chairman, Delegation of the Netherlands.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1945v01/persons#p_LA1</source-url>
+        </remark>
+    </remarks>
+</person>

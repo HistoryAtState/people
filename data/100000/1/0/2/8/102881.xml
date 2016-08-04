@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>102881</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Costa e Silva, Artur da</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="1">
+                <name>Costa e Silva, General Arturo da</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v31/persons#p_CSGA1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Costa e Silva, Artur da</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve10/persons#p_CSA2</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="1">
+            <title source-urls="1">
+                <name>General</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v31/persons#p_CSGA1</source-url>
+            </title>
+        </titles-from-name>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="2">
+        <remark source-urls="1">
+            <p>Chief of the Brazilian Army Department of Production and Works until April 1964; Brazilian Minister of War April 1964–June 1966; ARENA candidate for President, October 1966; President of Brazil from March 15, 1967</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v31/persons#p_CSGA1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>President of Brazil from March 15, 1967 until September 1969</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve10/persons#p_CSA2</source-url>
+        </remark>
+    </remarks>
+</person>

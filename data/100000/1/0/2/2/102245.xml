@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>102245</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Carter, Albert E.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="2">
+                <name>Carter, Albert E.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v31/persons#p_CAE1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v32/persons#p_CAE1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="2">
+        <remark source-urls="1">
+            <p>Deputy Director of Coordination for Intelligence and Research, Bureau of Intelligence and Research, Department of State, until December 1965</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v31/persons#p_CAE1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Deputy Director for Coordination of the Bureau of Intelligence and Research, Department of State, 1964</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v32/persons#p_CAE1</source-url>
+        </remark>
+    </remarks>
+</person>

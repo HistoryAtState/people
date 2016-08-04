@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>108972</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Mecklin, John</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="3">
+                <name>Mecklin, John</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v02/persons#p_MJ10</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v03/persons#p_MJ1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v04/persons#p_MJ1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="2">
+        <remark source-urls="1">
+            <p>Public Affairs Officer at the Embassy in Saigon, July 8-September 28, 1962; thereafter Counselor for Public Affairs</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v02/persons#p_MJ10</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Counselor for Public Affairs at the Embassy in Vietnam</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v03/persons#p_MJ1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v04/persons#p_MJ1</source-url>
+        </remark>
+    </remarks>
+</person>

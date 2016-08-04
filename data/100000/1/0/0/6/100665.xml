@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>100665</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Atwood, John Brian</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="3">
+                <name>Atwood, J. Brian</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v01/persons#p_AJB_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v02/persons#p_AJB_2</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v21/persons#p_AJB_1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Atwood, John Brian</name>
+                <source-url>https://history.state.gov/departmenthistory/people/atwood-john-brian</source-url>
+            </original>
+            <original source-urls="1">
+                <name>J. Brian Atwood</name>
+                <source-url>https://history.state.gov/departmenthistory/people/atwood-john-brian</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1942</birth-year>
+    <death-year/>
+    <remarks variants="3">
+        <remark source-urls="2">
+            <p>legislative assistant to Senator Thomas Eagleton until 1977; Deputy Assistant Secretary of State for Congressional Relations and Legislative Officer for Atomic Energy, Bureau of Intelligence and Research, and Legal Adviser, from 1977 until 1979; Assistant Secretary of State for Congressional Relations, from August 3, 1979, until January 14, 1981</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v01/persons#p_AJB_1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v02/persons#p_AJB_2</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Deputy Assistant Secretary of State for Congressional Relations from 1977 until August 1979; Assistant Secretary of State for Congressional Relations from August 3, 1979, until January 14, 1981</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v21/persons#p_AJB_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Non-career appointee. Under Secretary of State for Management; Assistant Secretary of State for Legislative Affairs; Administrator of the Agency for International Development; Ambassador Extraordinary and Plenipotentiary (Brazil).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/atwood-john-brian</source-url>
+        </remark>
+    </remarks>
+</person>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>115037</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Zhu De</name>
+        </preferred>
+        <alternates>
+            <name>Chu Teh</name>
+        </alternates>
+        <originals variants="2">
+            <original source-urls="1">
+                <name>Chu Te</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v18/persons#p_CT1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Zhu De (Chu Teh)</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v18/persons#p_ZD1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="2">
+        <remark source-urls="1">
+            <p>see Zhu De</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v18/persons#p_CT1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Chairman of the Standing Committee of the National Peoples Congress until 1976</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v18/persons#p_ZD1</source-url>
+        </remark>
+    </remarks>
+</person>

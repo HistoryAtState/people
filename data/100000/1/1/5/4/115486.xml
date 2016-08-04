@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>115486</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Frederick, Robert</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="1">
+                <name>Frederick, Major General Robert USA</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v05/persons#p_FR2</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="1">
+            <title source-urls="1">
+                <name>Major General USA</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v05/persons#p_FR2</source-url>
+            </title>
+        </titles-from-name>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="1">
+        <remark source-urls="1">
+            <p>Chief of the U.S. Joint Military Aid Group in Greece, from May 1951; assigned to the Office of the Chief of Staff of the Army, October 1951.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1951v05/persons#p_FR2</source-url>
+        </remark>
+    </remarks>
+</person>

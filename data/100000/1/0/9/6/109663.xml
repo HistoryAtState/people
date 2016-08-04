@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>109663</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Nasution, Abdul Haris</name>
+        </preferred>
+        <alternates/>
+        <originals variants="4">
+            <original source-urls="1">
+                <name>Nasution, Maj. Gen. Abdul Haris</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v22/persons#p_NMGAH1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Nasution, Major General Abdul Haris</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v17/persons#p_NGAH1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Nasution, General Abdul Haris</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v23/persons#p_NGAH1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Nasution, General Adul Haris</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v26/persons#p_NGAH1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="3">
+            <title source-urls="1">
+                <name>Maj. Gen.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v22/persons#p_NMGAH1</source-url>
+            </title>
+            <title source-urls="1">
+                <name>Major General</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v17/persons#p_NGAH1</source-url>
+            </title>
+            <title source-urls="2">
+                <name>General</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v23/persons#p_NGAH1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v26/persons#p_NGAH1</source-url>
+            </title>
+        </titles-from-name>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="4">
+        <remark source-urls="1">
+            <p>Indonesian Army Chief of Staff from October 1955</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v22/persons#p_NMGAH1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Chief of Staff, Indonesian Army</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v17/persons#p_NGAH1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Chief of Staff of the Indonesian Army (Chief of Staff of the Indonesian Armed Forces from 1963); Minister for Defense and National Security until March 1962; thereafter Deputy First Minister and Coordinator for Defense</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v23/persons#p_NGAH1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Indonesian Minister Coordinator for Defense and Security until July 25, 1966; thereafter Chief of Staff of the Armed Forces</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v26/persons#p_NGAH1</source-url>
+        </remark>
+    </remarks>
+</person>

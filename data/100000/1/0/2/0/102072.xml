@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>102072</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Cadogan, Alexander</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="5">
+                <name>Cadogan, Sir Alexander</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1943CairoTehran/persons#p_CSA1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945Malta/persons#p_CSA1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945v01/persons#p_CSA1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1948v02/persons#p_CSA1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1949v03/persons#p_CSA1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Cadogan, Hon. Sir Alexander</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv01/persons#p_CHSA1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Cadogan, Alexander</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv02/persons#p_CHSA1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="2">
+            <title source-urls="5">
+                <name>Sir</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1943CairoTehran/persons#p_CSA1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945Malta/persons#p_CSA1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945v01/persons#p_CSA1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1948v02/persons#p_CSA1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1949v03/persons#p_CSA1</source-url>
+            </title>
+            <title source-urls="1">
+                <name>Hon. Sir</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv01/persons#p_CHSA1</source-url>
+            </title>
+        </titles-from-name>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="6">
+        <remark source-urls="1">
+            <p>British Permanent Under Secretary of State for Foreign Affairs.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1943CairoTehran/persons#p_CSA1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Permanent Under-Secretary of State, British Foreign Office.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv01/persons#p_CHSA1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv02/persons#p_CHSA1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>British Permanent Under-Secretary of State for Foreign Affairs.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1945Malta/persons#p_CSA1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>British Permanent Under-Secretary of State for Foreign Affairs; Adviser, British Delegation.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1945v01/persons#p_CSA1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>British Representative to the United Nations Security Council</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1948v02/persons#p_CSA1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>British Representative to the United Nations Security Council.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1949v03/persons#p_CSA1</source-url>
+        </remark>
+    </remarks>
+</person>

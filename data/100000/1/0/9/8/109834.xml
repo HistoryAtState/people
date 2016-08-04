@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>109834</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Niazi, Amir Abdullah Khan</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="1">
+                <name>Niazi, Lt. General Amir Abdullah Khan</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve07/persons#p_NLGAAK1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="1">
+            <title source-urls="1">
+                <name>Lt. General</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve07/persons#p_NLGAAK1</source-url>
+            </title>
+        </titles-from-name>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="1">
+        <remark source-urls="1">
+            <p>Martial Law Administrator for East Pakistan from September 1971</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve07/persons#p_NLGAAK1</source-url>
+        </remark>
+    </remarks>
+</person>

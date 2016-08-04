@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>102315</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Catroux, Georges</name>
+        </preferred>
+        <alternates/>
+        <originals variants="4">
+            <original source-urls="2">
+                <name>Catroux, Georges</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1943CairoTehran/persons#p_CG1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv02/persons#p_CGAG1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Catroux, General of the Army Georges</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv01/persons#p_CGAG1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Catroux, General Georges</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1946v03/persons#p_CGS1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Catroux, Général Georges</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1947v02/persons#p_CG1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="3">
+            <title source-urls="1">
+                <name>General of the Army</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv01/persons#p_CGAG1</source-url>
+            </title>
+            <title source-urls="1">
+                <name>General</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1946v03/persons#p_CGS1</source-url>
+            </title>
+            <title source-urls="1">
+                <name>Général</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1947v02/persons#p_CG1</source-url>
+            </title>
+        </titles-from-name>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="4">
+        <remark source-urls="1">
+            <p>French General, with Free French Forces in the Middle East.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1943CairoTehran/persons#p_CG1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>French Ambassador to the Soviet Union.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv01/persons#p_CGAG1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv02/persons#p_CGAG1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Member of the French Delegation; French Ambassador in the Soviet Union</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1946v03/persons#p_CGS1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>French Ambassador in the Soviet Union</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1947v02/persons#p_CG1</source-url>
+        </remark>
+    </remarks>
+</person>

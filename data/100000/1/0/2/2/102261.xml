@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>102261</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Carter, William Hodding, III</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="5">
+                <name>Carter, William Hodding, III</name>
+                <source-url>https://history.state.gov/departmenthistory/people/carter-william-hodding</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v18/persons#p_CWH_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v20/persons#p_CH_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v21/persons#p_CWH_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v30/persons#p_CWH_1</source-url>
+            </original>
+            <original source-urls="2">
+                <name>Carter, J. Hodding, III</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v01/persons#p_CJH3_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v02/persons#p_CJH3_1</source-url>
+            </original>
+            <original source-urls="2">
+                <name>Carter, Hodding, III</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v08/persons#p_CH3_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v13/persons#p_CH3_1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1935</birth-year>
+    <death-year/>
+    <remarks variants="8">
+        <remark source-urls="1">
+            <p>Non-career appointee. Assistant Secretary of State for Public Affairs.</p>
+            <source-url>https://history.state.gov/departmenthistory/people/carter-william-hodding</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Assistant Secretary of State for Public Affairs and Department spokesperson from March 23, 1977, until June 30, 1980</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v01/persons#p_CJH3_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Assistant Secretary of State for Public Affairs and Department Spokesman from March 23, 1977, until June 30, 1980</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v02/persons#p_CJH3_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Assistant Secretary of State for Public Affairs and Department of State Spokesman from March 1977 until June 1980</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v08/persons#p_CH3_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Assistant Secretary of State for Public Affairs and Department of State Spokesperson from March 25, 1977 until June 30, 1980</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v13/persons#p_CH3_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Assistant Secretary of State for Public Affairs from March 25, 1977, until June 30, 1980; Department of State Spokesman</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v18/persons#p_CWH_1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Assistant Secretary of State for Public Affairs from March 25, 1977, until June 30, 1980</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v20/persons#p_CH_1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v21/persons#p_CWH_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Assistant Secretary of State for Public Affairs and Department Spokesman from March 25, 1977, until June 30, 1980</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v30/persons#p_CWH_1</source-url>
+        </remark>
+    </remarks>
+</person>

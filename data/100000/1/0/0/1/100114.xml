@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>100114</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Adee, Alvey Augustus</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="1">
+                <name>Adee, Alvey A.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1916Supp/persons#p_AAA1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Adee, Alvey Augustus</name>
+                <source-url>https://history.state.gov/departmenthistory/people/adee-alvey-augustus</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Alvey A. Adee</name>
+                <source-url>https://history.state.gov/departmenthistory/people/adee-alvey-augustus</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1842</birth-year>
+    <death-year>1924</death-year>
+    <remarks variants="2">
+        <remark source-urls="1">
+            <p>Second Assistant Secretary of State of the United States.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1916Supp/persons#p_AAA1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Non-career appointee. Third Assistant Secretary of State; Secretary of State ad interim; Second Assistant Secretary of State; Assistant Secretary of State.</p>
+            <source-url>https://history.state.gov/departmenthistory/people/adee-alvey-augustus</source-url>
+        </remark>
+    </remarks>
+</person>

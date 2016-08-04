@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>102397</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Chapin, Selden</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="12">
+                <name>Chapin, Selden</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v03p1/persons#p_CS1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v03p2/persons#p_CS1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v04/persons#p_CS1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v05p1/persons#p_CHAPINS1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v05p2/persons#p_CHAPINS1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v06p1/persons#p_CHAPINS1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v06p2/persons#p_CHAPINS1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v06/persons#p_CS1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v07/persons#p_CS1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v12/persons#p_CS1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v12/persons#p_CS2</source-url>
+                <source-url>https://history.state.gov/departmenthistory/people/chapin-selden</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1899</birth-year>
+    <death-year>1963</death-year>
+    <remarks variants="7">
+        <remark source-urls="2">
+            <p>Ambassador in the Netherlands.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1951v03p1/persons#p_CS1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1951v03p2/persons#p_CS1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Ambassador in Panama from January 22, 1954 until May 29, 1955.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v04/persons#p_CS1</source-url>
+        </remark>
+        <remark source-urls="4">
+            <p>Ambassador in the Netherlands, October 27, 1949–October 30, 1953.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v05p1/persons#p_CHAPINS1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v05p2/persons#p_CHAPINS1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v06p1/persons#p_CHAPINS1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v06p2/persons#p_CHAPINS1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Ambassador to Panama until May 29, 1955</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v06/persons#p_CS1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v07/persons#p_CS1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Ambassador to Panama until May 29, 1955; Ambassador to Iran from July 19, 1955</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v12/persons#p_CS1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Ambassador to Iran until June 1958</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v12/persons#p_CS2</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Foreign Service Officer. Director General of the Foreign Service; Ambassador Extraordinary and Plenipotentiary (Peru); Ambassador Extraordinary and Plenipotentiary (Panama); Ambassador Extraordinary and Plenipotentiary (Netherlands); Ambassador Extraordinary and Plenipotentiary (Iran); Envoy Extraordinary and Minister Plenipotentiary (Hungary).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/chapin-selden</source-url>
+        </remark>
+    </remarks>
+</person>

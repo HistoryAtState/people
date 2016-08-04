@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>102085</id>
+    <authorities>
+        <authority service="viaf">57850834</authority>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Calderon, Felipe</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="1">
+                <name>President Feilipe Calderon</name>
+                <source-url>https://history.state.gov/departmenthistory/visits/mexico</source-url>
+            </original>
+            <original source-urls="1">
+                <name>President Felipe Calderon</name>
+                <source-url>https://history.state.gov/departmenthistory/visits/mexico</source-url>
+            </original>
+            <original source-urls="1">
+                <name>President-elect Felipe Calderon</name>
+                <source-url>https://history.state.gov/departmenthistory/visits/mexico</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="3">
+        <remark source-urls="1">
+            <p>President, Mexico. Visited U.S. once, 2008</p>
+            <source-url>https://history.state.gov/departmenthistory/visits/mexico</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>President, Mexico. Visited U.S. 8 times, 2008–2012</p>
+            <source-url>https://history.state.gov/departmenthistory/visits/mexico</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>President-elect, Mexico. Visited U.S. once, 2006</p>
+            <source-url>https://history.state.gov/departmenthistory/visits/mexico</source-url>
+        </remark>
+    </remarks>
+</person>

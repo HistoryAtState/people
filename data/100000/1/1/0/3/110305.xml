@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>110305</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Palliser, Michael</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="4">
+                <name>Palliser, Michael</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v28/persons#p_PM_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v41/persons#p_PM_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v26/persons#p_PM_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1981-88v13/persons#p_PSM_1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="4">
+        <remark source-urls="1">
+            <p>British Permanent Under Secretary of State and Head of the Diplomatic Service from 1975</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v28/persons#p_PM_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>staff member, British Prime Minister’s Office</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v41/persons#p_PM_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>U.K. Permanent Under-Secretary of State and Head of the Diplomatic Service from 1975 until 1982</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v26/persons#p_PM_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>British Permanent Under Secretary of State for Foreign and Commonwealth Affairs and Head of the Diplomatic Service until 1982; Special Adviser to the Prime Minister, Cabinet Office, from April to July 1982</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1981-88v13/persons#p_PSM_1</source-url>
+        </remark>
+    </remarks>
+</person>

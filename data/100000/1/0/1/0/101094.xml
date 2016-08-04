@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>101094</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Behr, Robert M.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="7">
+                <name>Behr, Colonel Robert M.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v02/persons#p_BCRM1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v06/persons#p_BCRM1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v17/persons#p_BCRM1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v20/persons#p_BCRM1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve01/persons#p_BCRM1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve02/persons#p_BCRM1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve13/persons#p_BCRM1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Behr, Colonel Robert</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v12/persons#p_BCRM1</source-url>
+            </original>
+            <original source-urls="5">
+                <name>Behr, Robert M.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v19p1/persons#p_BRM1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v23/persons#p_BCRM_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v32/persons#p_BRM1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v35/persons#p_BRM_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v41/persons#p_BRM_2</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="1">
+            <title source-urls="12">
+                <name>Colonel</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v02/persons#p_BCRM1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v06/persons#p_BCRM1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v12/persons#p_BCRM1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v17/persons#p_BCRM1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v19p1/persons#p_BRM1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v20/persons#p_BCRM1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v32/persons#p_BRM1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v35/persons#p_BRM_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v41/persons#p_BRM_2</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve01/persons#p_BCRM1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve02/persons#p_BCRM1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve13/persons#p_BCRM1</source-url>
+            </title>
+        </titles-from-name>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="11">
+        <remark source-urls="2">
+            <p>USAF, Member of the National Security Council Operations Staff (Scientific Affairs) from 1969 to 1971</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v02/persons#p_BCRM1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve02/persons#p_BCRM1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>USAF, member, Operations Staff for Scientific Affairs, National Security Council</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v06/persons#p_BCRM1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>USAF, Member of the Operations Staff for Scientific Affairs, National Security Council</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v12/persons#p_BCRM1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>USAF senior staff member, National Security Council, 1969–1971</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v17/persons#p_BCRM1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve13/persons#p_BCRM1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>member, National Security Council Staff</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v19p1/persons#p_BRM1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>USAF, senior staff member, National Security Council Operations Staff for Scientific Affairs, 1969–1971</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v20/persons#p_BCRM1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>USAF, senior staff member, National Security Council Operations Staff for Scientific Affairs from 1969 until 1971</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v23/persons#p_BCRM_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Colonel, USAF, member, National Security Council Operations staff, Scientific Affairs from 1969 until 1971</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v32/persons#p_BRM1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Assistant, Director, Arms Control and Disarmament Agency</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v35/persons#p_BRM_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Colonel, USAF; member, National Security Council staff</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v41/persons#p_BRM_2</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Senior Staff Member,National Security Council, 1969–1971</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve01/persons#p_BCRM1</source-url>
+        </remark>
+    </remarks>
+</person>

@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>105534</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Hardin, Clifford M.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="10">
+                <name>Hardin, Clifford M.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v03/persons#p_HCM1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v04/persons#p_HCM1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v17/persons#p_HCM1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v20/persons#p_HCM1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v38p1/persons#p_HCM_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v38p2/persons#p_HCM_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve05p1/persons#p_HCM1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve05p2/persons#p_HCM1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve10/persons#p_HCM1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve13/persons#p_HCM1</source-url>
+            </original>
+            <original source-urls="2">
+                <name>Hardin, Dr. Clifford M.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v29/persons#p_HDCM1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve01/persons#p_HCM1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Hardin, Clifford</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v41/persons#p_HC_1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="1">
+            <title source-urls="2">
+                <name>Dr.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v29/persons#p_HDCM1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve01/persons#p_HCM1</source-url>
+            </title>
+        </titles-from-name>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="7">
+        <remark source-urls="2">
+            <p>Secretary of Agriculture, January 1969-December 1971</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v03/persons#p_HCM1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v04/persons#p_HCM1</source-url>
+        </remark>
+        <remark source-urls="4">
+            <p>Secretary of Agriculture, January 1969–December 1971</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v17/persons#p_HCM1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v20/persons#p_HCM1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v29/persons#p_HDCM1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve13/persons#p_HCM1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Secretary of Agriculture from January 21, 1969, until November 17, 1971</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v38p1/persons#p_HCM_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Secretary of Agriculture, January 21, 1969–November 17, 1971</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v38p2/persons#p_HCM_1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Secretary of Agriculture from January 1969 until December 1971</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v41/persons#p_HC_1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve10/persons#p_HCM1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Secretary of Agriculture, January 1969–December 1972</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve01/persons#p_HCM1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Secretary of Agriculture from January 1969 to December 1971</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve05p1/persons#p_HCM1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve05p2/persons#p_HCM1</source-url>
+        </remark>
+    </remarks>
+</person>

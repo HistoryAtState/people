@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>106036</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Hollick, Ann L.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="1">
+                <name>Hollick, Ann L.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v02/persons#p_HAL_1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="1">
+        <remark source-urls="1">
+            <p>Director, Policy Assessment Staff, Bureau of Oceans and International Environmental and Scientific Affairs, Department of State, from 1980</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v02/persons#p_HAL_1</source-url>
+        </remark>
+    </remarks>
+</person>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>112867</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Sprouse, Philip Dodson</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="3">
+                <name>Sprouse, Philip D.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v05p1/persons#p_SPROUSEPD1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v05p2/persons#p_SPROUSEPD1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v23/persons#p_SPD1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Sprouse, Philip Dodson</name>
+                <source-url>https://history.state.gov/departmenthistory/people/sprouse-philip-dodson</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Philip D. Sprouse</name>
+                <source-url>https://history.state.gov/departmenthistory/people/sprouse-philip-dodson</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1906</birth-year>
+    <death-year>1977</death-year>
+    <remarks variants="3">
+        <remark source-urls="2">
+            <p>Counselor of the Embassy in France, November 195–September 1953; thereafter Counselor of the Embassy in Belgium.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v05p1/persons#p_SPROUSEPD1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v05p2/persons#p_SPROUSEPD1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Ambassador to Cambodia after June 28, 1962</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v23/persons#p_SPD1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Foreign Service Officer. Ambassador Extraordinary and Plenipotentiary (Cambodia).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/sprouse-philip-dodson</source-url>
+        </remark>
+    </remarks>
+</person>

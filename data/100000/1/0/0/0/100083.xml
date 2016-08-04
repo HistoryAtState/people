@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>100083</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Adair, Charles Wallace, Jr.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="4">
+                <name>Adair, Charles W., Jr.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v05p1/persons#p_ADAIRCWJ1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v05p2/persons#p_ADAIRCWJ1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v05/persons#p_ACWJ1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v31/persons#p_ACWJ1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Adair, Charles Wallace, Jr.</name>
+                <source-url>https://history.state.gov/departmenthistory/people/adair-charles-wallace</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Charles W. Adair Jr.</name>
+                <source-url>https://history.state.gov/departmenthistory/people/adair-charles-wallace</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1914</birth-year>
+    <death-year>2006</death-year>
+    <remarks variants="4">
+        <remark source-urls="2">
+            <p>Office of European Regional Affairs, Department of State, July 1954; thereafter Counselor of Embassy in Belgium.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v05p1/persons#p_ADAIRCWJ1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v05p2/persons#p_ADAIRCWJ1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Chief, Trade Agreements and Treaties Division, Office of International Trade, Department of State, until June 1958; Director, Office of International Financial and Development Affairs, June 1958–October 1959; Deputy Assistant Secretary of State for Economic Affairs from November 1959</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v05/persons#p_ACWJ1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Ambassador to Panama from May 6, 1965</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v31/persons#p_ACWJ1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Foreign Service Officer. Ambassador Extraordinary and Plenipotentiary (Uruguay); Ambassador Extraordinary and Plenipotentiary (Panama).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/adair-charles-wallace</source-url>
+        </remark>
+    </remarks>
+</person>

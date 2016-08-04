@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>109718</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Nemec, Frantisek</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="1">
+                <name>Nemec, Frantisek</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945Malta/persons#p_NF1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="1">
+        <remark source-urls="1">
+            <p>Czechoslavak Minister of Liberated Territories, September 1944–April 1945.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1945Malta/persons#p_NF1</source-url>
+        </remark>
+    </remarks>
+</person>

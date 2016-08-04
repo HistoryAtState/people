@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>112987</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Stettinius, Edward Reilly, Jr.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="2">
+                <name>Stettinius, Edward Reilly, Jr.</name>
+                <source-url>https://history.state.gov/departmenthistory/people/stettinius-edward-reilly</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv02/persons#p_SERJ1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Edward R. Stettinius, Jr.</name>
+                <source-url>https://history.state.gov/departmenthistory/people/stettinius-edward-reilly</source-url>
+            </original>
+            <original source-urls="5">
+                <name>Stettinius, Edward R., Jr.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1943CairoTehran/persons#p_SERJ1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv01/persons#p_SERJ1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945Malta/persons#p_SERJ1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945v01/persons#p_SERJ1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1947v02/persons#p_SER1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1900</birth-year>
+    <death-year>1949</death-year>
+    <remarks variants="7">
+        <remark source-urls="1">
+            <p>Non-career appointee. Under Secretary of State; Secretary of State; Representative of the U.S.A. to the United Nations.</p>
+            <source-url>https://history.state.gov/departmenthistory/people/stettinius-edward-reilly</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Under Secretary of State; Secretary of State, November 30, 1944r–June 27, 1945.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1943CairoTehran/persons#p_SERJ1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Secretary of State (to June 27); Chairman, United States Delegation, United Nations Conference on International Organization.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv01/persons#p_SERJ1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Secretary of State (to June 27); Personal Representative of the President (from June 28); Chairman, United States Delegation, United Nations Conference on International Organization (April 17–June 26).</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv02/persons#p_SERJ1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Under Secretary of State, October 1943–November 1944; Secretary of State, December 1944–June 1945.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1945Malta/persons#p_SERJ1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Secretary of State; United States Delegate and Chairman of United States Delegation.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1945v01/persons#p_SERJ1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Secretary of State, December 1944–June 1945</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1947v02/persons#p_SER1</source-url>
+        </remark>
+    </remarks>
+</person>

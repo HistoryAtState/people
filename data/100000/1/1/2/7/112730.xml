@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>112730</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Solomon, Richard H.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="6">
+                <name>Solomon, Richard H.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v10/persons#p_SRH1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v18/persons#p_SRH1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v35/persons#p_SRH_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v38p2/persons#p_SRH_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve12/persons#p_solomon-richard-h</source-url>
+                <source-url>https://history.state.gov/departmenthistory/people/solomon-richard-h</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1937</birth-year>
+    <death-year/>
+    <remarks variants="6">
+        <remark source-urls="1">
+            <p>member, National Security Council staff</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v10/persons#p_SRH1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>senior staff member of the NSC until 1976</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v18/persons#p_SRH1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>member, National Security Council staff from August 1974 until June 1976</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v35/persons#p_SRH_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>senior staff member, National Security Council Staff</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v38p2/persons#p_SRH_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>senior staff member, National Security Council until 1976</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve12/persons#p_solomon-richard-h</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Non-career appointee. Director of Policy Planning; Assistant Secretary of State for East Asian and Pacific Affairs; Ambassador Extraordinary and Plenipotentiary (Philippines).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/solomon-richard-h</source-url>
+        </remark>
+    </remarks>
+</person>

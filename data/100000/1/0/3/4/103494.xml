@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>103494</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Dimitrov, Georgy M.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="1">
+                <name>Dimitroff</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv01/persons#p_D1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Dimitrov, Georgy</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv01/persons#p_DG1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Dimitrov, Georgy M.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv01/persons#p_DGM1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="3">
+        <remark source-urls="1">
+            <p>See Dimitrov.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv01/persons#p_D1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>President, Bulgarian Communist Party.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv01/persons#p_DG1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>leader of the Bulgarian National Agrarian Union.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv01/persons#p_DGM1</source-url>
+        </remark>
+    </remarks>
+</person>

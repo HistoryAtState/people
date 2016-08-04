@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>100489</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Ansary, Hushang</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="5">
+                <name>Ansary, Hushang</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v21/persons#p_AH1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v22/persons#p_AH1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v27/persons#p_AH_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v28/persons#p_AH_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve04/persons#p_AH1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Ansari (also Ansary), Hushang</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v37/persons#p_AH_1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="6">
+        <remark source-urls="1">
+            <p>Iranian Ambassador to the United States from 1967</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v21/persons#p_AH1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Iranian Ambassador to the United States from May 1967</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v22/persons#p_AH1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Iranian Economic Affairs and Finance Minister</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v27/persons#p_AH_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Iranian Minister of Economic Affairs and Finance</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v28/persons#p_AH_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Iranian Minister of Finance and Economy until 1977; Director, National Iranian Oil Company, from 1977 until 1978</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v37/persons#p_AH_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Iranian Ambassador to the United States until July 1969</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve04/persons#p_AH1</source-url>
+        </remark>
+    </remarks>
+</person>

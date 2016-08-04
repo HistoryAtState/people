@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>100755</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Bagley, Worth H.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="4">
+            <original source-urls="1">
+                <name>Bagley, Lt. Cmdr. Worth H.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v01/persons#p_BLCWH1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Bagley, Worth H.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v02/persons#p_BWH1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Bagley, Lieutenant Commander Worth H.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v03/persons#p_BLCWH1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Bagley</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v24/persons#p_Bagley1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="2">
+            <title source-urls="1">
+                <name>Lt. Cmdr.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v01/persons#p_BLCWH1</source-url>
+            </title>
+            <title source-urls="1">
+                <name>Lieutenant Commander </name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v03/persons#p_BLCWH1</source-url>
+            </title>
+        </titles-from-name>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="3">
+        <remark source-urls="2">
+            <p>Naval Aide to the President's Military Representative</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v01/persons#p_BLCWH1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v02/persons#p_BWH1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>USN, Naval Aide to the Chairman of the Joint Chiefs of Staff</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v03/persons#p_BLCWH1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Lieutenant Commander Worth H., USN, Naval Aide to the President's Military Representative, General Maxwell D. Taylor, after July 1961</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v24/persons#p_Bagley1</source-url>
+        </remark>
+    </remarks>
+</person>

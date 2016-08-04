@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>103823</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Eddy, Spencer Fayette</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="1">
+                <name>Eddy, Spencer Fayette</name>
+                <source-url>https://history.state.gov/departmenthistory/people/eddy-spencer-fayette</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Spencer F. Eddy</name>
+                <source-url>https://history.state.gov/departmenthistory/people/eddy-spencer-fayette</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1874</birth-year>
+    <death-year>1939</death-year>
+    <remarks variants="1">
+        <remark source-urls="1">
+            <p>Non-career appointee. Envoy Extraordinary and Minister Plenipotentiary (Yugoslavia); Envoy Extraordinary and Minister Plenipotentiary (Romania); Diplomatic Agent (Bulgaria); Envoy Extraordinary and Minister Plenipotentiary (Argentina).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/eddy-spencer-fayette</source-url>
+        </remark>
+    </remarks>
+</person>

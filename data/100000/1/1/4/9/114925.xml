@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>114925</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>York, Herbert F.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="1">
+                <name>York, Dr. Herbert F.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v03/persons#p_YDHF1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>York, Herbert</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v01/persons#p_YH_1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>York, Herbert F.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v26/persons#p_YH_1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="1">
+            <title source-urls="1">
+                <name>Dr.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v03/persons#p_YDHF1</source-url>
+            </title>
+        </titles-from-name>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="3">
+        <remark source-urls="1">
+            <p>Director of Research and Engineering, Department of Defense, from December 30, 1958</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v03/persons#p_YDHF1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>physicist; former Chancellor, University of California-San Diego</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v01/persons#p_YH_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>U.S. Ambassador and Representative to the Trilateral Comprehensive Test Ban Negotiations from 1979 until 1980</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v26/persons#p_YH_1</source-url>
+        </remark>
+    </remarks>
+</person>

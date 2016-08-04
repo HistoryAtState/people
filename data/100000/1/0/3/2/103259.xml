@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>103259</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Dearborn, Henry Mark Valpey</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="2">
+                <name>Dearborn, Henry</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v06/persons#p_DH1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v07/persons#p_DH1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Dearborn, Henry V.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v12/persons#p_DHV1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Dearborn, Henry Mark Valpey</name>
+                <source-url>https://history.state.gov/departmenthistory/people/dearborn-henry-mark-valpey</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1913</birth-year>
+    <death-year>2013</death-year>
+    <remarks variants="3">
+        <remark source-urls="2">
+            <p>Officer in Charge of River Plate Affairs, Office of South American Affairs, Department of State, unitl January 30, 1955; Deputy Director, Office of South American Affairs, January 30-December 31, 1955; thereafter, First Secretary and Counselor, Embassy in Peru</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v06/persons#p_DH1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v07/persons#p_DH1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Consul General, Ciudad Trujillo to May 27, 1961; Counselor, Embassy in Bogota from September 1961</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v12/persons#p_DHV1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Foreign Service Officer. Chargé d'Affaires ad interim (Dominican Republic).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/dearborn-henry-mark-valpey</source-url>
+        </remark>
+    </remarks>
+</person>

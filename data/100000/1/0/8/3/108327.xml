@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>108327</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Maga, Hubert</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="1">
+                <name>Maga, Hubert</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v05/persons#p_MH1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Chief of State Hubert Maga</name>
+                <source-url>https://history.state.gov/departmenthistory/visits/benin</source-url>
+            </original>
+            <original source-urls="1">
+                <name>President Hubert Maga</name>
+                <source-url>https://history.state.gov/departmenthistory/visits/benin</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="3">
+        <remark source-urls="1">
+            <p>President of Dahomey</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v05/persons#p_MH1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Chief of State, Dahomey (Benin). Visited U.S. once, 1970</p>
+            <source-url>https://history.state.gov/departmenthistory/visits/benin</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>President, Dahomey (Benin). Visited U.S. once, 1971</p>
+            <source-url>https://history.state.gov/departmenthistory/visits/benin</source-url>
+        </remark>
+    </remarks>
+</person>

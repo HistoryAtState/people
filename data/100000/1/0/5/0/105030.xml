@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>105030</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Goodyear, John</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="2">
+                <name>Goodyear, John</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v10p1/persons#p_GJ1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v10p2/persons#p_GJ1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="1">
+        <remark source-urls="2">
+            <p>Counselor for Political Affairs of the Embassy in Turkey until August 1959</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v10p1/persons#p_GJ1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v10p2/persons#p_GJ1</source-url>
+        </remark>
+    </remarks>
+</person>

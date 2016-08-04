@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>103432</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Dewey, Thomas E.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="1">
+                <name>Dewey, Thomas E.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v13/persons#p_DTE1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="1">
+        <remark source-urls="1">
+            <p>Governor of New York from 1943 until 1955</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v13/persons#p_DTE1</source-url>
+        </remark>
+    </remarks>
+</person>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>107702</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Lausche, Frank J.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="1">
+                <name>Lash</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945Malta/persons#p_L3</source-url>
+            </original>
+            <original source-urls="3">
+                <name>Lausche, Frank J.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945Malta/persons#p_LFJ1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v01/persons#p_LFJ1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v25/persons#p_LFJ1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Lausche, Frank</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v04/persons#p_LF1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="5">
+        <remark source-urls="1">
+            <p>See Lausche, Frank J.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1945Malta/persons#p_L3</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Governor of Ohio.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1945Malta/persons#p_LFJ1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Senator from Ohio</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v01/persons#p_LFJ1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Democratic Senator from Ohio and Chairman of the Far Eastern Subcommittee, Senate Foreign Relations Committee</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v04/persons#p_LF1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Democratic Senator from Ohio</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v25/persons#p_LFJ1</source-url>
+        </remark>
+    </remarks>
+</person>

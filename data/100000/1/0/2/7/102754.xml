@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>102754</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Comay, Michael S.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="8">
+                <name>Comay, Michael S.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v05/persons#p_CM2</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v15/persons#p_CMS1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v16/persons#p_CMS1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v17/persons#p_CMS1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v13/persons#p_CMS1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v17/persons#p_CMS1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v18/persons#p_CMS1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v20/persons#p_CMS1</source-url>
+            </original>
+            <original source-urls="2">
+                <name>Comay, Michael</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v09p1/persons#p_CM1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v09p2/persons#p_CM1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="6">
+        <remark source-urls="1">
+            <p>Israeli Ministry of Foreign Affairs.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1951v05/persons#p_CM2</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Director, British Commonwealth Division, Israeli Ministry of Foreign Affairs, until 1953; Assistant Director General, 1953; Ambassador to Canada from 1953.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v09p1/persons#p_CM1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v09p2/persons#p_CM1</source-url>
+        </remark>
+        <remark source-urls="3">
+            <p>Israeli Ambassador to Canada until April 1957</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v15/persons#p_CMS1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v16/persons#p_CMS1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v17/persons#p_CMS1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Assistant Director General, Israeli Foreign Ministry, until November 1959; thereafter Israeli Representative at the United Nations</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v13/persons#p_CMS1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Israeli Permanent Representative to the United Nations</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v17/persons#p_CMS1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v18/persons#p_CMS1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Israeli Permanent Representative at the United Nations in 1967</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v20/persons#p_CMS1</source-url>
+        </remark>
+    </remarks>
+</person>

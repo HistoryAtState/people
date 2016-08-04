@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>110591</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Peter, Janos</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="4">
+                <name>Peter, Janos</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v02/persons#p_PJ1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v03/persons#p_PJ1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v17/persons#p_PJ1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v29/persons#p_PJ1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="1">
+        <remark source-urls="4">
+            <p>Hungarian Foreign Minister</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v02/persons#p_PJ1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v03/persons#p_PJ1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v17/persons#p_PJ1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v29/persons#p_PJ1</source-url>
+        </remark>
+    </remarks>
+</person>

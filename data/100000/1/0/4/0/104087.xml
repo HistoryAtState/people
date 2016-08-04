@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>104087</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Everett, Edward</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="1">
+                <name>Everett, Edward</name>
+                <source-url>https://history.state.gov/departmenthistory/people/everett-edward</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1794</birth-year>
+    <death-year>1865</death-year>
+    <remarks variants="1">
+        <remark source-urls="1">
+            <p>Non-career appointee. Secretary of State; Envoy Extraordinary and Minister Plenipotentiary (United Kingdom); Commissioner (China).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/everett-edward</source-url>
+        </remark>
+    </remarks>
+</person>

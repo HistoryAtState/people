@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>104255</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Figueres Ferrer, José</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="8">
+                <name>Figueres Ferrer, José</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v04/persons#p_FFJ1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v06/persons#p_FFJ1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v07/persons#p_FFJ1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v05/persons#p_FFJ1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v06/persons#p_FFJ1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v31/persons#p_FFJ1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve10/persons#p_FFJ1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve11p1/persons#p_FFJ_1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Figueres-Ferrer, José Pepe</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v32/persons#p_FFJ1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Ferrer Figueres, Jose</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve01/persons#p_FFJ1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="7">
+        <remark source-urls="1">
+            <p>President of Costa Rica from November 8, 1953 until May 7, 1958.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v04/persons#p_FFJ1</source-url>
+        </remark>
+        <remark source-urls="3">
+            <p>President of Costa Rica</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v06/persons#p_FFJ1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v07/persons#p_FFJ1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve01/persons#p_FFJ1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>President of Costa Rica until May 8, 1958</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v05/persons#p_FFJ1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>President of Costa Rica until February 1958</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v06/persons#p_FFJ1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>former President of Costa Rica</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v31/persons#p_FFJ1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v32/persons#p_FFJ1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>presidential candidate of the Partido Liberación Nacional, 1970; Costa Rican President from 1970 until 1974</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve10/persons#p_FFJ1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>President of Costa Rica until 1974</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve11p1/persons#p_FFJ_1</source-url>
+        </remark>
+    </remarks>
+</person>

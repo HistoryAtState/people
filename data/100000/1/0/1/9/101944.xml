@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>101944</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Burgess, Carter Lane</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="1">
+                <name>Burgess, Carter Lane</name>
+                <source-url>https://history.state.gov/departmenthistory/people/burgess-carter-lane</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Carter L. Burgess</name>
+                <source-url>https://history.state.gov/departmenthistory/people/burgess-carter-lane</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1916</birth-year>
+    <death-year>2002</death-year>
+    <remarks variants="1">
+        <remark source-urls="1">
+            <p>Non-career appointee. Ambassador Extraordinary and Plenipotentiary (Argentina).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/burgess-carter-lane</source-url>
+        </remark>
+    </remarks>
+</person>

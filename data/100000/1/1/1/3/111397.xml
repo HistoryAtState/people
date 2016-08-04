@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>111397</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Rimestad, Idar D.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="2">
+                <name>Rimestad, Idar</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v33/persons#p_RI1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v02/persons#p_RI1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Rimestad, Idar D.</name>
+                <source-url>https://history.state.gov/departmenthistory/people/rimestad-idar-d</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Idar Rimestad</name>
+                <source-url>https://history.state.gov/departmenthistory/people/rimestad-idar-d</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1916</birth-year>
+    <death-year>2003</death-year>
+    <remarks variants="3">
+        <remark source-urls="1">
+            <p>Deputy Under Secretary of State for Administration from February 3, 1967</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v33/persons#p_RI1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Deputy Under Secretary of State for Administration until October 1969</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v02/persons#p_RI1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Foreign Service Officer. Deputy Under Secretary of State for Management; Representative of the U.S.A. to the European Office of the United Nations (Geneva).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/rimestad-idar-d</source-url>
+        </remark>
+    </remarks>
+</person>

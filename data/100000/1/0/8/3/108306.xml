@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>108306</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>MacMurray, John Van Antwerp</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="2">
+                <name>MacMurray, John Van Antwerp</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1914Supp/persons#p_MJVA1</source-url>
+                <source-url>https://history.state.gov/departmenthistory/people/macmurray-john-van-antwerp</source-url>
+            </original>
+            <original source-urls="1">
+                <name>John Van A. MacMurray</name>
+                <source-url>https://history.state.gov/departmenthistory/people/macmurray-john-van-antwerp</source-url>
+            </original>
+            <original source-urls="1">
+                <name>John Van. A. MacMurray</name>
+                <source-url>https://history.state.gov/departmenthistory/people/macmurray-john-van-antwerp</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1881</birth-year>
+    <death-year>1960</death-year>
+    <remarks variants="2">
+        <remark source-urls="1">
+            <p>United States Secretary of Legation and Chargé d’Affaires in China.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1914Supp/persons#p_MJVA1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Foreign Service Officer. Assistant Secretary of State; Ambassador Extraordinary and Plenipotentiary (Turkey); Envoy Extraordinary and Minister Plenipotentiary (Lithuania); Envoy Extraordinary and Minister Plenipotentiary (Latvia); Envoy Extraordinary and Minister Plenipotentiary (Estonia); Envoy Extraordinary and Minister Plenipotentiary (China).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/macmurray-john-van-antwerp</source-url>
+        </remark>
+    </remarks>
+</person>

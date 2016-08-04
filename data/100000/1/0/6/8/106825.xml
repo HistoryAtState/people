@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>106825</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Kaiser, Philip Mayer</name>
+        </preferred>
+        <alternates/>
+        <originals variants="4">
+            <original source-urls="3">
+                <name>Kaiser, Philip M.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v21/persons#p_KPM2</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v12/persons#p_KPM1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v24/persons#p_KPM2</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Kaiser, Philip</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v05/persons#p_KP1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Kaiser, Philip Mayer</name>
+                <source-url>https://history.state.gov/departmenthistory/people/kaiser-philip-mayer</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Philip M. Kaiser</name>
+                <source-url>https://history.state.gov/departmenthistory/people/kaiser-philip-mayer</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1913</birth-year>
+    <death-year>2007</death-year>
+    <remarks variants="5">
+        <remark source-urls="1">
+            <p>Ambassador to Senegal from July 1961</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v21/persons#p_KPM2</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Deputy Chief of Mission, U.S. Embassy, London</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v05/persons#p_KP1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Deputy Chief of Mission in London from July 1964</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v12/persons#p_KPM1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Deputy Chief of Mission at the Embassy in the United Kingdom from July 1964</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v24/persons#p_KPM2</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Non-career appointee. Ambassador Extraordinary and Plenipotentiary (Senegal); Ambassador Extraordinary and Plenipotentiary (Mauritania); Ambassador Extraordinary and Plenipotentiary (Hungary); Ambassador Extraordinary and Plenipotentiary (Austria).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/kaiser-philip-mayer</source-url>
+        </remark>
+    </remarks>
+</person>

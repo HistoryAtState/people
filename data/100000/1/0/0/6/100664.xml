@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>100664</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Attwood, William Hollingsworth</name>
+        </preferred>
+        <alternates/>
+        <originals variants="4">
+            <original source-urls="2">
+                <name>Attwood, William</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v11/persons#p_AWH2</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v24/persons#p_AWH2</source-url>
+            </original>
+            <original source-urls="2">
+                <name>Attwood, William H.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v21/persons#p_AWH2</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v23/persons#p_AWH_1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Attwood, William Hollingsworth</name>
+                <source-url>https://history.state.gov/departmenthistory/people/attwood-william-hollingsworth</source-url>
+            </original>
+            <original source-urls="1">
+                <name>William Attwood</name>
+                <source-url>https://history.state.gov/departmenthistory/people/attwood-william-hollingsworth</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1919</birth-year>
+    <death-year>1989</death-year>
+    <remarks variants="5">
+        <remark source-urls="1">
+            <p>Ambassador to Guinea March 29, 1961-May 27, 1963</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v11/persons#p_AWH2</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Ambassador to Guinea until May 1963</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v21/persons#p_AWH2</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Ambassador to Guinea from April 26, 1961 until May 27, 1963; Ambassador to Kenya from March 2, 1964 until May 1, 1966</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v23/persons#p_AWH_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Ambassador to Kenya, March 1964–May 1966</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v24/persons#p_AWH2</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Non-career appointee. Ambassador Extraordinary and Plenipotentiary (Kenya); Ambassador Extraordinary and Plenipotentiary (Guinea).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/attwood-william-hollingsworth</source-url>
+        </remark>
+    </remarks>
+</person>

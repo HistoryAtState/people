@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>107193</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>King, David Sjodahl</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="1">
+                <name>King, David Sjodahl</name>
+                <source-url>https://history.state.gov/departmenthistory/people/king-david-sjodahl</source-url>
+            </original>
+            <original source-urls="1">
+                <name>David S. King</name>
+                <source-url>https://history.state.gov/departmenthistory/people/king-david-sjodahl</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1917</birth-year>
+    <death-year>2009</death-year>
+    <remarks variants="1">
+        <remark source-urls="1">
+            <p>Non-career appointee. Ambassador Extraordinary and Plenipotentiary (Mauritius); Ambassador Extraordinary and Plenipotentiary (Madagascar).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/king-david-sjodahl</source-url>
+        </remark>
+    </remarks>
+</person>

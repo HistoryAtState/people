@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>109398</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Mori, Haruki</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="2">
+                <name>Mori, Haruki</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v29p2/persons#p_MH3</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v05/persons#p_MH2</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="2">
+        <remark source-urls="1">
+            <p>Japanese Deputy Vice Minister of Foreign Affairs from April 14, 1967 to July 10, 1970</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v29p2/persons#p_MH3</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Vice Foreign Minister of Japan, 1971</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v05/persons#p_MH2</source-url>
+        </remark>
+    </remarks>
+</person>

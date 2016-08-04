@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>101267</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Bethmann-Hollweg, Theobald Theodore Friedrich Alfred von</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="1">
+                <name>Bethmann-Hollweg, Theobald Theodore Friedrich Alfred von</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1914Supp/persons#p_BHTTFAV1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Bethmann Hollweg, Theobald Theodore Friedrich Alfred von.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1915Supp/persons#p_BHTTFAV1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Bethmann-Hollweg, Theobald Theodore Friedrich Alfred von.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1916Supp/persons#p_BHTTFAV1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="2">
+        <remark source-urls="1">
+            <p>German Imperial Chancellor and Minister of Foreign Affairs.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1914Supp/persons#p_BHTTFAV1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>German Imperial Chancellor and Prussian Minister President.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1915Supp/persons#p_BHTTFAV1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1916Supp/persons#p_BHTTFAV1</source-url>
+        </remark>
+    </remarks>
+</person>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>112265</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Seymour, Thomas Hart</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="1">
+                <name>Seymour, Thomas Hart</name>
+                <source-url>https://history.state.gov/departmenthistory/people/seymour-thomas-hart</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Thomas H. Seymour</name>
+                <source-url>https://history.state.gov/departmenthistory/people/seymour-thomas-hart</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1807</birth-year>
+    <death-year>1868</death-year>
+    <remarks variants="1">
+        <remark source-urls="1">
+            <p>Non-career appointee. Envoy Extraordinary and Minister Plenipotentiary (Russia).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/seymour-thomas-hart</source-url>
+        </remark>
+    </remarks>
+</person>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>114766</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Wolle, William Down</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="2">
+                <name>Wolle, William D.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v18/persons#p_WWD1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v21/persons#p_WWD1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Wolle, William Down</name>
+                <source-url>https://history.state.gov/departmenthistory/people/wolle-william-down</source-url>
+            </original>
+            <original source-urls="1">
+                <name>William D. Wolle</name>
+                <source-url>https://history.state.gov/departmenthistory/people/wolle-william-down</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1928</birth-year>
+    <death-year/>
+    <remarks variants="3">
+        <remark source-urls="1">
+            <p>Officer in Charge of Arab-Israel Affairs, Bureau of Near Eastern and South Asian Affairs, Department of State, August 1965–August 1967</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v18/persons#p_WWD1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Officer in Charge of Arab-Israel Affairs, Bureau of Near Eastern and South Asian Affairs, Department of State, August 1965-August 1967</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v21/persons#p_WWD1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Foreign Service Officer. Ambassador Extraordinary and Plenipotentiary (United Arab Emirates); Ambassador Extraordinary and Plenipotentiary (Oman).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/wolle-william-down</source-url>
+        </remark>
+    </remarks>
+</person>

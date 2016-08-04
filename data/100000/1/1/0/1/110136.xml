@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>110136</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Ortona, Egidio</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="4">
+                <name>Ortona, Egidio</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v02/persons#p_OE3</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v12/persons#p_OE1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v34/persons#p_OE3</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v41/persons#p_OE_1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Orotona, Egidio</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v06/persons#p_OE1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="4">
+        <remark source-urls="1">
+            <p>Italian Representative at the United Nations from 1959</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v02/persons#p_OE3</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Italian Ambassador to the United States</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v06/persons#p_OE1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v41/persons#p_OE_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Italian Ambassador to the United States from June 1967</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v12/persons#p_OE1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Italian Ambassador to the United States; Chairman of the 1964 European Conference on Space Communications</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v34/persons#p_OE3</source-url>
+        </remark>
+    </remarks>
+</person>

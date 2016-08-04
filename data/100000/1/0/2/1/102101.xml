@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>102101</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Califano, Joseph A., Jr.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="6">
+                <name>Califano, Joseph A., Jr.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v12/persons#p_CJAJ2</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v08/persons#p_CJAJ2</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v09/persons#p_CJAJ2</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v31/persons#p_CJAJ1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v32/persons#p_CJAJ1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v02/persons#p_CJAJ_1</source-url>
+            </original>
+            <original source-urls="5">
+                <name>Califano, Joseph A.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v02/persons#p_CJA1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v03/persons#p_CJA1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v04/persons#p_CJA1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v05/persons#p_CJA1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v13/persons#p_CJA_1</source-url>
+            </original>
+            <original source-urls="4">
+                <name>Califano, Joseph</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v06/persons#p_CJ1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v07/persons#p_CJ1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v12/persons#p_CJ1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v25/persons#p_CJ1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="11">
+        <remark source-urls="1">
+            <p>Special Assistant to the Secretary of the Army</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v12/persons#p_CJAJ2</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Special Assistant to the Secretary and Deputy Secretary of Defense, 1964–1965; thereafter Special Assistant to the President</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v08/persons#p_CJAJ2</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Special Assistant to the Secretary and Deputy Secretary of Defense 1964–1965; thereafter Special Assistant to the President</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v09/persons#p_CJAJ2</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>General Counsel, Department of the Army, until March 1964; Special Assistant to the Secretary of Defense until July 1965; thereafter Special Assistant to the President</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v31/persons#p_CJAJ1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Special Assistant to the President from July 1965</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v32/persons#p_CJAJ1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v25/persons#p_CJ1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Secretary of Health, Education, and Welfare from January 25, 1977, until August 3, 1979</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v02/persons#p_CJAJ_1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Special Assistant to the Secretary and the Deputy Secretary of Defense until July 1965; thereafter Special Assistant to the President</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v02/persons#p_CJA1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v03/persons#p_CJA1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Jr., Special Assistant to the President</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v04/persons#p_CJA1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v05/persons#p_CJA1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Special Assistant to the President</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v06/persons#p_CJ1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v07/persons#p_CJ1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Special Assistant to the President from January 1965</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v12/persons#p_CJ1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Jr., Secretary of Health, Education and Welfare from 1977 until 1979</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v13/persons#p_CJA_1</source-url>
+        </remark>
+    </remarks>
+</person>

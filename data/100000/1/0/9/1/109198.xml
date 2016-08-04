@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>109198</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Minor, Harold Bronk</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="2">
+                <name>Minor, Harold Bronk</name>
+                <source-url>https://history.state.gov/departmenthistory/people/minor-harold-bronk</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v05/persons#p_MHB1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Harold B. Minor</name>
+                <source-url>https://history.state.gov/departmenthistory/people/minor-harold-bronk</source-url>
+            </original>
+            <original source-urls="3">
+                <name>Minor, Harold B.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv01/persons#p_MHB1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v09p1/persons#p_MHB1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v09p2/persons#p_MHB1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1902</birth-year>
+    <death-year>1984</death-year>
+    <remarks variants="4">
+        <remark source-urls="1">
+            <p>Foreign Service Officer. Envoy Extraordinary and Minister Plenipotentiary (Lebanon); Ambassador Extraordinary and Plenipotentiary (Lebanon).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/minor-harold-bronk</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Acting Chief, Division of Middle Eastern Affairs, Department of State.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv01/persons#p_MHB1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Minister in Lebanon, from September 1951.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1951v05/persons#p_MHB1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Minister to Lebanon until October 15, 1952; Ambassador, October 15, 1952–August 10, 1953.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v09p1/persons#p_MHB1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v09p2/persons#p_MHB1</source-url>
+        </remark>
+    </remarks>
+</person>

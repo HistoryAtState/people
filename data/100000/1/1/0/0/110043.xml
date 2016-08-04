@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>110043</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Ojeda Paullada, Pedro</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="2">
+                <name>Ojeda Paullada, Pedro</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve03/persons#p_OPP1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve11p1/persons#p_OPP_1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="2">
+        <remark source-urls="1">
+            <p>Attorney General, United Mexican States</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve03/persons#p_OPP1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Attorney General of Mexico from 1971 until 1976</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve11p1/persons#p_OPP_1</source-url>
+        </remark>
+    </remarks>
+</person>

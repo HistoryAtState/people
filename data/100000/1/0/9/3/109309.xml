@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>109309</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Montgomery, Gillespie (Sonny) V.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="1">
+                <name>Montgomery, Gillespie (Sonny) V.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve12/persons#p_montgomery-gillespiev</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Montgomery, G.V.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v02/persons#p_MGV_1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="2">
+        <remark source-urls="1">
+            <p>Democratic Representative from Mississippi</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve12/persons#p_montgomery-gillespiev</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>member, U.S. House of Representatives (D-Mississippi); Chairman, House Select Committee on Missing Persons in Southeast Asia</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v02/persons#p_MGV_1</source-url>
+        </remark>
+    </remarks>
+</person>

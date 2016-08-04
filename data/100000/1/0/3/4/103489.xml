@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>103489</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Dillon, Robert Sherwood</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="3">
+                <name>Dillon, Robert S.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v16/persons#p_DRS1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v30/persons#p_DRS1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v21/persons#p_DRS_1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Dillon, Robert</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v29/persons#p_DR2</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Dillon, Robert Sherwood</name>
+                <source-url>https://history.state.gov/departmenthistory/people/dillon-robert-sherwood</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1929</birth-year>
+    <death-year/>
+    <remarks variants="5">
+        <remark source-urls="1">
+            <p>Second Secretary of the Embassy in Turkey</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v16/persons#p_DRS1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Director, Office of Turkish Affairs, Bureau of Near Eastern and South Asian Affairs, Department of State from September 1971</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v29/persons#p_DR2</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Office of Turkish Affairs, Bureau of Near Eastern and South Asian Affairs, Department of State from September 1971 until June 1974</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v30/persons#p_DRS1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Deputy Chief of Mission of the Embassy in Turkey</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v21/persons#p_DRS_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Foreign Service Officer. Ambassador Extraordinary and Plenipotentiary (Lebanon).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/dillon-robert-sherwood</source-url>
+        </remark>
+    </remarks>
+</person>

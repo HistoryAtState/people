@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>109418</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Morris, Ira Nelson</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="4">
+                <name>Morris, Ira Nelson</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1914Supp/persons#p_MIN1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1915Supp/persons#p_MIN1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1916Supp/persons#p_MIN1</source-url>
+                <source-url>https://history.state.gov/departmenthistory/people/morris-ira-nelson</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1875</birth-year>
+    <death-year>1942</death-year>
+    <remarks variants="3">
+        <remark source-urls="2">
+            <p>United States Minister in Sweden.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1914Supp/persons#p_MIN1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1915Supp/persons#p_MIN1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>U. S. Minister in Sweden.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1916Supp/persons#p_MIN1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Non-career appointee. Envoy Extraordinary and Minister Plenipotentiary (Sweden).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/morris-ira-nelson</source-url>
+        </remark>
+    </remarks>
+</person>

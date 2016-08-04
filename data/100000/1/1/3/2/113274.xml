@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>113274</id>
+    <authorities>
+        <authority service="viaf">93930480</authority>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Syse, Jan P.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="1">
+                <name>Prime Minister Jan P. Syse</name>
+                <source-url>https://history.state.gov/departmenthistory/visits/norway</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="1">
+        <remark source-urls="1">
+            <p>Prime Minister, Norway. Visited U.S. once, 1990</p>
+            <source-url>https://history.state.gov/departmenthistory/visits/norway</source-url>
+        </remark>
+    </remarks>
+</person>

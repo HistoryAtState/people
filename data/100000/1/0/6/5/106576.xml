@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>106576</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Jefferson, Thomas</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="2">
+                <name>Jefferson, Thomas</name>
+                <source-url>https://history.state.gov/departmenthistory/people/jefferson-thomas</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv01/persons#p_JT1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Thomas Jefferson</name>
+                <source-url>https://history.state.gov/cms/apps/presidents/data/presidents.xml#jefferson-thomas</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1743</birth-year>
+    <death-year>1826</death-year>
+    <remarks variants="3">
+        <remark source-urls="1">
+            <p>Non-career appointee. Secretary of State; Minister Plenipotentiary (France).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/jefferson-thomas</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Secretary of State, 1790–1793.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv01/persons#p_JT1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>President of the United States, from March 4, 1801 until March 4, 1809</p>
+            <source-url>https://history.state.gov/cms/apps/presidents/data/presidents.xml#jefferson-thomas</source-url>
+        </remark>
+    </remarks>
+</person>

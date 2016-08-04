@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>105623</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Hartman, Charles Sampson</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="1">
+                <name>Hartman, Charles S.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1914Supp/persons#p_HCS1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Hartman, Charles Sampson</name>
+                <source-url>https://history.state.gov/departmenthistory/people/hartman-charles-sampson</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Charles S. Hartman</name>
+                <source-url>https://history.state.gov/departmenthistory/people/hartman-charles-sampson</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1861</birth-year>
+    <death-year>1929</death-year>
+    <remarks variants="2">
+        <remark source-urls="1">
+            <p>United States Minister in Ecuador.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1914Supp/persons#p_HCS1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Non-career appointee. Envoy Extraordinary and Minister Plenipotentiary (Ecuador).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/hartman-charles-sampson</source-url>
+        </remark>
+    </remarks>
+</person>

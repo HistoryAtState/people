@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>111033</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Qiao Guanhua</name>
+        </preferred>
+        <alternates>
+            <name>Chiao Kuan-hua</name>
+        </alternates>
+        <originals variants="4">
+            <original source-urls="2">
+                <name>Chiao Kuan-hua</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v05/persons#p_CKH1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v18/persons#p_CKH1</source-url>
+            </original>
+            <original source-urls="2">
+                <name>Chiao (Ch'iao) Kuan-hua</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v17/persons#p_CCK1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve13/persons#p_QG1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Chiao (Ch’iao) Kuan-hua (Qiao Guanhua)</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v38p2/persons#p_CK_3</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Qiao Guanhua (Chiao Kuan-hua)</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v18/persons#p_QG1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="5">
+        <remark source-urls="1">
+            <p>Vice Foreign Minister, People's Republic of China; led first delegation to the United Nations, November 1971</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v05/persons#p_CKH1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Deputy [Vice] Foreign Minister, People's Republic of China</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v17/persons#p_CCK1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve13/persons#p_QG1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>see Qiao Guanhua</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v18/persons#p_CKH1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Deputy [Vice] Foreign Minister, People’s Republic of China</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v38p2/persons#p_CK_3</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Deputy [Vice] Foreign Minister of the PRC until November 1974; Foreign Minister from November 1974 until December 1976</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v18/persons#p_QG1</source-url>
+        </remark>
+    </remarks>
+</person>

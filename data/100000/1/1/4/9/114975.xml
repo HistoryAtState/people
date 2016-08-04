@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>114975</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Yu Ta-wei</name>
+        </preferred>
+        <alternates/>
+        <originals variants="4">
+            <original source-urls="2">
+                <name>Yu Ta-Wei</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v14p1/persons#p_YTW1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v14p2/persons#p_YTW1</source-url>
+            </original>
+            <original source-urls="2">
+                <name>Yu Ta-wai</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v02/persons#p_YT1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v03/persons#p_YT1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Yu Ta Wei</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v17/persons#p_YT3</source-url>
+            </original>
+            <original source-urls="2">
+                <name>Yu Ta-wei</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v19/persons#p_YT1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v30/persons#p_YT1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="4">
+        <remark source-urls="2">
+            <p>Special Assistant to the Ambassador of the Republic of China in the United States to 1953; Minister of National Defense, Republic of China, from May 1954.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v14p1/persons#p_YTW1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v14p2/persons#p_YTW1</source-url>
+        </remark>
+        <remark source-urls="3">
+            <p>Defense Minister of the Republic of China</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v02/persons#p_YT1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v03/persons#p_YT1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v19/persons#p_YT1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Minister of Defense, Republic of China</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v17/persons#p_YT3</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Defense Minister of the Republic of China until January 1965</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v30/persons#p_YT1</source-url>
+        </remark>
+    </remarks>
+</person>

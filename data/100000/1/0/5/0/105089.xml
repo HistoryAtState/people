@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>105089</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Graham, Daniel O.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="1">
+                <name>Graham, Daniel O.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v10/persons#p_GDO1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Graham, Daniel</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v35/persons#p_GD_1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Graham, Lieutenant General Daniel O.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v38p2/persons#p_GDO_1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="1">
+            <title source-urls="1">
+                <name>Lieutenant General</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v38p2/persons#p_GDO_1</source-url>
+            </title>
+        </titles-from-name>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="3">
+        <remark source-urls="1">
+            <p>Lieutenant General, USA, Director of the Defense Intelligence Agency from September 1974 until December 1975</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v10/persons#p_GDO1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Lieutenant General, USA; Director of the Defense Intelligence Agency from September 1974 until December 1975</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v35/persons#p_GD_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>USA, Deputy Director of Central Intelligence, 1973–1974; Director of the Defense Intelligence Agency, September 1974–December 1975</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v38p2/persons#p_GDO_1</source-url>
+        </remark>
+    </remarks>
+</person>

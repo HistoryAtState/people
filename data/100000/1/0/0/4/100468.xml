@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>100468</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Andrews, Stanley</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="2">
+                <name>Andrews, Stanley,</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v11p1/persons#p_AS1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v11p2/persons#p_AS1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Andrews, Stanley</name>
+                <source-url>https://history.state.gov/departmenthistory/people/andrews-stanley</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1894</birth-year>
+    <death-year>1994</death-year>
+    <remarks variants="2">
+        <remark source-urls="2">
+            <p>Administrator of the Technical Cooperation Administration, June 20, 1952–1953.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v11p1/persons#p_AS1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v11p2/persons#p_AS1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Non-career appointee. Administrator of the Technical Cooperation Administration.</p>
+            <source-url>https://history.state.gov/departmenthistory/people/andrews-stanley</source-url>
+        </remark>
+    </remarks>
+</person>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>112123</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Schuyler, Eugene</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="1">
+                <name>Schuyler, Eugene</name>
+                <source-url>https://history.state.gov/departmenthistory/people/schuyler-eugene</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1840</birth-year>
+    <death-year>1890</death-year>
+    <remarks variants="1">
+        <remark source-urls="1">
+            <p>Non-career appointee. Assistant Secretary of State; Minister Resident/Consul General (Yugoslavia); Diplomatic Agent/Consul General (Romania); Chargé d'Affaires and Consul General (Romania); Minister Resident/Consul General (Romania); Minister Resident/Consul General (Greece); Agent/Consul General (Egypt).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/schuyler-eugene</source-url>
+        </remark>
+    </remarks>
+</person>

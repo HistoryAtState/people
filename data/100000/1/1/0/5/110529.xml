@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>110529</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Penfield, James Kedzie</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="2">
+                <name>Penfield, James Kedzie</name>
+                <source-url>https://history.state.gov/departmenthistory/people/penfield-james-kedzie</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v05/persons#p_PJK1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>James K. Penfield</name>
+                <source-url>https://history.state.gov/departmenthistory/people/penfield-james-kedzie</source-url>
+            </original>
+            <original source-urls="17">
+                <name>Penfield, James K.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v02p1/persons#p_PENFIELDJK1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v02p2/persons#p_PENFIELDJK1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v05p1/persons#p_PENFIELDJK1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v05p2/persons#p_PENFIELDJK1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v06p1/persons#p_PENFIELDJK1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v06p2/persons#p_PENFIELDJK1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v09p1/persons#p_PJK1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v09p2/persons#p_PJK1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v10/persons#p_PJK1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v05/persons#p_PJK1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v24/persons#p_PJK1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v02/persons#p_PJK1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v10p1/persons#p_PJK1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v10p2/persons#p_PJK1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v13/persons#p_PJK1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v14/persons#p_PJK1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v23/persons#p_PJK_1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1908</birth-year>
+    <death-year/>
+    <remarks variants="11">
+        <remark source-urls="1">
+            <p>Foreign Service Officer. Ambassador Extraordinary and Plenipotentiary (Iceland).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/penfield-james-kedzie</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Counselor of the Embassy in the United Kingdom.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1951v05/persons#p_PJK1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Counselor of the Embassy in the United Kingdom until August 1954; thereafter, Deputy Chief of Mission in Austria; Member, Task Force “B”, Project Solarium, 1953.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v02p1/persons#p_PENFIELDJK1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v02p2/persons#p_PENFIELDJK1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Counselor of the Embassy in the United Kingdom from July 1950; Deputy Chief of the Mission in Austria from August 1954.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v05p1/persons#p_PENFIELDJK1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v05p2/persons#p_PENFIELDJK1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Counselor of the Embassy in the United Kingdom, July 1950–August 1954; thereafter Deputy Chief of Mission in Austria.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v06p1/persons#p_PENFIELDJK1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v06p2/persons#p_PENFIELDJK1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Counselor of the Embassy in the United Kingdom until August 13, 1954; thereafter Deputy Chief of Mission in Austria.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v09p1/persons#p_PJK1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v09p2/persons#p_PJK1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Counselor of Embassy in the United Kingdom after July 18, 1950; Deputy Chief of Mission in Austria after August 13, 1954.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v10/persons#p_PJK1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Deputy Chief of Mission in Austria until August 1955; thereafter Counselor</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v05/persons#p_PJK1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v24/persons#p_PJK1</source-url>
+        </remark>
+        <remark source-urls="3">
+            <p>Deputy Assistant Secretary of State for African Affairs from September 1958</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v02/persons#p_PJK1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v13/persons#p_PJK1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v14/persons#p_PJK1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Counselor of the Embassy in Greece until August 1958; Deputy Assistant Secretary of State for African Affairs from September 1958</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v10p1/persons#p_PJK1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v10p2/persons#p_PJK1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Deputy Assistant Secretary of State for African Affairs from September 21, 1958; Ambassador to Iceland from May 24, 1961 until March 16 1967</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v23/persons#p_PJK_1</source-url>
+        </remark>
+    </remarks>
+</person>

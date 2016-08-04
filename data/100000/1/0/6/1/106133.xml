@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>106133</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Horsey, Outerbridge, II</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="7">
+                <name>Horsey, Outerbridge</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v06p1/persons#p_HORSEYO1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v06p2/persons#p_HORSEYO1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v23p1/persons#p_HO1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v27/persons#p_HO1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v07p1/persons#p_HO1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v07p2/persons#p_HO1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v13/persons#p_HO1</source-url>
+            </original>
+            <original source-urls="3">
+                <name>Horsey, Outerbridge, II</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v16/persons#p_HOII1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v17/persons#p_HOII1</source-url>
+                <source-url>https://history.state.gov/departmenthistory/people/horsey-outerbridge</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1910</birth-year>
+    <death-year>1983</death-year>
+    <remarks variants="8">
+        <remark source-urls="2">
+            <p>Counselor of Embassy in Italy after May 23, 1950; Officer in Charge of Commonwealth Affairs, Office of British Commonwealth and Northern European Affairs, Department of State, from December 1, 1952; Deputy Director of the Office of British Commonwealth and Northern European Affairs after September 26, 1954.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v06p1/persons#p_HORSEYO1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v06p2/persons#p_HORSEYO1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Minister and Counselor of Embassy in Japan from April 1956</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v23p1/persons#p_HO1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Director of the Office of British Commonwealth and Northern European Affairs, Bureau of European Affairs, Department of State, July 1955–April 1956</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v27/persons#p_HO1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Minister Counselor of the Embassy in Italy from January 1959</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v07p1/persons#p_HO1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v07p2/persons#p_HO1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Deputy Chief of Mission to Italy until November 1961</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v13/persons#p_HO1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Ambassador to Czechoslovakia from November 1962</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v16/persons#p_HOII1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Ambassador to Czechoslovakia until August 1966</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v17/persons#p_HOII1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Foreign Service Officer. Ambassador Extraordinary and Plenipotentiary (Czechoslovakia).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/horsey-outerbridge</source-url>
+        </remark>
+    </remarks>
+</person>

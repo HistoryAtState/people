@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>109897</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Noel, Cleo Allen, Jr.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="4">
+            <original source-urls="2">
+                <name>Noel, Cleo A., Jr.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v38p1/persons#p_NCAJ_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v38p2/persons#p_NCA_1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Noel, Cleo A.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v25/persons#p_NCA_1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Noel, Cleo Allen, Jr.</name>
+                <source-url>https://history.state.gov/departmenthistory/people/noel-cleo-allen</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Cleo A. Noel Jr.</name>
+                <source-url>https://history.state.gov/departmenthistory/people/noel-cleo-allen</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1918</birth-year>
+    <death-year>1973</death-year>
+    <remarks variants="3">
+        <remark source-urls="1">
+            <p>U.S. Ambassador to Sudan until March 2, 1973</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v38p1/persons#p_NCAJ_1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Ambassador to Sudan until March 2, 1973</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v38p2/persons#p_NCA_1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v25/persons#p_NCA_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Foreign Service Officer. Ambassador Extraordinary and Plenipotentiary (Sudan).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/noel-cleo-allen</source-url>
+        </remark>
+    </remarks>
+</person>

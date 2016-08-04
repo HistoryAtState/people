@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>102937</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Cox, David William</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="2">
+                <name>Cox, David William</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve10/persons#p_CDW1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve11p2/persons#p_CDW_1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="2">
+        <remark source-urls="1">
+            <p>detailed to the University of Florida from January 1969 until June 1969; Public Affairs Office from June 1969 until April, 1970; Uruguayan Desk Officer, Office of Argentina-Paraguay-Uruguay from April 1970 until June, 1972; Political Officer, U.S. Embassy in Caracas from June 1972</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve10/persons#p_CDW1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Political Officer, U.S. Embassy in Caracas until July 1974; Consular Officer, U.S. Consulate in La Paz from July 1974 until August 1974; Office of North Coast Affairs, Bureau of Inter-American Affairs, Department of State, from August 1974</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve11p2/persons#p_CDW_1</source-url>
+        </remark>
+    </remarks>
+</person>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>106918</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Kattenburg, Paul M.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="3">
+                <name>Kattenburg, Paul M.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v01/persons#p_KPM1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v03/persons#p_KPM1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v04/persons#p_KPM1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="2">
+        <remark source-urls="1">
+            <p>Intelligence Research Specialist in the Division of Research for Far East of the Office of Intelligence Research, Department of State, to June 1955; detailed to Saigon, June–September 1955; Officer in Charge of Vietnam Affairs, November 1955–December 1956; thereafter Second Secretary of the Embassy in the Philippines</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v01/persons#p_KPM1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Deputy Director of the Office of Southeast Asian Affairs, Bureau of Far Eastern Affairs, Department of State, and Chairman of the Vietnam Interdepartmental Working Group from August 4, 1963</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v03/persons#p_KPM1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v04/persons#p_KPM1</source-url>
+        </remark>
+    </remarks>
+</person>

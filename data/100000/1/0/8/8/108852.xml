@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>108852</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>McGarr, Lionel C.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="4">
+            <original source-urls="1">
+                <name>McGarr, Lieutenant General Lionel C.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v01/persons#p_MGLGLC1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>McGarr, Lt. Gen. Lionel C.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v01/persons#p_MGLGLC1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>McGarr, Lt. Gen. Lionel C. (USA)</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v02/persons#p_MGLGLC1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>McGarr, Lieutenant General Lionel C7 USA</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v03/persons#p_MLGLC7USA1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="4">
+            <title source-urls="1">
+                <name>Lieutenant General</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v01/persons#p_MGLGLC1</source-url>
+            </title>
+            <title source-urls="1">
+                <name>Lt. Gen.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v01/persons#p_MGLGLC1</source-url>
+            </title>
+            <title source-urls="1">
+                <name>Lt. Gen. (USA)</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v02/persons#p_MGLGLC1</source-url>
+            </title>
+            <title source-urls="1">
+                <name>Lieutenant General (USA)</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v03/persons#p_MLGLC7USA1</source-url>
+            </title>
+        </titles-from-name>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="2">
+        <remark source-urls="1">
+            <p>USA, Chief, MAAG Vietnam from September 1960</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v01/persons#p_MGLGLC1</source-url>
+        </remark>
+        <remark source-urls="3">
+            <p>Chief of the Military Assistance Advisory Group, Vietnam</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v01/persons#p_MGLGLC1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v02/persons#p_MGLGLC1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v03/persons#p_MLGLC7USA1</source-url>
+        </remark>
+    </remarks>
+</person>

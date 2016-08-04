@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>112081</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Schneider, William, Jr.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="2">
+                <name>Schneider, William, Jr.</name>
+                <source-url>https://history.state.gov/departmenthistory/people/schneider-william</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1981-88v13/persons#p_SW_1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1941</birth-year>
+    <death-year/>
+    <remarks variants="2">
+        <remark source-urls="1">
+            <p>Non-career appointee. Under Secretary of State for Arms Control and International Security Affairs.</p>
+            <source-url>https://history.state.gov/departmenthistory/people/schneider-william</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Associate Director for National Security and International Affairs, Office of Management and Budget, until September 9, 1982; thereafter, Under Secretary of State for Security Assistance, Science, and Technology</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1981-88v13/persons#p_SW_1</source-url>
+        </remark>
+    </remarks>
+</person>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>107992</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Lindt, Auguste</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="1">
+                <name>Lindt, Auguste</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v25/persons#p_LA4</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Lindt, August</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve05p1/persons#p_LA4</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Lindt</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve05p2/persons#p_Lindt1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="3">
+        <remark source-urls="1">
+            <p>UN High Commissioner for Refugees, 1951–1960</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v25/persons#p_LA4</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Swiss Ambassador, served as the Commissioner General of the International Committee of the Red Cross for West Africa concentrating on relief operations in Nigeria from July 1968 to June 1969; resigned June 19, 1969 after being declared persona non grata by the Federal Military Government of Nigeria on June 14, 1969</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve05p1/persons#p_LA4</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>August, Swiss Ambassador, served as the Commissioner General of the International Committee of the Red Cross for West Africa concentrating on relief operations in Nigeria from July 1968 to June 1969; resigned June 19, 1969 after being declared persona non grata by the Federal Military Government of Nigeria on June 14, 1969</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve05p2/persons#p_Lindt1</source-url>
+        </remark>
+    </remarks>
+</person>

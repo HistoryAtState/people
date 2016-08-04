@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>104550</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Freers, Edward L.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="5">
+                <name>Freers, Edward L.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v25/persons#p_FEL1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v26/persons#p_FEL1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v08/persons#p_FEL1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v09/persons#p_FEL1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v10p1/persons#p_FEL1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Freers, Edward</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v10p2/persons#p_FE1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="4">
+        <remark source-urls="1">
+            <p>Director, Office of Eastern European Affairs, Bureau of European Affairs, Department of State, from July 15, 1956</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v25/persons#p_FEL1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Director of the Office of Eastern European Affairs, Department of State, from July 15, 1956</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v26/persons#p_FEL1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Director, Office of Eastern European Affairs, Department of State</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v08/persons#p_FEL1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v09/persons#p_FEL1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Director, Office of Eastern European Affairs, Bureau of European Affairs, Department of State, until May 1959; thereafter Counselor of the Embassy in the Soviet Union</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v10p1/persons#p_FEL1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v10p2/persons#p_FE1</source-url>
+        </remark>
+    </remarks>
+</person>

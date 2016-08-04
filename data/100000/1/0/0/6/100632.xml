@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>100632</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Asha, Rafik</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="3">
+                <name>Asha, Rafik</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v05/persons#p_AR2</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v09p1/persons#p_AR1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v09p2/persons#p_AR1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="2">
+        <remark source-urls="1">
+            <p>Syrian Consul General at New York.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1951v05/persons#p_AR2</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Syrian Delegate to the United Nations; Chargé of the Syrian Embassy in the United States, August 5–December 1952; Minister until March 1953.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v09p1/persons#p_AR1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v09p2/persons#p_AR1</source-url>
+        </remark>
+    </remarks>
+</person>

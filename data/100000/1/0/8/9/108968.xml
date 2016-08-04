@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>108968</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Meade, Richard Kidder</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="1">
+                <name>Meade, Richard Kidder</name>
+                <source-url>https://history.state.gov/departmenthistory/people/meade-richard-kidder</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Richard K. Meade</name>
+                <source-url>https://history.state.gov/departmenthistory/people/meade-richard-kidder</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1803</birth-year>
+    <death-year>1862</death-year>
+    <remarks variants="1">
+        <remark source-urls="1">
+            <p>Non-career appointee. Chargé d'Affaires (Italy); Envoy Extraordinary and Minister Plenipotentiary (Brazil).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/meade-richard-kidder</source-url>
+        </remark>
+    </remarks>
+</person>

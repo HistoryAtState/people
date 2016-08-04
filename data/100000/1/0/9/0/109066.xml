@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>109066</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Merrow, Chester E.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="2">
+                <name>Merrow, Chester E.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v09/persons#p_MCE1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v11/persons#p_MCE1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="2">
+        <remark source-urls="1">
+            <p>Republican Congressman from New Hampshire; Delegate at the 10th Regular Session of the General Assembly; Member, House Foreign Relations Committee</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v09/persons#p_MCE1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Republican Representative from New Hampshire; member, House Foreign Affairs Committee; Representative to the Tenth Session of the United Nations General Assembly</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v11/persons#p_MCE1</source-url>
+        </remark>
+    </remarks>
+</person>

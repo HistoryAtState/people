@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>112502</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Simon, John A.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="1">
+                <name>Simon, John A.</name>
+                <source-url>https://history.state.gov/departmenthistory/people/simon-john-a</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1968</birth-year>
+    <death-year/>
+    <remarks variants="1">
+        <remark source-urls="1">
+            <p>Non-career appointee. Representative of the U.S.A. to the African Union.</p>
+            <source-url>https://history.state.gov/departmenthistory/people/simon-john-a</source-url>
+        </remark>
+    </remarks>
+</person>

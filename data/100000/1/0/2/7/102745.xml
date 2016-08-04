@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>102745</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Collums, Haley D.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="4">
+                <name>Collums, Haley D.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v22/persons#p_CHD_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve11p1/persons#p_CHD_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve11p2/persons#p_CHD_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve12/persons#p_collums-haley-d</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="4">
+        <remark source-urls="1">
+            <p>Consular Official, Consulate in Ankara, from July 1973 until July 1975; Operations Official, Department of State, from July 1975 until June 1976; Special Assistant to the Secretary from June 1976</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v22/persons#p_CHD_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Consular Official, Consulate in Ankara, from July 1973 until July 1975; Operations Official from July 1975 until June 1976; Special Assistant to the Secretary from June 1976</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve11p1/persons#p_CHD_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Consular Officer, U.S. Consulate in Ankara, from July 1973 until July 1975; Operations Official, Department of State, from July 1975 until June 1976; Special Assistant to the Secretary of State from June 1976</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve11p2/persons#p_CHD_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Special Assistant to the Secretary of State</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve12/persons#p_collums-haley-d</source-url>
+        </remark>
+    </remarks>
+</person>

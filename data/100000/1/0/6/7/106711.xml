@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>106711</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Jones, Jehu Glancy</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="1">
+                <name>Jones, Jehu Glancy</name>
+                <source-url>https://history.state.gov/departmenthistory/people/jones-jehu-glancy</source-url>
+            </original>
+            <original source-urls="1">
+                <name>J. Glancy Jones</name>
+                <source-url>https://history.state.gov/departmenthistory/people/jones-jehu-glancy</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1811</birth-year>
+    <death-year>1878</death-year>
+    <remarks variants="1">
+        <remark source-urls="1">
+            <p>Non-career appointee. Minister Resident (Austria); Envoy Extraordinary and Minister Plenipotentiary (Austria).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/jones-jehu-glancy</source-url>
+        </remark>
+    </remarks>
+</person>

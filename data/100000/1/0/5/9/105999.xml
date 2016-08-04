@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>105999</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Hodgson, William Roy</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="1">
+                <name>Hodgson, William Roy</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1946v03/persons#p_HWR1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Hodgson, Lieutenant Colonel William R.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1947v02/persons#p_HCWR1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="1">
+            <title source-urls="1">
+                <name>Lieutenant Colonel</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1947v02/persons#p_HCWR1</source-url>
+            </title>
+        </titles-from-name>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="2">
+        <remark source-urls="1">
+            <p>Member of the Australian Delegation; Australian Minister in France</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1946v03/persons#p_HWR1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Australian Minister in France</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1947v02/persons#p_HCWR1</source-url>
+        </remark>
+    </remarks>
+</person>

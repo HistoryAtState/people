@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>111682</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Rowell, Edward Morgan</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="2">
+                <name>Rowell, Edward J.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v06/persons#p_REJ1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v07/persons#p_REJ1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Rowell, Edward M.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v31/persons#p_REM1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Rowell, Edward Morgan</name>
+                <source-url>https://history.state.gov/departmenthistory/people/rowell-edward-morgan</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1931</birth-year>
+    <death-year/>
+    <remarks variants="3">
+        <remark source-urls="2">
+            <p>Counselor, Embassy in Bolivia, until July 21, 1955; Officer in Charge of Brazilian Affairs, Bureau of Inter-American Affairs, Department of State, July 21, 1955-October 21, 1956; thereafter, Officer in Charge of Social Affairs, Office of International Economic and Social Affairs</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v06/persons#p_REJ1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v07/persons#p_REJ1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Officer-in-Charge of Honduran Affairs, Office of Central American and Panamanian Affairs (after March 12, 1964, Office of Central American Affairs), Bureau of Inter-American Affairs, Department of State, until April 1964</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v31/persons#p_REM1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Foreign Service Officer. Ambassador Extraordinary and Plenipotentiary (Portugal); Ambassador Extraordinary and Plenipotentiary (Luxembourg); Ambassador Extraordinary and Plenipotentiary (Bolivia).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/rowell-edward-morgan</source-url>
+        </remark>
+    </remarks>
+</person>

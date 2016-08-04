@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>112229</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Seni Pramoj</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="1">
+                <name>Seni Pramoj</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve12/persons#p_seni-pramoj</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="1">
+        <remark source-urls="1">
+            <p>Thai Prime Minister from February 26, 1975 until March 14, 1975, and again from April 20, 1976 until October 6</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve12/persons#p_seni-pramoj</source-url>
+        </remark>
+    </remarks>
+</person>

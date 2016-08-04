@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>112431</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Shurtleff, Leonard Grant</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="1">
+                <name>Shurtleff, Leonard G.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v02/persons#p_SLG_1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Shurtleff, Leonard Grant</name>
+                <source-url>https://history.state.gov/departmenthistory/people/shurtleff-leonard-grant</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1940</birth-year>
+    <death-year>2015</death-year>
+    <remarks variants="2">
+        <remark source-urls="1">
+            <p>Office of Inter-African Affairs, Bureau of African Affairs, Department of State, from 1977 until 1979; Deputy Director, Office of Central African Affairs, Bureau of African Affairs, from 1979</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v02/persons#p_SLG_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Foreign Service Officer. Ambassador Extraordinary and Plenipotentiary (Congo (Brazzaville)).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/shurtleff-leonard-grant</source-url>
+        </remark>
+    </remarks>
+</person>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>106684</id>
+    <authorities>
+        <authority service="viaf">84242323</authority>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Johnson-Sirleaf, Ellen</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="1">
+                <name>President Ellen Johnson Sirleaf</name>
+                <source-url>https://history.state.gov/departmenthistory/visits/liberia</source-url>
+            </original>
+            <original source-urls="1">
+                <name>President Ellen Johnson-Sirleaf</name>
+                <source-url>https://history.state.gov/departmenthistory/visits/liberia</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="2">
+        <remark source-urls="1">
+            <p>President, Liberia. Visited U.S. 3 times, 2007–2010</p>
+            <source-url>https://history.state.gov/departmenthistory/visits/liberia</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>President, Liberia. Visited U.S. 2 times, 2006–2007</p>
+            <source-url>https://history.state.gov/departmenthistory/visits/liberia</source-url>
+        </remark>
+    </remarks>
+</person>

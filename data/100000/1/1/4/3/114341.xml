@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>114341</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Watterson, Harvey Magee</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="1">
+                <name>Watterson, Harvey Magee</name>
+                <source-url>https://history.state.gov/departmenthistory/people/watterson-harvey-magee</source-url>
+            </original>
+            <original source-urls="1">
+                <name>H. M. Watterson</name>
+                <source-url>https://history.state.gov/departmenthistory/people/watterson-harvey-magee</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1811</birth-year>
+    <death-year>1891</death-year>
+    <remarks variants="1">
+        <remark source-urls="1">
+            <p>Non-career appointee. Chargé d'Affaires (Argentina).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/watterson-harvey-magee</source-url>
+        </remark>
+    </remarks>
+</person>

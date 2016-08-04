@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>103179</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Davies, Thomas D.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="2">
+                <name>Davies, Thomas D.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve14p2/persons#p_DTD_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v13/persons#p_DTD_1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="2">
+        <remark source-urls="1">
+            <p>Rear Admiral, USN (ret.), Deputy Chief of Naval Material, Chief of Naval Development, and Assistant Oceanographer for Ocean Engineering and Development, U.S. Navy, until July 1973; Assistant Director, Nuclear Weapons and Advanced Technology Bureau, Arms Control and Disarmament Agency from 1973 until 1975; thereafter, Assistant Director, ACDA</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve14p2/persons#p_DTD_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Assistant Director for Multilateral Affairs, Arms Control and Disarmament Agency</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v13/persons#p_DTD_1</source-url>
+        </remark>
+    </remarks>
+</person>

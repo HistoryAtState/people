@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>104674</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Galloway, Donald H.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="1">
+                <name>Galloway, Colonel Donald H.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945-50Intel/persons#p_GCDH1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="1">
+            <title source-urls="1">
+                <name>Colonel</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945-50Intel/persons#p_GCDH1</source-url>
+            </title>
+        </titles-from-name>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="1">
+        <remark source-urls="1">
+            <p>(USA) Assistant Director for Special Operations, Central Intelligence Group and Central Intelligence Agency, July 11, 1946-December 27, 1948</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1945-50Intel/persons#p_GCDH1</source-url>
+        </remark>
+    </remarks>
+</person>

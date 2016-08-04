@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>103244</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Deal, Timothy</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="4">
+                <name>Deal, Timothy</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v37/persons#p_DT_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v03/persons#p_DT_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v13/persons#p_DT_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v20/persons#p_DT_1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="4">
+        <remark source-urls="1">
+            <p>Member of the National Security Council Staff</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v37/persons#p_DT_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>member, National Security Council Staff for International Economics, until April 1979 and from January 1980</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v03/persons#p_DT_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>member, National Security Council Staff for International Economics from January 1977 until April 1979 and from January 1980 until January 1981</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v13/persons#p_DT_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>member, National Security Council Staff for International Economic Affairs from January 1977 until April 1979 and from January 1980 until January 1981</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v20/persons#p_DT_1</source-url>
+        </remark>
+    </remarks>
+</person>

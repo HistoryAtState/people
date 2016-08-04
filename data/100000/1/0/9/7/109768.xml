@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>109768</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Ngo Dinh Luyen</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="1">
+                <name>Dinh Luyen</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v16/persons#p_DL1</source-url>
+            </original>
+            <original source-urls="5">
+                <name>Ngo Dinh Luyen</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v16/persons#p_NDL1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v01/persons#p_NDL1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v01/persons#p_NDL1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v03/persons#p_NDL1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v04/persons#p_NDL1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="6">
+        <remark source-urls="1">
+            <p>See Ngo Dinh Luyen.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v16/persons#p_DL1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Personal Representative of Vietnamese Chief of State Bao Dai at the Geneva Conference.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v16/persons#p_NDL1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Ambassador-at-large of Vietnam; Vietnamese Ambassador to the United Kingdom from March 1956; youngest brother of Ngo Dinh Diem</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v01/persons#p_NDL1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Ambassador-at-Large of the Republic of Vietnam; Vietnamese Ambassador to the United Kingdom to 1959; also Minister to Belgium and Netherlands, 1958–1959; thereafter Ambassador to Tunisia; youngest brother of Ngo Dinh Diem</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v01/persons#p_NDL1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>brother of President Diem; Vietnamese Ambassador to the United Kingdom until November 2, 1963</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v03/persons#p_NDL1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>brother of President Diem; Ambassador of the Republic of Vietnam to the United Kingdom until November 2, 1963</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v04/persons#p_NDL1</source-url>
+        </remark>
+    </remarks>
+</person>

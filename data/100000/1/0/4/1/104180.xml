@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>104180</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Fearey, Robert Appleton</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="4">
+                <name>Fearey, Robert A.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v22/persons#p_FRA1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v29p1/persons#p_FRA1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v29p2/persons#p_FRA3</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v30/persons#p_FRA1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Feary, Robert Appelton</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve03/persons#p_FRA1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Feary, Robert A.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v02/persons#p_FRA_1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="6">
+        <remark source-urls="1">
+            <p>First Secretary of Embassy in Japan until September 1961; Officer in Charge of Japanese Affairs, Bureau of Far Eastern Affairs, Department of State, October 1961-August 1963; thereafter Acting Deputy Director of the Office of East Asian Affairs</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v22/persons#p_FRA1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Acting Director, Office of for East Asian Affairs, Bureau of Far Eastern Affairs, until May 1965; Deputy Director, Office of Asian Communist Affairs, May 1965–July 1966</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v29p1/persons#p_FRA1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Acting Deputy Director, Office of East Asian Affairs, Bureau of Far Eastern Affairs until July 1964; Director until July 1966</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v29p2/persons#p_FRA3</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Acting Deputy Director, Office of East Asian Affairs, Bureau of Far Eastern Affairs, Department of State, until July 1964; Director until July 1966</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v30/persons#p_FRA1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Special Assistant to Secretary and Coordinator for Combating Terrorism from April 1975</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve03/persons#p_FRA1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Special Assistant to the Coordinator of Population Affairs, Bureau of Oceans and International Environmental and Scientific Affairs, Department of State</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v02/persons#p_FRA_1</source-url>
+        </remark>
+    </remarks>
+</person>

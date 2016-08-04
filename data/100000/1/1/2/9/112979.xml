@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>112979</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Stepinac, Aloysius</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="2">
+                <name>Stepinac, Archbishop Alojzize (Aloysius)</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v04p1/persons#p_SAAA1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v04p2/persons#p_SAAA1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Stepinac, Alojzije</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v08/persons#p_SA1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Stepinac, Aloysius Cardinal</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v26/persons#p_SAC1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="2">
+            <title source-urls="2">
+                <name>Archbishop</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v04p1/persons#p_SAAA1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v04p2/persons#p_SAAA1</source-url>
+            </title>
+            <title source-urls="1">
+                <name>Cardinal</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v26/persons#p_SAC1</source-url>
+            </title>
+        </titles-from-name>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="3">
+        <remark source-urls="2">
+            <p>Roman Catholic Archbishop of Zagreb, sentenced to 16 years imprisonment on October 11, 1946, by the Yugoslav Government</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1951v04p1/persons#p_SAAA1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1951v04p2/persons#p_SAAA1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Roman Catholic Archbishop (later Cardinal) of Zagreb; in 1946 arrested, tried, convicted, and sentenced to 16 years hard labor for alleged World War II collaboration with the Germans.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v08/persons#p_SA1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Archbishop of Zagreb</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v26/persons#p_SAC1</source-url>
+        </remark>
+    </remarks>
+</person>

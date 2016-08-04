@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>105514</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Hansen, Hans Christian S.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="4">
+            <original source-urls="2">
+                <name>Hansen, Hans Christian</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v05p1/persons#p_HANSENHC1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v05p2/persons#p_HANSENHC1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Hansen, Hans C.S.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v04/persons#p_HHCS1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Hansen, Hans C. S.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v27/persons#p_HHCS1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Prime Minister Hansen</name>
+                <source-url>https://history.state.gov/departmenthistory/visits/denmark</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="3">
+        <remark source-urls="2">
+            <p>Danish Minister of Foreign Affairs, September 30, 1953–October 9, 1958.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v05p1/persons#p_HANSENHC1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v05p2/persons#p_HANSENHC1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Danish Minister of Foreign Affairs and from February 1955 Prime Minister</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v04/persons#p_HHCS1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v27/persons#p_HHCS1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Prime Minister, Denmark. Visited U.S. once, 1958</p>
+            <source-url>https://history.state.gov/departmenthistory/visits/denmark</source-url>
+        </remark>
+    </remarks>
+</person>

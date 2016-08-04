@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>109478</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Mountbatten, Louis</name>
+        </preferred>
+        <alternates/>
+        <originals variants="6">
+            <original source-urls="3">
+                <name>Mountbatten, Lord Louis</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1943CairoTehran/persons#p_MLL1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v02/persons#p_MLL2</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v12/persons#p_MLL2</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Mountbatten, Admiral Lord Louis</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv01/persons#p_MALL1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Mountbatten, Louis</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv02/persons#p_MALL1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Mountbatten, Admiral Lord Louis, R. N.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945Malta/persons#p_MALLRN1</source-url>
+            </original>
+            <original source-urls="4">
+                <name>Mountbatten, Admiral Louis</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v07p1/persons#p_MAL1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v07p2/persons#p_MAL1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v08/persons#p_MAL1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v09/persons#p_MAL1</source-url>
+            </original>
+            <original source-urls="2">
+                <name>Mountbatten, Admiral of the Fleet Lord Louis</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v17/persons#p_MLL2</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v18/persons#p_MLL2</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="2">
+            <title source-urls="3">
+                <name>Lord</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1943CairoTehran/persons#p_MLL1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v02/persons#p_MLL2</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v12/persons#p_MLL2</source-url>
+            </title>
+            <title source-urls="8">
+                <name>Admiral of the Fleet Lord</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv01/persons#p_MALL1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945Malta/persons#p_MALLRN1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v07p1/persons#p_MAL1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v07p2/persons#p_MAL1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v08/persons#p_MAL1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v09/persons#p_MAL1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v17/persons#p_MLL2</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v18/persons#p_MLL2</source-url>
+            </title>
+        </titles-from-name>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="7">
+        <remark source-urls="1">
+            <p>Admiral, R. N., Supreme Allied Commander, Southeast Asia Command.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1943CairoTehran/persons#p_MLL1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>(British) Supreme Allied Commander, Southeast Asia.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv01/persons#p_MALL1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv02/persons#p_MALL1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Supreme Commander, Southeast Asia Theater.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1945Malta/persons#p_MALLRN1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>British Chief of the Defense Staff from December 1958</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v02/persons#p_MLL2</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v12/persons#p_MLL2</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>British First Sea Lord until May 1959; Chief of the Defence Staff and Chairman, Chiefs of Staff, from July 1959</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v07p1/persons#p_MAL1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v07p2/persons#p_MAL1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>British Chief of the Defense Staff and Chairman, Chief of Staff, from July 1959</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v08/persons#p_MAL1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v09/persons#p_MAL1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Chief of the British Defense Staff and Chairman of the Chiefs of Staff Committee</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v17/persons#p_MLL2</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v18/persons#p_MLL2</source-url>
+        </remark>
+    </remarks>
+</person>

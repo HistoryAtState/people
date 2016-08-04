@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>114064</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Victor Emmanuel III</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="3">
+                <name>Victor Emmanuel III</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1914Supp/persons#p_EV2</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1915Supp/persons#p_VEIII1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1943CairoTehran/persons#p_VEI1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Italy, The King of</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv01/persons#p_I2</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Victor Emmanuel (Vittorio Emanuele) III</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv01/persons#p_V1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="2">
+        <remark source-urls="4">
+            <p>King of Italy.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1914Supp/persons#p_EV2</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1915Supp/persons#p_VEIII1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1943CairoTehran/persons#p_VEI1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv01/persons#p_V1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>See Victor Emmanuel III.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv01/persons#p_I2</source-url>
+        </remark>
+    </remarks>
+</person>

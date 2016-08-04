@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>112175</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Seay, William A.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="1">
+                <name>Seay, William A.</name>
+                <source-url>https://history.state.gov/departmenthistory/people/seay-william-a</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1831</birth-year>
+    <death-year/>
+    <remarks variants="1">
+        <remark source-urls="1">
+            <p>Non-career appointee. Minister Resident/Consul General (Bolivia).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/seay-william-a</source-url>
+        </remark>
+    </remarks>
+</person>

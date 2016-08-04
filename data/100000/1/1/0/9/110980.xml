@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>110980</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Pritzlaff, John Charles, Jr.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="1">
+                <name>Pritzlaff, John</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v41/persons#p_PJ_1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Pritzlaff, John Charles, Jr.</name>
+                <source-url>https://history.state.gov/departmenthistory/people/pritzlaff-john-charles</source-url>
+            </original>
+            <original source-urls="1">
+                <name>John C. Pritzlaff Jr.</name>
+                <source-url>https://history.state.gov/departmenthistory/people/pritzlaff-john-charles</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1925</birth-year>
+    <death-year>2005</death-year>
+    <remarks variants="2">
+        <remark source-urls="1">
+            <p>U.S. Ambassador to Malta until February 1972</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v41/persons#p_PJ_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Non-career appointee. Ambassador Extraordinary and Plenipotentiary (Malta).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/pritzlaff-john-charles</source-url>
+        </remark>
+    </remarks>
+</person>

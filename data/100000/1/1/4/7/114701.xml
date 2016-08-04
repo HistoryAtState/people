@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>114701</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Wing, Edward Rumsey</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="1">
+                <name>Wing, Edward Rumsey</name>
+                <source-url>https://history.state.gov/departmenthistory/people/wing-edward-rumsey</source-url>
+            </original>
+            <original source-urls="1">
+                <name>E. Rumsey Wing</name>
+                <source-url>https://history.state.gov/departmenthistory/people/wing-edward-rumsey</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1845</birth-year>
+    <death-year>1874</death-year>
+    <remarks variants="1">
+        <remark source-urls="1">
+            <p>Non-career appointee. Minister Resident (Ecuador).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/wing-edward-rumsey</source-url>
+        </remark>
+    </remarks>
+</person>

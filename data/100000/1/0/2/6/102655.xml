@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>102655</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Clemson, Thomas Green</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="1">
+                <name>Clemson, Thomas Green</name>
+                <source-url>https://history.state.gov/departmenthistory/people/clemson-thomas-green</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Thomas G. Clemson</name>
+                <source-url>https://history.state.gov/departmenthistory/people/clemson-thomas-green</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1807</birth-year>
+    <death-year>1888</death-year>
+    <remarks variants="1">
+        <remark source-urls="1">
+            <p>Non-career appointee. Chargé d'Affaires (Belgium).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/clemson-thomas-green</source-url>
+        </remark>
+    </remarks>
+</person>

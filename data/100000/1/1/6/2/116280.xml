@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>116280</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Wilson, Simon N.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="2">
+                <name>Wilson, Simon N.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve11p1/persons#p_WSN_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve11p2/persons#p_WSN_1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="2">
+        <remark source-urls="1">
+            <p>Inter-American Organizations Advisor, Alternate U.S. Representative to the Organization of American States, Deputy U.S. Permanent Representative, Permanent Mission of the United States of America to the Organization of American States, from 1973</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve11p1/persons#p_WSN_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Inter-American Organizations Adviser, Alternate U.S. Representative to the Organization of American States, and Deputy U.S. Permanent Representative, U.S. Permanent Mission to the Organization of American States, Bureau of Inter-American Affairs, from 1973</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve11p2/persons#p_WSN_1</source-url>
+        </remark>
+    </remarks>
+</person>

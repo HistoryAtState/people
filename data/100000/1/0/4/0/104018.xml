@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>104018</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Ericson, Richard August, Jr.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="4">
+            <original source-urls="2">
+                <name>Ericson, Richard August, Jr.</name>
+                <source-url>https://history.state.gov/departmenthistory/people/ericson-richard-august-jr</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v28/persons#p_ER_1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Richard A. Ericson Jr.</name>
+                <source-url>https://history.state.gov/departmenthistory/people/ericson-richard-august-jr</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Ericson, Richard A.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v05/persons#p_ERA1</source-url>
+            </original>
+            <original source-urls="3">
+                <name>Ericson, Richard A., Jr.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve12/persons#p_ericson-richard-a-jr</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v02/persons#p_ERAJ_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v13/persons#p_ERAJ_1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1923</birth-year>
+    <death-year>2005</death-year>
+    <remarks variants="6">
+        <remark source-urls="1">
+            <p>Foreign Service Officer. Ambassador Extraordinary and Plenipotentiary (Iceland).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/ericson-richard-august-jr</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Country Director for Japan, Bureau of East Asian and Pacific Affairs, Department of State</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v05/persons#p_ERA1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Country Director for Japan until January 1974</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve12/persons#p_ericson-richard-a-jr</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Deputy Director, Bureau of Politico-Military Affairs, Department of State, until 1978; Ambassador to Iceland from November 21, 1978</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v02/persons#p_ERAJ_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Deputy Director, Bureau of Politico-Military Affairs, Department of State</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v13/persons#p_ERAJ_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Deputy Director of the Bureau of Politico-Military Affairs, Department of State until 1978</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v28/persons#p_ER_1</source-url>
+        </remark>
+    </remarks>
+</person>

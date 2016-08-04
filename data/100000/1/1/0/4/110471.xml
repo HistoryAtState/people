@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>110471</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Payton, Robert Lewis</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="1">
+                <name>Payton, Robert Lewis</name>
+                <source-url>https://history.state.gov/departmenthistory/people/payton-robert-lewis</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Robert L. Payton</name>
+                <source-url>https://history.state.gov/departmenthistory/people/payton-robert-lewis</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1926</birth-year>
+    <death-year>2011</death-year>
+    <remarks variants="1">
+        <remark source-urls="1">
+            <p>Non-career appointee. Ambassador Extraordinary and Plenipotentiary (Cameroon).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/payton-robert-lewis</source-url>
+        </remark>
+    </remarks>
+</person>

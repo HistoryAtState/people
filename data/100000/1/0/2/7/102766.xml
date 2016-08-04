@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>102766</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Conant, James Bryant</name>
+        </preferred>
+        <alternates/>
+        <originals variants="5">
+            <original source-urls="2">
+                <name>Conant, James Bryant</name>
+                <source-url>https://history.state.gov/departmenthistory/people/conant-james-bryant</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv02/persons#p_CJB1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>James B. Conant</name>
+                <source-url>https://history.state.gov/departmenthistory/people/conant-james-bryant</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Conant, James, B.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1950-55Intel/persons#p_CJB1</source-url>
+            </original>
+            <original source-urls="9">
+                <name>Conant, James B.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v03p1/persons#p_CJB1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v03p2/persons#p_CJB1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v05p1/persons#p_CONANTJB1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v05p2/persons#p_CONANTJB1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v06p1/persons#p_CONANTJB1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v06p2/persons#p_CONANTJB1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v04/persons#p_CJB1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v25/persons#p_CJB1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v27/persons#p_CJB1</source-url>
+            </original>
+            <original source-urls="2">
+                <name>Conant, James P.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v07p1/persons#p_CJP1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v07p2/persons#p_CJP1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1893</birth-year>
+    <death-year>1978</death-year>
+    <remarks variants="9">
+        <remark source-urls="1">
+            <p>Non-career appointee. Ambassador Extraordinary and Plenipotentiary (Germany).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/conant-james-bryant</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Chairman, National Defense Research Committee.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv02/persons#p_CJB1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Ambassador to Germany from May 17, 1955 to February 19, 1957</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1950-55Intel/persons#p_CJB1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>President of Harvard University.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1951v03p1/persons#p_CJB1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1951v03p2/persons#p_CJB1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>United States High Commissioner for Germany after February 1953.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v05p1/persons#p_CONANTJB1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v05p2/persons#p_CONANTJB1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>President of Harvard University; High Commissioner for Germany after February 7, 1953.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v06p1/persons#p_CONANTJB1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v06p2/persons#p_CONANTJB1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>former President of Harvard University; United States High Commissioner for Germany from February 1953.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v07p1/persons#p_CJP1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v07p2/persons#p_CJP1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>U.S. High Commissioner for Germany until May 1955; Ambassador to the Federal Republic of Germany and Chief of Mission at Berlin, May 1955–February 1957</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v04/persons#p_CJB1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v27/persons#p_CJB1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>High Commissioner in Germany until May 1955; Ambassador to the Federal Republic of Germany and Chief of Mission in Berlin, May 1955-February 1957</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v25/persons#p_CJB1</source-url>
+        </remark>
+    </remarks>
+</person>

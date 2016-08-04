@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>102598</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Clark, Gilbert Edward</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="1">
+                <name>Clark, G. Edward</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v24/persons#p_CGE1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Clark, Gilbert Edward</name>
+                <source-url>https://history.state.gov/departmenthistory/people/clark-gilbert-edward</source-url>
+            </original>
+            <original source-urls="1">
+                <name>G. Edward Clark</name>
+                <source-url>https://history.state.gov/departmenthistory/people/clark-gilbert-edward</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1917</birth-year>
+    <death-year>1984</death-year>
+    <remarks variants="2">
+        <remark source-urls="1">
+            <p>Director, Office of West African Affairs, Bureau of African Affairs, Department of State, October 1965–July 1966; Country Director for South Africa, July 1966–September 1968; thereafter Ambassador to Mali</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v24/persons#p_CGE1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Foreign Service Officer. Ambassador Extraordinary and Plenipotentiary (Senegal); Ambassador Extraordinary and Plenipotentiary (Mali); Ambassador Extraordinary and Plenipotentiary (Gambia, The).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/clark-gilbert-edward</source-url>
+        </remark>
+    </remarks>
+</person>

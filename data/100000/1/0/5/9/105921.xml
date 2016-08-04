@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>105921</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Hill, John Calvin, Jr.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="2">
+                <name>Hill, John C., Jr.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v05/persons#p_HJCJ1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v06/persons#p_HJCJ1</source-url>
+            </original>
+            <original source-urls="3">
+                <name>Hill, John Calvin, Jr.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v31/persons#p_HJCJ1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v32/persons#p_HJCJ1</source-url>
+                <source-url>https://history.state.gov/departmenthistory/people/hill-john-calvin</source-url>
+            </original>
+            <original source-urls="2">
+                <name>Hill, John Calvin</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v12/persons#p_HJCJ1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve10/persons#p_HJC1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1921</birth-year>
+    <death-year>1973</death-year>
+    <remarks variants="7">
+        <remark source-urls="1">
+            <p>Officer in Charge of River Plate Affairs, Office of East Coast Affairs, Department of State, June–July 1958; Special Assistant to the Assistant Secretary of State for Inter-American Affairs, July 1958–August 1960</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v05/persons#p_HJCJ1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Special Assistant to the Assistant Secretary of State for Inter-American Affairs, July 1958–August 1960</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v06/persons#p_HJCJ1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Deputy Chief of Mission, Embassy in Venezuela, until April 1965; thereafter Director, Office of Colombian-Venezuelan Affairs (after May 1966 Office of North Coast Affairs), Bureau of Inter-American Affairs, Department of State</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v31/persons#p_HJCJ1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Director for North Coast Affairs, Bureau of Inter-American Affairs, Department of State, 1965–1968</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v32/persons#p_HJCJ1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Consul General, Ciudad Trujillo, Dominican Republic, May 28, 1961-January 5, 1962; Charge d'Affaires ad interim, January 6-March 9, 1962</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v12/persons#p_HJCJ1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Country Director, North Coast Affair, Bureau of Inter-American Affairs from January 1969 until November 1969</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve10/persons#p_HJC1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Foreign Service Officer. Chargé d'Affaires ad interim (Dominican Republic).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/hill-john-calvin</source-url>
+        </remark>
+    </remarks>
+</person>

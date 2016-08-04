@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>107895</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Le Van Ty</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="2">
+                <name>Le Van Ty</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v01/persons#p_LVT1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v02/persons#p_LVT1</source-url>
+            </original>
+            <original source-urls="2">
+                <name>Ty</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v01/persons#p_Ty1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v01/persons#p_TY1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Le Van Ty, General</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v01/persons#p_LVTG1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="1">
+            <title source-urls="1">
+                <name>General</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v01/persons#p_LVTG1</source-url>
+            </title>
+        </titles-from-name>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="5">
+        <remark source-urls="1">
+            <p>General, Chief of Staff of the National Army of Vietnam</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v01/persons#p_LVT1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>see Le Van Ty</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v01/persons#p_Ty1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>and Chief of Staff, South Vietnamese Joint General Staff</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v01/persons#p_LVTG1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>see Le Van Ty, General</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v01/persons#p_TY1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Chief of the Joint General Staff, Republic of Vietnam Armed Forces</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v02/persons#p_LVT1</source-url>
+        </remark>
+    </remarks>
+</person>

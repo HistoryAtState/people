@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>108941</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>McNarney, Joseph T.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="4">
+            <original source-urls="2">
+                <name>McNarney, Joseph T.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1943CairoTehran/persons#p_MJT1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv02/persons#p_MGJT1</source-url>
+            </original>
+            <original source-urls="3">
+                <name>McNarney, General Joseph T.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv01/persons#p_MGJT1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v03p1/persons#p_MGJT1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v03p2/persons#p_MGJT1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>McNarney, Lieutenant General Joseph T.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945Malta/persons#p_M8</source-url>
+            </original>
+            <original source-urls="2">
+                <name>McNarney, General Joseph R.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1947v02/persons#p_MJR1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1948v02/persons#p_MGJR1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="2">
+            <title source-urls="5">
+                <name>General</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv01/persons#p_MGJT1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1947v02/persons#p_MJR1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1948v02/persons#p_MGJR1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v03p1/persons#p_MGJT1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v03p2/persons#p_MGJT1</source-url>
+            </title>
+            <title source-urls="1">
+                <name>Lieutenant General</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945Malta/persons#p_M8</source-url>
+            </title>
+        </titles-from-name>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="6">
+        <remark source-urls="1">
+            <p>Lieutenant General, U. S. A., Deputy Chief of Staff, United States Army.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1943CairoTehran/persons#p_MJT1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>U. S. A., Commanding General, United States Army Forces, Mediterranean Theater; Deputy Supreme Allied Commander, Mediterranean Theater.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv01/persons#p_MGJT1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv02/persons#p_MGJT1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>U. S. A., Commanding General of the United States Army Air Forces, Mediterranean Theater, and Deputy Supreme Allied Commander, Mediterranean Theater.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1945Malta/persons#p_M8</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Commander in Chief, United States Forces in Europe; United States Military Governor for Germany; United States member, Allied Control Council for Germany, November 1945–March 1947</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1947v02/persons#p_MJR1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>United States Member of the Allied Control Council for Germany, 1945–1947</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1948v02/persons#p_MGJR1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>USAF, Chairman, Screening and Costing Committee, NATO.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1951v03p1/persons#p_MGJT1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1951v03p2/persons#p_MGJT1</source-url>
+        </remark>
+    </remarks>
+</person>

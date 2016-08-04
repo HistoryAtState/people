@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>100097</id>
+    <authorities>
+        <authority service="viaf">36980021</authority>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Adams, John Quincy</name>
+        </preferred>
+        <alternates/>
+        <originals variants="4">
+            <original source-urls="1">
+                <name>Adams, John Quincy</name>
+                <source-url>https://history.state.gov/departmenthistory/people/adams-john-quincy</source-url>
+            </original>
+            <original source-urls="1">
+                <name>John Qunicy Adams</name>
+                <source-url>https://history.state.gov/departmenthistory/people/adams-john-quincy</source-url>
+            </original>
+            <original source-urls="1">
+                <name>John Q. Adams</name>
+                <source-url>https://history.state.gov/departmenthistory/people/adams-john-quincy</source-url>
+            </original>
+            <original source-urls="1">
+                <name>John Quincy Adams</name>
+                <source-url>https://history.state.gov/cms/apps/presidents/data/presidents.xml#adams-john-quincy</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1767</birth-year>
+    <death-year>1848</death-year>
+    <remarks variants="2">
+        <remark source-urls="1">
+            <p>Non-career appointee. Secretary of State; Envoy Extraordinary and Minister Plenipotentiary (United Kingdom); Minister Plenipotentiary (Russia); Minister Plenipotentiary (Portugal); Minister Resident (Netherlands); Minister Plenipotentiary (Germany).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/adams-john-quincy</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>President of the United States, from March 4, 1825 until March 4, 1829</p>
+            <source-url>https://history.state.gov/cms/apps/presidents/data/presidents.xml#adams-john-quincy</source-url>
+        </remark>
+    </remarks>
+</person>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>107499</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Kurochkin, Pavel Alekseevich</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="1">
+                <name>Kurochkin, Colonel General Pavel Alekseevich</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1947v02/persons#p_KPA1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="1">
+            <title source-urls="1">
+                <name>Colonel General</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1947v02/persons#p_KPA1</source-url>
+            </title>
+        </titles-from-name>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="1">
+        <remark source-urls="1">
+            <p>Soviet representative on the Coordinating Committee, Allied Control Authority for Germany, July 1946–May 1947</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1947v02/persons#p_KPA1</source-url>
+        </remark>
+    </remarks>
+</person>

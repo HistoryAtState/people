@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>114113</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Volcker, Paul A.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="14">
+                <name>Volcker, Paul A.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v08/persons#p_VPA1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v03/persons#p_VPA1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v04/persons#p_VPA1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v05/persons#p_VPA1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v11/persons#p_VPA1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v17/persons#p_VPA1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v21/persons#p_VPA_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v29/persons#p_VPA1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v31/persons#p_VPA1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v40/persons#p_VPA1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v41/persons#p_VPA_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve07/persons#p_VPA1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve12/persons#p_volcker-paul-a</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve13/persons#p_VPA1</source-url>
+            </original>
+            <original source-urls="3">
+                <name>Volcker, Paul</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v36/persons#p_VP1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve15p2/persons#p_VP_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v03/persons#p_VP_1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="10">
+        <remark source-urls="1">
+            <p>Deputy Under Secretary of the Treasury for Monetary Affairs until November 23, 1965</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v08/persons#p_VPA1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Under Secretary of the Treasury for Monetary Affairs, January 1969-June 1974</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v03/persons#p_VPA1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v04/persons#p_VPA1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Under Secretary of the Treasury for Monetary Affairs, January 1969–June 1974</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v05/persons#p_VPA1</source-url>
+        </remark>
+        <remark source-urls="5">
+            <p>Under Secretary of the Treasury for Monetary Affairs</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v11/persons#p_VPA1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v17/persons#p_VPA1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v29/persons#p_VPA1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve07/persons#p_VPA1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve13/persons#p_VPA1</source-url>
+        </remark>
+        <remark source-urls="3">
+            <p>Under Secretary of the Treasury for Monetary Affairs from January 1969</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v21/persons#p_VPA_1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v40/persons#p_VPA1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v41/persons#p_VPA_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Under Secretary of the Treasury for Monetary Affairs until 1974; President, Federal Reserve Bank of New York from August 1975</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v31/persons#p_VPA1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Under Secretary of the Treasury from 1969 until 1974</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v36/persons#p_VP1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Under Secretary of the Treasury for Monetary Affairs until June 1974</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve12/persons#p_volcker-paul-a</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Under Secretary of the Treasury for Monetary Affairs from 1969 until 1974; President, Federal Reserve Bank of New York from August 1975 until August 1979</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve15p2/persons#p_VP_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Chairman, Board of Governors, Federal Reserve System, from August 1979</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v03/persons#p_VP_1</source-url>
+        </remark>
+    </remarks>
+</person>

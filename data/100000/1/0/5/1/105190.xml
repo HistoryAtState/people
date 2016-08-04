@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>105190</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Grewe, Wilhelm G.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="4">
+            <original source-urls="8">
+                <name>Grewe, Wilhelm</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v03p1/persons#p_GW1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v03p2/persons#p_GW1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v05p1/persons#p_GREWEW1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v05p2/persons#p_GREWEW1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v07p1/persons#p_GW1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v07p2/persons#p_GW1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v13/persons#p_GW1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v15/persons#p_GWG1</source-url>
+            </original>
+            <original source-urls="4">
+                <name>Grewe, Wilhelm C.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v08/persons#p_GWC1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v09/persons#p_GWC1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v14/persons#p_GWG1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v15/persons#p_GWG1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Grewe, Wilhelm G.K.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v13/persons#p_GWG1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Grewe, Wilhelm G.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v40/persons#p_GWG1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="9">
+        <remark source-urls="2">
+            <p>Head of the Office for Changing the Occupation Statute Through Contractual Relations, German Federal Republic Foreign Office from March 1951.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1951v03p1/persons#p_GW1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1951v03p2/persons#p_GW1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Head of the Office for Changing the Occupation Statute through Contractual Relations of the Federal Republic of Germany, and Chief of the Law Department in the Ministry of Foreign Affairs.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v05p1/persons#p_GREWEW1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v05p2/persons#p_GREWEW1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Head of the Office for Changing the Occupation Statute through Contractual Relations, Foreign Ministry of the Federal Republic of Germany.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v07p1/persons#p_GW1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v07p2/persons#p_GW1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>German Ambassador to the United States from February 1958</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v08/persons#p_GWC1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v09/persons#p_GWC1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>German Ambassador to the United States until September 1962</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v13/persons#p_GW1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v15/persons#p_GWG1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>German Ambassador to the United States</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v14/persons#p_GWG1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>German Permanent Representative to the North Atlantic Treaty Organization</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v13/persons#p_GWG1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>West German Permanent Representative to the North Atlantic Treaty Organization</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v15/persons#p_GWG1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>West German Permanent Representative on the Council of the North Atlantic Treaty Organization</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v40/persons#p_GWG1</source-url>
+        </remark>
+    </remarks>
+</person>

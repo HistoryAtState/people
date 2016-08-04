@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>110037</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Ohira Masayoshi</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="8">
+                <name>Ohira, Masayoshi</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v22/persons#p_OM1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v29p2/persons#p_OM2</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v03/persons#p_OM2</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v04/persons#p_OM2</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v18/persons#p_OM1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v37/persons#p_OM_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v01/persons#p_OM_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v03/persons#p_OM_1</source-url>
+            </original>
+            <original source-urls="6">
+                <name>Ohira Masayoshi</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v17/persons#p_OM1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v31/persons#p_OM1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v36/persons#p_OM1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve12/persons#p_ohira-masayoshi</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve13/persons#p_OM2</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v13/persons#p_OM_1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="11">
+        <remark source-urls="1">
+            <p>Japanese Minister of Foreign Affairs from July 1962</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v22/persons#p_OM1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Foreign Minister of Japan until July 1964; International Trade and Industry Minister from December 1968</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v29p2/persons#p_OM2</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Japanese Foreign Minister from July 1972</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v03/persons#p_OM2</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v04/persons#p_OM2</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Japanese Foreign Minister, July 7, 1972–July 12, 1974</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v17/persons#p_OM1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve13/persons#p_OM2</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Japanese Foreign Minister until July 12, 1974</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v18/persons#p_OM1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Japanese Minister of Finance from July 1974 until 1976</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v31/persons#p_OM1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Japanese Minister for Foreign Affairs from 1972 until 1974</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v36/persons#p_OM1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Japanese Minister of Finance until December 1978; Prime Minister from December 1978 until June 1980</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v37/persons#p_OM_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Japanese Foreign Minister from July 7, 1972 until July 12, 1974</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve12/persons#p_ohira-masayoshi</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Prime Minister of Japan from December 1978 until June 1980</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v01/persons#p_OM_1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v03/persons#p_OM_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Prime Minister of Japan from December 7, 1978 until June 12, 1980</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v13/persons#p_OM_1</source-url>
+        </remark>
+    </remarks>
+</person>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>107444</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Kretzmann, Edwin M. J.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="3">
+                <name>Kretzmann, Edwin M. J.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1947v02/persons#p_KEMJ1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v06/persons#p_KEMJ1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v25/persons#p_KEMJ1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Kretzmann, Edwin</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v08/persons#p_KE2</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="4">
+        <remark source-urls="1">
+            <p>Lieutenant Colonel, Chief, Intelligence Coordination, Office of the Director of Intelligence, United States Forces in Austria</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1947v02/persons#p_KEMJ1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Policy Adviser, International Broadcasting Service, USIA.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v08/persons#p_KE2</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Deputy Assistant Secretary of State, Bureau of Public Affairs, until March 1961</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v06/persons#p_KEMJ1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Deputy Director, Office of International Scientific Affairs, Department of State, from July 1962</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v25/persons#p_KEMJ1</source-url>
+        </remark>
+    </remarks>
+</person>

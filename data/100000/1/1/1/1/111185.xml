@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>111185</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Ratiner, Leigh S.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="1">
+                <name>Ratiner, Leigh</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve01/persons#p_RL1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Ratiner, Leigh S.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve03/persons#p_RLS1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="2">
+        <remark source-urls="1">
+            <p>Office of the General Counsel; Chairman, Advisory Group on Law of the Sea, Department of Defense; Representative, Inter–Agency Law of the Sea Task Force; Director, Ocean Resources, Department of Interior; Staff Director, Office of Ocean Affairs, Department of Defense</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve01/persons#p_RL1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Director Office of Ocean Resources, Department of the Interior, until December, 1973; Director, Office of International Political and Security Affairs, Federal Energy Office, from December 1973 until January 1974; Deputy Assistant Administrator for Political and Economic Affairs, Federal Energy Office, from January 1974 until September 1974; Director, Office of Ocean Resources, Department of the Interior, from September 1974 until 1975; Director, Ocean Mining Development Office, International Affairs Office, Department of the Interior, 1975; Administrator, Ocean Mining Administration, Department of the Interior, 1976</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve03/persons#p_RLS1</source-url>
+        </remark>
+    </remarks>
+</person>

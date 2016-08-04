@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>111066</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Raab, Julius</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="7">
+                <name>Raab, Julius</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1948v02/persons#p_RJ1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1949v03/persons#p_RJ1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v07p1/persons#p_RJ1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v07p2/persons#p_RJ1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v26/persons#p_RJ1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v08/persons#p_RJ1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v09/persons#p_RJ1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Rabb, Julius</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v05/persons#p_RJ1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Chancellor Raab</name>
+                <source-url>https://history.state.gov/departmenthistory/visits/austria</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="6">
+        <remark source-urls="1">
+            <p>People’s Party Whip in Austrian Parliament</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1948v02/persons#p_RJ1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>People’s Party Whip in the Austrian Parliament.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1949v03/persons#p_RJ1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Chancellor of Austria from April 1953.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v07p1/persons#p_RJ1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v07p2/persons#p_RJ1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Austrian Chancellor</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v05/persons#p_RJ1</source-url>
+        </remark>
+        <remark source-urls="3">
+            <p>Chancellor of Austria</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v26/persons#p_RJ1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v08/persons#p_RJ1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v09/persons#p_RJ1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Chancellor, Austria. Visited U.S. 2 times, 1954–1958</p>
+            <source-url>https://history.state.gov/departmenthistory/visits/austria</source-url>
+        </remark>
+    </remarks>
+</person>

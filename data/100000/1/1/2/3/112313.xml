@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>112313</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Shastri, Lal Bahadur</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="6">
+                <name>Shastri, Lal Bahadur</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v11p1/persons#p_SLB1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v11p2/persons#p_SLB1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v02/persons#p_SLB1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v03/persons#p_SLB1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v04/persons#p_SLB1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v25/persons#p_SLB1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Shastri, Lai Bahadur</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v08/persons#p_SLB_1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="5">
+        <remark source-urls="2">
+            <p>Indian Minister of Railways from May 1952.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v11p1/persons#p_SLB1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v11p2/persons#p_SLB1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Indian Prime Minister</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v02/persons#p_SLB1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v03/persons#p_SLB1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Indian Prime Minister until January 10, 1966</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v04/persons#p_SLB1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Indian Minister Without Portfolio until June 1964; Prime Minister, Minister of External Affairs, and Minister of Atomic Energy from June 1964 until his death on January 11, 1966</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v25/persons#p_SLB1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Indian Prime Minister from 1964 until 1966</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v08/persons#p_SLB_1</source-url>
+        </remark>
+    </remarks>
+</person>

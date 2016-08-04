@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>114981</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Zafrullah Khan, Muhammad</name>
+        </preferred>
+        <alternates/>
+        <originals variants="6">
+            <original source-urls="1">
+                <name>Zafrulla Khan, Sir Mohammad</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v03/persons#p_ZAFRULLAKHANSM1</source-url>
+            </original>
+            <original source-urls="2">
+                <name>Zafrullah Khan, Sir Mohammed</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v09p1/persons#p_ZKSM1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v09p2/persons#p_ZKSM1</source-url>
+            </original>
+            <original source-urls="2">
+                <name>Khan, Chaudhri Sir Muhammad Zafrullah</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v11p1/persons#p_KCSM1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v11p2/persons#p_KCSM1</source-url>
+            </original>
+            <original source-urls="2">
+                <name>Zafrullah Khan, Chaudhri Sir Muhammad</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v11p1/persons#p_ZK1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v11p2/persons#p_ZK1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Zafrullah Khan, Sir Chaudhri Muhammad</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v16/persons#p_ZKSCM1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Zafrulla Khan, Sir Mohammed</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v25/persons#p_ZKSM1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="2">
+            <title source-urls="5">
+                <name>Sir</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v03/persons#p_ZAFRULLAKHANSM1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v09p1/persons#p_ZKSM1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v09p2/persons#p_ZKSM1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v16/persons#p_ZKSCM1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v25/persons#p_ZKSM1</source-url>
+            </title>
+            <title source-urls="4">
+                <name>Chaudhri Sir</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v11p1/persons#p_KCSM1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v11p1/persons#p_ZK1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v11p2/persons#p_KCSM1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v11p2/persons#p_ZK1</source-url>
+            </title>
+        </titles-from-name>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="6">
+        <remark source-urls="1">
+            <p>Pakistani Minister of Foreign Affairs and Commonwealth Relations until October 1954; thereafter, Member, International Court of Justice; Chairman, Pakistani Delegations to the 7th, 8th, and 9th Regular Sessions of the General Assembly.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v03/persons#p_ZAFRULLAKHANSM1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Pakistani Foreign Minister and Minister of Commonwealth Relations; Chairman of the Delegations to the 7th, 8th, and 9th Regular Sessions of the United Nations General Assembly, 1953–1954.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v09p1/persons#p_ZKSM1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v09p2/persons#p_ZKSM1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>See Zafrullah Khan, Chaudhri Sir Muhammad.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v11p1/persons#p_KCSM1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v11p2/persons#p_KCSM1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Pakistani Minister of Foreign Affairs and Commonwealth Relations.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v11p1/persons#p_ZK1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v11p2/persons#p_ZK1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Minister of Foreign Affairs and Minister for Commonwealth Relations of Pakistan.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v16/persons#p_ZKSCM1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Permanent Representative of Pakistan at the United Nations; President of the 17th Session of the UN General Assembly</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v25/persons#p_ZKSM1</source-url>
+        </remark>
+    </remarks>
+</person>

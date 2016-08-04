@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>100086</id>
+    <authorities>
+        <authority service="viaf">187279228</authority>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Adams, Alvin P.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="2">
+                <name>Adams, Alvin P.</name>
+                <source-url>https://history.state.gov/departmenthistory/people/adams-alvin-p</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1981-88v13/persons#p_AAP_1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Alvin P. Adams Jr.</name>
+                <source-url>https://history.state.gov/departmenthistory/people/adams-alvin-p</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1942</birth-year>
+    <death-year/>
+    <remarks variants="2">
+        <remark source-urls="1">
+            <p>Foreign Service Officer. Ambassador Extraordinary and Plenipotentiary (Peru); Ambassador Extraordinary and Plenipotentiary (Haiti); Ambassador Extraordinary and Plenipotentiary (Djibouti).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/adams-alvin-p</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Deputy Executive Secretary of the Department of State until December 1982</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1981-88v13/persons#p_AAP_1</source-url>
+        </remark>
+    </remarks>
+</person>

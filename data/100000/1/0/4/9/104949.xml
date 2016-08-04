@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>104949</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Glitman, Maynard Wayne</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="4">
+                <name>Glitman, Maynard Wayne</name>
+                <source-url>https://history.state.gov/departmenthistory/people/glitman-maynard-wayne</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve11p2/persons#p_GMW_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v20/persons#p_GMW_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1981-88v03/persons#p_GM_1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Glitman, Maynard W.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v31/persons#p_GMW1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1933</birth-year>
+    <death-year>2010</death-year>
+    <remarks variants="5">
+        <remark source-urls="1">
+            <p>Foreign Service Officer. Ambassador Extraordinary and Plenipotentiary (Belgium).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/glitman-maynard-wayne</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Deputy Assistant Secretary of State for International Trade Policy from 1974 until 1976</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v31/persons#p_GMW1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Director of the Office of International Trade Policy, Department of State, from 1975 until 1976; Deputy Assistant Secretary of Defense for International Security Affairs from 1976</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve11p2/persons#p_GMW_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Deputy Assistant Secretary of Defense for International Security Affairs from 1976 until 1977</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v20/persons#p_GMW_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Deputy U.S. Negotiator, Intermediate-Range Nuclear Force Negotiations, from November 1981</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1981-88v03/persons#p_GM_1</source-url>
+        </remark>
+    </remarks>
+</person>

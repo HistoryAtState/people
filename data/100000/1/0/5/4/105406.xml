@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>105406</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Hale, Edward Joseph</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="1">
+                <name>Hale, Edward J.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1916Supp/persons#p_HEJ1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Hale, Edward Joseph</name>
+                <source-url>https://history.state.gov/departmenthistory/people/hale-edward-joseph</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Edward J. Hale</name>
+                <source-url>https://history.state.gov/departmenthistory/people/hale-edward-joseph</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1839</birth-year>
+    <death-year>1922</death-year>
+    <remarks variants="2">
+        <remark source-urls="1">
+            <p>U. S. Minister in Costa Rica.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1916Supp/persons#p_HEJ1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Non-career appointee. Envoy Extraordinary and Minister Plenipotentiary (Costa Rica).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/hale-edward-joseph</source-url>
+        </remark>
+    </remarks>
+</person>

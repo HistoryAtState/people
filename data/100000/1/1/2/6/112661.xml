@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>112661</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Smith, Robert Powell</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="1">
+                <name>Smith, Robert P.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v24/persons#p_SRP1</source-url>
+            </original>
+            <original source-urls="4">
+                <name>Smith, Robert Powell</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve05p1/persons#p_SRP1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve05p2/persons#p_SRP1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve06/persons#p_SRP1</source-url>
+                <source-url>https://history.state.gov/departmenthistory/people/smith-robert-powell</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Robert P. Smith</name>
+                <source-url>https://history.state.gov/departmenthistory/people/smith-robert-powell</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1929</birth-year>
+    <death-year>2012</death-year>
+    <remarks variants="5">
+        <remark source-urls="1">
+            <p>Officer in Charge of Ghanaian Affairs, Bureau of African Affairs, Department of State, August 1965–July 1966; thereafter Officer in Charge of Nigerian Affairs</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v24/persons#p_SRP1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Officer in Charge of Nigerian Affairs, from July 1966</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve05p1/persons#p_SRP1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Officer in Charge of Nigerian Affairs</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve05p2/persons#p_SRP1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Officer in Charge of Nigerian Affairs from July 1966</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve06/persons#p_SRP1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Foreign Service Officer. Ambassador Extraordinary and Plenipotentiary (Malta); Ambassador Extraordinary and Plenipotentiary (Liberia); Ambassador Extraordinary and Plenipotentiary (Ghana).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/smith-robert-powell</source-url>
+        </remark>
+    </remarks>
+</person>

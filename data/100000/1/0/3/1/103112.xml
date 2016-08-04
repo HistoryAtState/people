@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>103112</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Dahrendorf, Ralf G.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="2">
+                <name>Dahrendorf, Ralf G.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v03/persons#p_DRG1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v04/persons#p_DRG1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Dahrendorf, Ralf</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v40/persons#p_DR1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="2">
+        <remark source-urls="2">
+            <p>Commissioner of the European Community in charge of external relations, May 1970-September 1974</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v03/persons#p_DRG1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v04/persons#p_DRG1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>(FDP), member of the Bundestag from October 20, 1969; Parliamentary State Secretary in the West German Foreign Office from October 22, 1969; member of the European Community Commission in Brussels and Director of the Division for “Foreign Relations” in the West German Foreign Office after June 1, 1970</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v40/persons#p_DR1</source-url>
+        </remark>
+    </remarks>
+</person>

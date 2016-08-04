@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>104608</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Fubini, Eugene C.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="1">
+                <name>Fubini, Eugene C.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v33/persons#p_FEC1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="1">
+        <remark source-urls="1">
+            <p>Assistant Secretary of Defense and Deputy Director of Defense Research and Engineering until 1965</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v33/persons#p_FEC1</source-url>
+        </remark>
+    </remarks>
+</person>

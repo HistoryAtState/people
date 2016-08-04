@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>100935</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Barrios, Gonzalo</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="1">
+                <name>Barrios, Gonzalo</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v31/persons#p_BG1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="1">
+        <remark source-urls="1">
+            <p>Venezuelan Minister of Interior March 1964–November 1966; thereafter Secretary General of Acción Democrática; AD candidate for President December 1968</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v31/persons#p_BG1</source-url>
+        </remark>
+    </remarks>
+</person>

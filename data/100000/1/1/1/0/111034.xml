@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>111034</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Qi Pengfei</name>
+        </preferred>
+        <alternates>
+            <name>Chi Peng-fei</name>
+            <name>Chi P‘eng-fei</name>
+        </alternates>
+        <originals variants="3">
+            <original source-urls="1">
+                <name>Chi Peng-tei</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v05/persons#p_CP2</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Chi Peng-fei</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v05/persons#p_CPF1</source-url>
+            </original>
+            <original source-urls="3">
+                <name>Chi P'eng-fei</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v17/persons#p_CP1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v20/persons#p_CP2</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve13/persons#p_CP2</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="3">
+        <remark source-urls="1">
+            <p>Foreign Minister of the People's Republic of China</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v05/persons#p_CP2</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Acting Foreign Minister, People's Republic of China</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v05/persons#p_CPF1</source-url>
+        </remark>
+        <remark source-urls="3">
+            <p>Vice Minister of Foreign Affairs, People's Republic of China, until April 1971; Acting Foreign Minister until February 1972; Foreign Minister from February 1972</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v17/persons#p_CP1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v20/persons#p_CP2</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve13/persons#p_CP2</source-url>
+        </remark>
+    </remarks>
+</person>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>106413</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Ioannides, Dimitrios</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="1">
+                <name>Ioannides, Lieutenant Colonel Dimitrios</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v16/persons#p_ILCD1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Ioannids, Lt. Col. Dimitrios</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v29/persons#p_ILCD1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Ioannides, Brigadier Gen. Dimitrios</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v30/persons#p_IBGD1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="3">
+            <title source-urls="1">
+                <name>Lieutenant Colonel</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v16/persons#p_ILCD1</source-url>
+            </title>
+            <title source-urls="1">
+                <name>Lt. Col.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v29/persons#p_ILCD1</source-url>
+            </title>
+            <title source-urls="1">
+                <name>Brigadier Gen.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v30/persons#p_IBGD1</source-url>
+            </title>
+        </titles-from-name>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="3">
+        <remark source-urls="1">
+            <p>Chief of Greek Military Police (ESA) from April 1967</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v16/persons#p_ILCD1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Chief of Greek Military Security Police (ESA)</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v29/persons#p_ILCD1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Chief of Greek Military Security 1974</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v30/persons#p_IBGD1</source-url>
+        </remark>
+    </remarks>
+</person>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>107632</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Lane, Lyle Franklin</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="2">
+                <name>Lane, Lyle Franklin</name>
+                <source-url>https://history.state.gov/departmenthistory/people/lane-lyle-francis</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve11p1/persons#p_LL_1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Lane, Lyle F.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve10/persons#p_LLF1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1926</birth-year>
+    <death-year/>
+    <remarks variants="3">
+        <remark source-urls="1">
+            <p>Foreign Service Officer. Ambassador Extraordinary and Plenipotentiary (Uruguay); Ambassador Extraordinary and Plenipotentiary (Paraguay).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/lane-lyle-francis</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>International Relations Officer, Central America, Bureau of Inter-American Affairs, Department of State, 1970; Special Assistant, Bureau of Inter-American Affairs from 1970 until 1971; Deputy Director, National Security Council Interdepartmental Group for Inter-American Affairs, 1971; then Acting Director of that Group from 1971 until 1972; Deputy Executive Director, Office of Management, Bureau of Inter-American Affairs, Department of State from 1972 until 1973</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve10/persons#p_LLF1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Deputy Chief of Mission, U.S. Embassy in San José, from 1973 until 1976</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve11p1/persons#p_LL_1</source-url>
+        </remark>
+    </remarks>
+</person>

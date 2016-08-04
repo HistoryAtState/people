@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>102474</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Cheslaw, Irving Gottlieb</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="1">
+                <name>Cheslaw, Irving G.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve08/persons#p_CIG1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Cheslaw, Irving Gottlieb</name>
+                <source-url>https://history.state.gov/departmenthistory/people/cheslaw-irving-gottlieb</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Irving G. Cheslaw</name>
+                <source-url>https://history.state.gov/departmenthistory/people/cheslaw-irving-gottlieb</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1921</birth-year>
+    <death-year>2013</death-year>
+    <remarks variants="2">
+        <remark source-urls="1">
+            <p>Deputy Chief of Mission of the U.S. Embassy in Bangladesh from 1974 to 1976</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve08/persons#p_CIG1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Foreign Service Officer. Ambassador Extraordinary and Plenipotentiary (Trinidad and Tobago).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/cheslaw-irving-gottlieb</source-url>
+        </remark>
+    </remarks>
+</person>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>110465</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Pavlov, Vladimir Nikolayevich</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="7">
+                <name>Pavlov, Vladimir Nikolayevich</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1943CairoTehran/persons#p_PVN1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv01/persons#p_PVN1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv02/persons#p_PVN1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945Malta/persons#p_PVN1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1946v03/persons#p_PVN1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1947v02/persons#p_PVN1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1948v02/persons#p_PVN1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="5">
+        <remark source-urls="2">
+            <p>Personal Secretary and Interpreter to Marshal Stalin.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1943CairoTehran/persons#p_PVN1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1945Malta/persons#p_PVN1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Personal Secretary and Interpreter to the Chairman, Council of People’s Commissars of the Soviet Union.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv01/persons#p_PVN1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv02/persons#p_PVN1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Adviser, Soviet Delegation; Personal Assistant and Translator for Foreign Minister Molotov</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1946v03/persons#p_PVN1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Personal Assistant and Translator to Foreign Minister Molotov</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1947v02/persons#p_PVN1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Counselor of the Soviet Embassy in the United Kingdom</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1948v02/persons#p_PVN1</source-url>
+        </remark>
+    </remarks>
+</person>

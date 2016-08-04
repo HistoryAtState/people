@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>105465</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Hamilton, William L., Jr.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="7">
+                <name>Hamilton, William L., Jr.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v05/persons#p_HWL1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v06p1/persons#p_HAMILTONWLJ1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v06p2/persons#p_HAMILTONWLJ1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v09p1/persons#p_HWL1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v09p2/persons#p_HWL1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v17/persons#p_HWLJ1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v18/persons#p_HWLJ1</source-url>
+            </original>
+            <original source-urls="4">
+                <name>Hamilton, William L.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v05p1/persons#p_HAMILTONWL1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v05p2/persons#p_HAMILTONWL1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v11/persons#p_HWLJ1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v13/persons#p_HWL1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="6">
+        <remark source-urls="3">
+            <p>Office of British Commonwealth and Northern European Affairs, Department of State.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1951v05/persons#p_HWL1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v09p1/persons#p_HWL1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v09p2/persons#p_HWL1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Office of British Commonwealth and Northern European Affairs, Department of State, after January 1950.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v05p1/persons#p_HAMILTONWL1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v05p2/persons#p_HAMILTONWL1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Office of British Commonwealth and Northern European Affairs, Department of State after January 1950.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v06p1/persons#p_HAMILTONWLJ1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v06p2/persons#p_HAMILTONWLJ1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Officer in Charge of Lebanon–Israel Affairs, Department of State, from August 1958</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v11/persons#p_HWLJ1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Officer in Charge of Lebanon–Israel Affairs, Department of State, from July 1958</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v13/persons#p_HWL1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Officer in Charge of Lebanon-Israel Affairs, Office of Near Eastern Affairs, Bureau of Near Eastern and South Asian Affairs, Department of State, until June 1962</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v17/persons#p_HWLJ1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v18/persons#p_HWLJ1</source-url>
+        </remark>
+    </remarks>
+</person>

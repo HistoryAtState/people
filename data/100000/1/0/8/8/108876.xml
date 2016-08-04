@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>108876</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>McHenry, Donald F.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="5">
+                <name>McHenry, Donald F.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v01/persons#p_MDF_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v02/persons#p_MDF_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v03/persons#p_MDF_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v06/persons#p_MDF_1</source-url>
+                <source-url>https://history.state.gov/departmenthistory/people/mchenry-donald-f</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1936</birth-year>
+    <death-year/>
+    <remarks variants="5">
+        <remark source-urls="1">
+            <p>member, Department of State Transition Team, 1976; Project Director, Humanitarian Policy Studies, Carnegie Endowment for International Peace until March 1977; U.S. Deputy Representative to the United Nations from March 1977 until September 1979; U.S. Permanent Representative to the United Nations from September 23, 1979, until January 20, 1981</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v01/persons#p_MDF_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>U.S. Deputy Representative to the United Nations Security Council from March 1977 until September 1979; U.S. Permanent Representative to the United Nations from September 23, 1979, until January 20, 1981; Co-Chairman, U.S. Delegation to the 1980 United Nations World Conference on Women</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v02/persons#p_MDF_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>U.S. Representative to the United Nations from September 1979</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v03/persons#p_MDF_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>United States Representative to the United Nations from September 23, 1979, until January 20, 1981</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v06/persons#p_MDF_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Non-career appointee. Representative of the U.S.A. to the United Nations.</p>
+            <source-url>https://history.state.gov/departmenthistory/people/mchenry-donald-f</source-url>
+        </remark>
+    </remarks>
+</person>

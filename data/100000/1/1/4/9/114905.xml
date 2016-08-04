@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>114905</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Yem Sambaur</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="1">
+                <name>Sambaur</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v06/persons#p_SAMBAUR1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Yem Sambaur</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v06/persons#p_YS1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="2">
+        <remark source-urls="1">
+            <p>see Yem Sambaur</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v06/persons#p_SAMBAUR1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Cambodian Minister of Justice, October 1969; Deputy Prime Minister in Charge of Justice, Health, Social Affairs, Labor, Land Development, and Parliamentary Affairs in March 1970; also Foreign Minister in April 1970</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v06/persons#p_YS1</source-url>
+        </remark>
+    </remarks>
+</person>

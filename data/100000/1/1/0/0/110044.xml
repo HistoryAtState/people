@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>110044</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Ojukwu, Chukwuemeka Odumegwu</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="3">
+                <name>Ojukwu, Lieutenant Colonel Chukwuemeka Odumegwu</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v24/persons#p_OLCCO1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve05p1/persons#p_OLCCO1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve05p2/persons#p_OLCCO1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="1">
+            <title source-urls="3">
+                <name>Lieutenant Colonel</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v24/persons#p_OLCCO1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve05p1/persons#p_OLCCO1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve05p2/persons#p_OLCCO1</source-url>
+            </title>
+        </titles-from-name>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="3">
+        <remark source-urls="1">
+            <p>Military Governor of the Eastern Region of Nigeria from January 1966</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v24/persons#p_OLCCO1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Military Governor of the Eastern Region of Nigeria from January 1966 until January 10, 1970</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve05p1/persons#p_OLCCO1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Military Governor of the Eastern Region of Nigeria until January 10, 1970</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve05p2/persons#p_OLCCO1</source-url>
+        </remark>
+    </remarks>
+</person>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>110285</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Page, Walter Hines</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="5">
+                <name>Page, Walter Hines</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1914Supp/persons#p_PWH1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1915Supp/persons#p_PWH1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1916Supp/persons#p_PWH1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1917-72PubDip/persons#p_PGH_1</source-url>
+                <source-url>https://history.state.gov/departmenthistory/people/page-walter-hines</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1855</birth-year>
+    <death-year>1918</death-year>
+    <remarks variants="4">
+        <remark source-urls="2">
+            <p>United States Ambassador in Great Britain.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1914Supp/persons#p_PWH1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1915Supp/persons#p_PWH1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>U. S. Ambassador in Great Britain.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1916Supp/persons#p_PWH1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>U.S. Ambassador to the United Kingdom until November 1918</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1917-72PubDip/persons#p_PGH_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Non-career appointee. Ambassador Extraordinary and Plenipotentiary (United Kingdom).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/page-walter-hines</source-url>
+        </remark>
+    </remarks>
+</person>

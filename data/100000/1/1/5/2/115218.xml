@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>115218</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Blandy, William H. P.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="1">
+                <name>Blandy, Admiral William H. P.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v05/persons#p_BAHP1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="1">
+            <title source-urls="1">
+                <name>Admiral</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v05/persons#p_BAHP1</source-url>
+            </title>
+        </titles-from-name>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="1">
+        <remark source-urls="1">
+            <p>USN (Ret.), Former Commander in Chief, Atlantic, and U.S. Atlantic Fleet until February 1, 1950.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1951v05/persons#p_BAHP1</source-url>
+        </remark>
+    </remarks>
+</person>

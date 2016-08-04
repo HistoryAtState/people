@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>104341</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Fleming, Philip Bracken</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="1">
+                <name>Fleming, Philip Bracken</name>
+                <source-url>https://history.state.gov/departmenthistory/people/fleming-philip-bracken</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Philip B. Fleming</name>
+                <source-url>https://history.state.gov/departmenthistory/people/fleming-philip-bracken</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1887</birth-year>
+    <death-year>1955</death-year>
+    <remarks variants="1">
+        <remark source-urls="1">
+            <p>Non-career appointee. Ambassador Extraordinary and Plenipotentiary (Costa Rica).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/fleming-philip-bracken</source-url>
+        </remark>
+    </remarks>
+</person>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>113407</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Taylor, Henry Junior</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="1">
+                <name>Taylor, Henry Junior</name>
+                <source-url>https://history.state.gov/departmenthistory/people/taylor-henry-junior</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Henry J. Taylor</name>
+                <source-url>https://history.state.gov/departmenthistory/people/taylor-henry-junior</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1902</birth-year>
+    <death-year>1984</death-year>
+    <remarks variants="1">
+        <remark source-urls="1">
+            <p>Non-career appointee. Ambassador Extraordinary and Plenipotentiary (Switzerland).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/taylor-henry-junior</source-url>
+        </remark>
+    </remarks>
+</person>

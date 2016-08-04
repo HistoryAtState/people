@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>109290</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Monckton, Walter Turner</name>
+        </preferred>
+        <alternates/>
+        <originals variants="4">
+            <original source-urls="1">
+                <name>Monckton, Sir Walter</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv01/persons#p_MSW1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Monckton, Walter Turner</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv02/persons#p_MSW1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Monckton of Benchley, Viscount (Walter T. Monckton)</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v12/persons#p_MBVWTM1</source-url>
+            </original>
+            <original source-urls="2">
+                <name>Monckton of Brenchley, 1st Viscount (Walter Turner Monckton)</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v15/persons#p_MBVWTM1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v16/persons#p_MBVWTM1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="2">
+            <title source-urls="1">
+                <name>Sir</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv01/persons#p_MSW1</source-url>
+            </title>
+            <title source-urls="3">
+                <name>Viscount of Brenchley</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v12/persons#p_MBVWTM1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v15/persons#p_MBVWTM1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v16/persons#p_MBVWTM1</source-url>
+            </title>
+        </titles-from-name>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="4">
+        <remark source-urls="2">
+            <p>Head, British Delegation, Allied Commission on Reparations.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv01/persons#p_MSW1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv02/persons#p_MSW1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>British Minister of Defense, December 1955–October 1956</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v12/persons#p_MBVWTM1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>British Minister of Labor and National Service until December 1955; Minister of Defense, December 1955–October 1956; Paymaster General, October 1956–January 1957</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v15/persons#p_MBVWTM1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>British Minister of Defense, December 1955–October 1956; Paymaster General, October 1956–January 1957</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v16/persons#p_MBVWTM1</source-url>
+        </remark>
+    </remarks>
+</person>

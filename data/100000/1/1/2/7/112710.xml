@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>112710</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Sofaer, Abraham D.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="1">
+                <name>Sofaer, Abraham D.</name>
+                <source-url>https://history.state.gov/departmenthistory/people/sofaer-abraham-d</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1938</birth-year>
+    <death-year/>
+    <remarks variants="1">
+        <remark source-urls="1">
+            <p>Non-career appointee. Legal Adviser.</p>
+            <source-url>https://history.state.gov/departmenthistory/people/sofaer-abraham-d</source-url>
+        </remark>
+    </remarks>
+</person>

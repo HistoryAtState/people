@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>109736</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Neumann, Robert Gerhard</name>
+        </preferred>
+        <alternates/>
+        <originals variants="4">
+            <original source-urls="6">
+                <name>Neumann, Robert G.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v25/persons#p_NRG1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v11/persons#p_NRG1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v17/persons#p_NRG1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve07/persons#p_NRG1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve09p1/persons#p_NRG_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve13/persons#p_NRG1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Neumann, Robert</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve08/persons#p_NRG1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Neumann, Robert Gerhard</name>
+                <source-url>https://history.state.gov/departmenthistory/people/neumann-robert-gerhard</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Robert G. Neumann</name>
+                <source-url>https://history.state.gov/departmenthistory/people/neumann-robert-gerhard</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1916</birth-year>
+    <death-year>1999</death-year>
+    <remarks variants="5">
+        <remark source-urls="1">
+            <p>Ambassador to Afghanistan from February 1967</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v25/persons#p_NRG1</source-url>
+        </remark>
+        <remark source-urls="4">
+            <p>Ambassador to Afghanistan</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v11/persons#p_NRG1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v17/persons#p_NRG1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve07/persons#p_NRG1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve13/persons#p_NRG1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>U.S. Ambassador to Afghanistan until 1973</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve08/persons#p_NRG1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>U.S. Ambassador to Morocco from October 1973 until March 1976</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve09p1/persons#p_NRG_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Non-career appointee. Ambassador Extraordinary and Plenipotentiary (Saudi Arabia); Ambassador Extraordinary and Plenipotentiary (Morocco); Ambassador Extraordinary and Plenipotentiary (Afghanistan).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/neumann-robert-gerhard</source-url>
+        </remark>
+    </remarks>
+</person>

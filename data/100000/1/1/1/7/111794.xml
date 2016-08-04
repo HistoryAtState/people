@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>111794</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Saccio, Leonard John</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="2">
+                <name>Saccio, Leonard John</name>
+                <source-url>https://history.state.gov/departmenthistory/people/saccio-leonard-john</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve11p2/persons#p_SLJ_1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Leonard J. Saccio</name>
+                <source-url>https://history.state.gov/departmenthistory/people/saccio-leonard-john</source-url>
+            </original>
+            <original source-urls="3">
+                <name>Saccio, Leonard J.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v01/persons#p_SLJ1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v16/persons#p_SLJ1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v31/persons#p_SLJ1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1911</birth-year>
+    <death-year/>
+    <remarks variants="5">
+        <remark source-urls="1">
+            <p>Foreign Service Officer. Ambassador Extraordinary and Plenipotentiary (Colombia).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/saccio-leonard-john</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>General Counsel of the International Cooperation Administration to August 1958; thereafter Deputy Director</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v01/persons#p_SLJ1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>General Counselor, International Cooperation Administration, until August 1958; Deputy Director of the International Cooperation Administration, August 1958–September 1960</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v16/persons#p_SLJ1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Deputy Chief of Mission, Embassy in Argentina, from July 1965</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v31/persons#p_SLJ1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>U.S. Ambassador to Colombia until July 12, 1973</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve11p2/persons#p_SLJ_1</source-url>
+        </remark>
+    </remarks>
+</person>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>108257</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Macchi di Cellere, Vincenzo</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="1">
+                <name>Macchi di Cellere, Count Vincenzo</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1914Supp/persons#p_MDCCV1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Macchi di Cellere, Vincenzo, Count.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1915Supp/persons#p_MDCVC1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Macchi di Cellere,Vincenzo,Count</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1916Supp/persons#p_MDCVC1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="1">
+            <title source-urls="3">
+                <name>Count</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1914Supp/persons#p_MDCCV1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1915Supp/persons#p_MDCVC1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1916Supp/persons#p_MDCVC1</source-url>
+            </title>
+        </titles-from-name>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="1">
+        <remark source-urls="3">
+            <p>Italian Ambassador at Washington.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1914Supp/persons#p_MDCCV1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1915Supp/persons#p_MDCVC1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1916Supp/persons#p_MDCVC1</source-url>
+        </remark>
+    </remarks>
+</person>

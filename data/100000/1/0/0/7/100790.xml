@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>100790</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Bakhtiar, Taymur</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="1">
+                <name>Bakhtiar, General Taymur</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v12/persons#p_BGT1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Bakhtiar, General Timur</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v12/persons#p_BGT1</source-url>
+            </original>
+            <original source-urls="2">
+                <name>Bakhtiar, Lieutenant General Timur</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v17/persons#p_BGT1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v18/persons#p_BGT1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="2">
+            <title source-urls="2">
+                <name>General</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v12/persons#p_BGT1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v12/persons#p_BGT1</source-url>
+            </title>
+            <title source-urls="2">
+                <name>Lieutenant General</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v17/persons#p_BGT1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v18/persons#p_BGT1</source-url>
+            </title>
+        </titles-from-name>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="4">
+        <remark source-urls="1">
+            <p>Iranian Military Governor of Tehran until April 1957</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v12/persons#p_BGT1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Chief of Savak, Iran Secret Police</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v12/persons#p_BGT1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Chief of Iran’s Security and Information Organization until April 1961</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v17/persons#p_BGT1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Chief of Iran's Security and Information Organization until April 1961</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v18/persons#p_BGT1</source-url>
+        </remark>
+    </remarks>
+</person>

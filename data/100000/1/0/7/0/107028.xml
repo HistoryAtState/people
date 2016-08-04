@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>107028</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Kennedy, Joseph Patrick</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="2">
+                <name>Kennedy, Joseph P.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v03p1/persons#p_KJP1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v03p2/persons#p_KJP1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Kennedy, Joseph Patrick</name>
+                <source-url>https://history.state.gov/departmenthistory/people/kennedy-joseph-patrick</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Joseph P. Kennedy</name>
+                <source-url>https://history.state.gov/departmenthistory/people/kennedy-joseph-patrick</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1888</birth-year>
+    <death-year>1969</death-year>
+    <remarks variants="2">
+        <remark source-urls="2">
+            <p>Ambassador in the United Kingdom, 1937–1941; author of articles on international and economic questions.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1951v03p1/persons#p_KJP1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1951v03p2/persons#p_KJP1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Non-career appointee. Ambassador Extraordinary and Plenipotentiary (United Kingdom).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/kennedy-joseph-patrick</source-url>
+        </remark>
+    </remarks>
+</person>

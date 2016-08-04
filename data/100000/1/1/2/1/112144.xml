@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>112144</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Scott, David A.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="1">
+                <name>Scott, David A.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v28/persons#p_SDA_1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="1">
+        <remark source-urls="1">
+            <p>Assistant Under Secretary of State at the British Foreign and Commonwealth Office from 1970 until 1972; British High Commissioner to New Zealand and Governor of the Pitcairn Islands from 1973 until 1975; British Ambassador to South Africa from 1976</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v28/persons#p_SDA_1</source-url>
+        </remark>
+    </remarks>
+</person>

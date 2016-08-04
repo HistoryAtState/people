@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>111755</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Russell, William Worthington</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="1">
+                <name>Russell, William Worthington</name>
+                <source-url>https://history.state.gov/departmenthistory/people/russell-william-worthington</source-url>
+            </original>
+            <original source-urls="1">
+                <name>William W. Russell</name>
+                <source-url>https://history.state.gov/departmenthistory/people/russell-william-worthington</source-url>
+            </original>
+            <original source-urls="1">
+                <name>William E. Russell</name>
+                <source-url>https://history.state.gov/departmenthistory/people/russell-william-worthington</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1859</birth-year>
+    <death-year>1944</death-year>
+    <remarks variants="1">
+        <remark source-urls="1">
+            <p>Non-career appointee. Envoy Extraordinary and Minister Plenipotentiary (Venezuela); Envoy Extraordinary and Minister Plenipotentiary (Thailand); Minister Resident/Consul General (Dominican Republic); Envoy Extraordinary and Minister Plenipotentiary (Dominican Republic); Envoy Extraordinary and Minister Plenipotentiary (Colombia).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/russell-william-worthington</source-url>
+        </remark>
+    </remarks>
+</person>

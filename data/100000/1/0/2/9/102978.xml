@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>102978</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Creel, Robert C.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="7">
+                <name>Creel, Robert C.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v08/persons#p_CRC1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v15/persons#p_CRC1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v24/persons#p_CRC1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v12/persons#p_CRC1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v15/persons#p_CRC1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v17/persons#p_CRC1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v23/persons#p_CRC_1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="7">
+        <remark source-urls="1">
+            <p>Officer in Charge of German Political Affairs, Department of State, until December 1958</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v08/persons#p_CRC1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Director of the Office of German Affairs, Bureau of European Affairs, Department of State</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v15/persons#p_CRC1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Counselor and Consul General, Embassy in Vientiane, after May 19, 1961</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v24/persons#p_CRC1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Deputy Assistant Secretary of State for European Affairs until September 1965</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v12/persons#p_CRC1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Director of the Office of German Affairs, Bureau of European Affairs, until July 1964; then Deputy Assistant Secretary of State for European Affairs until September 1965; thereafter Consul General in Munich</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v15/persons#p_CRC1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Director, Office of German Affairs, Bureau of European Affairs, Department of State, to July 1964</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v17/persons#p_CRC1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Deputy Assistant Secretary of State for European Affairs</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v23/persons#p_CRC_1</source-url>
+        </remark>
+    </remarks>
+</person>

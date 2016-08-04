@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>113135</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Sturm, Paul J.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="4">
+            <original source-urls="4">
+                <name>Sturm, Paul J.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v13p1/persons#p_SPJ1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v13p2/persons#p_SPJ1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v16/persons#p_SPJ1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v01/persons#p_SPJ1</source-url>
+            </original>
+            <original source-urls="3">
+                <name>Sturm, Paul</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v02/persons#p_SP2</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v03/persons#p_SP2</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v04/persons#p_SP2</source-url>
+            </original>
+            <original source-urls="3">
+                <name>Y</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v02/persons#p_Y1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v03/persons#p_Y1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v04/persons#p_Y1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>George</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v04/persons#p_George1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="8">
+        <remark source-urls="1">
+            <p>Consul at Hanoi, February 21, 1952—October 7. 1954.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v13p1/persons#p_SPJ1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Consul at Hanoi, February 21, 1952–October 7.1954.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v13p2/persons#p_SPJ1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Member of the Office of Philippine and Southeast Asian Affairs, Department of State.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v16/persons#p_SPJ1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Foreign Service Officer attached to General Collins ’ staff in Saigon to May 1955; formerly Consul in Hanoi, February 1952–October 1954</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v01/persons#p_SPJ1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>unofficial U.S. envoy (“Y”) in the XYZ negotiations with Mai Van Bo</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v02/persons#p_SP2</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v03/persons#p_SP2</source-url>
+        </remark>
+        <remark source-urls="3">
+            <p>see Sturm, Paul</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v02/persons#p_Y1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v03/persons#p_Y1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v04/persons#p_George1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>unofficial U.S. envoy (“Y”) in the XYZ negotiations with Mai Van Bo and Vo Van Sung; unofficial U.S. envoy (“George”) in the Elmtree contacts with Le Van Truong</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v04/persons#p_SP2</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>see Paul Sturm</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v04/persons#p_Y1</source-url>
+        </remark>
+    </remarks>
+</person>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>109336</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Moore, George Curtis</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="3">
+                <name>Moore, George C.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v21/persons#p_MGC1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v25/persons#p_MGC_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v38p1/persons#p_MGC_1</source-url>
+            </original>
+            <original source-urls="2">
+                <name>Moore, George Curtis</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v38p2/persons#p_MGC_2</source-url>
+                <source-url>https://history.state.gov/departmenthistory/people/moore-george-curtis</source-url>
+            </original>
+            <original source-urls="1">
+                <name>George C. Moore</name>
+                <source-url>https://history.state.gov/departmenthistory/people/moore-george-curtis</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1925</birth-year>
+    <death-year>1973</death-year>
+    <remarks variants="5">
+        <remark source-urls="1">
+            <p>Officer-in-Charge of Arabian Peninsula Affairs, Bureau of Near Eastern and South Asian Affairs, Department of State, August 1964-July 1966; thereafter, Acting Country Director for Arabian Peninsula Affairs</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v21/persons#p_MGC1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Deputy Chief of Mission, U.S. Embassy in Khartoum until March 2, 1973</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v25/persons#p_MGC_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Deputy Chief of Mission of the U.S. Embassy in Sudan until March 2, 1973</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v38p1/persons#p_MGC_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Deputy Chief of Mission of the Embassy in Sudan, until March 2, 1973</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v38p2/persons#p_MGC_2</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Foreign Service Officer. Chargé d'Affaires ad interim (Sudan).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/moore-george-curtis</source-url>
+        </remark>
+    </remarks>
+</person>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>103804</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Ecevit, Bulent</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="3">
+                <name>Ecevit, Bulent</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v29/persons#p_EB1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v01/persons#p_EB_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v13/persons#p_EB_1</source-url>
+            </original>
+            <original source-urls="3">
+                <name>Ecevit, Bülent</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v30/persons#p_EB1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve03/persons#p_EB1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v21/persons#p_EB_1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Prime Minister Bulent Ecevit</name>
+                <source-url>https://history.state.gov/departmenthistory/visits/turkey</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="7">
+        <remark source-urls="1">
+            <p>President of the (Turkish) Republican Peoples Party from May 1972</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v29/persons#p_EB1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Turkish Prime Minister from January until November 1974</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v30/persons#p_EB1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Turkish Prime Minister from January 25, 1974 until November 17, 1974</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve03/persons#p_EB1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Turkish Prime Minister from June 21, 1977, until July 21, 1977 and from January 5, 1978, until November 12, 1979</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v01/persons#p_EB_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Prime Minister of Turkey from June 21, 1977 until July 21, 1977, and from January 5, 1978 until November 12, 1979</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v13/persons#p_EB_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Turkish Prime Minister from June 1977 until July 1977, and from January 1978 until November 1979</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v21/persons#p_EB_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Prime Minister, Turkey. Visited U.S. 3 times, 1978–2002</p>
+            <source-url>https://history.state.gov/departmenthistory/visits/turkey</source-url>
+        </remark>
+    </remarks>
+</person>

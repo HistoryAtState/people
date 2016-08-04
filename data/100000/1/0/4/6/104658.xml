@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>104658</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Galbraith, Francis Joseph</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="3">
+                <name>Galbraith, Francis J.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v26/persons#p_GFJ2</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v20/persons#p_GFJ2</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve12/persons#p_galbraith-francis-j</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Galbraith, Francis Joseph</name>
+                <source-url>https://history.state.gov/departmenthistory/people/galbraith-francis-joseph</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Francis J. Galbraith</name>
+                <source-url>https://history.state.gov/departmenthistory/people/galbraith-francis-joseph</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1913</birth-year>
+    <death-year>1986</death-year>
+    <remarks variants="4">
+        <remark source-urls="1">
+            <p>Counselor of Embassy and Consul General at Djakarta until January 1966; Ambassador to Singapore after October 13, 1966</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v26/persons#p_GFJ2</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Ambassador to Indonesia from May 1969</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v20/persons#p_GFJ2</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Ambassador to Indonesia until 1974</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve12/persons#p_galbraith-francis-j</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Foreign Service Officer. Ambassador Extraordinary and Plenipotentiary (Singapore); Ambassador Extraordinary and Plenipotentiary (Indonesia).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/galbraith-francis-joseph</source-url>
+        </remark>
+    </remarks>
+</person>

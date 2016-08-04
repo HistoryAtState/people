@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>115332</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Contee, Raymond E.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="1">
+                <name>Contee, Lieutenant Colonel Raymond E.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v05/persons#p_CRE1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="1">
+            <title source-urls="1">
+                <name>Lieutenant Colonel</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v05/persons#p_CRE1</source-url>
+            </title>
+        </titles-from-name>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="1">
+        <remark source-urls="1">
+            <p>USA, Meiriber of the United States Military Training Mission in Liberia.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1951v05/persons#p_CRE1</source-url>
+        </remark>
+    </remarks>
+</person>

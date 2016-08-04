@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>111360</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Richardson, William Blaine (Bill)</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="2">
+                <name>Richardson, William Blaine (Bill)</name>
+                <source-url>https://history.state.gov/departmenthistory/people/richardson-william-blaine-bill</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v22/persons#p_RWB_1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Bill Richardson</name>
+                <source-url>https://history.state.gov/departmenthistory/people/richardson-william-blaine-bill</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1947</birth-year>
+    <death-year/>
+    <remarks variants="2">
+        <remark source-urls="1">
+            <p>Non-career appointee. Representative of the U.S.A. to the United Nations.</p>
+            <source-url>https://history.state.gov/departmenthistory/people/richardson-william-blaine-bill</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Office of Congressional Relations, Department of State</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v22/persons#p_RWB_1</source-url>
+        </remark>
+    </remarks>
+</person>

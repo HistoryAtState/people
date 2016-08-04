@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>109716</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Nelson, William E.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="1">
+                <name>Nelson, William, Director</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v06/persons#p_NWD1</source-url>
+            </original>
+            <original source-urls="6">
+                <name>Nelson, William E.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v07/persons#p_NWE1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v08/persons#p_NWE1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v10/persons#p_NWE1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v20/persons#p_NWE1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v36/persons#p_NWE1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve09p1/persons#p_NWE_1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Nelson, William</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v28/persons#p_NW_1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="1">
+            <title source-urls="1">
+                <name>Director</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v06/persons#p_NWD1</source-url>
+            </title>
+        </titles-from-name>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="8">
+        <remark source-urls="1">
+            <p>Office of Asian Affairs, Directorate of Operations, Central Intelligence Agency</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v06/persons#p_NWD1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Chief of Far East Division, Directorate of Plans, Central Intelligence Agency</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v07/persons#p_NWE1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Chief, Far East Division, Directorate of Plans, Central Intelligence Agency</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v08/persons#p_NWE1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Deputy Director of Operations, Central Intelligence Agency, 1973</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v10/persons#p_NWE1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Director, Office of Asian Affairs, Directorate of Operations, Central Intelligence Agency</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v20/persons#p_NWE1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Deputy Director for Operations, Central Intelligence Agency, from August 1973 until May 1976</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v28/persons#p_NW_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Deputy Director of Operations, Central Intelligence Agency</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v36/persons#p_NWE1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Deputy Director for Operations, Central Intelligence Agency from August 24, 1973 until May 14, 1976</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve09p1/persons#p_NWE_1</source-url>
+        </remark>
+    </remarks>
+</person>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>104414</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Ford, Carl W.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="1">
+                <name>Ford, Carl W.</name>
+                <source-url>https://history.state.gov/departmenthistory/people/ford-carl-w</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Carl W. Ford, Jr.</name>
+                <source-url>https://history.state.gov/departmenthistory/people/ford-carl-w</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1943</birth-year>
+    <death-year/>
+    <remarks variants="1">
+        <remark source-urls="1">
+            <p>Non-career appointee. Assistant Secretary of State for Intelligence and Research.</p>
+            <source-url>https://history.state.gov/departmenthistory/people/ford-carl-w</source-url>
+        </remark>
+    </remarks>
+</person>

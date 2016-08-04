@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>110006</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Ockey, William C.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="2">
+                <name>Ockey, William C.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v10/persons#p_OWC1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v23p1/persons#p_OWC1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="2">
+        <remark source-urls="1">
+            <p>Office of Northeast Asian Affairs, Department of State</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v10/persons#p_OWC1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Office of Northeast Asian Affairs, Department of State, January–December 1956; thereafter Deputy Director of the Office of Northeast Asian Affairs</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v23p1/persons#p_OWC1</source-url>
+        </remark>
+    </remarks>
+</person>

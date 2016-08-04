@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>115490</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Fri, Robert W.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="2">
+                <name>Fri, Robert W.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve14p2/persons#p_FRW_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v26/persons#p_FRW_1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="2">
+        <remark source-urls="1">
+            <p>Deputy Administrator, Environmental Protection Agency until 1973; also Acting Administrator in 1973; Deputy Administrator, Energy Research and Development Administration from March 1975 until September 1977; also Acting Administrator from 1977</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve14p2/persons#p_FRW_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Acting Director of the Energy Research and Development Administration from January until September 1977</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v26/persons#p_FRW_1</source-url>
+        </remark>
+    </remarks>
+</person>

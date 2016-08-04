@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>102093</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Caldwell, Robert W.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="1">
+                <name>Caldwell, Robert W.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v15/persons#p_CRW1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="1">
+        <remark source-urls="1">
+            <p>Labor Attaché at the Embassy in Pakistan, August 1958–October 1960</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v15/persons#p_CRW1</source-url>
+        </remark>
+    </remarks>
+</person>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>112079</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Schneider, Mark L.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="1">
+                <name>Schneider, Mark L.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v02/persons#p_SML_1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="1">
+        <remark source-urls="1">
+            <p>Deputy Coordinator for Human Rights, Office of the Deputy Secretary of State until August 1977; Principal Deputy Assistant Secretary of State for Human Rights and Humanitarian Affairs from 1977 until 1979</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v02/persons#p_SML_1</source-url>
+        </remark>
+    </remarks>
+</person>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>113315</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Takeuchi, Ryuji</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="7">
+                <name>Takeuchi, Ryuji</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v03/persons#p_TAKEUCHIR1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v14p1/persons#p_TR1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v14p2/persons#p_TR1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v09/persons#p_TR3</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v22/persons#p_TR1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v08/persons#p_TR3</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v29p2/persons#p_TR3</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="6">
+        <remark source-urls="1">
+            <p>Japanese Permanent Observer at the United Nations, 1952–1953; Chief, Japanese Government Overseas Agency in the United States, until April 1952; Chargé in the United States, April 28–June 12, 1952; Minister to the United States, June 1952–1954; Chief, Bureau of European and American Affairs, Japanese Ministry of Foreign Affairs, from 1954.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v03/persons#p_TAKEUCHIR1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Chief of the Japanese Government Overseas Agency in the United States to April 1952; Japanese Chargé d’Affaires in the United States, April–June 1952; Minister of the Embassy in the United States until 1954; Chief, Bureau of European and American Affairs, Japanese Ministry of Foreign Affairs, 1954.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v14p1/persons#p_TR1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v14p2/persons#p_TR1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Japanese Vice Foreign Minister until April 1963; Ambassador of Japan from April 25, 1963</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v09/persons#p_TR3</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Japanese Vice Minister of Foreign Affairs; Japanese Ambassador to the United States from 1963</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v22/persons#p_TR1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Japanese Vice Minister of Foreign Affairs</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v08/persons#p_TR3</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Japanese Ambassador to the United States from January 1964 to May 1967</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v29p2/persons#p_TR3</source-url>
+        </remark>
+    </remarks>
+</person>

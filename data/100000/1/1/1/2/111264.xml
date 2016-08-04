@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>111264</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Rein, Bertram W.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="1">
+                <name>Rein, Bertram</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v41/persons#p_RB_1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Rein, Bertram W.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve01/persons#p_RBW1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="2">
+        <remark source-urls="1">
+            <p>Deputy Assistant Secretary of State for Transportation and Telecommunications, Bureau of Economic Affairs from July 1970</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v41/persons#p_RB_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Deputy Assistant Secretary of State for Transportation and Telecommunications, Bureau of Economic Affairs, Department of State</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve01/persons#p_RBW1</source-url>
+        </remark>
+    </remarks>
+</person>

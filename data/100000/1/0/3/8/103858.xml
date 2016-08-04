@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>103858</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Egberg, Roger O.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="1">
+                <name>Egberg, Dr. Roger O.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve01/persons#p_EDRO1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="1">
+            <title source-urls="1">
+                <name>Dr.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve01/persons#p_EDRO1</source-url>
+            </title>
+        </titles-from-name>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="1">
+        <remark source-urls="1">
+            <p>Special Assistant for Health Policy to the Secretary of Health, Education, and Welfare</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve01/persons#p_EDRO1</source-url>
+        </remark>
+    </remarks>
+</person>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>102091</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Caldwell, John Watson</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="1">
+                <name>Caldwell, John Watson</name>
+                <source-url>https://history.state.gov/departmenthistory/people/caldwell-john-watson</source-url>
+            </original>
+            <original source-urls="1">
+                <name>John W. Caldwell</name>
+                <source-url>https://history.state.gov/departmenthistory/people/caldwell-john-watson</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1809</birth-year>
+    <death-year>1896</death-year>
+    <remarks variants="1">
+        <remark source-urls="1">
+            <p>Non-career appointee. Minister Resident (Bolivia).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/caldwell-john-watson</source-url>
+        </remark>
+    </remarks>
+</person>

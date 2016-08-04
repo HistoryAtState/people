@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>101041</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Beale, Edward Fitzgerald</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="1">
+                <name>Beale, Edward Fitzgerald</name>
+                <source-url>https://history.state.gov/departmenthistory/people/beale-edward-fitzgerald</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Edward F. Beale</name>
+                <source-url>https://history.state.gov/departmenthistory/people/beale-edward-fitzgerald</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1822</birth-year>
+    <death-year>1893</death-year>
+    <remarks variants="1">
+        <remark source-urls="1">
+            <p>Non-career appointee. Envoy Extraordinary and Minister Plenipotentiary (Austria).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/beale-edward-fitzgerald</source-url>
+        </remark>
+    </remarks>
+</person>

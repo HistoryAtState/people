@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>112350</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Shelton, Turner Blair</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="2">
+                <name>Shelton, Turner Blair</name>
+                <source-url>https://history.state.gov/departmenthistory/people/shelton-turner-blair</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve11p1/persons#p_STB_1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Turner B. Shelton</name>
+                <source-url>https://history.state.gov/departmenthistory/people/shelton-turner-blair</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Shelton, Turner B.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve10/persons#p_STB2</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1915</birth-year>
+    <death-year>1982</death-year>
+    <remarks variants="3">
+        <remark source-urls="1">
+            <p>Foreign Service Officer. Ambassador Extraordinary and Plenipotentiary (Nicaragua).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/shelton-turner-blair</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>U.S. Ambassador to Nicaragua</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve10/persons#p_STB2</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>U.S. Ambassador to Nicaragua from November 20, 1970, until August 11, 1975</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve11p1/persons#p_STB_1</source-url>
+        </remark>
+    </remarks>
+</person>

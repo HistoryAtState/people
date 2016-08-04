@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>100964</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Barton, Thomas Pennant</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="1">
+                <name>Barton, Thomas Pennant</name>
+                <source-url>https://history.state.gov/departmenthistory/people/barton-thomas-pennant</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Thomas P. Barton</name>
+                <source-url>https://history.state.gov/departmenthistory/people/barton-thomas-pennant</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1803</birth-year>
+    <death-year>1869</death-year>
+    <remarks variants="1">
+        <remark source-urls="1">
+            <p>Non-career appointee. Chargé d'Affaires ad interim (France).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/barton-thomas-pennant</source-url>
+        </remark>
+    </remarks>
+</person>

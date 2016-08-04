@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>114734</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Witos, Wincenty</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="2">
+                <name>Witos, Wincenty</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv01/persons#p_WW3</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945Malta/persons#p_WW4</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="2">
+        <remark source-urls="1">
+            <p>Polish Prime Minister, 1920–1921, May–December 1923, May 10–14, 1926.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv01/persons#p_WW3</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>leader of the pre-1939 Polish Peasant Party; Prime Minister of Poland, 1920–1921 and 1923–1926; in retirement in Poland during World War II.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1945Malta/persons#p_WW4</source-url>
+        </remark>
+    </remarks>
+</person>

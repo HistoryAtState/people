@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>104451</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Foster, John S., Jr.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="7">
+            <original source-urls="2">
+                <name>Foster, John S., Jr.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v10/persons#p_FJSJ1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v35/persons#p_FJS_1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Foster, Dr. John S., Jr.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v38p2/persons#p_FJS_1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Foster, John S. Jr.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve03/persons#p_FJS1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Foster, John, Jr.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve15p2/persons#p_FJJ_1</source-url>
+            </original>
+            <original source-urls="3">
+                <name>Foster, John S.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v07/persons#p_FJS1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v32/persons#p_FJS1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v34/persons#p_FJS1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Foster, John</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v41/persons#p_FJ_1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Foster, Dr. John S.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve02/persons#p_FJSJ1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="1">
+            <title source-urls="2">
+                <name>Dr.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v38p2/persons#p_FJS_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve02/persons#p_FJSJ1</source-url>
+            </title>
+        </titles-from-name>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="9">
+        <remark source-urls="1">
+            <p>Director of Defense Research and Engineering, Department of Defense</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v10/persons#p_FJSJ1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Director, Defense Research and Engineering, Department of Defense until June 21, 1973; member of the President’s Foreign Intelligence Advisory Board from June 28, 1973</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v35/persons#p_FJS_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Vice President, TRW, Inc.; member, President’s Foreign Intelligence Advisory Board</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v38p2/persons#p_FJS_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Member President’s Foreign Intelligence Advisory Board</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve03/persons#p_FJS1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Director of Defense Research and Engineering from October 1965 until June 1973</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve15p2/persons#p_FJJ_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Director, Office of Defense Research and Engineering, Department of Defense</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v07/persons#p_FJS1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Ph.D., Director, Office of Defense Research and Engineering, Department of Defense from 1969</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v32/persons#p_FJS1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Director, Office of Defense Research and Engineering, Department of Defense from 1969</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v34/persons#p_FJS1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve02/persons#p_FJSJ1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Director Office of Defense Research and Engineering, Department of Defense</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v41/persons#p_FJ_1</source-url>
+        </remark>
+    </remarks>
+</person>

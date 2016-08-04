@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>112101</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Schröder, Gerhard</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="13">
+                <name>Schroeder, Gerhard</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v07p1/persons#p_SG1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v07p2/persons#p_SG1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v07/persons#p_SG3</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v09/persons#p_SG3</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v13/persons#p_SG2</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v14/persons#p_SG3</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v15/persons#p_SG3</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v11/persons#p_SG3</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v13/persons#p_SG3</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v17/persons#p_SG1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v29/persons#p_SG1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v41/persons#p_SG_2</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve13/persons#p_SG3</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Schroeder, Gerhard (CDU)</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v15/persons#p_SG3</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Schröder, Gerhard</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v40/persons#p_SG1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="1">
+            <title source-urls="1">
+                <name>(CDU)</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v15/persons#p_SG3</source-url>
+            </title>
+        </titles-from-name>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="13">
+        <remark source-urls="2">
+            <p>Christian Democrat member of the Bundestag and, from October 1953, Minister of the Interior of the Federal Republic of Germany.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v07p1/persons#p_SG1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v07p2/persons#p_SG1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>West German Foreign Minister from November 14, 1961</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v07/persons#p_SG3</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>German Foreign Minister from November 14, 1961</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v09/persons#p_SG3</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Foreign Minister of the Federal Republic of Germany from November 1961</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v13/persons#p_SG2</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>German Foreign Minister from November 1961</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v14/persons#p_SG3</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>German Foreign Minister</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v15/persons#p_SG3</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>German Foreign Minister until December 1, 1966; thereafter Defense Minister</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v11/persons#p_SG3</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>German Foreign Minister until October 1966; thereafter Defense Minister</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v13/persons#p_SG3</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>West German Foreign Minister until December 1, 1966; thereafter Minister of Defense</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v15/persons#p_SG3</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>lawyer and politician; member, Bundestag, Federal Republic of Germany, Minister of Foreign Affairs or Minister of Defense during much of the 1960s</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v17/persons#p_SG1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve13/persons#p_SG3</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>member, Bundestag, Federal Republic of Germany, Minister of Foreign Affairs or Minister of Defense during much of the 1960s</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v29/persons#p_SG1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>(CDU), member of the Bundestag; West German Defense Minister until October 21, 1969; CDU / CSU Candidate in the 1969 Bundesversammlung election; Chairman of the Bundestag Committee on Foreign Affairs; Deputy CDU Party Chairman</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v40/persons#p_SG1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>West German Defense Minister</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v41/persons#p_SG_2</source-url>
+        </remark>
+    </remarks>
+</person>

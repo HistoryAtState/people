@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>100303</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Allen, James B.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="1">
+                <name>Allen, James</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v10/persons#p_AJ1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Allen, James B.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v02/persons#p_AJB_1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="2">
+        <remark source-urls="1">
+            <p>Democratic Senator from Alabama</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v10/persons#p_AJ1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Senator (D-Alabama) until June 1, 1978; member, Senate Committee on Agriculture, Nutrition, and Forestry</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v02/persons#p_AJB_1</source-url>
+        </remark>
+    </remarks>
+</person>

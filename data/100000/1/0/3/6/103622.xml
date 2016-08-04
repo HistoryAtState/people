@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>103622</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Dove, Arthur J. H.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="1">
+                <name>Dove, Brigadier Arthur J. H.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1946v03/persons#p_DBAJ1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="1">
+            <title source-urls="1">
+                <name>Brigadier</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1946v03/persons#p_DBAJ1</source-url>
+            </title>
+        </titles-from-name>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="1">
+        <remark source-urls="1">
+            <p>Military Adviser, British Delegation; Deputy Director of Military Operations, War Office</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1946v03/persons#p_DBAJ1</source-url>
+        </remark>
+    </remarks>
+</person>

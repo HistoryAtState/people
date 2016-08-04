@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>103212</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Davis, W. Kenneth</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="2">
+                <name>Davis, W. Kenneth</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v20/persons#p_DWK1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1981-88v03/persons#p_DWK_1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="2">
+        <remark source-urls="1">
+            <p>Acting Director, Division of Reactor Development, Atomic Energy Commission, until February 1955; thereafter Director</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v20/persons#p_DWK1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Deputy Secretary of Energy-designate from February 13, 1981, to May 14, 1981; thereafter Deputy Secretary of Energy until January 18, 1983</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1981-88v03/persons#p_DWK_1</source-url>
+        </remark>
+    </remarks>
+</person>

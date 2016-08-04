@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>103086</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Cutler, Lloyd N.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="6">
+                <name>Cutler, Lloyd N.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v02/persons#p_CLN1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v03/persons#p_CLN1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v33/persons#p_CLN_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v01/persons#p_CLN_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v18/persons#p_CL_2</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v30/persons#p_CLN_1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Cutler, Lloyd</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v06/persons#p_CUL_1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="5">
+        <remark source-urls="2">
+            <p>Washington lawyer</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v02/persons#p_CLN1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v03/persons#p_CLN1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>White House Counsel from 1977 until 1981; Special Counsel to the President and Consultant to the President on the Ratification of SALT II Treaties, 1979</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v33/persons#p_CLN_1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>White House Counsel from 1979 until 1981</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v01/persons#p_CLN_1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v30/persons#p_CLN_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Counsel to the President from 1979</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v06/persons#p_CUL_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>White House Counsel from October 1, 1979, until November 30, 1980</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v18/persons#p_CL_2</source-url>
+        </remark>
+    </remarks>
+</person>

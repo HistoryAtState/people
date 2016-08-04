@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>113061</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Stone, Galen Luther</name>
+        </preferred>
+        <alternates/>
+        <originals variants="4">
+            <original source-urls="5">
+                <name>Stone, Galen L.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v16/persons#p_SGL1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v23/persons#p_SGL1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v11/persons#p_SGL1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve07/persons#p_SGL2</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v21/persons#p_SGL_2</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Stone, Galen</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve08/persons#p_SGL2</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Stone, Galen Luther</name>
+                <source-url>https://history.state.gov/departmenthistory/people/stone-galen-luther</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Galen L. Stone</name>
+                <source-url>https://history.state.gov/departmenthistory/people/stone-galen-luther</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1921</birth-year>
+    <death-year/>
+    <remarks variants="6">
+        <remark source-urls="1">
+            <p>Deputy Director, Office of Western European Affairs, Bureau of European Affairs, Department of State</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v16/persons#p_SGL1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Officer in Charge of Swiss-Belgian-Luxembourg-Netherlands Affairs, Office of Western European Affairs, Bureau of European Affairs, Department of State, until October 1962; thereafter Deputy Director, Office of Western European Affairs</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v23/persons#p_SGL1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Chargé d'Affaires in India from August 1969</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v11/persons#p_SGL1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve07/persons#p_SGL2</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Deputy Chief of Mission in India until April 1973</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve08/persons#p_SGL2</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Ambassador to Cyprus from April 6, 1978, until September 30, 1981</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v21/persons#p_SGL_2</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Foreign Service Officer. Ambassador Extraordinary and Plenipotentiary (Laos); Ambassador Extraordinary and Plenipotentiary (Cyprus).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/stone-galen-luther</source-url>
+        </remark>
+    </remarks>
+</person>

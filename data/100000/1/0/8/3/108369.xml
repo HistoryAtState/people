@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>108369</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Maisky, Ivan Mikhailovich</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="4">
+                <name>Maisky, Ivan Mikhailovich</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv01/persons#p_MIM1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv02/persons#p_MIM1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945Malta/persons#p_MIM1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1947v02/persons#p_MIM1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Maiski</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv02/persons#p_M2</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="4">
+        <remark source-urls="2">
+            <p>Assistant People’s Commissar for Foreign Affairs of the Soviet Union; Chairman, Allied Commission on Reparations.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv01/persons#p_MIM1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv02/persons#p_MIM1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>See Maisky.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv02/persons#p_M2</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Deputy People’s Commissar for Foreign Affairs of the Soviet Union.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1945Malta/persons#p_MIM1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Soviet Ambassador in the United Kingdom, 1932–1943; Assistant People’s Commissar for Foreign Affairs of the Soviet Union, 1943–1946; Chairman, Allied Commission on Reparations, 1945</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1947v02/persons#p_MIM1</source-url>
+        </remark>
+    </remarks>
+</person>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>112387</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Shima, Shigenobu</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="3">
+                <name>Shima, Shigenobu</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v23p1/persons#p_SS1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v22/persons#p_SS1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v29p2/persons#p_SS9</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="3">
+        <remark source-urls="1">
+            <p>Minister at the Japanese Embassy to spring 1957</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v23p1/persons#p_SS1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Japanese Deputy Vice Minister for Foreign Affairs, 1961-1962; Vice Minister, 1963</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v22/persons#p_SS1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Japanese Vice Minister for Foreign Affairs from January 18, 1963 to May 15, 1964</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v29p2/persons#p_SS9</source-url>
+        </remark>
+    </remarks>
+</person>

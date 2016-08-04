@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>107090</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Khalilzad, Zalmay</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="1">
+                <name>Khalilzad, Zalmay</name>
+                <source-url>https://history.state.gov/departmenthistory/people/khalilzad-zalmay</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1951</birth-year>
+    <death-year/>
+    <remarks variants="1">
+        <remark source-urls="1">
+            <p>Non-career appointee. Representative of the U.S.A. to the United Nations; Ambassador Extraordinary and Plenipotentiary (Iraq); Ambassador Extraordinary and Plenipotentiary (Afghanistan).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/khalilzad-zalmay</source-url>
+        </remark>
+    </remarks>
+</person>

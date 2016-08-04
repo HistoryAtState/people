@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>100096</id>
+    <authorities>
+        <authority service="viaf">95296943</authority>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Adams, John</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="1">
+                <name>Adams, John</name>
+                <source-url>https://history.state.gov/departmenthistory/people/adams-john</source-url>
+            </original>
+            <original source-urls="1">
+                <name>John Adams</name>
+                <source-url>https://history.state.gov/cms/apps/presidents/data/presidents.xml#adams-john</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1735</birth-year>
+    <death-year>1826</death-year>
+    <remarks variants="2">
+        <remark source-urls="1">
+            <p>Non-career appointee. Minister Plenipotentiary (United Kingdom); Minister Plenipotentiary (Netherlands).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/adams-john</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>President of the United States, from March 4, 1797 until March 4, 1801</p>
+            <source-url>https://history.state.gov/cms/apps/presidents/data/presidents.xml#adams-john</source-url>
+        </remark>
+    </remarks>
+</person>

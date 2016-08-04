@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>105541</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Hardy, Arthur Sherburne</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="1">
+                <name>Hardy, Arthur Sherburne</name>
+                <source-url>https://history.state.gov/departmenthistory/people/hardy-arthur-sherburne</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Arthur S. Hardy</name>
+                <source-url>https://history.state.gov/departmenthistory/people/hardy-arthur-sherburne</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1847</birth-year>
+    <death-year>1930</death-year>
+    <remarks variants="1">
+        <remark source-urls="1">
+            <p>Non-career appointee. Envoy Extraordinary and Minister Plenipotentiary (Yugoslavia); Envoy Extraordinary and Minister Plenipotentiary (Switzerland); Envoy Extraordinary and Minister Plenipotentiary (Spain); Envoy Extraordinary and Minister Plenipotentiary (Romania); Minister Resident/Consul General (Iran); Envoy Extraordinary and Minister Plenipotentiary (Greece).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/hardy-arthur-sherburne</source-url>
+        </remark>
+    </remarks>
+</person>

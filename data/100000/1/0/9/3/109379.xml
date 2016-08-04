@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>109379</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Moreno, Rafael</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="2">
+                <name>Moreno, Rafael</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v21/persons#p_MR_3</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve16/persons#p_MR_1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="2">
+        <remark source-urls="1">
+            <p>Partido Demócrata Cristiano candidate who defeated Socialist labor leader Hector Olivares in the 5th Senatorial District, January 1973 Congressional elections</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v21/persons#p_MR_3</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Chilean Partido Democrata Christiana (Christian Democratic Party) candidate who defeated Socialist labor leader Hector Olivares in the 5th Senatorial District, January 1973 Congressional elections</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve16/persons#p_MR_1</source-url>
+        </remark>
+    </remarks>
+</person>

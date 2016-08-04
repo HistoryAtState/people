@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>112309</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Sharp, Mitchell W.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="4">
+            <original source-urls="1">
+                <name>Sharp, Mitchell W.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v09/persons#p_SMW1</source-url>
+            </original>
+            <original source-urls="10">
+                <name>Sharp, Mitchell</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v12/persons#p_SM1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v03/persons#p_SWM1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v04/persons#p_SWM1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v17/persons#p_SM2</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v29/persons#p_SM1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v36/persons#p_SM1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v41/persons#p_SM_2</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve05p1/persons#p_SWM1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve05p2/persons#p_SM2</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve13/persons#p_SWM1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Sharp, W. Mitchell</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v30/persons#p_SWM1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Sharp, Mitchel</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve15p2/persons#p_SM_1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="7">
+        <remark source-urls="1">
+            <p>Canadian Assistant Deputy Minister for Trade and Commerce</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v09/persons#p_SMW1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Canadian Minister of Trade and Commerce until January 3, 1966; Minister of Finance and Receiver General, November 11, 1965-April 20, 1968; thereafter Secretary of State for External Affairs</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v12/persons#p_SM1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Canadian Secretary of State for External Affairs from May 1968</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v30/persons#p_SWM1</source-url>
+        </remark>
+        <remark source-urls="3">
+            <p>Canadian Secretary of State for External Affairs until August 1974</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v03/persons#p_SWM1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v04/persons#p_SWM1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve05p1/persons#p_SWM1</source-url>
+        </remark>
+        <remark source-urls="5">
+            <p>Canadian Secretary of State for External Affairs</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v17/persons#p_SM2</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v29/persons#p_SM1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v41/persons#p_SM_2</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve05p2/persons#p_SM2</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve13/persons#p_SWM1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Canadian Secretary of State for External Affairs until 1974</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v36/persons#p_SM1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Canadian Secretary of State for External Affairs from April 1968 until August 1974</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve15p2/persons#p_SM_1</source-url>
+        </remark>
+    </remarks>
+</person>

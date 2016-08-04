@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>111071</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Rabi, Isidor I.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="4">
+                <name>Rabi, Isidor I.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v02p1/persons#p_RABIII1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v02p2/persons#p_RABIII1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v19/persons#p_RII1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v20/persons#p_RII1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="2">
+        <remark source-urls="2">
+            <p>Professor of Physics at Columbia University; Member of the General Advisory Committee of the United States Atomic Energy Commission; Chairman after October 1952.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v02p1/persons#p_RABIII1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v02p2/persons#p_RABIII1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Chairman, General Advisory Committee, Atomic Energy Commission, until 1957; Member, Science Advisory Committee, Office of Defense Mobilization, 1955–1956; thereafter Chairman; Representative to Negotiations for the Establishment of the International Atomic Energy Agency from August 1955</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v19/persons#p_RII1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v20/persons#p_RII1</source-url>
+        </remark>
+    </remarks>
+</person>

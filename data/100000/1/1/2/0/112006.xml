@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>112006</id>
+    <authorities>
+        <authority service="viaf">51738446</authority>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Scelba, Mario</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="6">
+                <name>Scelba, Mario</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v05p1/persons#p_SCELBAM1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v05p2/persons#p_SCELBAM1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v06p1/persons#p_SCELBAM1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v06p2/persons#p_SCELBAM1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v08/persons#p_SM1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v27/persons#p_SM1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Prime Minister Scelba</name>
+                <source-url>https://history.state.gov/departmenthistory/visits/italy</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="4">
+        <remark source-urls="3">
+            <p>Italian Minister of the Interior until July 1953; Prime Minister and Minister of the Interior, February 1954–May 1955.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v05p1/persons#p_SCELBAM1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v05p2/persons#p_SCELBAM1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v08/persons#p_SM1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Italian Minister of the Interior until July 1953; Italian Prime Minister and Minister of the Interior, February 1954–May 1955.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v06p1/persons#p_SCELBAM1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v06p2/persons#p_SCELBAM1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Italian Prime Minister until July 1955</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v27/persons#p_SM1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Prime Minister, Italy. Visited U.S. once, 1955</p>
+            <source-url>https://history.state.gov/departmenthistory/visits/italy</source-url>
+        </remark>
+    </remarks>
+</person>

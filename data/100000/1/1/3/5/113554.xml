@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>113554</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Thorn, Gaston</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="1">
+                <name>Thorn, Gaston</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v39/persons#p_TG1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Premier Gaston Thorn</name>
+                <source-url>https://history.state.gov/departmenthistory/visits/luxembourg</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Prime Minister Gaston Thorn</name>
+                <source-url>https://history.state.gov/departmenthistory/visits/luxembourg</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="3">
+        <remark source-urls="1">
+            <p>Foreign Minister of Luxembourg until May 26, 1974; Prime Minister from May 1974</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v39/persons#p_TG1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Premier, Luxembourg. Visited U.S. once, 1975</p>
+            <source-url>https://history.state.gov/departmenthistory/visits/luxembourg</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Prime Minister, Luxembourg. Visited U.S. 2 times, 1977–1978</p>
+            <source-url>https://history.state.gov/departmenthistory/visits/luxembourg</source-url>
+        </remark>
+    </remarks>
+</person>

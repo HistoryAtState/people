@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>114346</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Wauchope, Keith Leveret</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="2">
+                <name>Wauchope, Keith Leveret</name>
+                <source-url>https://history.state.gov/departmenthistory/people/wauchope-keith-leveret</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve11p1/persons#p_WK_2</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1941</birth-year>
+    <death-year/>
+    <remarks variants="2">
+        <remark source-urls="1">
+            <p>Foreign Service Officer. Ambassador Extraordinary and Plenipotentiary (Sao Tome and Principe); Ambassador Extraordinary and Plenipotentiary (Gabon).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/wauchope-keith-leveret</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Staff, Office of Caribbean Affairs, Bureau of Inter-American Affairs, Department of State, as of June 1973; Country Officer for Haiti, Office of Caribbean Affairs, Department of State, through August 1973</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve11p1/persons#p_WK_2</source-url>
+        </remark>
+    </remarks>
+</person>

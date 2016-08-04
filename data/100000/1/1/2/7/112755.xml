@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>112755</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Soong, T. V.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="1">
+                <name>Premier Soong</name>
+                <source-url>https://history.state.gov/departmenthistory/visits/china</source-url>
+            </original>
+            <original source-urls="5">
+                <name>Soong, T. V.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1943CairoTehran/persons#p_STV1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv01/persons#p_STV1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv02/persons#p_STV1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945Malta/persons#p_STV1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945v01/persons#p_STV1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="6">
+        <remark source-urls="1">
+            <p>Premier, China, Republic of. Visited U.S. once, 1945</p>
+            <source-url>https://history.state.gov/departmenthistory/visits/china</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Chinese Minister of Foreign Affairs.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1943CairoTehran/persons#p_STV1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Chinese Prime Minister; Minister of Foreign Affairs.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv01/persons#p_STV1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Chinese Prime Minister; also (to July 30) Minister of Foreign Affairs.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv02/persons#p_STV1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Chinese Prime Minister and Minister of Foreign Affairs.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1945Malta/persons#p_STV1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Chinese Minister for Foreign Affairs and Acting President of the Executive Yuan; Chairman of Chinese Delegation.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1945v01/persons#p_STV1</source-url>
+        </remark>
+    </remarks>
+</person>

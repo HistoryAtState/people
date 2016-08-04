@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>105258</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Guay, Georges R.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="2">
+                <name>Guay, Georges R.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v08/persons#p_GGR1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v09/persons#p_GGR_1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Guay, George R.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v10/persons#p_GGR1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Guay, Colonel George R.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v14/persons#p_GCGR1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="1">
+            <title source-urls="1">
+                <name>Colonel</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v14/persons#p_GCGR1</source-url>
+            </title>
+        </titles-from-name>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="4">
+        <remark source-urls="1">
+            <p>Colonel, USAF, Air Attaché in the U.S. Embassy in Paris, conduit for U.S. messages to North Vietnamese in Paris, also handled logistical arrangements for Kissinger and his party during negotiating trips to Paris</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v08/persons#p_GGR1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Colonel, USAF, Air Attaché in the U.S. Embassy in France, conduit for U.S. messages to the North Vietnamese in Paris, and also handled logistical arrangements for Kissinger and his party during negotiating trips to Paris</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v09/persons#p_GGR_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Colonel, USAF, U.S. Air Attaché in the U.S. Embassy in France</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v10/persons#p_GGR1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>USAF, Air Attaché at the Embassy in Paris</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v14/persons#p_GCGR1</source-url>
+        </remark>
+    </remarks>
+</person>

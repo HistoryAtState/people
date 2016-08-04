@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>100737</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Badeau, John Stothoff</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="4">
+                <name>Badeau, John S.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v17/persons#p_BJS1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v18/persons#p_BJS1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v18/persons#p_BJS1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v21/persons#p_BJS1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Badeau, John Stothoff</name>
+                <source-url>https://history.state.gov/departmenthistory/people/badeau-john-stothoff</source-url>
+            </original>
+            <original source-urls="1">
+                <name>John S. Badeau</name>
+                <source-url>https://history.state.gov/departmenthistory/people/badeau-john-stothoff</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1903</birth-year>
+    <death-year>1995</death-year>
+    <remarks variants="3">
+        <remark source-urls="2">
+            <p>Ambassador to Egypt from May 29, 1961</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v17/persons#p_BJS1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v18/persons#p_BJS1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Ambassador to the United Arab Republic until June 1964</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v18/persons#p_BJS1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v21/persons#p_BJS1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Non-career appointee. Ambassador Extraordinary and Plenipotentiary (Egypt).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/badeau-john-stothoff</source-url>
+        </remark>
+    </remarks>
+</person>

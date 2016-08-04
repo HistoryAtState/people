@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>111577</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Roosevelt, Eleanor</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="2">
+                <name>Roosevelt, Anna Eleanor (Mrs. Franklin D. Roosevelt)</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v03p1/persons#p_RAEFDR1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v03p2/persons#p_RAEFDR1</source-url>
+            </original>
+            <original source-urls="4">
+                <name>Roosevelt, Eleanor</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v05/persons#p_RAE1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v09p1/persons#p_RE1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v09p2/persons#p_RE1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v02/persons#p_RE_1</source-url>
+            </original>
+            <original source-urls="2">
+                <name>Roosevelt, A. Eleanor</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v11p1/persons#p_RAE1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v11p2/persons#p_RAE1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="5">
+        <remark source-urls="2">
+            <p>Chairman, United Nations Commission on Human Rights, until April 1951.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1951v03p1/persons#p_RAEFDR1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1951v03p2/persons#p_RAEFDR1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>United States Representative to the Commission on Human Rights, United Nations Economic and Social Council; Representative at the Sixth Session of the United Nations General Assembly.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1951v05/persons#p_RAE1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Representative to the 7th Regular Session of the United Nations General Assembly, 1952.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v09p1/persons#p_RE1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v09p2/persons#p_RE1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Representative at the Seventh Regular Session of the United Nations General Assembly, 1952.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v11p1/persons#p_RAE1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v11p2/persons#p_RAE1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>former First Lady of the United States and delegate to the United Nations General Assembly; U.S. delegate to and Chairman, United Nations Commission on Human Rights</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v02/persons#p_RE_1</source-url>
+        </remark>
+    </remarks>
+</person>

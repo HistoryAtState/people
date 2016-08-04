@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>103790</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Eaton, Charles A.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="4">
+                <name>Eaton, Charles A.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945Malta/persons#p_ECA1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945v01/persons#p_ECA1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1947v02/persons#p_ECA1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1948v02/persons#p_ECA1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="4">
+        <remark source-urls="1">
+            <p>Member of the House of Representatives from New Jersey.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1945Malta/persons#p_ECA1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Representative, New Jersey; United States Delegate.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1945v01/persons#p_ECA1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Republican Congressman from New Jersey; Chairman of the House Foreign Affairs Committee</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1947v02/persons#p_ECA1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Representative from New Jersey; Chairman of the House Foreign Affairs Committee and House Select Committee on Foreign Aid</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1948v02/persons#p_ECA1</source-url>
+        </remark>
+    </remarks>
+</person>

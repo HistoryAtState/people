@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>110734</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Pierre-Brossolette, Claude</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="4">
+                <name>Pierre-Brossolette, Claude</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v31/persons#p_PBC1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v36/persons#p_PBC1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v37/persons#p_PBC_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve15p2/persons#p_PBC_1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="4">
+        <remark source-urls="1">
+            <p>French Director of the Treasury until 1974; Assistant to the French President from 1974</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v31/persons#p_PBC1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>French Ministry of Economy and Finance from 1971; French Director of the Treasury until 1974; Assistant to the French President from 1974</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v36/persons#p_PBC1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Secretary General of the Presidency of the Republic (France)</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v37/persons#p_PBC_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>French Director of the Treasury from 1971 until 1974; Assistant to the French President from 1974 until 1976</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve15p2/persons#p_PBC_1</source-url>
+        </remark>
+    </remarks>
+</person>

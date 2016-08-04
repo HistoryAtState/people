@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>104181</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Fearn, John Walker</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="1">
+                <name>Fearn, John Walker</name>
+                <source-url>https://history.state.gov/departmenthistory/people/fearn-john-walker</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Walker Fearn</name>
+                <source-url>https://history.state.gov/departmenthistory/people/fearn-john-walker</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1832</birth-year>
+    <death-year>1899</death-year>
+    <remarks variants="1">
+        <remark source-urls="1">
+            <p>Non-career appointee. Minister Resident/Consul General (Yugoslavia); Minister Resident/Consul General (Romania); Minister Resident/Consul General (Greece).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/fearn-john-walker</source-url>
+        </remark>
+    </remarks>
+</person>

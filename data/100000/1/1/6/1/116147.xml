@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>116147</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Spevacek, David</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="1">
+                <name>Spevacek, David</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v30/persons#p_SD_2</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="1">
+        <remark source-urls="1">
+            <p>budget examiner, State/ICA Branch, International Division, Office of Management and Budget; member, Interagency Committee on Public Diplomacy and Disarmament</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v30/persons#p_SD_2</source-url>
+        </remark>
+    </remarks>
+</person>

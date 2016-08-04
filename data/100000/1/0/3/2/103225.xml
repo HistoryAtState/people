@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>103225</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Dawson, Thomas Cleland</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="1">
+                <name>Dawson, Thomas Cleland</name>
+                <source-url>https://history.state.gov/departmenthistory/people/dawson-thomas-cleland</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Thomas C. Dawson</name>
+                <source-url>https://history.state.gov/departmenthistory/people/dawson-thomas-cleland</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1865</birth-year>
+    <death-year>1912</death-year>
+    <remarks variants="1">
+        <remark source-urls="1">
+            <p>Non-career appointee. Envoy Extraordinary and Minister Plenipotentiary (Panama); Minister Resident/Consul General (Dominican Republic); Envoy Extraordinary and Minister Plenipotentiary (Colombia); Envoy Extraordinary and Minister Plenipotentiary (Chile).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/dawson-thomas-cleland</source-url>
+        </remark>
+    </remarks>
+</person>

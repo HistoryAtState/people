@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>108326</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Maffitt, Edward P.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="7">
+                <name>Maffitt, Edward P.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v05/persons#p_MEP1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v08/persons#p_MEP1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v09p1/persons#p_MEP1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v09p2/persons#p_MEP1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v24/persons#p_MEP1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v26/persons#p_MEP1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v15/persons#p_MEP1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="6">
+        <remark source-urls="1">
+            <p>Adviser for Security Council and General Affairs, United States Mission to the United Nations.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1951v05/persons#p_MEP1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>First Secretary of the Embassy in Italy and Consul at Rome after June 11, 1953; Special Liaison from the Embassy in Italy to the Headquarters, Allied Forces in Southern Europe.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v08/persons#p_MEP1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>detailed to National War College, June 30, 1952–June 11, 1953; thereafter, First Secretary and Consul of the Embassy in Italy and Special Liaison to the Headquarters, Allied Forces in Southern Europe.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v09p1/persons#p_MEP1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v09p2/persons#p_MEP1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>First Secretary, Embassy in Italy, until June 1956</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v24/persons#p_MEP1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>First Secretary of the Embassy in Italy until July 7, 1956</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v26/persons#p_MEP1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Counselor of the Embassy in India; also Counselor of the Embassy in Nepal until August 1959</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v15/persons#p_MEP1</source-url>
+        </remark>
+    </remarks>
+</person>

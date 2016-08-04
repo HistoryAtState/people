@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>100544</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Arenales, Alfonso</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="3">
+                <name>Arenales, Alfonso</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v28/persons#p_AA_2</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve10/persons#p_AA1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve11p1/persons#p_AA_3</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="3">
+        <remark source-urls="1">
+            <p>Deputy Director of the Office of Southern African Affairs, Bureau of African Affairs, Department of State</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v28/persons#p_AA_2</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>International Relations Officer, Office of the Coordinator of Cuban Affairs, Department of State, from 1968 until 1971; Deputy Director for American Republics, Bureau of Intelligence and Research, Department of State, from July 1972 to 1974</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve10/persons#p_AA1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Acting Director of the Bureau of Intelligence and Research, Department of State, 1973; Deputy Director for American Republics from 1973 until July 1974; Deputy Director, Office of South African Affairs, from July 1974</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve11p1/persons#p_AA_3</source-url>
+        </remark>
+    </remarks>
+</person>

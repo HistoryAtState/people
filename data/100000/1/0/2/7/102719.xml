@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>102719</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Cole, Kenneth Reese, Jr.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="1">
+                <name>Cole, Kenneth</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve10/persons#p_CK1</source-url>
+            </original>
+            <original source-urls="4">
+                <name>Cole, Kenneth R., Jr.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v31/persons#p_CKR1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v34/persons#p_CKR1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v38p1/persons#p_CKRJ_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v38p2/persons#p_CKR_1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Cole, Kenneth Reese, Jr.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve03/persons#p_CKR1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="6">
+        <remark source-urls="1">
+            <p>The President’s Special Assistant from January 20, 1969 until November 1, 1969</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve10/persons#p_CK1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Executive Director, Domestic Council from 1973 until 1975; Assistant to the President for Domestic Affairs from 1974 until 1975</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v31/persons#p_CKR1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Special Assistant to the President from January 1969 until November 1969; Deputy Assistant to the President for Domestic Affairs from November 1969 until December 1972</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v34/persons#p_CKR1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Executive Director, Domestic Council from December 1972 and Assistant to the President for Domestic Affairs from January 1974 until March 1975</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v38p1/persons#p_CKRJ_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Executive Director, Domestic Council, from December 1972 and Assistant to the President for Domestic Affairs, January 1974–March 1975</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v38p2/persons#p_CKR_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Assistant to the President for Domestic Affairs from January 1974 until March 1975;Executive Director of the Domestic Council until March 1975</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve03/persons#p_CKR1</source-url>
+        </remark>
+    </remarks>
+</person>

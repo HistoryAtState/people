@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>112678</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Smoot, Roland N.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="2">
+                <name>Smoot, Vice Admiral Roland N.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v19/persons#p_SVARN1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v22/persons#p_SVARN1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="1">
+            <title source-urls="2">
+                <name>Vice Admiral</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v19/persons#p_SVARN1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v22/persons#p_SVARN1</source-url>
+            </title>
+        </titles-from-name>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="2">
+        <remark source-urls="1">
+            <p>Commander, United States Taiwan Defense Command/Military Assistance Advisory Group, Taiwan, from August 1958</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v19/persons#p_SVARN1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>USN, Commander, Taiwan Defense Command, until May 1962</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v22/persons#p_SVARN1</source-url>
+        </remark>
+    </remarks>
+</person>

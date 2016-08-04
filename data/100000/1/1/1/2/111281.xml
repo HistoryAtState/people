@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>111281</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Rendel, George William</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="1">
+                <name>Rendel, Sir George William</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1947v02/persons#p_RSGW1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="1">
+            <title source-urls="1">
+                <name>Sir</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1947v02/persons#p_RSGW1</source-url>
+            </title>
+        </titles-from-name>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="1">
+        <remark source-urls="1">
+            <p>Superintending Under Secretary, Refugee Department, British Foreign Office, 1945–1947; British Representative to the Austrian Treaty Commission, May–October 1947; from November 1947, British Ambassador in Belgium</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1947v02/persons#p_RSGW1</source-url>
+        </remark>
+    </remarks>
+</person>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>107057</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Kerry, John Forbes</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="1">
+                <name>Kerry, John Forbes</name>
+                <source-url>https://history.state.gov/departmenthistory/people/kerry-john-forbes</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1943</birth-year>
+    <death-year/>
+    <remarks variants="1">
+        <remark source-urls="1">
+            <p>Non-career appointee. Secretary of State.</p>
+            <source-url>https://history.state.gov/departmenthistory/people/kerry-john-forbes</source-url>
+        </remark>
+    </remarks>
+</person>

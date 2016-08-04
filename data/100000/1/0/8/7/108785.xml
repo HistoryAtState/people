@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>108785</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>McClung, Alexander Keith</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="1">
+                <name>McClung, Alexander Keith</name>
+                <source-url>https://history.state.gov/departmenthistory/people/mcclung-alexander-keith</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Alexander K. McClung</name>
+                <source-url>https://history.state.gov/departmenthistory/people/mcclung-alexander-keith</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1812</birth-year>
+    <death-year>1855</death-year>
+    <remarks variants="1">
+        <remark source-urls="1">
+            <p>Selecte a value.... Chargé d'Affaires (Bolivia).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/mcclung-alexander-keith</source-url>
+        </remark>
+    </remarks>
+</person>

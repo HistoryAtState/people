@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>112631</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Smith, James F.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="1">
+                <name>Smith, James F.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v31/persons#p_SJF1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="1">
+        <remark source-urls="1">
+            <p>Officer-in-Charge of Ecuadorian Development Affairs, Office of Ecuadorian-Peruvian Affairs, Bureau of Inter-American Affairs, Department of State, May 1966–April 1968</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v31/persons#p_SJF1</source-url>
+        </remark>
+    </remarks>
+</person>

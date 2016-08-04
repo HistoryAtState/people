@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>115197</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Bethune, Mary Macleod</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="1">
+                <name>Bethune, Mrs. Mary Macleod</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v05/persons#p_BMM1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="1">
+            <title source-urls="1">
+                <name>Mrs.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v05/persons#p_BMM1</source-url>
+            </title>
+        </titles-from-name>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="1">
+        <remark source-urls="1">
+            <p>Founder and President-Emeritus, National Council of Negro Women and Bethune-Cookman College, Daytona, Florida.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1951v05/persons#p_BMM1</source-url>
+        </remark>
+    </remarks>
+</person>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>102078</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Çaglayangil, Ihsan Sabri</name>
+        </preferred>
+        <alternates/>
+        <originals variants="4">
+            <original source-urls="1">
+                <name>Caglayangil, Ihsan Sabriv</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v05/persons#p_CIS1</source-url>
+            </original>
+            <original source-urls="3">
+                <name>Caglayangil, Ihsan Sabri</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v29/persons#p_CIS1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve01/persons#p_CIS1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v01/persons#p_CIS_1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Çaglayangil, Ihsan Sabri</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v30/persons#p_CIS1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Çağlayangil, Ihsan Sabri</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v21/persons#p_CIS_1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="6">
+        <remark source-urls="1">
+            <p>Foreign Minister of Turkey until March 1971</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v05/persons#p_CIS1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Turkish Foreign Minister until March 1971</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v29/persons#p_CIS1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Turkish Foreign Minister from March 1975</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v30/persons#p_CIS1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Turkish Foreign Minister</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve01/persons#p_CIS1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Turkish Minister of Foreign Affairs from March 31, 1975, to June 21, 1977</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v01/persons#p_CIS_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Turkish Foreign Minister from March 31, 1975, until June 21, 1977</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v21/persons#p_CIS_1</source-url>
+        </remark>
+    </remarks>
+</person>

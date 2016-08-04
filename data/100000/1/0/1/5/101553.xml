@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>101553</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Borbon y Battenberg, Juan</name>
+        </preferred>
+        <alternates/>
+        <originals variants="5">
+            <original source-urls="1">
+                <name>Juan Carlos, of Bourbon (Don Juan)</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v04p1/persons#p_JC1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Juan Carlos</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v04p2/persons#p_JC1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Borbon y Battenberg, Juan, Count of Barcelona</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v07p1/persons#p_BBJCB1</source-url>
+            </original>
+            <original source-urls="2">
+                <name>de Borbon.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v07p1/persons#p_DEBORBON1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v07p2/persons#p_DEBORBON1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Borbon y Battenberg, Juan</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v07p2/persons#p_BBJ1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="1">
+            <title source-urls="1">
+                <name>Count of Barcelona</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v07p1/persons#p_BBJCB1</source-url>
+            </title>
+        </titles-from-name>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="5">
+        <remark source-urls="1">
+            <p>Count of Barcelona, Pretender to the Spanish throne</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1951v04p1/persons#p_JC1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>of Bourbon (Don Juan), Count of Barcelona, Pretender to the Spanish throne</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1951v04p2/persons#p_JC1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Pretender to the Spanish Throne</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v07p1/persons#p_BBJCB1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>See Borbon</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v07p1/persons#p_DEBORBON1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v07p2/persons#p_DEBORBON1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Count of Barcelona, Pretender to the Spanish Throne</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v07p2/persons#p_BBJ1</source-url>
+        </remark>
+    </remarks>
+</person>

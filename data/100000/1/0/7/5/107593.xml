@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>107593</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Lamb, Denis</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="2">
+                <name>Lamb, Denis</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v02/persons#p_LD_1</source-url>
+                <source-url>https://history.state.gov/departmenthistory/people/lamb-denis</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1937</birth-year>
+    <death-year/>
+    <remarks variants="2">
+        <remark source-urls="1">
+            <p>Deputy Director, Office of Organization for Economic Cooperation and Development, European Community and Atlantic Political-Economic Affairs, Bureau of European Affairs, Department of State, until 1977; Executive Assistant to Deputy Secretary of State Christopher from 1977 until 1978; thereafter Deputy Chief of Mission, U.S. Mission to the European Communities at Brussels, from 1978</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v02/persons#p_LD_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Foreign Service Officer. Representative of the U.S.A. to the Organization for Economic Cooperation and Development (Paris).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/lamb-denis</source-url>
+        </remark>
+    </remarks>
+</person>

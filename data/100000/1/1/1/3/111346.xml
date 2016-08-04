@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>111346</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Rice, Walter Lyman</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="1">
+                <name>Rice, Walter L.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v05/persons#p_RWL1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Rice, Walter Lyman</name>
+                <source-url>https://history.state.gov/departmenthistory/people/rice-walter-lyman</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Walter L. Rice</name>
+                <source-url>https://history.state.gov/departmenthistory/people/rice-walter-lyman</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1903</birth-year>
+    <death-year>1998</death-year>
+    <remarks variants="2">
+        <remark source-urls="1">
+            <p>Ambassador to Australia, September 1969–May 1973</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v05/persons#p_RWL1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Non-career appointee. Ambassador Extraordinary and Plenipotentiary (Australia).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/rice-walter-lyman</source-url>
+        </remark>
+    </remarks>
+</person>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>100348</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Al-Shishakli, Adib</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="1">
+                <name>Al-Shishakli, Adib</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v05/persons#p_SCA1</source-url>
+            </original>
+            <original source-urls="2">
+                <name>Al-Shishakli, General Adib</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v09p1/persons#p_ASGA1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v09p2/persons#p_ASGA1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>al–Shishakli, Adib</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v13/persons#p_aSA1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="1">
+            <title source-urls="2">
+                <name>General</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v09p1/persons#p_ASGA1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v09p2/persons#p_ASGA1</source-url>
+            </title>
+        </titles-from-name>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="3">
+        <remark source-urls="1">
+            <p>Chief of Staff of the Syrian Army, from May 31, 1951; temporary Syrian Chief of State, December 1951.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1951v05/persons#p_SCA1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Syrian Chief of Staff and Deputy Prime Minister, 1952; Vice President, Minister of Defense, and Chief of State, 1953; President, July 10, 1953–March 1, 1954; also Prime Minister, July 19, 1953–March 1, 1954.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v09p1/persons#p_ASGA1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v09p2/persons#p_ASGA1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>former President of Syria</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v13/persons#p_aSA1</source-url>
+        </remark>
+    </remarks>
+</person>

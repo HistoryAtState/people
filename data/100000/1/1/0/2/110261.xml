@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>110261</id>
+    <authorities>
+        <authority service="viaf">21332327</authority>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Pachachi, Adnan M.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="1">
+                <name>Pachachi, Adnan al</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v19/persons#p_PA1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Pachachi, Adnan M.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v21/persons#p_PA10</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Interim President Adnan Pachachi</name>
+                <source-url>https://history.state.gov/departmenthistory/visits/iraq</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="3">
+        <remark source-urls="1">
+            <p>Iraqi Permanent Representative to the United Nations</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v19/persons#p_PA1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Iraqi Foreign Minister April 1966-July 1967</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v21/persons#p_PA10</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Acting President, Iraq. Visited U.S. once, 2004</p>
+            <source-url>https://history.state.gov/departmenthistory/visits/iraq</source-url>
+        </remark>
+    </remarks>
+</person>

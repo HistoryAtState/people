@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>114471</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Wharton, Clifton Reginald, Sr.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="2">
+                <name>Wharton, Clifton R.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v10p1/persons#p_WCR1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v10p2/persons#p_WCR1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Wharton, Clifton Reginald</name>
+                <source-url>https://history.state.gov/departmenthistory/people/wharton-clifton-reginald</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Clifton R. Wharton</name>
+                <source-url>https://history.state.gov/departmenthistory/people/wharton-clifton-reginald</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1899</birth-year>
+    <death-year>1990</death-year>
+    <remarks variants="2">
+        <remark source-urls="2">
+            <p>Minister in Romania, March 1958–October 1960</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v10p1/persons#p_WCR1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v10p2/persons#p_WCR1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Foreign Service Officer. Envoy Extraordinary and Minister Plenipotentiary (Romania); Ambassador Extraordinary and Plenipotentiary (Norway).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/wharton-clifton-reginald</source-url>
+        </remark>
+    </remarks>
+</person>

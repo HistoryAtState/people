@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>101777</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Brook, Norman C.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="1">
+                <name>Brook, Norman C.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv02/persons#p_BN1</source-url>
+            </original>
+            <original source-urls="3">
+                <name>Brook, Sir Norman C.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v03p1/persons#p_BNC1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v03p2/persons#p_BNC1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v09/persons#p_BSNC1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Brook, Sir Norman</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v12/persons#p_BSN1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="1">
+            <title source-urls="4">
+                <name>Sir</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v03p1/persons#p_BNC1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v03p2/persons#p_BNC1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v12/persons#p_BSN1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v09/persons#p_BSNC1</source-url>
+            </title>
+        </titles-from-name>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="4">
+        <remark source-urls="1">
+            <p>Additional Secretary to the British Cabinet.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv02/persons#p_BN1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Secretary of the British Cabinet until November 1951; Chief Planning Officer and Deputy Permanent Secretary of the Treasury from November 1951.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1951v03p1/persons#p_BNC1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1951v03p2/persons#p_BNC1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Secretary to the British Cabinet; Joint Secretary of the Treasury and Head of the Home Civil Service from 1956</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v12/persons#p_BSN1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Secretary of the British Cabinet</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v09/persons#p_BSNC1</source-url>
+        </remark>
+    </remarks>
+</person>

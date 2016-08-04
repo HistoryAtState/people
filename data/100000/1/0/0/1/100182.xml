@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>100182</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Akins, James Elmer</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="6">
+                <name>Akins, James E.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v25/persons#p_AJE_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v27/persons#p_AJE_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v36/persons#p_AJE1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v37/persons#p_AJE_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve04/persons#p_AJE1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve10/persons#p_AJE1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Akins, James Elmer</name>
+                <source-url>https://history.state.gov/departmenthistory/people/akins-james-elmer</source-url>
+            </original>
+            <original source-urls="1">
+                <name>James E. Akins</name>
+                <source-url>https://history.state.gov/departmenthistory/people/akins-james-elmer</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1926</birth-year>
+    <death-year>2010</death-year>
+    <remarks variants="7">
+        <remark source-urls="1">
+            <p>U.S. Ambassador to Saudi Arabia from November 1973</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v25/persons#p_AJE_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>U.S. Ambassador to Saudi Arabia until February 1976</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v27/persons#p_AJE_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Director, Office of Fuels and Energy, International Resources and Food Policy, Bureau of Economic and Business Affairs, Department of State from April 1969 until November 1972; U.S. Ambassador to Saudi Arabia from October 1973 until May 1975</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v36/persons#p_AJE1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Ambassador to Saudi Arabia until February 10, 1975</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v37/persons#p_AJE_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Director, Office of Fuels and Energy, Bureau of Economic Affairs, Department of State, April 1969 – February 1972; thereafter, energy adviser to the White House</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve04/persons#p_AJE1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Director of the Office of Fuels and Energy from November 1971</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve10/persons#p_AJE1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Foreign Service Officer. Ambassador Extraordinary and Plenipotentiary (Saudi Arabia).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/akins-james-elmer</source-url>
+        </remark>
+    </remarks>
+</person>

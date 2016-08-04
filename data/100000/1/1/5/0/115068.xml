@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>115068</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Zorthian, Barry</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="5">
+                <name>Zorthian, Barry</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v01/persons#p_ZB1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v02/persons#p_ZB1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v03/persons#p_ZB1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v04/persons#p_Zorthian1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v05/persons#p_ZB1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="4">
+        <remark source-urls="1">
+            <p>Public Affairs officer in the Embassy in Saigon through June 2, 1964; thereafter Counselor for Public Affairs</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v01/persons#p_ZB1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Minister-Counselor for Public Affairs at the Embassy in Vietnam; Minister-Counselor for Information at the Embassy after September 1965</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v02/persons#p_ZB1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v03/persons#p_ZB1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Minister-Counselor for Information at the Embassy in Vietnam and head of the Joint U.S. Public Affairs Office</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v04/persons#p_Zorthian1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Minister-Counselor for Information at the Embassy in Vietnam and Director, U.S. Joint Public Affairs Office.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v05/persons#p_ZB1</source-url>
+        </remark>
+    </remarks>
+</person>

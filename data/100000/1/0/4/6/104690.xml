@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>104690</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Gantenbein, James Watson</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="3">
+                <name>Gantenbein, James W.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1948v02/persons#p_GJW1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v04p1/persons#p_GJW1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v04p2/persons#p_GJW1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Gantenbein, James Watson</name>
+                <source-url>https://history.state.gov/departmenthistory/people/gantenbein-james-watson</source-url>
+            </original>
+            <original source-urls="1">
+                <name>James W. Gantenbein</name>
+                <source-url>https://history.state.gov/departmenthistory/people/gantenbein-james-watson</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1900</birth-year>
+    <death-year>1960</death-year>
+    <remarks variants="3">
+        <remark source-urls="1">
+            <p>Foreign Service officer, Office of the United States Political Adviser for Germany</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1948v02/persons#p_GJW1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Chargé in Romania</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1951v04p1/persons#p_GJW1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1951v04p2/persons#p_GJW1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Foreign Service Officer. Chargé d'Affaires ad interim (Romania).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/gantenbein-james-watson</source-url>
+        </remark>
+    </remarks>
+</person>

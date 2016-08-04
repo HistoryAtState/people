@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>113635</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Tomlinson, John Doren</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="2">
+                <name>Tomlinson, John Doren</name>
+                <source-url>https://history.state.gov/departmenthistory/people/tomlinson-john-doren</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v05/persons#p_TJD1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>John D. Tomlinson</name>
+                <source-url>https://history.state.gov/departmenthistory/people/tomlinson-john-doren</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Tomlinson, John D.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945v01/persons#p_TJD1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1903</birth-year>
+    <death-year/>
+    <remarks variants="3">
+        <remark source-urls="1">
+            <p>Foreign Service Officer. .</p>
+            <source-url>https://history.state.gov/departmenthistory/people/tomlinson-john-doren</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Specialist, Division of International Organization Affairs; Technical Expert, United States Delegation.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1945v01/persons#p_TJD1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Adviser in the Office of United Nations Economic and Social Affairs, Department of State.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1951v05/persons#p_TJD1</source-url>
+        </remark>
+    </remarks>
+</person>

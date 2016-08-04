@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>101398</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Blake, Robert Orris</name>
+        </preferred>
+        <alternates/>
+        <originals variants="4">
+            <original source-urls="4">
+                <name>Blake, Robert Orris</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v24/persons#p_BRO1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve03/persons#p_BRO1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve14p1/persons#p_BRO1</source-url>
+                <source-url>https://history.state.gov/departmenthistory/people/blake-robert-orris</source-url>
+            </original>
+            <original source-urls="3">
+                <name>Blake, Robert O.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v25/persons#p_BRO1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v23/persons#p_BRO_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v16/persons#p_BRO_1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Blake, Robert</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v41/persons#p_BR_1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Robert O. Blake</name>
+                <source-url>https://history.state.gov/departmenthistory/people/blake-robert-orris</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1921</birth-year>
+    <death-year/>
+    <remarks variants="6">
+        <remark source-urls="2">
+            <p>International Relations Officer, Office of Eastern European Affairs, Department of State, until August 1957</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v24/persons#p_BRO1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v25/persons#p_BRO1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Deputy Chief of Mission at Léopoldville/Kinshasa, March 1964 until July 1967</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v23/persons#p_BRO_1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Deputy Assistant Secretary of State for International Organization Affairs</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v16/persons#p_BRO_1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve14p1/persons#p_BRO1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Deputy Chief of Mission at the U.S. Embassy in Paris until December 1970</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v41/persons#p_BR_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Deputy Assistant Secretary for International Organization Affairs, Bureau of International Organization Affairs, Department of State</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve03/persons#p_BRO1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Foreign Service Officer. Ambassador Extraordinary and Plenipotentiary (Mali).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/blake-robert-orris</source-url>
+        </remark>
+    </remarks>
+</person>

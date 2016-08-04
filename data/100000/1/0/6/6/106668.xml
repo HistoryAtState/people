@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>106668</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Johnson, Nelson Trusler</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="1">
+                <name>Johnson, Nelson Trusler</name>
+                <source-url>https://history.state.gov/departmenthistory/people/johnson-nelson-trusler</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Nelson T. Johnson</name>
+                <source-url>https://history.state.gov/departmenthistory/people/johnson-nelson-trusler</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1887</birth-year>
+    <death-year>1954</death-year>
+    <remarks variants="1">
+        <remark source-urls="1">
+            <p>Foreign Service Officer. Assistant Secretary of State; Envoy Extraordinary and Minister Plenipotentiary (China); Ambassador Extraordinary and Plenipotentiary (China); Envoy Extraordinary and Minister Plenipotentiary (Australia).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/johnson-nelson-trusler</source-url>
+        </remark>
+    </remarks>
+</person>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>108199</id>
+    <authorities>
+        <authority service="viaf">98020187</authority>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Lula da Silva, Luiz Inácio</name>
+        </preferred>
+        <alternates/>
+        <originals variants="5">
+            <original source-urls="1">
+                <name>President Luiz Inacio Lula Da Silva</name>
+                <source-url>https://history.state.gov/departmenthistory/visits/brazil</source-url>
+            </original>
+            <original source-urls="1">
+                <name>President Luiz Inacio Lula da Silva</name>
+                <source-url>https://history.state.gov/departmenthistory/visits/brazil</source-url>
+            </original>
+            <original source-urls="1">
+                <name>President Luiz Inacio Lula de Salva</name>
+                <source-url>https://history.state.gov/departmenthistory/visits/brazil</source-url>
+            </original>
+            <original source-urls="1">
+                <name>President Luiz Lula da Silva</name>
+                <source-url>https://history.state.gov/departmenthistory/visits/brazil</source-url>
+            </original>
+            <original source-urls="1">
+                <name>President-elect Luiz Lula da Silva</name>
+                <source-url>https://history.state.gov/departmenthistory/visits/brazil</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="5">
+        <remark source-urls="1">
+            <p>President, Brazil. Visited U.S. 2 times, 2006–2007</p>
+            <source-url>https://history.state.gov/departmenthistory/visits/brazil</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>President, Brazil. Visited U.S. 3 times, 2003–2010</p>
+            <source-url>https://history.state.gov/departmenthistory/visits/brazil</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>President, Brazil. Visited U.S. once, 2009</p>
+            <source-url>https://history.state.gov/departmenthistory/visits/brazil</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>President, Brazil. Visited U.S. once, 2008</p>
+            <source-url>https://history.state.gov/departmenthistory/visits/brazil</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>President-elect, Brazil. Visited U.S. once, 2002</p>
+            <source-url>https://history.state.gov/departmenthistory/visits/brazil</source-url>
+        </remark>
+    </remarks>
+</person>

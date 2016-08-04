@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>103988</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Engle, James Bruce</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="1">
+                <name>Engle, James B.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v27/persons#p_EJB1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Engle, James Bruce</name>
+                <source-url>https://history.state.gov/departmenthistory/people/engle-james-bruce</source-url>
+            </original>
+            <original source-urls="1">
+                <name>James B. Engle</name>
+                <source-url>https://history.state.gov/departmenthistory/people/engle-james-bruce</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1919</birth-year>
+    <death-year/>
+    <remarks variants="2">
+        <remark source-urls="1">
+            <p>Office of Western European Affairs, Department of State</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v27/persons#p_EJB1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Foreign Service Officer. Ambassador Extraordinary and Plenipotentiary (Benin).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/engle-james-bruce</source-url>
+        </remark>
+    </remarks>
+</person>

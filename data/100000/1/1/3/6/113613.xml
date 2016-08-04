@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>113613</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Todd, Joseph A.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="2">
+                <name>Todd, Joseph A.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1947v02/persons#p_TJA1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1948v02/persons#p_TJA1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="2">
+        <remark source-urls="1">
+            <p>Division of Occupied Area Economic Affairs, Department of State</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1947v02/persons#p_TJA1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Division of Occupied Areas Economic Affairs, Department of State; Department of State Representative on the Working Group on Reparations</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1948v02/persons#p_TJA1</source-url>
+        </remark>
+    </remarks>
+</person>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>113386</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Tate, Jack B.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="4">
+                <name>Tate, Jack B.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v05/persons#p_TJB1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v03/persons#p_TATEJB1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v11p1/persons#p_TJB1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v11p2/persons#p_TJB1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="3">
+        <remark source-urls="1">
+            <p>Deputy Legal Adviser, Department of State.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1951v05/persons#p_TJB1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Deputy Legal Adviser of the Department of State until November 25, 1953.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v03/persons#p_TATEJB1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Deputy Legal Adviser, Department of State, until July 8, 1954.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v11p1/persons#p_TJB1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v11p2/persons#p_TJB1</source-url>
+        </remark>
+    </remarks>
+</person>

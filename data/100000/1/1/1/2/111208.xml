@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>111208</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Ray Rivero, Manuel Antonio</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="1">
+                <name>Ray, Manuel Antonio</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v06/persons#p_RMA1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Ray, Manuel</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v32/persons#p_RM1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="2">
+        <remark source-urls="1">
+            <p>Cuban Minister of Public Works, January–November 1959</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v06/persons#p_RMA1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>autonomous Cuban exile group leader</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v32/persons#p_RM1</source-url>
+        </remark>
+    </remarks>
+</person>

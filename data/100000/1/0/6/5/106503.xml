@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>106503</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Jacoby, Neil</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="1">
+                <name>Jacoby, Neil</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v09/persons#p_JND1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="1">
+        <remark source-urls="1">
+            <p>Dean, Graduate School of Business, University of California at Los Angeles; Consultant, Rand Corporation; Member, President’s Council of Economic Advisors, until 1955; Representative on the U.N. Economic and Social Council in 1957</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v09/persons#p_JND1</source-url>
+        </remark>
+    </remarks>
+</person>

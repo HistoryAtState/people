@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>101639</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Boyce, Ralph Leo</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="1">
+                <name>Boyce, Ralph Leo</name>
+                <source-url>https://history.state.gov/departmenthistory/people/boyce-ralph-leo</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1952</birth-year>
+    <death-year/>
+    <remarks variants="1">
+        <remark source-urls="1">
+            <p>Foreign Service Officer. Ambassador Extraordinary and Plenipotentiary (Thailand); Chargé d'Affaires ad interim (Singapore); Ambassador Extraordinary and Plenipotentiary (Indonesia).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/boyce-ralph-leo</source-url>
+        </remark>
+    </remarks>
+</person>

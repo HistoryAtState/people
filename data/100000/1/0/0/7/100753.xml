@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>100753</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Baghdadi, Abdel Latif</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="2">
+                <name>Baghdadi (Bagdadi), Abdel Latif</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v09p1/persons#p_BAL1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v09p2/persons#p_BAL1</source-url>
+            </original>
+            <original source-urls="2">
+                <name>el-Baghdadi (Boghdady), Abdel Latif Mahmoud</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v17/persons#p_elBALM1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v18/persons#p_elBALM1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="2">
+        <remark source-urls="2">
+            <p>member of the Egyptian Revolutionary Command Council and Minister of War and Marine, June 1953–April 1954; Minister of Municipal and Rural Affairs in the Nasser cabinet from April 1954.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v09p1/persons#p_BAL1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v09p2/persons#p_BAL1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Vice President of the United Arab Republic and Minister for Production, Treasury, and Planning</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v17/persons#p_elBALM1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v18/persons#p_elBALM1</source-url>
+        </remark>
+    </remarks>
+</person>

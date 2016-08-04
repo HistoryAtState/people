@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>104825</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Gerhardt, Harrison A.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="4">
+            <original source-urls="1">
+                <name>Gerhardt, Colonel Harrison A.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv01/persons#p_GCHA1</source-url>
+            </original>
+            <original source-urls="3">
+                <name>Gerhardt, Harrison A.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv02/persons#p_GCHA1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v05p1/persons#p_GERHARDTHA1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v05p2/persons#p_GERHARDTHA1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Gerhardt, Lieutenant Colonel Harrison</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1949v03/persons#p_GLCH1</source-url>
+            </original>
+            <original source-urls="2">
+                <name>Gerhardt, Lieutenant Colonel Harrison A.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v03p1/persons#p_GLCHA1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v03p2/persons#p_GLCHA1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="2">
+            <title source-urls="1">
+                <name>Colonel</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv01/persons#p_GCHA1</source-url>
+            </title>
+            <title source-urls="3">
+                <name>Lieutenant Colonel</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1949v03/persons#p_GLCH1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v03p1/persons#p_GLCHA1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v03p2/persons#p_GLCHA1</source-url>
+            </title>
+        </titles-from-name>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="5">
+        <remark source-urls="1">
+            <p>U. S. A., Executive Officer, Office of the Assistant Secretary of War.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv01/persons#p_GCHA1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>U. S. A., Executive Officer, Office of the Assistant Secretary of War; Acting Secretary, State–War–Navy Coordinating Committee.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv02/persons#p_GCHA1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Special Assistant to the United States High Commissioner for Germany.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1949v03/persons#p_GLCH1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>USA, Special Assistant to the United States High Commissioner for Germany.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1951v03p1/persons#p_GLCHA1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1951v03p2/persons#p_GLCHA1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Colonel, United States Army; Deputy Director in the Office of North Atlantic Treaty Affairs, International Security Affairs, Department of Defense, 1953; Deputy Director for European Affairs in the Office of Foreign Military Affairs, International Security Affairs, Department of Defense, 1954.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v05p1/persons#p_GERHARDTHA1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v05p2/persons#p_GERHARDTHA1</source-url>
+        </remark>
+    </remarks>
+</person>

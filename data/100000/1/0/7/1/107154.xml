@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>107154</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Killian, James R., Jr.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="1">
+                <name>Killian, James</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1950-55Intel/persons#p_KJRJ1</source-url>
+            </original>
+            <original source-urls="2">
+                <name>Killian, Dr. James R., Jr.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v11/persons#p_KDJRJ1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v02/persons#p_KJRJ1</source-url>
+            </original>
+            <original source-urls="6">
+                <name>Killian, James R., Jr.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v19/persons#p_KJRJ1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v20/persons#p_KJRJ1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v03/persons#p_KJRJ1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v10p1/persons#p_KJRJ1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v10p2/persons#p_KJRJ1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v25/persons#p_KJRJ1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="1">
+            <title source-urls="2">
+                <name>Dr.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v11/persons#p_KDJRJ1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v02/persons#p_KJRJ1</source-url>
+            </title>
+        </titles-from-name>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="7">
+        <remark source-urls="1">
+            <p>member, Scientific Advisory Committee, Office of Defense Mobilization, from 1951 to 1957; Head Technical Capabilities Panel, Office of Defense Mobilization in June 1955; Chairman, President’s Board of Consultants on Foreign Intelligence Activities from January 13, 1956 to 1958; Special Assistant to the President for Science and Technology from November 1957 to July 1959</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1950-55Intel/persons#p_KJRJ1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>President, Massachusetts Institute of Technology; member of the President’s Science Advisory Committee</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v11/persons#p_KDJRJ1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Head, Technological Capabilities Panel, Science Advisory Committee, Office of Defense Mobilization, from June 1955; Chairman, President’s Board on Foreign Intelligence Activities, from 1956; Special Assistant to President Eisenhower for Science and Technology from November 1957</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v19/persons#p_KJRJ1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v20/persons#p_KJRJ1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Special Assistant to the President for Science and Technology until May 1959</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v02/persons#p_KJRJ1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>President’s Special Assistant for Science and Technology, and Director of the White House Office of Science and Technology until July 1959</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v03/persons#p_KJRJ1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Special Assistant to the President</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v10p1/persons#p_KJRJ1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v10p2/persons#p_KJRJ1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Chairman, President's Foreign Intelligence Advisory Board</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v25/persons#p_KJRJ1</source-url>
+        </remark>
+    </remarks>
+</person>

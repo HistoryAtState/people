@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>104653</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Gaitskell, Hugh T.M.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="8">
+                <name>Gaitskell, Hugh</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v03p1/persons#p_GH1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v03p2/persons#p_GH1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v04p1/persons#p_GH1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v04p2/persons#p_GH1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v05p1/persons#p_GAITSKELLH1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v05p2/persons#p_GAITSKELLH1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v16/persons#p_GH1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v17/persons#p_GH1</source-url>
+            </original>
+            <original source-urls="2">
+                <name>Gaitskell, Hugh T.M.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v05/persons#p_FHTN1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v13/persons#p_GHT1</source-url>
+            </original>
+            <original source-urls="2">
+                <name>Gaitskell, Hugh T. M.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v04/persons#p_GHTM1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v27/persons#p_GHTM1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="7">
+        <remark source-urls="2">
+            <p>British Chancellor of the Exchequer until October 1951.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1951v03p1/persons#p_GH1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1951v03p2/persons#p_GH1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>British Chancellor of the Exchequer, until October 1951</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1951v04p1/persons#p_GH1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1951v04p2/persons#p_GH1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>British Chancellor of the Exchequer until October 23, 1951.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1951v05/persons#p_FHTN1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>British Chancellor of the Exchequer until October 21, 1951; thereafter Labour member of the House of Commons.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v05p1/persons#p_GAITSKELLH1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v05p2/persons#p_GAITSKELLH1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Member of Parliament and leader of the British Labour Party</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v04/persons#p_GHTM1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v27/persons#p_GHTM1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>British Member of Parliament and Leader of the Labour Party since December 1955</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v16/persons#p_GH1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v17/persons#p_GH1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Leader of the British Labour Party</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v13/persons#p_GHT1</source-url>
+        </remark>
+    </remarks>
+</person>

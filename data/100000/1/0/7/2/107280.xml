@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>107280</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Klieforth, Alfred Will</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="2">
+                <name>Klieforth, Alfred Will</name>
+                <source-url>https://history.state.gov/departmenthistory/people/klieforth-alfred-will</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv02/persons#p_KAW1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Alfred W. Klieforth</name>
+                <source-url>https://history.state.gov/departmenthistory/people/klieforth-alfred-will</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Klieforth, A. W.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv01/persons#p_KAW1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1889</birth-year>
+    <death-year>1969</death-year>
+    <remarks variants="2">
+        <remark source-urls="1">
+            <p>Foreign Service Officer. Chargé d'Affaires ad interim (Czechoslovakia).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/klieforth-alfred-will</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Chargé d’Affaires ad interim in Czechoslovakia.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv01/persons#p_KAW1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv02/persons#p_KAW1</source-url>
+        </remark>
+    </remarks>
+</person>

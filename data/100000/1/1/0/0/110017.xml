@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>110017</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Oehlert, Benjamin Hilborn, Jr.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="4">
+            <original source-urls="1">
+                <name>Oelhart, Benjamin</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v06/persons#p_OB1</source-url>
+            </original>
+            <original source-urls="3">
+                <name>Oehlert, Benjamin H., Jr.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v25/persons#p_OBHJ1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v11/persons#p_OBHJ1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve07/persons#p_OBHJ1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Oehlert, Benjamin Hilborn</name>
+                <source-url>https://history.state.gov/departmenthistory/people/oehlert-benjamin-hilborn</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Benjamin H. Oehlert Jr.</name>
+                <source-url>https://history.state.gov/departmenthistory/people/oehlert-benjamin-hilborn</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1909</birth-year>
+    <death-year>1985</death-year>
+    <remarks variants="5">
+        <remark source-urls="1">
+            <p>Ambassador to Pakistan</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v06/persons#p_OB1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Ambassador to Pakistan from August 1967</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v25/persons#p_OBHJ1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Ambassador to Pakistan until June 1969</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v11/persons#p_OBHJ1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Ambassador to Pakistan until July 1969</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve07/persons#p_OBHJ1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Non-career appointee. Ambassador Extraordinary and Plenipotentiary (Pakistan).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/oehlert-benjamin-hilborn</source-url>
+        </remark>
+    </remarks>
+</person>

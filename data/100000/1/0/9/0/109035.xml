@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>109035</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Mengistu Haile Mariam</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="1">
+                <name>Mengistu, Haile Mariam</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve06/persons#p_MHM1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Mengistu Haile Miriam</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v06/persons#p_MHM_1</source-url>
+            </original>
+            <original source-urls="2">
+                <name>Mengistu Haile Mariam</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v08/persons#p_MHM_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v18/persons#p_MMH_1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="3">
+        <remark source-urls="1">
+            <p>Chairman of the EPMG</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve06/persons#p_MHM1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Chairman of the Provisional Government of Ethiopia</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v06/persons#p_MHM_1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>President of Ethiopia</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v08/persons#p_MHM_1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v18/persons#p_MMH_1</source-url>
+        </remark>
+    </remarks>
+</person>

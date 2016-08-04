@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>108993</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Meier, Oscar W.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="3">
+                <name>Meier, Oscar W.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v05/persons#p_MOW1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v11p1/persons#p_MOW1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v11p2/persons#p_MOW1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="2">
+        <remark source-urls="1">
+            <p>Officer in Charge of African Economic Affairs, Department of State, from March 1951; Chief of the Economic Mission in Liberia, 1946–1950.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1951v05/persons#p_MOW1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Officer in Charge of Economic Affairs, Office of African Affairs, Bureau of Near Eastern, South Asian, and African Affairs, Department of State, until March 10, 1952; thereafter, Foreign Affairs Officer, Technical Cooperation Administration.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v11p1/persons#p_MOW1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v11p2/persons#p_MOW1</source-url>
+        </remark>
+    </remarks>
+</person>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>112361</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Shepilov, Dmitrii Trofimovich</name>
+        </preferred>
+        <alternates/>
+        <originals variants="4">
+            <original source-urls="3">
+                <name>Shepilov, Dmitrii Trofimovich</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v04/persons#p_SDT1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v24/persons#p_SDT1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v25/persons#p_SDT1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Shepilov, Dmitri T.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v14/persons#p_SDT1</source-url>
+            </original>
+            <original source-urls="2">
+                <name>Shepilov, Dimitri T.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v15/persons#p_SDT1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v16/persons#p_SDT1</source-url>
+            </original>
+            <original source-urls="2">
+                <name>Shepilov, Dmitri Trofimovich</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v26/persons#p_SDT1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v27/persons#p_SDT1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="4">
+        <remark source-urls="4">
+            <p>Soviet Minister of Foreign Affairs, June 1956–February 1957</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v04/persons#p_SDT1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v24/persons#p_SDT1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v26/persons#p_SDT1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v27/persons#p_SDT1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Soviet Foreign Minister, June 1, 1956–February 15, 1957; Chairman of the Soviet Delegation at the United Nations, 1956</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v14/persons#p_SDT1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v15/persons#p_SDT1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Soviet Foreign Minister, June 1, 1956–February 15, 1957; Head of the Soviet Delegation at the United Nations, 1956</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v16/persons#p_SDT1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Soviet Minister of Foreign Affairs, June 1956-February 1957</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v25/persons#p_SDT1</source-url>
+        </remark>
+    </remarks>
+</person>

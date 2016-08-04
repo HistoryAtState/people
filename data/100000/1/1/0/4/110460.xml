@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>110460</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Pauls, Rolf</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="12">
+                <name>Pauls, Rolf</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v09/persons#p_PR1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v03/persons#p_PR8</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v13/persons#p_PR1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v14/persons#p_PR8</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v17/persons#p_PR1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v18/persons#p_PR1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v29/persons#p_PR1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v32/persons#p_PR1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v39/persons#p_PR8</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v40/persons#p_PR1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve02/persons#p_PR8</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve13/persons#p_PR8</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="8">
+        <remark source-urls="1">
+            <p>German Embassy in the United States</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v09/persons#p_PR1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>West German Ambassador to the United States, 1969-March 1973</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v03/persons#p_PR8</source-url>
+        </remark>
+        <remark source-urls="5">
+            <p>West German Ambassador to the United States</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v13/persons#p_PR1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v14/persons#p_PR8</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v17/persons#p_PR1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve02/persons#p_PR8</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve13/persons#p_PR8</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>West German Ambassador to the United States until May 1973</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v18/persons#p_PR1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Ambassador to the United States, Federal Republic of Germany</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v29/persons#p_PR1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Ambassador of the Federal Republic of Germany to the United States</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v32/persons#p_PR1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Ambassador from the Federal Republic of Germany to the United States until March 1973</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v39/persons#p_PR8</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>West German Ambassador to the United States from January 31, 1969</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v40/persons#p_PR1</source-url>
+        </remark>
+    </remarks>
+</person>

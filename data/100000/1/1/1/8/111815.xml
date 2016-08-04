@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>111815</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Saint-Mieux, André</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="1">
+                <name>Saint-Mieux, André</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v01/persons#p_SMA1</source-url>
+            </original>
+            <original source-urls="2">
+                <name>Saint-Mleux, André</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v07p1/persons#p_SMA1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v07p2/persons#p_SMA1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="2">
+        <remark source-urls="1">
+            <p>Chief of Cabinet of the French Minister of State for the Associated States to February 1955; Counselor to the Cabinet of the Delegate Minister to the President of the Council March–October 1955; Director General of Political Affairs in the Foreign Ministry, October 1955–June 1957</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v01/persons#p_SMA1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Assistant Chef du Cabinet to the Secretary General of the North Atlantic Treaty Organization</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v07p1/persons#p_SMA1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v07p2/persons#p_SMA1</source-url>
+        </remark>
+    </remarks>
+</person>

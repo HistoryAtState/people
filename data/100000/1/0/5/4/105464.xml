@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>105464</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Hamilton, William Cowles</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="3">
+                <name>Hamilton, William C.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v21/persons#p_HWC1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v27/persons#p_HWC1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v28/persons#p_HWC1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Hamilton, William Cowles</name>
+                <source-url>https://history.state.gov/departmenthistory/people/hamilton-william-cowles</source-url>
+            </original>
+            <original source-urls="1">
+                <name>William C. Hamilton</name>
+                <source-url>https://history.state.gov/departmenthistory/people/hamilton-william-cowles</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1922</birth-year>
+    <death-year/>
+    <remarks variants="4">
+        <remark source-urls="1">
+            <p>Vice Consul and Secretary in the Division of Research for the Far East, Office of Intelligence Research, Department of State, to August 1957; thereafter Second Secretary at the Embassy in Burma</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v21/persons#p_HWC1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Laos Country Director until July 1966; Supervisory Political Officer, Embassy in Thailand, after September 1967</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v27/persons#p_HWC1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Deputy Director, Far East Region, Office of the Secretary of Defense for International Security Affairs, October 1964–July 1966; Laos Country Director, July 1966–September 1967; Supervisory Political Officer at the Embassy in Thailand after September 1967</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v28/persons#p_HWC1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Foreign Service Officer. Chargé d'Affaires ad interim (Sweden).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/hamilton-william-cowles</source-url>
+        </remark>
+    </remarks>
+</person>

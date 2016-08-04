@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>113841</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Tweedy, Bronson</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="2">
+                <name>Tweedy, Bronson</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v23/persons#p_TBR_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v02/persons#p_TB1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="2">
+        <remark source-urls="1">
+            <p>Chief of the Africa Division, Directorate of Plans, Central Intelligence Agency</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v23/persons#p_TBR_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Deputy to the Director of Central Intelligence for National Intelligence Programs Evaluation from January 1971 to March 1972; thereafter Deputy to the Director of Central Intelligence for the Intelligence Community</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v02/persons#p_TB1</source-url>
+        </remark>
+    </remarks>
+</person>

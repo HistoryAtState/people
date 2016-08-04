@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>102363</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Chai Zemin</name>
+        </preferred>
+        <alternates>
+            <name>Ch’ai Tse-min</name>
+        </alternates>
+        <originals variants="3">
+            <original source-urls="1">
+                <name>Chai Zemin</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v01/persons#p_CZ_1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Ch’ai Tse-min</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v13/persons#p_CT_1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Chai Zemin (Ch’ai Tse-min)</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v13/persons#p_CZ_1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="3">
+        <remark source-urls="1">
+            <p>Chief of the People’s Republic of China Liaison Office from March 1978 until March 1979; PRC Ambassador to the United States from March 1979</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v01/persons#p_CZ_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>see Chai Zemin</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v13/persons#p_CT_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Chief of the Liaison Office of the PRC from March 1978 until March 1979; PRC Ambassador to the United States from March 1979 until 1982</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v13/persons#p_CZ_1</source-url>
+        </remark>
+    </remarks>
+</person>

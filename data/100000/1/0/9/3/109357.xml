@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>109357</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Moose, James Sayle, Jr.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="8">
+                <name>Moose, James S., Jr.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1943CairoTehran/persons#p_MJSJ1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v09p1/persons#p_MJS1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v09p2/persons#p_MJS1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v12/persons#p_MJSJ1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v13/persons#p_MJSJ1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v14/persons#p_MJSJ1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v15/persons#p_MJSJ1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v17/persons#p_MJSJ1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Moose, James Sayle, Jr.</name>
+                <source-url>https://history.state.gov/departmenthistory/people/moose-james-sayle</source-url>
+            </original>
+            <original source-urls="1">
+                <name>James S. Moose Jr.</name>
+                <source-url>https://history.state.gov/departmenthistory/people/moose-james-sayle</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1903</birth-year>
+    <death-year>1989</death-year>
+    <remarks variants="4">
+        <remark source-urls="1">
+            <p>Minister Resident in Saudi Arabia.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1943CairoTehran/persons#p_MJSJ1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Minister in Syria, June 25–September 30, 1952; thereafter Ambassador.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v09p1/persons#p_MJS1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v09p2/persons#p_MJS1</source-url>
+        </remark>
+        <remark source-urls="5">
+            <p>Ambassador to Syria until June 30, 1957</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v12/persons#p_MJSJ1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v13/persons#p_MJSJ1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v14/persons#p_MJSJ1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v15/persons#p_MJSJ1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v17/persons#p_MJSJ1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Foreign Service Officer. Envoy Extraordinary and Minister Plenipotentiary (Syria); Ambassador Extraordinary and Plenipotentiary (Syria); Ambassador Extraordinary and Plenipotentiary (Sudan); Minister Resident/Foreign Service officer (Saudi Arabia).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/moose-james-sayle</source-url>
+        </remark>
+    </remarks>
+</person>

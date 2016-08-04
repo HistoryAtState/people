@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>110765</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Pinkerton, Lowell Call</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="4">
+                <name>Pinkerton, Lowell Call</name>
+                <source-url>https://history.state.gov/departmenthistory/people/pinkerton-lowell-call</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv01/persons#p_PLC1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv02/persons#p_P4</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v05/persons#p_PLC1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Lowell C. Pinkerton</name>
+                <source-url>https://history.state.gov/departmenthistory/people/pinkerton-lowell-call</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Pinkerton, Lowell C.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v18/persons#p_PLC1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1894</birth-year>
+    <death-year>1959</death-year>
+    <remarks variants="5">
+        <remark source-urls="1">
+            <p>Foreign Service Officer. Ambassador Extraordinary and Plenipotentiary (Sudan); Envoy Extraordinary and Minister Plenipotentiary (Lebanon); Envoy Extraordinary and Minister Plenipotentiary (Iraq).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/pinkerton-lowell-call</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Consul General, Jerusalem.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv01/persons#p_PLC1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Lowell Call, Consul General, Jerusalem.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv02/persons#p_P4</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Minister in Lebanon.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1951v05/persons#p_PLC1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Ambassador to Sudan, May 1956–August 1957</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v18/persons#p_PLC1</source-url>
+        </remark>
+    </remarks>
+</person>

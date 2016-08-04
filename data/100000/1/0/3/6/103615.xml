@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>103615</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Douglas, Sholto</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="1">
+                <name>Douglas, Sir Sholto</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1943CairoTehran/persons#p_DSS1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Douglas, Marshal of the Royal Air Force Sir Sholto</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1947v02/persons#p_D1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="2">
+            <title source-urls="1">
+                <name>Sir</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1943CairoTehran/persons#p_DSS1</source-url>
+            </title>
+            <title source-urls="1">
+                <name>Marshal of the Royal Air Force Sir</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1947v02/persons#p_D1</source-url>
+            </title>
+        </titles-from-name>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="2">
+        <remark source-urls="1">
+            <p>Air Chief Marshal, Commanding Officer, Royal Air Force in the Middle East.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1943CairoTehran/persons#p_DSS1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>British Commander in Chief and Military Governor for Germany, May 1946–October 1947</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1947v02/persons#p_D1</source-url>
+        </remark>
+    </remarks>
+</person>

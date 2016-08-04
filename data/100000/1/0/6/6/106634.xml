@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>106634</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Johnson, Charles E.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="4">
+                <name>Johnson, Charles E.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v09/persons#p_JCE1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v11/persons#p_JCE1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v24/persons#p_JCE1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v34/persons#p_JCE1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="4">
+        <remark source-urls="1">
+            <p>member of the National Security Council Staff</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v09/persons#p_JCE1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Member, National Security Council Staff, 1962-1969</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v11/persons#p_JCE1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>member, National Security Council Staff</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v24/persons#p_JCE1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Member, National Security Council Staff</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v34/persons#p_JCE1</source-url>
+        </remark>
+    </remarks>
+</person>

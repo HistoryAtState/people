@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>104495</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>François-Poncet, André</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="8">
+                <name>François-Poncet, André</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1948v02/persons#p_FPA1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1949v03/persons#p_FPA1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v03p1/persons#p_FPA1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v03p2/persons#p_FPA1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v05p1/persons#p_FRANGOISPONCETA1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v05p2/persons#p_FRANCOISPONCETA1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v07p1/persons#p_FPA1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v07p2/persons#p_FPA1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Poncet.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1949v03/persons#p_P1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="5">
+        <remark source-urls="1">
+            <p>Special Representative for German Affairs of the French Ministry for Foreign Affairs, from November 1948</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1948v02/persons#p_FPA1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>French Diplomatic Counselor for German Affairs and Chargé de Mission with the Commander-in-Chief in Germany; High Commissioner for Germany, from September.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1949v03/persons#p_FPA1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>See François-Poncet.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1949v03/persons#p_P1</source-url>
+        </remark>
+        <remark source-urls="4">
+            <p>French High Commissioner for Germany.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1951v03p1/persons#p_FPA1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1951v03p2/persons#p_FPA1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v07p1/persons#p_FPA1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v07p2/persons#p_FPA1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>French High Commissioner for Germany, 1949–1955.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v05p1/persons#p_FRANGOISPONCETA1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v05p2/persons#p_FRANCOISPONCETA1</source-url>
+        </remark>
+    </remarks>
+</person>

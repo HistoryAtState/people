@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>102538</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Chretien, Jean</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="1">
+                <name>Chretien, Jean</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v03/persons#p_CJ_3</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Prime Minister Jean Chretien</name>
+                <source-url>https://history.state.gov/departmenthistory/visits/canada</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="2">
+        <remark source-urls="1">
+            <p>Minister of Finance of Canada from September 1977 until June 1979</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v03/persons#p_CJ_3</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Prime Minister, Canada. Visited U.S. 11 times, 1993–2002</p>
+            <source-url>https://history.state.gov/departmenthistory/visits/canada</source-url>
+        </remark>
+    </remarks>
+</person>

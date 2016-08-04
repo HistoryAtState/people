@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>114325</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Watson, Albert, II</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="2">
+                <name>Watson, Major General Albert, II</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v14/persons#p_WMGAII1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v15/persons#p_WMGAII1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Watson, Lt. General Albert, II</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v29p2/persons#p_WMGAII1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="2">
+            <title source-urls="2">
+                <name>Major General</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v14/persons#p_WMGAII1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v15/persons#p_WMGAII1</source-url>
+            </title>
+            <title source-urls="1">
+                <name>Lt. General</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v29p2/persons#p_WMGAII1</source-url>
+            </title>
+        </titles-from-name>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="3">
+        <remark source-urls="1">
+            <p>Commandant in Berlin from May 1961</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v14/persons#p_WMGAII1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>U.S. Commandant in Berlin from December 1962</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v15/persons#p_WMGAII1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>USA, High Commissioner of the Ryukyu Islands from August 1964 to November 1966</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v29p2/persons#p_WMGAII1</source-url>
+        </remark>
+    </remarks>
+</person>

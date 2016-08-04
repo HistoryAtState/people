@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>114705</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Winn, Edward Lawrence, Jr.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="1">
+                <name>Winn, Edward Lawrence, Jr.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve03/persons#p_WEL1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="1">
+        <remark source-urls="1">
+            <p>Republican Representative from Kansas, Foreign Affairs Committee and Ranking Minority Member, Space Science and Applications Subcommittee, U.S. House of Representatives Committee on Science and Technology</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve03/persons#p_WEL1</source-url>
+        </remark>
+    </remarks>
+</person>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>106354</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Ibn Saud, Abdul Aziz</name>
+        </preferred>
+        <alternates/>
+        <originals variants="6">
+            <original source-urls="1">
+                <name>Saud, Ibn (’Abd-al-’Aziz ibn-’Abd-al-Rahman al-Faisal Al-Sa’ud)</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1943CairoTehran/persons#p_SI1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Saudi Arabia, The King of</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv01/persons#p_SA1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Saud, Ibn (‘Abd-al-‘Aziz ibn-‘Abd-al-Rahman al-Faisal Al-Sa‘ud)</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv01/persons#p_SIA1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Sa’ud, Ibn</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945Malta/persons#p_SI1</source-url>
+            </original>
+            <original source-urls="2">
+                <name>Ibn Saud, Abdul Aziz</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v09p1/persons#p_ISAA1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v09p2/persons#p_ISAA1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Ibn Saud, Abul Aziz</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v13/persons#p_ISAA1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="4">
+        <remark source-urls="3">
+            <p>King of Saudi Arabia.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1943CairoTehran/persons#p_SI1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv01/persons#p_SIA1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1945Malta/persons#p_SI1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>See Saud.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv01/persons#p_SA1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>King of Saudi Arabia until November 9, 1953.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v09p1/persons#p_ISAA1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v09p2/persons#p_ISAA1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>King of Saudi Arabia until November 8, 1953</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v13/persons#p_ISAA1</source-url>
+        </remark>
+    </remarks>
+</person>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>100531</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Arburua de la Miyar, Manuel</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="2">
+                <name>Arburua de la Miyar, Manuel</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v06p1/persons#p_ARBURUADLMM1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v06p2/persons#p_ARBURUADLMM1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="1">
+        <remark source-urls="2">
+            <p>Spanish Minister of Commerce after July 1951; President of the Interministerial Coordinating Commission for the distribution of funds available from the economic aid agreements concluded in September 1953.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v06p1/persons#p_ARBURUADLMM1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v06p2/persons#p_ARBURUADLMM1</source-url>
+        </remark>
+    </remarks>
+</person>

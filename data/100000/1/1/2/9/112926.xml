@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>112926</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Stavropoulos, Constantin A.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="4">
+                <name>Stavropoulos, Constantin A.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v03/persons#p_STAVROPOULOSCA1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v02/persons#p_SCA5</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v05/persons#p_SCA1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve14p1/persons#p_SCA5</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="4">
+        <remark source-urls="1">
+            <p>Greek national, Principal Director in Charge of the Legal Department, United Nations Secretariat, 1952–1954.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v03/persons#p_STAVROPOULOSCA1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>United Nations Legal Counsel</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v02/persons#p_SCA5</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>United Nations Under Secretary-General for Legal Affairs and Legal Counsel</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v05/persons#p_SCA1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Legal Counsel of the United Nations</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve14p1/persons#p_SCA5</source-url>
+        </remark>
+    </remarks>
+</person>

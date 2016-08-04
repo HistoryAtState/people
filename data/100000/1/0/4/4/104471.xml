@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>104471</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Fox, Alonzo P.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="4">
+            <original source-urls="2">
+                <name>Fox, Alonzo P.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v05p1/persons#p_FOXAP1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v05p2/persons#p_FOXAP1</source-url>
+            </original>
+            <original source-urls="2">
+                <name>Fox, Major General Alonzo P.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v09p1/persons#p_FMG1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v09p2/persons#p_FMG1</source-url>
+            </original>
+            <original source-urls="3">
+                <name>Fox, Lieutenant General Alonzo P.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v01/persons#p_FLGAP1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v21/persons#p_FLGAP1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v01/persons#p_FLGAP1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Fox, General Alonzo P.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v03/persons#p_FGAP1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="3">
+            <title source-urls="2">
+                <name>Major General</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v09p1/persons#p_FMG1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v09p2/persons#p_FMG1</source-url>
+            </title>
+            <title source-urls="3">
+                <name>Lieutenant General</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v01/persons#p_FLGAP1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v21/persons#p_FLGAP1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v01/persons#p_FLGAP1</source-url>
+            </title>
+            <title source-urls="1">
+                <name>General</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v03/persons#p_FGAP1</source-url>
+            </title>
+        </titles-from-name>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="5">
+        <remark source-urls="2">
+            <p>General, United States Army; Army Member of the Joint Strategic Survey Command, Joint Chiefs of Staff, until 1953.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v05p1/persons#p_FOXAP1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v05p2/persons#p_FOXAP1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>USA, Member of the Joint Strategic Survey Committee, Joint Chiefs of Staff.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v09p1/persons#p_FMG1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v09p2/persons#p_FMG1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>USA, Military Adviser to the Assistant Secretary of Defense for International Security Affairs</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v01/persons#p_FLGAP1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v21/persons#p_FLGAP1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>USA, Special Assistant to the Secretary of Defense to 1959</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v01/persons#p_FLGAP1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Defense Member, Working Group on Disarmament Policy</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v03/persons#p_FGAP1</source-url>
+        </remark>
+    </remarks>
+</person>

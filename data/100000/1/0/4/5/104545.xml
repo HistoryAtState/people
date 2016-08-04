@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>104545</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Freeman, Orville L.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="12">
+                <name>Freeman, Orville L.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v05/persons#p_FOL1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v09/persons#p_FOL1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v13/persons#p_FOL1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v16/persons#p_FOL1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v09/persons#p_FOL1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v13/persons#p_FOL1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v22/persons#p_FOL1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v25/persons#p_FOL1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v29p2/persons#p_FOL1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v30/persons#p_FOL1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v31/persons#p_FOL1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v02/persons#p_FOL_1</source-url>
+            </original>
+            <original source-urls="3">
+                <name>Freeman, Orville H.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v04/persons#p_FOH1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v05/persons#p_FOH1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v26/persons#p_FOL1</source-url>
+            </original>
+            <original source-urls="2">
+                <name>Freeman, Orville</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v06/persons#p_FO1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v20/persons#p_FO1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="3">
+        <remark source-urls="15">
+            <p>Secretary of Agriculture</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v05/persons#p_FOL1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v13/persons#p_FOL1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v16/persons#p_FOL1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v04/persons#p_FOH1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v05/persons#p_FOH1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v06/persons#p_FO1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v09/persons#p_FOL1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v13/persons#p_FOL1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v20/persons#p_FO1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v22/persons#p_FOL1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v25/persons#p_FOL1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v26/persons#p_FOL1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v29p2/persons#p_FOL1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v30/persons#p_FOL1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v31/persons#p_FOL1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Secretary of Agriculture from January 21, 1961</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v09/persons#p_FOL1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Secretary of Agriculture from January 21, 1961, until January 20, 1969; thereafter Chief Executive Officer, Business International Corporation; member, Presidential Commission on World Hunger</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v02/persons#p_FOL_1</source-url>
+        </remark>
+    </remarks>
+</person>

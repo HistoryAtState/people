@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>110463</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Pauly, John W.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="4">
+            <original source-urls="2">
+                <name>Pauly, John W.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v10/persons#p_PJW1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve14p2/persons#p_PJ_1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Pauly, Gen. John W.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v30/persons#p_PGJW1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Pauly, John</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v38p1/persons#p_PJ_1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Pauly, Lieutenant General John</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v38p2/persons#p_PJ_1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="2">
+            <title source-urls="1">
+                <name>Gen.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v30/persons#p_PGJW1</source-url>
+            </title>
+            <title source-urls="1">
+                <name>Lieutenant General</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v38p2/persons#p_PJ_1</source-url>
+            </title>
+        </titles-from-name>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="5">
+        <remark source-urls="1">
+            <p>Lieutenant General, USAF, Assistant to the Chairman of the Joint Chiefs of Staff, 1975</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v10/persons#p_PJW1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Assistant to the Chairman, Joint Chiefs of Staff from July 1974 until September 1975; Deputy Chief of Staff for Plans and Operations, Headquarters U.S. Air Force from September 1975 until July 1976; Vice Commander in Chief, U.S. Air Force Europe from July 1976</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v30/persons#p_PGJW1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Lieutenant General, USAF; Assistant to the Chairman, Joint Chiefs of Staff from July 1974 until September 1975; thereafter Deputy Chief of Staff for Plans and Operations, Headquarters, U.S. Air Force</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v38p1/persons#p_PJ_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>USAF, Assistant to the Chairman, Joint Chiefs of Staff, July 1974–September 1975; thereafter Deputy Chief of Staff for Plans and Operations, Headquarters, U.S. Air Force</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v38p2/persons#p_PJ_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Lieutenant General, USAF; Assistant to the Chairman of the Joint Chiefs of Staff from July 1974 until September 1975; thereafter, Deputy Chief of Staff for Plans and Operations, Headquarters, U.S. Air Force</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve14p2/persons#p_PJ_1</source-url>
+        </remark>
+    </remarks>
+</person>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>113890</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Ürgüplü, Suat Hayri</name>
+        </preferred>
+        <alternates/>
+        <originals variants="5">
+            <original source-urls="2">
+                <name>Ürgüplü, Suat Hayri</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v04p1/persons#p_USH1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v04p2/persons#p_USH1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Urgupulu, Ali Suat Fuat Hayri</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v12/persons#p_UASFH1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Urguplu, Ali Suat Havri</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v10p1/persons#p_UASH1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Urgulplu, Ali Suat Havri</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v10p2/persons#p_UASH1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Urguplu, Ali Suat</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v16/persons#p_UAS1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="4">
+        <remark source-urls="2">
+            <p>Turkish Delegate to the Consultative Assembly, Council of Europe</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1951v04p1/persons#p_USH1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1951v04p2/persons#p_USH1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Turkish Ambassador to the United States from September 7, 1957</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v12/persons#p_UASFH1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Turkish Ambassador to the United States until December 1960</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v10p1/persons#p_UASH1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v10p2/persons#p_UASH1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Turkish Prime Minister, February–October 1965</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v16/persons#p_UAS1</source-url>
+        </remark>
+    </remarks>
+</person>

@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>111902</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Sandys, Duncan</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="17">
+                <name>Sandys, Duncan</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v05p1/persons#p_SANDYSD1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v05p2/persons#p_SANDYSD1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v06p1/persons#p_SANDYSD1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v06p2/persons#p_SANDYSD1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v17/persons#p_SD1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v20/persons#p_SD1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v27/persons#p_SD1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v03/persons#p_SDE1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v07p1/persons#p_SD1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v07p2/persons#p_SD1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v11/persons#p_SDE1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v12/persons#p_SDE1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v19/persons#p_SD1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v25/persons#p_SDE1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v16/persons#p_SD1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v32/persons#p_SD1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v33/persons#p_SDE1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Sandys, Sir Duncan</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v13/persons#p_SSD1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Sandys, Duncan E.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v26/persons#p_SDE1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="1">
+            <title source-urls="1">
+                <name>Sir</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v13/persons#p_SSD1</source-url>
+            </title>
+        </titles-from-name>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="14">
+        <remark source-urls="4">
+            <p>British Minister of Supply, October 1951–October 1954.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v05p1/persons#p_SANDYSD1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v05p2/persons#p_SANDYSD1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v06p1/persons#p_SANDYSD1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v06p2/persons#p_SANDYSD1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>British Minister of Supply until January 1957; thereafter Minister of Defense</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v13/persons#p_SSD1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>British Minister of Defense from January 13, 1957</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v17/persons#p_SD1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>British Minister of Defense</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v20/persons#p_SD1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v11/persons#p_SDE1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>British Minister of Defense from January 1957</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v27/persons#p_SD1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>British Minister of Defense until October 1959; thereafter Minister of Aviation</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v03/persons#p_SDE1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>British Defence Minister until October 1959</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v07p1/persons#p_SD1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v07p2/persons#p_SD1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>British Minister of Defence</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v12/persons#p_SDE1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>British Secretary of State for Commonwealth Relations and Colonies</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v19/persons#p_SD1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>British Secretary of State for Commonwealth Relations and Secretary of State for the Colonies</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v25/persons#p_SDE1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>British Minister of Defense to October 1964</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v16/persons#p_SD1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>British Secretary of State for Foreign and Commonwealth Affairs until October 1964</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v26/persons#p_SDE1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>British Secretary of State for the Colonies, 1964</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v32/persons#p_SD1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>British Colonial Secretary until October 1964</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v33/persons#p_SDE1</source-url>
+        </remark>
+    </remarks>
+</person>

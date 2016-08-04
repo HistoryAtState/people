@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>109999</id>
+    <authorities>
+        <authority service="viaf">57420039</authority>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Obote, Apollo Milton</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="5">
+                <name>Obote, A. Milton</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v21/persons#p_OAM1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v23/persons#p_OAM_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v24/persons#p_OAM1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve05p1/persons#p_OAM1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve05p2/persons#p_OAM1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Obote, Apollo Milton</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve06/persons#p_OAM1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Prime Minister Obote</name>
+                <source-url>https://history.state.gov/departmenthistory/visits/uganda</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="5">
+        <remark source-urls="2">
+            <p>Prime Minister of Uganda</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v21/persons#p_OAM1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v24/persons#p_OAM1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Ugandan Prime Minister, April 1963 until April 1966; President from April 1966</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v23/persons#p_OAM_1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>President of Uganda until overthrown on January 25, 1971</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve05p1/persons#p_OAM1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve05p2/persons#p_OAM1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>President of Uganda from 1966 to 1971</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve06/persons#p_OAM1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Prime Minister, Uganda. Visited U.S. once, 1962</p>
+            <source-url>https://history.state.gov/departmenthistory/visits/uganda</source-url>
+        </remark>
+    </remarks>
+</person>

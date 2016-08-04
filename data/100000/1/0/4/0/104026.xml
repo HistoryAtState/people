@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>104026</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Ernst, David H.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="4">
+                <name>Ernst, David H.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v11p1/persons#p_EDH1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v11p2/persons#p_EDH1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve03/persons#p_EDH1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve11p2/persons#p_EDH_1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="3">
+        <remark source-urls="2">
+            <p>Vice Consul at Bombay until April 27, 1953; thereafter, member of the Aviation Policy Staff, Office of Transport and Communications Policy, Department of State.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v11p1/persons#p_EDH1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v11p2/persons#p_EDH1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Deputy Senior Adviser, Special Assistant to the Secretary for International Narcotics Matters, Department of State</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve03/persons#p_EDH1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Deputy Personnel Officer from July 1973 until July 1974; Deputy Senior Assistant for International Narcotics Matters, Office of the Secretary, Department of State, from July 1974</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve11p2/persons#p_EDH_1</source-url>
+        </remark>
+    </remarks>
+</person>

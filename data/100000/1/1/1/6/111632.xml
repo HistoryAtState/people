@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>111632</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Ross, Emerson A.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="3">
+                <name>Ross, Emerson A.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v11p1/persons#p_REA1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v11p2/persons#p_REA1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v10/persons#p_REA1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="2">
+        <remark source-urls="2">
+            <p>Special Assistant to the Assistant Secretary of State for Economic Affairs until February 1, 1953; thereafter, Chief of the Investment and Development Staff, Bureau of Economic Affairs.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v11p1/persons#p_REA1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v11p2/persons#p_REA1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Chief, Investment and Development Staff, Office of Financial and Development Policy, Bureau of Economic Affairs, Department of State</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v10/persons#p_REA1</source-url>
+        </remark>
+    </remarks>
+</person>

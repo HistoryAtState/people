@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>111255</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Reid Cabral, Donald</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="2">
+                <name>Reid Cabral, Donald</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v12/persons#p_RCD1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v32/persons#p_RCD1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="2">
+        <remark source-urls="1">
+            <p>Second Vice President of the Dominican Council of State, Foreign Minister under the Triumvirate</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v12/persons#p_RCD1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Head of the Triumvirate until April 1965</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v32/persons#p_RCD1</source-url>
+        </remark>
+    </remarks>
+</person>

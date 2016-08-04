@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>109801</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Nguyen Minh Vy</name>
+        </preferred>
+        <alternates/>
+        <originals variants="4">
+            <original source-urls="1">
+                <name>Nguyen Minh Vy, Member</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v06/persons#p_NMVM1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Nguyen Minh Vy, member</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v07/persons#p_NMV1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Nguyen Minh Vy</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v06/persons#p_NMV1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Vy</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v06/persons#p_VY1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="3">
+        <remark source-urls="2">
+            <p>Democratic Republic of Vietnam Delegation to the Paris Peace Talks</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v06/persons#p_NMVM1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v07/persons#p_NMV1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Adviser to the Head of the Democratic Republic of Vietnam Delegation to the Paris Peace Talks on Vietnam</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v06/persons#p_NMV1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>see Nguyen Minh Vy</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v06/persons#p_VY1</source-url>
+        </remark>
+    </remarks>
+</person>

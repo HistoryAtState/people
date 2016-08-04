@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>112142</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Scotes, Thomas James</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="2">
+                <name>Scotes, Thomas James</name>
+                <source-url>https://history.state.gov/departmenthistory/people/scotes-thomas-james</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v18/persons#p_STJ_1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Thomas J. Scotes</name>
+                <source-url>https://history.state.gov/departmenthistory/people/scotes-thomas-james</source-url>
+            </original>
+            <original source-urls="4">
+                <name>Scotes, Thomas J.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v24/persons#p_STJ1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v26/persons#p_STJ_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v27/persons#p_STJ_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve04/persons#p_STJ1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1932</birth-year>
+    <death-year/>
+    <remarks variants="5">
+        <remark source-urls="1">
+            <p>Foreign Service Officer. Ambassador Extraordinary and Plenipotentiary (Yemen); Chargé d'Affaires ad interim (Syria).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/scotes-thomas-james</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Political-Economic Officer, Office of Lebanese, Jordanian, Syrian, and Iraqi Affairs, Bureau of Near Eastern and South Asian Affairs, Department of State, from June 1969</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v24/persons#p_STJ1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Principal Officer, U.S. Interests Section in Syria from February 1974; Charge d′Affaires ad interim from June 1974 until August 1974</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v26/persons#p_STJ_1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Officer in Charge of Iraqi Affairs, Bureau of Near Eastern and South Asian Affairs, Department of State</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v27/persons#p_STJ_1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve04/persons#p_STJ1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>U.S. Ambassador to Yemen Arab Republic (North Yemen) from January 21, 1975, until April 24, 1978</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v18/persons#p_STJ_1</source-url>
+        </remark>
+    </remarks>
+</person>

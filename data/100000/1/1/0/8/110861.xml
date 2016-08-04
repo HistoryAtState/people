@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>110861</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Popovic, Koca</name>
+        </preferred>
+        <alternates/>
+        <originals variants="4">
+            <original source-urls="2">
+                <name>Popović, General Koca</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v04p1/persons#p_PGK1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v04p2/persons#p_PGK1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Popović, Colonel General Koča</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v08/persons#p_PCGK1</source-url>
+            </original>
+            <original source-urls="4">
+                <name>Popovic, Koca</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v16/persons#p_PK1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v10p1/persons#p_PK1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v10p2/persons#p_PK1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v16/persons#p_PK1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Popović, Koca</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v26/persons#p_PK1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="2">
+            <title source-urls="2">
+                <name>General</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v04p1/persons#p_PGK1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v04p2/persons#p_PGK1</source-url>
+            </title>
+            <title source-urls="1">
+                <name>Colonel General</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v08/persons#p_PCGK1</source-url>
+            </title>
+        </titles-from-name>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="6">
+        <remark source-urls="2">
+            <p>Yugoslav Army Chief of Staff</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1951v04p1/persons#p_PGK1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1951v04p2/persons#p_PGK1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Chief of the General Staff, Yugoslav National Army, 1945–January 1953; Yugoslav Minister for Foreign Affairs from January 1953; member of the Politburo of the Yugoslav League of Communists from 1942.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v08/persons#p_PCGK1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Yugoslav Foreign Minister; Head of the Yugoslav Delegation to the 10th, 11th, and 12th Sessions of the U.N. General Assembly</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v16/persons#p_PK1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Yugoslav Secretary of State for Foreign Affairs</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v26/persons#p_PK1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Yugoslav Minister of Foreign Affairs and member, Federal Executive Council</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v10p1/persons#p_PK1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v10p2/persons#p_PK1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Yugoslav Foreign Minister</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v16/persons#p_PK1</source-url>
+        </remark>
+    </remarks>
+</person>

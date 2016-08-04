@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>113446</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Tepper, Morris</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="1">
+                <name>Tepper, Morris</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v25/persons#p_TM8</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="1">
+        <remark source-urls="1">
+            <p>Chairman, Director of Meteorological Systems, National Aeronautics and Space Administration</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v25/persons#p_TM8</source-url>
+        </remark>
+    </remarks>
+</person>

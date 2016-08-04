@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>109262</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Mohammad Daoud, Sardar</name>
+        </preferred>
+        <alternates/>
+        <originals variants="6">
+            <original source-urls="2">
+                <name>Daud, Sardar Mohammad Khan</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v11p1/persons#p_DSMK1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v11p2/persons#p_DSMK1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Daud, Mohammed</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v08/persons#p_DM1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Daoud, Sarder Mohammed</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v15/persons#p_DSM1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Daud, Sarder Mohammed</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v19/persons#p_DSM1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Daoud, Mohammad</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve08/persons#p_DM6</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Daoud Khan, Mohammed</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v06/persons#p_DKM_1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="5">
+        <remark source-urls="2">
+            <p>Afghan Minister of National Defense until September 20, 1953; thereafter, Prime Minister.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v11p1/persons#p_DSMK1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v11p2/persons#p_DSMK1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Prime Minister of Afghanistan</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v08/persons#p_DM1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v15/persons#p_DSM1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Prime Minister of Afghanistan until March 1963</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v19/persons#p_DSM1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>President of the Republic of Afghanistan and Prime Minister, Minister of Foreign Affairs, Minister of Defense from 1973 to 1978</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve08/persons#p_DM6</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>President of Afghanistan until April 1978</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v06/persons#p_DKM_1</source-url>
+        </remark>
+    </remarks>
+</person>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>105072</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Gough, Betty Catherine</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="1">
+                <name>Gough, Betty C.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v11/persons#p_GBC1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Gough, Betty, Chief</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v05/persons#p_GBC1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Gough, Betty Catherine</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve03/persons#p_GBC1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="1">
+            <title source-urls="1">
+                <name>Chief</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v05/persons#p_GBC1</source-url>
+            </title>
+        </titles-from-name>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="3">
+        <remark source-urls="1">
+            <p>Foreign Affairs Officer in the Office of United Nations Political and Security Affairs, Bureau of International Affairs, Department of State; temporarily attached to the Mission at the United Nations during sessions of the General Assembly</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v11/persons#p_GBC1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Human Resources Affairs Division, Office of International Economic and Social Affairs, Bureau of International Organization Affairs, Department of State</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v05/persons#p_GBC1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Political Officer, United States Mission to the United Nations (Geneva)</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve03/persons#p_GBC1</source-url>
+        </remark>
+    </remarks>
+</person>

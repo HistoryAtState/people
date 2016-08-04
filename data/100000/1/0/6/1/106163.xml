@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>106163</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Hoveyda, Amir Abbas</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="5">
+                <name>Hoveyda, Amir Abbas</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v22/persons#p_HAA1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v34/persons#p_HAA1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v27/persons#p_HAA_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v36/persons#p_HAA2</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve04/persons#p_HAA1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Hoveyda, Amir-Abbas</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v25/persons#p_HAA_1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Prime Minister Amir Abbas Hoveyda</name>
+                <source-url>https://history.state.gov/departmenthistory/visits/iran</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="5">
+        <remark source-urls="1">
+            <p>Iranian Minister of Finance March 1964–January 1965; thereafter, Prime Minister</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v22/persons#p_HAA1</source-url>
+        </remark>
+        <remark source-urls="3">
+            <p>Prime Minister of Iran</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v34/persons#p_HAA1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v25/persons#p_HAA_1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve04/persons#p_HAA1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Iranian Prime Minister until August 1977</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v27/persons#p_HAA_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Iranian Prime Minister</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v36/persons#p_HAA2</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Prime Minister, Iran. Visited U.S. once, 1968</p>
+            <source-url>https://history.state.gov/departmenthistory/visits/iran</source-url>
+        </remark>
+    </remarks>
+</person>

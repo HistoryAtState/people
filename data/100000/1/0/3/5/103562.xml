@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>103562</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Dolibois, John Ernest</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="1">
+                <name>Dolibois, John Ernest</name>
+                <source-url>https://history.state.gov/departmenthistory/people/dolibois-john-ernest</source-url>
+            </original>
+            <original source-urls="1">
+                <name>John E. Dolibois</name>
+                <source-url>https://history.state.gov/departmenthistory/people/dolibois-john-ernest</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1918</birth-year>
+    <death-year>2014</death-year>
+    <remarks variants="1">
+        <remark source-urls="1">
+            <p>Non-career appointee. Ambassador Extraordinary and Plenipotentiary (Luxembourg).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/dolibois-john-ernest</source-url>
+        </remark>
+    </remarks>
+</person>

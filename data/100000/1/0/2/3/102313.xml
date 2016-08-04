@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>102313</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Cater, S. Douglass, Jr.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="4">
+            <original source-urls="4">
+                <name>Cater, S. Douglass</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v01/persons#p_CSD1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v02/persons#p_CSD1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v03/persons#p_CSD1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v33/persons#p_CSDJ1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Cater, Douglass</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v34/persons#p_CSDJ1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Cater, S. Douglass Jr.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v31/persons#p_CSDJ1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Cater, S. Douglass, Jr.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v32/persons#p_CSDJ1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="5">
+        <remark source-urls="1">
+            <p>President's Special Assistant</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v01/persons#p_CSD1</source-url>
+        </remark>
+        <remark source-urls="3">
+            <p>Special Assistant to the President</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v02/persons#p_CSD1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v03/persons#p_CSD1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v34/persons#p_CSDJ1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Special Assistant to the President May 8, 1964–October 1968</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v33/persons#p_CSDJ1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Special Assistant to the President July 1965–October 1968</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v31/persons#p_CSDJ1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Special Assistant to the President, May 1964–October 1968</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v32/persons#p_CSDJ1</source-url>
+        </remark>
+    </remarks>
+</person>

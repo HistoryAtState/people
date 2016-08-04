@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>111773</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Ryan, Robert J., Jr.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="2">
+                <name>Ryan, Robert J., Jr.</name>
+                <source-url>https://history.state.gov/departmenthistory/people/ryan-robert-j</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1981-88v13/persons#p_RRJ_1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1939</birth-year>
+    <death-year/>
+    <remarks variants="2">
+        <remark source-urls="1">
+            <p>Foreign Service Officer. Ambassador Extraordinary and Plenipotentiary (Mali).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/ryan-robert-j</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Director, Office of Regional Economic Policy, Bureau of Inter-American Affairs, Department of State from August 1981 until March 1984</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1981-88v13/persons#p_RRJ_1</source-url>
+        </remark>
+    </remarks>
+</person>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>112486</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Silvercruys, Robert</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="3">
+                <name>Silvercruys, Baron Robert</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1947v02/persons#p_SBR1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v05p1/persons#p_SILVERCRUYSBR1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v05p2/persons#p_SILVERCRUYSBR1</source-url>
+            </original>
+            <original source-urls="2">
+                <name>Silvercruys, Baron</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1948v02/persons#p_SB1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v14/persons#p_SB5</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Silvercruys, Baron (Robert Silvercruys)</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v03/persons#p_SILVERCRUYSBRS1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="1">
+            <title source-urls="6">
+                <name>Baron</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1947v02/persons#p_SBR1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1948v02/persons#p_SB1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v03/persons#p_SILVERCRUYSBRS1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v05p1/persons#p_SILVERCRUYSBR1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v05p2/persons#p_SILVERCRUYSBR1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v14/persons#p_SB5</source-url>
+            </title>
+        </titles-from-name>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="4">
+        <remark source-urls="2">
+            <p>Belgian Ambassador in the United States</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1947v02/persons#p_SBR1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1948v02/persons#p_SB1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Belgian Ambassador to the United States.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v03/persons#p_SILVERCRUYSBRS1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Belgian Ambassador in the United States after March 8, 1945.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v05p1/persons#p_SILVERCRUYSBR1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v05p2/persons#p_SILVERCRUYSBR1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Belgian Ambassador to the United States until August 1959</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v14/persons#p_SB5</source-url>
+        </remark>
+    </remarks>
+</person>

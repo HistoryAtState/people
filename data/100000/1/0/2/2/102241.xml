@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>102241</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Carson, James L.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="1">
+                <name>Carson, James L.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v02/persons#p_CJL1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Carson, James</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve10/persons#p_CJ1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="2">
+        <remark source-urls="1">
+            <p>Reports and Operations Staff, Executive Secretariat, Department of State, until October 1960</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v02/persons#p_CJL1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Director of Secretariat Staff, Executive Secretariat from August 1970 until February 1972</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve10/persons#p_CJ1</source-url>
+        </remark>
+    </remarks>
+</person>

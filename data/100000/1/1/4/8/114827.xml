@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>114827</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Wright, Robert B.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="3">
+                <name>Wright, Robert B.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v10/persons#p_WRB1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v09/persons#p_WRB2</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v16/persons#p_WRB_1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="3">
+        <remark source-urls="1">
+            <p>Chief, Economic Defense Division, Office of International Trade, Department of State</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v10/persons#p_WRB1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Director, Mutual Defense Control Staff, Bureau of Economic Affairs, Department of State, until June 1965; thereafter Director, Office of East-West Trade, Bureau of Economic Affairs</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v09/persons#p_WRB2</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Director of the Office of East-West Trade, Bureau of Economic and Business Affairs, Department of State</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v16/persons#p_WRB_1</source-url>
+        </remark>
+    </remarks>
+</person>

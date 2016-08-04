@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>113418</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Taylor, Rufus L.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="4">
+            <original source-urls="1">
+                <name>Taylor, Admiral Rufus</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v07/persons#p_TAR1</source-url>
+            </original>
+            <original source-urls="2">
+                <name>Taylor, Rufus L.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v11/persons#p_TRL2</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v19p1/persons#p_TRL1</source-url>
+            </original>
+            <original source-urls="4">
+                <name>Taylor, Vice Admiral Rufus L.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v19/persons#p_TVARL1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v31/persons#p_TVARL1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v33/persons#p_TRL2</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v06/persons#p_TVARL1</source-url>
+            </original>
+            <original source-urls="2">
+                <name>Taylor, Vice Adm. Rufus L.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v17/persons#p_TVARL1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve13/persons#p_TRL2</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="3">
+            <title source-urls="1">
+                <name>Admiral</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v07/persons#p_TAR1</source-url>
+            </title>
+            <title source-urls="4">
+                <name>Vice Admiral</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v19/persons#p_TVARL1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v31/persons#p_TVARL1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v33/persons#p_TRL2</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v06/persons#p_TVARL1</source-url>
+            </title>
+            <title source-urls="2">
+                <name>Vice Adm.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v17/persons#p_TVARL1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve13/persons#p_TRL2</source-url>
+            </title>
+        </titles-from-name>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="6">
+        <remark source-urls="1">
+            <p>Deputy Director, Central Intelligence Agency</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v07/persons#p_TAR1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Director, Naval Intelligence, 1963-1966; Deputy Director, Defense Intelligence Agency, 1966-1967; thereafter Deputy Director, Central Intelligence Agency</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v11/persons#p_TRL2</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>USN, Deputy Director of Central Intelligence</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v19/persons#p_TVARL1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>USN, Deputy Director of Central Intelligence from October 13, 1966</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v31/persons#p_TVARL1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v33/persons#p_TRL2</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>USN, Deputy Director of Central Intelligence until February 1, 1969</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v06/persons#p_TVARL1</source-url>
+        </remark>
+        <remark source-urls="3">
+            <p>Deputy Director of Central Intelligence until February 1, 1969</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v17/persons#p_TVARL1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v19p1/persons#p_TRL1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve13/persons#p_TRL2</source-url>
+        </remark>
+    </remarks>
+</person>

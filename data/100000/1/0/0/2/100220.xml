@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>100220</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Aleksandrov-Agentov, Andrei M.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="4">
+            <original source-urls="5">
+                <name>Aleksandrov-Agentov, Andrei M.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v14/persons#p_AAAM1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v33/persons#p_AAAM_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v38p1/persons#p_AAAM_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v38p2/persons#p_AAM_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v39/persons#p_AAAM1</source-url>
+            </original>
+            <original source-urls="2">
+                <name>Aleksandrov, Andrei M.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v15/persons#p_AAM_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v25/persons#p_AAM_1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Aleksandrov-Agentov, Andrei A.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v16/persons#p_AAA_1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Alexandrov-Agentov, Andrei M.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v40/persons#p_AAAM1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="7">
+        <remark source-urls="1">
+            <p>Member of the Secretariat of the General Secretary, Central Committee of the Communist Party of the Soviet Union (Brezhnev's foreign policy adviser)</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v14/persons#p_AAAM1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Assistant to Soviet General Secretary Brezhnev</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v15/persons#p_AAM_1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v33/persons#p_AAAM_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Member of the Secretariat of the General Secretary, Central Committee of the Communist Party of the Soviet Union (Brezhnev’s foreign policy adviser)</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v16/persons#p_AAA_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Assistant to General Secretary Brezhnev</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v25/persons#p_AAM_1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Assistant to Soviet General Secretary Brehznev</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v38p1/persons#p_AAAM_1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v38p2/persons#p_AAM_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>National Security Advisor to Soviet General Secretary Brezhnev from 1970</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v39/persons#p_AAAM1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Advisor (National Security) to the General Secretary (Brezhnev) of the Central Committee of the Communist Party of the Soviet Union</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v40/persons#p_AAAM1</source-url>
+        </remark>
+    </remarks>
+</person>

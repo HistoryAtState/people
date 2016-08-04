@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>109208</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Miruho, Jean</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="1">
+                <name>Miruho, Jean</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v23/persons#p_MJE_1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="1">
+        <remark source-urls="1">
+            <p>President of Kivu Province from June 11, 1960 until December 24, 1960 and from September 18, 1961 until May 10, 1962</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v23/persons#p_MJE_1</source-url>
+        </remark>
+    </remarks>
+</person>

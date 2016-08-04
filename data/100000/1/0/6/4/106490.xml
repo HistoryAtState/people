@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>106490</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Jacobs, Joseph Earle</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="3">
+                <name>Jacobs, Joseph Earle</name>
+                <source-url>https://history.state.gov/departmenthistory/people/jacobs-joseph-earle</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv02/persons#p_JJE1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1946v03/persons#p_JJE1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Joseph E. Jacobs</name>
+                <source-url>https://history.state.gov/departmenthistory/people/jacobs-joseph-earle</source-url>
+            </original>
+            <original source-urls="3">
+                <name>Jacobs, Joseph E.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v04p1/persons#p_JJE1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v04p2/persons#p_JJE1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v25/persons#p_JJE1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1893</birth-year>
+    <death-year>1971</death-year>
+    <remarks variants="5">
+        <remark source-urls="1">
+            <p>Foreign Service Officer. Ambassador Extraordinary and Plenipotentiary (Poland); Ambassador Extraordinary and Plenipotentiary (Czechoslovakia).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/jacobs-joseph-earle</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Chief of Mission in Albania.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv02/persons#p_JJE1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>United States Representative in Albania</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1946v03/persons#p_JJE1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Minister to Italy</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1951v04p1/persons#p_JJE1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1951v04p2/persons#p_JJE1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Ambassador to Poland, April 1, 1955-July 23, 1957</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v25/persons#p_JJE1</source-url>
+        </remark>
+    </remarks>
+</person>

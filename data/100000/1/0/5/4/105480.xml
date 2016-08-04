@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>105480</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Hancock, William</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="1">
+                <name>Hancock, William</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v13/persons#p_HW1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="1">
+        <remark source-urls="1">
+            <p>Office of the General Counsel, Department of the Air Force; detailed to the Department of State as Department of Defense Liaison during negotiations for Daharan Airfield</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v13/persons#p_HW1</source-url>
+        </remark>
+    </remarks>
+</person>

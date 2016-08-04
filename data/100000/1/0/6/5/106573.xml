@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>106573</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Jedrychowski, Stefan</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="3">
+                <name>Jedrychowski, Stefan</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv01/persons#p_JS1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v29/persons#p_JS1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v40/persons#p_JS1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="3">
+        <remark source-urls="1">
+            <p>Minister of Navigation and Foreign Trade in the Polish Provisional Government of National Unity.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv01/persons#p_JS1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Polish Foreign Minister</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v29/persons#p_JS1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Polish Foreign Minister until December 22, 1971</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v40/persons#p_JS1</source-url>
+        </remark>
+    </remarks>
+</person>

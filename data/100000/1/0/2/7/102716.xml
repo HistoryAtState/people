@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>102716</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Cole, Charles Woolsey</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="1">
+                <name>Cole, Charles W.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v31/persons#p_CCW1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Cole, Charles Woolsey</name>
+                <source-url>https://history.state.gov/departmenthistory/people/cole-charles-woolsey</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Charles W. Cole</name>
+                <source-url>https://history.state.gov/departmenthistory/people/cole-charles-woolsey</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1906</birth-year>
+    <death-year>1978</death-year>
+    <remarks variants="2">
+        <remark source-urls="1">
+            <p>Ambassador to Chile until September 27, 1964</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v31/persons#p_CCW1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Non-career appointee. Ambassador Extraordinary and Plenipotentiary (Chile).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/cole-charles-woolsey</source-url>
+        </remark>
+    </remarks>
+</person>

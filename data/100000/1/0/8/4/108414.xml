@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>108414</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Malinovsky, Rodion Yakovlevich</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="1">
+                <name>Malinovsky, Marshal of the Soviet Union Rodion</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv01/persons#p_MMSUR1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Malinovsky, Marshal Rodion Yakovlevich</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v09/persons#p_MMRY1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Malinovsky, Rodion Ya.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v05/persons#p_MRY1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="2">
+            <title source-urls="1">
+                <name>Marshal of the Soviet Union</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv01/persons#p_MMSUR1</source-url>
+            </title>
+            <title source-urls="1">
+                <name>Marshal</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v09/persons#p_MMRY1</source-url>
+            </title>
+        </titles-from-name>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="3">
+        <remark source-urls="1">
+            <p>Chairman, Soviet Element, Allied Control Commission for Rumania.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv01/persons#p_MMSUR1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Soviet Minister of Defense</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v09/persons#p_MMRY1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Marshal of the Soviet Union and Minister of Defense</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v05/persons#p_MRY1</source-url>
+        </remark>
+    </remarks>
+</person>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>100302</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Allen, Horace Newton</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="1">
+                <name>Allen, Horace Newton</name>
+                <source-url>https://history.state.gov/departmenthistory/people/allen-horace-newton</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Horace N. Allen</name>
+                <source-url>https://history.state.gov/departmenthistory/people/allen-horace-newton</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1858</birth-year>
+    <death-year>1932</death-year>
+    <remarks variants="1">
+        <remark source-urls="1">
+            <p>Non-career appointee. Minister Resident/Consul General (joseon-dynasty-1910); Envoy Extraordinary and Minister Plenipotentiary (joseon-dynasty-1910).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/allen-horace-newton</source-url>
+        </remark>
+    </remarks>
+</person>

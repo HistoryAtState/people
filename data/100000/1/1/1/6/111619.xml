@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>111619</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Rosenthal, Benjamin S.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="6">
+                <name>Rosenthal, Benjamin S.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v10/persons#p_RBS1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v26/persons#p_RBS_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v30/persons#p_RBS1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v08/persons#p_RBS_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v18/persons#p_RBS_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v21/persons#p_RBS_1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="4">
+        <remark source-urls="1">
+            <p>Democratic Representative from New York</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v10/persons#p_RBS1</source-url>
+        </remark>
+        <remark source-urls="3">
+            <p>member, U.S. House of Representatives (D-New York)</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v26/persons#p_RBS_1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v18/persons#p_RBS_1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v21/persons#p_RBS_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Democratic Congressman from New Jersey</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v30/persons#p_RBS1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>member, U.S. House of Representatives (D-New York) from 1961</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v08/persons#p_RBS_1</source-url>
+        </remark>
+    </remarks>
+</person>

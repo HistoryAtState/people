@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>101771</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Brondel, Georges</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="1">
+                <name>Brondel, Georges</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v36/persons#p_BG2</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="1">
+        <remark source-urls="1">
+            <p>Director for Oil and Gas, European Commission</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v36/persons#p_BG2</source-url>
+        </remark>
+    </remarks>
+</person>

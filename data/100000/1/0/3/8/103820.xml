@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>103820</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Eddleman, Clyde D.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="4">
+                <name>Eddleman, Major General Clyde D.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v09p1/persons#p_EMG1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v09p2/persons#p_EMG1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v15p1/persons#p_EMGCD1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v15p2/persons#p_EMGCD1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Eddleman, Lieutenant General Clyde D.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v12/persons#p_ELGCD1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Eddleman, General Clyde D.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v09/persons#p_EGCD1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="3">
+            <title source-urls="4">
+                <name>Major General</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v09p1/persons#p_EMG1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v09p2/persons#p_EMG1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v15p1/persons#p_EMGCD1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v15p2/persons#p_EMGCD1</source-url>
+            </title>
+            <title source-urls="1">
+                <name>Lieutenant General</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v12/persons#p_ELGCD1</source-url>
+            </title>
+            <title source-urls="1">
+                <name>General</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v09/persons#p_EGCD1</source-url>
+            </title>
+        </titles-from-name>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="4">
+        <remark source-urls="2">
+            <p>USA, Assistant Chief of Staff of the Army for Operations, 1953–1954.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v09p1/persons#p_EMG1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v09p2/persons#p_EMG1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>USA, Assistant Chief of Army Staff, G–3, Operations, 1952-1953.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v15p1/persons#p_EMGCD1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v15p2/persons#p_EMGCD1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>USA, Deputy Chief of Staff for Plans, October 10, 1955–January 3, 1956; thereafter Deputy Chief of Staff for Military Operations, Army Staff</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v12/persons#p_ELGCD1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Commander in Chief, U.S. Army, Europe, from April 1959</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v09/persons#p_EGCD1</source-url>
+        </remark>
+    </remarks>
+</person>

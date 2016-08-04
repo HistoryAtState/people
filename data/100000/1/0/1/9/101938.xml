@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>101938</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Burden, William Armistead Moale</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="2">
+                <name>Burden, William A.M.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v14/persons#p_BWAM1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v20/persons#p_WAMB1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Burden, William Armistead Moale</name>
+                <source-url>https://history.state.gov/departmenthistory/people/burden-william-armistead-moale</source-url>
+            </original>
+            <original source-urls="1">
+                <name>William A. M. Burden</name>
+                <source-url>https://history.state.gov/departmenthistory/people/burden-william-armistead-moale</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1906</birth-year>
+    <death-year>1984</death-year>
+    <remarks variants="3">
+        <remark source-urls="1">
+            <p>Ambassador to Belgium from October 1959</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v14/persons#p_BWAM1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Ambassador to Belgium until February 1961</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v20/persons#p_WAMB1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Non-career appointee. Ambassador Extraordinary and Plenipotentiary (Belgium).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/burden-william-armistead-moale</source-url>
+        </remark>
+    </remarks>
+</person>

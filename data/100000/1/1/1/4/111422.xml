@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>111422</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Rivkin, William Robert</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="1">
+                <name>Rivkin, William Robert</name>
+                <source-url>https://history.state.gov/departmenthistory/people/rivkin-william-robert</source-url>
+            </original>
+            <original source-urls="1">
+                <name>William R. Rivkin</name>
+                <source-url>https://history.state.gov/departmenthistory/people/rivkin-william-robert</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1919</birth-year>
+    <death-year>1967</death-year>
+    <remarks variants="1">
+        <remark source-urls="1">
+            <p>Non-career appointee. Ambassador Extraordinary and Plenipotentiary (Senegal); Ambassador Extraordinary and Plenipotentiary (Luxembourg); Ambassador Extraordinary and Plenipotentiary (Gambia, The).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/rivkin-william-robert</source-url>
+        </remark>
+    </remarks>
+</person>

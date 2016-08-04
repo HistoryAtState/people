@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>104490</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Francis, John Morgan</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="1">
+                <name>Francis, John Morgan</name>
+                <source-url>https://history.state.gov/departmenthistory/people/francis-john-morgan</source-url>
+            </original>
+            <original source-urls="1">
+                <name>John M. Francis</name>
+                <source-url>https://history.state.gov/departmenthistory/people/francis-john-morgan</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1823</birth-year>
+    <death-year>1897</death-year>
+    <remarks variants="1">
+        <remark source-urls="1">
+            <p>Non-career appointee. Chargé d'Affaires (Portugal); Minister Resident/Consul General (Portugal); Minister Resident (Greece); Envoy Extraordinary and Minister Plenipotentiary (Austria).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/francis-john-morgan</source-url>
+        </remark>
+    </remarks>
+</person>

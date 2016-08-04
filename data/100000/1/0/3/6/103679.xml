@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>103679</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Duckwitz, Georg Ferdinand</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="4">
+                <name>Duckwitz, Georg Ferdinand</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v08/persons#p_DGF1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v15/persons#p_DGF3</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v29/persons#p_DGF1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v40/persons#p_DGF1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Duckwitz, George Ferdinand</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v09/persons#p_DGF1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Duckwitz, Georg F.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v13/persons#p_DGF3</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="5">
+        <remark source-urls="2">
+            <p>Head of the Eastern Department, German Foreign Ministry</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v08/persons#p_DGF1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v09/persons#p_DGF1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>State Secretary in the German Foreign Ministry from 1967; German Representative to the trilateral offset negotiations</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v13/persons#p_DGF3</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>West German Ambassador to India until August 1965; then leader of the West German Delegation to the Offset Negotiations with Great Britain and the United States; First State Secretary (Political and Administrative Affairs) in the Foreign Office from October 1967</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v15/persons#p_DGF3</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>First State Secretary (Political and Administrative Affairs) in the West German Foreign Office until June 1970; lead FRG negotiator in talks with Poland</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v29/persons#p_DGF1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>First State Secretary (Political and Administrative Affairs) in the West German Foreign Office until May 31, 1970</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v40/persons#p_DGF1</source-url>
+        </remark>
+    </remarks>
+</person>

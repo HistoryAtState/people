@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>102994</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Crockett, William James</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="1">
+                <name>Crockett, William J.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v33/persons#p_CWJ1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Crockett, William James</name>
+                <source-url>https://history.state.gov/departmenthistory/people/crockett-william-james</source-url>
+            </original>
+            <original source-urls="1">
+                <name>William J. Crockett</name>
+                <source-url>https://history.state.gov/departmenthistory/people/crockett-william-james</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1914</birth-year>
+    <death-year>1999</death-year>
+    <remarks variants="2">
+        <remark source-urls="1">
+            <p>Deputy Under Secretary of State for Administration until January 28, 1967</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v33/persons#p_CWJ1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Foreign Service Officer. Deputy Under Secretary of State for Management; Assistant Secretary of State for Administration.</p>
+            <source-url>https://history.state.gov/departmenthistory/people/crockett-william-james</source-url>
+        </remark>
+    </remarks>
+</person>

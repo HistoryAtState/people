@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>110685</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Philip, Hoffman</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="3">
+                <name>Philip, Hoffman</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1915Supp/persons#p_PH1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1916Supp/persons#p_PH1</source-url>
+                <source-url>https://history.state.gov/departmenthistory/people/philip-hoffman</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1872</birth-year>
+    <death-year>1951</death-year>
+    <remarks variants="3">
+        <remark source-urls="1">
+            <p>United States Secretary of Embassy at Constantinople.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1915Supp/persons#p_PH1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>U. S. Counselor of Embassy at Constantinople.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1916Supp/persons#p_PH1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Foreign Service Officer. Envoy Extraordinary and Minister Plenipotentiary (Uruguay); Envoy Extraordinary and Minister Plenipotentiary (Norway); Envoy Extraordinary and Minister Plenipotentiary (Iran); Minister Resident/Consul General (Ethiopia); Envoy Extraordinary and Minister Plenipotentiary (Colombia); Ambassador Extraordinary and Plenipotentiary (Chile).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/philip-hoffman</source-url>
+        </remark>
+    </remarks>
+</person>

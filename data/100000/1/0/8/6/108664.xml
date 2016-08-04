@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>108664</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Matthews, Francis Patrick</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="5">
+                <name>Matthews, Francis P.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945-50Intel/persons#p_MFP1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v04p1/persons#p_MFP1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v04p2/persons#p_MFP1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v06p1/persons#p_MATTHEWSFP1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v06p2/persons#p_MATTHEWSFP1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Matthews, Francis Patrick</name>
+                <source-url>https://history.state.gov/departmenthistory/people/matthews-francis-patrick</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Francis P. Matthews</name>
+                <source-url>https://history.state.gov/departmenthistory/people/matthews-francis-patrick</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1887</birth-year>
+    <death-year>1952</death-year>
+    <remarks variants="4">
+        <remark source-urls="1">
+            <p>Secretary of the Navy from May 25, 1949</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1945-50Intel/persons#p_MFP1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Ambassador to Ireland</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1951v04p1/persons#p_MFP1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1951v04p2/persons#p_MFP1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Ambassador in Ireland, October 22, 1951–September 7, 1952.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v06p1/persons#p_MATTHEWSFP1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v06p2/persons#p_MATTHEWSFP1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Non-career appointee. Ambassador Extraordinary and Plenipotentiary (Ireland).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/matthews-francis-patrick</source-url>
+        </remark>
+    </remarks>
+</person>

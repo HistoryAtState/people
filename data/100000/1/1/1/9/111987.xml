@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>111987</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Saxbe, William Bart</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="4">
+                <name>Saxbe, William B.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v09/persons#p_SWB_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v38p1/persons#p_SWB_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v38p2/persons#p_SWB_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve08/persons#p_SWB2</source-url>
+            </original>
+            <original source-urls="2">
+                <name>Saxbe, William Bart</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve03/persons#p_SWB1</source-url>
+                <source-url>https://history.state.gov/departmenthistory/people/saxbe-william-bart</source-url>
+            </original>
+            <original source-urls="1">
+                <name>William B. Saxbe</name>
+                <source-url>https://history.state.gov/departmenthistory/people/saxbe-william-bart</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1916</birth-year>
+    <death-year>2010</death-year>
+    <remarks variants="6">
+        <remark source-urls="1">
+            <p>Republican Senator from Ohio</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v09/persons#p_SWB_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Senator (R–Ohio) until January 3, 1974; Attorney General of the United States from January 4, 1974, until February 1, 1975; thereafter U.S. Ambassador to India until November 1976</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v38p1/persons#p_SWB_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Senator (R–Ohio) until January 3, 1974; Attorney General, January 4, 1974–February 1, 1975; thereafter Ambassador to India until November 1976</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v38p2/persons#p_SWB_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>United States Attorney General from January 4, 1974 until February 2, 1975</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve03/persons#p_SWB1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>U.S. Ambassador to India from March 1975 to November 1976</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve08/persons#p_SWB2</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Non-career appointee. Ambassador Extraordinary and Plenipotentiary (India).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/saxbe-william-bart</source-url>
+        </remark>
+    </remarks>
+</person>

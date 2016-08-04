@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>100076</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Ackley, Hugh Gardner</name>
+        </preferred>
+        <alternates/>
+        <originals variants="5">
+            <original source-urls="2">
+                <name>Ackley, Gardner H.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v08/persons#p_AHG1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v09/persons#p_AHG1</source-url>
+            </original>
+            <original source-urls="3">
+                <name>Ackley, H. Gardner</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v12/persons#p_AHG1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v31/persons#p_AHG1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v29/persons#p_AHG1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Ackley, Gardner</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v29p2/persons#p_AHG1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Ackley, Hugh Gardner</name>
+                <source-url>https://history.state.gov/departmenthistory/people/ackley-hugh-gardner</source-url>
+            </original>
+            <original source-urls="1">
+                <name>H. Gardner Ackley</name>
+                <source-url>https://history.state.gov/departmenthistory/people/ackley-hugh-gardner</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1915</birth-year>
+    <death-year>1998</death-year>
+    <remarks variants="6">
+        <remark source-urls="2">
+            <p>Chairman, Council of Economic Advisers, from 1964</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v08/persons#p_AHG1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v09/persons#p_AHG1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Chairman of the Council of Economic Advisers, November 1964-March 1968; Ambassador to Italy from April 1968</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v12/persons#p_AHG1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Chairman, Council of Economic Advisers from 1965 to 1967</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v29p2/persons#p_AHG1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Chairman of the Council of Economic Advisers November 1964–March 1968</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v31/persons#p_AHG1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Ambassador to Italy until April 1969</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v29/persons#p_AHG1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Non-career appointee. Ambassador Extraordinary and Plenipotentiary (Italy).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/ackley-hugh-gardner</source-url>
+        </remark>
+    </remarks>
+</person>

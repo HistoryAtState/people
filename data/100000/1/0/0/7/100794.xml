@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>100794</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Bakkush, Abd al-Hamid</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="1">
+                <name>Bakkush, Abd al-Hamid</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v24/persons#p_BAH1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="1">
+        <remark source-urls="1">
+            <p>Prime Minister of Libya and Minister of Justice, October 1967–September 1968</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v24/persons#p_BAH1</source-url>
+        </remark>
+    </remarks>
+</person>

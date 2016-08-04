@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>100769</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Baird, James C., Jr.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="1">
+                <name>Baird, James C., Jr.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v22/persons#p_BJCJ1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="1">
+        <remark source-urls="1">
+            <p>Director of the Foreign Operations Administration (later International Cooperation Administration) mission in Indonesia from January 1956</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v22/persons#p_BJCJ1</source-url>
+        </remark>
+    </remarks>
+</person>

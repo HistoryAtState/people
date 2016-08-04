@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>103333</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Deltiel, Henri</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="1">
+                <name>Deltiel, Henri</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v16/persons#p_DHBG1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="1">
+        <remark source-urls="1">
+            <p>Brigadier General, Counselor to the French Delegation and Head of the French Union Military Delegation at the Geneva Conference; signer of the ceasefire agreements for Laos and the State of Vietnam at Geneva.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v16/persons#p_DHBG1</source-url>
+        </remark>
+    </remarks>
+</person>

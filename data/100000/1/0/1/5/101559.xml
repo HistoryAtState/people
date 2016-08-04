@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>101559</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Borg, Parker Webb</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="4">
+                <name>Borg, Parker W.</name>
+                <source-url>https://history.state.gov/departmenthistory/people/borg-parker-w</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v38p1/persons#p_BPW_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v38p2/persons#p_BPW_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve14p1/persons#p_BPW3</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Borg, Parker</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v16/persons#p_BP_1</source-url>
+            </original>
+            <original source-urls="2">
+                <name>Borg, Parker Webb</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve03/persons#p_BPW1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve11p2/persons#p_BPW_1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1939</birth-year>
+    <death-year/>
+    <remarks variants="7">
+        <remark source-urls="1">
+            <p>Foreign Service Officer. Ambassador Extraordinary and Plenipotentiary (Mali); Ambassador Extraordinary and Plenipotentiary (Iceland); Ambassador Extraordinary and Plenipotentiary (Burma).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/borg-parker-w</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Special Assistant to the Secretary of State</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v16/persons#p_BP_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>staff officer, Executive Secretariat, and Special Assistant to the Director General of the Foreign Service, Department of State until 1974; Special Assistant to the Secretary of State from 1974 until 1975</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v38p1/persons#p_BPW_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Staff Officer, Executive Secretariat, and Special Assistant to the Director of the Foreign Service, Department of State, until 1974; Special Assistant to the Secretary of State, 1974–1975</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v38p2/persons#p_BPW_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Special Assistant to the Director General of the Foreign Service, Department of State</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve03/persons#p_BPW1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Special Assistant to the Director of the Foreign Service until December 1974; Special Assistant to the Secretary of State from December 1974 until June 1976; Principal Officer, U.S. Consulate in Lubumbashi, from June 1976</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve11p2/persons#p_BPW_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Office of the Director General of the Foreign Service, Deputy Under Secretary of State for Management</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve14p1/persons#p_BPW3</source-url>
+        </remark>
+    </remarks>
+</person>

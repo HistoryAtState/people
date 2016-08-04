@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>103952</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Eltz, Regina M.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="3">
+                <name>Eltz, Regina M.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve10/persons#p_ERM1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve11p2/persons#p_ERM_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve14p1/persons#p_ERM1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="3">
+        <remark source-urls="1">
+            <p>International Relations Officer, Nicaraguan Affairs, Bureau of Inter-American Affairs, from 1968 until 1970; Political Officer, U.S. Embassy in Tegucigalpa from 1970 until 1973</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve10/persons#p_ERM1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Office of Brazilian Affairs, Bureau of Inter-American Affairs, Department of State, from September 1973</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve11p2/persons#p_ERM_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Operations Center, Executive Secretariat, Department of State</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve14p1/persons#p_ERM1</source-url>
+        </remark>
+    </remarks>
+</person>

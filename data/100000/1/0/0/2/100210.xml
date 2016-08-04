@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>100210</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Albright, Madeleine Korbel</name>
+        </preferred>
+        <alternates/>
+        <originals variants="5">
+            <original source-urls="3">
+                <name>Albright, Madeleine Korbel</name>
+                <source-url>https://history.state.gov/departmenthistory/people/albright-madeleine-korbel</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v20/persons#p_AM_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v28/persons#p_AM_1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Madeleine K. Albright</name>
+                <source-url>https://history.state.gov/departmenthistory/people/albright-madeleine-korbel</source-url>
+            </original>
+            <original source-urls="3">
+                <name>Albright, Madeleine</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v02/persons#p_AM_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v03/persons#p_AM_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v13/persons#p_AM_1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Albright, Madeline</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v06/persons#p_ALM_1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Albright, Madeleine K.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v21/persons#p_AMK_1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1937</birth-year>
+    <death-year/>
+    <remarks variants="8">
+        <remark source-urls="1">
+            <p>Non-career appointee. Secretary of State; Representative of the U.S.A. to the United Nations.</p>
+            <source-url>https://history.state.gov/departmenthistory/people/albright-madeleine-korbel</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Congressional Relations Officer, National Security Council Staff, from March 1978 until January 1981</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v02/persons#p_AM_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Congressional Relations Officer, Press and Congressional Liaison Office, National Security Council, from March 1978</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v03/persons#p_AM_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Congressional Relations Officer, Press and Congressional Liaison Office, National Security Council from March 1978</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v06/persons#p_ALM_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Congressional Relations Officer, Press and Congressional Liaison Office, National Security Council from 1978 until 1981</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v13/persons#p_AM_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Congressional Relations Officer, Press and Congressional Liaison Office, National Security Council, from March 1978 until January 1981</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v20/persons#p_AM_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Congressional Relations Officer, Press and Congressional Liaison Office, National Security Council Staff, from March 1978 until January 1981</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v21/persons#p_AMK_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Congressional Relations Officer, National Security Council Staff from March 1978 until January 1981</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v28/persons#p_AM_1</source-url>
+        </remark>
+    </remarks>
+</person>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>111064</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Quo T’ai-ch’i</name>
+        </preferred>
+        <alternates>
+            <name>Quo Tai-chi</name>
+        </alternates>
+        <originals variants="3">
+            <original source-urls="1">
+                <name>Quo T’ai-ch’i</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv01/persons#p_QT1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Quo Tai-chi</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1946v03/persons#p_QTC1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Tai-chi</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1946v03/persons#p_TC2</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="3">
+        <remark source-urls="1">
+            <p>Chinese Minister of Foreign Affairs, April–December 1941.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv01/persons#p_QT1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Member of the Chinese Delegation; Chinese Representative at the United Nations Security Council</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1946v03/persons#p_QTC1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>See Quo Tai-chi.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1946v03/persons#p_TC2</source-url>
+        </remark>
+    </remarks>
+</person>

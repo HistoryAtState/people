@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>115594</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Heikal, Mohamed Hasanayn</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="1">
+                <name>Heikal, Mohamed Hasanayn</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v23/persons#p_HMH_1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="1">
+        <remark source-urls="1">
+            <p>Editor and weekly columnist at Cairo daily newspaper, Al Ahram; adviser to Gamal Abdel Nasser and Anwar al-Sadat</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v23/persons#p_HMH_1</source-url>
+        </remark>
+    </remarks>
+</person>

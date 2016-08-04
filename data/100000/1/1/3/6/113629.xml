@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>113629</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Tombalbaye, Ngarta</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="1">
+                <name>Tombalbaye, Ngarta Francois</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v05/persons#p_TNF1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Tombalbaye, François (Ngarta)</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve06/persons#p_TFN1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>President Ngarta Francois Tombalbaye</name>
+                <source-url>https://history.state.gov/departmenthistory/visits/chad</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="3">
+        <remark source-urls="1">
+            <p>President of Chad</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v05/persons#p_TNF1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>President of Chad from 1960 to April 13, 1975; Prime Minister from 1959 to April 13, 1975</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve06/persons#p_TFN1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>President, Chad. Visited U.S. 2 times, 1968–1970</p>
+            <source-url>https://history.state.gov/departmenthistory/visits/chad</source-url>
+        </remark>
+    </remarks>
+</person>

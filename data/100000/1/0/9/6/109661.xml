@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>109661</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Nassiri, Nematollah</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="1">
+                <name>Nasiri, Colonel Nematollah</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v10/persons#p_NCN1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Nassiri (Nasseri), Nematollah</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v27/persons#p_NN_1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Nassiri (Nasseri), General Nematollah</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve04/persons#p_NNGN1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="2">
+            <title source-urls="1">
+                <name>Colonel</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v10/persons#p_NCN1</source-url>
+            </title>
+            <title source-urls="1">
+                <name>General</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve04/persons#p_NNGN1</source-url>
+            </title>
+        </titles-from-name>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="3">
+        <remark source-urls="1">
+            <p>Iranian Army; Commander of the Iranian Imperial Guard after 1954; responsible for delivering the Shah’s order of dismissal to Prime Minister Mosadeq on August 16, 1953, and subsequently for arresting Prime Minister Mosadeq.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v10/persons#p_NCN1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>General, Chief of SAVAK and Assistant to the Iranian Prime Minister</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v27/persons#p_NN_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Chief of SAVAK and Assistant to the Iranian Prime Minister</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve04/persons#p_NNGN1</source-url>
+        </remark>
+    </remarks>
+</person>

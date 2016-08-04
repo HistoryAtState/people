@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>113666</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Toussaint, Donald R.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="3">
+                <name>Toussaint, Donald R.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve14p1/persons#p_TDR1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v02/persons#p_TDR_1</source-url>
+                <source-url>https://history.state.gov/departmenthistory/people/toussaint-donald-r</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1927</birth-year>
+    <death-year>1986</death-year>
+    <remarks variants="3">
+        <remark source-urls="1">
+            <p>Deputy Assistant Secretary of State for International Organization Affairs</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve14p1/persons#p_TDR1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Senior Deputy Assistant Secretary of State for International Organization Affairs until 1977; Deputy Coordinator, U.S. Conference on Science and Technology for Development, Office of the Under Secretary of State for Security Assistance, Science, and Technology, from 1977 until 1978; Deputy Chief of Mission, U.S. Embassy in Manila, 1978; Ambassador to Sri Lanka and Maldives, from November 27, 1979</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v02/persons#p_TDR_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Foreign Service Officer. Ambassador Extraordinary and Plenipotentiary (Sri Lanka); Ambassador Extraordinary and Plenipotentiary (Maldives).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/toussaint-donald-r</source-url>
+        </remark>
+    </remarks>
+</person>

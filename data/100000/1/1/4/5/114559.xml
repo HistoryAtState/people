@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>114559</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Wierblowski, Stefan</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="3">
+                <name>Wierblowski, Stefan</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1946v03/persons#p_WS1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1947v02/persons#p_WS1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1948v02/persons#p_WS1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="3">
+        <remark source-urls="1">
+            <p>Assistant Chief of the Polish Delegation</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1946v03/persons#p_WS1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Polish Ambassador in Czechoslovakia</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1947v02/persons#p_WS1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Secretary General of the Polish Ministry for Foreign Affairs from March 1948</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1948v02/persons#p_WS1</source-url>
+        </remark>
+    </remarks>
+</person>

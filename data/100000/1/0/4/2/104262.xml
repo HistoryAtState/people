@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>104262</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Fina, Thomas W.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="1">
+                <name>Fina, Thomas W.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v13/persons#p_FTW1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="1">
+        <remark source-urls="1">
+            <p>Officer in Charge of European Integration, Department of State, September 1965–August 1968</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v13/persons#p_FTW1</source-url>
+        </remark>
+    </remarks>
+</person>

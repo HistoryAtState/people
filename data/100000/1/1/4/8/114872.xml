@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>114872</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Yang You Chan</name>
+        </preferred>
+        <alternates/>
+        <originals variants="6">
+            <original source-urls="2">
+                <name>You Chang Yang</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v15p1/persons#p_YCY1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v15p2/persons#p_YCY1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>You Chan Yang</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v16/persons#p_YCY1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>You, Chan Yang, Dr.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v23p2/persons#p_YCYD1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Yang, Dr.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v23p2/persons#p_YD1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Yang, Dr. You Chan</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v02/persons#p_YYC1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Yang, You Chan</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v18/persons#p_YYC1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="1">
+            <title source-urls="3">
+                <name>Dr.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v23p2/persons#p_YCYD1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v23p2/persons#p_YD1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v02/persons#p_YYC1</source-url>
+            </title>
+        </titles-from-name>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="6">
+        <remark source-urls="2">
+            <p>Ambassador of the Republic of Korea in the United States.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v15p1/persons#p_YCY1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v15p2/persons#p_YCY1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Ambassador of the Republic of Korea in the United States; Member of the R.O.K. Delegation at the Geneva Conference on Korea.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v16/persons#p_YCY1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Korean Ambassador to the United States</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v23p2/persons#p_YCYD1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>see You Chan Yang, Dr.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v23p2/persons#p_YD1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Korean Ambassador to the United States until spring 1960</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v02/persons#p_YYC1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Ambassador of the Republic of Korea to the United States until May 1960</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v18/persons#p_YYC1</source-url>
+        </remark>
+    </remarks>
+</person>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>109318</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Monzón, Elfego</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="1">
+                <name>Monzón, Colonel Elfego</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54Guat/persons#p_MCE1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="1">
+            <title source-urls="1">
+                <name>Colonel</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54Guat/persons#p_MCE1</source-url>
+            </title>
+        </titles-from-name>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="1">
+        <remark source-urls="1">
+            <p>member of military junta of Guatemala June 28-29, July 3-September 1, 1954; leader of military junta June 29-July 3, 1954</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54Guat/persons#p_MCE1</source-url>
+        </remark>
+    </remarks>
+</person>

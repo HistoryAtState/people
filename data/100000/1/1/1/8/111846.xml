@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>111846</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Salisbury, Robert Gascoyne-Cecil</name>
+        </preferred>
+        <alternates/>
+        <originals variants="7">
+            <original source-urls="1">
+                <name>Cranborne, Viscount</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv01/persons#p_CV2</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Cranborne</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945v01/persons#p_CB1</source-url>
+            </original>
+            <original source-urls="2">
+                <name>Salisbury, Lord (Robert A. J. G. Cecil)</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v05p1/persons#p_SALISBURYLRAJGC1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v05p2/persons#p_SALISBURYLRAJGC1</source-url>
+            </original>
+            <original source-urls="5">
+                <name>Salisbury, Lord (Robert A.J.G. Cecil)</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v06p1/persons#p_SALISBURYLRAJGC1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v06p2/persons#p_SALISBURYLRAJGC1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v07p1/persons#p_SLRAJGC1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v07p2/persons#p_SLRAJGC1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v10/persons#p_SL1</source-url>
+            </original>
+            <original source-urls="2">
+                <name>Salisbury, Lord Robert A.J.G.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v09p1/persons#p_SLR1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v09p2/persons#p_SLR1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Salisbury, Lord (Cecil, Robert A.J.G.)</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v15p1/persons#p_SLCRAJG1</source-url>
+            </original>
+            <original source-urls="3">
+                <name>Salisbury, Lord</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v15p2/persons#p_SLCRAJG1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v16/persons#p_SL1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v17/persons#p_SL1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="2">
+            <title source-urls="2">
+                <name>Viscount</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv01/persons#p_CV2</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945v01/persons#p_CB1</source-url>
+            </title>
+            <title source-urls="13">
+                <name>Lord</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v05p1/persons#p_SALISBURYLRAJGC1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v05p2/persons#p_SALISBURYLRAJGC1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v06p1/persons#p_SALISBURYLRAJGC1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v06p2/persons#p_SALISBURYLRAJGC1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v07p1/persons#p_SLRAJGC1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v07p2/persons#p_SLRAJGC1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v09p1/persons#p_SLR1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v09p2/persons#p_SLR1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v10/persons#p_SL1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v15p1/persons#p_SLCRAJG1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v15p2/persons#p_SLCRAJG1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v16/persons#p_SL1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v17/persons#p_SL1</source-url>
+            </title>
+        </titles-from-name>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="8">
+        <remark source-urls="1">
+            <p>British Secretary of State for the Colonies, February–November 1942.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv01/persons#p_CV2</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>The Viscount, Secretary of State for Dominion Affairs; British Delegate.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1945v01/persons#p_CB1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>British Secretary of State for Commonwealth Relations from 1952; Acting Foreign Secretary, June–October, 1953.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v05p1/persons#p_SALISBURYLRAJGC1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v05p2/persons#p_SALISBURYLRAJGC1</source-url>
+        </remark>
+        <remark source-urls="4">
+            <p>British Secretary of State for Commonwealth Relations, March–December 1952; Acting Secretary of State for Foreign Affairs, June–October 1953.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v06p1/persons#p_SALISBURYLRAJGC1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v06p2/persons#p_SALISBURYLRAJGC1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v10/persons#p_SL1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v15p1/persons#p_SLCRAJG1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Acting British Secretary of State for Foreign Affairs, June–October 1953.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v07p1/persons#p_SLRAJGC1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v07p2/persons#p_SLRAJGC1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>British Lord President to the Privy Council from 1952; Leader of the House of Lords; Lord Privy Seal, 1952; Secretary of State for Commonwealth Relations, 1952; Acting Secretary of State for Foreign Affairs, June–October 1953.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v09p1/persons#p_SLR1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v09p2/persons#p_SLR1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>(Cecil, Robert A.J.G.), British Secretary of State for Commonwealth Relations, March-December 1952; Acting Secretary of State for Foreign Affairs, June-October 1953.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v15p2/persons#p_SLCRAJG1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Leader of the British House of Lords</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v16/persons#p_SL1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v17/persons#p_SL1</source-url>
+        </remark>
+    </remarks>
+</person>

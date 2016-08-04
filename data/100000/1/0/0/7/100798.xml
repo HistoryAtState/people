@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>100798</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Balaguer Ricardo, Joaquín Videla</name>
+        </preferred>
+        <alternates/>
+        <originals variants="6">
+            <original source-urls="1">
+                <name>President Joaquin Videla Balaguer</name>
+                <source-url>https://history.state.gov/departmenthistory/visits/dominican-republic</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Balaguer, Joaquin</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v12/persons#p_BJV1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Balaguer, Joaquín Videla</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v31/persons#p_BJV1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Balaguer, JoaquÍn</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v32/persons#p_BJ1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Balaguer Ricardo, Joaquín</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve10/persons#p_BRJ1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Balaguer Ricardo, Joaquín Videla</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve11p1/persons#p_BJ_1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="5">
+        <remark source-urls="1">
+            <p>President, Dominican Republic. Visited U.S. 3 times, 1977–1994</p>
+            <source-url>https://history.state.gov/departmenthistory/visits/dominican-republic</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>President of the Dominican Republic to January 1, 1962; President of the Council of State to January 16, 1962</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v12/persons#p_BJV1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>President of the Dominican Republic from July 1, 1966</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v31/persons#p_BJV1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v32/persons#p_BJ1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>President of the Dominican Republic from 1960 until 1962, from 1966 until 1978, and from 1986 until 1996</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve10/persons#p_BRJ1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>President of the Dominican Republic, from 1960 until 1962, and again from July 1, 1966</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve11p1/persons#p_BJ_1</source-url>
+        </remark>
+    </remarks>
+</person>

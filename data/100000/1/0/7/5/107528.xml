@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>107528</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Kyrou, Alexis</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="4">
+                <name>Kyrou, Alexis</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v05/persons#p_KA3</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v03/persons#p_KYROUA1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v11p1/persons#p_KA1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v11p2/persons#p_KA1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Kyrou, Alexios (Alexis)</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v08/persons#p_KAA1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="4">
+        <remark source-urls="1">
+            <p>Greek Representative at the United Nations.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1951v05/persons#p_KA3</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Permanent Representative of Greece to the United Nations until 1954; Chairman, Greek Delegation to the 8th Regular Session of the General Assembly; Representative, Chairman in absence of Foreign Minister, Greek Delegation to the 9th Regular Session of the General Assembly; Director General, Greek Ministry of Foreign Affairs, February 3–December 30, 1954.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v03/persons#p_KYROUA1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Greek Permanent Representative to the United Nations, 1947–1953; Director General of the Ministry of Foreign Affairs, 1954.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v08/persons#p_KAA1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Permanent Representative of Greece at the United Nations until 1954; Chairman of the Delegation to the Eighth Regular Session of the General Assembly, 1953; Representative, and also Chairman in the absence of the Foreign Minister of the Delegation to the Ninth Regular Session of the General Assembly, 1954; Director General of the Ministry of Foreign Affairs, February 3–December 30, 1954.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v11p1/persons#p_KA1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v11p2/persons#p_KA1</source-url>
+        </remark>
+    </remarks>
+</person>

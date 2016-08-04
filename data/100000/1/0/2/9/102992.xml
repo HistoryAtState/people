@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>102992</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Crocker, Ryan Clark</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="1">
+                <name>Crocker, Ryan C.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v27/persons#p_CRC_1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Crocker, Ryan Clark</name>
+                <source-url>https://history.state.gov/departmenthistory/people/crocker-ryan-clark</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Ryan C. Crocker</name>
+                <source-url>https://history.state.gov/departmenthistory/people/crocker-ryan-clark</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1949</birth-year>
+    <death-year/>
+    <remarks variants="2">
+        <remark source-urls="1">
+            <p>Vice Consul in Khorramshahr, Iran</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v27/persons#p_CRC_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Foreign Service Officer. Career Ambassador; Ambassador Extraordinary and Plenipotentiary (Syria); Ambassador Extraordinary and Plenipotentiary (Pakistan); Ambassador Extraordinary and Plenipotentiary (Lebanon); Ambassador Extraordinary and Plenipotentiary (Kuwait); Ambassador Extraordinary and Plenipotentiary (Iraq); Chargé d'Affaires ad interim (Afghanistan); Ambassador Extraordinary and Plenipotentiary (Afghanistan).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/crocker-ryan-clark</source-url>
+        </remark>
+    </remarks>
+</person>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>114930</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Yoshida, Taroichi</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="1">
+                <name>Yoshida, Taroichi</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v37/persons#p_YT_3</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="1">
+        <remark source-urls="1">
+            <p>Japanese Vice-Minister of Finance</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v37/persons#p_YT_3</source-url>
+        </remark>
+    </remarks>
+</person>

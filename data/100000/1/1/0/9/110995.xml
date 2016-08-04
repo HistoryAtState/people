@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>110995</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Pryce, William T.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="2">
+                <name>Pryce, William T.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v31/persons#p_PWT1</source-url>
+                <source-url>https://history.state.gov/departmenthistory/people/pryce-william-t</source-url>
+            </original>
+            <original source-urls="1">
+                <name>William Thornton Pryce</name>
+                <source-url>https://history.state.gov/departmenthistory/people/pryce-william-t</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1932</birth-year>
+    <death-year>2006</death-year>
+    <remarks variants="2">
+        <remark source-urls="1">
+            <p>staff assistant to the Assistant Secretary of State for Inter-American Affairs January 1964–April 1965</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v31/persons#p_PWT1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Foreign Service Officer. Ambassador Extraordinary and Plenipotentiary (Honduras).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/pryce-william-t</source-url>
+        </remark>
+    </remarks>
+</person>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>110007</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Ockrent, Roger A.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="1">
+                <name>Ockrent, Roger A.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v34/persons#p_ORA1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="1">
+        <remark source-urls="1">
+            <p>head of the Belgian Delegation to the Organization for Economic Cooperation and Development</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v34/persons#p_ORA1</source-url>
+        </remark>
+    </remarks>
+</person>

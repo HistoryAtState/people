@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>111924</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Sapena Pastor, Raúl</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="5">
+                <name>Sapena Pastor, Raúl</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v06/persons#p_SPR1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v07/persons#p_SPR1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v31/persons#p_SPR1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve10/persons#p_SPR1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve11p2/persons#p_SPR_1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Sapena Pastor, Raul</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v05/persons#p_SPR1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="5">
+        <remark source-urls="2">
+            <p>Paraguayan Minister of Foreign Affairs from June 1, 1956</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v06/persons#p_SPR1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v07/persons#p_SPR1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Paraguayan Foreign Minister</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v05/persons#p_SPR1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Foreign Minister of Paraguay</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v31/persons#p_SPR1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Paraguayan Minister of Foreign Relations from February 1969</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve10/persons#p_SPR1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Paraguayan Foreign Minister until March 8, 1976</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve11p2/persons#p_SPR_1</source-url>
+        </remark>
+    </remarks>
+</person>

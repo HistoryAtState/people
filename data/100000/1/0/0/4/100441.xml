@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>100441</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Anderson, Richard Clough</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="1">
+                <name>Anderson, Richard Clough</name>
+                <source-url>https://history.state.gov/departmenthistory/people/anderson-richard-clough</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Richard C. Anderson</name>
+                <source-url>https://history.state.gov/departmenthistory/people/anderson-richard-clough</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1788</birth-year>
+    <death-year>1826</death-year>
+    <remarks variants="1">
+        <remark source-urls="1">
+            <p>Non-career appointee. Minister Plenipotentiary (Colombia).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/anderson-richard-clough</source-url>
+        </remark>
+    </remarks>
+</person>

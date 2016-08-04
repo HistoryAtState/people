@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>106102</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Hoover, J. Edgar</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="11">
+                <name>Hoover, J. Edgar</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945-50Intel/persons#p_HJE1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1950-55Intel/persons#p_HJE1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v02p1/persons#p_HOOVERJE1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v02p2/persons#p_HOOVERJE1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v03/persons#p_HJE4</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v06/persons#p_HJE1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v07/persons#p_HJE1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v14/persons#p_HJE1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v32/persons#p_HJE1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v33/persons#p_HJE4</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v02/persons#p_HJE4</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="4">
+        <remark source-urls="6">
+            <p>Director, Federal Bureau of Investigation</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1945-50Intel/persons#p_HJE1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1950-55Intel/persons#p_HJE1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v03/persons#p_HJE4</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v06/persons#p_HJE1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v07/persons#p_HJE1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v32/persons#p_HJE1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Director of the Federal Bureau of Investigation.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v02p1/persons#p_HOOVERJE1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v02p2/persons#p_HOOVERJE1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Director of the Federal Bureau of Investigation</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v14/persons#p_HJE1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v33/persons#p_HJE4</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Director, Federal Bureau of Investigation until May 1972</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v02/persons#p_HJE4</source-url>
+        </remark>
+    </remarks>
+</person>

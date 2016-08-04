@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>110962</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Price, Raymond K., Jr.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="4">
+            <original source-urls="2">
+                <name>Price, Raymond</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v01/persons#p_PRKJ1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve01/persons#p_PRKJ1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Price, Raymond K.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v29/persons#p_PRK1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Price, Raymond Jr.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v07/persons#p_PR1</source-url>
+            </original>
+            <original source-urls="4">
+                <name>Price, Raymond K., Jr.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v13/persons#p_PRKJ1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v14/persons#p_PRKJ1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v38p1/persons#p_PRKJ_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v38p2/persons#p_PRK_1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="6">
+        <remark source-urls="3">
+            <p>Special Assistant to the President</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v01/persons#p_PRKJ1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v29/persons#p_PRK1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve01/persons#p_PRKJ1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Special Assistant to the President, Speechwriters Office</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v07/persons#p_PR1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Special Assistant to the President (Speechwriter’s Office)</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v13/persons#p_PRKJ1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Special Assistant to the President (Speechwriter's Office)</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v14/persons#p_PRKJ1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Special Consultant to the President from 1973 until 1974</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v38p1/persons#p_PRKJ_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Special Consultant to the President, 1973–1974</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v38p2/persons#p_PRK_1</source-url>
+        </remark>
+    </remarks>
+</person>

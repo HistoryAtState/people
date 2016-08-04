@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>114642</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Williamson, Larry C.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="2">
+                <name>Williamson, Larry C.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v02/persons#p_WLC2</source-url>
+                <source-url>https://history.state.gov/departmenthistory/people/williamson-larry-c</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1930</birth-year>
+    <death-year>2014</death-year>
+    <remarks variants="2">
+        <remark source-urls="1">
+            <p>Office of the Assistant Secretary of State for European Affairs, 1960</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v02/persons#p_WLC2</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Foreign Service Officer. Ambassador Extraordinary and Plenipotentiary (Sao Tome and Principe); Ambassador Extraordinary and Plenipotentiary (Gabon).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/williamson-larry-c</source-url>
+        </remark>
+    </remarks>
+</person>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>109192</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Miner, Robert Graham</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="3">
+                <name>Miner, Robert G.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v12/persons#p_MRG1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v17/persons#p_MRG1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v18/persons#p_MRG1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Miner, Robert Graham</name>
+                <source-url>https://history.state.gov/departmenthistory/people/miner-robert-graham</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Robert G. Miner</name>
+                <source-url>https://history.state.gov/departmenthistory/people/miner-robert-graham</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1911</birth-year>
+    <death-year>1990</death-year>
+    <remarks variants="3">
+        <remark source-urls="1">
+            <p>Director, Office of Greek, Turkish, and Iranian Affairs, Bureau of Near Eastern and South Asian Affairs, Department of State, from September 28, 1960</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v12/persons#p_MRG1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Director, Office of Greek, Turkish, and Iranian Affairs, Bureau of Near Eastern and South Asian Affairs, Department of State, until October 1962</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v17/persons#p_MRG1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v18/persons#p_MRG1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Foreign Service Officer. Ambassador Extraordinary and Plenipotentiary (Trinidad and Tobago); Ambassador Extraordinary and Plenipotentiary (Sierra Leone).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/miner-robert-graham</source-url>
+        </remark>
+    </remarks>
+</person>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>105472</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Hammer, Armand</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="4">
+                <name>Hammer, Armand</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v05/persons#p_HA1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v15/persons#p_HA_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v38p1/persons#p_HA_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v38p2/persons#p_HA_1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="4">
+        <remark source-urls="1">
+            <p>President of the Occidental Petroleum Corporation</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v05/persons#p_HA1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Chief Executive Officer, Occidental Petroleum Company</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v15/persons#p_HA_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>CEO, Occidental Petroleum</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v38p1/persons#p_HA_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>American industrialist and CEO of Occidental Petroleum</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v38p2/persons#p_HA_1</source-url>
+        </remark>
+    </remarks>
+</person>

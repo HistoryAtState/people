@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>103942</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Ellis, William A.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="1">
+                <name>Ellis, William A.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v02/persons#p_EWA2</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="1">
+        <remark source-urls="1">
+            <p>Director, Office of Development Planning, Bureau for the Far East Agency for International Development, from March 4, 1962</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v02/persons#p_EWA2</source-url>
+        </remark>
+    </remarks>
+</person>

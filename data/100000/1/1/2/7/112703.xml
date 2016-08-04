@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>112703</id>
+    <authorities>
+        <authority service="viaf">5723795</authority>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Soares, Mário Alberto Nobre Lopes</name>
+        </preferred>
+        <alternates/>
+        <originals variants="5">
+            <original source-urls="1">
+                <name>President Mario Alberto Lopes Soares</name>
+                <source-url>https://history.state.gov/departmenthistory/visits/portugal</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Prime Minister Mario Alberto Lopes Soares</name>
+                <source-url>https://history.state.gov/departmenthistory/visits/portugal</source-url>
+            </original>
+            <original source-urls="2">
+                <name>Soares, Mário Alberto Nobre Lopes</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v28/persons#p_SMA_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v30/persons#p_SM_1</source-url>
+            </original>
+            <original source-urls="2">
+                <name>Soares, Mário</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve06/persons#p_SM6</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve15p2/persons#p_SM_2</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Soares, Mario</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v03/persons#p_SM_1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="7">
+        <remark source-urls="1">
+            <p>President, Portugal. Visited U.S. 4 times, 1987–1993</p>
+            <source-url>https://history.state.gov/departmenthistory/visits/portugal</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Prime Minister, Portugal. Visited U.S. 2 times, 1977–1984</p>
+            <source-url>https://history.state.gov/departmenthistory/visits/portugal</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Portuguese Prime Minister from July 1976</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v28/persons#p_SMA_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>PortugueseForeign Minister from April 1974 to 1975; Prime Minister from July 1976 to August 1978</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve06/persons#p_SM6</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Portuguese Minister of Foreign Affairs from May 1974 until March 1975; Portuguese Prime Minister from July 1976 until August 1978</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve15p2/persons#p_SM_2</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Portuguese Prime Minister until August 1978</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v03/persons#p_SM_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Prime Minister of Portugal until August 1978</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v30/persons#p_SM_1</source-url>
+        </remark>
+    </remarks>
+</person>

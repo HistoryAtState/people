@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>109270</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Moi, Daniel T. arap</name>
+        </preferred>
+        <alternates/>
+        <originals variants="4">
+            <original source-urls="1">
+                <name>President Daniel T. arap Moi</name>
+                <source-url>https://history.state.gov/departmenthistory/visits/kenya</source-url>
+            </original>
+            <original source-urls="1">
+                <name>President Daniel arap Moi</name>
+                <source-url>https://history.state.gov/departmenthistory/visits/kenya</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Moi, Daniel arap</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve06/persons#p_MD3</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Moi, Daniel T. arap</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v18/persons#p_MD_1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="4">
+        <remark source-urls="1">
+            <p>President, Kenya. Visited U.S. once, 2002</p>
+            <source-url>https://history.state.gov/departmenthistory/visits/kenya</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>President, Kenya. Visited U.S. 3 times, 1980–1987</p>
+            <source-url>https://history.state.gov/departmenthistory/visits/kenya</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Vice President of Kenya from 1967 to 1978; President of Kenya from 1978 to 2002</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve06/persons#p_MD3</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>President of Kenya from 1978</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v18/persons#p_MD_1</source-url>
+        </remark>
+    </remarks>
+</person>

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>110402</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Parsons, Marselis C., Jr.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="2">
+                <name>Parsons, Marselis C., Jr.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v04/persons#p_PMCJ1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v10/persons#p_PMCJ1</source-url>
+            </original>
+            <original source-urls="3">
+                <name>Parsons, Marselis C, Jr.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v27/persons#p_PMCJ1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v07p1/persons#p_PMCJ1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v07p2/persons#p_PMCJ1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Parsons, Marselis C.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v13/persons#p_PMC1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="5">
+        <remark source-urls="1">
+            <p>Officer in Charge of Northern European Affairs, Office of British Commonwealth and Northern European Affairs, Department of State, until 1956; Deputy Director, Office of British Commonwealth and Northern European Affairs, January 1956–May 1956; Director thereafter</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v04/persons#p_PMCJ1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Officer in Charge of Northern European Affairs, Office of British Commonwealth and Northern European Affairs, Department of State, until 1956; Deputy Director of the Office, January-May 1956; thereafter Director</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v10/persons#p_PMCJ1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Officer in Charge of Northern European Affairs, Office of British Commonwealth and Northern European Affairs, Department of State, until 1956; Deputy Director, Office of British Commonwealth and Northern European Affairs, January 1956–May 1956; thereafter Director</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v27/persons#p_PMCJ1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Director, Office of British Commonwealth and Northern European Affairs, Department of State, until December 1958; Counselor of the Embassy in Denmark from September 1959</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v07p1/persons#p_PMCJ1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v07p2/persons#p_PMCJ1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Officer in Charge of Northern European Affairs, Office of British Commonwealth and Northern European Affairs, Department of State, until January 29, 1956; Deputy Director, January 29–May 6, 1956; thereafter Director</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v13/persons#p_PMC1</source-url>
+        </remark>
+    </remarks>
+</person>

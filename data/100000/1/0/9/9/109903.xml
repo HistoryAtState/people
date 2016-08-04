@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>109903</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Nolan, James Edward, Jr.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="1">
+                <name>Nolan, James Edward, Jr.</name>
+                <source-url>https://history.state.gov/departmenthistory/people/nolan-james-edward</source-url>
+            </original>
+            <original source-urls="1">
+                <name>James E. Nolan, Jr.</name>
+                <source-url>https://history.state.gov/departmenthistory/people/nolan-james-edward</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1931</birth-year>
+    <death-year/>
+    <remarks variants="1">
+        <remark source-urls="1">
+            <p>Non-career appointee. Director of the Office of Foreign Missions.</p>
+            <source-url>https://history.state.gov/departmenthistory/people/nolan-james-edward</source-url>
+        </remark>
+    </remarks>
+</person>

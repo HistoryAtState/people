@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>114709</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Winslow, L. Lanier</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="1">
+                <name>Winslow, L. Lanier</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1916Supp/persons#p_WLL1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="1">
+        <remark source-urls="1">
+            <p>U. S. Secretary of Embassy at Berlin.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1916Supp/persons#p_WLL1</source-url>
+        </remark>
+    </remarks>
+</person>

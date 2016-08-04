@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>113499</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Thoma, Wilhelm Hitter von</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="1">
+                <name>Thoma, Wilhelm Hitter von</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1943CairoTehran/persons#p_TWHv1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="1">
+        <remark source-urls="1">
+            <p>Lieutenant General, Commander, Twentieth Panzer Division, Reiehswehr, from October 1941; designated Acting Commander of the German Africa Corps (in the absence of the Commanding General), September 1942; captured by the British at El Alamein in early November 1942.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1943CairoTehran/persons#p_TWHv1</source-url>
+        </remark>
+    </remarks>
+</person>

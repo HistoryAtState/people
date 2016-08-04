@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>104069</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Eustis, James Biddle</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="1">
+                <name>Eustis, James Biddle</name>
+                <source-url>https://history.state.gov/departmenthistory/people/eustis-james-biddle</source-url>
+            </original>
+            <original source-urls="1">
+                <name>James B. Eustis</name>
+                <source-url>https://history.state.gov/departmenthistory/people/eustis-james-biddle</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1834</birth-year>
+    <death-year>1899</death-year>
+    <remarks variants="1">
+        <remark source-urls="1">
+            <p>Non-career appointee. Envoy Extraordinary and Minister Plenipotentiary (France); Ambassador Extraordinary and Plenipotentiary (France).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/eustis-james-biddle</source-url>
+        </remark>
+    </remarks>
+</person>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>107491</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Kukrit Pramoj</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="1">
+                <name>Khukrit</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve12/persons#p_khukrit_alt1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Kukrit Pramoj</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve12/persons#p_kukrit-pramoj</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="2">
+        <remark source-urls="1">
+            <p>see Kukrit Pramoj</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve12/persons#p_khukrit_alt1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Prime Minister of Thailand from March 14, 1975 until April 20, 1976</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve12/persons#p_kukrit-pramoj</source-url>
+        </remark>
+    </remarks>
+</person>

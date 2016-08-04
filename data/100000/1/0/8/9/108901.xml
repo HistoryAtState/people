@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>108901</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>McKillop, David H.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="4">
+                <name>McKillop, David H.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v01/persons#p_MKDH1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v12/persons#p_MKDH1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v13/persons#p_MKDH1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v23/persons#p_MDH_1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="4">
+        <remark source-urls="1">
+            <p>Foreign Affairs Officer in the Office of the Special Assistant to the Secretary of State for Atomic Energy Matters, August 1955–November 1956</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v01/persons#p_MKDH1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Director, Office of Western European Affairs, Bureau of European Affairs, Department of State, May 1964-June 1966; Country Director for Scandinavia, Iceland-Finland, June 1966-November 1968</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v12/persons#p_MKDH1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Director, Office of Western European Affairs, Bureau of European Affairs, Department of State, until June 1966</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v13/persons#p_MKDH1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Director, Office of Western European Affairs, Bureau of European Affairs, Department of State</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v23/persons#p_MDH_1</source-url>
+        </remark>
+    </remarks>
+</person>

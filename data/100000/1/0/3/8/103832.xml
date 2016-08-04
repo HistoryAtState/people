@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>103832</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Edgar, Donald</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="1">
+                <name>Edgar, Donald</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945-50Intel/persons#p_ED1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="1">
+        <remark source-urls="1">
+            <p>Chief, Interdepartmental Coordinating and Planning Staff, Central Intelligence Group and Central Intelligence Agency, July 1946-October 1947</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1945-50Intel/persons#p_ED1</source-url>
+        </remark>
+    </remarks>
+</person>

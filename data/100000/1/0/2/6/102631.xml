@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>102631</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Clausse, Jean Roger</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="1">
+                <name>Clausse, Jean Roger</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1914Supp/persons#p_CJR1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="1">
+        <remark source-urls="1">
+            <p>French Counselor of Embassy and Chargé d’Affaires at Washington.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1914Supp/persons#p_CJR1</source-url>
+        </remark>
+    </remarks>
+</person>

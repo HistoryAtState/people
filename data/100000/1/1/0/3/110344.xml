@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>110344</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Papadopoulos, George</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="1">
+                <name>Papadopoulos, Lieutenant Colonel George</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v16/persons#p_PLCG1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Papadopoulos, Lt. Col. George</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v29/persons#p_PLCG1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Papadopoulos, Col. George</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v30/persons#p_PCG1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="3">
+            <title source-urls="1">
+                <name>Lieutenant Colonel</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v16/persons#p_PLCG1</source-url>
+            </title>
+            <title source-urls="1">
+                <name>Lt. Col.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v29/persons#p_PLCG1</source-url>
+            </title>
+            <title source-urls="1">
+                <name>Col.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v30/persons#p_PCG1</source-url>
+            </title>
+        </titles-from-name>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="3">
+        <remark source-urls="1">
+            <p>organizer of the 1967 Greek military coup; Minister to the Greek Prime Minister, April–December 1967; Prime Minister from December 1967</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v16/persons#p_PLCG1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Greek Prime Minister and Defense Minister; also Foreign Minister from July 1970</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v29/persons#p_PLCG1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Greek Prime Minister until November 1973</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v30/persons#p_PCG1</source-url>
+        </remark>
+    </remarks>
+</person>

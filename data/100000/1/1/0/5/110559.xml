@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>110559</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Perez Zujovic, Edmundo</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="2">
+                <name>Perez Zujovic, Edmundo</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v21/persons#p_PZE_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve16/persons#p_PZE_1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="2">
+        <remark source-urls="1">
+            <p>Chilean Minister of Interior until 1970; assassinated June 8, 1971, by the Vanguardia Organizada Popular (VOP)</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v21/persons#p_PZE_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Chilean Minister of Interior until 1970; assassinated June 8, 1971, by the Vanguardia Organizada Popular (Organized Vanguard of the People)</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve16/persons#p_PZE_1</source-url>
+        </remark>
+    </remarks>
+</person>

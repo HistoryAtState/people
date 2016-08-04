@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>100729</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Bacon, Leonard L.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="5">
+                <name>Bacon, Leonard L.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v21/persons#p_BLL1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v16/persons#p_BLL1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v22/persons#p_BLL1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v29p2/persons#p_BLL1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v30/persons#p_BLL1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="5">
+        <remark source-urls="1">
+            <p>Counselor of the Embassy in Laos from April 1957</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v21/persons#p_BLL1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Counselor of the Embassy in Laos until May 1959; thereafter Deputy Director of the Office of Northeast Asian Affairs, Department of State</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v16/persons#p_BLL1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Deputy Director, Office of Northeast Asian Affairs (East Asian Affairs after December 1961), Bureau of Far Eastern Affairs, Department of State, until August 1963; thereafter Acting Director</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v22/persons#p_BLL1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Acting Director for East Asian Affairs, Bureau of Far Eastern Affairs from July 1964</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v29p2/persons#p_BLL1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Acting Director, Office of East Asian Affairs, Bureau of Far Eastern Affairs, Department of State, until July 1964</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v30/persons#p_BLL1</source-url>
+        </remark>
+    </remarks>
+</person>

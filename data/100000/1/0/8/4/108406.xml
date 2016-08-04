@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>108406</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Malik, Adam</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="1">
+                <name>Malik, Adnan</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v23/persons#p_MA1</source-url>
+            </original>
+            <original source-urls="7">
+                <name>Malik, Adam</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v26/persons#p_MA1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v05/persons#p_MA1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v06/persons#p_MA1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v17/persons#p_MA1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v18/persons#p_MA1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v20/persons#p_MA1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve13/persons#p_MA1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="7">
+        <remark source-urls="1">
+            <p>Indonesian Ambassador to the Soviet Union and Indonesian representative at the Netherlands-Indonesian talks at Middleburg, Virginia</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v23/persons#p_MA1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Indonesian Minister of Trade until March 31, 1965; Minister of Political Affairs in the Cabinet until March 1966; Interim Foreign Minister and Minister for Foreign Economic Relations until July 25, 1966; Vice President for Political Affairs Sector until November 11, 1967; thereafter Minister of Foreign Affairs</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v26/persons#p_MA1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Foreign Minister of Indonesia</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v05/persons#p_MA1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Indonesian Minister of Foreign Affairs</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v06/persons#p_MA1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Foreign Minister of Indonesia and President, United Nations General Assembly, 1971</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v17/persons#p_MA1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve13/persons#p_MA1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Indonesian Foreign Minister</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v18/persons#p_MA1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Indonesian Minister of Foreign Affairs and President, United Nations General Assembly, 1971</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v20/persons#p_MA1</source-url>
+        </remark>
+    </remarks>
+</person>

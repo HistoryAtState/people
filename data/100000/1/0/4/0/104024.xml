@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>104024</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Erler, Fritz</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="2">
+                <name>Erler, Fritz K.G.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v07p1/persons#p_EFKG1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v07p2/persons#p_EFKG1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Erler, Fritz</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v15/persons#p_EF4</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="2">
+        <remark source-urls="2">
+            <p>member of the Executive Committee of the Social Democratic Party and Bundestag member.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v07p1/persons#p_EFKG1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v07p2/persons#p_EFKG1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>SPD Deputy Chairman, February 1964–February 1967; also Chairman of the SPD Bundestag Fraction, March 1964– February 1967</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v15/persons#p_EF4</source-url>
+        </remark>
+    </remarks>
+</person>

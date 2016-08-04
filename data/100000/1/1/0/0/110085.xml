@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>110085</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Olszowski, Stefan</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="3">
+                <name>Olszowski, Stefan</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v16/persons#p_OS_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v39/persons#p_OS4</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve15p1/persons#p_OS4</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="3">
+        <remark source-urls="1">
+            <p>Polish Foreign Minister and Member of the Politburo of the Central Committee of the Polish United Workers’ (Communist) Party</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v16/persons#p_OS_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Minister of Foreign Affairs of Poland from December 22, 1971 to December 2, 1976</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v39/persons#p_OS4</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Minister of Foreign Affairs, Poland</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve15p1/persons#p_OS4</source-url>
+        </remark>
+    </remarks>
+</person>

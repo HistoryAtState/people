@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>100666</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Atwood, Rollin S.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="3">
+                <name>Atwood, Rollin S.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v04/persons#p_ARS1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v06/persons#p_ARS1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v07/persons#p_ARS1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="2">
+        <remark source-urls="1">
+            <p>Deputy Director, Office of South American Affairs, Department of State, from August 31, 1950; Director after November 11, 1951.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v04/persons#p_ARS1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Director, Office of South American Affairs, Bureau of Inter-American Affairs, Department of State, until October 10, 1955; Acting Regional Director for Latin American Operations, International Cooperation Administration, October 10, 1955-June 17, 1956; thereafter, Director</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v06/persons#p_ARS1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v07/persons#p_ARS1</source-url>
+        </remark>
+    </remarks>
+</person>

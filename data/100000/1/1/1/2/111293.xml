@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>111293</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Reston, James B. (“Scotty”)</name>
+        </preferred>
+        <alternates/>
+        <originals variants="7">
+            <original source-urls="5">
+                <name>Reston, James B.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1949v03/persons#p_RJB1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v02/persons#p_RJB1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v03/persons#p_RJB1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v04/persons#p_RJB1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v05/persons#p_RJB1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Reston, James</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v04/persons#p_RJ1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Reston, James “Scotty,”</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v09/persons#p_RJ_2</source-url>
+            </original>
+            <original source-urls="2">
+                <name>Reston, James B., “Scotty,”</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v13/persons#p_RJB1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v16/persons#p_RJB_1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Reston, James (“Scotty”)</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v25/persons#p_RJ_1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Reston, James (Scotty)</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v38p1/persons#p_RJ_1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Reston, James, “Scotty”</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v38p2/persons#p_RJ_1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="10">
+        <remark source-urls="1">
+            <p>Washington correspondent and columnist for the New York Times.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1949v03/persons#p_RJB1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>syndicated columnist</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v04/persons#p_RJ1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Associate Editor, New York Times</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v02/persons#p_RJB1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v03/persons#p_RJB1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>journalist and Associate Editor, The New York Times</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v04/persons#p_RJB1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v05/persons#p_RJB1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>journalist and syndicated columnist</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v09/persons#p_RJ_2</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Vice President of the New York Times</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v13/persons#p_RJB1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Vice President of The New York Times</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v16/persons#p_RJB_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>U.S. newspaper journalist</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v25/persons#p_RJ_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>syndicated columnist and Vice President of the New York Times</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v38p1/persons#p_RJ_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>syndicated columnist and Vice President of The New York Times</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v38p2/persons#p_RJ_1</source-url>
+        </remark>
+    </remarks>
+</person>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>105413</id>
+    <authorities>
+        <authority service="viaf">5182016</authority>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Halim, Sayyid Mustafa Ben</name>
+        </preferred>
+        <alternates/>
+        <originals variants="4">
+            <original source-urls="2">
+                <name>Halim, Sayyid Mustafa ben</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v11p1/persons#p_HSM1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v11p2/persons#p_HSM1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Ben Halim</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v12/persons#p_BH2</source-url>
+            </original>
+            <original source-urls="2">
+                <name>Halim, Sayyid Mustafa Ben</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v12/persons#p_HSMB1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v18/persons#p_HSMB1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Prime Minister Ben Halim</name>
+                <source-url>https://history.state.gov/departmenthistory/visits/libya</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="5">
+        <remark source-urls="2">
+            <p>Libyan Prime Minister and Minister of Communications from April 12, 1954.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v11p1/persons#p_HSM1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v11p2/persons#p_HSM1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>see Halim Sayyid Mustafa Ben</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v12/persons#p_BH2</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Libyan Prime Minister until May 26, 1957</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v12/persons#p_HSMB1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Libyan Prime Minister to May 1957</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v18/persons#p_HSMB1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Prime Minister, Libya. Visited U.S. once, 1954</p>
+            <source-url>https://history.state.gov/departmenthistory/visits/libya</source-url>
+        </remark>
+    </remarks>
+</person>

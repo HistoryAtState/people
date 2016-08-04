@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>103073</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Curzon, George Nathaniel</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="1">
+                <name>Curzon of Kedleston, George Nathaniel</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1943CairoTehran/persons#p_CoKGN1</source-url>
+            </original>
+            <original source-urls="2">
+                <name>Curzon of Kedleston, Marquess</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv01/persons#p_CKM1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945Malta/persons#p_C13</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Curzon, George Nathaniel</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv02/persons#p_C7</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="1">
+            <title source-urls="2">
+                <name>Marquess</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv01/persons#p_CKM1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945Malta/persons#p_C13</source-url>
+            </title>
+        </titles-from-name>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="3">
+        <remark source-urls="1">
+            <p>British Secretary of State for Foreign Affairs, 1919–24.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1943CairoTehran/persons#p_CoKGN1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>British Secretary of State for Foreign Affairs, 1919–1924.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv01/persons#p_CKM1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1945Malta/persons#p_C13</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>of Kedleston, Marquess, British Secretary of State for Foreign Affairs, 1919–1924.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv02/persons#p_C7</source-url>
+        </remark>
+    </remarks>
+</person>

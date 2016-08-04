@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>105216</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Grinevskiy, Oleg A.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="4">
+            <original source-urls="1">
+                <name>Grinevsky, Oleg A.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v14/persons#p_GOA1</source-url>
+            </original>
+            <original source-urls="2">
+                <name>Grinevskiy, O. A.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v32/persons#p_GOA1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve02/persons#p_GOA1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Grinevsky, Oleg</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v33/persons#p_GO_1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Grinevskiy, Oleg A.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve14p2/persons#p_GO_1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="5">
+        <remark source-urls="1">
+            <p>Deputy Chief of the International Organizations Department in the Soviet Ministry of Foreign Affairs</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v14/persons#p_GOA1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Deputy Chief, International Organizations Division, Soviet Ministry of Foreign Affairs; participant, U.S.-Soviet technical talks on peaceful nuclear explosions, April 1969; member, Soviet delegation to the Strategic Arms Limitation Talks</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v32/persons#p_GOA1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>member, Soviet SALT Delegation</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v33/persons#p_GO_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Deputy Chief, International Organizations Division, Soviet Ministry of Foreign Affairs; participant in U.S.-Soviet technical talks on peaceful nuclear explosions, April 1969; member Soviet SALT delegation from 1969</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve02/persons#p_GOA1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Deputy Chief, Middle East Division, Soviet Ministry of Foreign Affairs</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve14p2/persons#p_GO_1</source-url>
+        </remark>
+    </remarks>
+</person>

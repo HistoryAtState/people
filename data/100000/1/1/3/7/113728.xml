@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>113728</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Treverton, Gregory F.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="3">
+                <name>Treverton, Gregory F.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v02/persons#p_TGF_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v20/persons#p_TGF_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v21/persons#p_TGF_1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="3">
+        <remark source-urls="1">
+            <p>member, West Europe Cluster, National Security Council Staff, from January 1977 until August 1978</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v02/persons#p_TGF_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>member, National Security Council Staff for Western European Affairs from January 1977 until August 1978</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v20/persons#p_TGF_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>member, National Security Council Staff for West Europe Affairs from January 1977 until August 1978</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v21/persons#p_TGF_1</source-url>
+        </remark>
+    </remarks>
+</person>

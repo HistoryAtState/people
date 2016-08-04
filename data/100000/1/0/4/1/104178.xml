@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>104178</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Fazio, V. James</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="4">
+                <name>Fazio, V. James</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v02/persons#p_FVJ1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v17/persons#p_FVJ1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v40/persons#p_FVJ1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve13/persons#p_FVJ1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="3">
+        <remark source-urls="1">
+            <p>Member of the National Security Council Staff and Assistant Director of the White House Situation Room from 1970</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v02/persons#p_FVJ1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Assistant Director, White House Situation Room, 1971–1972</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v17/persons#p_FVJ1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve13/persons#p_FVJ1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>member of the National Security Council Staff from 1970 until 1971; then Assistant Director of the White House Situation Room until 1972</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v40/persons#p_FVJ1</source-url>
+        </remark>
+    </remarks>
+</person>

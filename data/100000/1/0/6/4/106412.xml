@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>106412</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Ioanes, Raymond A.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="3">
+                <name>Ioanes, Raymond A.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v17/persons#p_IRA1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v18/persons#p_IRA1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve10/persons#p_IRA1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="2">
+        <remark source-urls="2">
+            <p>Deputy Administrator, Foreign Agricultural Service, until April 14, 1962; thereafter Administrator</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v17/persons#p_IRA1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v18/persons#p_IRA1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Administrator, Foreign Agricultural Service, Department of Agriculture from January 1969</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve10/persons#p_IRA1</source-url>
+        </remark>
+    </remarks>
+</person>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>102511</id>
+    <authorities>
+        <authority service="viaf">264554392</authority>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Chissano, Joaquim Alberto</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="1">
+                <name>Chissano, Joaquim Alberto</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v28/persons#p_CJA_1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>President Joaquim Alberto Chissano</name>
+                <source-url>https://history.state.gov/departmenthistory/visits/mozambique</source-url>
+            </original>
+            <original source-urls="1">
+                <name>President Joaquim Chissano</name>
+                <source-url>https://history.state.gov/departmenthistory/visits/mozambique</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="3">
+        <remark source-urls="1">
+            <p>leader of FRELIMO; Mozambican Foreign Minister from 1975</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v28/persons#p_CJA_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>President, Mozambique. Visited U.S. once, 2002</p>
+            <source-url>https://history.state.gov/departmenthistory/visits/mozambique</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>President, Mozambique. Visited U.S. 5 times, 1987–2003</p>
+            <source-url>https://history.state.gov/departmenthistory/visits/mozambique</source-url>
+        </remark>
+    </remarks>
+</person>

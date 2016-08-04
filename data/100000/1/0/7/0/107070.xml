@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>107070</id>
+    <authorities>
+        <authority service="viaf">24390403</authority>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Key, John</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="1">
+                <name>Prime Minister John Key</name>
+                <source-url>https://history.state.gov/departmenthistory/visits/new-zealand</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="1">
+        <remark source-urls="1">
+            <p>Prime Minister, New Zealand. Visited U.S. 2 times, 2010–2011</p>
+            <source-url>https://history.state.gov/departmenthistory/visits/new-zealand</source-url>
+        </remark>
+    </remarks>
+</person>

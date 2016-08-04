@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>105574</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Harrington, Julian Fiske</name>
+        </preferred>
+        <alternates/>
+        <originals variants="4">
+            <original source-urls="4">
+                <name>Harrington, Julian F.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v14p1/persons#p_HJF1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v14p2/persons#p_HJF1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v06/persons#p_HJF1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v07/persons#p_HJF1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Harrington, Julian E.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v05/persons#p_HJE1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Harrington, Julian Fiske</name>
+                <source-url>https://history.state.gov/departmenthistory/people/harrington-julian-fiske</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Julian F. Harrington</name>
+                <source-url>https://history.state.gov/departmenthistory/people/harrington-julian-fiske</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1901</birth-year>
+    <death-year>1984</death-year>
+    <remarks variants="4">
+        <remark source-urls="2">
+            <p>Minister of Embassy in the Philippines from March 1951; Minister and Consul General in Hong Kong, July 1952–December 1954.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v14p1/persons#p_HJF1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v14p2/persons#p_HJF1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Ambassador to Panama from August 30, 1955</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v06/persons#p_HJF1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v07/persons#p_HJF1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Ambassador to Panama until July 1960; Special Assistant to the Deputy Under Secretary of State for Administration from August 20, 1960</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v05/persons#p_HJE1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Foreign Service Officer. Ambassador Extraordinary and Plenipotentiary (Panama).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/harrington-julian-fiske</source-url>
+        </remark>
+    </remarks>
+</person>

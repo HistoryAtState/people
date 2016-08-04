@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>102535</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Chou Shu-kai</name>
+        </preferred>
+        <alternates>
+            <name>Chow Shu-kai</name>
+            <name>Zhou Shukai</name>
+        </alternates>
+        <originals variants="5">
+            <original source-urls="2">
+                <name>Chou Shu-kai</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v02/persons#p_CS1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v03/persons#p_CS1</source-url>
+            </original>
+            <original source-urls="3">
+                <name>Chow Shu-kai</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v30/persons#p_CS1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v05/persons#p_CSK1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v18/persons#p_CS1</source-url>
+            </original>
+            <original source-urls="2">
+                <name>Chow (Chou) Shu-kai</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v17/persons#p_CCS1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve13/persons#p_ZS1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Zhou Shukai (Chow Shu-kai)</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v18/persons#p_ZS1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Chow [also spelled Chou] Shu-kai (Zhou Shukai)</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve12/persons#p_chowshu-kai</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="7">
+        <remark source-urls="2">
+            <p>Vice Minister of Foreign Affairs of the Republic of China from 1956</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v02/persons#p_CS1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v03/persons#p_CS1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Ambassador of the Republic of China to the United States from February 1966</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v30/persons#p_CS1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Ambassador of the Republic of China to the United States; Foreign Minister of the Republic of China from April 1971</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v05/persons#p_CSK1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>ROC Ambassador to the United States until May 1971; Minister of Foreign Affairs, 1971–1972; Minister without Portfolio from 1972</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v17/persons#p_CCS1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve13/persons#p_ZS1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>see Zhou Shukai</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v18/persons#p_CS1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>ROC Minister without Portfolio</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v18/persons#p_ZS1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Republic of China Ambassador to the United States until May 1971; Minister of Foreign Affairs in 1971 and 1972; Minister without Portfolio from 1972</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve12/persons#p_chowshu-kai</source-url>
+        </remark>
+    </remarks>
+</person>

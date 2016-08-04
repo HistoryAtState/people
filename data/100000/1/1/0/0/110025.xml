@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>110025</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Ogarkov, Nikolai V.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="1">
+                <name>Ogarkov, Nikolai</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v32/persons#p_ON1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Ogarkov, Nikolay</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v01/persons#p_ON_1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Ogarkov, Nikolai V.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v06/persons#p_ONV_1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="2">
+        <remark source-urls="1">
+            <p>Colonel General, First Deputy Chief Soviet General Staff; member, Soviet delegation to the Strategic Arms Limitation Talks</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v32/persons#p_ON1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Chief of the General Staff of the Soviet Union</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v01/persons#p_ON_1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v06/persons#p_ONV_1</source-url>
+        </remark>
+    </remarks>
+</person>

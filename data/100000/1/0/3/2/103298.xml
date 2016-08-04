@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>103298</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>De la Grandville, Jean de la Chevadiere</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="1">
+                <name>De la Grandville, Jean</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v02/persons#p_DGJC1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>De la Grandville, Jean de la Chevadiere</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v13/persons#p_DGJC1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="2">
+        <remark source-urls="1">
+            <p>Counselor of the French Embassy in the United States until December 1958</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v02/persons#p_DGJC1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Chief of the Treaty Section of the French Foreign Ministry</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v13/persons#p_DGJC1</source-url>
+        </remark>
+    </remarks>
+</person>

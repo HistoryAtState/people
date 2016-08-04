@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>100989</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Ba Swe</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="1">
+                <name>Ba Swe</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v22/persons#p_BS1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="1">
+        <remark source-urls="1">
+            <p>Burmese Defense Minister to June 1956; Prime Minister and Minister of Defense and National Planning, June 1956–February 1957; Deputy Prime Minister and Minister of Defense and National Planning from March 1957</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v22/persons#p_BS1</source-url>
+        </remark>
+    </remarks>
+</person>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>102783</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Connett, William B.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="1">
+                <name>Connett, William B.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v32/persons#p_CWB2</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="1">
+        <remark source-urls="1">
+            <p>Deputy Chief of Mission, Embassy in the Dominican Republic, November 1964–February 1966</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v32/persons#p_CWB2</source-url>
+        </remark>
+    </remarks>
+</person>

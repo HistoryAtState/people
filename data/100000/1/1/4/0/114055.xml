@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>114055</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Vessey, John W.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="3">
+                <name>Vessey, John W.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v13/persons#p_VJW_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1981-88v03/persons#p_VJW_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1981-88v13/persons#p_VJW_1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="3">
+        <remark source-urls="1">
+            <p>Commanding General of the Eighth U.S. Army; Commander of U.S. Forces, Korea; Commander-in-Chief of the United Nations Command</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v13/persons#p_VJW_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Chairman of the Joint Chiefs of State from June 1982</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1981-88v03/persons#p_VJW_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>General, USA; Chairman of the Joint Chiefs of Staff from June 18, 1982</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1981-88v13/persons#p_VJW_1</source-url>
+        </remark>
+    </remarks>
+</person>

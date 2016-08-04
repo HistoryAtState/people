@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>109276</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Moley, Raymond Charles</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="1">
+                <name>Moley, Raymond Charles</name>
+                <source-url>https://history.state.gov/departmenthistory/people/moley-raymond-charles</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Raymond Moley</name>
+                <source-url>https://history.state.gov/departmenthistory/people/moley-raymond-charles</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1886</birth-year>
+    <death-year>1975</death-year>
+    <remarks variants="1">
+        <remark source-urls="1">
+            <p>Non-career appointee. Assistant Secretary of State.</p>
+            <source-url>https://history.state.gov/departmenthistory/people/moley-raymond-charles</source-url>
+        </remark>
+    </remarks>
+</person>

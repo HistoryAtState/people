@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>112127</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Schwartz, Abba Philip</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="3">
+                <name>Schwartz, Abba P.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v25/persons#p_SAP2</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v02/persons#p_SAP1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v03/persons#p_SAP1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Schwartz, Abba Philip</name>
+                <source-url>https://history.state.gov/departmenthistory/people/schwartz-abba-philip</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Abba P. Schwartz</name>
+                <source-url>https://history.state.gov/departmenthistory/people/schwartz-abba-philip</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1916</birth-year>
+    <death-year>1989</death-year>
+    <remarks variants="3">
+        <remark source-urls="1">
+            <p>Administrator of the Bureau of Security and Consular Affairs, Department of State</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v25/persons#p_SAP2</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Administrator, Bureau of Security and Consular Affairs, Department of State</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v02/persons#p_SAP1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v03/persons#p_SAP1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Non-career appointee. Assistant Secretary of State for Consular Affairs.</p>
+            <source-url>https://history.state.gov/departmenthistory/people/schwartz-abba-philip</source-url>
+        </remark>
+    </remarks>
+</person>

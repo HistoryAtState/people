@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>100237</id>
+    <authorities>
+        <authority service="viaf">1934037</authority>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Alexander, Leslie M.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="1">
+                <name>Alexander, Leslie M.</name>
+                <source-url>https://history.state.gov/departmenthistory/people/alexander-leslie-m</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1948</birth-year>
+    <death-year/>
+    <remarks variants="1">
+        <remark source-urls="1">
+            <p>Foreign Service Officer. Ambassador Extraordinary and Plenipotentiary (Mauritius); Ambassador Extraordinary and Plenipotentiary (Ecuador); Ambassador Extraordinary and Plenipotentiary (Comoros).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/alexander-leslie-m</source-url>
+        </remark>
+    </remarks>
+</person>

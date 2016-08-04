@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>100677</id>
+    <authorities>
+        <authority service="viaf">2465878</authority>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Auriol, Vincent</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="1">
+                <name>President Auriol</name>
+                <source-url>https://history.state.gov/departmenthistory/visits/france</source-url>
+            </original>
+            <original source-urls="14">
+                <name>Auriol, Vincent</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1947v02/persons#p_AV2</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1948v02/persons#p_AV1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v03p1/persons#p_AV1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v03p2/persons#p_AV1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v04p1/persons#p_AV1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v04p2/persons#p_AV1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v05/persons#p_AV1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v05p1/persons#p_AURIOLV1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v05p2/persons#p_AURIOLV1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v06p1/persons#p_AURIOLV1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v06p2/persons#p_AURIOLV1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v13p1/persons#p_AV1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v13p2/persons#p_AV1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v27/persons#p_AV1</source-url>
+            </original>
+            <original source-urls="2">
+                <name>Auriol, Vincent,</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v11p1/persons#p_AV1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v11p2/persons#p_AV1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="8">
+        <remark source-urls="1">
+            <p>President, France. Visited U.S. once, 1951</p>
+            <source-url>https://history.state.gov/departmenthistory/visits/france</source-url>
+        </remark>
+        <remark source-urls="4">
+            <p>President of the French Republic</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1947v02/persons#p_AV2</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1948v02/persons#p_AV1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1951v04p1/persons#p_AV1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1951v04p2/persons#p_AV1</source-url>
+        </remark>
+        <remark source-urls="3">
+            <p>President of the French Republic.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1951v03p1/persons#p_AV1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1951v03p2/persons#p_AV1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1951v05/persons#p_AV1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>President of the French Republic, January 16, 1947–January 15, 1954.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v05p1/persons#p_AURIOLV1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v05p2/persons#p_AURIOLV1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>President of France, January 16, 1947–January 15, 1954.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v06p1/persons#p_AURIOLV1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v06p2/persons#p_AURIOLV1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>President of France until January 15, 1954.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v11p1/persons#p_AV1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v11p2/persons#p_AV1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>President of France to December 24, 1953.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v13p1/persons#p_AV1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v13p2/persons#p_AV1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>former President of France</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v27/persons#p_AV1</source-url>
+        </remark>
+    </remarks>
+</person>

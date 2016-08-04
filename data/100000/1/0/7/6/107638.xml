@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>107638</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Lang, William E.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="7">
+                <name>Lang, William E.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v21/persons#p_LWE1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v23/persons#p_LWE_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v24/persons#p_LWE1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v31/persons#p_LWE1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve05p1/persons#p_LWE1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve05p2/persons#p_LWE1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve10/persons#p_LWE1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="4">
+        <remark source-urls="3">
+            <p>Deputy Assistant Secretary of Defense for International Security Affairs</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v21/persons#p_LWE1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v23/persons#p_LWE_1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v24/persons#p_LWE1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Deputy Assistant Secretary of Defense for International Security Affairs (Africa and Foreign Military Rights) 1965–1966, then (Africa, Latin America, and Foreign Military Rights)</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v31/persons#p_LWE1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Deputy Assistant Secretary of Defense for Africa and the Western Hemisphere until 1970</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve05p1/persons#p_LWE1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve05p2/persons#p_LWE1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Deputy to the Assistant Secretary of Defense for Military Obligations and Treaty Commitments, Office of International Security Affairs, Office of the Secretary of Defense from January 1969</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve10/persons#p_LWE1</source-url>
+        </remark>
+    </remarks>
+</person>

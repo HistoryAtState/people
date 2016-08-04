@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>101653</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Braddock, Daniel McCoy</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="2">
+                <name>Braddock, Daniel M.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v22/persons#p_BDM1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v06/persons#p_BDM1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Braddock, Daniel McCoy</name>
+                <source-url>https://history.state.gov/departmenthistory/people/braddock-daniel-mccoy</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Daniel M. Braddock</name>
+                <source-url>https://history.state.gov/departmenthistory/people/braddock-daniel-mccoy</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1906</birth-year>
+    <death-year>1980</death-year>
+    <remarks variants="3">
+        <remark source-urls="1">
+            <p>Counselor of Embassy in Burma, July 1955–September 1957</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v22/persons#p_BDM1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Counselor of the Embassy in Cuba</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v06/persons#p_BDM1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Foreign Service Officer. Chargé d'Affaires ad interim (Cuba).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/braddock-daniel-mccoy</source-url>
+        </remark>
+    </remarks>
+</person>

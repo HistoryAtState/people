@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>105127</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Graves, Hubert Ashton</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="1">
+                <name>Graves, Hubert Ashton</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1947v02/persons#p_GHA1</source-url>
+            </original>
+            <original source-urls="4">
+                <name>Graves, Sir Hubert Ashton</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v01/persons#p_GSHA1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v14/persons#p_GSHA1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v15/persons#p_GSHA1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v21/persons#p_GSHA1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="1">
+            <title source-urls="4">
+                <name>Sir</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v01/persons#p_GSHA1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v14/persons#p_GSHA1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v15/persons#p_GSHA1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v21/persons#p_GSHA1</source-url>
+            </title>
+        </titles-from-name>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="3">
+        <remark source-urls="1">
+            <p>Counsellor of the British Embassy in Washington</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1947v02/persons#p_GHA1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>British Ambassador in Vietnam to March 1955; Minister in the United States, October 1955–July 1956</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v01/persons#p_GSHA1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v21/persons#p_GSHA1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Minister of the British Embassy in the United States, October 5, 1955–July 2, 1956; thereafter British Foreign Office</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v14/persons#p_GSHA1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v15/persons#p_GSHA1</source-url>
+        </remark>
+    </remarks>
+</person>

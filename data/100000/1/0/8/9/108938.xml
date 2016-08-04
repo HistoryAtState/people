@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>108938</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>McNamara, Francis Terry</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="1">
+                <name>McNamara, Francis Terry</name>
+                <source-url>https://history.state.gov/departmenthistory/people/mcnamara-francis-terry</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1927</birth-year>
+    <death-year/>
+    <remarks variants="1">
+        <remark source-urls="1">
+            <p>Foreign Service Officer. Ambassador Extraordinary and Plenipotentiary (Sao Tome and Principe); Ambassador Extraordinary and Plenipotentiary (Gabon); Ambassador Extraordinary and Plenipotentiary (Cape Verde).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/mcnamara-francis-terry</source-url>
+        </remark>
+    </remarks>
+</person>

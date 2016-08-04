@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>108640</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Mathews, Jessica Tuchman</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="1">
+                <name>Tuchman Mathews, Jessica</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v02/persons#p_TMJ_1</source-url>
+            </original>
+            <original source-urls="5">
+                <name>Mathews, Jessica Tuchman</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v03/persons#p_MJT_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v06/persons#p_MJT_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v13/persons#p_MJT_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v20/persons#p_MJT_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v26/persons#p_MJT_1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="6">
+        <remark source-urls="1">
+            <p>member, Global Issues Cluster, National Security Council Staff, from January 1977 until June 1979; member, National Security Council Ad Hoc Group on Population Policy</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v02/persons#p_TMJ_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>member, National Security Staff for Global Issues until June 1977</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v03/persons#p_MJT_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>member, National Security Council Staff for Global Issues from January 1977 until June 1979</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v06/persons#p_MJT_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>member, National Security Council Staff for Global Issues from January 1977 until June 1979; editorial board of The Washington Post from 1980 until 1982</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v13/persons#p_MJT_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>member, National Security Council Staff for Global Issues from January 1977 until June 1977</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v20/persons#p_MJT_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Member, National Security Council Staff from 1977 until 1979</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v26/persons#p_MJT_1</source-url>
+        </remark>
+    </remarks>
+</person>

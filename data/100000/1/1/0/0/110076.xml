@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>110076</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Olmsted, Mary Seymour</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="1">
+                <name>Olmsted, Mary S.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v02/persons#p_OMS1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Olmsted, Mary Seymour</name>
+                <source-url>https://history.state.gov/departmenthistory/people/olmsted-mary-seymour</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Mary S. Olmsted</name>
+                <source-url>https://history.state.gov/departmenthistory/people/olmsted-mary-seymour</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1919</birth-year>
+    <death-year/>
+    <remarks variants="2">
+        <remark source-urls="1">
+            <p>President of the Ad Hoc Committee to Improve the Status of Women in the Foreign Affairs Agencies from July to November 1970; President of the Women's Action Organization from November 1970 to 1972; Special Assistant to the Director General of the Foreign Service, 1971; Deputy Director for Personnel Management Services, Office of the Director General, 1971–1972; thereafter Deputy Director of Personnel Policy, Classification, and Evaluation, Office of the Director General</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v02/persons#p_OMS1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Foreign Service Officer. Ambassador Extraordinary and Plenipotentiary (Solomon Islands); Ambassador Extraordinary and Plenipotentiary (Papua New Guinea).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/olmsted-mary-seymour</source-url>
+        </remark>
+    </remarks>
+</person>

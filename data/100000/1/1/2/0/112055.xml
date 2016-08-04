@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>112055</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Schlicher, Ronald Lewis</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="1">
+                <name>Schlicher, Ronald Lewis</name>
+                <source-url>https://history.state.gov/departmenthistory/people/schlicher-ronald-lewis</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Ronald L. Schlicher</name>
+                <source-url>https://history.state.gov/departmenthistory/people/schlicher-ronald-lewis</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Ronald Schlicher</name>
+                <source-url>https://history.state.gov/departmenthistory/people/schlicher-ronald-lewis</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1958</birth-year>
+    <death-year/>
+    <remarks variants="1">
+        <remark source-urls="1">
+            <p>Foreign Service Officer. Ambassador Extraordinary and Plenipotentiary (Tunisia); Chargé d'Affaires ad interim (Lebanon); Ambassador Extraordinary and Plenipotentiary (Cyprus).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/schlicher-ronald-lewis</source-url>
+        </remark>
+    </remarks>
+</person>

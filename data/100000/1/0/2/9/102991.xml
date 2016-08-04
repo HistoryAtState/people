@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>102991</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Crocker, Edward Savage, II</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="2">
+                <name>Crocker, Edward Savage, II</name>
+                <source-url>https://history.state.gov/departmenthistory/people/crocker-edward-savage</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v05/persons#p_CES1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Edward S. Crocker 2d</name>
+                <source-url>https://history.state.gov/departmenthistory/people/crocker-edward-savage</source-url>
+            </original>
+            <original source-urls="2">
+                <name>Crocker, Edward S., II</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v09p1/persons#p_CES1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v09p2/persons#p_CES1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1895</birth-year>
+    <death-year>1968</death-year>
+    <remarks variants="3">
+        <remark source-urls="1">
+            <p>Foreign Service Officer. Ambassador Extraordinary and Plenipotentiary (Iraq).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/crocker-edward-savage</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Ambassador to Iraq.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1951v05/persons#p_CES1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Ambassador to Iraq until June 1, 1952; detailed to Air War College, August 9, 1952–July 19, 1953; detailed to Naval War College, July 19, 1953–September 12, 1954.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v09p1/persons#p_CES1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v09p2/persons#p_CES1</source-url>
+        </remark>
+    </remarks>
+</person>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>108242</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Lyssarides, Vassos</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="3">
+                <name>Lyssarides, Vassos</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v16/persons#p_LV1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v29/persons#p_LV1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v21/persons#p_LV_1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Lyssarides, Dr. Vassos</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v30/persons#p_LV2</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="1">
+            <title source-urls="1">
+                <name>Dr.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v30/persons#p_LV2</source-url>
+            </title>
+        </titles-from-name>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="4">
+        <remark source-urls="1">
+            <p>Socialist Party leader in Cyprus and personal physician to Archbishop Makarios</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v16/persons#p_LV1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Cypriot Socialist Party leader and personal physician to Archbishop Makarios</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v29/persons#p_LV1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>founder and President of Cyprus Socialist Party (EDEK); personal physician to Makarios</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v30/persons#p_LV2</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>leader of the Greek EDEK Party</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v21/persons#p_LV_1</source-url>
+        </remark>
+    </remarks>
+</person>

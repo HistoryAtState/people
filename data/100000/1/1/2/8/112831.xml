@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>112831</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Spiegel, Daniel L.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="2">
+                <name>Spiegel, Daniel L.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v02/persons#p_SDL_1</source-url>
+                <source-url>https://history.state.gov/departmenthistory/people/spiegel-daniel-l</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1945</birth-year>
+    <death-year/>
+    <remarks variants="2">
+        <remark source-urls="1">
+            <p>Special Assistant to Secretary of State Vance from 1977 until 1978; member, Policy Planning Staff, from 1979 until 1980</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v02/persons#p_SDL_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Non-career appointee. Representative of the U.S.A. to the European Office of the United Nations (Geneva).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/spiegel-daniel-l</source-url>
+        </remark>
+    </remarks>
+</person>

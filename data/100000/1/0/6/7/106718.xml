@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>106718</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Jones, Joseph Russell</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="1">
+                <name>Jones, Joseph Russell</name>
+                <source-url>https://history.state.gov/departmenthistory/people/jones-joseph-russell</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1823</birth-year>
+    <death-year>1909</death-year>
+    <remarks variants="1">
+        <remark source-urls="1">
+            <p>Non-career appointee. Minister Resident (Belgium).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/jones-joseph-russell</source-url>
+        </remark>
+    </remarks>
+</person>

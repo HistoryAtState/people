@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>114508</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>White, Lee C.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="3">
+                <name>White, Lee C.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v08/persons#p_WLC1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v09/persons#p_WLC1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v12/persons#p_WLC1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="3">
+        <remark source-urls="1">
+            <p>President's Assistant Special Counsel from January 1961</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v08/persons#p_WLC1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>President's Assistant Special Counsel</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v09/persons#p_WLC1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Associate Counsel to the President until 1965; Special Counsel to the President until 1966</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v12/persons#p_WLC1</source-url>
+        </remark>
+    </remarks>
+</person>

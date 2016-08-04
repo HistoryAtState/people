@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>106398</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Ingersoll, Joseph Reed</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="1">
+                <name>Ingersoll, Joseph Reed</name>
+                <source-url>https://history.state.gov/departmenthistory/people/ingersoll-joseph-reed</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Joseph R. Ingersoll</name>
+                <source-url>https://history.state.gov/departmenthistory/people/ingersoll-joseph-reed</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1786</birth-year>
+    <death-year>1868</death-year>
+    <remarks variants="1">
+        <remark source-urls="1">
+            <p>Non-career appointee. Envoy Extraordinary and Minister Plenipotentiary (United Kingdom).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/ingersoll-joseph-reed</source-url>
+        </remark>
+    </remarks>
+</person>

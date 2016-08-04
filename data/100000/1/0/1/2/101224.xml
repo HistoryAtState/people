@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>101224</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Beria, Lavrentiy Pavlovich</name>
+        </preferred>
+        <alternates/>
+        <originals variants="4">
+            <original source-urls="4">
+                <name>Beria, Lavrentiy Pavlovich</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv02/persons#p_B1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv02/persons#p_BLP1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v05p1/persons#p_BERIALP1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v05p2/persons#p_BERIALP1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Beriya, Lavrenty Pavlovich</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945Malta/persons#p_BLP1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Beriya, Lavrentiy Pavlovich</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v08/persons#p_BLP1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Beria, Lavrentiy P.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v26/persons#p_BLP1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="6">
+        <remark source-urls="1">
+            <p>See Beriya.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv02/persons#p_B1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Deputy Chairman, Council of People’s Commissars of the Soviet Union; People’s Commissar for Internal Affairs.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv02/persons#p_BLP1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Deputy Chairman of the Council of People’s Commissars of the Soviet Union, member of the State Defense Committee, and People’s Commissar for Internal Affairs (NKVD).</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1945Malta/persons#p_BLP1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Deputy Chairman of the U.S.S.R. Council of Ministers, until June 1953; Soviet Minister of Internal Affairs, March 1953– June 1955; member of the Politburo (Presidium from October 1952) of the Communist Party of the Soviet Union, until June 1953.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v05p1/persons#p_BERIALP1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v05p2/persons#p_BERIALP1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Minister of Internal Affairs of the Soviet Union until June 1953; Deputy Chairman of the U.S.S.R. Council of Ministers until June 1953; member of the Politburo until October 1953 and of the Presidium of the Communist Party of the Soviet Union, October 1952–June 1953.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v08/persons#p_BLP1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Deputy Chairman of Soviet Council of Ministers until June 1953; Minister of Internal Affairs, March 1953–June 1953; deposed and executed in 1953</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v26/persons#p_BLP1</source-url>
+        </remark>
+    </remarks>
+</person>

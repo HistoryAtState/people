@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>101767</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Brodie, Edward Everett</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="1">
+                <name>Brodie, Edward Everett</name>
+                <source-url>https://history.state.gov/departmenthistory/people/brodie-edward-everett</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Edward E. Brodie</name>
+                <source-url>https://history.state.gov/departmenthistory/people/brodie-edward-everett</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1876</birth-year>
+    <death-year>1939</death-year>
+    <remarks variants="1">
+        <remark source-urls="1">
+            <p>Non-career appointee. Envoy Extraordinary and Minister Plenipotentiary (Thailand); Envoy Extraordinary and Minister Plenipotentiary (Finland).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/brodie-edward-everett</source-url>
+        </remark>
+    </remarks>
+</person>

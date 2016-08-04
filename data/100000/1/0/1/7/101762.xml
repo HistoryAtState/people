@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>101762</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Broadhead, James Overton</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="1">
+                <name>Broadhead, James Overton</name>
+                <source-url>https://history.state.gov/departmenthistory/people/broadhead-james-overton</source-url>
+            </original>
+            <original source-urls="1">
+                <name>James O. Broadhead</name>
+                <source-url>https://history.state.gov/departmenthistory/people/broadhead-james-overton</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1819</birth-year>
+    <death-year>1898</death-year>
+    <remarks variants="1">
+        <remark source-urls="1">
+            <p>Non-career appointee. Envoy Extraordinary and Minister Plenipotentiary (Switzerland).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/broadhead-james-overton</source-url>
+        </remark>
+    </remarks>
+</person>

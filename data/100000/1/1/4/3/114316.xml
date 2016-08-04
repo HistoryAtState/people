@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>114316</id>
+    <authorities>
+        <authority service="viaf">53392519</authority>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Wasmosy, Juan Carlos</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="1">
+                <name>President Juan Carlos Wasmosy</name>
+                <source-url>https://history.state.gov/departmenthistory/visits/paraguay</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="1">
+        <remark source-urls="1">
+            <p>President, Paraguay. Visited U.S. once, 1994</p>
+            <source-url>https://history.state.gov/departmenthistory/visits/paraguay</source-url>
+        </remark>
+    </remarks>
+</person>

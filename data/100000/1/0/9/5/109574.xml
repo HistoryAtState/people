@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>109574</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Murray, Wallace Smith</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="2">
+                <name>Murray, Wallace Smith</name>
+                <source-url>https://history.state.gov/departmenthistory/people/murray-wallace-smith</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv02/persons#p_MW2</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Wallace Murray</name>
+                <source-url>https://history.state.gov/departmenthistory/people/murray-wallace-smith</source-url>
+            </original>
+            <original source-urls="2">
+                <name>Murray, Wallace</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1943CairoTehran/persons#p_MW1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv01/persons#p_MW1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1887</birth-year>
+    <death-year>1965</death-year>
+    <remarks variants="3">
+        <remark source-urls="1">
+            <p>Foreign Service Officer. Ambassador Extraordinary and Plenipotentiary (Iran).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/murray-wallace-smith</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Adviser on Political Relations, Department of State.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1943CairoTehran/persons#p_MW1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Ambassador to Iran.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv01/persons#p_MW1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv02/persons#p_MW2</source-url>
+        </remark>
+    </remarks>
+</person>

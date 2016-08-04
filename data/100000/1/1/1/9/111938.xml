@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>111938</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Sargeant, Howland Hill</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="4">
+                <name>Sargeant, Howland H.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945-50Intel/persons#p_SHH1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1950-55Intel/persons#p_SHH1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v15p1/persons#p_SHH1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v15p2/persons#p_SHH1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Sargeant, Howland Hill</name>
+                <source-url>https://history.state.gov/departmenthistory/people/sargeant-howland-hill</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Howland H. Sargeant</name>
+                <source-url>https://history.state.gov/departmenthistory/people/sargeant-howland-hill</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1911</birth-year>
+    <death-year>1984</death-year>
+    <remarks variants="5">
+        <remark source-urls="1">
+            <p>Deputy to the Assistant Secretary of State for Public Affairs, from October 1, 1947</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1945-50Intel/persons#p_SHH1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Deputy to the Assistant Secretary of State for Public Affairs from October 1, 1947 to 1950</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1950-55Intel/persons#p_SHH1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Assistant Secretary of State for Public Affairs, February 21, 1952–January 30, 1953.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v15p1/persons#p_SHH1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Assistant Secretary of State for Public Affairs, February 21, 1952–January 30,1953.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v15p2/persons#p_SHH1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Non-career appointee. Assistant Secretary of State for Public Affairs.</p>
+            <source-url>https://history.state.gov/departmenthistory/people/sargeant-howland-hill</source-url>
+        </remark>
+    </remarks>
+</person>

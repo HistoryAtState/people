@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>101793</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Brown, Ben Hill, Jr.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="4">
+            <original source-urls="2">
+                <name>Brown, Ben Hill, Jr.</name>
+                <source-url>https://history.state.gov/departmenthistory/people/brown-ben-hill</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v05/persons#p_BBH2</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Ben H. Brown Jr.</name>
+                <source-url>https://history.state.gov/departmenthistory/people/brown-ben-hill</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Brown, Benjamin H.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1948v02/persons#p_BBH1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Brown, Ben H., Jr.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v10/persons#p_BBJ1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1914</birth-year>
+    <death-year>1989</death-year>
+    <remarks variants="4">
+        <remark source-urls="1">
+            <p>Foreign Service Officer. Ambassador Extraordinary and Plenipotentiary (Liberia).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/brown-ben-hill</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Office of the Legal Adviser, Department of State</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1948v02/persons#p_BBH1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Deputy Assistant Secretary of State for Congressional Relations.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1951v05/persons#p_BBH2</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Deputy Assistant Secretary of State for Congressional Relations from May 29, 1949.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v10/persons#p_BBJ1</source-url>
+        </remark>
+    </remarks>
+</person>

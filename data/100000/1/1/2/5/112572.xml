@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>112572</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Slessor, John C.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="2">
+                <name>Slessor, Marshal of the Royal Air Force Sir John C.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v03p1/persons#p_SSJC1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v03p2/persons#p_SSJC1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Slessor, John C.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v05/persons#p_SJC1</source-url>
+            </original>
+            <original source-urls="2">
+                <name>Slessor, Sir John</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v05p1/persons#p_SLESSORSJ1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v05p2/persons#p_SLESSORSJ1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="2">
+            <title source-urls="2">
+                <name>Marshal of the Royal Air Force Sir</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v03p1/persons#p_SSJC1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v03p2/persons#p_SSJC1</source-url>
+            </title>
+            <title source-urls="2">
+                <name>Sir</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v05p1/persons#p_SLESSORSJ1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v05p2/persons#p_SLESSORSJ1</source-url>
+            </title>
+        </titles-from-name>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="3">
+        <remark source-urls="2">
+            <p>Chief, British Air Staff.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1951v03p1/persons#p_SSJC1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1951v03p2/persons#p_SSJC1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Marshal of the British Royal Air Force.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1951v05/persons#p_SJC1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Marshal, Royal Air Force; Chief of the British Air Staff until December 1952.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v05p1/persons#p_SLESSORSJ1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v05p2/persons#p_SLESSORSJ1</source-url>
+        </remark>
+    </remarks>
+</person>

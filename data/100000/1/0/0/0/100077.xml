@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>100077</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Acland, Anthony</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="2">
+                <name>Acland, Anthony</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v24/persons#p_AA1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1981-88v13/persons#p_ASA_1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="2">
+        <remark source-urls="1">
+            <p>Head of the Arabian Department, British Foreign Office, from February 1970 until January 1972</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v24/persons#p_AA1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>British Permanent Under Secretary of State for Foreign and Commonwealth Affairs and Head of the Diplomatic Service from 1982</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1981-88v13/persons#p_ASA_1</source-url>
+        </remark>
+    </remarks>
+</person>

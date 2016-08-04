@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>107807</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Lehman, John F., Jr.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="5">
+            <original source-urls="3">
+                <name>Lehman, John F., Jr.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v02/persons#p_LJFJ1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v33/persons#p_LJF_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v39/persons#p_LJFJ1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Lehman, John, Jr.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v29/persons#p_LJJ1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Lehman, John F. Jr.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v35/persons#p_LJF_1</source-url>
+            </original>
+            <original source-urls="2">
+                <name>Lehman, John</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v05/persons#p_LJ1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v15/persons#p_LJ_1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Lehman, John F.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v09/persons#p_LJF_1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="7">
+        <remark source-urls="1">
+            <p>Member of the Planning Group, National Security Council Staff from 1969; National Security Council Staff Member responsible for Congressional Liaison, 1971–1972</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v02/persons#p_LJFJ1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>member, NSC Planning Staff</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v29/persons#p_LJJ1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>member, National Security Council Staff, until September 1974; Deputy Director of the Arms Control and Disarmament Agency from 1974 until January 1977</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v33/persons#p_LJF_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>member, National Security Council staff until September 1974; thereafter Deputy Director, Arms Control and Disarmament Agency</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v35/persons#p_LJF_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>National Security Council staff from 1969 to 1971; National Security Council Special Counsel from 1971 to 1974; member of U.S. Delegation to MBFR from 1974 to 1975; Deputy Director of ACDA from 1975</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v39/persons#p_LJFJ1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>member of the National Security Council Staff</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v05/persons#p_LJ1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>member, National Security Council staff</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v09/persons#p_LJF_1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v15/persons#p_LJ_1</source-url>
+        </remark>
+    </remarks>
+</person>

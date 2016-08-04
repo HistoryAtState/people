@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>102699</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Coggeshall, William Turner</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="1">
+                <name>Coggeshall, William Turner</name>
+                <source-url>https://history.state.gov/departmenthistory/people/coggeshall-william-turner</source-url>
+            </original>
+            <original source-urls="1">
+                <name>William T. Coggeshall</name>
+                <source-url>https://history.state.gov/departmenthistory/people/coggeshall-william-turner</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1824</birth-year>
+    <death-year>1867</death-year>
+    <remarks variants="1">
+        <remark source-urls="1">
+            <p>Non-career appointee. Minister Resident (Ecuador).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/coggeshall-william-turner</source-url>
+        </remark>
+    </remarks>
+</person>

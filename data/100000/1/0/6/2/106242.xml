@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>106242</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Hughes, Christopher, Jr.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="1">
+                <name>Hughes, Christopher, Jr.</name>
+                <source-url>https://history.state.gov/departmenthistory/people/hughes-christopher</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1786</birth-year>
+    <death-year>1849</death-year>
+    <remarks variants="1">
+        <remark source-urls="1">
+            <p>Non-career appointee. Chargé d'Affaires (Sweden); Chargé d'Affaires (Norway); Chargé d'Affaires (Netherlands).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/hughes-christopher</source-url>
+        </remark>
+    </remarks>
+</person>

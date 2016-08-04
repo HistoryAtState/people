@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>107308</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Knowlton, Winthrop</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="1">
+                <name>Knowlton, Winthrop</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v08/persons#p_KW2</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="1">
+        <remark source-urls="1">
+            <p>Deputy Assistant Secretary of the Treasury for International Monetary Affairs until August 2, 1966; Assistant Secretary, August 2, 1966–January 31, 1968</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v08/persons#p_KW2</source-url>
+        </remark>
+    </remarks>
+</person>

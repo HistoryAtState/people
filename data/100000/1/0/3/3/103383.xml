@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>103383</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>DePuy, William E.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="4">
+            <original source-urls="1">
+                <name>DePuy</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v02/persons#p_DP1</source-url>
+            </original>
+            <original source-urls="2">
+                <name>DePuy, Major General William E.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v03/persons#p_DPMGWE1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v05/persons#p_DPMGWE1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>DePuy, Major General William</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v06/persons#p_DPMGW1</source-url>
+            </original>
+            <original source-urls="2">
+                <name>DePuy, William E.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v08/persons#p_DWE1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v09/persons#p_DWE_1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="1">
+            <title source-urls="3">
+                <name>Major General</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v03/persons#p_DPMGWE1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v05/persons#p_DPMGWE1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v06/persons#p_DPMGW1</source-url>
+            </title>
+        </titles-from-name>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="6">
+        <remark source-urls="1">
+            <p>Major General William E., Assistant Chief of Staff, J-3 (Operations), U.S. Military Assistance Command, Vietnam; thereafter Special Assistant for Vietnamese Affairs, Central Intelligence Agency</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v02/persons#p_DP1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Assistant Chief of Staff, J-3 (Operations), U.S. Military Assistance Command, Vietnam; thereafter Special Assistant for Vietnamese Affairs, Central Intelligence Agency</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v03/persons#p_DPMGWE1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>USA, Special Assistant for Counterinsurgency and Special Activities, Joint Chiefs of Staff</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v05/persons#p_DPMGWE1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Special Assistant for Counterinsurgency and Special Activities, Joint Chiefs of Staff</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v06/persons#p_DPMGW1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Lieutenant General, USA, Assistant Vice Chief of the Army; from 1966 until 1967 commanded the 1st Infantry Division in Vietnam</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v08/persons#p_DWE1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Lieutenant General, USA, Assistant Vice Chief of the Army</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v09/persons#p_DWE_1</source-url>
+        </remark>
+    </remarks>
+</person>

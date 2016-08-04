@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>103689</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Duffey, Joseph Daniel</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="3">
+                <name>Duffey, Joseph Daniel</name>
+                <source-url>https://history.state.gov/departmenthistory/people/duffey-joseph-daniel</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v28/persons#p_DJD_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v30/persons#p_DJD_1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Joseph D. Duffey</name>
+                <source-url>https://history.state.gov/departmenthistory/people/duffey-joseph-daniel</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Duffey, Joseph D.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v02/persons#p_DJD_1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1932</birth-year>
+    <death-year/>
+    <remarks variants="4">
+        <remark source-urls="1">
+            <p>Non-career appointee. Assistant Secretary of State for Educational and Cultural Affairs.</p>
+            <source-url>https://history.state.gov/departmenthistory/people/duffey-joseph-daniel</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>member, Carter-Mondale transition team; Assistant Secretary of State for Education and Cultural Affairs from March 30, 1977, until March 21, 1978; thereafter Chairman, National Endowment for the Humanities</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v02/persons#p_DJD_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Assistant Secretary of State for Educational and Cultural Affairs from March 1977 until March 1978</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v28/persons#p_DJD_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>member, Carter-Mondale transition team; Assistant Secretary of State for Educational and Cultural Affairs from April 8, 1977, until March 21, 1978; thereafter Chairman, National Endowment for the Humanities</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v30/persons#p_DJD_1</source-url>
+        </remark>
+    </remarks>
+</person>

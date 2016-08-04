@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>111905</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Sanger, Richard H.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="4">
+                <name>Sanger, Richard H.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v02p1/persons#p_SANGERRH1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v02p2/persons#p_SANGERRH1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v13/persons#p_SRH1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v12/persons#p_SRH2</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="3">
+        <remark source-urls="2">
+            <p>Officer in Charge of Public Affairs, Bureau of Near Eastern, South Asian, and African Affairs, Department of State, 1953–1954.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v02p1/persons#p_SANGERRH1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v02p2/persons#p_SANGERRH1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Attaché of the Embassy in Jordan, October 4–December 19, 1955; First Secretary, December 19, 1955–April 22, 1956; thereafter Counselor</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v13/persons#p_SRH1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Director, Office of Research and Analysis for Middle East and Africa, Bureau of Intelligence and Research, Department of State</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v12/persons#p_SRH2</source-url>
+        </remark>
+    </remarks>
+</person>

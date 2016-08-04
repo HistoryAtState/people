@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>111722</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Ruiz Cortines, Adolfo</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="3">
+                <name>Ruiz Cortines, Adolfo</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v04/persons#p_RCA1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v06/persons#p_RCA1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v07/persons#p_RCA1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Ruíz Cortines, Adolfo</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v05/persons#p_RCA1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="3">
+        <remark source-urls="1">
+            <p>President of Mexico from December 1, 1952 until November 30, 1958.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v04/persons#p_RCA1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>President of Mexico</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v06/persons#p_RCA1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v07/persons#p_RCA1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>President of Mexico until November 30, 1958</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v05/persons#p_RCA1</source-url>
+        </remark>
+    </remarks>
+</person>

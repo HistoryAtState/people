@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>100689</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Averoff-Tossizza, Evangelos</name>
+        </preferred>
+        <alternates/>
+        <originals variants="5">
+            <original source-urls="4">
+                <name>Averoff, Evangelos</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v03p1/persons#p_AE2</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v03p2/persons#p_AE2</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v07p1/persons#p_AE1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v07p2/persons#p_AE1</source-url>
+            </original>
+            <original source-urls="4">
+                <name>Averoff-Tossizza, Evangelos</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v05/persons#p_AL1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v10p1/persons#p_ATE1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v16/persons#p_ATE1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v21/persons#p_ATE_1</source-url>
+            </original>
+            <original source-urls="2">
+                <name>Averoff-Tossizza, M. Evangelos</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v04/persons#p_ATME1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v24/persons#p_ATME1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Averoff-Tosizza, Evangelos</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v10p2/persons#p_ATE1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Averoff-Tositsas, Evangelos</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v30/persons#p_ATE1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="7">
+        <remark source-urls="2">
+            <p>Acting Foreign Minister of Greece.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1951v03p1/persons#p_AE2</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1951v03p2/persons#p_AE2</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Liberal Member of the Greek Parliament; Greek Foreign Under Secretary for Foreign Affairs, from October 1951.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1951v05/persons#p_AL1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Greek Minister of Foreign Affairs from May 1956</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v04/persons#p_ATME1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v24/persons#p_ATME1</source-url>
+        </remark>
+        <remark source-urls="3">
+            <p>Greek Foreign Minister</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v07p1/persons#p_AE1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v07p2/persons#p_AE1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v16/persons#p_ATE1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Greek Minister of Foreign Affairs until March 1958 and from May 1958</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v10p1/persons#p_ATE1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v10p2/persons#p_ATE1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Greek Minister of Defense from July 1974</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v30/persons#p_ATE1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Greek Minister of National Defense</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v21/persons#p_ATE_1</source-url>
+        </remark>
+    </remarks>
+</person>

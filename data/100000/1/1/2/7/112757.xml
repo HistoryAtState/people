@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>112757</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Sorensen, Theodore C. (“Ted”)</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="9">
+                <name>Sorensen, Theodore C.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v01/persons#p_STC1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v05/persons#p_STC1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v08/persons#p_STC3</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v10/persons#p_STC3</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v11/persons#p_STC3</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v14/persons#p_STC3</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v15/persons#p_STC3</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v24/persons#p_STC1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v31/persons#p_STC1</source-url>
+            </original>
+            <original source-urls="4">
+                <name>Sorensen, Theodore</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v25/persons#p_STC3</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v04/persons#p_ST1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v05/persons#p_ST1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v06/persons#p_ST1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Sorensen, Theodore C. “Ted”</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v01/persons#p_STC_1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="8">
+        <remark source-urls="5">
+            <p>President's Special Counsel</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v01/persons#p_STC1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v05/persons#p_STC1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v14/persons#p_STC3</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v15/persons#p_STC3</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v24/persons#p_STC1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>President's Special Counsel from January 1961</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v08/persons#p_STC3</source-url>
+        </remark>
+        <remark source-urls="3">
+            <p>Special Counsel to the President</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v10/persons#p_STC3</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v11/persons#p_STC3</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v25/persons#p_STC3</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Special Counsel to President Kennedy and Special Counsel to President Johnson until February 1964</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v04/persons#p_ST1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Adviser to Senator Robert Kennedy</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v05/persons#p_ST1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>informal adviser to Senator Robert F. Kennedy</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v06/persons#p_ST1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Special Counsel to the President until February 29, 1964</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v31/persons#p_STC1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>President’s Special Counsel from 1961 until 1963; Jimmy Carter’s unsuccessful nominee for head of the Central Intelligence Agency in 1977</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v01/persons#p_STC_1</source-url>
+        </remark>
+    </remarks>
+</person>

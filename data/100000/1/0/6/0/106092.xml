@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>106092</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Hook, Brian H.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="1">
+                <name>Hook, Brian H.</name>
+                <source-url>https://history.state.gov/departmenthistory/people/hook-brian-h</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1968</birth-year>
+    <death-year/>
+    <remarks variants="1">
+        <remark source-urls="1">
+            <p>Non-career appointee. Assistant Secretary of State for International Organization Affairs.</p>
+            <source-url>https://history.state.gov/departmenthistory/people/hook-brian-h</source-url>
+        </remark>
+    </remarks>
+</person>

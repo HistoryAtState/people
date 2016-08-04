@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>108422</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Mallet, William Ivo</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="1">
+                <name>Mallet, William I.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1949v03/persons#p_MWI1</source-url>
+            </original>
+            <original source-urls="2">
+                <name>Mallet, Sir William I.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v03p1/persons#p_MSWI1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v03p2/persons#p_MSWI1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Mallett, Sir William Ivo</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v08/persons#p_MSWI1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="1">
+            <title source-urls="3">
+                <name>Sir</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v03p1/persons#p_MSWI1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v03p2/persons#p_MSWI1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v08/persons#p_MSWI1</source-url>
+            </title>
+        </titles-from-name>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="3">
+        <remark source-urls="1">
+            <p>British Assistant Under-Secretary of State; Representative at the Austrian Treaty Negotiations, from July 1.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1949v03/persons#p_MWI1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Deputy Under Secretary of State (for the Austrian Treaty), British Foreign Office; Ambassador in Yugoslavia, from October 1951.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1951v03p1/persons#p_MSWI1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1951v03p2/persons#p_MSWI1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>British Ambassador to Yugoslavia, October 1951–October 1954.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v08/persons#p_MSWI1</source-url>
+        </remark>
+    </remarks>
+</person>

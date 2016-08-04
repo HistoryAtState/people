@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>111223</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Reber, Samuel, Jr.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="6">
+                <name>Reber, Samuel</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv01/persons#p_RS2</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1947v02/persons#p_RS1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1948v02/persons#p_RS1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1949v03/persons#p_RS1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v05p1/persons#p_REBERS1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v05p2/persons#p_REBERS1</source-url>
+            </original>
+            <original source-urls="5">
+                <name>Reber, Samuel, Jr.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv02/persons#p_RS1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v03p1/persons#p_RSJ1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v03p2/persons#p_RSJ1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v04p1/persons#p_RSJ1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v04p2/persons#p_RSJ1</source-url>
+            </original>
+            <original source-urls="2">
+                <name>Reber, Samuel Jr.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v07p1/persons#p_RSJ1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v07p2/persons#p_RSJ1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="8">
+        <remark source-urls="2">
+            <p>Special Assistant to the Director, Office of European Affairs, Department of State.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv01/persons#p_RS2</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv02/persons#p_RS1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Chief, Division of Western European Affairs, Department of State, March–September 1947; Deputy Director, Office of European Affairs, from September 1947</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1947v02/persons#p_RS1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Deputy Director, Office of European Affairs, Department of State</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1948v02/persons#p_RS1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>United States Representative at the Austrian treaty negotiations; Deputy for Austria at the Sixth Session of the Council of Foreign Ministers.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1949v03/persons#p_RS1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Director of Political Affairs and Counselor, HICOG; United States Deputy for Austria, Council of Foreign Ministers.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1951v03p1/persons#p_RSJ1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1951v03p2/persons#p_RSJ1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Director of Political Affairs and Counselor, HICOG; United States Deputy for Austria, Council of Foreign Ministers</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1951v04p1/persons#p_RSJ1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1951v04p2/persons#p_RSJ1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Director of Political Affairs, Office of Political Affairs, Office of the United States High Commissioner for Germany, after May 10, 1950; Deputy United States High Commissioner for Germany, October 13, 1952–June 1953.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v05p1/persons#p_REBERS1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v05p2/persons#p_REBERS1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Director of Political Affairs in the Office of Political Affairs, HICOG, until July 1953.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v07p1/persons#p_RSJ1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v07p2/persons#p_RSJ1</source-url>
+        </remark>
+    </remarks>
+</person>

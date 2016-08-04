@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>109781</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Nguyen Chi Thanh</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="2">
+                <name>Nguyen Chi Thanh</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v04/persons#p_NCT2</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v05/persons#p_NCT1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="2">
+        <remark source-urls="1">
+            <p>General, Head of the Central Office for South Vietnam, the headquarters for North Vietnamese control of Vietcong forces</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v04/persons#p_NCT2</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>General, PAVN, Head of the Central Office for South Vietnam until July</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v05/persons#p_NCT1</source-url>
+        </remark>
+    </remarks>
+</person>

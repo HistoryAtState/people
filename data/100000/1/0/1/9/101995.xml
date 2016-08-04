@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>101995</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Busby, Morris Dempson</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="2">
+                <name>Busby, Morris Dempson</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve03/persons#p_BMD1</source-url>
+                <source-url>https://history.state.gov/departmenthistory/people/busby-morris-dempson</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Morris D. Busby</name>
+                <source-url>https://history.state.gov/departmenthistory/people/busby-morris-dempson</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1938</birth-year>
+    <death-year/>
+    <remarks variants="2">
+        <remark source-urls="1">
+            <p>Director of the Office of Ocean Affairs, Oceans and Fisheries Affairs, Bureau of Oceans and International and Scientific Affairs, Department of State</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve03/persons#p_BMD1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Non-career appointee. Director of the Bureau of Counterterrorism; Ambassador Extraordinary and Plenipotentiary (Colombia).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/busby-morris-dempson</source-url>
+        </remark>
+    </remarks>
+</person>

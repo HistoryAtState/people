@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>103929</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Elkus, Abram Isaac</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="1">
+                <name>Elkus, Abram I.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1916Supp/persons#p_EAI1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Elkus, Abram Isaac</name>
+                <source-url>https://history.state.gov/departmenthistory/people/elkus-abram-isaac</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Abram I. Elkus</name>
+                <source-url>https://history.state.gov/departmenthistory/people/elkus-abram-isaac</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1867</birth-year>
+    <death-year>1947</death-year>
+    <remarks variants="2">
+        <remark source-urls="1">
+            <p>U. S. Ambassador in Turkey after July 1916.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1916Supp/persons#p_EAI1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Non-career appointee. Ambassador Extraordinary and Plenipotentiary (Turkey).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/elkus-abram-isaac</source-url>
+        </remark>
+    </remarks>
+</person>

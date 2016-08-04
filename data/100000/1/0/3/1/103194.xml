@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>103194</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Davis, John H.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="3">
+                <name>Davis, John H.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v13/persons#p_DJH1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v17/persons#p_DJH1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v18/persons#p_DJH1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Davis, Dr. John H.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve01/persons#p_DJH1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="1">
+            <title source-urls="1">
+                <name>Dr.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve01/persons#p_DJH1</source-url>
+            </title>
+        </titles-from-name>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="3">
+        <remark source-urls="1">
+            <p>Director of the United Nations Relief and Works Agency for Palestinian Refugees from February 1959</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v13/persons#p_DJH1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Commissioner-General of the United Nations Relief and Works Agency for Palestinian Refugees</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v17/persons#p_DJH1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v18/persons#p_DJH1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Commissioner–General, United Nations Relief and Works Agency, 1959–1963; President, American Near East Refugee Aid</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve01/persons#p_DJH1</source-url>
+        </remark>
+    </remarks>
+</person>

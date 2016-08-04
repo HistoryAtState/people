@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>112030</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Schenck, Robert Cumming</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="1">
+                <name>Schenck, Robert Cumming</name>
+                <source-url>https://history.state.gov/departmenthistory/people/schenck-robert-cumming</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Robert C. Schenck</name>
+                <source-url>https://history.state.gov/departmenthistory/people/schenck-robert-cumming</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1809</birth-year>
+    <death-year>1890</death-year>
+    <remarks variants="1">
+        <remark source-urls="1">
+            <p>Non-career appointee. Envoy Extraordinary and Minister Plenipotentiary (United Kingdom); Envoy Extraordinary and Minister Plenipotentiary (Brazil).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/schenck-robert-cumming</source-url>
+        </remark>
+    </remarks>
+</person>

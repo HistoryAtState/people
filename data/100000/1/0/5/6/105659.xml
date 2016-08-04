@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>105659</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Hassell, Kai-Uwe von</name>
+        </preferred>
+        <alternates/>
+        <originals variants="4">
+            <original source-urls="2">
+                <name>Von Hassel, Kai-Uwe</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v13/persons#p_VHKU1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v13/persons#p_HKU1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Hassel, Kai-Uwe von</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v15/persons#p_HKU1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Hassell, Kai-Uwe von (CDU)</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v15/persons#p_HKU1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Hassell, Kai-Uwe von</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v40/persons#p_HKU1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="1">
+            <title source-urls="1">
+                <name>(CDU)</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v15/persons#p_HKU1</source-url>
+            </title>
+        </titles-from-name>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="5">
+        <remark source-urls="1">
+            <p>Minister of Defense of the Federal Republic of Germany from June 1962</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v13/persons#p_VHKU1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>German Minister of Defense from 1962</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v15/persons#p_HKU1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>German Defense Minister until October 1966</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v13/persons#p_HKU1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>West German Defense Minister until December 1, 1966; then Minister of Displaced Persons, Refugees and War Wounded; CDU Deputy Chairman</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v15/persons#p_HKU1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>(CDU), West German Minister of Displaced Persons, Refugees and War Wounded until February 5, 1969; then President of the Bundestag; CDU Deputy Chairman</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v40/persons#p_HKU1</source-url>
+        </remark>
+    </remarks>
+</person>

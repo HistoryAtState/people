@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>113673</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Townsend, Lawrence</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="1">
+                <name>Townsend, Lawrence</name>
+                <source-url>https://history.state.gov/departmenthistory/people/townsend-lawrence</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1860</birth-year>
+    <death-year>1954</death-year>
+    <remarks variants="1">
+        <remark source-urls="1">
+            <p>Non-career appointee. Envoy Extraordinary and Minister Plenipotentiary (Portugal); Envoy Extraordinary and Minister Plenipotentiary (Belgium).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/townsend-lawrence</source-url>
+        </remark>
+    </remarks>
+</person>

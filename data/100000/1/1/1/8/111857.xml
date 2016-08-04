@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>111857</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Saltonstall, Leverett</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="1">
+                <name>Saltonstall</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v02p1/persons#p_SALTONSTALL1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Saltonstall, Senator Leverett</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v02p2/persons#p_SALTONSTALL1</source-url>
+            </original>
+            <original source-urls="7">
+                <name>Saltonstall, Leverett</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v09/persons#p_SL1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v10/persons#p_SL1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v19/persons#p_SL1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v20/persons#p_SL1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v04/persons#p_SL1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v07/persons#p_SL1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v04/persons#p_SL1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="1">
+            <title source-urls="1">
+                <name>Senator</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v02p2/persons#p_SALTONSTALL1</source-url>
+            </title>
+        </titles-from-name>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="5">
+        <remark source-urls="1">
+            <p>Senator Leverett, (R–Massachusetts), Member of the Committees on Armed Services (Chairman, 1953–1954) and Appropriations.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v02p1/persons#p_SALTONSTALL1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>(R–Massachusetts), Member of the Committees on Armed Services (Chairman, 1953–1954) and Appropriations.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v02p2/persons#p_SALTONSTALL1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Republican Senator from Massachusetts; second ranking Republican, Senate Appropriations Committee</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v09/persons#p_SL1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v10/persons#p_SL1</source-url>
+        </remark>
+        <remark source-urls="4">
+            <p>Republican Senator from Massachusetts</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v19/persons#p_SL1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v20/persons#p_SL1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v04/persons#p_SL1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v07/persons#p_SL1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Senator (R-Massachusetts)</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v04/persons#p_SL1</source-url>
+        </remark>
+    </remarks>
+</person>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>112260</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Seward, William Henry</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="1">
+                <name>Seward, William H.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945Malta/persons#p_SWH1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Seward, William Henry</name>
+                <source-url>https://history.state.gov/departmenthistory/people/seward-william-henry</source-url>
+            </original>
+            <original source-urls="1">
+                <name>William H. Seward</name>
+                <source-url>https://history.state.gov/departmenthistory/people/seward-william-henry</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1801</birth-year>
+    <death-year>1872</death-year>
+    <remarks variants="2">
+        <remark source-urls="1">
+            <p>Secretary of State, 1861–1869.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1945Malta/persons#p_SWH1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Non-career appointee. Secretary of State.</p>
+            <source-url>https://history.state.gov/departmenthistory/people/seward-william-henry</source-url>
+        </remark>
+    </remarks>
+</person>

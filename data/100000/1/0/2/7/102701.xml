@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>102701</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Cohen, Benjamin Victor</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="2">
+                <name>Cohen, Benjamin Victor</name>
+                <source-url>https://history.state.gov/departmenthistory/people/cohen-benjamin-victor</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv02/persons#p_CBV1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Benjamin V. Cohen</name>
+                <source-url>https://history.state.gov/departmenthistory/people/cohen-benjamin-victor</source-url>
+            </original>
+            <original source-urls="6">
+                <name>Cohen, Benjamin V.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv01/persons#p_CBV1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1947v02/persons#p_CBV2</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v03p1/persons#p_CBV1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v03p2/persons#p_CBV1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v02p1/persons#p_COHENBV1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v02p2/persons#p_COHENBV1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1894</birth-year>
+    <death-year>1983</death-year>
+    <remarks variants="5">
+        <remark source-urls="1">
+            <p>Non-career appointee. Counselor.</p>
+            <source-url>https://history.state.gov/departmenthistory/people/cohen-benjamin-victor</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Special Assistant to the Secretary of State.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv01/persons#p_CBV1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv02/persons#p_CBV1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Counselor of the Department of State, July 1945–July 1947</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1947v02/persons#p_CBV2</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Alternate Representative at the Sixth Session of the United Nations General Assembly.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1951v03p1/persons#p_CBV1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1951v03p2/persons#p_CBV1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Deputy United States Representative to the United Nations Disarmament Commission, 1952.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v02p1/persons#p_COHENBV1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v02p2/persons#p_COHENBV1</source-url>
+        </remark>
+    </remarks>
+</person>

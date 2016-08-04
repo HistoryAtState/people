@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>111045</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Queiros, Henrique B. C.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="1">
+                <name>Caldeira Queiros</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v27/persons#p_CQ1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Queiros, Henrique B. C.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v27/persons#p_QHBC1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="2">
+        <remark source-urls="1">
+            <p>see Queiros</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v27/persons#p_CQ1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Deputy Director General for Political Affairs, Portuguese Foreign Ministry, 1955; thereafter Political Director, Foreign Ministry</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v27/persons#p_QHBC1</source-url>
+        </remark>
+    </remarks>
+</person>

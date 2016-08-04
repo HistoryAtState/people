@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>100324</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Almeyda Medina, Clodomiro</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="3">
+                <name>Almeyda Medina, Clodomiro</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v21/persons#p_AMC_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve11p2/persons#p_AMC_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve16/persons#p_AMC_1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="3">
+        <remark source-urls="1">
+            <p>Chilean Foreign Minister from 1970 until May 3, 1973; Defense Minister from May 3 to August 9, 1973; Foreign Minister from August 9 to September 11, 1973</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v21/persons#p_AMC_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>former Chilean official in the Allende government from 1970 until 1973</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve11p2/persons#p_AMC_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Chilean Foreign Minister from 1970 until May 3, 1973; Defense Minister from May 3 until August 9, 1973; Foreign Minister from August 9 until September 11, 1973</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve16/persons#p_AMC_1</source-url>
+        </remark>
+    </remarks>
+</person>

@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>110568</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Perón, Juan Domingo</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="8">
+                <name>Perón, Juan Domingo</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v04/persons#p_PJD1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v06/persons#p_PJD1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v07/persons#p_PJD1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v31/persons#p_PJD1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve10/persons#p_PJD1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve11p2/persons#p_PJD_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve16/persons#p_PJ_3</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1981-88v13/persons#p_PJ_1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Perón, General Juan Domingo</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v05/persons#p_PGJD1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Peron, Juan Domingo</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v12/persons#p_PJD2</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="1">
+            <title source-urls="1">
+                <name>General</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v05/persons#p_PGJD1</source-url>
+            </title>
+        </titles-from-name>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="8">
+        <remark source-urls="1">
+            <p>President of Argentina until September 22, 1955.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v04/persons#p_PJD1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>President of Argentina until September 22, 1955</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v06/persons#p_PJD1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v07/persons#p_PJD1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>former President of Argentina, June 4, 1946–September 22, 1955</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v05/persons#p_PGJD1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>former President of Argentina exiled to Spain</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v12/persons#p_PJD2</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>former President of Argentina</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v31/persons#p_PJD1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Argentinean President from 1946 until 1955 and from 1973 until 1974</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve10/persons#p_PJD1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve16/persons#p_PJ_3</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>President of Argentina from October 12, 1973, until July 1, 1974</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve11p2/persons#p_PJD_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>President of Argentina, 1946–1955 and 1973–1974</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1981-88v13/persons#p_PJ_1</source-url>
+        </remark>
+    </remarks>
+</person>

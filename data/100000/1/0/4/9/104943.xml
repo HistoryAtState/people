@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>104943</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Glennan, Thomas Keith</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="1">
+                <name>Glennan, Thomas Keith</name>
+                <source-url>https://history.state.gov/departmenthistory/people/glennan-thomas-keith</source-url>
+            </original>
+            <original source-urls="1">
+                <name>T. Keith Glennan</name>
+                <source-url>https://history.state.gov/departmenthistory/people/glennan-thomas-keith</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1905</birth-year>
+    <death-year>1995</death-year>
+    <remarks variants="1">
+        <remark source-urls="1">
+            <p>Non-career appointee. Representative of the U.S.A. to the International Atomic Energy Agency (Vienna).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/glennan-thomas-keith</source-url>
+        </remark>
+    </remarks>
+</person>

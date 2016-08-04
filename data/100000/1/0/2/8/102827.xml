@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>102827</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Coon, Carleton Stevens, Jr.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="4">
+            <original source-urls="1">
+                <name>Coon, Carleton S.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v12/persons#p_CCSJ1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Coon, Carleton S., Jr.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v25/persons#p_CCSJ1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Coon, Carleton Stevens, Jr.</name>
+                <source-url>https://history.state.gov/departmenthistory/people/coon-carleton-stevens-jr</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Carleton S. Coon</name>
+                <source-url>https://history.state.gov/departmenthistory/people/coon-carleton-stevens-jr</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1927</birth-year>
+    <death-year/>
+    <remarks variants="3">
+        <remark source-urls="1">
+            <p>Office of the Under Secretary of State’s Assistant for Communist Economic Affairs from October 1959</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v12/persons#p_CCSJ1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Officer in Charge of India, Nepal, and Ceylon Affairs, Bureau of Near Eastern and South Asian Affairs, Department of State, September 1965–July 1968</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v25/persons#p_CCSJ1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Foreign Service Officer. Ambassador Extraordinary and Plenipotentiary (Nepal).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/coon-carleton-stevens-jr</source-url>
+        </remark>
+    </remarks>
+</person>

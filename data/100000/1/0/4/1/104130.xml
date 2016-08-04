@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>104130</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Falin, Valentin M.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="3">
+                <name>Falin, Valentin M.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v13/persons#p_FVM1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v14/persons#p_FVM1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v40/persons#p_FVM1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="3">
+        <remark source-urls="1">
+            <p>head of the Third European Department in the Soviet Ministry of Foreign Affairs until April 1971; Soviet Ambassador to West Germany from May 3, 1971</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v13/persons#p_FVM1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Soviet Ambassador to West Germany</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v14/persons#p_FVM1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>head of the Third European Department in the Soviet Foreign Ministry until April 1971; Soviet Ambassador to West Germany from May 3, 1971</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v40/persons#p_FVM1</source-url>
+        </remark>
+    </remarks>
+</person>

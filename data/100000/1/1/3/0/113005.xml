@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>113005</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Stevenson, Robert Ayer</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="4">
+                <name>Stevenson, Robert A.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v05/persons#p_SRA1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v06/persons#p_SRA1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v32/persons#p_SRA1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve10/persons#p_SRA2</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Stevenson, Robert Ayer</name>
+                <source-url>https://history.state.gov/departmenthistory/people/stevenson-robert-ayer</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Robert A. Stevenson</name>
+                <source-url>https://history.state.gov/departmenthistory/people/stevenson-robert-ayer</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1918</birth-year>
+    <death-year/>
+    <remarks variants="5">
+        <remark source-urls="1">
+            <p>Division of Research and Analysis for American Republics, Office of Intelligence Research and Analysis, Department of State, until December 1958; Officer in Charge of Cuban Affairs, Office of Caribbean and Mexican Affairs, December 1958–October 1960; Acting Deputy Director, Office of Caribbean and Mexican Affairs, September–October 1960; thereafter Deputy Director</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v05/persons#p_SRA1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Division of Research and Analysis for American Republics, Department of State, until December 1958; Officer in Charge of Cuban Affairs, Office of Caribbean and Mexican Affairs, December 1958–October 1960; thereafter Deputy Director, Office of Caribbean and Mexican Affairs</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v06/persons#p_SRA1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Deputy Coordinator of Cuban Affairs, Bureau of Inter-American Affairs, Department of State, 1965–1966; Coordinator of Cuban Affairs, 1966–1967</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v32/persons#p_SRA1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Deputy Chief of Mission, U.S. Embassy in Bogotá from 1967 until 1971; Country Director for Mexico, Bureau of Inter-American Affairs, Department of State from 1971 until 1973</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve10/persons#p_SRA2</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Foreign Service Officer. Ambassador Extraordinary and Plenipotentiary (Malawi).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/stevenson-robert-ayer</source-url>
+        </remark>
+    </remarks>
+</person>

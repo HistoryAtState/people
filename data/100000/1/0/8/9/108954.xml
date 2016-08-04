@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>108954</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>McPherson, Harry Cummings, Jr.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="5">
+            <original source-urls="4">
+                <name>McPherson, Harry C.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v04/persons#p_MPHC1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v05/persons#p_MPHC1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v07/persons#p_MPHC1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v33/persons#p_MPHCJ1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>McPherson, Harry</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v06/persons#p_MPH1</source-url>
+            </original>
+            <original source-urls="3">
+                <name>McPherson, Harry C., Jr.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v09/persons#p_MPHCJ1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v19/persons#p_MPHCJ1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v31/persons#p_MPHCJ1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>McPherson, Harry Cummings, Jr.</name>
+                <source-url>https://history.state.gov/departmenthistory/people/mcpherson-harry-cummings</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Harry C. McPherson, Jr.</name>
+                <source-url>https://history.state.gov/departmenthistory/people/mcpherson-harry-cummings</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1929</birth-year>
+    <death-year>2012</death-year>
+    <remarks variants="6">
+        <remark source-urls="2">
+            <p>Jr., Special Counsel to the President</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v04/persons#p_MPHC1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v05/persons#p_MPHC1</source-url>
+        </remark>
+        <remark source-urls="3">
+            <p>Special Counsel to the President</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v06/persons#p_MPH1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v07/persons#p_MPHC1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v19/persons#p_MPHCJ1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Jr., Assistant Secretary of State for Educational and Cultural Affairs August 23, 1964–August 14, 1965; Special Assistant to the President August 1965–February 1966; thereafter Special Counsel to the President</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v33/persons#p_MPHCJ1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Assistant Secretary of State for Educational and Cultural Affairs, August 23, 1964–August 14, 1965; thereafter Special Counsel to the President</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v09/persons#p_MPHCJ1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Deputy Under Secretary of the Army for International Affairs until August 1964; also Special Assistant to the Secretary of the Army for Civilian Functions March–August 1964; Assistant Secretary of State for Educational and Cultural Affairs August 23, 1964–August 14, 1965; thereafter Special Counsel to the President</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v31/persons#p_MPHCJ1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Non-career appointee. Assistant Secretary of State for Educational and Cultural Affairs.</p>
+            <source-url>https://history.state.gov/departmenthistory/people/mcpherson-harry-cummings</source-url>
+        </remark>
+    </remarks>
+</person>

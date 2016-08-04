@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>104280</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Finn, Richard B.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="9">
+                <name>Finn, Richard B.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v14p1/persons#p_FRB1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v14p2/persons#p_FRB1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v12/persons#p_FRB1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v15/persons#p_FRB1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v16/persons#p_FRB1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v23p1/persons#p_FRB1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v13/persons#p_FRB2</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v15/persons#p_FRB2</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve10/persons#p_FRB1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Finn, Richard</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v13/persons#p_FR2</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="6">
+        <remark source-urls="2">
+            <p>Third Secretary at the Mission in Japan to February 1952; Second Secretary to April 1954; thereafter Acting Officer in Charge of Japanese Affairs, Office of Northeast Asian Affairs, Department of State.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v14p1/persons#p_FRB1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v14p2/persons#p_FRB1</source-url>
+        </remark>
+        <remark source-urls="3">
+            <p>Special Assistant to the Deputy Under Secretary of State for Political Affairs after February 26, 1956</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v12/persons#p_FRB1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v15/persons#p_FRB1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v16/persons#p_FRB1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Officer in Charge of Japanese Affairs, Department of State, to February 1956; thereafter Special Assistant to the Deputy Under Secretary of State for Political Affairs</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v23p1/persons#p_FRB1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Special Assistant, Office of the Deputy Under Secretary of State for Political Affairs, until August 1958</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v13/persons#p_FR2</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Deputy Director of the Office of German Affairs, Bureau of European Affairs, Department of State, until July 1966</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v13/persons#p_FRB2</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v15/persons#p_FRB2</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Country Director, Japan, Bureau of East Asian and Pacific Affairs until May 1971; Special Advisor, U.S. Office of Inter-Oceanic Canal Negotiations from May 1971</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve10/persons#p_FRB1</source-url>
+        </remark>
+    </remarks>
+</person>

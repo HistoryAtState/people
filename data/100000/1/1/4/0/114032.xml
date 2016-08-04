@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>114032</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Velebit, Vladimir</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="1">
+                <name>Velebit, Major General Vladimir</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv01/persons#p_VMGV1</source-url>
+            </original>
+            <original source-urls="4">
+                <name>Velebit, Vladimir</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v04p1/persons#p_VV1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v04p2/persons#p_VV1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v08/persons#p_VV1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v17/persons#p_VV1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="1">
+            <title source-urls="1">
+                <name>Major General</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv01/persons#p_VMGV1</source-url>
+            </title>
+        </titles-from-name>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="4">
+        <remark source-urls="1">
+            <p>member of the Yugoslav Delegation which negotiated the Duino agreement of June 20, 1945, relating to Venezia Giulia.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv01/persons#p_VMGV1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Yugoslav Deputy Minister of Foreign Trade</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1951v04p1/persons#p_VV1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1951v04p2/persons#p_VV1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Yugoslav Deputy Minister for Foreign Affairs, 1945–1948; Chairman of the Yugoslav Federal Committee on Tourism, 1948–1953; Yugoslav Ambassador to the United Kingdom, February 1953–October 1956.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v08/persons#p_VV1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Executive Secretary of the Economic Commission for Europe</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v17/persons#p_VV1</source-url>
+        </remark>
+    </remarks>
+</person>

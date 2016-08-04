@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>111036</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Quadros, Janio da Silva</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="1">
+                <name>Quadros, Janio da Silva</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v05/persons#p_QJS1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Quadros, Janio</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v12/persons#p_QJS1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="2">
+        <remark source-urls="1">
+            <p>Governor of the State of Sao Paulo, Brazil, until 1958; member of the Brazilian Chamber of Deputies, 1959–1960; President-elect of Brazil from October 3, 1960</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v05/persons#p_QJS1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>President of Brazil, January 31-August 25, 1961</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v12/persons#p_QJS1</source-url>
+        </remark>
+    </remarks>
+</person>

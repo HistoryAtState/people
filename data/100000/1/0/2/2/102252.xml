@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>102252</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Carter, James Garneth</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="1">
+                <name>Carter, James Garneth</name>
+                <source-url>https://history.state.gov/departmenthistory/people/carter-james-garneth</source-url>
+            </original>
+            <original source-urls="1">
+                <name>James G. Carter</name>
+                <source-url>https://history.state.gov/departmenthistory/people/carter-james-garneth</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1877</birth-year>
+    <death-year>1949</death-year>
+    <remarks variants="1">
+        <remark source-urls="1">
+            <p>Foreign Service Officer. Minister Resident/Consul General (Liberia).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/carter-james-garneth</source-url>
+        </remark>
+    </remarks>
+</person>

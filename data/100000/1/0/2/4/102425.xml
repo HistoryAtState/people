@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>102425</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Chase, Robert Willard</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="2">
+                <name>Chase, Robert W.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v05/persons#p_CRW1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve14p1/persons#p_CRW1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Chase, Robert Willard</name>
+                <source-url>https://history.state.gov/departmenthistory/people/chase-robert-willard</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Robert W. Chase</name>
+                <source-url>https://history.state.gov/departmenthistory/people/chase-robert-willard</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1921</birth-year>
+    <death-year>2003</death-year>
+    <remarks variants="3">
+        <remark source-urls="1">
+            <p>Multilateral Organizations Adviser, Bureau of Near Eastern and South Asian Affairs, Department of State</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v05/persons#p_CRW1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Regional Political Adviser, Regional Affairs, Bureau of Near Eastern and South Asian Affairs, Department of State</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve14p1/persons#p_CRW1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Foreign Service Officer. Chargé d'Affaires ad interim (Swaziland).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/chase-robert-willard</source-url>
+        </remark>
+    </remarks>
+</person>

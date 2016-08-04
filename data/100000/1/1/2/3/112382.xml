@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>112382</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Shigemitsu, Mamoru</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="4">
+                <name>Shigemitsu, Mamoru</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v14p1/persons#p_SM1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v14p2/persons#p_SM1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v10/persons#p_SM1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v23p1/persons#p_SM1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="3">
+        <remark source-urls="2">
+            <p>President of the Japanese Progressive Party; Minister of Foreign Affairs from December 1954.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v14p1/persons#p_SM1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v14p2/persons#p_SM1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Japanese Foreign Minister</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v10/persons#p_SM1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Japanese Foreign Minister to December 1956</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v23p1/persons#p_SM1</source-url>
+        </remark>
+    </remarks>
+</person>

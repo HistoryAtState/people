@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>109193</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Minic, Milos</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="2">
+                <name>Minic, Milos</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve15p1/persons#p_MM9</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v20/persons#p_MM_2</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="2">
+        <remark source-urls="1">
+            <p>Yugoslav Vice President of Federal Executive Council; Minister of Foreign Affairs from December 16, 1972 to May 17 1978</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve15p1/persons#p_MM9</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Yugoslavian Minister of Foreign Affairs from December 16, 1972, until May 17, 1978</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v20/persons#p_MM_2</source-url>
+        </remark>
+    </remarks>
+</person>

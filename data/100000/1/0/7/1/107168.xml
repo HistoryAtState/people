@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>107168</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Kim Chong-O (Kim Chong-Oh)</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="1">
+                <name>Kim Chong-O (Kim Chong-Oh)</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v29p1/persons#p_KCOKCO1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="1">
+        <remark source-urls="1">
+            <p>Chairman of the Republic of Korea Joint Chiefs of Staff April 1964–April 1965</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v29p1/persons#p_KCOKCO1</source-url>
+        </remark>
+    </remarks>
+</person>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>112627</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Smith, Howard K.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="3">
+                <name>Smith, Howard K.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v13/persons#p_SHK1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v01/persons#p_SHK_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v30/persons#p_SHK_1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="3">
+        <remark source-urls="1">
+            <p>co-anchor of ABC Evening News</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v13/persons#p_SHK1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>co-anchor, ABC Evening News, until 1975; thereafter political analyst and commentator, ABC News; moderator of the 1980 Presidential Debate</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v01/persons#p_SHK_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>co-anchor, ABC Evening News, until 1975; thereafter political analyst and commentator, ABC News</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v30/persons#p_SHK_1</source-url>
+        </remark>
+    </remarks>
+</person>

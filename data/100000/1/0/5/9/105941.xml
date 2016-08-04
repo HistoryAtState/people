@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>105941</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Hilton, Ralph</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="2">
+                <name>Hilton, Ralph</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v06/persons#p_HR1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v07/persons#p_HR1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="1">
+        <remark source-urls="2">
+            <p>Bureau of Inter-American Affairs, Department of State, until December 19, 1955; Policy Planning Adviser, Bureau of Inter-American Affairs, December 19, 1955-February 1, 1956; Special Assistant to the Assistant Secretary of State for Inter-American Affairs, February 1, 1956-February 10, 1957; thereafter, Counselor, Embassy in Paraguay</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v06/persons#p_HR1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v07/persons#p_HR1</source-url>
+        </remark>
+    </remarks>
+</person>

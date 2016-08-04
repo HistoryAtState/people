@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>113153</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Suesterhenn, Adolf</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="1">
+                <name>Suesterhenn, Dr. Adolf</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1948v02/persons#p_SA3</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="1">
+            <title source-urls="1">
+                <name>Dr.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1948v02/persons#p_SA3</source-url>
+            </title>
+        </titles-from-name>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="1">
+        <remark source-urls="1">
+            <p>Minister of Justice in Rhineland-Palatinate; member of the Christian Democratic Union; representative to the Parliamentary Council</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1948v02/persons#p_SA3</source-url>
+        </remark>
+    </remarks>
+</person>

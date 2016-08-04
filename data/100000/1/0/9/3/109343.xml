@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>109343</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Moore, John Norton</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="2">
+                <name>Moore, John Norton</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve03/persons#p_MJN1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve12/persons#p_moore-john-norton</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="2">
+        <remark source-urls="1">
+            <p>Counselor on International Law, Office of the Legal Adviser, Department of State, Chairman of the National Security Council Interagency Task Force on the Law of the Sea, Deputy Special Representative of the President for the Third United Nations Law of the Sea Conference and Deputy Chief of Delegation, until March 1976</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve03/persons#p_MJN1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Counselor on International Law, Office of the Legal Adviser, Department of State; Chairman of the National Security Council Interagency Task Force on the Law of the Sea, Deputy Special Representative of the President for the third United Nations Law of the Sea Conference and Deputy Chief of Delegation, until March 1976</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve12/persons#p_moore-john-norton</source-url>
+        </remark>
+    </remarks>
+</person>

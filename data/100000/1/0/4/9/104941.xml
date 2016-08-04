@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>104941</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Glenn, John H., Jr.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="4">
+            <original source-urls="1">
+                <name>Glenn, Colonel John H.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v25/persons#p_GCJH1</source-url>
+            </original>
+            <original source-urls="2">
+                <name>Glenn, John H.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v10/persons#p_GJH1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v13/persons#p_GJH_1</source-url>
+            </original>
+            <original source-urls="3">
+                <name>Glenn, John H., Jr.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve14p2/persons#p_GJ_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v26/persons#p_GJ_2</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v30/persons#p_GJ_1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Glenn, John H. Jr.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v01/persons#p_GJH2_1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="1">
+            <title source-urls="1">
+                <name>Colonel</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v25/persons#p_GCJH1</source-url>
+            </title>
+        </titles-from-name>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="6">
+        <remark source-urls="1">
+            <p>first U.S. astronaut to orbit the Earth, February 20, 1962</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v25/persons#p_GCJH1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Democratic Senator from Ohio</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v10/persons#p_GJH1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Senator (D-Ohio) from December 24, 1974</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve14p2/persons#p_GJ_1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v01/persons#p_GJH2_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>first American to orbit the earth; Senator (D–Ohio) from 1974 until 1999</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v13/persons#p_GJH_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Senator (D–Ohio)</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v26/persons#p_GJ_2</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Senator (D-Ohio)</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v30/persons#p_GJ_1</source-url>
+        </remark>
+    </remarks>
+</person>

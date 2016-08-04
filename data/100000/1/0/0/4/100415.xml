@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>100415</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Anderson, Chandler Parsons</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="2">
+                <name>Anderson, Chandler P.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1914Supp/persons#p_ACP1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1915Supp/persons#p_ACP1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Anderson, Chandler Parsons</name>
+                <source-url>https://history.state.gov/departmenthistory/people/anderson-chandler-parsons</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Chandler P. Anderson</name>
+                <source-url>https://history.state.gov/departmenthistory/people/anderson-chandler-parsons</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1866</birth-year>
+    <death-year>1936</death-year>
+    <remarks variants="3">
+        <remark source-urls="1">
+            <p>United States Special Legal Adviser to the Embassy in Great Britain.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1914Supp/persons#p_ACP1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Legal adviser to the Department of State and American Embassies in Europe.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1915Supp/persons#p_ACP1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Non-career appointee. Counselor.</p>
+            <source-url>https://history.state.gov/departmenthistory/people/anderson-chandler-parsons</source-url>
+        </remark>
+    </remarks>
+</person>

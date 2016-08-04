@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>112674</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Smith, William Loughton</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="1">
+                <name>Smith, William Loughton</name>
+                <source-url>https://history.state.gov/departmenthistory/people/smith-william-loughton</source-url>
+            </original>
+            <original source-urls="1">
+                <name>William Smith</name>
+                <source-url>https://history.state.gov/departmenthistory/people/smith-william-loughton</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1758</birth-year>
+    <death-year>1812</death-year>
+    <remarks variants="1">
+        <remark source-urls="1">
+            <p>Non-career appointee. Minister Plenipotentiary (Portugal).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/smith-william-loughton</source-url>
+        </remark>
+    </remarks>
+</person>

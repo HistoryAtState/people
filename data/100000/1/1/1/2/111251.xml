@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>111251</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Reich, Otto Juan</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="1">
+                <name>Reich, Otto Juan</name>
+                <source-url>https://history.state.gov/departmenthistory/people/reich-otto-juan</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Otto J. Reich</name>
+                <source-url>https://history.state.gov/departmenthistory/people/reich-otto-juan</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1945</birth-year>
+    <death-year/>
+    <remarks variants="1">
+        <remark source-urls="1">
+            <p>Non-career appointee. Assistant Secretary of State for Western Hemisphere Affairs; Ambassador Extraordinary and Plenipotentiary (Venezuela).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/reich-otto-juan</source-url>
+        </remark>
+    </remarks>
+</person>

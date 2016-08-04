@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>107892</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Le Van Kim</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="3">
+                <name>Le Van Kim</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v16/persons#p_LVK1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v01/persons#p_LVK1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v01/persons#p_LVK1</source-url>
+            </original>
+            <original source-urls="3">
+                <name>Kim</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v03/persons#p_KIM1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v04/persons#p_KIM1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v01/persons#p_Kim1</source-url>
+            </original>
+            <original source-urls="2">
+                <name>Le Van Kim, Brigadier General</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v03/persons#p_LVKBG1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v04/persons#p_LVKBG1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="1">
+            <title source-urls="2">
+                <name>Brigadier General</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v03/persons#p_LVKBG1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v04/persons#p_LVKBG1</source-url>
+            </title>
+        </titles-from-name>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="5">
+        <remark source-urls="1">
+            <p>Colonel, Member of the Military Delegation of the State of Vietnam at the Geneva Conference.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v16/persons#p_LVK1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Brig. Gen., Deputy Commanding General, ARVN Field Command</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v01/persons#p_LVK1</source-url>
+        </remark>
+        <remark source-urls="3">
+            <p>see Le Van Kim</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v03/persons#p_KIM1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v04/persons#p_KIM1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v01/persons#p_Kim1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>(after November 1, 1963, Major General), ARVN, Secretary General and Foreign Affairs member, Executive Committee of the Military Revolutionary Council, after November 1, 1963</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v03/persons#p_LVKBG1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v04/persons#p_LVKBG1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Major General, ARVN, Secretary General and Foreign Affairs member of the Executive Committee of the Military Revolutionary Council until January 30, 1964</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v01/persons#p_LVK1</source-url>
+        </remark>
+    </remarks>
+</person>

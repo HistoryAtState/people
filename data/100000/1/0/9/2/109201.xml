@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>109201</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Minter, John Russell</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="1">
+                <name>Minter, John Russell</name>
+                <source-url>https://history.state.gov/departmenthistory/people/minter-john-russell</source-url>
+            </original>
+            <original source-urls="1">
+                <name>John R. Minter</name>
+                <source-url>https://history.state.gov/departmenthistory/people/minter-john-russell</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1893</birth-year>
+    <death-year>1970</death-year>
+    <remarks variants="1">
+        <remark source-urls="1">
+            <p>Foreign Service Officer. Chargé d'Affaires ad interim (Australia).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/minter-john-russell</source-url>
+        </remark>
+    </remarks>
+</person>

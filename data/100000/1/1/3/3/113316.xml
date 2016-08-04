@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>113316</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Takla, Philippe</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="6">
+                <name>Takla, Philippe</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v05/persons#p_TP1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v09p1/persons#p_TP1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v09p2/persons#p_TP1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v17/persons#p_TP2</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v18/persons#p_TP2</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v26/persons#p_TP_1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="4">
+        <remark source-urls="1">
+            <p>Lebanese Minister of Finance, from June 1951.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1951v05/persons#p_TP1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Lebanese Foreign Minister, February 11–September 10, 1952.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v09p1/persons#p_TP1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v09p2/persons#p_TP1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Foreign Minister of Lebanon</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v17/persons#p_TP2</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v18/persons#p_TP2</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Lebanese Foreign Minister from 1974 until 1975 and from 1975 until 1976</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v26/persons#p_TP_1</source-url>
+        </remark>
+    </remarks>
+</person>

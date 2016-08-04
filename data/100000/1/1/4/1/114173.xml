@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>114173</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Wagner, Robert Ferdinand, Jr.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="4">
+            <original source-urls="1">
+                <name>Wagner, Robert E.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v12/persons#p_WRE1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Wagner, Robert</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v41/persons#p_WR_1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Wagner, Robert Ferdinand, Jr.</name>
+                <source-url>https://history.state.gov/departmenthistory/people/wagner-robert-ferdinand</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Robert F. Wagner</name>
+                <source-url>https://history.state.gov/departmenthistory/people/wagner-robert-ferdinand</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1910</birth-year>
+    <death-year>1991</death-year>
+    <remarks variants="3">
+        <remark source-urls="1">
+            <p>Ambassador to Spain from June 1968</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v12/persons#p_WRE1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>U.S. Ambassador to Spain until March 1969</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v41/persons#p_WR_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Non-career appointee. Ambassador Extraordinary and Plenipotentiary (Spain).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/wagner-robert-ferdinand</source-url>
+        </remark>
+    </remarks>
+</person>

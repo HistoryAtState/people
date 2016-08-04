@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>104880</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Gilbert, Carl Joyce</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="3">
+                <name>Gilbert, Carl J.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v03/persons#p_GCJ1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v04/persons#p_GCJ1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve10/persons#p_GCJ1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Gilbert, Carl Joyce</name>
+                <source-url>https://history.state.gov/departmenthistory/people/gilbert-carl-joyce</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Carl J. Gilbert</name>
+                <source-url>https://history.state.gov/departmenthistory/people/gilbert-carl-joyce</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1906</birth-year>
+    <death-year>1983</death-year>
+    <remarks variants="3">
+        <remark source-urls="2">
+            <p>Special Representative for Trade Negotiations, 1969-1971</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v03/persons#p_GCJ1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v04/persons#p_GCJ1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Special Representative for Trade Negotiations from 1969 until 1971</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve10/persons#p_GCJ1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Non-career appointee. U.S. Trade Representative.</p>
+            <source-url>https://history.state.gov/departmenthistory/people/gilbert-carl-joyce</source-url>
+        </remark>
+    </remarks>
+</person>

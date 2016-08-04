@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>107356</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Konstantinos</name>
+        </preferred>
+        <alternates>
+            <name>Constantine II</name>
+            <name>Konstantine II</name>
+        </alternates>
+        <originals variants="5">
+            <original source-urls="2">
+                <name>Constantine II (also Konstantine)</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v16/persons#p_CIIK1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v29/persons#p_CIIK1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Konstantine</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v16/persons#p_Konstantine1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Constantine II (Konstantinos)</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v30/persons#p_CIIK1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Constantine II</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v41/persons#p_C2_1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>King Constantine</name>
+                <source-url>https://history.state.gov/departmenthistory/visits/greece</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="5">
+        <remark source-urls="1">
+            <p>King of Greece from February 1964</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v16/persons#p_CIIK1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>see Constantine</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v16/persons#p_Konstantine1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>exiled King of Greece</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v29/persons#p_CIIK1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>King of Greece until June 1973</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v30/persons#p_CIIK1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v41/persons#p_C2_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>King, Greece. Visited U.S. once, 1967</p>
+            <source-url>https://history.state.gov/departmenthistory/visits/greece</source-url>
+        </remark>
+    </remarks>
+</person>

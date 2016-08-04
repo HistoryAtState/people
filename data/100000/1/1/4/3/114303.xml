@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>114303</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Warren, Gerald L.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="4">
+                <name>Warren, Gerald L.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v09/persons#p_WGL_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v25/persons#p_WGL_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v38p1/persons#p_WG_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v38p2/persons#p_WGL_1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="4">
+        <remark source-urls="1">
+            <p>Deputy White House Press Secretary</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v09/persons#p_WGL_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>White House Deputy Press Secretary</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v25/persons#p_WGL_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Deputy White House Press Secretary from 1973 until 1974</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v38p1/persons#p_WG_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Deputy White House Press Secretary, 1973–1974</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v38p2/persons#p_WGL_1</source-url>
+        </remark>
+    </remarks>
+</person>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>100169</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Ailes, Stephen</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="1">
+                <name>Ailes, Steven</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v29p2/persons#p_AS3</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Ailes, Stephen</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v31/persons#p_AS1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="2">
+        <remark source-urls="1">
+            <p>Under Secretary of the Army from February 9, 1961 to January 28, 1964; Secretary of the Army from January 24, 1964 to July 1, 1965</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v29p2/persons#p_AS3</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Under Secretary of the Army until January 28, 1964; Secretary of the Army until June 30, 1965</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v31/persons#p_AS1</source-url>
+        </remark>
+    </remarks>
+</person>

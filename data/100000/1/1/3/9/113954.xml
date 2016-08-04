@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>113954</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Van Boetzelaer van Oosterhout, Carel Godfried Willem Hendrik</name>
+        </preferred>
+        <alternates/>
+        <originals variants="4">
+            <original source-urls="1">
+                <name>Boetzelaer, van Oosterhout</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1946v03/persons#p_BVO1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>van Boetzelaer van Oosterhout, Baron C. G. W. H.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1946v03/persons#p_VBVO1</source-url>
+            </original>
+            <original source-urls="2">
+                <name>Boetzelaer van Oosterhout, Carel Baron van</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v03p1/persons#p_BVOCBV1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v03p2/persons#p_BVOCBV1</source-url>
+            </original>
+            <original source-urls="2">
+                <name>Van Boetzelaer</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v03p1/persons#p_VB1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v03p2/persons#p_VB1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="1">
+            <title source-urls="6">
+                <name>Baron</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1946v03/persons#p_BVO1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1946v03/persons#p_VBVO1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v03p1/persons#p_BVOCBV1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v03p1/persons#p_VB1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v03p2/persons#p_BVOCBV1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v03p2/persons#p_VB1</source-url>
+            </title>
+        </titles-from-name>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="4">
+        <remark source-urls="1">
+            <p>See van Boetzelaer van Oosterhout.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1946v03/persons#p_BVO1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Chief of the Netherlands Delegation; Foreign Minister of the Netherlands</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1946v03/persons#p_VBVO1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Netherlands Ambassador in France; Netherlands observer at the Conference for the Organization of a European Defense Community.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1951v03p1/persons#p_BVOCBV1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1951v03p2/persons#p_BVOCBV1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>See Boetzelaer van Oosterhout.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1951v03p1/persons#p_VB1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1951v03p2/persons#p_VB1</source-url>
+        </remark>
+    </remarks>
+</person>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>102840</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Coote, Wendell B.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="4">
+                <name>Coote, Wendell B.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v02/persons#p_CWB4</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v21/persons#p_CWB4</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v01/persons#p_CWB1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v05/persons#p_CWB1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Coote, Wendell</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve06/persons#p_CWB4</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="5">
+        <remark source-urls="1">
+            <p>Deputy Director, Office of West African Affairs, Bureau of African Affairs, Department of State, from September 1960</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v02/persons#p_CWB4</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Deputy Director, Office of Western African and Malagasy Affairs, Bureau of African Affairs, Department of State, from June 1961 until January 1962;</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v21/persons#p_CWB4</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Deputy Director for Far Eastern Affairs, Office of Eastern and Southern African Affairs, Bureau of African Affairs, Department of State, until August 16, 1964 Cooper, Chester, Member of the National Security Council Staff, on detail from the Central Intelligence Agency</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v01/persons#p_CWB1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Director of East African Affairs, Bureau of African Affairs, Department of State, 1971</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v05/persons#p_CWB1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Director, Office of Eastern and Southern African Affairs, Bureau of African Affairs, Department of State</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve06/persons#p_CWB4</source-url>
+        </remark>
+    </remarks>
+</person>

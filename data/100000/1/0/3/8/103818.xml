@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>103818</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Edde, Pierre</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="1">
+                <name>Eddé, Pierre</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v11/persons#p_EP2</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Edde, Pierre</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v20/persons#p_EP1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="2">
+        <remark source-urls="1">
+            <p>Lebanese Minister of Finance until August 1958</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v11/persons#p_EP2</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Lebanese Finance Minister from February 1968</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v20/persons#p_EP1</source-url>
+        </remark>
+    </remarks>
+</person>

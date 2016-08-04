@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>107321</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Koenig, Marie-Pierre</name>
+        </preferred>
+        <alternates/>
+        <originals variants="5">
+            <original source-urls="1">
+                <name>Koenig, Général d’Armée Pierre</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1947v02/persons#p_KDP1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Koenig, General of Army Pierre</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1948v02/persons#p_KGAP1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Koenig, General of the Army Pierre</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1949v03/persons#p_K1</source-url>
+            </original>
+            <original source-urls="4">
+                <name>Koenig, Marie-Pierre</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v05p1/persons#p_KOENIGMP1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v05p2/persons#p_KOENIGMP1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v06p1/persons#p_KOENIGMP1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v06p2/persons#p_KOENIGMP1</source-url>
+            </original>
+            <original source-urls="2">
+                <name>Koenig, General Pierre</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v11p1/persons#p_KGP1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v11p2/persons#p_KGP1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="4">
+            <title source-urls="1">
+                <name>Général d’Armée</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1947v02/persons#p_KDP1</source-url>
+            </title>
+            <title source-urls="1">
+                <name>General of Army</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1948v02/persons#p_KGAP1</source-url>
+            </title>
+            <title source-urls="1">
+                <name>General of the Army</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1949v03/persons#p_K1</source-url>
+            </title>
+            <title source-urls="2">
+                <name>General</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v11p1/persons#p_KGP1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v11p2/persons#p_KGP1</source-url>
+            </title>
+        </titles-from-name>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="6">
+        <remark source-urls="1">
+            <p>French Commander-in-Chief in Germany</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1947v02/persons#p_KDP1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>French Commander-in-Chief for Germany; French member of the Allied Control Council for Germany</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1948v02/persons#p_KGAP1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>French Military Governor, until September, and Commander-in-Chief for Germany.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1949v03/persons#p_K1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Deputy in the French National Assembly and Minister of National Defense, June 19–September 5, 1954.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v05p1/persons#p_KOENIGMP1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v05p2/persons#p_KOENIGMP1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>General, French Army; Deputy in the French National Assembly after 1951; French Minister of National Defense, June 19–September 5, 1954.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v06p1/persons#p_KOENIGMP1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v06p2/persons#p_KOENIGMP1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Deputy of the French National Assembly; Minister of National Defense, June 19–August 19, 1954.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v11p1/persons#p_KGP1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v11p2/persons#p_KGP1</source-url>
+        </remark>
+    </remarks>
+</person>

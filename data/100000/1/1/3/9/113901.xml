@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>113901</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Ushiba Nobuhiko</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="5">
+                <name>Ushiba, Nobuhiko</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v29p2/persons#p_UN1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v03/persons#p_UN1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v04/persons#p_UN1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v01/persons#p_UN_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v03/persons#p_UN_1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Nobuhiko Ushiba</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v10/persons#p_NU1</source-url>
+            </original>
+            <original source-urls="2">
+                <name>Ushiba Nobuhiko</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve12/persons#p_ushiba-nobuhiko</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve13/persons#p_UN1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="6">
+        <remark source-urls="1">
+            <p>Deputy Vice Minister for Foreign Affairs of Japan from June 23, 1964 to April 14, 1967</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v29p2/persons#p_UN1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Japanese Ambassador to the United States from February 1971</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v03/persons#p_UN1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v04/persons#p_UN1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Japanese Ambassador to the United States until July 1973</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v10/persons#p_NU1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve12/persons#p_ushiba-nobuhiko</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Japanese Ambassador to the United States from September 21, 1970</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve13/persons#p_UN1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Japanese Minister for External Economic Affairs</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v01/persons#p_UN_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Minister of State for External Economic Affairs of Japan from November 1977 until December 1978</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v03/persons#p_UN_1</source-url>
+        </remark>
+    </remarks>
+</person>

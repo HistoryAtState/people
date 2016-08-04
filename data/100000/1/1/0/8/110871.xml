@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>110871</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Porter, Albert Gallatin</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="1">
+                <name>Porter, Albert Gallatin</name>
+                <source-url>https://history.state.gov/departmenthistory/people/porter-albert-gallatin</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Albert G. Porter</name>
+                <source-url>https://history.state.gov/departmenthistory/people/porter-albert-gallatin</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1824</birth-year>
+    <death-year>1897</death-year>
+    <remarks variants="1">
+        <remark source-urls="1">
+            <p>Non-career appointee. Envoy Extraordinary and Minister Plenipotentiary (Italy).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/porter-albert-gallatin</source-url>
+        </remark>
+    </remarks>
+</person>

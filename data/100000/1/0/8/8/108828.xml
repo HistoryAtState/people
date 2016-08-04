@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>108828</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>McDonald, George C.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="1">
+                <name>McDonald, George C.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945-50Intel/persons#p_MDGC1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="1">
+        <remark source-urls="1">
+            <p>Assistant Chief of Air Staff; Executive Officer, Office of the Assist-ant Secretary of War</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1945-50Intel/persons#p_MDGC1</source-url>
+        </remark>
+    </remarks>
+</person>

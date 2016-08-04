@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>102394</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Chapin, Frank M.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="5">
+                <name>Chapin, Frank M.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v02/persons#p_CFM1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v13/persons#p_CFM1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v20/persons#p_CFM1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v21/persons#p_CFM_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve16/persons#p_CFM_1</source-url>
+            </original>
+            <original source-urls="4">
+                <name>Chapin, Frank</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v17/persons#p_CF1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v29/persons#p_CF2</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve12/persons#p_chapin-frank</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve13/persons#p_CFM1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="8">
+        <remark source-urls="1">
+            <p>Member and Senior CIA Officer on the National Security Council Staff from 1969 to 1971</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v02/persons#p_CFM1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>member, National Security Council staff</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v13/persons#p_CFM1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>member, National Security Council staff and staff secretary to the 303/40 Committee</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v17/persons#p_CF1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve13/persons#p_CFM1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>member, National Security Council staff and Staff Secretary to the 303/40 Committee</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v20/persons#p_CFM1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>member and senior CIA Officer, National Security Council Staff, from 1969 until 1971</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v21/persons#p_CFM_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>member, National Security Council Staff and Staff Secretary to the 303/40 Committee</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v29/persons#p_CF2</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Staff Secretary to the 303/40 Committee</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve12/persons#p_chapin-frank</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>member and senior CIA Officer, National Security Council Staff from 1969 until 1971</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve16/persons#p_CFM_1</source-url>
+        </remark>
+    </remarks>
+</person>

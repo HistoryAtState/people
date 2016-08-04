@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>106800</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Jurgensen, Jean</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="2">
+                <name>Jurgensen, Jean</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v11p1/persons#p_JJ1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v11p2/persons#p_JJ1</source-url>
+            </original>
+            <original source-urls="2">
+                <name>Jurgenson, Jean</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v05/persons#p_JJ1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v26/persons#p_JJ1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="2">
+        <remark source-urls="2">
+            <p>Acting Deputy Director for African-Levant Affairs, French Ministry of Foreign Affairs, until June 19, 1953; thereafter, Deputy Director; also Chief of the French Delegations to the Commission on Technical Cooperation in Africa for the years 1952 and 1953.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v11p1/persons#p_JJ1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v11p2/persons#p_JJ1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Acting Chief of the Central European Section, French Ministry of Foreign Affairs, from May 1955</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v05/persons#p_JJ1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v26/persons#p_JJ1</source-url>
+        </remark>
+    </remarks>
+</person>

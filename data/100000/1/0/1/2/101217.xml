@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>101217</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Bergin, Charles K.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="1">
+                <name>Bergin, Rear Adm. Charles K.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v13/persons#p_BRACK1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Bergin, Rear Admiral Charles K.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v12/persons#p_BRACK1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="2">
+            <title source-urls="1">
+                <name>Rear Adm.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v13/persons#p_BRACK1</source-url>
+            </title>
+            <title source-urls="1">
+                <name>Rear Admiral</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v12/persons#p_BRACK1</source-url>
+            </title>
+        </titles-from-name>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="2">
+        <remark source-urls="1">
+            <p>USN, Regional Director for Near East, South Asia, and Africa, Office of the Assistant Secretary of Defense for International Security Affairs, from 1957</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v13/persons#p_BRACK1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>USN, Regional Director, Near East, South Asia and Africa, Office of the Assistant Secretary of Defense for International Security Affairs</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v12/persons#p_BRACK1</source-url>
+        </remark>
+    </remarks>
+</person>

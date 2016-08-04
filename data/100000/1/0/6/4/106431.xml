@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>106431</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Irwin, William Wallace</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="1">
+                <name>Irwin, William Wallace</name>
+                <source-url>https://history.state.gov/departmenthistory/people/irwin-william-wallace</source-url>
+            </original>
+            <original source-urls="1">
+                <name>William W. Irwin</name>
+                <source-url>https://history.state.gov/departmenthistory/people/irwin-william-wallace</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1803</birth-year>
+    <death-year>1856</death-year>
+    <remarks variants="1">
+        <remark source-urls="1">
+            <p>Non-career appointee. Chargé d'Affaires (Denmark).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/irwin-william-wallace</source-url>
+        </remark>
+    </remarks>
+</person>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>109331</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Moore, Charles Robert</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="2">
+                <name>Moore, Charles Robert</name>
+                <source-url>https://history.state.gov/departmenthistory/people/moore-charles-robert</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v05/persons#p_MCR1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>C. Robert Moore</name>
+                <source-url>https://history.state.gov/departmenthistory/people/moore-charles-robert</source-url>
+            </original>
+            <original source-urls="4">
+                <name>Moore, Charles R.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v11p1/persons#p_MCR1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v11p2/persons#p_MCR1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v16/persons#p_MCR1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v28/persons#p_MCR_1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1915</birth-year>
+    <death-year>1992</death-year>
+    <remarks variants="5">
+        <remark source-urls="1">
+            <p>Foreign Service Officer. Ambassador Extraordinary and Plenipotentiary (Mali); Ambassador Extraordinary and Plenipotentiary (Equatorial Guinea); Ambassador Extraordinary and Plenipotentiary (Cameroon).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/moore-charles-robert</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Officer in Charge of Turkish Affairs, Office of Greek, Turkish, and Iranian Affairs, Department of State.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1951v05/persons#p_MCR1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Acting Officer in Charge of Turkish Affairs, Office of Greek, Turkish, and Iranian Affairs, Bureau of Near Eastern, South Asian, and African Affairs, Department of State, until May 28, 1952; thereafter, First Secretary and Consul of the Embassy in France.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v11p1/persons#p_MCR1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v11p2/persons#p_MCR1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Counselor of the Embassy in Cambodia from September 1959</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v16/persons#p_MCR1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Acting Assistant Secretary of State for African Affairs; U.S. Ambassador to Cameroon from July 1972 until July 1975; also accredited to Equatorial Guinea from January 1973 until July 1975</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v28/persons#p_MCR_1</source-url>
+        </remark>
+    </remarks>
+</person>

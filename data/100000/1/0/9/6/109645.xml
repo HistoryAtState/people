@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>109645</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Narasimhan, Chakravarthi V.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="2">
+                <name>Narasimhan, C. V.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v25/persons#p_NCV1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v05/persons#p_NCV1</source-url>
+            </original>
+            <original source-urls="2">
+                <name>Narasimhan, C.V.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v02/persons#p_NCV1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v03/persons#p_NCV1</source-url>
+            </original>
+            <original source-urls="2">
+                <name>Narasimhan, Chakravarthi V.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v33/persons#p_NCV1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v23/persons#p_NCV_1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="5">
+        <remark source-urls="1">
+            <p>Under Secretary-General for Special Political Affairs of the United Nations</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v25/persons#p_NCV1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>United Nations Under Secretary for General Assembly Affairs and Chef de Cabinet of the United Nations</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v02/persons#p_NCV1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v03/persons#p_NCV1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>United Nations Under Secretary for General Assembly Affairs to 1967</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v33/persons#p_NCV1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Deputy Secretary-General of the United Nations; Acting Administrator of the UN Development Program in 1971; UN Under Secretary-General for Inter-Agency Affairs and Coordination, 1972–1978; Chef de Cabinet to the Secretary-General, 1972</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v05/persons#p_NCV1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Deputy Secretary General of the United Nations; Acting Administrator of the United Nations Development Program as of 1971; Under Secretary General for Inter-Agency Affairs and Coordination from 1972 until 1978; Chef de Cabinet to the Secretary General as of 1972</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v23/persons#p_NCV_1</source-url>
+        </remark>
+    </remarks>
+</person>

@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>112775</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Souphanouvong</name>
+        </preferred>
+        <alternates/>
+        <originals variants="4">
+            <original source-urls="7">
+                <name>Souphanouvong</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v13p1/persons#p_SP1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v13p2/persons#p_SS2</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v21/persons#p_Souphanouvong1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v28/persons#p_Souphanouvong1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v07/persons#p_S1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v10/persons#p_S1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve12/persons#p_souphanouvong</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Southanouvong</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v16/persons#p_S32</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Souphonouvong, Prince</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v16/persons#p_SP1</source-url>
+            </original>
+            <original source-urls="3">
+                <name>Souphanouvong, Prince</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v02/persons#p_SP3</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v06/persons#p_SP3</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v24/persons#p_SP1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="1">
+            <title source-urls="4">
+                <name>Prince</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v16/persons#p_SP1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v02/persons#p_SP3</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v06/persons#p_SP3</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v24/persons#p_SP1</source-url>
+            </title>
+        </titles-from-name>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="11">
+        <remark source-urls="2">
+            <p>Prince, Laotian resistance leader; half-brother of Laotian Prime Minister Souvanna Phouma.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v13p1/persons#p_SP1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v13p2/persons#p_SS2</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Prince, Laotian resistance leader and half-brother of Laotian Prime Minister Souvanna Phouma.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v16/persons#p_S32</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Prince, Leader of the Pathet Lao; Lao Minister of Plans, Reconstruction and Urbanism from November 1957; half-brother to Princes Petsarath and Souvanna Phouma</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v21/persons#p_Souphanouvong1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>leader of the Pathet Lao and Neo Lao Hat Xat; Minister of Planning, Reconstruction, and Urbanism until August 1958; under arrest after May 1959; escaped May 1960</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v16/persons#p_SP1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Pathet Lao leader and representative to the Geneva Conference on Laos; Deputy Premier and Economics Minister from July 1962</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v02/persons#p_SP3</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>leader of the Pathet Lao; after June 1962, Vice Premier and Minister of Economy and Plan</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v06/persons#p_SP3</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>leader of the Pathet Lao; after June 23, 1962, Vice Premier and Minister of Economy and Plan</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v24/persons#p_SP1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Prince, leader of the Pathet Lao and Deputy Prime Minister of Laos</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v28/persons#p_Souphanouvong1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Prince, Head of LPF and half brother of Souvanna Phouma</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v07/persons#p_S1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>President of the Lao People’s Democratic Republic from December 1975</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v10/persons#p_S1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Lao Prime Minister from December 1975</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve12/persons#p_souphanouvong</source-url>
+        </remark>
+    </remarks>
+</person>

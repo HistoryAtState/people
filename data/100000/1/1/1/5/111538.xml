@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>111538</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Rojas Pinilla, Gustavo</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="2">
+                <name>Rojas Pinilla, Gustavo</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v04/persons#p_RPG1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve10/persons#p_RPG1</source-url>
+            </original>
+            <original source-urls="2">
+                <name>Rojas Pinilla, General Gustavo</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v06/persons#p_RPGG1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v07/persons#p_RPGG1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="1">
+            <title source-urls="2">
+                <name>General</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v06/persons#p_RPGG1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v07/persons#p_RPGG1</source-url>
+            </title>
+        </titles-from-name>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="3">
+        <remark source-urls="1">
+            <p>General, President of Colombia from June 13, 1953 until May 10, 1957.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v04/persons#p_RPG1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>President of Colombia until May 10, 1957</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v06/persons#p_RPGG1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v07/persons#p_RPGG1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Colombian President from 1953 until 1957</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve10/persons#p_RPG1</source-url>
+        </remark>
+    </remarks>
+</person>

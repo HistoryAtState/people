@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>105555</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Harman, Avraham</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="6">
+                <name>Harman, Avraham</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v13/persons#p_HA1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v17/persons#p_HA3</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v18/persons#p_HA3</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v18/persons#p_HA3</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v19/persons#p_HA1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v20/persons#p_HA1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="4">
+        <remark source-urls="1">
+            <p>Israeli Ambassador to the United States from September 1959</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v13/persons#p_HA1</source-url>
+        </remark>
+        <remark source-urls="3">
+            <p>Israeli Ambassador to the United States</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v17/persons#p_HA3</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v18/persons#p_HA3</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v19/persons#p_HA1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Israeli Ambassador to the United States until January 1968</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v18/persons#p_HA3</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Ambassador of Israel until February 1968</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v20/persons#p_HA1</source-url>
+        </remark>
+    </remarks>
+</person>

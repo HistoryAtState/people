@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>103435</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Dexter, John B.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="5">
+                <name>Dexter, John B.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v23/persons#p_DJB1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v27/persons#p_DJB1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v28/persons#p_DJB1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v20/persons#p_DJB1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve12/persons#p_dexter-john-b</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="5">
+        <remark source-urls="1">
+            <p>Officer in Charge of Burmese Affairs, Office of Southeast Asian Affairs, Bureau of Far Eastern Affairs, Department of State, after April 1962</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v23/persons#p_DJB1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Deputy Director, Office of Southeast Asian Affairs, Bureau of Far Eastern Affairs, Department of State, July 1964–August 1965</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v27/persons#p_DJB1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Deputy Director, Office of Southeast Asian Affairs, July 1964 to August 1965</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v28/persons#p_DJB1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Country Director, Thailand/Burma, Bureau of East Asian and Pacific Affairs, Department of State from August 1969</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v20/persons#p_DJB1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Director of the Office of Thailand and Burma Affairs, Department of State</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve12/persons#p_dexter-john-b</source-url>
+        </remark>
+    </remarks>
+</person>

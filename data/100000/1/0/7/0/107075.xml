@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>107075</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Keynes, John Maynard</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="2">
+                <name>Keynes, Lord</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1943CairoTehran/persons#p_KL1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv01/persons#p_KL2</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="1">
+            <title source-urls="2">
+                <name>Lord</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1943CairoTehran/persons#p_KL1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv01/persons#p_KL2</source-url>
+            </title>
+        </titles-from-name>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="2">
+        <remark source-urls="1">
+            <p>member of the Consultative Council of the British Chancellor of the Exchequer.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1943CairoTehran/persons#p_KL1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>member of the British Chancellor of the Exchequer’s Consultative Council.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv01/persons#p_KL2</source-url>
+        </remark>
+    </remarks>
+</person>

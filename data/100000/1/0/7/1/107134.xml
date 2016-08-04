@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>107134</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Kidder, Randolph Appleton</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="6">
+                <name>Kidder, Randolph A.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v13p1/persons#p_KRA1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v13p2/persons#p_KRA1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v01/persons#p_KRA1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v07p1/persons#p_KRA1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v07p2/persons#p_KRA1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v27/persons#p_KRA1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Kidder, Randolph Appleton</name>
+                <source-url>https://history.state.gov/departmenthistory/people/kidder-randolph-appleton</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Randolph A. Kidder</name>
+                <source-url>https://history.state.gov/departmenthistory/people/kidder-randolph-appleton</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1913</birth-year>
+    <death-year>1996</death-year>
+    <remarks variants="6">
+        <remark source-urls="1">
+            <p>First Secretary and Consul at Saigon, June 1, 1953—July 22, 1954; Counselor of Embassy at Saigon from July 23, 1954.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v13p1/persons#p_KRA1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>First Secretary and Consul at Saigon, June 1, 1953–July 22, 1954; Counselor of Embassy at Saigon from July 23, 1954.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v13p2/persons#p_KRA1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Counselor of the Embassy in Vietnam to June 1955</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v01/persons#p_KRA1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Special Assistant to the Deputy Under Secretary of State for Administration until May 1958; thereafter Counselor for Political Affairs of the Embassy in France</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v07p1/persons#p_KRA1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v07p2/persons#p_KRA1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>appointed Ambassador to Cambodia July 9, 1964; proceeded to post but did not present his credentials and left post September 18, 1964</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v27/persons#p_KRA1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Foreign Service Officer. Ambassador Extraordinary and Plenipotentiary (Cambodia).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/kidder-randolph-appleton</source-url>
+        </remark>
+    </remarks>
+</person>

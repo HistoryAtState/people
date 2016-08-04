@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>114133</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Voroshilov, Kliment Efremovich</name>
+        </preferred>
+        <alternates/>
+        <originals variants="7">
+            <original source-urls="3">
+                <name>Voroshilov, Kliment Efremovich</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1943CairoTehran/persons#p_VKE1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv02/persons#p_V5</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1946v03/persons#p_VKE1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Voroshilov, Marshal of the Soviet Union Kliment Efremovich</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv01/persons#p_VMKE1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Voroshilov, Marshal of the Soviet Union Klement Efremovich</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945Malta/persons#p_V2</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Voroshilov</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v08/persons#p_V1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Voroshilov, Kimet Yefremovich</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v12/persons#p_VKY1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Voroshilov, Klimenti Efremovich</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v27/persons#p_VKE1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Voroshilov, Kliment Y.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v10p1/persons#p_VKY1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="1">
+            <title source-urls="2">
+                <name>Marshal of the Soviet Union</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv01/persons#p_VMKE1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945Malta/persons#p_V2</source-url>
+            </title>
+        </titles-from-name>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="8">
+        <remark source-urls="1">
+            <p>Marshal of the Soviet Union, Military Adviser to Marshal Stalin; member of the State Defense Committee of the Soviet Union.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1943CairoTehran/persons#p_VKE1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Chairman, Allied Control Commission for Hungary.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv01/persons#p_VMKE1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Marshal of the Soviet Union Kliment Efremovich, Chairman, Allied Control Commission for Hungary.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv02/persons#p_V5</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Chairman of the Allied Control Commission for Hungary.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1945Malta/persons#p_V2</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Marshal of the Soviet Union, Chairman Allied Control Commission for Hungary</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1946v03/persons#p_VKE1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Marshal of the Soviet Union Klimet Yefremovich, Deputy Chairman, Soviet Council of Ministers, 1946–March 1953; Chairman, Presidium, Supreme Soviet, from March 1953; member, Politburo (Presidium from October 1952) from 1926.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v08/persons#p_V1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Chairman of the Presidium of the Supreme Soviet</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v12/persons#p_VKY1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v10p1/persons#p_VKY1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Chairman of the Presidium, Central Committee, Supreme Soviet</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v27/persons#p_VKE1</source-url>
+        </remark>
+    </remarks>
+</person>

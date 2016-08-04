@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>115283</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Callaway, Howard H.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="2">
+                <name>Callaway, Howard H.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v22/persons#p_CHH_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve11p2/persons#p_CHH_1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="2">
+        <remark source-urls="1">
+            <p>Secretary of the Army from May 15, 1973, until July 3, 1975</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v22/persons#p_CHH_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Secretary of the U.S. Army from May 15, 1973, until July 3, 1975</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve11p2/persons#p_CHH_1</source-url>
+        </remark>
+    </remarks>
+</person>

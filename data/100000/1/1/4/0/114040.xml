@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>114040</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Venizelos, Sophocles</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="9">
+                <name>Venizelos, Sophocles</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v04p1/persons#p_VS2</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v04p2/persons#p_VS2</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v05/persons#p_VS1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v05p1/persons#p_VENIZELOSS1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v05p2/persons#p_VENIZELOSS1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v08/persons#p_VS1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v24/persons#p_VS1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v16/persons#p_VS1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v16/persons#p_VS1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="7">
+        <remark source-urls="2">
+            <p>Greek Prime Minister, until October 27, 1951; thereafter, Deputy Prime Minister; also Foreign Minister throughout 1951, Provisional Minister of Defense until February 1, 1951, then Minister of Defense until July 30, 1951</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1951v04p1/persons#p_VS2</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1951v04p2/persons#p_VS2</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Greek Prime Minister, Minister of Foreign Affairs, and Provisional Minister of National Defense, until October 1951; thereafter, Greek Deputy Prime Minister.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1951v05/persons#p_VS1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Greek Minister of Foreign Affairs, October 27, 1951–October 9, 1952.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v05p1/persons#p_VENIZELOSS1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v05p2/persons#p_VENIZELOSS1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Greek Deputy Prime Minister and Minister of Foreign Affairs, October 1951–October 1952; presided over the Greek Government, March 1952–October 1952; Minister of National Defense, April–July 1952; Leader of the Liberal Party, June 1949–April 1954.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v08/persons#p_VS1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Former Deputy Prime Minister and Minister of Foreign Affairs; Leader of the Elliniki Dimokratiki Aristera</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v24/persons#p_VS1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Greek Minister of Foreign Affairs from November 1963</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v16/persons#p_VS1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Greek Parliamentary Deputy; deputy leader of the Center Union Party until February 1964.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v16/persons#p_VS1</source-url>
+        </remark>
+    </remarks>
+</person>

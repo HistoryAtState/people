@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>101186</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Bennike, Vagn</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="2">
+                <name>Bennike, Major General Vagn</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v09p1/persons#p_BMGV1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v09p2/persons#p_BMGV1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Bennike, Maj. Gen. Vagn</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v17/persons#p_BMGV1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="2">
+            <title source-urls="2">
+                <name>Major General</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v09p1/persons#p_BMGV1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v09p2/persons#p_BMGV1</source-url>
+            </title>
+            <title source-urls="1">
+                <name>Maj. Gen.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v17/persons#p_BMGV1</source-url>
+            </title>
+        </titles-from-name>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="2">
+        <remark source-urls="2">
+            <p>Danish military officer; Chairman of the Israeli-Syrian Mixed Armistice Commission until June 9, 1953; Chief of Staff, United Nations Truce Supervision Commission, June 9, 1953–September 2, 1954.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v09p1/persons#p_BMGV1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v09p2/persons#p_BMGV1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>former Chief of Staff, U.N. Truce Supervisory Organization until September 2, 1954</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v17/persons#p_BMGV1</source-url>
+        </remark>
+    </remarks>
+</person>

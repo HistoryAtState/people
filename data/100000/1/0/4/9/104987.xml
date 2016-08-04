@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>104987</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Goldwater, Barry Morris</name>
+        </preferred>
+        <alternates/>
+        <originals variants="4">
+            <original source-urls="6">
+                <name>Goldwater, Barry</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v01/persons#p_GB1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v14/persons#p_GB1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v10/persons#p_GB1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v15/persons#p_GB_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v01/persons#p_GB_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v13/persons#p_GB_2</source-url>
+            </original>
+            <original source-urls="4">
+                <name>Goldwater, Barry M.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v07/persons#p_GBM1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v09/persons#p_GBM_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v20/persons#p_GBM1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v40/persons#p_GBM1</source-url>
+            </original>
+            <original source-urls="2">
+                <name>Goldwater, Barry Morris</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v22/persons#p_GB_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v35/persons#p_GBM_1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Goldwater, Barry S.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v26/persons#p_GBS_1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="7">
+        <remark source-urls="1">
+            <p>Senator (R–AZ), Republican Presidential candidate, 1964</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v01/persons#p_GB1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Republican Senator from Arizona and Republican nominee for President in 1964</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v14/persons#p_GB1</source-url>
+        </remark>
+        <remark source-urls="3">
+            <p>Republican Senator from Arizona</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v07/persons#p_GBM1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v09/persons#p_GBM_1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v10/persons#p_GB1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Senator (R–Arizona); Republican nominee in the 1964 Presidential election</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v15/persons#p_GB_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Senator (R–Arizona)</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v20/persons#p_GBM1</source-url>
+        </remark>
+        <remark source-urls="5">
+            <p>Senator (R-Arizona)</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v22/persons#p_GB_1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v26/persons#p_GBS_1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v35/persons#p_GBM_1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v40/persons#p_GBM1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v01/persons#p_GB_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Senator (R–Arizona) from 1953 until 1986</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v13/persons#p_GB_2</source-url>
+        </remark>
+    </remarks>
+</person>

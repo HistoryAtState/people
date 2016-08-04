@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>108028</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Litvinov, Maxim Maximovich</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="2">
+                <name>Litvinov, Maxim Maximovich</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1943CairoTehran/persons#p_LMM1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv01/persons#p_LMM1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Litvinoff</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv01/persons#p_L1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="3">
+        <remark source-urls="1">
+            <p>Soviet Ambassador in the United States, November 1941–August 1943.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1943CairoTehran/persons#p_LMM1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>See Litvinov.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv01/persons#p_L1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>People’s Commissar for Foreign Affairs of the Soviet Union, 1930–1939.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv01/persons#p_LMM1</source-url>
+        </remark>
+    </remarks>
+</person>

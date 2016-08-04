@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>106287</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Hunt, E. Howard</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="1">
+                <name>Hunt, E. Howard</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54Guat/persons#p_HEH1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Hunt, E. Howard</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v38p2/persons#p_HEH_1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="2">
+        <remark source-urls="1">
+            <p>(Walter C. Twicker) case officer and Chief, Propaganda Branch, Central Intelligence Agency</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54Guat/persons#p_HEH1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>former Central Intelligence Agency agent, 1949–1970, member of the White House “plumbers” unit, 1971–1972</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v38p2/persons#p_HEH_1</source-url>
+        </remark>
+    </remarks>
+</person>

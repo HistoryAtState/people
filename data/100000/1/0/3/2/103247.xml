@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>103247</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Dean, David</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="3">
+                <name>Dean, David</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v02/persons#p_DD1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v03/persons#p_DD1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v30/persons#p_DD1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="2">
+        <remark source-urls="2">
+            <p>Mainland China Affairs Officer and then Deputy Director, Office of Asian Communist Affairs, Bureau of Far Eastern Affairs, Department of State</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v02/persons#p_DD1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v03/persons#p_DD1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Officer in Charge of Mainland China Affairs, Bureau of Far Eastern Affairs, Department of State, until May 1965; Deputy Director, Office of Asian Communist Affairs, May 1965–July 1966</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v30/persons#p_DD1</source-url>
+        </remark>
+    </remarks>
+</person>

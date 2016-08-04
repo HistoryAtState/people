@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>106571</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Jean</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="1">
+                <name>Grand Duke Jean</name>
+                <source-url>https://history.state.gov/departmenthistory/visits/luxembourg</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="1">
+        <remark source-urls="1">
+            <p>Grand Duke, Luxembourg. Visited U.S. once, 1984</p>
+            <source-url>https://history.state.gov/departmenthistory/visits/luxembourg</source-url>
+        </remark>
+    </remarks>
+</person>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>101529</id>
+    <authorities>
+        <authority service="viaf">51683812</authority>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Bongo, Omar</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="1">
+                <name>Bongo, Omar</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v28/persons#p_BO_1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>President El Hadj Omar Bongo</name>
+                <source-url>https://history.state.gov/departmenthistory/visits/gabon</source-url>
+            </original>
+            <original source-urls="1">
+                <name>President Omar Bongo</name>
+                <source-url>https://history.state.gov/departmenthistory/visits/gabon</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="3">
+        <remark source-urls="1">
+            <p>President of Gabon</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v28/persons#p_BO_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>President, Gabon. Visited U.S. once, 2004</p>
+            <source-url>https://history.state.gov/departmenthistory/visits/gabon</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>President, Gabon. Visited U.S. 5 times, 1973–1987</p>
+            <source-url>https://history.state.gov/departmenthistory/visits/gabon</source-url>
+        </remark>
+    </remarks>
+</person>

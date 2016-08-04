@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>107551</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Ladejinsky, Wolf</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="5">
+                <name>Ladejinsky, Wolf</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v11p1/persons#p_LW1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v11p2/persons#p_LW1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v01/persons#p_LW1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v01/persons#p_LW1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v01/persons#p_LW1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="4">
+        <remark source-urls="2">
+            <p>Attaché, Office of the United States Political Adviser to the Supreme Commander for Allied Powers in Japan until April 28, 1952; thereafter, Attaché of the Embassy in Japan.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v11p1/persons#p_LW1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v11p2/persons#p_LW1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Land Reform Adviser in the United States Operations Mission in Vietnam, 1955–1956; thereafter an adviser to President Diem</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v01/persons#p_LW1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Adviser to President Diem</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v01/persons#p_LW1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>U.S. Adviser to President Ngo Dinh Diem on Agrovilles</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v01/persons#p_LW1</source-url>
+        </remark>
+    </remarks>
+</person>

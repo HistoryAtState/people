@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>104251</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Fife, James, Jr.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="1">
+                <name>Fife, James, Jr.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v05/persons#p_EJ1</source-url>
+            </original>
+            <original source-urls="2">
+                <name>Fife, Vice Admiral James, Jr.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v09p1/persons#p_FVA1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v09p2/persons#p_FVA1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="1">
+            <title source-urls="2">
+                <name>Vice Admiral</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v09p1/persons#p_FVA1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v09p2/persons#p_FVA1</source-url>
+            </title>
+        </titles-from-name>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="2">
+        <remark source-urls="1">
+            <p>Deputy Chief of Naval Operations.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1951v05/persons#p_EJ1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>USN, Deputy Chief of Naval Operations until March 1953; thereafter Deputy Commander in Chief, Mediterranean.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v09p1/persons#p_FVA1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v09p2/persons#p_FVA1</source-url>
+        </remark>
+    </remarks>
+</person>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>111789</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Sabah al-Salem al Sabah</name>
+        </preferred>
+        <alternates/>
+        <originals variants="4">
+            <original source-urls="1">
+                <name>Sabah, Sheikh Sabah al-Salim al-</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v21/persons#p_SSSS1</source-url>
+            </original>
+            <original source-urls="2">
+                <name>Sabah al-Salem al Sabah, Shaikh</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v24/persons#p_SSSS1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v36/persons#p_SAASS1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Sabah, Sheikh al-Salim al-Sabah</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v37/persons#p_SSSS_1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Amir Sabah al-Salim al-Sabah</name>
+                <source-url>https://history.state.gov/departmenthistory/visits/kuwait</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="2">
+            <title source-urls="2">
+                <name>Sheikh</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v21/persons#p_SSSS1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v37/persons#p_SSSS_1</source-url>
+            </title>
+            <title source-urls="2">
+                <name>Shaikh</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v24/persons#p_SSSS1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v36/persons#p_SAASS1</source-url>
+            </title>
+        </titles-from-name>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="3">
+        <remark source-urls="3">
+            <p>Amir of Kuwait</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v21/persons#p_SSSS1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v24/persons#p_SSSS1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v36/persons#p_SAASS1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Emir of Kuwait</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v37/persons#p_SSSS_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Amir, Kuwait. Visited U.S. once, 1968</p>
+            <source-url>https://history.state.gov/departmenthistory/visits/kuwait</source-url>
+        </remark>
+    </remarks>
+</person>

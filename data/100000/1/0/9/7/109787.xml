@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>109787</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Nguyen Dinh Thuan</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="6">
+                <name>Nguyen Dinh Thuan</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v01/persons#p_NDT2</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v16/persons#p_NDT1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v01/persons#p_NDT2</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v02/persons#p_NDT2</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v03/persons#p_NDT2</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v04/persons#p_NDT2</source-url>
+            </original>
+            <original source-urls="4">
+                <name>Thuan</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v01/persons#p_THUAN1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v16/persons#p_Thuan1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v03/persons#p_THUAN1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v04/persons#p_THUAN1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="6">
+        <remark source-urls="1">
+            <p>Secretary of State for the Presidency of the Republic of Vietnam from 1958 to 1960; Assistant Secretary of Defense from October 1960</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v01/persons#p_NDT2</source-url>
+        </remark>
+        <remark source-urls="4">
+            <p>see Nguyen Dinh Thuan</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v01/persons#p_THUAN1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v16/persons#p_Thuan1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v03/persons#p_THUAN1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v04/persons#p_THUAN1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Secretary of State at the Presidency, Republic of Vietnam, 1958–September 1960; thereafter Assistant Secretary of Defense</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v16/persons#p_NDT1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Vietnamese Secretary of State for the Presidency of the Republic of Vietnam and Assistant Secretary of State for National Defense; after May 27, 1961, Secretary of State for the Presidency in Charge of Security Coordination and Assistant Secretary of State for National Defense</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v01/persons#p_NDT2</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Secretary of State at the Presidency of the Republic of Vietnam and concurrently Assistant Secretary of State for Defense and Acting Coordinating Secretary of State for Security</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v02/persons#p_NDT2</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Vietnamese Secretary of State at the Presidency and Assistant Secretary of State for National Defense</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v03/persons#p_NDT2</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v04/persons#p_NDT2</source-url>
+        </remark>
+    </remarks>
+</person>

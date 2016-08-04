@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>107809</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Lehman, Ronald Frank, II</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="1">
+                <name>Lehman, Ronald Frank, II</name>
+                <source-url>https://history.state.gov/departmenthistory/people/lehman-ronald-frank</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1946</birth-year>
+    <death-year/>
+    <remarks variants="1">
+        <remark source-urls="1">
+            <p>Non-career appointee. Director of the U.S. Arms Control and Disarmament Agency.</p>
+            <source-url>https://history.state.gov/departmenthistory/people/lehman-ronald-frank</source-url>
+        </remark>
+    </remarks>
+</person>

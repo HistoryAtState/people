@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>104832</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Gerstenmaier, Eugen</name>
+        </preferred>
+        <alternates/>
+        <originals variants="4">
+            <original source-urls="5">
+                <name>Gerstenmaier, Eugen</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v06p1/persons#p_GERSTENMAIERE1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v06p2/persons#p_GERSTENMAIERE1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v07p1/persons#p_GE1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v07p2/persons#p_GE1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v40/persons#p_GE1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Gerstenmaier, Eugen K. A.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v26/persons#p_GEKA1</source-url>
+            </original>
+            <original source-urls="2">
+                <name>Gerstenmaier, Eugene</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v08/persons#p_GE1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v09/persons#p_GE1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Gerstenmaier, Eugen (CDU)</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v15/persons#p_GE2</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="6">
+        <remark source-urls="2">
+            <p>German Representative to the Consultative Assembly of the Council of Europe; German Representative to the Common Assembly of the European Coal and Steel Community; after 1954, President of the Bundestag.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v06p1/persons#p_GERSTENMAIERE1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v06p2/persons#p_GERSTENMAIERE1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Chairman of the Bundestag Foreign Affairs Committee and Representative of the Federal Republic of Germany to the Consultative Assembly of the Council of Europe and the Common Assembly of the European Coal and Steel Community.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v07p1/persons#p_GE1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v07p2/persons#p_GE1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>President of the West German Bundestag</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v26/persons#p_GEKA1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>President of the Bundestag</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v08/persons#p_GE1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v09/persons#p_GE1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>President of the Bundestag; CDU Deputy Chairman</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v15/persons#p_GE2</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>(CDU), President of the Bundestag until January 31, 1969; CDU Deputy Chairman</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v40/persons#p_GE1</source-url>
+        </remark>
+    </remarks>
+</person>

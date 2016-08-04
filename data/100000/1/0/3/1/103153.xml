@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>103153</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Dap Chhuon</name>
+        </preferred>
+        <alternates>
+            <name>Chhuon Mochulpich</name>
+        </alternates>
+        <originals variants="3">
+            <original source-urls="1">
+                <name>Dap Chhuon (Colonel Chhuon Mochulpich)</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v01/persons#p_DCCCM1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Dap Chhuon (Chhuon Mochupich), General</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v16/persons#p_DCCMG1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Dap Chhuon (General Chhuon Mochulpich)</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v23/persons#p_DC1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="2">
+            <title source-urls="1">
+                <name>Colonel</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v01/persons#p_DCCCM1</source-url>
+            </title>
+            <title source-urls="2">
+                <name>General</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v16/persons#p_DCCMG1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v23/persons#p_DC1</source-url>
+            </title>
+        </titles-from-name>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="3">
+        <remark source-urls="1">
+            <p>Commander of Cambodian Armed Forces in Siem Riep and Kompong Thom provinces; attempted coup against Prince Sihanouk, February 1959</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v01/persons#p_DCCCM1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>FARK, Commander of Royal Cambodian Forces in Siem Riep and Kompong Thorn provinces until February 1959</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v16/persons#p_DCCMG1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>former Commander of Royal Cambodian Forces in Siem Reap and Kompong Thorn Province; killed in February 1959</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v23/persons#p_DC1</source-url>
+        </remark>
+    </remarks>
+</person>

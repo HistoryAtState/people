@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>109804</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Nguyen Ngoc Tho</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="6">
+                <name>Nguyen Ngoc Tho</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v01/persons#p_NNT1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v01/persons#p_NNT1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v16/persons#p_NNT1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v01/persons#p_NNT1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v02/persons#p_NNT1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v03/persons#p_NNT1</source-url>
+            </original>
+            <original source-urls="6">
+                <name>Tho</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v01/persons#p_Tho1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v01/persons#p_THO1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v03/persons#p_THO1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v04/persons#p_THO1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v01/persons#p_Tho1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v04/persons#p_Tho1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Nguyen Ngoc Tho, Vietnamese Vice President until November 4</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v04/persons#p_NNTV1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="1">
+            <title source-urls="1">
+                <name>Vietnamese Vice President until November 4</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v04/persons#p_NNTV1</source-url>
+            </title>
+        </titles-from-name>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="9">
+        <remark source-urls="1">
+            <p>Minister of National Economy to December 1956; thereafter Vice President of the Republic of Vietnam</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v01/persons#p_NNT1</source-url>
+        </remark>
+        <remark source-urls="4">
+            <p>see Nguyen Ngoc Tho</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v01/persons#p_Tho1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v01/persons#p_THO1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v03/persons#p_THO1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v04/persons#p_THO1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Vice President of the Republic of Vietnam</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v01/persons#p_NNT1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v16/persons#p_NNT1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Vice President of the Republic of Vietnam and Secretary of State for National Economy; after May 27, 1961, Vice President and Coordinating Secretary of State for Economic Development</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v01/persons#p_NNT1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Vice President of the Republic of Vietnam and Coordinating Secretary of State for Economic Development</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v02/persons#p_NNT1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Vietnamese Vice President until November 4, 1963; thereafter Prime Minister and Minister of Finance and National Economy of the Provisional Government</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v03/persons#p_NNT1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>1963; thereafter Prime Minister and Minister of Finance and National Economy of the Provisional Government</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v04/persons#p_NNTV1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>see Nguyen Ngo Tho</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v01/persons#p_Tho1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>see Nguyen Huu Tho</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v04/persons#p_Tho1</source-url>
+        </remark>
+    </remarks>
+</person>

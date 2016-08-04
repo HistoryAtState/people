@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>106635</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Johnson, Charles E., III</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="1">
+                <name>Johnson, Major General Charles E., III</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v25/persons#p_JMGCEIII1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="1">
+            <title source-urls="1">
+                <name>Major General</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v25/persons#p_JMGCEIII1</source-url>
+            </title>
+        </titles-from-name>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="1">
+        <remark source-urls="1">
+            <p>Chief, United States Military Supply Mission to India, from January 1965</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v25/persons#p_JMGCEIII1</source-url>
+        </remark>
+    </remarks>
+</person>

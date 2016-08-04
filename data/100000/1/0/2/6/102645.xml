@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>102645</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Clayton, William Lockhart</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="2">
+                <name>Clayton, William Lockhart</name>
+                <source-url>https://history.state.gov/departmenthistory/people/clayton-william-lockhart</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv02/persons#p_CWL1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>William L. Clayton</name>
+                <source-url>https://history.state.gov/departmenthistory/people/clayton-william-lockhart</source-url>
+            </original>
+            <original source-urls="4">
+                <name>Clayton, William L.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945-50Intel/persons#p_CWL1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv01/persons#p_CWL1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945Malta/persons#p_CWL1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1947v02/persons#p_CWL1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1880</birth-year>
+    <death-year>1966</death-year>
+    <remarks variants="6">
+        <remark source-urls="1">
+            <p>Non-career appointee. Under Secretary for Economic Growth, Energy, and the Environment.</p>
+            <source-url>https://history.state.gov/departmenthistory/people/clayton-william-lockhart</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Assistant Secretary of State for Economic and Business Affairs until August 16, 1946; Under Secretary of State for Economic Affairs, August 17, 1946-October 15, 1947</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1945-50Intel/persons#p_CWL1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Assistant Secretary of State (for Economic Affairs); Chairman, Informal Policy Committee on Germany.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv01/persons#p_CWL1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Assistant Secretary of State (for Economic Affairs).</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv02/persons#p_CWL1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Assistant Secretary of State.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1945Malta/persons#p_CWL1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Under Secretary of State for Economic Affairs</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1947v02/persons#p_CWL1</source-url>
+        </remark>
+    </remarks>
+</person>

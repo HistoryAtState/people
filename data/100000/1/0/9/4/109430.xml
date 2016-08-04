@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>109430</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Morrison, W.L.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="1">
+                <name>Morrison, W.L.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve01/persons#p_MWL2</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="1">
+        <remark source-urls="1">
+            <p>Rear Admiral, USCG, Chief Counsel, Department of Transportation</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve01/persons#p_MWL2</source-url>
+        </remark>
+    </remarks>
+</person>

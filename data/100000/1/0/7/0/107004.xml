@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>107004</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Kelly, John Hubert</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="2">
+                <name>Kelly, John Hubert</name>
+                <source-url>https://history.state.gov/departmenthistory/people/kelly-john-hubert</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1981-88v13/persons#p_KJH_1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Kelly, John H.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v16/persons#p_KJH_1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1939</birth-year>
+    <death-year>2011</death-year>
+    <remarks variants="3">
+        <remark source-urls="1">
+            <p>Foreign Service Officer. Assistant Secretary of State for Near Eastern Affairs; Ambassador Extraordinary and Plenipotentiary (Lebanon); Ambassador Extraordinary and Plenipotentiary (Finland).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/kelly-john-hubert</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Politico-Military Affairs Officer, Office of Disarmament and Arms Control, Bureau of Politico-Military Affairs, Department of State, until March 1975; thereafter, Special Assistant to the Counselor of the Department of State</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v16/persons#p_KJH_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Deputy Assistant Secretary of State for European Affairs from June 1983</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1981-88v13/persons#p_KJH_1</source-url>
+        </remark>
+    </remarks>
+</person>

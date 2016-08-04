@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>110361</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Pardo, Arvid</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="1">
+                <name>Pardo, Arvid</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve01/persons#p_PA3</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="1">
+        <remark source-urls="1">
+            <p>Maltese Permanent Representative to the United Nations; Maltese Ambassador to the United States; High Commissioner to Canada; Head of Maltese delegation to United Nations Seabed Committee</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve01/persons#p_PA3</source-url>
+        </remark>
+    </remarks>
+</person>

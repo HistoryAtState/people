@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>113754</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Troxel, Oliver Leonard, Jr.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="3">
+                <name>Troxel, Oliver L., Jr.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v09p1/persons#p_TOL1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v09p2/persons#p_TOL1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v05/persons#p_TOLJ1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Troxel, Oliver Leonard, Jr.</name>
+                <source-url>https://history.state.gov/departmenthistory/people/troxel-oliver-leonard</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Oliver L. Troxel Jr.</name>
+                <source-url>https://history.state.gov/departmenthistory/people/troxel-oliver-leonard</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1919</birth-year>
+    <death-year>2013</death-year>
+    <remarks variants="3">
+        <remark source-urls="2">
+            <p>Office of Near Eastern Affairs, Department of State.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v09p1/persons#p_TOL1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v09p2/persons#p_TOL1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Ambassador to Zambia, May 27, 1969–May 12, 1972</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v05/persons#p_TOLJ1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Foreign Service Officer. Ambassador Extraordinary and Plenipotentiary (Zambia).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/troxel-oliver-leonard</source-url>
+        </remark>
+    </remarks>
+</person>

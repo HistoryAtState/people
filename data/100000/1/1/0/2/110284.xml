@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>110284</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Page, Thomas Nelson</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="5">
+                <name>Page, Thomas Nelson</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1914Supp/persons#p_PTN1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1915Supp/persons#p_PTN1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1916Supp/persons#p_PTN1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1917-72PubDip/persons#p_PTN_1</source-url>
+                <source-url>https://history.state.gov/departmenthistory/people/page-thomas-nelson</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1853</birth-year>
+    <death-year>1922</death-year>
+    <remarks variants="4">
+        <remark source-urls="2">
+            <p>United States Ambassador in Italy.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1914Supp/persons#p_PTN1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1915Supp/persons#p_PTN1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>U. S. Ambassador in Italy.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1916Supp/persons#p_PTN1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>U.S. Ambassador to Italy from 1913 until 1919</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1917-72PubDip/persons#p_PTN_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Non-career appointee. Ambassador Extraordinary and Plenipotentiary (Italy).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/page-thomas-nelson</source-url>
+        </remark>
+    </remarks>
+</person>

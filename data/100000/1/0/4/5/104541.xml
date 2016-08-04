@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>104541</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Freeman, Fulton</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="3">
+                <name>Freeman, Fulton</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v12/persons#p_FF2</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v31/persons#p_FF1</source-url>
+                <source-url>https://history.state.gov/departmenthistory/people/freeman-fulton</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1915</birth-year>
+    <death-year>1974</death-year>
+    <remarks variants="3">
+        <remark source-urls="1">
+            <p>U.S. Ambassador to Colombia from June 15, 1961</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v12/persons#p_FF2</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Ambassador to Colombia until February 1964; Ambassador to Mexico from March 4, 1964</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v31/persons#p_FF1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Foreign Service Officer. Ambassador Extraordinary and Plenipotentiary (Mexico); Ambassador Extraordinary and Plenipotentiary (Colombia).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/freeman-fulton</source-url>
+        </remark>
+    </remarks>
+</person>

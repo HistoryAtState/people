@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>102705</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Cohen, Herman Jay</name>
+        </preferred>
+        <alternates/>
+        <originals variants="4">
+            <original source-urls="2">
+                <name>Cohen, Herman Jay</name>
+                <source-url>https://history.state.gov/departmenthistory/people/cohen-herman-jay</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1981-88v13/persons#p_CHJ_1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Herman J. Cohen</name>
+                <source-url>https://history.state.gov/departmenthistory/people/cohen-herman-jay</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Herman Cohen</name>
+                <source-url>https://history.state.gov/departmenthistory/people/cohen-herman-jay</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Cohen, Herman J.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve06/persons#p_CHJ1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1932</birth-year>
+    <death-year/>
+    <remarks variants="3">
+        <remark source-urls="1">
+            <p>Foreign Service Officer. Career Ambassador; Assistant Secretary of State for African Affairs; Ambassador Extraordinary and Plenipotentiary (Senegal); Ambassador Extraordinary and Plenipotentiary (Gambia, The).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/cohen-herman-jay</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Director, Office of Central African Affairs, Bureau of African Affairs, Department of State</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve06/persons#p_CHJ1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Deputy Assistant Secretary, Bureau of Intelligence and Research, Department of State until April 1984</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1981-88v13/persons#p_CHJ_1</source-url>
+        </remark>
+    </remarks>
+</person>

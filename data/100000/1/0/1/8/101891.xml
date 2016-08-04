@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>101891</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Buck, Charles William</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="1">
+                <name>Buck, Charles William</name>
+                <source-url>https://history.state.gov/departmenthistory/people/buck-charles-william</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Charles W. Buck</name>
+                <source-url>https://history.state.gov/departmenthistory/people/buck-charles-william</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1849</birth-year>
+    <death-year>1930</death-year>
+    <remarks variants="1">
+        <remark source-urls="1">
+            <p>Non-career appointee. Envoy Extraordinary and Minister Plenipotentiary (Peru).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/buck-charles-william</source-url>
+        </remark>
+    </remarks>
+</person>

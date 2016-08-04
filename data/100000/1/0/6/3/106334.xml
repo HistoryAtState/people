@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>106334</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Huydecoper, Jonkheer J.L.R.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="1">
+                <name>Huydecoper, Jonkheer J.L.R.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v17/persons#p_HJJLR1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Huydecoper, Jan L.R.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v23/persons#p_HJLR1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="2">
+        <remark source-urls="1">
+            <p>First Secretary of the Netherlands Embassy in Washington</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v17/persons#p_HJJLR1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Counselor of the Netherlands Embassy in the United States until August 1962</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v23/persons#p_HJLR1</source-url>
+        </remark>
+    </remarks>
+</person>

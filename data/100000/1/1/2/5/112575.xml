@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>112575</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Slim, Mongi</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="4">
+                <name>Slim, Mongi</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v18/persons#p_SM2</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v14/persons#p_SM8</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v25/persons#p_SM8</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v24/persons#p_SM8</source-url>
+            </original>
+            <original source-urls="2">
+                <name>Slim, Monghi</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v02/persons#p_SM8</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v13/persons#p_SM2</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="5">
+        <remark source-urls="1">
+            <p>Tunisian Minister of State to September 1955 and April–August 1956; Minister of the Interior, September 1955–April 1956; Ambassador to the United States from September 1956 and Representative at the United Nations from November 1956</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v18/persons#p_SM2</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Tunisian Ambassador to the United States</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v02/persons#p_SM8</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v13/persons#p_SM2</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Tunisian Ambassador to the United States and Representative at the United Nations</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v14/persons#p_SM8</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Permanent Representative of Tunisia at the United Nations, 1961; President of the 16th Session of the UN General Assembly; acting as Secretary-General of the United Nations, September 21–November 3, 1961</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v25/persons#p_SM8</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Tunisian Secretary of State for Foreign Affairs until 1964; thereafter, personal representative of President Bourguiba</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v24/persons#p_SM8</source-url>
+        </remark>
+    </remarks>
+</person>

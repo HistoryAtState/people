@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>110811</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Ploeser, Walter Christian</name>
+        </preferred>
+        <alternates/>
+        <originals variants="4">
+            <original source-urls="2">
+                <name>Ploesser, Walter C.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v06/persons#p_PWC1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v07/persons#p_PWC1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Ploeser, Walter C.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve10/persons#p_PWC1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Ploeser, Walter Christian</name>
+                <source-url>https://history.state.gov/departmenthistory/people/ploeser-walter-christian</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Walter C. Ploeser</name>
+                <source-url>https://history.state.gov/departmenthistory/people/ploeser-walter-christian</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1907</birth-year>
+    <death-year>1993</death-year>
+    <remarks variants="3">
+        <remark source-urls="2">
+            <p>Ambassador to Paraguay from November 6, 1957</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v06/persons#p_PWC1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v07/persons#p_PWC1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>U.S. Ambassador to Costa Rica from April 27, 1970 until April 13, 1972</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve10/persons#p_PWC1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Non-career appointee. Ambassador Extraordinary and Plenipotentiary (Paraguay); Ambassador Extraordinary and Plenipotentiary (Costa Rica).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/ploeser-walter-christian</source-url>
+        </remark>
+    </remarks>
+</person>

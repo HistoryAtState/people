@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>110781</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Pistor, Michael T. F.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="2">
+                <name>Pistor, Michael T. F.</name>
+                <source-url>https://history.state.gov/departmenthistory/people/pistor-michael-t-f</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v30/persons#p_PMTF_1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1930</birth-year>
+    <death-year>2009</death-year>
+    <remarks variants="2">
+        <remark source-urls="1">
+            <p>Foreign Service Officer. Ambassador Extraordinary and Plenipotentiary (Malawi).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/pistor-michael-t-f</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Assistant Director, Public Information, United States Information Agency; Director, Congressional and Public Liaison, U.S. International Communication Agency, from 1978 until 1980; thereafter Public Affairs Officer, U.S. Embassy in New Delhi</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v30/persons#p_PMTF_1</source-url>
+        </remark>
+    </remarks>
+</person>

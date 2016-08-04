@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>103760</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Dyess, William Jennings</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="2">
+                <name>Dyess, William Jennings</name>
+                <source-url>https://history.state.gov/departmenthistory/people/dyess-william-jennings</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1981-88v03/persons#p_DW_1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>William J. Dyess</name>
+                <source-url>https://history.state.gov/departmenthistory/people/dyess-william-jennings</source-url>
+            </original>
+            <original source-urls="2">
+                <name>Dyess, William J.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v01/persons#p_DWJ_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v02/persons#p_DWJ_1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1929</birth-year>
+    <death-year>1996</death-year>
+    <remarks variants="4">
+        <remark source-urls="1">
+            <p>Foreign Service Officer. Assistant Secretary of State for Public Affairs; Ambassador Extraordinary and Plenipotentiary (Netherlands).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/dyess-william-jennings</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Executive Director, Bureau of Public Affairs, Department of State, from 1975 until 1977; Deputy Assistant Secretary of State for Public Affairs until August 1980; thereafter, Assistant Secretary of State for Public Affairs</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v01/persons#p_DWJ_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Deputy Assistant Secretary of State for Public Affairs until August 1980; thereafter Assistant Secretary of State for Public Affairs</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v02/persons#p_DWJ_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Assistant Secretary of State for Public Affairs and Department of State Spokesman until July 30, 1981</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1981-88v03/persons#p_DW_1</source-url>
+        </remark>
+    </remarks>
+</person>

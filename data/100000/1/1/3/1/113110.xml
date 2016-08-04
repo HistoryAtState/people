@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>113110</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Strom, Carl Walther</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="5">
+                <name>Strom, Carl W.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v15p1/persons#p_SCW1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v15p2/persons#p_SCW1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v21/persons#p_SCW1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v23p2/persons#p_SCW1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v16/persons#p_SCW1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Strom, Carl Walther</name>
+                <source-url>https://history.state.gov/departmenthistory/people/strom-carl-walther</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Carl W. Strom</name>
+                <source-url>https://history.state.gov/departmenthistory/people/strom-carl-walther</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1899</birth-year>
+    <death-year>1969</death-year>
+    <remarks variants="5">
+        <remark source-urls="2">
+            <p>Counselor of Embassy in Korea from June 4, 1954.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v15p1/persons#p_SCW1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v15p2/persons#p_SCW1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Ambassador to Cambodia from October 1956</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v21/persons#p_SCW1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Counselor of the Embassy in Korea until July 1956</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v23p2/persons#p_SCW1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Ambassador to Cambodia until March 8, 1959</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v16/persons#p_SCW1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Foreign Service Officer. Director of the Foreign Service Institute; Ambassador Extraordinary and Plenipotentiary (Cambodia); Ambassador Extraordinary and Plenipotentiary (Bolivia).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/strom-carl-walther</source-url>
+        </remark>
+    </remarks>
+</person>

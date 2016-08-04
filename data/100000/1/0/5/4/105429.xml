@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>105429</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Halleck, Charles A.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="2">
+                <name>Halleck, Representative Charles A.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v02p1/persons#p_HALLECKRCA1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v02p2/persons#p_HALLECKRCA1</source-url>
+            </original>
+            <original source-urls="2">
+                <name>Halleck, Charles A.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v04/persons#p_HCA1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v01/persons#p_HCA1</source-url>
+            </original>
+            <original source-urls="2">
+                <name>Halleck, Charles</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v08/persons#p_HC1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v09/persons#p_HC1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="1">
+            <title source-urls="2">
+                <name>Representative</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v02p1/persons#p_HALLECKRCA1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v02p2/persons#p_HALLECKRCA1</source-url>
+            </title>
+        </titles-from-name>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="4">
+        <remark source-urls="2">
+            <p>(R–Indiana), House Majority Leader, 1953–1954.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v02p1/persons#p_HALLECKRCA1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v02p2/persons#p_HALLECKRCA1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Republican Congressman from Indiana</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v04/persons#p_HCA1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Representative from Indiana</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v08/persons#p_HC1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v09/persons#p_HC1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Congressman (R–IN), House Minority Leader</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v01/persons#p_HCA1</source-url>
+        </remark>
+    </remarks>
+</person>

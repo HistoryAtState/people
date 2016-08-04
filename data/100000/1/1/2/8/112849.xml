@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>112849</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Splitt, Orville S.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="2">
+                <name>Splitt, Orville S.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v02/persons#p_SOS1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v03/persons#p_SOS1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="1">
+        <remark source-urls="2">
+            <p>Special Assistant to the Assistant Secretary of Defense for Public Affairs</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v02/persons#p_SOS1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v03/persons#p_SOS1</source-url>
+        </remark>
+    </remarks>
+</person>

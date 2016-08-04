@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>103885</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Eisenberg, Robert</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="5">
+                <name>Eisenberg, Robert</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v06p1/persons#p_EISENBERGR1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v06p2/persons#p_EISENBERGR1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v04/persons#p_ER1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v27/persons#p_ER1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v20/persons#p_RE1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="4">
+        <remark source-urls="2">
+            <p>Economist in the Embassy in France from December 1, 1952; Economic Officer in the Office of the Special Representative to the European Coal and Steel Community after February 19, 1953.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v06p1/persons#p_EISENBERGR1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v06p2/persons#p_EISENBERGR1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>U.S. Acting Representative to the European Coal and Steel Community until February 1956; Deputy Representative, February–April 1956; First Secretary of the Embassy in Luxembourg, March and April 1956</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v04/persons#p_ER1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Acting Representative to the European Coal and Steel Community until February 1956; Deputy Representative, February-April 1956; First Secretary of the Embassy in Luxembourg, March and April 1956</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v27/persons#p_ER1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Office of West African Affairs, Bureau of African Affairs, Department of State, until June 1961; Deputy Director, Office of Central African Affairs, from June 1961 until March 1963</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v20/persons#p_RE1</source-url>
+        </remark>
+    </remarks>
+</person>

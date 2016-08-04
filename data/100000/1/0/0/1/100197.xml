@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>100197</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>al-Badr ben Ahmad, Muhammad</name>
+        </preferred>
+        <alternates/>
+        <originals variants="4">
+            <original source-urls="1">
+                <name>al-Badr ben Ahmad, Crown Prince Muhammed</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v12/persons#p_aBbACPM</source-url>
+            </original>
+            <original source-urls="1">
+                <name>al–Badr ben Ahmad, Muhammed</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v13/persons#p_aBbAM1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>al-Badr ben Ahmad</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v12/persons#p_alBM1</source-url>
+            </original>
+            <original source-urls="2">
+                <name>al-Badr, Mohammed</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v17/persons#p_alBM1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v18/persons#p_alBM1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="1">
+            <title source-urls="1">
+                <name>Crown Prince</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v12/persons#p_aBbACPM</source-url>
+            </title>
+        </titles-from-name>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="5">
+        <remark source-urls="1">
+            <p>Crown Prince of Yemen and Foreign Minister from August 31, 1955</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v12/persons#p_aBbACPM</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Crown Prince and Foreign Minister of Yemen from August 31, 1955</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v13/persons#p_aBbAM1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Crown Prince Muhammad, Prime Minister, Foreign Minister, and Defense Minister of Yemen</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v12/persons#p_alBM1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Crown Prince and Foreign Minister of Yemen, and Minister of Defense until September 19, 1962; succeeded as Imam of Yemen, but was overthrown on September 28, 1962</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v17/persons#p_alBM1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Crown Prince, and Foreign Minister of Yemen, and Minister of Defense until September 19, 1962; succeeded as Imam of Yemen, but was overthrown on September 28, 1962</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v18/persons#p_alBM1</source-url>
+        </remark>
+    </remarks>
+</person>

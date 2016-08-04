@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>104753</id>
+    <authorities>
+        <authority service="viaf">9620899</authority>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Gasparovic, Ivan</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="1">
+                <name>President Ivan Gasparovic</name>
+                <source-url>https://history.state.gov/departmenthistory/visits/slovakia</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="1">
+        <remark source-urls="1">
+            <p>President, Slovak Republic; Slovakia. Visited U.S. 2 times, 2008–2012</p>
+            <source-url>https://history.state.gov/departmenthistory/visits/slovakia</source-url>
+        </remark>
+    </remarks>
+</person>

@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>107351</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Konev, Ivan Stepanovich</name>
+        </preferred>
+        <alternates/>
+        <originals variants="4">
+            <original source-urls="1">
+                <name>Koniev</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv01/persons#p_K1</source-url>
+            </original>
+            <original source-urls="2">
+                <name>Konev, Marshal of the Soviet Union Ivan Stepanovich</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv01/persons#p_KMSUIS1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945Malta/persons#p_K3</source-url>
+            </original>
+            <original source-urls="3">
+                <name>Konev, Ivan Stepanovich</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv02/persons#p_K6</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv02/persons#p_K7</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v24/persons#p_KIS1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Konev, Marshal of the Soviet Union Ivan S.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v15/persons#p_KMSUIS1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="1">
+            <title source-urls="3">
+                <name>Marshal of the Soviet Union</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv01/persons#p_KMSUIS1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945Malta/persons#p_K3</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v15/persons#p_KMSUIS1</source-url>
+            </title>
+        </titles-from-name>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="6">
+        <remark source-urls="2">
+            <p>See Konev.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv01/persons#p_K1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv02/persons#p_K7</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Commander in Chief, First Ukrainian Front.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv01/persons#p_KMSUIS1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Marshal of the Soviet Union Ivan Stepanovich, Commander in Chief, First Ukrainian Front.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv02/persons#p_K6</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Commander of the First Ukrainian Front. Koo, Wellington, Chinese Ambassador to the United Kingdom.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1945Malta/persons#p_K3</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Commander-in-Chief, Warsaw Pact Armed Forces</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v24/persons#p_KIS1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Commander in Chief, Group of Soviet Forces in Germany until 1962</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v15/persons#p_KMSUIS1</source-url>
+        </remark>
+    </remarks>
+</person>

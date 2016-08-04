@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>102244</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Carswell, Robert</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="5">
+                <name>Carswell, Robert</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v08/persons#p_CR4</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v01/persons#p_CR_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v03/persons#p_CR_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v13/persons#p_CR_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v18/persons#p_CR_1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="3">
+        <remark source-urls="1">
+            <p>Special Assistant to the Secretary of the Treasury until 1965</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v08/persons#p_CR4</source-url>
+        </remark>
+        <remark source-urls="3">
+            <p>Deputy Secretary of the Treasury</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v01/persons#p_CR_1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v03/persons#p_CR_1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v18/persons#p_CR_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Deputy Secretary of the Treasury from 1977 until 1981</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v13/persons#p_CR_1</source-url>
+        </remark>
+    </remarks>
+</person>

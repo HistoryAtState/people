@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>111440</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Roberts, Frank N.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="1">
+                <name>Roberts, Frank N.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1943CairoTehran/persons#p_RFN1</source-url>
+            </original>
+            <original source-urls="2">
+                <name>Roberts, Brigadier General Frank N.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv01/persons#p_RBGFN1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945Malta/persons#p_R4</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="1">
+            <title source-urls="2">
+                <name>Brigadier General</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv01/persons#p_RBGFN1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945Malta/persons#p_R4</source-url>
+            </title>
+        </titles-from-name>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="3">
+        <remark source-urls="1">
+            <p>Brigadier General, U. S. A., Chief, Strategy and Policy Group, Operations Division, War Department General Staff; a member of the Joint Staff Planners and of the Combined Staff Planners.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1943CairoTehran/persons#p_RFN1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>U. S. A., War Department representative, Far East Subcommittee, State–War–Navy Coordinating Committee.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv01/persons#p_RBGFN1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>U. S. A., Chief of Staff and Head of the Special Planning Staff, United States Military Mission to the Soviet Union.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1945Malta/persons#p_R4</source-url>
+        </remark>
+    </remarks>
+</person>

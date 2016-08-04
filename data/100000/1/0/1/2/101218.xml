@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>101218</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Bergland, Robert S.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="6">
+                <name>Bergland, Robert S.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v01/persons#p_BRS_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v02/persons#p_BRS_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v03/persons#p_BRS_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v13/persons#p_BRS_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v20/persons#p_BR_3</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v28/persons#p_BR_1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="4">
+        <remark source-urls="1">
+            <p>member, U.S. House of Representatives (DFL-Minnesota) until January 22, 1977; Secretary of Agriculture from January 23, 1977, until January 20, 1981</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v01/persons#p_BRS_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>member, U.S. House of Representatives (DFL-Minnesota) until January 22, 1977; Secretary of Agriculture from January 23, 1977, until January 20, 1981; head of U.S. Delegation to the 3rd session of the World Food Council, 1977</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v02/persons#p_BRS_1</source-url>
+        </remark>
+        <remark source-urls="3">
+            <p>Secretary of Agriculture</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v03/persons#p_BRS_1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v20/persons#p_BR_3</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v28/persons#p_BR_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Secretary of Agriculture from 1977 until 1981</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v13/persons#p_BRS_1</source-url>
+        </remark>
+    </remarks>
+</person>

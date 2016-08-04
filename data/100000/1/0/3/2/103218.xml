@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>103218</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Dawee Chullasapya</name>
+        </preferred>
+        <alternates/>
+        <originals variants="4">
+            <original source-urls="1">
+                <name>Dawee, Chullasapya, Air Chief Marshal</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v23/persons#p_DCACM1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Dawee Chulasapya, Marshal</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v27/persons#p_DCM1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Dawee, Chulasapya</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v28/persons#p_DC1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Dawee Chullasaspyra, Marshal</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v20/persons#p_DCM1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="2">
+            <title source-urls="1">
+                <name>Air Chief Marshal</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v23/persons#p_DCACM1</source-url>
+            </title>
+            <title source-urls="2">
+                <name>Marshal</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v27/persons#p_DCM1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v20/persons#p_DCM1</source-url>
+            </title>
+        </titles-from-name>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="4">
+        <remark source-urls="1">
+            <p>Deputy Secretary General of the Thai Military Staff; Chief of the Royal Thai Air Force</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v23/persons#p_DCACM1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Royal Thai Army; Deputy Minister of Defense and Chief of Staff of the Supreme Command of Thailand</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v27/persons#p_DCM1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Deputy Minister of Defense and Chief of Staff of the Supreme Command of Thailand</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v28/persons#p_DC1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>RTA; Deputy Minister of Defense, Thai Chief of Staff of the Supreme Command of Thailand</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v20/persons#p_DCM1</source-url>
+        </remark>
+    </remarks>
+</person>

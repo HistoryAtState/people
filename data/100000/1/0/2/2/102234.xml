@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>102234</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Carrillo Flores, Antonio</name>
+        </preferred>
+        <alternates/>
+        <originals variants="4">
+            <original source-urls="4">
+                <name>Carillo Flores, Antonio</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v06/persons#p_CFA1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v07/persons#p_CFA1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v12/persons#p_CFA1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v21/persons#p_CFA_1</source-url>
+            </original>
+            <original source-urls="3">
+                <name>Carrillo Flores, Antonio</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v31/persons#p_CFA1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v05/persons#p_CFA1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve10/persons#p_CFA1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Carrillo– Flores, Antonio</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve01/persons#p_CFA1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Carrillo-Flores, Antonio</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve14p1/persons#p_CFA1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="8">
+        <remark source-urls="2">
+            <p>Mexican Secretary of the Treasury and Public Credit</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v06/persons#p_CFA1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v07/persons#p_CFA1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Mexican Ambassador to the United States</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v12/persons#p_CFA1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Mexican Ambassador to the United States until November 1964; Foreign Minister of Mexico from December 1, 1964</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v31/persons#p_CFA1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>former Foreign Minister of Mexico; Secretary-General, UN World Population Conference</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v05/persons#p_CFA1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Mexican Minister of Foreign Affairs until 1970</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v21/persons#p_CFA_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Secretary of Foreign Relations, Mexico; Assistant Secretary–General, United Nations</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve01/persons#p_CFA1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Secretary of Foreign Relations, Government of Mexico, from 1964 until 1970</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve10/persons#p_CFA1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Secretary-General, World Population Conference</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve14p1/persons#p_CFA1</source-url>
+        </remark>
+    </remarks>
+</person>

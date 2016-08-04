@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>106862</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Kanter, Arnold Lee</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="2">
+                <name>Kanter, Arnold Lee</name>
+                <source-url>https://history.state.gov/departmenthistory/people/kanter-arnold-lee</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1981-88v13/persons#p_KA_1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1945</birth-year>
+    <death-year/>
+    <remarks variants="2">
+        <remark source-urls="1">
+            <p>Non-career appointee. Under Secretary of State for Political Affairs.</p>
+            <source-url>https://history.state.gov/departmenthistory/people/kanter-arnold-lee</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Director, Office of Policy Analysis, Bureau of Politico-Military Affairs, Department of State</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1981-88v13/persons#p_KA_1</source-url>
+        </remark>
+    </remarks>
+</person>

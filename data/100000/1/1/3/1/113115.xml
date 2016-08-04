@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>113115</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Strong, Robert Campbell</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="7">
+                <name>Strong, Robert C.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v09p1/persons#p_SRC1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v09p2/persons#p_SRC1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v13/persons#p_SRC1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v17/persons#p_SRC4</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v18/persons#p_SRC4</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v21/persons#p_SRC4</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v34/persons#p_SRC4</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Strong, Robert Campbell</name>
+                <source-url>https://history.state.gov/departmenthistory/people/strong-robert-campbell</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Robert C. Strong</name>
+                <source-url>https://history.state.gov/departmenthistory/people/strong-robert-campbell</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1915</birth-year>
+    <death-year>1999</death-year>
+    <remarks variants="6">
+        <remark source-urls="2">
+            <p>Special Assistant to the Director, Office of Chinese Affairs, Bureau of Far Eastern Affairs, Department of State, until January 4, 1953; Member, Policy Planning Staff, January 4, 1953–August 2, 1954; First Secretary and Consul of the Embassy in Syria, August 2–3, 1954; thereafter Counselor.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v09p1/persons#p_SRC1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v09p2/persons#p_SRC1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Counselor of the Embassy in Syria</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v13/persons#p_SRC1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Director, Office of Near Eastern Affairs, Bureau of Near Eastern and South Asian Affairs, Department of State, April 1961–June 1963</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v17/persons#p_SRC4</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v18/persons#p_SRC4</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Ambassador to Iraq until April 1967</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v21/persons#p_SRC4</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Ambassador to Iraq</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v34/persons#p_SRC4</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Foreign Service Officer. Ambassador Extraordinary and Plenipotentiary (Iraq).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/strong-robert-campbell</source-url>
+        </remark>
+    </remarks>
+</person>

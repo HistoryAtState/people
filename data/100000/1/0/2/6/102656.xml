@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>102656</id>
+    <authorities>
+        <authority service="viaf">64044879</authority>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Clerides, Glafkos</name>
+        </preferred>
+        <alternates/>
+        <originals variants="5">
+            <original source-urls="4">
+                <name>Clerides, Glaufkos</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v16/persons#p_CG1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v16/persons#p_CG2</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v33/persons#p_CG3</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v29/persons#p_CG1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Clerides, Glafkos I.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v16/persons#p_CGI_1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Clerides, Glafkos</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v30/persons#p_CG3</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Clerides, Glafcos</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v21/persons#p_CG_2</source-url>
+            </original>
+            <original source-urls="1">
+                <name>President Glafcos Clerides</name>
+                <source-url>https://history.state.gov/departmenthistory/visits/cyprus</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="7">
+        <remark source-urls="1">
+            <p>Greek Cypriot attorney and intermediary in Cypriot intercommunal talks</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v16/persons#p_CG1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Speaker of the Cypriot Parliament</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v16/persons#p_CG2</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v33/persons#p_CG3</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>acting President of Cyprus until December 1974</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v16/persons#p_CGI_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Speaker of the Cypriot Parliament; Chief Greek Cypriot Negotiator in Intercommunal talks</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v29/persons#p_CG1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Speaker of Cypriot parliament under Makarios; acting President of Cyprus from July until December 1974; founder of Democratic Rally Party in 1976</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v30/persons#p_CG3</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Greek Cypriot President of the Democratic Rally Party</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v21/persons#p_CG_2</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>President, Cyprus. Visited U.S. 2 times, 1993–1996</p>
+            <source-url>https://history.state.gov/departmenthistory/visits/cyprus</source-url>
+        </remark>
+    </remarks>
+</person>

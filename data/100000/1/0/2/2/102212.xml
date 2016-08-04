@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>102212</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Carnahan, Albert Sidney Johnson</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="3">
+                <name>Carnahan, Albert Sidney Johnson</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v09/persons#p_CASJ1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v11/persons#p_CASJ1</source-url>
+                <source-url>https://history.state.gov/departmenthistory/people/carnahan-albert-sidney-johnson</source-url>
+            </original>
+            <original source-urls="1">
+                <name>A.S.J. Carnahan</name>
+                <source-url>https://history.state.gov/departmenthistory/people/carnahan-albert-sidney-johnson</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1897</birth-year>
+    <death-year>1968</death-year>
+    <remarks variants="3">
+        <remark source-urls="1">
+            <p>Democratic Congressman from Missouri; Representative to the United Nations, 1957</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v09/persons#p_CASJ1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Democratic Representative from Missouri; Representative to the Twelfth Session of the United Nations General Assembly</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v11/persons#p_CASJ1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Non-career appointee. Ambassador Extraordinary and Plenipotentiary (Sierra Leone).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/carnahan-albert-sidney-johnson</source-url>
+        </remark>
+    </remarks>
+</person>

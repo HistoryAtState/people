@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>107083</id>
+    <authorities>
+        <authority service="viaf">75551826</authority>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Khalid Ibn Abd al-Aziz al-Saud</name>
+        </preferred>
+        <alternates/>
+        <originals variants="7">
+            <original source-urls="1">
+                <name>King Khalid</name>
+                <source-url>https://history.state.gov/departmenthistory/visits/saudi-arabia</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Khalid ibn Abdul-Aziz (Prince)</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v21/persons#p_KAAP1</source-url>
+            </original>
+            <original source-urls="2">
+                <name>Khalid bin Abdul Aziz</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v16/persons#p_KAA_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v26/persons#p_KBAA_1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Khalid (Khaled) bin Abdul Aziz</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v36/persons#p_KKBAA1</source-url>
+            </original>
+            <original source-urls="3">
+                <name>Khalid, Ibn Abd al-Aziz al-Saud</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v37/persons#p_KIAAS_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v03/persons#p_KIAAS_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v06/persons#p_KIA_1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Khalid ibn Abd al-Aziz al-Saud</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v08/persons#p_KAAS_1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Khalid Ibn Abd al-Aziz al-Saud</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v18/persons#p_KAA_1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="1">
+            <title source-urls="1">
+                <name>Prince</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v21/persons#p_KAAP1</source-url>
+            </title>
+        </titles-from-name>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="8">
+        <remark source-urls="1">
+            <p>King, Saudi Arabia. Visited U.S. once, 1978</p>
+            <source-url>https://history.state.gov/departmenthistory/visits/saudi-arabia</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Saudi Arabian Deputy Prime Minister</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v21/persons#p_KAAP1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>King of Saudi Arabia from March 25, 1975</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v16/persons#p_KAA_1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v26/persons#p_KBAA_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Crown Prince of Saudi Arabia</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v36/persons#p_KKBAA1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Crown Prince of Saudi Arabia until December 1975; King of Saudi Arabia from December 1975</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v37/persons#p_KIAAS_1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>King of Saudi Arabia</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v03/persons#p_KIAAS_1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v18/persons#p_KAA_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>King and Prime Minister of Saudi Arabia</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v06/persons#p_KIA_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>King of Saudi Arabia from March 1975</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v08/persons#p_KAAS_1</source-url>
+        </remark>
+    </remarks>
+</person>

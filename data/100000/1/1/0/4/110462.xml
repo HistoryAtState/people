@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>110462</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Paul VI</name>
+        </preferred>
+        <alternates>
+            <name>Giovanni Battista Montini</name>
+        </alternates>
+        <originals variants="4">
+            <original source-urls="3">
+                <name>Paul VI</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v02/persons#p_PVI1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v03/persons#p_PVI1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v29/persons#p_PVI1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Paul IV</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v06/persons#p_PIV1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Paul VI (Giovanni Battista Montini)</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v12/persons#p_PVIGBM1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Pope Paul VI</name>
+                <source-url>https://history.state.gov/departmenthistory/visits/holy-see</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="4">
+        <remark source-urls="2">
+            <p>Pope of the Roman Catholic Church</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v02/persons#p_PVI1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v03/persons#p_PVI1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Pope</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v06/persons#p_PIV1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v12/persons#p_PVIGBM1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>(Giovanni Battista Montini), Pope</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v29/persons#p_PVI1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Pope, Vatican City. Visited U.S. once, 1965</p>
+            <source-url>https://history.state.gov/departmenthistory/visits/holy-see</source-url>
+        </remark>
+    </remarks>
+</person>

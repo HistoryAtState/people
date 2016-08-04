@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>108115</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>López Mateos, Adolfo</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="2">
+                <name>Lopez Mateos, Adolfo</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v05/persons#p_LMA1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v12/persons#p_LMA1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>López Mateos, Adolfo</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v06/persons#p_LMA1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>López Mateos, Alfonso</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v31/persons#p_LMA1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="3">
+        <remark source-urls="1">
+            <p>President of Mexico from December 1, 1958</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v05/persons#p_LMA1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>President of Mexico</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v06/persons#p_LMA1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v12/persons#p_LMA1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>President of Mexico until December 1, 1964</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v31/persons#p_LMA1</source-url>
+        </remark>
+    </remarks>
+</person>

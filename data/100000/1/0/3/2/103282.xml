@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>103282</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>De Ganeval, Jean</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="2">
+                <name>Ganeval, Brigadier General Jean</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1948v02/persons#p_GBGJ1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1949v03/persons#p_GBGJ1</source-url>
+            </original>
+            <original source-urls="2">
+                <name>De Ganeval, Lieutenant General Jean</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v03p1/persons#p_DLJ1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v03p2/persons#p_DLJ1</source-url>
+            </original>
+            <original source-urls="2">
+                <name>Ganeval</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v03p1/persons#p_G1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v03p2/persons#p_G1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="2">
+            <title source-urls="2">
+                <name>Brigadier General</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1948v02/persons#p_GBGJ1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1949v03/persons#p_GBGJ1</source-url>
+            </title>
+            <title source-urls="2">
+                <name>Lieutenant General</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v03p1/persons#p_DLJ1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v03p2/persons#p_DLJ1</source-url>
+            </title>
+        </titles-from-name>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="4">
+        <remark source-urls="1">
+            <p>French Commandant for Berlin</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1948v02/persons#p_GBGJ1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>French Commandant for Berlin.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1949v03/persons#p_GBGJ1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>French Military Representative at the Bonn talks concerning a German military contribution to Western Defense; Chief of Staff for French Minister of National Defense.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1951v03p1/persons#p_DLJ1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1951v03p2/persons#p_DLJ1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>See De Ganeval.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1951v03p1/persons#p_G1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1951v03p2/persons#p_G1</source-url>
+        </remark>
+    </remarks>
+</person>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>102825</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Coombs, Frank Leslie</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="1">
+                <name>Coombs, Frank Leslie</name>
+                <source-url>https://history.state.gov/departmenthistory/people/coombs-frank-leslie</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Frank L. Coombs</name>
+                <source-url>https://history.state.gov/departmenthistory/people/coombs-frank-leslie</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1853</birth-year>
+    <death-year>1934</death-year>
+    <remarks variants="1">
+        <remark source-urls="1">
+            <p>Non-career appointee. Envoy Extraordinary and Minister Plenipotentiary (Japan).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/coombs-frank-leslie</source-url>
+        </remark>
+    </remarks>
+</person>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>109599</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Myers, Dale D.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="1">
+                <name>Myers, Dale D.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve01/persons#p_MDD1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="1">
+        <remark source-urls="1">
+            <p>Associate Administrator, Office of Manned Space Flight, National Aeronautics and Space Administration, 1970–1974</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve01/persons#p_MDD1</source-url>
+        </remark>
+    </remarks>
+</person>

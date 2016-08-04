@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>110623</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Petrone, Joseph Carlton</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="1">
+                <name>Petrone, Joseph Carlton</name>
+                <source-url>https://history.state.gov/departmenthistory/people/petrone-joseph-carlton</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Joseph C. Petrone</name>
+                <source-url>https://history.state.gov/departmenthistory/people/petrone-joseph-carlton</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1922</birth-year>
+    <death-year/>
+    <remarks variants="1">
+        <remark source-urls="1">
+            <p>Non-career appointee. Representative of the U.S.A. to the European Office of the United Nations (Geneva).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/petrone-joseph-carlton</source-url>
+        </remark>
+    </remarks>
+</person>

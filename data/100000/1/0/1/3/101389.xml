@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>101389</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Blair, William McCormick, Jr.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="2">
+                <name>Blair, William McCormick, Jr.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v12/persons#p_BWMCJ1</source-url>
+                <source-url>https://history.state.gov/departmenthistory/people/blair-william-mccormick</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Blair, William McC., Jr.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v26/persons#p_BWMCJ1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Blair, William McC.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v27/persons#p_BWMC1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1916</birth-year>
+    <death-year>2015</death-year>
+    <remarks variants="4">
+        <remark source-urls="1">
+            <p>Ambassador to Denmark until July 1964</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v12/persons#p_BWMCJ1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Ambassador to the Philippines, June 8, 1964–October 21, 1967</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v26/persons#p_BWMCJ1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Jr., Ambassador to the Philippines, June 8, 1964–October 21, 1967</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v27/persons#p_BWMC1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Non-career appointee. Ambassador Extraordinary and Plenipotentiary (Philippines); Ambassador Extraordinary and Plenipotentiary (Denmark).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/blair-william-mccormick</source-url>
+        </remark>
+    </remarks>
+</person>

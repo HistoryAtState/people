@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>100624</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Asbjornson, Mildred</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="6">
+                <name>Asbjornson, Mildred</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v10/persons#p_AM1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v15/persons#p_AM1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v16/persons#p_AM1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v17/persons#p_AM2</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v06/persons#p_AM1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v01/persons#p_AM1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="4">
+        <remark source-urls="2">
+            <p>Secretary to Secretary of State Dulles</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v10/persons#p_AM1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v15/persons#p_AM1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Secretary of State Dulles ’ secretary</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v16/persons#p_AM1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v17/persons#p_AM2</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Personal Secretary to Secretary of State Herter</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v06/persons#p_AM1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>secretary to Secretary of State Rusk</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v01/persons#p_AM1</source-url>
+        </remark>
+    </remarks>
+</person>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>101929</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Bundy, Harvey Hollister</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="2">
+                <name>Bundy, Harvey Hollister</name>
+                <source-url>https://history.state.gov/departmenthistory/people/bundy-harvey-hollister</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv02/persons#p_BHH1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Harvey H. Bundy</name>
+                <source-url>https://history.state.gov/departmenthistory/people/bundy-harvey-hollister</source-url>
+            </original>
+            <original source-urls="2">
+                <name>Bundy, Harvey H.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv01/persons#p_BHH1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945v01/persons#p_BHH1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1888</birth-year>
+    <death-year>1963</death-year>
+    <remarks variants="3">
+        <remark source-urls="1">
+            <p>Non-career appointee. Assistant Secretary of State.</p>
+            <source-url>https://history.state.gov/departmenthistory/people/bundy-harvey-hollister</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Special Assistant to the Secretary of War; Joint Secretary, Combined Policy Committee (on atomic energy).</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv01/persons#p_BHH1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Special Assistant to the Secretary of War.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv02/persons#p_BHH1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1945v01/persons#p_BHH1</source-url>
+        </remark>
+    </remarks>
+</person>

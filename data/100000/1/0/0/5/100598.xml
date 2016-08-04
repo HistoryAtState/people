@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>100598</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Arnold, William H.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="1">
+                <name>Arnold, William H.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v05/persons#p_AWH1</source-url>
+            </original>
+            <original source-urls="3">
+                <name>Arnold, Lieutenant General William H.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v07p1/persons#p_ALGWH1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v07p2/persons#p_ALGWH1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v26/persons#p_ALGWH1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Arnold, Major General William H.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v08/persons#p_AMGWH1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="2">
+            <title source-urls="3">
+                <name>Lieutenant General</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v07p1/persons#p_ALGWH1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v07p2/persons#p_ALGWH1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v26/persons#p_ALGWH1</source-url>
+            </title>
+            <title source-urls="1">
+                <name>Major General</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v08/persons#p_AMGWH1</source-url>
+            </title>
+        </titles-from-name>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="4">
+        <remark source-urls="1">
+            <p>USA, Chief of the Joint Military Mission for Aid to Turkey.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1951v05/persons#p_AWH1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Commanding General, United States Armed Forces in Austria, from 1953.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v07p1/persons#p_ALGWH1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v07p2/persons#p_ALGWH1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Chief of the Joint American Military Mission for Aid to Turkey until 1953.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v08/persons#p_AMGWH1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Commanding General, U.S. Forces in Austria</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v26/persons#p_ALGWH1</source-url>
+        </remark>
+    </remarks>
+</person>

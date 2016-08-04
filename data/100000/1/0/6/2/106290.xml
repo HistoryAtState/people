@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>106290</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Hunt, John</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="1">
+                <name>Hunt, Brigadier John</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv01/persons#p_HBJ1</source-url>
+            </original>
+            <original source-urls="3">
+                <name>Hunt, Sir John</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v31/persons#p_HSJ1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve15p2/persons#p_HJ_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v03/persons#p_HSJ_1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Hunt, John</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v37/persons#p_HJ_1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="2">
+            <title source-urls="1">
+                <name>Brigadier</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv01/persons#p_HBJ1</source-url>
+            </title>
+            <title source-urls="3">
+                <name>Sir</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v31/persons#p_HSJ1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve15p2/persons#p_HJ_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v03/persons#p_HSJ_1</source-url>
+            </title>
+        </titles-from-name>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="5">
+        <remark source-urls="1">
+            <p>Commander, 11th Indian Infantry Brigade, in Greece.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv01/persons#p_HBJ1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>British Secretary of the Cabinet from 1973</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v31/persons#p_HSJ1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Sir, British Cabinet Secretary until 1979</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v37/persons#p_HJ_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>British Secretary of the Cabinet from 1973 until 1979</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve15p2/persons#p_HJ_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Secretary to the Cabinet of the United Kingdom until 1979</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v03/persons#p_HSJ_1</source-url>
+        </remark>
+    </remarks>
+</person>

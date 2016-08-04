@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>106213</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Huang Zhen</name>
+        </preferred>
+        <alternates>
+            <name>Huang Chen</name>
+        </alternates>
+        <originals variants="6">
+            <original source-urls="2">
+                <name>Huang Chen (Huang Zhen)</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v07/persons#p_HC1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v13/persons#p_HC_1</source-url>
+            </original>
+            <original source-urls="2">
+                <name>Huang Zhen (Huang Chen)</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v10/persons#p_HZ1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v18/persons#p_HZ1</source-url>
+            </original>
+            <original source-urls="4">
+                <name>Huang Chen</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v13/persons#p_HC1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v17/persons#p_HC1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v18/persons#p_HC1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve13/persons#p_HZ2</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Huang Zhen (Chen)</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v25/persons#p_HZ_1</source-url>
+            </original>
+            <original source-urls="3">
+                <name>Huang Zhen</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v38p1/persons#p_HZ_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v26/persons#p_HC_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v30/persons#p_HC_1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Huang-chen</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v38p2/persons#p_Hc_1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="11">
+        <remark source-urls="1">
+            <p>PRC ambassador to France</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v07/persons#p_HC1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>PRC Ambassador to France until March 1973; Chief of the PRC Liaison Office in the United States from March 1973</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v10/persons#p_HZ1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v18/persons#p_HZ1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Chinese Ambassador to France</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v13/persons#p_HC1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>PRC Ambassador to France</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v17/persons#p_HC1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve13/persons#p_HZ2</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>see Huang Zhen</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v18/persons#p_HC1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Head of the Liaison Office of the People’s Republic of China in Washington</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v25/persons#p_HZ_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Chief of the People’s Republic of China Liaison Office in the United States</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v38p1/persons#p_HZ_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Chief of the PRC Liaison Office in the United States</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v38p2/persons#p_Hc_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Chief of the PRC Liaison Office in the United States from March 1973 until November 1977</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v13/persons#p_HC_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Chief of the People’s Republic of China Liaison Office in the United States from March 1973 until November 1977</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v26/persons#p_HC_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Chief of the PRC Liaison Office in the United States until November 1977; thereafter, Minister of Culture</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v30/persons#p_HC_1</source-url>
+        </remark>
+    </remarks>
+</person>

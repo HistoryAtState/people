@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>114383</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Weiler, Lawrence D.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="5">
+                <name>Weiler, Lawrence D.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v20/persons#p_WLD1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v11/persons#p_WLD1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v32/persons#p_WLD1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve02/persons#p_WLD1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v26/persons#p_WL_1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="5">
+        <remark source-urls="1">
+            <p>Bureau of International Organization Affairs, Department of State</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v20/persons#p_WLD1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Special Assistant to the Deputy Director, Arms Control and Disarmament Agency, after April 1964</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v11/persons#p_WLD1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Counselor, Arms Control and Disarmament Agency from 1969</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v32/persons#p_WLD1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Counselor, U.S. Arms Control and Disarmament Agency from 1969</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve02/persons#p_WLD1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Special Assistant for Public and Academic Liaison, Arms Control and Disarmament Agency, 1978; U.S. Ambassador and Coordinator for UN Special Session on Disarmament from 1977 until 1978</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v26/persons#p_WL_1</source-url>
+        </remark>
+    </remarks>
+</person>

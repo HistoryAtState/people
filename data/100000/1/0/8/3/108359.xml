@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>108359</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Mahoney, William Patrick, Jr.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="4">
+            <original source-urls="1">
+                <name>Mahoney, William P.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v21/persons#p_MWPJ1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Mahoney, William P., Jr.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v24/persons#p_MWPJ1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Mahoney, William Patrick, Jr.</name>
+                <source-url>https://history.state.gov/departmenthistory/people/mahoney-william-patrick</source-url>
+            </original>
+            <original source-urls="1">
+                <name>William P. Mahoney Jr.</name>
+                <source-url>https://history.state.gov/departmenthistory/people/mahoney-william-patrick</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1916</birth-year>
+    <death-year/>
+    <remarks variants="3">
+        <remark source-urls="1">
+            <p>Ambassador to Ghana from June 1962</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v21/persons#p_MWPJ1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Ambassador to Ghana until May 1965</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v24/persons#p_MWPJ1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Non-career appointee. Ambassador Extraordinary and Plenipotentiary (Ghana).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/mahoney-william-patrick</source-url>
+        </remark>
+    </remarks>
+</person>

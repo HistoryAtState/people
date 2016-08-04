@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>111761</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Rutter, Peter</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="5">
+                <name>Rutter, Peter</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v04p1/persons#p_RP3</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v04p2/persons#p_RP3</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v07p1/persons#p_RP1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v07p2/persons#p_RP1</source-url>
+                <source-url>https://history.state.gov/departmenthistory/people/rutter-peter</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1915</birth-year>
+    <death-year>1989</death-year>
+    <remarks variants="3">
+        <remark source-urls="2">
+            <p>Office of Western European Affairs, Department of State</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1951v04p1/persons#p_RP3</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1951v04p2/persons#p_RP3</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Office of Western European Affairs, Department of State, until November 1953.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v07p1/persons#p_RP1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v07p2/persons#p_RP1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Foreign Service Officer. Chargé d'Affaires (Ghana).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/rutter-peter</source-url>
+        </remark>
+    </remarks>
+</person>

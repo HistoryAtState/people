@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>107169</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Kim Chung Yul (Kim Chong-yol)</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="1">
+                <name>Kim, Chung-yul (Kim Chung-yil)</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v18/persons#p_KCKC2</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Kim Chung Yul (Kim Chong-yol)</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v29p1/persons#p_KCYKC1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="2">
+        <remark source-urls="1">
+            <p>Republic of Korea Minister of National Defense until April 1960</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v18/persons#p_KCKC2</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Republic of Korea Ambassador to the United States until October 1967</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v29p1/persons#p_KCYKC1</source-url>
+        </remark>
+    </remarks>
+</person>

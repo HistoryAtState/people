@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>104742</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Garthoff, Raymond Leonard</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="5">
+                <name>Garthoff, Raymond L.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v25/persons#p_GRL2</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v11/persons#p_GRL2</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v12/persons#p_GRL2</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v13/persons#p_GRL1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v14/persons#p_GRL2</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Garthoff, Raymond Leonard</name>
+                <source-url>https://history.state.gov/departmenthistory/people/garthoff-raymond-leonard</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Raymond L. Garthoff</name>
+                <source-url>https://history.state.gov/departmenthistory/people/garthoff-raymond-leonard</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1929</birth-year>
+    <death-year/>
+    <remarks variants="6">
+        <remark source-urls="1">
+            <p>Special Assistant for Politico-Military Affairs, Department of State from February 1962</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v25/persons#p_GRL2</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Special Assistant for Soviet Bloc Politico-Military Affairs, Office of the Deputy Under Secretary of State for Political Affairs</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v11/persons#p_GRL2</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Deputy Director, Bureau of Politico-Military Affairs, Department of State</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v12/persons#p_GRL2</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Deputy Director, Bureau of Politico-Military Affairs; Executive Officer and Senior Adviser to the U.S. Delegation to the Strategic Arms Limitation Talks</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v13/persons#p_GRL1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Deputy Director, Bureau of Politico-Military Affairs; also Executive Officer and Senior Adviser, U.S. Department of State Delegation to the Strategic Arms Limitation Talks (SALT I)</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v14/persons#p_GRL2</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Foreign Service Officer. Ambassador Extraordinary and Plenipotentiary (Bulgaria).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/garthoff-raymond-leonard</source-url>
+        </remark>
+    </remarks>
+</person>

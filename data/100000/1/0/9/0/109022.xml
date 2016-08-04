@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>109022</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Mende, Erich</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="5">
+                <name>Mende, Erich</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v05p1/persons#p_MENDEE1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v05p2/persons#p_MENDEE1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v14/persons#p_ME4</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v15/persons#p_ME4</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v15/persons#p_ME4</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="4">
+        <remark source-urls="2">
+            <p>Deputy Chairman of the Free Democratic Party and member of the Bundestag of the Federal Republic of Germany.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v05p1/persons#p_MENDEE1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v05p2/persons#p_MENDEE1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Chairman of the West German Free Democratic Party</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v14/persons#p_ME4</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Chairman of the German Free Democratic Party and Minister for All-German Questions from October 1963</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v15/persons#p_ME4</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>FDP Chairman; West German Vice Chancellor and Minister of All-German Affairs until October 28, 1966</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v15/persons#p_ME4</source-url>
+        </remark>
+    </remarks>
+</person>

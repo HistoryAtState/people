@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>109383</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Morgan, Edwin Vernon</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="2">
+                <name>Morgan, Edwin Vernon</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1914Supp/persons#p_MEV1</source-url>
+                <source-url>https://history.state.gov/departmenthistory/people/morgan-edwin-vernon</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Morgan, Edwin V.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1916Supp/persons#p_MEV1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Edwin V. Morgan</name>
+                <source-url>https://history.state.gov/departmenthistory/people/morgan-edwin-vernon</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1865</birth-year>
+    <death-year>1934</death-year>
+    <remarks variants="3">
+        <remark source-urls="1">
+            <p>United States Ambassador in Brazil.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1914Supp/persons#p_MEV1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>U. S. Ambassador in Brazil.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1916Supp/persons#p_MEV1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Foreign Service Officer. Envoy Extraordinary and Minister Plenipotentiary (Uruguay); Envoy Extraordinary and Minister Plenipotentiary (Portugal); Envoy Extraordinary and Minister Plenipotentiary (Paraguay); Envoy Extraordinary and Minister Plenipotentiary (joseon-dynasty-1910); Envoy Extraordinary and Minister Plenipotentiary (Cuba); Ambassador Extraordinary and Plenipotentiary (Brazil).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/morgan-edwin-vernon</source-url>
+        </remark>
+    </remarks>
+</person>

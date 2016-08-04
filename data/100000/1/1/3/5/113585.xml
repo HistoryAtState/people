@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>113585</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Timberlake, Clare Hayes</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="2">
+                <name>Timberlake, Clare Hayes</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v05/persons#p_TCH1</source-url>
+                <source-url>https://history.state.gov/departmenthistory/people/timberlake-clare-hayes</source-url>
+            </original>
+            <original source-urls="4">
+                <name>Timberlake, Clare H.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v14/persons#p_TCH1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v20/persons#p_CHT1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v11/persons#p_TCH1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v23/persons#p_TCH_1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Clare H. Timberlake</name>
+                <source-url>https://history.state.gov/departmenthistory/people/timberlake-clare-hayes</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1907</birth-year>
+    <death-year>1982</death-year>
+    <remarks variants="6">
+        <remark source-urls="1">
+            <p>Minister-Counselor of the Embassy in Argentina until March 1959</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v05/persons#p_TCH1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Ambassador to the Congo from July 1960</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v14/persons#p_TCH1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Ambassador to the Congo until June 1961</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v20/persons#p_CHT1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Chairman, Disarmament Advisory Staff, Arms Control and Disarmament Agency, until 1964; thereafter Deputy Representative to the Eighteen-Nation Disarmament Committee</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v11/persons#p_TCH1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Ambassador to the Congo from July 25, 1960 until June 15, 1961</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v23/persons#p_TCH_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Foreign Service Officer. Ambassador Extraordinary and Plenipotentiary (Congo (Kinshasa)).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/timberlake-clare-hayes</source-url>
+        </remark>
+    </remarks>
+</person>

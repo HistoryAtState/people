@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>104632</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Funkhouser, Richard Edgar</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="2">
+                <name>Funkhouser, Richard Edgar</name>
+                <source-url>https://history.state.gov/departmenthistory/people/funkhouser-richard-edgar</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v05/persons#p_FR3</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Richard Funkhouser</name>
+                <source-url>https://history.state.gov/departmenthistory/people/funkhouser-richard-edgar</source-url>
+            </original>
+            <original source-urls="2">
+                <name>Funkhouser, Richard</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v09p1/persons#p_FR1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v09p2/persons#p_FR1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1917</birth-year>
+    <death-year>2008</death-year>
+    <remarks variants="3">
+        <remark source-urls="1">
+            <p>Foreign Service Officer. Ambassador Extraordinary and Plenipotentiary (Gabon).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/funkhouser-richard-edgar</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Office of Near Eastern Affairs, Department of State, from January 1951.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1951v05/persons#p_FR3</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Office of Near Eastern Affairs, Bureau of Near Eastern, South Asian, and African Affairs, Department of State, until March 14, 1952; Acting Officer in Charge of Lebanon, Syria, and Iraq Affairs, March 14–30, 1952; Officer in Charge, March 30, 1952–August 1953; detailed to National War College, August 1953–June 10, 1954; Attaché of the Embassy in Rumania, June 10–July 26, 1954; thereafter First Secretary.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v09p1/persons#p_FR1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v09p2/persons#p_FR1</source-url>
+        </remark>
+    </remarks>
+</person>

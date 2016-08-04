@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>102649</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Clemenceau, Georges Eugène Benjamin</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="1">
+                <name>Clemenceau, Georges Eugène Benjamin.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1916Supp/persons#p_CGEB1</source-url>
+            </original>
+            <original source-urls="2">
+                <name>Clemenceau, Georges</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1917-72PubDip/persons#p_CG_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv01/persons#p_CG3</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Clemenceau, Georges Eugène Benjamin</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945Malta/persons#p_CGEB1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="3">
+        <remark source-urls="1">
+            <p>Former President of the French Council of Ministers and Minister of Foreign Affairs.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1916Supp/persons#p_CGEB1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Prime Minister of France from 1917 until 1920</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1917-72PubDip/persons#p_CG_1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>French Premier, 1906–1909, 1917–1920.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv01/persons#p_CG3</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1945Malta/persons#p_CGEB1</source-url>
+        </remark>
+    </remarks>
+</person>

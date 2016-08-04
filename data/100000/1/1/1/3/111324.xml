@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>111324</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Rhoades, Ralph O.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="3">
+                <name>Rhoades, Ralph O.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v05/persons#p_RRO1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v09p1/persons#p_RRO1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v09p2/persons#p_RRO1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="1">
+        <remark source-urls="3">
+            <p>Vice President, Gulf Oil Corporation.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1951v05/persons#p_RRO1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v09p1/persons#p_RRO1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v09p2/persons#p_RRO1</source-url>
+        </remark>
+    </remarks>
+</person>

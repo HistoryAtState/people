@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>104989</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Golunsky, Sergey Aleksandrovich</name>
+        </preferred>
+        <alternates/>
+        <originals variants="5">
+            <original source-urls="1">
+                <name>Galounsky</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv02/persons#p_G1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Golunko</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv02/persons#p_G6</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Golunski</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv02/persons#p_G7</source-url>
+            </original>
+            <original source-urls="2">
+                <name>Golunsky, Sergey Aleksandrovich</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv02/persons#p_GSA1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945v01/persons#p_GSA1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Golunsky, Sergey Alexandrovich</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945Malta/persons#p_GSA1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="4">
+        <remark source-urls="3">
+            <p>See Golunsky.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv02/persons#p_G1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv02/persons#p_G6</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv02/persons#p_G7</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Expert Consultant, People’s Commissariat for Foreign Affairs of the Soviet Union.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv02/persons#p_GSA1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Soviet Consultant on International Law, assigned to the People’s Commissariat for Foreign Affairs.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1945Malta/persons#p_GSA1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Soviet Professor of International Law; Adviser, United Nations Committee of Jurists; Soviet Delegate.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1945v01/persons#p_GSA1</source-url>
+        </remark>
+    </remarks>
+</person>

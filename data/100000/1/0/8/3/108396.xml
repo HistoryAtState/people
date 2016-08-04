@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>108396</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Malagodi, Giovanni Francesco</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="2">
+                <name>Malagodi, Giovanni Francesco</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v04p1/persons#p_MGF1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v04p2/persons#p_MGF1</source-url>
+            </original>
+            <original source-urls="2">
+                <name>Malagodig, Giovanni</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v06p1/persons#p_MALAGODIG1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v06p2/persons#p_MALAGODIG1</source-url>
+            </original>
+            <original source-urls="2">
+                <name>Malagodi, Giovanni F. J.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v04/persons#p_MGFJ1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v27/persons#p_MGFJ1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="3">
+        <remark source-urls="2">
+            <p>Italian Parliamentary Deputy; Secretary General, Partito Liberale Italiano; Italian Representative on the NATO Financial and Economic Board, the European Recovery Program, and the Organization for European Economic Cooperation</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1951v04p1/persons#p_MGF1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1951v04p2/persons#p_MGF1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Secretary of the Italian Liberal Party after 1954.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v06p1/persons#p_MALAGODIG1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v06p2/persons#p_MALAGODIG1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Secretary of the Italian Liberal Party</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v04/persons#p_MGFJ1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v27/persons#p_MGFJ1</source-url>
+        </remark>
+    </remarks>
+</person>

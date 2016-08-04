@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>101352</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Bissell, Clayton L.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="1">
+                <name>Bissell, Major General Clayton</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945-50Intel/persons#p_BMGC1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Bissell, Major General Clayton L.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1948v02/persons#p_BMGCL1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="2">
+            <title source-urls="1">
+                <name>Major General (USA)</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945-50Intel/persons#p_BMGC1</source-url>
+            </title>
+            <title source-urls="1">
+                <name>Major General</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1948v02/persons#p_BMGCL1</source-url>
+            </title>
+        </titles-from-name>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="2">
+        <remark source-urls="1">
+            <p>(USA) Assistant Chief of Staff for Military Intelligence</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1945-50Intel/persons#p_BMGC1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Military Attaché and Military Air Attaché at the United States Embassy in the United Kingdom</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1948v02/persons#p_BMGCL1</source-url>
+        </remark>
+    </remarks>
+</person>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>100400</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Amri, Hassan al-</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="2">
+                <name>Amri, General Hassan al-</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v21/persons#p_AGH1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v24/persons#p_AGH1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="1">
+            <title source-urls="2">
+                <name>General</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v21/persons#p_AGH1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v24/persons#p_AGH1</source-url>
+            </title>
+        </titles-from-name>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="2">
+        <remark source-urls="1">
+            <p>Prime Minister of Yemen February-April 1964, January-April 1965, July 1965-September 1966, and from December 1967; also Minister of Defense from December 1967</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v21/persons#p_AGH1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Prime Minister and Foreign Minister, Yemen Arab Republic, from December 21, 1967, until July 9, 1969, and from August 24 until September 5, 1971</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v24/persons#p_AGH1</source-url>
+        </remark>
+    </remarks>
+</person>

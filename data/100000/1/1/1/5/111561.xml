@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>111561</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Romulo, Carlos P.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="5">
+            <original source-urls="1">
+                <name>Romulo, Brigadier General Carlos P.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v03/persons#p_ROMULOBGCP1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Romulo, General Carlos P.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v21/persons#p_RGCP1</source-url>
+            </original>
+            <original source-urls="3">
+                <name>Romulo, Carlos P.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v15/persons#p_RCP1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v23/persons#p_RCP1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v26/persons#p_RCP1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Romulo, Carlos</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve12/persons#p_romulo-carlos</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Romulo, Gen. Carlos P.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v22/persons#p_RGCP1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="3">
+            <title source-urls="1">
+                <name>Brigadier General</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v03/persons#p_ROMULOBGCP1</source-url>
+            </title>
+            <title source-urls="1">
+                <name>General</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v21/persons#p_RGCP1</source-url>
+            </title>
+            <title source-urls="1">
+                <name>Gen.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v22/persons#p_RGCP1</source-url>
+            </title>
+        </titles-from-name>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="6">
+        <remark source-urls="1">
+            <p>Philippine Ambassador to the United States, February 15, 1952–April 26, 1953; Permanent Representative to the United Nations, 1952–1953; Chairman, Philippine Delegation to the 7th Regular Session of the General Assembly; Cochairman, Delegation to the 9th Regular Session.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v03/persons#p_ROMULOBGCP1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Ambassador of the Philippines to the United States from December 1955</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v21/persons#p_RGCP1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Philippine Ambassador to the United States from November 1955</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v22/persons#p_RGCP1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Philippine Ambassador to the United States</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v15/persons#p_RCP1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v23/persons#p_RCP1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Philippines Secretary of Education, 1966</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v26/persons#p_RCP1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Philippine Foreign Secretary</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve12/persons#p_romulo-carlos</source-url>
+        </remark>
+    </remarks>
+</person>

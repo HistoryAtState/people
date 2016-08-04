@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>104307</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Fisher, Max M.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="3">
+                <name>Fisher, Max M.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v13/persons#p_FMM1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v16/persons#p_FMM_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v01/persons#p_FMM_1</source-url>
+            </original>
+            <original source-urls="2">
+                <name>Fisher, Max</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v26/persons#p_FM_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v08/persons#p_FM_1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="4">
+        <remark source-urls="1">
+            <p>Detroit businessman and Jewish philanthropist</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v13/persons#p_FMM1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Detroit businessman and philanthropist</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v16/persons#p_FMM_1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Special Adviser to President Ford</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v26/persons#p_FM_1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v08/persons#p_FM_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>philanthropist and adviser to several presidents</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v01/persons#p_FMM_1</source-url>
+        </remark>
+    </remarks>
+</person>

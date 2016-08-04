@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>108435</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Malraux, André</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="3">
+                <name>Malraux, André</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v17/persons#p_MA2</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v41/persons#p_MA_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve13/persons#p_MA6</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="2">
+        <remark source-urls="2">
+            <p>French novelist and politician; also, Minister of State (France) responsible for cultural affairs until 1969</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v17/persons#p_MA2</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve13/persons#p_MA6</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>French Minister of Cultural Affairs until June 1969</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v41/persons#p_MA_1</source-url>
+        </remark>
+    </remarks>
+</person>

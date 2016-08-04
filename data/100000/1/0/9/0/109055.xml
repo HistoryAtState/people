@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>109055</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Meroz, Yohanan</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="1">
+                <name>Meroz, Yohanan</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v13/persons#p_MY1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="1">
+        <remark source-urls="1">
+            <p>Counselor of the Israeli Embassy in the United States through early 1959; Political Secretary to the Israeli Foreign Minister, 1960</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v13/persons#p_MY1</source-url>
+        </remark>
+    </remarks>
+</person>

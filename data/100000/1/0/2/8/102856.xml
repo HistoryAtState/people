@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>102856</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Corliss, James C.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="2">
+                <name>Corliss, James C.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v06/persons#p_CJC2</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v07/persons#p_CJC2</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="1">
+        <remark source-urls="2">
+            <p>Acting Adviser and Alternate U.S. Representative, IA-ECOSOC until May 16, 1956; thereafter, Financial Adviser, Office of Inter-American Regional Economic Affairs, Bureau of Inter-American Affairs, Department of State</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v06/persons#p_CJC2</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v07/persons#p_CJC2</source-url>
+        </remark>
+    </remarks>
+</person>

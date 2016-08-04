@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>109823</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Nguyen Van Tam</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="4">
+                <name>Nguyen Van Tam</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v13p1/persons#p_NVT1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v13p2/persons#p_NVT1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v16/persons#p_NVT1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v01/persons#p_NVT1</source-url>
+            </original>
+            <original source-urls="2">
+                <name>Tam</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v13p1/persons#p_T1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v13p2/persons#p_Tam1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Nguyen Van Tarn</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v01/persons#p_NVT1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="5">
+        <remark source-urls="1">
+            <p>Minister of the Interior of the State of Vietnam and Acting Governor of Northern Vietnam to June 3, 1952; Prime Minister of the State of Vietnam, June 3, 1952—December 17, 1953.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v13p1/persons#p_NVT1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>See Nguyen Van Tam.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v13p1/persons#p_T1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v13p2/persons#p_Tam1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Minister of the Interior of the State of Vietnam and Acting Governor of Northern Vietnam to June 3, 1952; Prime Minister of the State of Vietnam, June 3, 1952–December 17, 1953.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v13p2/persons#p_NVT1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Prime Minister of the State of Vietnam, June 1952–December 1953.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v16/persons#p_NVT1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>former Vietnamese Prime Minister and Minister of the Interior</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v01/persons#p_NVT1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v01/persons#p_NVT1</source-url>
+        </remark>
+    </remarks>
+</person>

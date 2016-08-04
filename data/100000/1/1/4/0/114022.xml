@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>114022</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Vaughn, Jack Hood</name>
+        </preferred>
+        <alternates/>
+        <originals variants="4">
+            <original source-urls="4">
+                <name>Vaughn, Jack Hood</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v02/persons#p_VJH1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v03/persons#p_VJH1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v31/persons#p_VJH1</source-url>
+                <source-url>https://history.state.gov/departmenthistory/people/vaughn-jack-hood</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Vaughn, Jack H.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v32/persons#p_VJH1</source-url>
+            </original>
+            <original source-urls="2">
+                <name>Vaughn, Jack, H.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v17/persons#p_VJH1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve13/persons#p_VJH1</source-url>
+            </original>
+            <original source-urls="2">
+                <name>Vaughn, Jack</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve05p1/persons#p_VJH1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve05p2/persons#p_VJ1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1920</birth-year>
+    <death-year>2012</death-year>
+    <remarks variants="5">
+        <remark source-urls="2">
+            <p>Assistant Secretary of State for Inter-American Afairs after March 22, 1965</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v02/persons#p_VJH1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v03/persons#p_VJH1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Ambassador to Panama April 8, 1964–February 27, 1965; Assistant Secretary of State for Inter-American Affairs and U.S. Coordinator of the Alliance for Progress March 22, 1965–February 28, 1966; thereafter Director of the Peace Corps</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v31/persons#p_VJH1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Assistant Secretary of State for Inter-American Affairs, March 22, 1965–February 28, 1966</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v32/persons#p_VJH1</source-url>
+        </remark>
+        <remark source-urls="4">
+            <p>Director of the Peace Corps</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v17/persons#p_VJH1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve05p1/persons#p_VJH1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve05p2/persons#p_VJ1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve13/persons#p_VJH1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Non-career appointee. Assistant Secretary of State for Western Hemisphere Affairs; Ambassador Extraordinary and Plenipotentiary (Panama); Ambassador Extraordinary and Plenipotentiary (Colombia).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/vaughn-jack-hood</source-url>
+        </remark>
+    </remarks>
+</person>

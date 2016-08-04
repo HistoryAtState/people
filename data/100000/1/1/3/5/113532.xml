@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>113532</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Thompson, James M.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="1">
+                <name>Thompson, James M.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v02/persons#p_TJM_1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Thompson, James</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v21/persons#p_TJ_1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="2">
+        <remark source-urls="1">
+            <p>Brigadier General, USA, Office of Policy and Plans, International Security Affairs, Department of Defense</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v02/persons#p_TJM_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Major General, USA, Chief, Joint United States Military Mission for Aid to Turkey</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v21/persons#p_TJ_1</source-url>
+        </remark>
+    </remarks>
+</person>

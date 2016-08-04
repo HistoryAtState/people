@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>110719</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Pickard, Cyril</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="1">
+                <name>Pickard, Cyril</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v25/persons#p_PC1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Pickard, Sir Cyril Stanley</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v33/persons#p_PSCS1</source-url>
+            </original>
+            <original source-urls="2">
+                <name>Pickard, Sir Cyril</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v11/persons#p_PSC1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve07/persons#p_PSCS1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="1">
+            <title source-urls="3">
+                <name>Sir</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v33/persons#p_PSCS1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v11/persons#p_PSC1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve07/persons#p_PSCS1</source-url>
+            </title>
+        </titles-from-name>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="3">
+        <remark source-urls="1">
+            <p>Superintending Under-Secretary, Asia and Atlantic Division, British Commonwealth Relations Office, until May 1966; thereafter British High Commissioner in Pakistan</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v25/persons#p_PC1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Acting United Kingdom High Commissioner, Cyprus, 1964</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v33/persons#p_PSCS1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>British High Commissioner in Pakistan</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v11/persons#p_PSC1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve07/persons#p_PSCS1</source-url>
+        </remark>
+    </remarks>
+</person>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>108531</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Marling, John Leake</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="1">
+                <name>Marling, John Leake</name>
+                <source-url>https://history.state.gov/departmenthistory/people/marling-john-leake</source-url>
+            </original>
+            <original source-urls="1">
+                <name>John L. Marling</name>
+                <source-url>https://history.state.gov/departmenthistory/people/marling-john-leake</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1825</birth-year>
+    <death-year>1856</death-year>
+    <remarks variants="1">
+        <remark source-urls="1">
+            <p>Non-career appointee. Minister Resident (Guatemala).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/marling-john-leake</source-url>
+        </remark>
+    </remarks>
+</person>

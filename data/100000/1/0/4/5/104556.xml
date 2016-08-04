@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>104556</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Frelinghuysen, Frederick Theodore</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="1">
+                <name>Frelinghuysen, Frederick Theodore</name>
+                <source-url>https://history.state.gov/departmenthistory/people/frelinghuysen-frederick-theodore</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Frederick T. Frelinghuysen</name>
+                <source-url>https://history.state.gov/departmenthistory/people/frelinghuysen-frederick-theodore</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1817</birth-year>
+    <death-year>1885</death-year>
+    <remarks variants="1">
+        <remark source-urls="1">
+            <p>Non-career appointee. Secretary of State; Envoy Extraordinary and Minister Plenipotentiary (United Kingdom).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/frelinghuysen-frederick-theodore</source-url>
+        </remark>
+    </remarks>
+</person>

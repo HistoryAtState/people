@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>114143</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Vredenburch, Jonkheer Hendrik F. L. K. van</name>
+        </preferred>
+        <alternates/>
+        <originals variants="5">
+            <original source-urls="1">
+                <name>Vredenburch, Jonkheer van</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1947v02/persons#p_VJV1</source-url>
+            </original>
+            <original source-urls="2">
+                <name>Vredenburch, Jonkheer Hendrik F. L. K. van</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v03p1/persons#p_VJHFLKV1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v03p2/persons#p_VJHFLKV1</source-url>
+            </original>
+            <original source-urls="2">
+                <name>Van Vredenburch</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v03p1/persons#p_VV1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v03p2/persons#p_VV1</source-url>
+            </original>
+            <original source-urls="2">
+                <name>Van Vredenburch.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v05p1/persons#p_VANVREDENBURCH1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v05p2/persons#p_VANVREDENBURCH1</source-url>
+            </original>
+            <original source-urls="2">
+                <name>Vredenburch, Hendrik F. L. K. van</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v05p1/persons#p_VREDENBURCHHFLKv1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v05p2/persons#p_VREDENBURCHHFLKv1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="4">
+        <remark source-urls="1">
+            <p>Head, Political Department, Netherlands Foreign Ministry</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1947v02/persons#p_VJV1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Administrator of the Free Territory of Tangier, 1948–1951; from October 1951, Head of the Netherlands Delegation to the Conference for the Organization of a European Defense Community.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1951v03p1/persons#p_VJHFLKV1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1951v03p2/persons#p_VJHFLKV1</source-url>
+        </remark>
+        <remark source-urls="4">
+            <p>See Vredenburch.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1951v03p1/persons#p_VV1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1951v03p2/persons#p_VV1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v05p1/persons#p_VANVREDENBURCH1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v05p2/persons#p_VANVREDENBURCH1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Head of the Netherlands Delegation to the Conference for the Organization of the European Defense Community, October 1951–May 1952; thereafter Deputy Secretary-General of the North Atlantic Treaty Organization.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v05p1/persons#p_VREDENBURCHHFLKv1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v05p2/persons#p_VREDENBURCHHFLKv1</source-url>
+        </remark>
+    </remarks>
+</person>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>101156</id>
+    <authorities>
+        <authority service="viaf">57912344</authority>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Benediktsson, Bjarni</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="6">
+                <name>Benediktsson, Bjarni</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v03p1/persons#p_BB1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v03p2/persons#p_BB1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v04p1/persons#p_BB1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v04p2/persons#p_BB1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v06p1/persons#p_BENEDIKTSSONB1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v06p2/persons#p_BENEDIKTSSONB1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Prime Minister Benediktsson</name>
+                <source-url>https://history.state.gov/departmenthistory/visits/iceland</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Prime Minister Bjarni Benediktsson</name>
+                <source-url>https://history.state.gov/departmenthistory/visits/iceland</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="5">
+        <remark source-urls="2">
+            <p>Icelandic Foreign Minister.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1951v03p1/persons#p_BB1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1951v03p2/persons#p_BB1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Icelandic Foreign Minister</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1951v04p1/persons#p_BB1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1951v04p2/persons#p_BB1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Icelandic Minister of Foreign Affairs until September 13, 1953.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v06p1/persons#p_BENEDIKTSSONB1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v06p2/persons#p_BENEDIKTSSONB1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Prime Minister, Iceland. Visited U.S. once, 1964</p>
+            <source-url>https://history.state.gov/departmenthistory/visits/iceland</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Prime Minister, Iceland. Visited U.S. once, 1969</p>
+            <source-url>https://history.state.gov/departmenthistory/visits/iceland</source-url>
+        </remark>
+    </remarks>
+</person>

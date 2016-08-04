@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>103041</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Cullen, Paul H.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="1">
+                <name>Cullen, Lt. Col. Paul H.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v04/persons#p_CLCPH1</source-url>
+            </original>
+            <original source-urls="2">
+                <name>Cullen, Paul H.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v09/persons#p_CPH1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v10/persons#p_CPH1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Cullen, Lieutenant Colonel Paul H.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v04/persons#p_CLCPH1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="2">
+            <title source-urls="1">
+                <name>Lt. Col.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v04/persons#p_CLCPH1</source-url>
+            </title>
+            <title source-urls="1">
+                <name>Lieutenant Colonel</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v04/persons#p_CLCPH1</source-url>
+            </title>
+        </titles-from-name>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="3">
+        <remark source-urls="1">
+            <p>Secretary of the Council on Foreign Economic Policy</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v04/persons#p_CLCPH1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Secretary, Council on Foreign Economic Policy</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v09/persons#p_CPH1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v10/persons#p_CPH1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Secretary of the Council on Foreign Economic Policy until March 1960</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v04/persons#p_CLCPH1</source-url>
+        </remark>
+    </remarks>
+</person>

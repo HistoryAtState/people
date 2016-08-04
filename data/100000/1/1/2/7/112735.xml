@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>112735</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Somerville, James</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="1">
+                <name>Somerville, Sir James</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1943CairoTehran/persons#p_SSJ1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Somerville, James</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv02/persons#p_SASJ1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Somerville, Admiral Sir James</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945Malta/persons#p_S14</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="2">
+            <title source-urls="1">
+                <name>Sir</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1943CairoTehran/persons#p_SSJ1</source-url>
+            </title>
+            <title source-urls="1">
+                <name>Admiral Sir</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945Malta/persons#p_S14</source-url>
+            </title>
+        </titles-from-name>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="3">
+        <remark source-urls="1">
+            <p>Admiral, R. N., Commander of the Eastern Fleet.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1943CairoTehran/persons#p_SSJ1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Head of the Admiralty Delegation, British Joint Staff Mission, Washington.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv02/persons#p_SASJ1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>R. N., Head of the Admiralty Delegation, British Joint Staff Mission in Washington.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1945Malta/persons#p_S14</source-url>
+        </remark>
+    </remarks>
+</person>

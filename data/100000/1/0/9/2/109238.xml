@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>109238</id>
+    <authorities>
+        <authority service="viaf">113789313</authority>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Mobutu, Sese Seko</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="1">
+                <name>President Mobutu Sese Seko</name>
+                <source-url>https://history.state.gov/departmenthistory/visits/congo-democratic-republic</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="1">
+        <remark source-urls="1">
+            <p>President, Democratic Republic of the Congo (Zaire). Visited U.S. 9 times, 1970–1989</p>
+            <source-url>https://history.state.gov/departmenthistory/visits/congo-democratic-republic</source-url>
+        </remark>
+    </remarks>
+</person>

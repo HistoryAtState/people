@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>115955</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Parfitt, Harold Robert</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="1">
+                <name>Parfitt, Harold Robert</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v22/persons#p_PHR_1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="1">
+        <remark source-urls="1">
+            <p>Major General, USA, Division Engineer, U.S. Army Engineer Division from 1969 to 1973; Commanding General, United States Army Engineer Center and Commandant, United States Engineer School, from 1973 until 1975; Governor of the Panama Canal Zone from 1975 until 1979</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v22/persons#p_PHR_1</source-url>
+        </remark>
+    </remarks>
+</person>

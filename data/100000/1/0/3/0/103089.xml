@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>103089</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Cutter, Curtis C.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="1">
+                <name>Cutter, Curtis C.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v02/persons#p_CCC_1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="1">
+        <remark source-urls="1">
+            <p>Legislative Management Officer for the Bureau of Inter-American Affairs, Bureau for Congressional Relations, from 1977 until 1978; Acting Deputy Assistant Secretary of State for Congressional Relations, 1978</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v02/persons#p_CCC_1</source-url>
+        </remark>
+    </remarks>
+</person>

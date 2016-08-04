@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>101824</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Brown, Rothwell</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="3">
+                <name>Brown, Brigadier General Rothwell</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v08/persons#p_BBGR1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v21/persons#p_BBGR1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v16/persons#p_BBGR1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="1">
+            <title source-urls="3">
+                <name>Brigadier General</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v08/persons#p_BBGR1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v21/persons#p_BBGR1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v16/persons#p_BBGR1</source-url>
+            </title>
+        </titles-from-name>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="3">
+        <remark source-urls="1">
+            <p>Chief of Army Section, Military Assistance Advisory Group, Pakistan</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v08/persons#p_BBGR1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>USA, Head of the Programs Evaluation Office in Laos from January 1957</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v21/persons#p_BBGR1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>USA (ret.), Chief of the Programs Evaluation Office, Laos, 1958</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v16/persons#p_BBGR1</source-url>
+        </remark>
+    </remarks>
+</person>

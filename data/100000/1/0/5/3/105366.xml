@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>105366</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Haddock, Charles Brickett</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="1">
+                <name>Haddock, Charles Brickett</name>
+                <source-url>https://history.state.gov/departmenthistory/people/haddock-charles-brickett</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Charles B. Haddock</name>
+                <source-url>https://history.state.gov/departmenthistory/people/haddock-charles-brickett</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1796</birth-year>
+    <death-year>1861</death-year>
+    <remarks variants="1">
+        <remark source-urls="1">
+            <p>Non-career appointee. Chargé d'Affaires (Portugal).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/haddock-charles-brickett</source-url>
+        </remark>
+    </remarks>
+</person>

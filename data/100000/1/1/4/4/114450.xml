@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>114450</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>West, George S.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="1">
+                <name>West, George S.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v13/persons#p_WGS1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="1">
+        <remark source-urls="1">
+            <p>Deputy Director, Office of Atlantic Political-Military Affairs, Bureau of European Affairs, Department of State, from May 1965</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v13/persons#p_WGS1</source-url>
+        </remark>
+    </remarks>
+</person>

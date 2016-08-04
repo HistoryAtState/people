@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>107254</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Kistiakowsky, George B.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="7">
+                <name>Kistiakowsky, George B.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv02/persons#p_KGB1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v03/persons#p_KGB2</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v10p1/persons#p_KGB1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v10p2/persons#p_KGB1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v25/persons#p_KGB2</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v04/persons#p_KGB1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v05/persons#p_KGB1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Kistiakowsky, George</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1950-55Intel/persons#p_KGB1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="7">
+        <remark source-urls="1">
+            <p>Consultant, Manhattan District project.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv02/persons#p_KGB1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>member, Strategic Missile Evaluation Committee or “Teapot Committee” from June 16, 1953 to February 8, 1954; staff member, White House Office of Science and Technology from 1957 to 1959; Director and Special Assistant to the President for Science and Technology from July 1959 to January 1961</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1950-55Intel/persons#p_KGB1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Staff Member, White House Office of Science and Technology, until July 15, 1959; thereafter President’s Special Assistant for Science and Technology and Director of the White House Office of Science and Technology</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v03/persons#p_KGB2</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Special Assistant to the President for Science and Technology</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v10p1/persons#p_KGB1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v10p2/persons#p_KGB1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>President's Special Assistant for Science and Technology and Director of the White House Office of Science and Technology</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v25/persons#p_KGB2</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>professor of Chemistry at Harvard University and Vice President of the National Academy of Sciences</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v04/persons#p_KGB1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Professor of Chemistry at Harvard University and Vice President of the National Academy of Sciences</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v05/persons#p_KGB1</source-url>
+        </remark>
+    </remarks>
+</person>

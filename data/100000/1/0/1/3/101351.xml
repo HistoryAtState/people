@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>101351</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Bismarck, Otto von</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="1">
+                <name>Bismarck</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv01/persons#p_B3</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Bismarck, Otto von</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv02/persons#p_BTP1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="1">
+        <remark source-urls="2">
+            <p>The Prince of, Chancellor of the German Empire, 1871–1890.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv01/persons#p_B3</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv02/persons#p_BTP1</source-url>
+        </remark>
+    </remarks>
+</person>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>103336</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>De Maizière, Ulrich</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="2">
+                <name>De Maizière, Lieutenant General Ulrich</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v03p1/persons#p_DMLU1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v03p2/persons#p_DMLU1</source-url>
+            </original>
+            <original source-urls="2">
+                <name>Maizière</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v03p1/persons#p_M1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v03p2/persons#p_M1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="1">
+            <title source-urls="2">
+                <name>Lieutenant General</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v03p1/persons#p_DMLU1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v03p2/persons#p_DMLU1</source-url>
+            </title>
+        </titles-from-name>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="2">
+        <remark source-urls="2">
+            <p>former German General Staff officer; Military Adviser to the German Federal Republic Delegation to the Conference for the Organization of a European Defense Community from February 1951.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1951v03p1/persons#p_DMLU1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1951v03p2/persons#p_DMLU1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>See De Maizière.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1951v03p1/persons#p_M1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1951v03p2/persons#p_M1</source-url>
+        </remark>
+    </remarks>
+</person>

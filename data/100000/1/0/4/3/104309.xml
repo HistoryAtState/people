@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>104309</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Fisher, Wayne W.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="2">
+                <name>Fisher, Wayne W.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v02/persons#p_FWW1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v25/persons#p_FWW1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="2">
+        <remark source-urls="1">
+            <p>Office of the Deputy Under Secretary of State for Political Affairs from February 1959</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v02/persons#p_FWW1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Office of the Special Assistant for Antarctic Affairs, Bureau of International Organizations, Department of State, to September 1961</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v25/persons#p_FWW1</source-url>
+        </remark>
+    </remarks>
+</person>

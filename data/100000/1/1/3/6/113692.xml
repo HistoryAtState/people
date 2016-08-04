@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>113692</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Tran Kim Tuyen</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="3">
+                <name>Tran Kim Tuyen</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v01/persons#p_TKT1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v03/persons#p_TKT1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v04/persons#p_TKT1</source-url>
+            </original>
+            <original source-urls="5">
+                <name>Tuyen</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v01/persons#p_TUYEN1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v03/persons#p_TKT1_alt</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v04/persons#p_TUYEN1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v02/persons#p_TUYEN1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v03/persons#p_Tuyen1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="4">
+        <remark source-urls="1">
+            <p>Director of Special Political Studies Branch (secret police) of the Can Lao, Republic of Vietnam</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v01/persons#p_TKT1</source-url>
+        </remark>
+        <remark source-urls="3">
+            <p>see Tran Kim Tuyen</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v01/persons#p_TUYEN1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v03/persons#p_TKT1_alt</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v04/persons#p_TUYEN1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>head of the Service des Etudes Politiques et Sociales</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v03/persons#p_TKT1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v04/persons#p_TKT1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>see Tran Van Tuyen</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v02/persons#p_TUYEN1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v03/persons#p_Tuyen1</source-url>
+        </remark>
+    </remarks>
+</person>

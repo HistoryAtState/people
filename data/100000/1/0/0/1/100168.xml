@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>100168</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Aiken, George D.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="4">
+                <name>Aiken, George D.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v25/persons#p_AGD1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v09/persons#p_AGD_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v38p1/persons#p_AGD_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v38p2/persons#p_AGD_1</source-url>
+            </original>
+            <original source-urls="2">
+                <name>Aiken, George</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v06/persons#p_AG1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v10/persons#p_AG1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="4">
+        <remark source-urls="2">
+            <p>Republican Senator from Vermont</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v25/persons#p_AGD1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v09/persons#p_AGD_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Senator (Republican-Vermont)</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v06/persons#p_AG1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Republican Senator from Vermont until January 3, 1975</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v10/persons#p_AG1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Senator (R–Vermont) until January 3, 1975</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v38p1/persons#p_AGD_1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v38p2/persons#p_AGD_1</source-url>
+        </remark>
+    </remarks>
+</person>

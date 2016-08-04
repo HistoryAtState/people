@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>105328</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Guthrie, George Wilkins</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="2">
+                <name>Guthrie, George Wilkins</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1914Supp/persons#p_GGW1</source-url>
+                <source-url>https://history.state.gov/departmenthistory/people/guthrie-george-wilkins</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Guthrie, George W.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1916Supp/persons#p_GGW1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>George W. Guthrie</name>
+                <source-url>https://history.state.gov/departmenthistory/people/guthrie-george-wilkins</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1848</birth-year>
+    <death-year>1917</death-year>
+    <remarks variants="3">
+        <remark source-urls="1">
+            <p>United States Ambassador in Japan.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1914Supp/persons#p_GGW1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>U. S. Ambassador in Japan.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1916Supp/persons#p_GGW1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Non-career appointee. Ambassador Extraordinary and Plenipotentiary (Japan).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/guthrie-george-wilkins</source-url>
+        </remark>
+    </remarks>
+</person>

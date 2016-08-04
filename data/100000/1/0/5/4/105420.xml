@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>105420</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Hall, John A.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="4">
+                <name>Hall, John A.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v02p1/persons#p_HALLJA1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v02p2/persons#p_HALLJA1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v04/persons#p_HJA1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v20/persons#p_HJA1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="3">
+        <remark source-urls="2">
+            <p>Chief of the Office of Special Projects, United States Atomic Energy Commission, 1952–1954; Director of the Office of International Affairs, USAEC, 1954.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v02p1/persons#p_HALLJA1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v02p2/persons#p_HALLJA1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Director, Division of International Affairs, Atomic Energy Commission</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v04/persons#p_HJA1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Director, Office of International Affairs (Division of International Affairs from November 1955), Atomic Energy Commission</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v20/persons#p_HJA1</source-url>
+        </remark>
+    </remarks>
+</person>

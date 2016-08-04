@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>100582</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Armstrong, John</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="2">
+                <name>Armstrong, John</name>
+                <source-url>https://history.state.gov/departmenthistory/people/armstrong-john</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1981-88v13/persons#p_AJ_1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1755</birth-year>
+    <death-year>1843</death-year>
+    <remarks variants="2">
+        <remark source-urls="1">
+            <p>Non-career appointee. Minister Plenipotentiary (France).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/armstrong-john</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Washington Bureau, American Broadcasting Company</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1981-88v13/persons#p_AJ_1</source-url>
+        </remark>
+    </remarks>
+</person>

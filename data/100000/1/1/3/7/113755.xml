@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>113755</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Troyanovski, Oleg Antonovich</name>
+        </preferred>
+        <alternates/>
+        <originals variants="7">
+            <original source-urls="1">
+                <name>Troyanovski, Oleg Alexandrovich</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1946v03/persons#p_TOA1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Troyanovsky, Oleg Aleandrovich</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1948v02/persons#p_TOA1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Troyanovsky, O. A.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v16/persons#p_TOA1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Troianovskii, Oleg Aleksandrovich</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v05/persons#p_TOA1</source-url>
+            </original>
+            <original source-urls="2">
+                <name>Troyanovski, Oleg Antonovich</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v08/persons#p_TOA1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v09/persons#p_TOA1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Troyanovsky, Oleg A.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v14/persons#p_TOA1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Troyanovsky, Oleg</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v06/persons#p_TRO_1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="7">
+        <remark source-urls="1">
+            <p>Translator, Soviet Delegation Staff; Attaché Soviet Embassy in the United Kingdom</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1946v03/persons#p_TOA1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Interpreter, Soviet Ministry for Foreign Affairs</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1948v02/persons#p_TOA1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Interpreter for the Soviet Delegation at the Geneva Conference.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v16/persons#p_TOA1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Soviet Interpreter</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v05/persons#p_TOA1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Soviet translator</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v08/persons#p_TOA1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v09/persons#p_TOA1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Soviet diplomat; Soviet Ambassador to Japan from March 1967</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v14/persons#p_TOA1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Soviet Ambassador to the United Nations</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v06/persons#p_TRO_1</source-url>
+        </remark>
+    </remarks>
+</person>

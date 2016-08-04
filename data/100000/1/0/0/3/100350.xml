@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>100350</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Alsogaray, Julio R.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="1">
+                <name>Alsogaray, Major General Julio R.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v31/persons#p_AMGJR1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="1">
+            <title source-urls="1">
+                <name>Major General</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v31/persons#p_AMGJR1</source-url>
+            </title>
+        </titles-from-name>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="1">
+        <remark source-urls="1">
+            <p>(later Lieutenant General), Commander of the First Army Corps in Argentina in June 1966; Head of the Military Household; Commander-in-Chief of the Army December 1966–August 1968</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v31/persons#p_AMGJR1</source-url>
+        </remark>
+    </remarks>
+</person>

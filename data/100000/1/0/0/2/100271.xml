@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>100271</id>
+    <authorities>
+        <authority service="viaf">59990763</authority>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Aliyev, Geidar</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="1">
+                <name>President Geidar Aliyev</name>
+                <source-url>https://history.state.gov/departmenthistory/visits/azerbaijan</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="1">
+        <remark source-urls="1">
+            <p>President, Azerbaijan. Visited U.S. once, 2001</p>
+            <source-url>https://history.state.gov/departmenthistory/visits/azerbaijan</source-url>
+        </remark>
+    </remarks>
+</person>

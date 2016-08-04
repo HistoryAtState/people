@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>103180</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Davignon, Etienne</name>
+        </preferred>
+        <alternates/>
+        <originals variants="5">
+            <original source-urls="2">
+                <name>Davignon, Viscount Etienne</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v23/persons#p_DVE_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v24/persons#p_DVE1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Davignon, Vicomte Etienne</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v05/persons#p_DVE1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Davignon, Étienne</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v31/persons#p_DE1</source-url>
+            </original>
+            <original source-urls="3">
+                <name>Davignon, Etienne</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v37/persons#p_DE_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v38p1/persons#p_DE_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v03/persons#p_DE_1</source-url>
+            </original>
+            <original source-urls="2">
+                <name>Davignon, Etienne Viscomte</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v38p2/persons#p_DEV_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v39/persons#p_DVE1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="3">
+            <title source-urls="2">
+                <name>Viscount</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v23/persons#p_DVE_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v24/persons#p_DVE1</source-url>
+            </title>
+            <title source-urls="1">
+                <name>Vicomte</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v05/persons#p_DVE1</source-url>
+            </title>
+            <title source-urls="2">
+                <name>Viscomte</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v38p2/persons#p_DEV_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v39/persons#p_DVE1</source-url>
+            </title>
+        </titles-from-name>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="8">
+        <remark source-urls="2">
+            <p>Chef de Cabinet, Belgian Ministry of Foreign Affairs</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v23/persons#p_DVE_1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v24/persons#p_DVE1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Director-General, Foreign Ministry of Belgium</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v05/persons#p_DVE1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Director-General for Policy, Belgian Ministry of Foreign Affairs; Chairman of the Governing Board (Official Level), International Energy Agency from November 1974</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v31/persons#p_DE1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Chairman of the International Energy Agency</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v37/persons#p_DE_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Belgian Director General for Political Affairs</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v38p1/persons#p_DE_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Director General for Political Affairs, Belgian Foreign Ministry</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v38p2/persons#p_DEV_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Director General for Political Affairs, Foreign Ministry of Belgium from 1969 to 1976; Commissioner of the EEC from December 1976</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v39/persons#p_DVE1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Commissioner for Industry and International Markets, European Community</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v03/persons#p_DE_1</source-url>
+        </remark>
+    </remarks>
+</person>

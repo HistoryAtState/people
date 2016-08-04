@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>109795</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Nguyen Huu Tho</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="2">
+                <name>Nguyen Huu Tho</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v04/persons#p_NHT1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v05/persons#p_NHT1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="2">
+        <remark source-urls="1">
+            <p>Chairman of the Central Committee of the National Liberation Front</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v04/persons#p_NHT1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Chairman of the Central Committee of the National Liberation Front until March</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v05/persons#p_NHT1</source-url>
+        </remark>
+    </remarks>
+</person>

@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>114882</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Yasin, Yusuf</name>
+        </preferred>
+        <alternates/>
+        <originals variants="6">
+            <original source-urls="1">
+                <name>Yasin, Yusuf</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v05/persons#p_YSY1</source-url>
+            </original>
+            <original source-urls="2">
+                <name>Yassin, Yussef</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v09p1/persons#p_YY1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v09p2/persons#p_YY1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Yasin, Yusuf Shaikh</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v12/persons#p_YYS1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Yasin, Yusuf Sheikh</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v13/persons#p_YYS1</source-url>
+            </original>
+            <original source-urls="2">
+                <name>Yassin (Yasin), Shaikh Yusuf</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v16/persons#p_YYSY1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v17/persons#p_YYSY1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Yassim, Yusuf</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v12/persons#p_YY1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="2">
+            <title source-urls="3">
+                <name>Shaikh</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v12/persons#p_YYS1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v16/persons#p_YYSY1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v17/persons#p_YYSY1</source-url>
+            </title>
+            <title source-urls="1">
+                <name>Sheikh</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v13/persons#p_YYS1</source-url>
+            </title>
+        </titles-from-name>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="6">
+        <remark source-urls="1">
+            <p>Saudi Arabian Deputy Foreign Minister.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1951v05/persons#p_YSY1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Secretary to the King of Saudi Arabia, Acting Minister of Foreign Affairs, and Minister of State; Deputy Foreign Minister of Saudi Arabia.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v09p1/persons#p_YY1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v09p2/persons#p_YY1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Saudi Arabian Deputy Foreign Minister, Minister of State, and Delegate at the League of Arab States</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v12/persons#p_YYS1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v13/persons#p_YYS1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Saudi Royal Counselor; Deputy Minister of Foreign Affairs; Secretary to King Saud</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v16/persons#p_YYSY1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Saudi Royal Counselor; Deputy Minister of Foreign Affairs; Secretary to King Nasser</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v17/persons#p_YYSY1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>adviser to King Saud</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v12/persons#p_YY1</source-url>
+        </remark>
+    </remarks>
+</person>

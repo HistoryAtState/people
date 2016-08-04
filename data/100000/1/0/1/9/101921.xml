@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>101921</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Bullitt, John C.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="3">
+                <name>Bullitt, John C.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v09/persons#p_BJC1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v09/persons#p_BJC1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v29p2/persons#p_BJC1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="3">
+        <remark source-urls="1">
+            <p>Deputy Assistant Secretary of the Treasury for International Affairs, May 1961-June 1962; thereafter Assistant Secretary</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v09/persons#p_BJC1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Assistant Secretary of the Treasury for International Affairs until December 1964</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v09/persons#p_BJC1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Assistant Secretary of the Treasury until 1964; Assistant Administrator for East Asia, Agency for International Development, from 1967</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v29p2/persons#p_BJC1</source-url>
+        </remark>
+    </remarks>
+</person>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>105960</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Hirschtritt, Ralph</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="2">
+                <name>Hirschtritt, Ralph</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v03/persons#p_HR3</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v04/persons#p_HR3</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="1">
+        <remark source-urls="2">
+            <p>Director, Office of Balance of Payments Policy, Options and Strategy, Department of the Treasury; Deputy to the Assistant Secretary of the Treasury for International Financial and Economic Affairs</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v03/persons#p_HR3</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v04/persons#p_HR3</source-url>
+        </remark>
+    </remarks>
+</person>

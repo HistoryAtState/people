@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>104055</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Essebsi, Beji Caid</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="1">
+                <name>Essebsi, Beji Caid</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve05p2/persons#p_EBC1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Prime Minister Beji Caid Essebsi</name>
+                <source-url>https://history.state.gov/departmenthistory/visits/tunisia</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="2">
+        <remark source-urls="1">
+            <p>Tunisian Minister of Defense from November 1969 until 1970; thereafter Minister of the Interior</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve05p2/persons#p_EBC1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Prime Minister, Tunisia. Visited U.S. once, 2011</p>
+            <source-url>https://history.state.gov/departmenthistory/visits/tunisia</source-url>
+        </remark>
+    </remarks>
+</person>

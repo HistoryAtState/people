@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>100229</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Alessandri Rodriguez, Jorge</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="1">
+                <name>President Alessandri</name>
+                <source-url>https://history.state.gov/departmenthistory/visits/chile</source-url>
+            </original>
+            <original source-urls="2">
+                <name>Alessandri Rodríguez, Jorge</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v05/persons#p_ARJ1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v31/persons#p_ARJ1</source-url>
+            </original>
+            <original source-urls="3">
+                <name>Alessandri Rodriguez, Jorge</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v12/persons#p_ARJ2</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v21/persons#p_ARJ_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve16/persons#p_ARJ_1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="6">
+        <remark source-urls="1">
+            <p>President, Chile. Visited U.S. once, 1962</p>
+            <source-url>https://history.state.gov/departmenthistory/visits/chile</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>President of Chile from November 3, 1958</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v05/persons#p_ARJ1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>President of Chile</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v12/persons#p_ARJ2</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>President of Chile until November 4, 1964</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v31/persons#p_ARJ1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Chilean President from 1958 until 1964; Partido Nacional Presidential candidate in 1970</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v21/persons#p_ARJ_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Chilean President from 1958 until 1964; Partido Nacional (National Party) Presidential candidate in 1970</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve16/persons#p_ARJ_1</source-url>
+        </remark>
+    </remarks>
+</person>

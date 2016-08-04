@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>113785</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Tsiang Ting-fu</name>
+        </preferred>
+        <alternates>
+            <name>Jiang Tingfu</name>
+            <name>Tsiang, T. F.</name>
+        </alternates>
+        <originals variants="5">
+            <original source-urls="2">
+                <name>Tsiang Ting-fu</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v05/persons#p_TTF1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v30/persons#p_TT1</source-url>
+            </original>
+            <original source-urls="6">
+                <name>Tsiang, Tingfu F.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v03/persons#p_TSIANGTF1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v11p1/persons#p_TTF1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v11p2/persons#p_TTF1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v02/persons#p_TTF1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v03/persons#p_TTF1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v11/persons#p_TTF1</source-url>
+            </original>
+            <original source-urls="2">
+                <name>Tsiang, Dr. Tingfu F.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v14p1/persons#p_TDTF1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v14p2/persons#p_TDTF1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Tsiang, Ting-fu</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v22/persons#p_TT1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Tsiang, T. F.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v25/persons#p_TT2</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="1">
+            <title source-urls="2">
+                <name>Dr.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v14p1/persons#p_TDTF1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v14p2/persons#p_TDTF1</source-url>
+            </title>
+        </titles-from-name>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="9">
+        <remark source-urls="1">
+            <p>Chinese Representative at the United Nations; President of the United Nations Security Council in November 1951.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1951v05/persons#p_TTF1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Permanent Representative of the Republic of China to the United Nations; Chairman, Delegation of the Republic of China to the 8th Regular Session of the General Assembly.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v03/persons#p_TSIANGTF1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Permanent Representative of the Republic of China at the United Nations; Chairman of the Delegation to the Eighth Regular Session of the General Assembly, 1953.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v11p1/persons#p_TTF1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v11p2/persons#p_TTF1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Representative of the Republic of China at the United Nations.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v14p1/persons#p_TDTF1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v14p2/persons#p_TDTF1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Representative of the Republic of China at the United Nations</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v02/persons#p_TTF1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v03/persons#p_TTF1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Republic of China Representative at the United Nations</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v11/persons#p_TTF1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Republic of China Representative at the United Nations until July 1962; Ambassador to the United States from January 1962</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v22/persons#p_TT1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Permanent Representative of the Republic of China at the United Nations; Ambassador to the United States from January 12, 1962</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v25/persons#p_TT2</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Ambassador from the Republic of China to the United States until June 1965</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v30/persons#p_TT1</source-url>
+        </remark>
+    </remarks>
+</person>

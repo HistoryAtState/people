@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>112823</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Spengler, William F.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="3">
+                <name>Spengler, William F.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v11/persons#p_SWF1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve07/persons#p_SWF1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve14p1/persons#p_SWF1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="2">
+        <remark source-urls="2">
+            <p>Country Director for Pakistan and Afghanistan, Bureau of Near Eastern and South Asian Affairs, Department of State, July 1970–July 1971</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v11/persons#p_SWF1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve07/persons#p_SWF1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Deputy Special Assistant to the Secretary of State for Population Matters</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve14p1/persons#p_SWF1</source-url>
+        </remark>
+    </remarks>
+</person>

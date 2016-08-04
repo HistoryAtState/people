@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>105593</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Harrison, Benjamin</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="1">
+                <name>Benjamin Harrison</name>
+                <source-url>https://history.state.gov/cms/apps/presidents/data/presidents.xml#harrison-benjamin</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1833</birth-year>
+    <death-year>1901</death-year>
+    <remarks variants="1">
+        <remark source-urls="1">
+            <p>President of the United States, from March 4, 1889 until March 4, 1893</p>
+            <source-url>https://history.state.gov/cms/apps/presidents/data/presidents.xml#harrison-benjamin</source-url>
+        </remark>
+    </remarks>
+</person>

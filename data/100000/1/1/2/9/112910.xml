@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>112910</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Stanton, Frank</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="4">
+                <name>Stanton, Frank</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v02/persons#p_SF1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v03/persons#p_SF1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v02/persons#p_SF_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v30/persons#p_SF_1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="3">
+        <remark source-urls="2">
+            <p>President, Columbia Broadcasting System</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v02/persons#p_SF1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v03/persons#p_SF1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>former President and Vice Chairman of the Columbia Broadcasting System</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v02/persons#p_SF_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>former President and Vice Chairman of the Columbia Broadcasting System; former chair, U.S. Advisory Commission on Information; chair, Panel on International Information, Education, and Cultural Relations (Stanton Panel)</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v30/persons#p_SF_1</source-url>
+        </remark>
+    </remarks>
+</person>

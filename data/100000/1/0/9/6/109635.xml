@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>109635</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Nalle, David</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="2">
+                <name>Nalle, David</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve07/persons#p_ND3</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v30/persons#p_ND_1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="2">
+        <remark source-urls="1">
+            <p>Assistant Director for Near East and South Asia, United States Information Agency</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve07/persons#p_ND3</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Assistant Director, North Africa, Near East, and South Asia, United States Information Agency; Director for North African, Near Eastern, and South Asian Affairs, U.S. International Communication Agency, 1978; Deputy Associate Director, Associate Directorate for Educational and Cultural Affairs, from 1978 until 1980</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v30/persons#p_ND_1</source-url>
+        </remark>
+    </remarks>
+</person>

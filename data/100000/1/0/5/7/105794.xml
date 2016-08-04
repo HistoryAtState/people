@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>105794</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Henderson, Douglas</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="4">
+                <name>Henderson, Douglas</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v12/persons#p_HD5</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v31/persons#p_HD1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v21/persons#p_HD_1</source-url>
+                <source-url>https://history.state.gov/departmenthistory/people/henderson-douglas</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1914</birth-year>
+    <death-year>2010</death-year>
+    <remarks variants="4">
+        <remark source-urls="1">
+            <p>Deputy Chief of Mission, Lima, Peru to July 25, 1962; Charge d'Affaires, July 26-November 29, 1962</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v12/persons#p_HD5</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Ambassador to Bolivia until August 7, 1968</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v31/persons#p_HD1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>member, Policy Planning Council, Department of State, from 1969 until 1970; Deputy U.S. Representative for Social and Economic Affairs, U.S. Mission to the Organization of American States, from 1970</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v21/persons#p_HD_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Foreign Service Officer. Ambassador Extraordinary and Plenipotentiary (Bolivia).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/henderson-douglas</source-url>
+        </remark>
+    </remarks>
+</person>

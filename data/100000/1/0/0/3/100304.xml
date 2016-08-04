@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>100304</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Allen, Lew, Jr.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="4">
+                <name>Allen, Lew, Jr.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v35/persons#p_ALJ_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v13/persons#p_ALJ_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1981-88v03/persons#p_ALJ_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1981-88v13/persons#p_AL_2</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Allen, General Lew, Jr.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v38p2/persons#p_AL_1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Allen, Lucius, Jr.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v21/persons#p_ALJ_1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="1">
+            <title source-urls="1">
+                <name>General</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v38p2/persons#p_AL_1</source-url>
+            </title>
+        </titles-from-name>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="6">
+        <remark source-urls="1">
+            <p>Lieutenant General, USAF; Director of the National Security Agency from August 1973</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v35/persons#p_ALJ_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>USAF, Deputy to the Director of Central Intelligence for the Intelligence Community, March–August 1973; thereafter Director of the National Security Agency</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v38p2/persons#p_AL_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>General, USAF; Chief of Staff of the USAF from July 1, 1978 until June 30, 1982</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v13/persons#p_ALJ_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>General, USAF; Director, National Security Agency, from August 1973 until July 1977; Chief of Staff, U.S. Air Force, from July 1, 1978, until June 30, 1982</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v21/persons#p_ALJ_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>General, USAF, Chief of Staff, United States Air Force, until June 30, 1982</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1981-88v03/persons#p_ALJ_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>General, USAF Chief of Staff, USAF until June 30, 1982</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1981-88v13/persons#p_AL_2</source-url>
+        </remark>
+    </remarks>
+</person>

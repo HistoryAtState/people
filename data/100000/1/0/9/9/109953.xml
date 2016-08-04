@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>109953</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Nozigilia, Edward Peter</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="2">
+                <name>Nozigilia, Edward Peter</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve03/persons#p_NEP1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve14p1/persons#p_NEP1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="1">
+        <remark source-urls="2">
+            <p>Agency Director for Health and Drug Control, Bureau of International Organization Affairs, Department of State</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve03/persons#p_NEP1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve14p1/persons#p_NEP1</source-url>
+        </remark>
+    </remarks>
+</person>

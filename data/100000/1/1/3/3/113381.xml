@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>113381</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Tassan, Ibrahim</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="1">
+                <name>Tassan, Maj. Gen. Ibrahim</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v13/persons#p_TMGI1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="1">
+            <title source-urls="1">
+                <name>Maj. Gen.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v13/persons#p_TMGI1</source-url>
+            </title>
+        </titles-from-name>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="1">
+        <remark source-urls="1">
+            <p>Saudi Arabian Acting Chief of Staff, and Director General of Civil Aviation</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v13/persons#p_TMGI1</source-url>
+        </remark>
+    </remarks>
+</person>

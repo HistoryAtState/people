@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>100432</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Anderson, Jack</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="4">
+                <name>Anderson, Jack</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v07/persons#p_AJ2</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v20/persons#p_AJ1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v38p1/persons#p_AJ_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v38p2/persons#p_AJ_1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="3">
+        <remark source-urls="1">
+            <p>syndicated columnist</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v07/persons#p_AJ2</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>syndicated newspaper columnist, “Washington Merry-Go-Round”</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v20/persons#p_AJ1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v38p2/persons#p_AJ_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>syndicated newspaper columnist, author of “Washington Merry-Go-Round”</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v38p1/persons#p_AJ_1</source-url>
+        </remark>
+    </remarks>
+</person>

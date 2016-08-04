@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>114799</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Woodward, Stanley</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="5">
+                <name>Woodward, Stanley</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v03p1/persons#p_WS1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v03p2/persons#p_WS1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v06p1/persons#p_WOODWARDS1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v06p2/persons#p_WOODWARDS1</source-url>
+                <source-url>https://history.state.gov/departmenthistory/people/woodward-stanley</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1899</birth-year>
+    <death-year>1992</death-year>
+    <remarks variants="3">
+        <remark source-urls="2">
+            <p>Ambassador in Canada.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1951v03p1/persons#p_WS1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1951v03p2/persons#p_WS1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Ambassador in Canada, June 22, 1950–January 14, 1953.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v06p1/persons#p_WOODWARDS1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v06p2/persons#p_WOODWARDS1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Foreign Service Officer. Chief of Protocol; Ambassador Extraordinary and Plenipotentiary (Canada).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/woodward-stanley</source-url>
+        </remark>
+    </remarks>
+</person>

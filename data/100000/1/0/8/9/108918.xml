@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>108918</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>McLeod, Robert Walter Scott</name>
+        </preferred>
+        <alternates/>
+        <originals variants="4">
+            <original source-urls="1">
+                <name>McLeod, R. W. Scott</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v03/persons#p_MCLEODRWS1</source-url>
+            </original>
+            <original source-urls="4">
+                <name>McLeod, R.W. Scott</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v09p1/persons#p_MRWS1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v09p2/persons#p_MRWS1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v04/persons#p_MLRWS1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v27/persons#p_MLRWS1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>McLeod, Robert Walter Scott</name>
+                <source-url>https://history.state.gov/departmenthistory/people/mcleod-robert-walter-scott</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Scott McLeod</name>
+                <source-url>https://history.state.gov/departmenthistory/people/mcleod-robert-walter-scott</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1914</birth-year>
+    <death-year>1961</death-year>
+    <remarks variants="4">
+        <remark source-urls="1">
+            <p>Administrator, Bureau of Security and Consular Affairs (called Bureau of Inspection, Security and Consular Affairs, March 1–December 29, 1954), Department of State, from March 3, 1953.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v03/persons#p_MCLEODRWS1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Administrator, Bureau of Security and Consular Affairs, Department of State, March 3, 1953–March 1, 1954; Administrator, Bureau of Inspection, Security and Consular Affairs, March 1, 1954–December 30, 1954; thereafter Administrator, Bureau of Security and Consular Affairs.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v09p1/persons#p_MRWS1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v09p2/persons#p_MRWS1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Ambassador to Ireland from July 1957</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v04/persons#p_MLRWS1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v27/persons#p_MLRWS1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Non-career appointee. Assistant Secretary of State for Consular Affairs; Ambassador Extraordinary and Plenipotentiary (Ireland).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/mcleod-robert-walter-scott</source-url>
+        </remark>
+    </remarks>
+</person>

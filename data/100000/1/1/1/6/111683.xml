@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>111683</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Rowen, Henry S.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="6">
+                <name>Rowen, Henry S.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v01/persons#p_RHS1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v02/persons#p_RHS2</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v08/persons#p_RHS2</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v02/persons#p_RHS1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v03/persons#p_RHS1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1981-88v03/persons#p_RHS_1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="4">
+        <remark source-urls="2">
+            <p>Deputy Assistant Secretary of Defense for International Security Affairs (Planning and NSC)</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v01/persons#p_RHS1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v02/persons#p_RHS2</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Deputy Assistant Secretary of Defense for International Security Affairs</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v08/persons#p_RHS2</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Assistant Director, Bureau of the Budget</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v02/persons#p_RHS1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v03/persons#p_RHS1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Chairman, National Intelligence Council from 1981 to 1983</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1981-88v03/persons#p_RHS_1</source-url>
+        </remark>
+    </remarks>
+</person>

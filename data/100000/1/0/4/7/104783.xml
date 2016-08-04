@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>104783</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Gbenye, Christophe</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="2">
+                <name>Gbenye, Christophe</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v20/persons#p_CG1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v23/persons#p_GCH_1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="2">
+        <remark source-urls="1">
+            <p>Minister of the Interior in the opposition regime in Stanleyville until July 1961; Congolese Minister of the Interior, August 1961–February 1962; Deputy Prime Minister, February–July 1962</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v20/persons#p_CG1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Minister of the lnterior in the opposition regime in Stanleyville until July 1961; Congolese Minister of the lnterior from August 1961 until February 1962; Deputy Prime Minister from February until July 1962</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v23/persons#p_GCH_1</source-url>
+        </remark>
+    </remarks>
+</person>

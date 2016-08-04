@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>109541</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Muntasir, Mahmud</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="2">
+                <name>Muntasir, Mahmud</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v05/persons#p_MM1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v24/persons#p_MM1</source-url>
+            </original>
+            <original source-urls="2">
+                <name>Muntasser, Mahmoud</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v09p1/persons#p_MM4</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v09p2/persons#p_MM4</source-url>
+            </original>
+            <original source-urls="2">
+                <name>Muntasser (Muntasir), Mahmud</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v11p1/persons#p_MMM1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v11p2/persons#p_MMM1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="4">
+        <remark source-urls="1">
+            <p>Libyan Prime Minister, from March 1951.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1951v05/persons#p_MM1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Prime Minister of Libya to February 15, 1954.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v09p1/persons#p_MM4</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v09p2/persons#p_MM4</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Libyan Prime Minister and Minister of Foreign Affairs until February 18, 1954; Ambassador to the United Kingdom from August 5, 1954.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v11p1/persons#p_MMM1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v11p2/persons#p_MMM1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Prime Minister of Libya, 1964–1965; thereafter Chief of the Royal Household</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v24/persons#p_MM1</source-url>
+        </remark>
+    </remarks>
+</person>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>101887</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Buchanan, Wiley Thomas, Jr.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="5">
+            <original source-urls="2">
+                <name>Buchanan, Wiley</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v05p1/persons#p_BUCHANANW1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v05p2/persons#p_BUCHANANW1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Buchanan, Wiley T., Jr.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v10/persons#p_BWTJ1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Buchanan, Wiley Thomas, Jr.</name>
+                <source-url>https://history.state.gov/departmenthistory/people/buchanan-wiley-thomas</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Wiley T. Buchanan Jr.</name>
+                <source-url>https://history.state.gov/departmenthistory/people/buchanan-wiley-thomas</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Wiley T. Buchanan</name>
+                <source-url>https://history.state.gov/departmenthistory/people/buchanan-wiley-thomas</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1914</birth-year>
+    <death-year>1986</death-year>
+    <remarks variants="3">
+        <remark source-urls="2">
+            <p>Envoy in Luxembourg after September 1953; Minister after December 1, 1953.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v05p1/persons#p_BUCHANANW1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v05p2/persons#p_BUCHANANW1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Chief of Protocol, Department of State</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v10/persons#p_BWTJ1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Non-career appointee. Chief of Protocol; Envoy Extraordinary and Minister Plenipotentiary (Luxembourg); Ambassador Extraordinary and Plenipotentiary (Luxembourg); Ambassador Extraordinary and Plenipotentiary (Austria).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/buchanan-wiley-thomas</source-url>
+        </remark>
+    </remarks>
+</person>

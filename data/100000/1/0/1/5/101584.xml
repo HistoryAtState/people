@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>101584</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Botha, Roelof Frederik (“Pik”)</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="1">
+                <name>Botha, Roelof Frederik “Pik”</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v28/persons#p_BRF_1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Botha, Roelof Frederik (“Pik”)</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v26/persons#p_BRF_1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="2">
+        <remark source-urls="1">
+            <p>South African Permanent Representative to the United Nations from 1974 until 1977; Ambassador to the United States from 1975 until 1977</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v28/persons#p_BRF_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Foreign Minister of South Africa from 1977 until 1994</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v26/persons#p_BRF_1</source-url>
+        </remark>
+    </remarks>
+</person>

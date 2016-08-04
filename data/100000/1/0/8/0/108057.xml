@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>108057</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Locke, Eugene Murphy</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="2">
+                <name>Locke, Eugene</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v05/persons#p_LE1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v06/persons#p_LE2</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Locke, Eugene M.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v25/persons#p_LEM1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Locke, Eugene Murphy</name>
+                <source-url>https://history.state.gov/departmenthistory/people/locke-eugene-murphy</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1918</birth-year>
+    <death-year>1972</death-year>
+    <remarks variants="4">
+        <remark source-urls="1">
+            <p>Ambassador to Pakistan; Deputy Ambassador to Vietnam after May 1967</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v05/persons#p_LE1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Deputy Ambassador to Vietnam to January 1968</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v06/persons#p_LE2</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Ambassador to Pakistan, June 1966–April 1967; Deputy Ambassador to Vietnam, May 1967–January 1968</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v25/persons#p_LEM1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Non-career appointee. Ambassador Extraordinary and Plenipotentiary (Pakistan).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/locke-eugene-murphy</source-url>
+        </remark>
+    </remarks>
+</person>

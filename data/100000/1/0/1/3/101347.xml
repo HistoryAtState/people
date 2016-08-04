@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>101347</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Bishop, Frederick A.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="1">
+                <name>Bishop, Frederick A.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v12/persons#p_BFA1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Bishop, F. A.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v09/persons#p_BFA1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="2">
+        <remark source-urls="1">
+            <p>Principal Private Secretary to British Prime Minister Eden from 1956</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v12/persons#p_BFA1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Deputy Secretary of the British Cabinet</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v09/persons#p_BFA1</source-url>
+        </remark>
+    </remarks>
+</person>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>113443</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Temple, Henry John</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="1">
+                <name>Palmerston, Viscount</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv01/persons#p_PV1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="1">
+            <title source-urls="1">
+                <name>Viscount Palmerston</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv01/persons#p_PV1</source-url>
+            </title>
+        </titles-from-name>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="1">
+        <remark source-urls="1">
+            <p>British Secretary of State for Foreign Affairs, 1830–1834, 1835–1841, 1846–1851.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv01/persons#p_PV1</source-url>
+        </remark>
+    </remarks>
+</person>

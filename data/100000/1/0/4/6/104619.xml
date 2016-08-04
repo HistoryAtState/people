@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>104619</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Fukuda, Tokuyasu</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="1">
+                <name>Fukuda, Tokuyasu</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v29p2/persons#p_FT2</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="1">
+        <remark source-urls="1">
+            <p>Director General, Japan Defense Agency from July 1963 to July 1964</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v29p2/persons#p_FT2</source-url>
+        </remark>
+    </remarks>
+</person>

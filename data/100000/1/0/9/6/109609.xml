@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>109609</id>
+    <authorities>
+        <authority service="viaf">54050630</authority>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Myung-bak, Lee</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="1">
+                <name>President Lee Myung-Bak</name>
+                <source-url>https://history.state.gov/departmenthistory/visits/korea-south</source-url>
+            </original>
+            <original source-urls="1">
+                <name>President Lee Myung-bak</name>
+                <source-url>https://history.state.gov/departmenthistory/visits/korea-south</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="2">
+        <remark source-urls="1">
+            <p>President, South Korea. Visited U.S. once, 2008</p>
+            <source-url>https://history.state.gov/departmenthistory/visits/korea-south</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>President, South Korea; Korea. Visited U.S. 6 times, 2008–2011</p>
+            <source-url>https://history.state.gov/departmenthistory/visits/korea-south</source-url>
+        </remark>
+    </remarks>
+</person>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>110317</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Palmer, Robie Marcus Hooker</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="2">
+                <name>Palmer, Robie Marcus Hooker</name>
+                <source-url>https://history.state.gov/departmenthistory/people/palmer-robie-marcus-hooker</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1981-88v03/persons#p_PRMH_1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Palmer, Robie M.H.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve14p1/persons#p_PRMH1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1941</birth-year>
+    <death-year>2013</death-year>
+    <remarks variants="3">
+        <remark source-urls="1">
+            <p>Foreign Service Officer. Ambassador Extraordinary and Plenipotentiary (Hungary).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/palmer-robie-marcus-hooker</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Policy Planning Staff, Office of the Secretary of State</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve14p1/persons#p_PRMH1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Deputy Assistant Secretary of State, Bureau of European Affairs, Department of State</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1981-88v03/persons#p_PRMH_1</source-url>
+        </remark>
+    </remarks>
+</person>

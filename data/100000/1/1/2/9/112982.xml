@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>112982</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Sterner, Michael Edmund</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="3">
+                <name>Sterner, Michael Edmund</name>
+                <source-url>https://history.state.gov/departmenthistory/people/sterner-michael-edmund</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v23/persons#p_SM_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v18/persons#p_SM_1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Michael Sterner</name>
+                <source-url>https://history.state.gov/departmenthistory/people/sterner-michael-edmund</source-url>
+            </original>
+            <original source-urls="4">
+                <name>Sterner, Michael</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v19/persons#p_SM1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v25/persons#p_SM_2</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v37/persons#p_SM_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v08/persons#p_SM_2</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1928</birth-year>
+    <death-year/>
+    <remarks variants="6">
+        <remark source-urls="1">
+            <p>Foreign Service Officer. Ambassador Extraordinary and Plenipotentiary (United Arab Emirates).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/sterner-michael-edmund</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Office of Israel and Arab-Israel Affairs, Bureau of Near Eastern and South Asian Affairs, Department of State</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v19/persons#p_SM1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Country Director, Office of United Arab Republic Affairs, Department of State</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v23/persons#p_SM_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Director, Office of Egypt Affairs, Bureau of Near Eastern and South Asian Affairs, Department of State</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v25/persons#p_SM_2</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Department of State</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v37/persons#p_SM_1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Deputy Assistant Secretary of State for Near Eastern and South Asian Affairs</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v08/persons#p_SM_2</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v18/persons#p_SM_1</source-url>
+        </remark>
+    </remarks>
+</person>

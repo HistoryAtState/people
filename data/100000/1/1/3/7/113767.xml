@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>113767</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Trujillo Molina, Rafael Leónidas</name>
+        </preferred>
+        <alternates/>
+        <originals variants="5">
+            <original source-urls="1">
+                <name>Trujillo, Molina Rafael L.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54Guat/persons#p_TMRL1</source-url>
+            </original>
+            <original source-urls="3">
+                <name>Trujillo Molina, Rafael L.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v04/persons#p_TMRL1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v06/persons#p_TMRL1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v07/persons#p_TMRL1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Trujillo y Molina, Generalissimo Rafael L.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v05/persons#p_TMGRL1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Trujillo y Molina, Generalissimo Rafael B.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v06/persons#p_TMGRB1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Trujillo y Molina</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v12/persons#p_TMGRL1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="1">
+            <title source-urls="2">
+                <name>Generalissimo</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v05/persons#p_TMGRL1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v06/persons#p_TMGRB1</source-url>
+            </title>
+        </titles-from-name>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="6">
+        <remark source-urls="1">
+            <p>President of the Dominican Republic until August 1952; Secretary of State for Foreign Relations March-August 1953</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54Guat/persons#p_TMRL1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Generalissimo, President of the Dominican Republic until August 16, 1952; Secretary of State for Foreign Relations, March–August 1953.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v04/persons#p_TMRL1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Generalissimo, President of the Dominican Republic, May 18, 1942-August 16, 1952; Secretary of State for Foreign Relations, March-August 1953; Commander in Chief of the Armed Forces, 1958</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v06/persons#p_TMRL1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v07/persons#p_TMRL1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Commander in Chief of the Dominican Armed Forces</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v05/persons#p_TMGRL1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Commander in Chief of the Dominican Republic Armed Forces</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v06/persons#p_TMGRB1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>General Rafael Leonidas, Generalissimo and Commander in Chief, Dominican armed forces</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v12/persons#p_TMGRL1</source-url>
+        </remark>
+    </remarks>
+</person>

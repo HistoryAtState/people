@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>105165</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Greenfield, James Lloyd</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="4">
+                <name>Greenfield, James L.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v02/persons#p_GJL1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v03/persons#p_GJL1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v23/persons#p_GJL_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v31/persons#p_GJL1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Greenfield, James Lloyd</name>
+                <source-url>https://history.state.gov/departmenthistory/people/greenfield-james-lloyd</source-url>
+            </original>
+            <original source-urls="1">
+                <name>James L. Greenfield</name>
+                <source-url>https://history.state.gov/departmenthistory/people/greenfield-james-lloyd</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1924</birth-year>
+    <death-year/>
+    <remarks variants="4">
+        <remark source-urls="2">
+            <p>Assistant Secretary of State for Public Affairs</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v02/persons#p_GJL1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v03/persons#p_GJL1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Deputy Assistant Secretary, Bureau of Public Affairs, Department of State</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v23/persons#p_GJL_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Deputy Assistant Secretary of State for Public Affairs until September 1964</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v31/persons#p_GJL1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Non-career appointee. Assistant Secretary of State for Public Affairs.</p>
+            <source-url>https://history.state.gov/departmenthistory/people/greenfield-james-lloyd</source-url>
+        </remark>
+    </remarks>
+</person>

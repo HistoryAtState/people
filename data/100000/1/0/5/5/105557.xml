@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>105557</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Harmel, Pierre C.J.M.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="2">
+                <name>Harmel, Pierre C.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v13/persons#p_HPCJM1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v17/persons#p_HPC1</source-url>
+            </original>
+            <original source-urls="4">
+                <name>Harmel, Pierre</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v23/persons#p_HPI_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v24/persons#p_HPCJM1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v41/persons#p_HP_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve04/persons#p_HPCJM1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Harmel, Pierre C. J. M.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v05/persons#p_HPCJM1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="5">
+        <remark source-urls="1">
+            <p>Belgian Foreign Minister from March 1966</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v13/persons#p_HPCJM1</source-url>
+        </remark>
+        <remark source-urls="3">
+            <p>Belgian Foreign Minister</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v17/persons#p_HPC1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v41/persons#p_HP_1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve04/persons#p_HPCJM1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Belgian Prime Minister, July 1965 until 1966; Minister of Foreign Affairs, 1966 until 1968</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v23/persons#p_HPI_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Belgian Prime Minister, July 1965–1966; Minister of Foreign Affairs, 1966–December 1968</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v24/persons#p_HPCJM1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Foreign Minister of Belgium, March 1966–November 1972</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v05/persons#p_HPCJM1</source-url>
+        </remark>
+    </remarks>
+</person>

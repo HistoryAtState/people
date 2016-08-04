@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>110540</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Percy, Charles Harting</name>
+        </preferred>
+        <alternates/>
+        <originals variants="4">
+            <original source-urls="7">
+                <name>Percy, Charles</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v07/persons#p_PC1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v05/persons#p_PC1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v10/persons#p_PC1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v15/persons#p_PC_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v20/persons#p_PC5</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v32/persons#p_PC2</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve14p1/persons#p_PC5</source-url>
+            </original>
+            <original source-urls="8">
+                <name>Percy, Charles H.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v07/persons#p_PCH1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v09/persons#p_PCH_2</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v16/persons#p_PCH_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v26/persons#p_PCH_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v28/persons#p_PCH_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v38p2/persons#p_PCH_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v01/persons#p_PCH_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v02/persons#p_PCH_1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Percy, Charles B.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v27/persons#p_PCB_1</source-url>
+            </original>
+            <original source-urls="8">
+                <name>Percy, Charles Harting</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve11p1/persons#p_PCH_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve14p2/persons#p_PCH_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v06/persons#p_PCH_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v20/persons#p_PCH_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v26/persons#p_PC_2</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v28/persons#p_PCH_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v30/persons#p_PCH_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1981-88v03/persons#p_PCH_1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="8">
+        <remark source-urls="10">
+            <p>Senator (R-Illinois)</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v07/persons#p_PC1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v26/persons#p_PCH_1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v27/persons#p_PCB_1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve11p1/persons#p_PCH_1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve14p2/persons#p_PCH_1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v01/persons#p_PCH_1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v02/persons#p_PCH_1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v06/persons#p_PCH_1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v20/persons#p_PCH_1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v30/persons#p_PCH_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Senator (Republican–Illinois)</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v05/persons#p_PC1</source-url>
+        </remark>
+        <remark source-urls="4">
+            <p>Republican Senator from Illinois</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v07/persons#p_PCH1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v09/persons#p_PCH_2</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v10/persons#p_PC1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v28/persons#p_PCH_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Senator (R–Illinois); member, Senate Foreign Relations Committee</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v15/persons#p_PC_1</source-url>
+        </remark>
+        <remark source-urls="5">
+            <p>Senator (R–Illinois)</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v16/persons#p_PCH_1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v20/persons#p_PC5</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v32/persons#p_PC2</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v38p2/persons#p_PCH_1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v26/persons#p_PC_2</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Republican Senator from Illinois, Congressional Adviser to the U.S. Delegation to the United Nations World Conference of the International Women’s Year</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve14p1/persons#p_PC5</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Senator (R—Illinois); member, Senate Foreign Relations Committee</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v28/persons#p_PCH_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Senator (R-Illinois), Chairman of the Senate Foreign Relations Committee from January 1981 until January 1983</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1981-88v03/persons#p_PCH_1</source-url>
+        </remark>
+    </remarks>
+</person>

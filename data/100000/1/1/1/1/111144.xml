@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>111144</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Randall, Carey A.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="1">
+                <name>Randall, Colonel (Brigadier General in 1957) Carey A.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v12/persons#p_RCBGCA1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="1">
+            <title source-urls="1">
+                <name>Colonel (Brigadier General in 1957)</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v12/persons#p_RCBGCA1</source-url>
+            </title>
+        </titles-from-name>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="1">
+        <remark source-urls="1">
+            <p>USMC, Military Assistant to the Secretary of Defense and Secretary of the Armed Forces Policy Council</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v12/persons#p_RCBGCA1</source-url>
+        </remark>
+    </remarks>
+</person>

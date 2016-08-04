@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>106602</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Jessup, Peter</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="8">
+                <name>Jessup, Peter</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v19/persons#p_JP1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v23/persons#p_JPE_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v24/persons#p_JP6</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v30/persons#p_JP1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v31/persons#p_JP1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v33/persons#p_JP6</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v02/persons#p_JP6</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v21/persons#p_JP_1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="7">
+        <remark source-urls="1">
+            <p>member of the National Security Council staff</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v19/persons#p_JP1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>member, National Security Council Staff</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v23/persons#p_JPE_1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v24/persons#p_JP6</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>staff member, National Security Council, from January 1964</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v30/persons#p_JP1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>member of the National Security Council staff; executive secretary of the 5412 Special Group (after June 2, 1964, the 303 Committee)</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v31/persons#p_JP1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>member of the National Security Council Staff and Secretary of the 303 Committee</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v33/persons#p_JP6</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Secretary of the 303 Committee and its successor the 40 Committee until 1972</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v02/persons#p_JP6</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Executive Secretary of the 303 Committee and its successor, the 40 Committee, until 1972</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v21/persons#p_JP_1</source-url>
+        </remark>
+    </remarks>
+</person>

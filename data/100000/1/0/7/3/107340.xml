@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>107340</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Kollontay, Aleksandra Mikhailovna</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="1">
+                <name>Kollontay, Madame Aleksandra Mikhailovna</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1943CairoTehran/persons#p_KMAM1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="1">
+            <title source-urls="1">
+                <name>Madame</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1943CairoTehran/persons#p_KMAM1</source-url>
+            </title>
+        </titles-from-name>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="1">
+        <remark source-urls="1">
+            <p>Soviet Ambassador in Sweden.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1943CairoTehran/persons#p_KMAM1</source-url>
+        </remark>
+    </remarks>
+</person>

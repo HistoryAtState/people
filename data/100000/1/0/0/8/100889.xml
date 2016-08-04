@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>100889</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Barnebey, Malcolm R.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="2">
+                <name>Barneby, Malcolm R.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v31/persons#p_BMR1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve10/persons#p_BMR1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Barnebey, Malcolm R.</name>
+                <source-url>https://history.state.gov/departmenthistory/people/barnebey-malcolm-r</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1927</birth-year>
+    <death-year/>
+    <remarks variants="3">
+        <remark source-urls="1">
+            <p>Deputy Director, Office of Ecuadorian-Peruvian Affairs, Bureau of Inter-American Affairs, Department of State, September 1964–October 1965; Director until June 1967</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v31/persons#p_BMR1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Deputy Chief of Mission, U.S. Embassy in Managua from 1967 until 1970</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve10/persons#p_BMR1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Foreign Service Officer. Ambassador Extraordinary and Plenipotentiary (Belize).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/barnebey-malcolm-r</source-url>
+        </remark>
+    </remarks>
+</person>

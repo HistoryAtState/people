@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>106191</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Howze, Hamilton H.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="2">
+                <name>Howze, General Hamilton H.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v22/persons#p_HGHH1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v29p1/persons#p_HGHH1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="1">
+            <title source-urls="2">
+                <name>General</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v22/persons#p_HGHH1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v29p1/persons#p_HGHH1</source-url>
+            </title>
+        </titles-from-name>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="2">
+        <remark source-urls="1">
+            <p>USA, Chief, U.S. Military Advisory Group, Korea, 1959-1961; Commander in Chief, United Nations Command, Korea, 1963</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v22/persons#p_HGHH1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>USA, Commanding General, United States Eighth Army, Commander U.S. Forces, Korea, and Commander in Chief, United Nations Command, Korea, 1963–July 1965</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v29p1/persons#p_HGHH1</source-url>
+        </remark>
+    </remarks>
+</person>

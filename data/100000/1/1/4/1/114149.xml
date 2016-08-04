@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>114149</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Vuong Van Dong</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="1">
+                <name>Dong, Lieutenant Colonel</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v01/persons#p_DLC1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Vuong Van Dong, Lieutenant Colonel</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v01/persons#p_VVDLC1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="1">
+            <title source-urls="2">
+                <name>Lieutenant Colonel</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v01/persons#p_DLC1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v01/persons#p_VVDLC1</source-url>
+            </title>
+        </titles-from-name>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="2">
+        <remark source-urls="1">
+            <p>see Vuong Van Dong</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v01/persons#p_DLC1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>ARVN, Airborne Battalion Commander; principal leader in the coup attempt of November 1960</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v01/persons#p_VVDLC1</source-url>
+        </remark>
+    </remarks>
+</person>

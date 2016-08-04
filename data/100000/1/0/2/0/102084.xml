@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>102084</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Caldera Rodriguez, Rafael</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="1">
+                <name>Caldera Rodríguez, Rafael</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v31/persons#p_CRR1</source-url>
+            </original>
+            <original source-urls="2">
+                <name>Caldera Rodriguez, Rafael</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v21/persons#p_CRR_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve11p2/persons#p_CR_1</source-url>
+            </original>
+            <original source-urls="2">
+                <name>Caldera, Rafael</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v36/persons#p_CR1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve10/persons#p_CR1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="5">
+        <remark source-urls="1">
+            <p>founder and leader of the Comité de Organización Política Electoral Independiente, Venezuela; COPEI candidate for President December 1968; thereafter President-elect of Venezuela</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v31/persons#p_CRR1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Venezuelan President from 1969 until 1974</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v21/persons#p_CRR_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Venezuelan President from 1969 until 1973</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v36/persons#p_CR1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>President of Venezuela, Christian Democratic Party from 1969</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve10/persons#p_CR1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>President of Venezuela from March 11, 1969, until March 12, 1974</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve11p2/persons#p_CR_1</source-url>
+        </remark>
+    </remarks>
+</person>

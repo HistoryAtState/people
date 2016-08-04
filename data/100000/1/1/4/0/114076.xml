@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>114076</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Vilfan, Joza</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="1">
+                <name>Vilfan, Joža</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1947v02/persons#p_VJ1</source-url>
+            </original>
+            <original source-urls="2">
+                <name>Vilfan, Joza</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v04p1/persons#p_VJ1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v04p2/persons#p_VJ1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Vilfan, Dr. Joza</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v26/persons#p_VDJ1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="1">
+            <title source-urls="1">
+                <name>Dr.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v26/persons#p_VDJ1</source-url>
+            </title>
+        </titles-from-name>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="3">
+        <remark source-urls="1">
+            <p>Yugoslav Permanent Representative to the United Nations</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1947v02/persons#p_VJ1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Deputy Foreign Minister of Yugoslavia</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1951v04p1/persons#p_VJ1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1951v04p2/persons#p_VJ1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Secretary General to President Tito</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v26/persons#p_VDJ1</source-url>
+        </remark>
+    </remarks>
+</person>

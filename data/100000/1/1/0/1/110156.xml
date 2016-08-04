@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>110156</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Osorio-Tafall, Bibiano F.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="1">
+                <name>Osorio-Tafall, Bibiano F.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v23/persons#p_OBF_1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Osorio-Tafall, Bibiano</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v29/persons#p_OTB1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Osorio-Taffal, Bibiano</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v30/persons#p_OTB1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="3">
+        <remark source-urls="1">
+            <p>Officer in Charge of the U.N. Operations in the Congo from April until June 1964</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v23/persons#p_OBF_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>U.N. Secretary General's Special Representative to Cyprus</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v29/persons#p_OTB1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>UN Special Representative for UNFICYP until 1974</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v30/persons#p_OTB1</source-url>
+        </remark>
+    </remarks>
+</person>

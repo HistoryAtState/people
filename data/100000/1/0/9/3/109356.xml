@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>109356</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Moose, George Edward</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="1">
+                <name>Moose, George Edward</name>
+                <source-url>https://history.state.gov/departmenthistory/people/moose-george-edward</source-url>
+            </original>
+            <original source-urls="1">
+                <name>George E. Moose</name>
+                <source-url>https://history.state.gov/departmenthistory/people/moose-george-edward</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1944</birth-year>
+    <death-year/>
+    <remarks variants="1">
+        <remark source-urls="1">
+            <p>Foreign Service Officer. Director of the Office of Management Policy; Career Ambassador; Assistant Secretary of State for African Affairs; Representative of the U.S.A. to the European Office of the United Nations (Geneva); Ambassador Extraordinary and Plenipotentiary (Senegal); Ambassador Extraordinary and Plenipotentiary (Benin).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/moose-george-edward</source-url>
+        </remark>
+    </remarks>
+</person>

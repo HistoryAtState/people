@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>101442</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Blouin, F. J.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="2">
+                <name>Blouin, Rear Admiral F. J.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v01/persons#p_BRAFJ1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v04/persons#p_BRAFJ1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Blouin, F.J.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v26/persons#p_BFJ1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Blouin, Rear Admiral F.J.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v28/persons#p_BRAFJ1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="1">
+            <title source-urls="3">
+                <name>Rear Admiral</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v01/persons#p_BRAFJ1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v04/persons#p_BRAFJ1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v28/persons#p_BRAFJ1</source-url>
+            </title>
+        </titles-from-name>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="4">
+        <remark source-urls="1">
+            <p>USN, Director, Far East Region, Office of the Assistant Secretary of Defense for International Security Affairs</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v01/persons#p_BRAFJ1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>USN, Far East Region, Office of the Assistant Secretary of Defense for International Security Affairs</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v04/persons#p_BRAFJ1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Rear Admiral, USN, Director, Far East Region, Office of the Assistant Secretary of Defense (International Security Affairs)</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v26/persons#p_BFJ1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>USN, Director of the Far East Region, Office of the Assistant Secretary of Defense for International Security Affairs, 1965–1966</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v28/persons#p_BRAFJ1</source-url>
+        </remark>
+    </remarks>
+</person>

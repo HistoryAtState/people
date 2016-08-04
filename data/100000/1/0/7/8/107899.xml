@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>107899</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Levenson, Seymour</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="2">
+                <name>Levenson, Seymour</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v38p2/persons#p_LS_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve03/persons#p_LS1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="2">
+        <remark source-urls="1">
+            <p>Acting Director, Management Systems Staff, Department of State, May 1973–May 1974; Director, Management Systems Staff, May 1974–June 1975</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v38p2/persons#p_LS_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Director, Management Systems Staff, Deputy Under Secretary for Management, Department of State</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve03/persons#p_LS1</source-url>
+        </remark>
+    </remarks>
+</person>

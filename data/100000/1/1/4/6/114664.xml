@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>114664</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Wilson, Edwin Carleton</name>
+        </preferred>
+        <alternates/>
+        <originals variants="4">
+            <original source-urls="2">
+                <name>Wilson, Edwin Carleton</name>
+                <source-url>https://history.state.gov/departmenthistory/people/wilson-edwin-carleton</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv02/persons#p_WEC1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Edwin C. Wilson</name>
+                <source-url>https://history.state.gov/departmenthistory/people/wilson-edwin-carleton</source-url>
+            </original>
+            <original source-urls="2">
+                <name>Wilson, Edwin C.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1943CairoTehran/persons#p_WEC1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv01/persons#p_WEC1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Wilson, Edwin C</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945Malta/persons#p_WEC1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1893</birth-year>
+    <death-year>1972</death-year>
+    <remarks variants="4">
+        <remark source-urls="1">
+            <p>Foreign Service Officer. Envoy Extraordinary and Minister Plenipotentiary (Uruguay); Ambassador Extraordinary and Plenipotentiary (Turkey); Ambassador Extraordinary and Plenipotentiary (Panama).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/wilson-edwin-carleton</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Ambassador in Turkey, 1945–48.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1943CairoTehran/persons#p_WEC1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Ambassador to Turkey.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv01/persons#p_WEC1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv02/persons#p_WEC1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Director, Office of Special Political Affairs, May 1944–January 1945; Ambassador to Turkey, January 1945–October 1948.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1945Malta/persons#p_WEC1</source-url>
+        </remark>
+    </remarks>
+</person>

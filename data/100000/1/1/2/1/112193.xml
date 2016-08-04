@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>112193</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Seibels, John Jacob</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="1">
+                <name>Seibels, John Jacob</name>
+                <source-url>https://history.state.gov/departmenthistory/people/seibels-john-jacob</source-url>
+            </original>
+            <original source-urls="1">
+                <name>J.J. Seibels</name>
+                <source-url>https://history.state.gov/departmenthistory/people/seibels-john-jacob</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1816</birth-year>
+    <death-year>1865</death-year>
+    <remarks variants="1">
+        <remark source-urls="1">
+            <p>Non-career appointee. Chargé d'Affaires (Belgium); Minister Resident (Belgium).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/seibels-john-jacob</source-url>
+        </remark>
+    </remarks>
+</person>

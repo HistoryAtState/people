@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>106699</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Jones, David C.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="10">
+                <name>Jones, David C.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v10/persons#p_JDC1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v35/persons#p_JDC_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v37/persons#p_JDC_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v08/persons#p_JDC_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v18/persons#p_JDC_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v20/persons#p_JDC_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v21/persons#p_JDC_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v28/persons#p_JDC_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1981-88v03/persons#p_JDC_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1981-88v13/persons#p_JDC_1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Jones, David</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v01/persons#p_JD_1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Jones, General David C.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v13/persons#p_JDC_1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="1">
+            <title source-urls="1">
+                <name>General</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v13/persons#p_JDC_1</source-url>
+            </title>
+        </titles-from-name>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="11">
+        <remark source-urls="1">
+            <p>USAF, Air Force Chief of Staff from July 1, 1974</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v10/persons#p_JDC1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>General, USAF; Chief of Staff, U.S. Air Force from July 1, 1974</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v35/persons#p_JDC_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Chairman of the Joint Chiefs of Staff from June 1978</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v37/persons#p_JDC_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>General, USAF; Chief of Staff, U.S. Air Force from July 1, 1974, until June 20, 1978; Chairman of the Joint Chiefs of Staff from June 21, 1978</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v01/persons#p_JD_1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>General, USAF, Chairman of the Joint Chiefs of Staff from June 1978</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v08/persons#p_JDC_1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v28/persons#p_JDC_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Chairman of the Joint Chiefs of Staff from June 21, 1978 until June 18, 1982</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v13/persons#p_JDC_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>General, USAF; Chairman, Joint Chiefs of Staff, from June 21, 1978</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v18/persons#p_JDC_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>General, USAF; Chief of Staff, United States Air Force, from July 1, 1974, until June 20, 1978; Chairman, Joint Chiefs of Staff, from June 21, 1978, until June 18, 1982</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v20/persons#p_JDC_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>General, USAF, Chairman of the Joint Chiefs of Staff from June 1978 until June 1982</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v21/persons#p_JDC_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>General, Chairman of the Joint Chiefs of Staff until June 1982</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1981-88v03/persons#p_JDC_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>General, USAF; Chairman of the Joint Chiefs of Staff until June 18, 1982</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1981-88v13/persons#p_JDC_1</source-url>
+        </remark>
+    </remarks>
+</person>

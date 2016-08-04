@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>104427</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Forrestal, James V.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="6">
+                <name>Forrestal, James V.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945-50Intel/persons#p_FJV1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv02/persons#p_FJ1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1947v02/persons#p_FJV1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1948v02/persons#p_FJV1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1949v03/persons#p_FJV1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v05/persons#p_FJV1</source-url>
+            </original>
+            <original source-urls="3">
+                <name>Forrestal, James</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv01/persons#p_FJ1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945Malta/persons#p_FJ1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1946v03/persons#p_FJ1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="6">
+        <remark source-urls="1">
+            <p>Secretary of the Navy until September 1947; Secretary of Defense, September 17, 1947-March 28, 1949</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1945-50Intel/persons#p_FJV1</source-url>
+        </remark>
+        <remark source-urls="3">
+            <p>Secretary of the Navy.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv01/persons#p_FJ1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv02/persons#p_FJ1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1945Malta/persons#p_FJ1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Secretary of the Navy</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1946v03/persons#p_FJ1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1947v02/persons#p_FJV1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Secretary of Defense</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1948v02/persons#p_FJV1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Secretary of Defense, until March 1949.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1949v03/persons#p_FJV1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Secretary of Defense, 1947–1949.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1951v05/persons#p_FJV1</source-url>
+        </remark>
+    </remarks>
+</person>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>102518</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Choe Kyu-ha</name>
+        </preferred>
+        <alternates>
+            <name>Choi Kyu-hah</name>
+            <name>Ch‘oe Kyu-ha</name>
+        </alternates>
+        <originals variants="4">
+            <original source-urls="1">
+                <name>Choe Kyu-ha</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v18/persons#p_CKCKCK1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Choi Gyu-ha</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v29p1/persons#p_CG1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Choe Kyu-ha (Ch'oe Kyu-ha, Choi Kyu-hah)</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v29p1/persons#p_CKCKCK1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Choi Kyu Hah (Ch’oe Kyu-ha)</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v19p1/persons#p_CKH1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="4">
+        <remark source-urls="1">
+            <p>Acting Minister of Foreign Affairs of the Republic of Korea from December 1959 until April 1960</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v18/persons#p_CKCKCK1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Korean Special Envoy to Japan after February 1964</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v29p1/persons#p_CG1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Republic of Korea Foreign Minister from June 1967</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v29p1/persons#p_CKCKCK1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>ROK Foreign Minister from 1969 until 1971</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v19p1/persons#p_CKH1</source-url>
+        </remark>
+    </remarks>
+</person>

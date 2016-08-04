@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>111286</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Renner, John C.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="5">
+                <name>Renner, John C.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v17/persons#p_RJC1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve12/persons#p_renner-john-c</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve13/persons#p_RJC1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v03/persons#p_RJC_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v13/persons#p_RJC_1</source-url>
+            </original>
+            <original source-urls="2">
+                <name>Renner, John</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v31/persons#p_RJ1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v37/persons#p_RJ_2</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="6">
+        <remark source-urls="2">
+            <p>Director, Office of International Trade, Bureau of Economic Affairs, Department of State, August 1970–July 1972; Deputy Assistant Secretary of State for International Trade Policy, Bureau of Economic Affairs, from July 1972</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v17/persons#p_RJC1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve13/persons#p_RJC1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Deputy Assistant Secretary of State for International Trade Policy from 1972 until 1974</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v31/persons#p_RJ1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Member of the National Security Council Staff</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v37/persons#p_RJ_2</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Deputy Assistant Secretary for International Trade Policy, Bureau of Economic Affairs, from July 1972</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve12/persons#p_renner-john-c</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>member, National Security Council Staff; Counselor and Special Envoy, Office of the Special Representative for Trade Negotiations</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v03/persons#p_RJC_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Counselor and Special Envoy, Office of the Special Representative for Trade Negotiation</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v13/persons#p_RJC_1</source-url>
+        </remark>
+    </remarks>
+</person>

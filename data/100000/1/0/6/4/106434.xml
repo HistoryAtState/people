@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>106434</id>
+    <authorities>
+        <authority service="viaf">91127079</authority>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Isa bin Salman Al-Khalifa</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="1">
+                <name>‘Isa bin Salman al Khalifa, Shaikh</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v24/persons#p_IBSAKS1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Amir Sulman al-Khalifa</name>
+                <source-url>https://history.state.gov/departmenthistory/visits/bahrain</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Emir Isa bin Sulman al-Khalifa</name>
+                <source-url>https://history.state.gov/departmenthistory/visits/bahrain</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="1">
+            <title source-urls="1">
+                <name>Shaikh</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v24/persons#p_IBSAKS1</source-url>
+            </title>
+        </titles-from-name>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="3">
+        <remark source-urls="1">
+            <p>Amir of Bahrain</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v24/persons#p_IBSAKS1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Amir, Bahrain. Visited U.S. once, 1983</p>
+            <source-url>https://history.state.gov/departmenthistory/visits/bahrain</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Emir, Bahrain. Visited U.S. once, 1998</p>
+            <source-url>https://history.state.gov/departmenthistory/visits/bahrain</source-url>
+        </remark>
+    </remarks>
+</person>

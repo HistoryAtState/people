@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>108263</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>MacDonald, Donald A.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="1">
+                <name>MacDonald, Donald A.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v35/persons#p_MDA_1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>MacDonald, Donald</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve12/persons#p_macdonald-donald</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="2">
+        <remark source-urls="1">
+            <p>member, National Security Council Staff from August 1974 until June 1976</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v35/persons#p_MDA_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>member, National Security Council staff until June 1976</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve12/persons#p_macdonald-donald</source-url>
+        </remark>
+    </remarks>
+</person>

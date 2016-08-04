@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>113068</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Stone, Richard B. (Dick)</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="1">
+                <name>Stone, Richard B.</name>
+                <source-url>https://history.state.gov/departmenthistory/people/stone-richard-b</source-url>
+            </original>
+            <original source-urls="4">
+                <name>Stone, Richard B. (Dick)</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v02/persons#p_SRB_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v18/persons#p_SR_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v26/persons#p_SR_3</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v30/persons#p_SRB_1</source-url>
+            </original>
+            <original source-urls="2">
+                <name>Stone, Richard</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v08/persons#p_SR_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v13/persons#p_SR_1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1928</birth-year>
+    <death-year/>
+    <remarks variants="6">
+        <remark source-urls="1">
+            <p>Non-career appointee. Ambassador at Large; Ambassador Extraordinary and Plenipotentiary (Denmark).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/stone-richard-b</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Senator (D-Florida) until December 31, 1980; member, Commission on CSCE (Helsinki Commission) until December 31, 1980; member, Senate Committee on Agriculture, Nutrition, and Forestry until December 31, 1980</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v02/persons#p_SRB_1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Senator (D-Florida)</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v08/persons#p_SR_1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v18/persons#p_SR_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Senator (D–Florida) from 1975 until 1980</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v13/persons#p_SR_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Senator (D–Florida)</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v26/persons#p_SR_3</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Senator (D-Florida) until December 31, 1980</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v30/persons#p_SRB_1</source-url>
+        </remark>
+    </remarks>
+</person>

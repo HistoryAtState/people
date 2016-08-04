@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>101705</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Brement, Marshall</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="7">
+                <name>Brement, Marshall</name>
+                <source-url>https://history.state.gov/departmenthistory/people/brement-marshall</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v01/persons#p_BM_2</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v02/persons#p_BM_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v06/persons#p_BRM_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v20/persons#p_BM_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v21/persons#p_BM_4</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v30/persons#p_BM_2</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1932</birth-year>
+    <death-year>2009</death-year>
+    <remarks variants="7">
+        <remark source-urls="1">
+            <p>Foreign Service Officer. Ambassador Extraordinary and Plenipotentiary (Iceland).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/brement-marshall</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Political Counselor, U.S. Embassy in Moscow from 1974 until 1976; Political Counselor, U.S. Embassy in Madrid from 1977 until 1979; member, National Security Council staff, USSR/East Europe Cluster, from May 1979 until January 1981</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v01/persons#p_BM_2</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Political Counselor, U.S. Embassy in Madrid from 1977 until 1979; member, USSR/East Europe Cluster, National Security Council Staff, from May 1979 until January 1981</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v02/persons#p_BM_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Political Counselor, U.S. Embassy in Madrid from 1977 until 1979; member, USSR/East Europe Cluster, National Security Council, from May 1979 until January 1981</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v06/persons#p_BRM_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>member, National Security Council Staff for Soviet Union and Eastern European Affairs from May 1979 until January 1981</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v20/persons#p_BM_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>member, National Security Council Staff for USSR and East Europe Affairs from May 1979 until January 1981</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v21/persons#p_BM_4</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Political Counselor, U.S. Embassy in Madrid from 1977 until 1979; member, National Security Council Staff for USSR/East Europe Affairs, from May 1979 until January 1981</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v30/persons#p_BM_2</source-url>
+        </remark>
+    </remarks>
+</person>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>107180</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Kimmitt, Robert Michael</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="3">
+                <name>Kimmitt, Robert Michael</name>
+                <source-url>https://history.state.gov/departmenthistory/people/kimmitt-robert-michael</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v20/persons#p_KR_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1981-88v13/persons#p_KRM_1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Kimmitt, Robert M.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v02/persons#p_KRM_1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1947</birth-year>
+    <death-year/>
+    <remarks variants="4">
+        <remark source-urls="1">
+            <p>Non-career appointee. Under Secretary of State for Political Affairs; Ambassador Extraordinary and Plenipotentiary (Germany).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/kimmitt-robert-michael</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>member, Global Issues Cluster, National Security Council Staff, from January until June 1977; Legal Counsel, National Security Council Staff, from August 1978 until January 1981</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v02/persons#p_KRM_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>member, National Security Council Staff for Global Issues from January 1977 until June 1977</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v20/persons#p_KR_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>member, National Security Council Staff</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1981-88v13/persons#p_KRM_1</source-url>
+        </remark>
+    </remarks>
+</person>

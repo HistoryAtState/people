@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>104081</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Evatt, Herbert Vere</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="3">
+                <name>Evatt, Herbert Vere</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv02/persons#p_EH1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945v01/persons#p_EHV1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1946v03/persons#p_EHV1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Evatt, Herbert</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1947v02/persons#p_EH2</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Evatt, Herbert V.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1948v02/persons#p_EHV1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="5">
+        <remark source-urls="1">
+            <p>Australian Attorney General and Minister for External Affairs.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv02/persons#p_EH1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Australian Minister for External Affairs; Australian Delegate.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1945v01/persons#p_EHV1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Chief of the Australian Delegation; Australian Minister for External Affairs and Attorney General</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1946v03/persons#p_EHV1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Australian Minister for External Affairs</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1947v02/persons#p_EH2</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Australian Minister for External Affairs; President of the General Assembly of the United Nations, Third Session, Paris</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1948v02/persons#p_EHV1</source-url>
+        </remark>
+    </remarks>
+</person>

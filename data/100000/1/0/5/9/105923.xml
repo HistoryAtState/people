@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>105923</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Hill, M. Charles</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="2">
+                <name>Hill, M. Charles</name>
+                <source-url>https://history.state.gov/departmenthistory/people/hill-m-charles</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1981-88v13/persons#p_HMC_1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1936</birth-year>
+    <death-year/>
+    <remarks variants="2">
+        <remark source-urls="1">
+            <p>Foreign Service Officer. Executive Secretary.</p>
+            <source-url>https://history.state.gov/departmenthistory/people/hill-m-charles</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Executive Secretary of the Department of State from March 28, 1983</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1981-88v13/persons#p_HMC_1</source-url>
+        </remark>
+    </remarks>
+</person>

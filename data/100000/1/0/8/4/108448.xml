@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>108448</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Manekshaw, Sam Hormusji Framji Jamshedji</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="2">
+                <name>Manekshaw, General Sam Hormusji Framji Jamshedji</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v11/persons#p_MGSHFJ1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve07/persons#p_MGSHFJ1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="1">
+            <title source-urls="2">
+                <name>General</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v11/persons#p_MGSHFJ1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve07/persons#p_MGSHFJ1</source-url>
+            </title>
+        </titles-from-name>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="1">
+        <remark source-urls="2">
+            <p>Chief of Staff of the Indian Army</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v11/persons#p_MGSHFJ1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve07/persons#p_MGSHFJ1</source-url>
+        </remark>
+    </remarks>
+</person>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>109128</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Mihailović, Draža</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="2">
+                <name>Mihailović, Draža</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1943CairoTehran/persons#p_MD1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv02/persons#p_MGD1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Mihailović, General Draža</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945Malta/persons#p_M9</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="1">
+            <title source-urls="1">
+                <name>General</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945Malta/persons#p_M9</source-url>
+            </title>
+        </titles-from-name>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="3">
+        <remark source-urls="1">
+            <p>General, leader of the Yugoslav forces operating under the direction of the Yugoslav Government-in-Exile.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1943CairoTehran/persons#p_MD1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>leader of the Yugoslav Nationalist Guerrilla Forces.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv02/persons#p_MGD1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Leader of the Yugoslav Nationalist Guerrilla Forces.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1945Malta/persons#p_M9</source-url>
+        </remark>
+    </remarks>
+</person>

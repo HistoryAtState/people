@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>107315</id>
+    <authorities>
+        <authority service="viaf">43042245</authority>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Kocharian, Robert</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="1">
+                <name>President Robert Kocharian</name>
+                <source-url>https://history.state.gov/departmenthistory/visits/armenia</source-url>
+            </original>
+            <original source-urls="1">
+                <name>President Robert Kochariyan</name>
+                <source-url>https://history.state.gov/departmenthistory/visits/armenia</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="2">
+        <remark source-urls="1">
+            <p>President, Armenia. Visited U.S. 2 times, 2000–2001</p>
+            <source-url>https://history.state.gov/departmenthistory/visits/armenia</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>President, Armenia. Visited U.S. once, 1999</p>
+            <source-url>https://history.state.gov/departmenthistory/visits/armenia</source-url>
+        </remark>
+    </remarks>
+</person>

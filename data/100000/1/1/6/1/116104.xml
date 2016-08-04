@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>116104</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Shayba, Ali</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="1">
+                <name>Shayba, Ali</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v18/persons#p_SA_3</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="1">
+        <remark source-urls="1">
+            <p>Yemen Arab Republic Chief of Staff</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v18/persons#p_SA_3</source-url>
+        </remark>
+    </remarks>
+</person>

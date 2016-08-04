@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>102393</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Chapin, Dwight L.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="6">
+                <name>Chapin, Dwight L.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v13/persons#p_CDL1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v14/persons#p_CDL1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v32/persons#p_CDL1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v34/persons#p_CDL1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v38p1/persons#p_CDL_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v38p2/persons#p_CDL_1</source-url>
+            </original>
+            <original source-urls="7">
+                <name>Chapin, Dwight</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v17/persons#p_CD1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v21/persons#p_CD_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v24/persons#p_CDL1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v29/persons#p_CD1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve02/persons#p_CDL1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve12/persons#p_chapin-dwight</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve13/persons#p_CDL1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="11">
+        <remark source-urls="1">
+            <p>Special Assistant to the President until 1971; thereafter Deputy Assistant to the President (President’s Appointments Secretary)</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v13/persons#p_CDL1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Deputy Assistant to the President (President's Appointments Secretary)</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v14/persons#p_CDL1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Special Assistant to the President, 1969–1971; Deputy Assistant to the President, 1971–1973</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v17/persons#p_CD1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve13/persons#p_CDL1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Special Assistant to the President from 1969 until 1971</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v21/persons#p_CD_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Special Assistant to the President from 1969 to 1971; Deputy Assistant to the President from 1971 to 1973</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v24/persons#p_CDL1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Special Assistant to the President, 1969–1971; thereafter, Deputy Assistant to the President, 1971–1973</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v29/persons#p_CD1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Special Assistant to the President from 1969 until 1971; thereafter, Deputy Assistant to the President</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v32/persons#p_CDL1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v34/persons#p_CDL1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Deputy Assistant to the President from 1971 until 1973</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v38p1/persons#p_CDL_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Deputy Assistant to the President, 1971–1973</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v38p2/persons#p_CDL_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Special Assistant to the President, 1969–1971; Deputy Assistant to the President (President's Appointments Secretary), 1971–1973</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve02/persons#p_CDL1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Deputy Assistant to the President until 1973</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve12/persons#p_chapin-dwight</source-url>
+        </remark>
+    </remarks>
+</person>

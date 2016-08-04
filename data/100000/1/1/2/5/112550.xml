@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>112550</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Skinner, Robert Peet</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="3">
+                <name>Skinner, Robert P.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1914Supp/persons#p_SRP1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1915Supp/persons#p_SRP1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1916Supp/persons#p_SRP1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Skinner, Robert Peet</name>
+                <source-url>https://history.state.gov/departmenthistory/people/skinner-robert-peet</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Robert P. Skinner</name>
+                <source-url>https://history.state.gov/departmenthistory/people/skinner-robert-peet</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1866</birth-year>
+    <death-year>1960</death-year>
+    <remarks variants="3">
+        <remark source-urls="2">
+            <p>United States Consul General at London.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1914Supp/persons#p_SRP1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1915Supp/persons#p_SRP1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>U. S. Consul General at London.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1916Supp/persons#p_SRP1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Foreign Service Officer. Ambassador Extraordinary and Plenipotentiary (Turkey); Envoy Extraordinary and Minister Plenipotentiary (Lithuania); Envoy Extraordinary and Minister Plenipotentiary (Latvia); Envoy Extraordinary and Minister Plenipotentiary (Greece); Envoy Extraordinary and Minister Plenipotentiary (Estonia).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/skinner-robert-peet</source-url>
+        </remark>
+    </remarks>
+</person>

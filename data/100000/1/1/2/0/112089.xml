@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>112089</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Schoenfeld, Rudolf Emil</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="1">
+                <name>Schoenfeld, Rudolf Emil</name>
+                <source-url>https://history.state.gov/departmenthistory/people/schoenfeld-rudolf-emil</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Rudolf E. Schoenfeld</name>
+                <source-url>https://history.state.gov/departmenthistory/people/schoenfeld-rudolf-emil</source-url>
+            </original>
+            <original source-urls="4">
+                <name>Schoenfeld, Rudolf E.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv01/persons#p_SRE1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945Malta/persons#p_SRE1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54Guat/persons#p_SRE1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v04/persons#p_SRE1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1895</birth-year>
+    <death-year>1981</death-year>
+    <remarks variants="5">
+        <remark source-urls="1">
+            <p>Foreign Service Officer. Envoy Extraordinary and Minister Plenipotentiary (Romania); Chargé d'Affaires (Luxembourg); Ambassador Extraordinary and Plenipotentiary (Guatemala); Ambassador Extraordinary and Plenipotentiary (Colombia).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/schoenfeld-rudolf-emil</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Charge d’Affaires ad interim near the Polish and Czechoslovak Governments-in-Exile at London.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv01/persons#p_SRE1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Counselor, American Embassy near the Governments of Czechoslovakia and Poland in London, with the personal rank of Minister.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1945Malta/persons#p_SRE1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Ambassador to Guatemala until October 19, 1953</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54Guat/persons#p_SRE1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Ambassador in Guatemala until October 19, 1953; Ambassador in Colombia from January 28, 1954 until January 26, 1955.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v04/persons#p_SRE1</source-url>
+        </remark>
+    </remarks>
+</person>

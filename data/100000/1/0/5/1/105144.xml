@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>105144</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Green, Howard C.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="6">
+                <name>Green, Howard C.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v02/persons#p_GHC1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v06/persons#p_GHC1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v07p2/persons#p_GHC1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v09/persons#p_GHC1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v13/persons#p_GHC1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v25/persons#p_GHC1</source-url>
+            </original>
+            <original source-urls="2">
+                <name>Green, Howard C</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v03/persons#p_GHC1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v07p1/persons#p_GHC1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="7">
+        <remark source-urls="1">
+            <p>Canadian Foreign Minister from June 1959</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v02/persons#p_GHC1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Canadian Secretary of State for External Affairs from June 1959</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v03/persons#p_GHC1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Canadian Secretary of State for External Affairs from 1959</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v06/persons#p_GHC1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Canadian Secretary of State for External Affairs after May 1959</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v07p1/persons#p_GHC1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v07p2/persons#p_GHC1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Canadian Minister of Public Works until May 1959; thereafter Secretary of State for External Affairs</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v09/persons#p_GHC1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Canadian Secretary of State for External Affairs until April 1963</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v13/persons#p_GHC1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Canadian Secretary of State for External Affairs to April 22, 1963</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v25/persons#p_GHC1</source-url>
+        </remark>
+    </remarks>
+</person>

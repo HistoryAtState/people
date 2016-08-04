@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>109370</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Mora-Otero, José Antonio</name>
+        </preferred>
+        <alternates/>
+        <originals variants="5">
+            <original source-urls="4">
+                <name>Mora, José A.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v04/persons#p_MJA1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v06/persons#p_MJA1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v07/persons#p_MJA1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v05/persons#p_MJA1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Mora, Jose A., Uruguayan</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v12/persons#p_MOJ1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>More Otera, José Antonio</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v13/persons#p_MOJA1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Mora Otera, José A.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v31/persons#p_MOJA1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Mora-Otero, José Antonio</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v32/persons#p_MOJ1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="1">
+            <title source-urls="1">
+                <name>Uruguayan</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v12/persons#p_MOJ1</source-url>
+            </title>
+        </titles-from-name>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="5">
+        <remark source-urls="1">
+            <p>Uruguayan Ambassador in the United States from March 26, 1951 until August 1956.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v04/persons#p_MJA1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Uruguayan Ambassador to the United States until April 1956; thereafter, Secretary General of the Organization of American States</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v06/persons#p_MJA1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v07/persons#p_MJA1</source-url>
+        </remark>
+        <remark source-urls="3">
+            <p>Secretary General of the Organization of American States</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v05/persons#p_MJA1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v12/persons#p_MOJ1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v13/persons#p_MOJA1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Secretary General of the Organization of American States until May 1968</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v31/persons#p_MOJA1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Uruguayan, Secretary General of the Organization of American States</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v32/persons#p_MOJ1</source-url>
+        </remark>
+    </remarks>
+</person>

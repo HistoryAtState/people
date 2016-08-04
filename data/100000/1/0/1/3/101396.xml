@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>101396</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Blake, Maxwell</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="1">
+                <name>Blake, Maxwell</name>
+                <source-url>https://history.state.gov/departmenthistory/people/blake-maxwell</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1877</birth-year>
+    <death-year>1959</death-year>
+    <remarks variants="1">
+        <remark source-urls="1">
+            <p>Foreign Service Officer. Agent/Consul General (Morocco); Diplomatic Agent/Consul General (Morocco); Chargé d'Affaires ad interim (Morocco).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/blake-maxwell</source-url>
+        </remark>
+    </remarks>
+</person>

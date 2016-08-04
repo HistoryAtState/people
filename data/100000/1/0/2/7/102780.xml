@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>102780</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Connally, Tom</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="1">
+                <name>Connolly, Tom</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1943CairoTehran/persons#p_CT1</source-url>
+            </original>
+            <original source-urls="10">
+                <name>Connally, Tom</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945Malta/persons#p_CT1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945v01/persons#p_CT1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1947v02/persons#p_CT1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v03p1/persons#p_CT1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v03p2/persons#p_CT1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v04p1/persons#p_CT1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v04p2/persons#p_CT1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v05/persons#p_CT1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v06p1/persons#p_CONNALLYT1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v06p2/persons#p_CONNALLYT1</source-url>
+            </original>
+            <original source-urls="3">
+                <name>Connally, Senator Tom</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1946v03/persons#p_CST1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v15p1/persons#p_CAST1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v15p2/persons#p_CAST1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="1">
+            <title source-urls="3">
+                <name>Senator</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1946v03/persons#p_CST1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v15p1/persons#p_CAST1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v15p2/persons#p_CAST1</source-url>
+            </title>
+        </titles-from-name>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="10">
+        <remark source-urls="1">
+            <p>United States Senator from Texas; Chairman of the Senate Committee on Foreign Relations.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1943CairoTehran/persons#p_CT1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>United States Senator from Texas.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1945Malta/persons#p_CT1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Senator, Texas; Chairman of the Senate Committee on Foreign Relations; United States Delegate.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1945v01/persons#p_CT1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Member of the United States Delegation (arrived on August 23); United States Senator from Texas, Chairman of the Senate Foreign Relations Committee</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1946v03/persons#p_CST1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>United States Senator from Texas; ranking Democratic member of the Senate Foreign Relations Committee</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1947v02/persons#p_CT1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Senator from Texas; Chairman, Senate Committee on Foreign Relations.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1951v03p1/persons#p_CT1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1951v03p2/persons#p_CT1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Senator from Texas; Chairman, Senate Committee on Foreign Relations</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1951v04p1/persons#p_CT1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1951v04p2/persons#p_CT1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Democratic Senator from Texas and Chairman of the Senate Committee on Foreign Relations.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1951v05/persons#p_CT1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Democratic Senator from Texas and Chairman of the Senate Foreign Relations Committee until January 1953.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v06p1/persons#p_CONNALLYT1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v06p2/persons#p_CONNALLYT1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Democrat of Texas; Chairman of the Senate Foreign Relations Committee to January 1953.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v15p1/persons#p_CAST1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v15p2/persons#p_CAST1</source-url>
+        </remark>
+    </remarks>
+</person>

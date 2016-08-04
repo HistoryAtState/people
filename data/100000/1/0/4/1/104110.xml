@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>104110</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Fahy, Charles</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="4">
+                <name>Fahy, Charles</name>
+                <source-url>https://history.state.gov/departmenthistory/people/fahy-charles</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv02/persons#p_FC1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945v01/persons#p_FC1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1946v03/persons#p_FC1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1892</birth-year>
+    <death-year>1979</death-year>
+    <remarks variants="4">
+        <remark source-urls="1">
+            <p>Non-career appointee. Legal Adviser.</p>
+            <source-url>https://history.state.gov/departmenthistory/people/fahy-charles</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Legal Adviser, United States Group, Control Council (Germany).</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv02/persons#p_FC1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Solicitor General of the United States; Adviser, Committee of Jurists; Adviser, United States Delegation.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1945v01/persons#p_FC1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Legal Adviser of the Department of State</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1946v03/persons#p_FC1</source-url>
+        </remark>
+    </remarks>
+</person>

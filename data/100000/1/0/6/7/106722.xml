@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>106722</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Jones, Marshall Paul</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="1">
+                <name>Jones, Marshall Paul</name>
+                <source-url>https://history.state.gov/departmenthistory/people/jones-marshall-paul</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Marshall P. Jones</name>
+                <source-url>https://history.state.gov/departmenthistory/people/jones-marshall-paul</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1915</birth-year>
+    <death-year>1985</death-year>
+    <remarks variants="1">
+        <remark source-urls="1">
+            <p>Foreign Service Officer. Ambassador Extraordinary and Plenipotentiary (Malawi).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/jones-marshall-paul</source-url>
+        </remark>
+    </remarks>
+</person>

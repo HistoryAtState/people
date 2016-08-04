@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>112683</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Smythe, George W.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="2">
+                <name>Smythe, Major General George W.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v02/persons#p_SMGGW1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v03/persons#p_SMGGW1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="1">
+            <title source-urls="2">
+                <name>Major General</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v02/persons#p_SMGGW1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v03/persons#p_SMGGW1</source-url>
+            </title>
+        </titles-from-name>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="2">
+        <remark source-urls="1">
+            <p>USA, Chief of the Army Section of the Military Assistance Advisory Group, Formosa, to July 1955; Chief of the Military Assistance Advisory Group, Formosa, July 1955–August 1956</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v02/persons#p_SMGGW1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>USA, Chief of the Army Section of the Military Assistant Advisory Group, Formosa, to July 1955; Chief of the Military Assistance Advisory Group, Formosa, July 1955–August 1956</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v03/persons#p_SMGGW1</source-url>
+        </remark>
+    </remarks>
+</person>

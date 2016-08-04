@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>105242</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Grove, Brandon Hambright, Jr.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="4">
+            <original source-urls="1">
+                <name>Grove, Brandon, Jr.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve03/persons#p_GB1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Grove, Brandon H., Jr.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve10/persons#p_GBH1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Grove, Brandon Hambright, Jr.</name>
+                <source-url>https://history.state.gov/departmenthistory/people/grove-brandon-hambright-jr</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Brandon H. Grove, Jr.</name>
+                <source-url>https://history.state.gov/departmenthistory/people/grove-brandon-hambright-jr</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1929</birth-year>
+    <death-year/>
+    <remarks variants="3">
+        <remark source-urls="1">
+            <p>Deputy Director, Policy Planning Staff, Department of State</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve03/persons#p_GB1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Country Director for Panama, Bureau of Inter-American Affairs from November 1969 until February 1972; Office of the Deputy Secretary for Management from February 1972 until November 1972; Executive Secretary to the Deputy Director for Policy Analysis and Resources, Planning and Coordination Staff from November 1972</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve10/persons#p_GBH1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Foreign Service Officer. Director of the Foreign Service Institute; Ambassador Extraordinary and Plenipotentiary (Congo (Kinshasa)).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/grove-brandon-hambright-jr</source-url>
+        </remark>
+    </remarks>
+</person>

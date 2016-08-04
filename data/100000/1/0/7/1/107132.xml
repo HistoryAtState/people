@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>107132</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Kidd, Coburn B.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="7">
+                <name>Kidd, Coburn B.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1947v02/persons#p_KCB1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v06p1/persons#p_KIDDCB1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v06p2/persons#p_KIDDCB1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v07p1/persons#p_KCB1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v07p2/persons#p_KCB1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v05/persons#p_KCB1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v26/persons#p_KCB1</source-url>
+            </original>
+            <original source-urls="2">
+                <name>Kidd, Coburn D.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v05p1/persons#p_KIDDCD1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v05p2/persons#p_KIDDCD1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="5">
+        <remark source-urls="1">
+            <p>Division of Central European Affairs, Department of State</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1947v02/persons#p_KCB1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Director of Government and Administration in the Office of German Political Affairs, Department of State, June 1952–March 1953; Deputy Director for Government and Administration, Office of German Affairs, March 1953–September 1954; thereafter Officer in Charge of German Political Affairs.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v05p1/persons#p_KIDDCD1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v05p2/persons#p_KIDDCD1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Deputy Director of the Office of German Political Affairs, Department of State, from June 10, 1952; Officer in Charge of German Affairs, Office of German Affairs after September 26, 1954.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v06p1/persons#p_KIDDCB1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v06p2/persons#p_KIDDCB1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Deputy Director of the Office of German Political Affairs, Department of State, from June 1952; Officer in Charge of German Affairs, Office of German Affairs, from September 1954.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v07p1/persons#p_KCB1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v07p2/persons#p_KCB1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Officer in Charge of German Political Affairs, Office of German Affairs, Department of State, until September 1955; thereafter Special Assistant to the Director of the Office of German Affairs</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v05/persons#p_KCB1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v26/persons#p_KCB1</source-url>
+        </remark>
+    </remarks>
+</person>

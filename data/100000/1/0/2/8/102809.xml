@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>102809</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Cook, Mercer</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="1">
+                <name>Cook, Mercer</name>
+                <source-url>https://history.state.gov/departmenthistory/people/cook-mercer</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1903</birth-year>
+    <death-year>1987</death-year>
+    <remarks variants="1">
+        <remark source-urls="1">
+            <p>Non-career appointee. Ambassador Extraordinary and Plenipotentiary (Senegal); Ambassador Extraordinary and Plenipotentiary (Niger); Ambassador Extraordinary and Plenipotentiary (Gambia, The).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/cook-mercer</source-url>
+        </remark>
+    </remarks>
+</person>

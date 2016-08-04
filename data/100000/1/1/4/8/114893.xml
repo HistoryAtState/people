@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>114893</id>
+    <authorities>
+        <authority service="viaf">268021631</authority>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Ydígoras Fuentes, Miguel</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="2">
+                <name>Ydigoras Fuentes, General Miguel</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v05/persons#p_YF1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v10/persons#p_YF1</source-url>
+            </original>
+            <original source-urls="3">
+                <name>Ydígoras Fuentes, General Miguel</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54Guat/persons#p_YFGM1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v06/persons#p_YFGM1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v07/persons#p_YFGM1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>President-elect Ydigoras</name>
+                <source-url>https://history.state.gov/departmenthistory/visits/guatemala</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="1">
+            <title source-urls="5">
+                <name>General</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54Guat/persons#p_YFGM1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v06/persons#p_YFGM1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v07/persons#p_YFGM1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v05/persons#p_YF1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v10/persons#p_YF1</source-url>
+            </title>
+        </titles-from-name>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="5">
+        <remark source-urls="1">
+            <p>Guatemalan presidential candidate during 1950 elections</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54Guat/persons#p_YFGM1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Presidential candidate in Guatemalan election of October 20, 1957; President of Guatemala, 1959–1962</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v06/persons#p_YFGM1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v07/persons#p_YFGM1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>President of Guatemala from March 2, 1958</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v05/persons#p_YF1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>President of Guatemala</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v10/persons#p_YF1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>President-elect, Guatemala. Visited U.S. once, 1958</p>
+            <source-url>https://history.state.gov/departmenthistory/visits/guatemala</source-url>
+        </remark>
+    </remarks>
+</person>

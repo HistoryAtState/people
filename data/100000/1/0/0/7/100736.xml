@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>100736</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Badeau, Adam</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="1">
+                <name>Badeau, Adam</name>
+                <source-url>https://history.state.gov/departmenthistory/people/badeau-adam</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1831</birth-year>
+    <death-year>1895</death-year>
+    <remarks variants="1">
+        <remark source-urls="1">
+            <p>Non-career appointee. Chargé d'Affaires (Denmark); Minister Resident (Belgium).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/badeau-adam</source-url>
+        </remark>
+    </remarks>
+</person>

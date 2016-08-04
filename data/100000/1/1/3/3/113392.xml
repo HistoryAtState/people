@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>113392</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Taviani, Paolo Emilio</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="8">
+                <name>Taviani, Paolo Emilio</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v03p1/persons#p_TPE1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v03p2/persons#p_TPE1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v05p1/persons#p_TAVIANIPE1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v05p2/persons#p_TAVIANIPE1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v06p1/persons#p_TAVIANIPE1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v06p2/persons#p_TAVIANIPE1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v04/persons#p_TPE1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v27/persons#p_TPE1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="4">
+        <remark source-urls="2">
+            <p>Under Secretary to the Italian Foreign Minister.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1951v03p1/persons#p_TPE1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1951v03p2/persons#p_TPE1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Under Secretary to the Italian Minister of Foreign Affairs until July 1953; Minister of Foreign Commerce, July–August, 1953; Minister of Defense after August 1953.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v05p1/persons#p_TAVIANIPE1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v05p2/persons#p_TAVIANIPE1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Under Secretary to the Italian Ministry of Foreign Affairs until July 1953; Italian Minister of Foreign Commerce, July–August 1953; after August 17, 1953, Italian Minister of Defense.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v06p1/persons#p_TAVIANIPE1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v06p2/persons#p_TAVIANIPE1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Italian Minister of Defense</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v04/persons#p_TPE1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v27/persons#p_TPE1</source-url>
+        </remark>
+    </remarks>
+</person>

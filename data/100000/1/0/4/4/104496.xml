@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>104496</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>François-Poncet, Jean</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="3">
+                <name>François-Poncet, Jean</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v37/persons#p_FPJ_2</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v03/persons#p_FP_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v18/persons#p_FPJ_1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Francois-Poncet, Jean</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve03/persons#p_FPJ1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="4">
+        <remark source-urls="1">
+            <p>French Minister of Foreign Affairs from November 29, 1978</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v37/persons#p_FPJ_2</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>State Secretary for Foreign Affairs, Republic of France</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve03/persons#p_FPJ1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Minister of Foreign Affairs of France from November 1978</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v03/persons#p_FP_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>French Minister of Foreign Affairs from 1978 until 1981</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v18/persons#p_FPJ_1</source-url>
+        </remark>
+    </remarks>
+</person>

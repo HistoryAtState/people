@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>103642</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Dratvin, Mikhail Ivanovich</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="3">
+                <name>Dratvin, Lieutenant General Mikhail Ivanovich</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1947v02/persons#p_DMI1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1948v02/persons#p_DLGMI1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1949v03/persons#p_DLGMI1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="1">
+            <title source-urls="3">
+                <name>Lieutenant General</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1947v02/persons#p_DMI1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1948v02/persons#p_DLGMI1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1949v03/persons#p_DLGMI1</source-url>
+            </title>
+        </titles-from-name>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="3">
+        <remark source-urls="1">
+            <p>Soviet Representative on the Coordinating Committee, Allied Control Authority for Germany, March–July 1946, and from May 1947</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1947v02/persons#p_DMI1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Deputy Commander in Chief, Soviet Military Administration for Germany</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1948v02/persons#p_DLGMI1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Deputy Commander-in-Chief, Soviet Military Administration for Germany.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1949v03/persons#p_DLGMI1</source-url>
+        </remark>
+    </remarks>
+</person>

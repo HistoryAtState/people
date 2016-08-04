@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>108936</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>McNair, Arnold Duncan</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="1">
+                <name>Mcnair, Lord</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v10/persons#p_MLAD1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="1">
+            <title source-urls="1">
+                <name>Lord</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v10/persons#p_MLAD1</source-url>
+            </title>
+        </titles-from-name>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="1">
+        <remark source-urls="1">
+            <p>Judge on the International Court of Justice at the Hague, 1946–1955; President of the International Court of Justice, 1952–1955.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v10/persons#p_MLAD1</source-url>
+        </remark>
+    </remarks>
+</person>

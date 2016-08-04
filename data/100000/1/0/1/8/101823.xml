@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>101823</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Brown, Robert Lyle</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="3">
+                <name>Brown, Robert L.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v05/persons#p_BRL1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v28/persons#p_BRL_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve10/persons#p_BRL1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Brown, Robert Lyle</name>
+                <source-url>https://history.state.gov/departmenthistory/people/brown-robert-lyle</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Robert L. Brown</name>
+                <source-url>https://history.state.gov/departmenthistory/people/brown-robert-lyle</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1920</birth-year>
+    <death-year/>
+    <remarks variants="3">
+        <remark source-urls="2">
+            <p>Deputy Executive Secretary, Department of State</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v05/persons#p_BRL1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v28/persons#p_BRL_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Deputy Executive Secretary from January 1969 until September 1970; Senior Examiner on the Board of Examinations for the Foreign Service from September 1970 until December 1970; member of the Personnel Office from December 1970; Director of Personnel for Recruitment from September 1972</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve10/persons#p_BRL1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Foreign Service Officer. Inspector General of the Department of State and the Foreign Service.</p>
+            <source-url>https://history.state.gov/departmenthistory/people/brown-robert-lyle</source-url>
+        </remark>
+    </remarks>
+</person>

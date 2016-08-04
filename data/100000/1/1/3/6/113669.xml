@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>113669</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Tower, John G.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="6">
+                <name>Tower, John</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v06/persons#p_TJ1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v10/persons#p_TJ1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v26/persons#p_TJ_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v33/persons#p_TJ_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v36/persons#p_TJ1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v13/persons#p_TJ_1</source-url>
+            </original>
+            <original source-urls="4">
+                <name>Tower, John G.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v07/persons#p_TJG1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v35/persons#p_TJG_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v38p2/persons#p_TJG_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v30/persons#p_TJ_1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="7">
+        <remark source-urls="1">
+            <p>Senator (Republican-Texas)</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v06/persons#p_TJ1</source-url>
+        </remark>
+        <remark source-urls="3">
+            <p>Senator (R-Texas)</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v07/persons#p_TJG1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v33/persons#p_TJ_1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v30/persons#p_TJ_1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Republican Senator from Texas</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v10/persons#p_TJ1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v36/persons#p_TJ1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Senator (D-Texas)</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v26/persons#p_TJ_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Senator (R-Texas) and member of the Senate Committee on Armed Services</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v35/persons#p_TJG_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Senator (R–Texas); Chairman, Republican Policy Committee; Vice Chairman, Senate Select Committee to Study Government Activities with Respect to Intelligence (Church Committee), 1975–1976</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v38p2/persons#p_TJG_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Senator (R–Texas) from 1961 until 1985</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v13/persons#p_TJ_1</source-url>
+        </remark>
+    </remarks>
+</person>

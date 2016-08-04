@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>103173</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Davies, Glyn T.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="1">
+                <name>Davies, Glyn T.</name>
+                <source-url>https://history.state.gov/departmenthistory/people/davies-glyn-t</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1957</birth-year>
+    <death-year/>
+    <remarks variants="1">
+        <remark source-urls="1">
+            <p>Foreign Service Officer. Representative of the U.S.A. to the Vienna Office of the United Nations (Vienna); Representative of the U.S.A. to the International Atomic Energy Agency (Vienna).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/davies-glyn-t</source-url>
+        </remark>
+    </remarks>
+</person>

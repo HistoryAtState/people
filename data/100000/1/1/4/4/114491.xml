@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>114491</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>White, Andrew Dickson</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="1">
+                <name>White, Andrew Dickson</name>
+                <source-url>https://history.state.gov/departmenthistory/people/white-andrew-dickson</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Andrew D. White</name>
+                <source-url>https://history.state.gov/departmenthistory/people/white-andrew-dickson</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1832</birth-year>
+    <death-year>1918</death-year>
+    <remarks variants="1">
+        <remark source-urls="1">
+            <p>Non-career appointee. Envoy Extraordinary and Minister Plenipotentiary (Russia); Envoy Extraordinary and Minister Plenipotentiary (Germany); Ambassador Extraordinary and Plenipotentiary (Germany).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/white-andrew-dickson</source-url>
+        </remark>
+    </remarks>
+</person>

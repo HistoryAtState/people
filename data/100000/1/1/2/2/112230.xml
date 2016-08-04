@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>112230</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Senko, Michael James</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="1">
+                <name>Senko, Michael James</name>
+                <source-url>https://history.state.gov/departmenthistory/people/senko-michael-james</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Michael J. Senko</name>
+                <source-url>https://history.state.gov/departmenthistory/people/senko-michael-james</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1950</birth-year>
+    <death-year/>
+    <remarks variants="1">
+        <remark source-urls="1">
+            <p>Foreign Service Officer. Ambassador Extraordinary and Plenipotentiary (Marshall Islands); Ambassador Extraordinary and Plenipotentiary (Kiribati).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/senko-michael-james</source-url>
+        </remark>
+    </remarks>
+</person>

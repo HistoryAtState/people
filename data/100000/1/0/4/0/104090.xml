@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>104090</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Evron, Ephraim</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="7">
+                <name>Evron, Ephraim</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v18/persons#p_EE1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v19/persons#p_EE1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v20/persons#p_EE1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v25/persons#p_EE_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v26/persons#p_EE_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v08/persons#p_EE_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v18/persons#p_EE_1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="5">
+        <remark source-urls="1">
+            <p>Minister, Embassy of Israel, until December 1967</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v18/persons#p_EE1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Minister of the Israeli Embassy in the United States</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v19/persons#p_EE1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Minister of the Israeli Embassy in Washington until June 1968</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v20/persons#p_EE1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Deputy Director General, Israeli Ministry of Foreign Affairs</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v25/persons#p_EE_1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v26/persons#p_EE_1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Director-General of the Israeli Foreign Ministry</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v08/persons#p_EE_1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v18/persons#p_EE_1</source-url>
+        </remark>
+    </remarks>
+</person>

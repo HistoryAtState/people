@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>104521</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Fraser, Donald MacKay</name>
+        </preferred>
+        <alternates/>
+        <originals variants="4">
+            <original source-urls="1">
+                <name>Fraser</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v16/persons#p_Fraser1</source-url>
+            </original>
+            <original source-urls="4">
+                <name>Fraser, Donald M.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v10/persons#p_FDM1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v38p1/persons#p_FDM_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v38p2/persons#p_FDM_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v02/persons#p_FDM_1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Fraser, Donald</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v29/persons#p_FD2</source-url>
+            </original>
+            <original source-urls="4">
+                <name>Fraser, Donald MacKay</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve03/persons#p_FDMK1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve11p1/persons#p_FDM_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve11p2/persons#p_FDM_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve14p1/persons#p_FDMK1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="10">
+        <remark source-urls="1">
+            <p>Donald, Congressman (D-Minnesota)</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v16/persons#p_Fraser1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Democratic Representative from Minnesota</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v10/persons#p_FDM1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Representative (D–Minnesota)</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v29/persons#p_FD2</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>member, U.S. House of Representatives (DFL–Minnesota)</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v38p1/persons#p_FDM_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Representative (DFL–Minnesota)</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v38p2/persons#p_FDM_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Democratic Representative from Minnesota, Chairman, Subcommittee on International Organizations and Movements, Committee on Foreign Affairs, U.S. House of Representatives; Congressional Adviser to the United States delegation to the United Nations Human Rights Commission and to the United States delegation to the 3rd United Nations Conference on the Law of the Sea; Member, United States delegation to the 7th Special Session and the 30th Session of the United Nations General Assembly</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve03/persons#p_FDMK1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Member, U.S. House of Representatives (D-Minnesota); Chair of the International Organizations Subcommittee of the House Committee on International Relations, 1976</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve11p1/persons#p_FDM_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Member, U.S. House of Representatives (D-Minnesota), Chair of the International Organizations Subcommittee of the House Committee on International Relations, 1976</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve11p2/persons#p_FDM_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Democratic Representative from Minnesota; Chairman, Subcommittee on International Organizations and Movements, Committee on Foreign Affairs; Congressional Adviser to the U.S. Delegation to the United Nations Human Rights Commission and to the U.S. Delegation to the Third United Nations Conference on the Law of the Sea; Member of United States delegation to the Seventh Special Session and the 30th Session of the United Nations General Assembly</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve14p1/persons#p_FDMK1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>member, U.S. House of Representatives (DFL-Minnesota) until January 3, 1979</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v02/persons#p_FDM_1</source-url>
+        </remark>
+    </remarks>
+</person>

@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>102165</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Cao Van Vien</name>
+        </preferred>
+        <alternates/>
+        <originals variants="4">
+            <original source-urls="7">
+                <name>Cao Van Vien</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v02/persons#p_CVV1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v03/persons#p_CVV1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v04/persons#p_CVV1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v05/persons#p_CVV1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v06/persons#p_CVV1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v09/persons#p_CVV_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v10/persons#p_CVV1</source-url>
+            </original>
+            <original source-urls="4">
+                <name>Vien</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v02/persons#p_VIEN1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v03/persons#p_Vien1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v04/persons#p_Vien1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v06/persons#p_VIEN1</source-url>
+            </original>
+            <original source-urls="2">
+                <name>Cau Van Vien, General</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v06/persons#p_CVVG1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v20/persons#p_CVV1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Vien, Cao Van</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v09/persons#p_CVV_1alt1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="1">
+            <title source-urls="2">
+                <name>General</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v06/persons#p_CVVG1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v20/persons#p_CVV1</source-url>
+            </title>
+        </titles-from-name>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="7">
+        <remark source-urls="2">
+            <p>General, ARVN, Commander of III Corps; Chief of the Vietnamese Joint General Staff from September 1965</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v02/persons#p_CVV1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v03/persons#p_CVV1</source-url>
+        </remark>
+        <remark source-urls="5">
+            <p>see Cao Van Vien</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v02/persons#p_VIEN1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v03/persons#p_Vien1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v04/persons#p_Vien1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v06/persons#p_VIEN1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v09/persons#p_CVV_1alt1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>General, ARVN, Chief of the Joint General Staff</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v04/persons#p_CVV1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>General, ARVN, Chief of the Joint General Staff; also Minister of Defense, January–October 1967</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v05/persons#p_CVV1</source-url>
+        </remark>
+        <remark source-urls="3">
+            <p>Chairman, Joint General Staff, Republic of Vietnam Armed Forces</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v06/persons#p_CVV1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v06/persons#p_CVVG1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v20/persons#p_CVV1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>General, ARVN, and Chief, Joint General Staff</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v09/persons#p_CVV_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>General, Chief of General Staff, Republic of Vietnam Armed Forces</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v10/persons#p_CVV1</source-url>
+        </remark>
+    </remarks>
+</person>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>102605</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Clark, Joshua Reuben, Jr.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="1">
+                <name>Clark, Joshua Reuben, Jr.</name>
+                <source-url>https://history.state.gov/departmenthistory/people/clark-joshua-reuben</source-url>
+            </original>
+            <original source-urls="1">
+                <name>J. Reuben Clark, Jr.</name>
+                <source-url>https://history.state.gov/departmenthistory/people/clark-joshua-reuben</source-url>
+            </original>
+            <original source-urls="1">
+                <name>J. Reuben Clark Jr.</name>
+                <source-url>https://history.state.gov/departmenthistory/people/clark-joshua-reuben</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1871</birth-year>
+    <death-year>1961</death-year>
+    <remarks variants="1">
+        <remark source-urls="1">
+            <p>Non-career appointee. Under Secretary of State; Ambassador Extraordinary and Plenipotentiary (Mexico).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/clark-joshua-reuben</source-url>
+        </remark>
+    </remarks>
+</person>

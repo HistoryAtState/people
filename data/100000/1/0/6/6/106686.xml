@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>106686</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Johnston, Eric A.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="2">
+                <name>Johnston, Eric A</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v04p1/persons#p_JEA1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v04p2/persons#p_JEA1</source-url>
+            </original>
+            <original source-urls="12">
+                <name>Johnston, Eric</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v09p1/persons#p_JE1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v09p2/persons#p_JE1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v10/persons#p_JE1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v12/persons#p_JE1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v13/persons#p_JE1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v14/persons#p_JE1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v15/persons#p_JE1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v16/persons#p_JE1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v04/persons#p_JE1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v10p1/persons#p_JE1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v10p2/persons#p_JE1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v13/persons#p_JE1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Johnston, Eric A.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v17/persons#p_JEA1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="9">
+        <remark source-urls="2">
+            <p>Administrator, Economic Stabilization Agency</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1951v04p1/persons#p_JEA1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1951v04p2/persons#p_JEA1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Chairman, Advisory Board for International Development from 1952; Personal Representative of the President with rank of Ambassador to the Middle East from 1953.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v09p1/persons#p_JE1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v09p2/persons#p_JE1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Chairman, International Development Advisory Board, Foreign Operations Administration (after 1956, International Cooperation Administration)</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v10/persons#p_JE1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Chairman of the International Development Advisory Board, Foreign Operations Administration (International Cooperation Administration from 1956)</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v12/persons#p_JE1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Chairman of the International Development Advisory Board, Foreign Operations Administration, until 1956; Chairman, International Development Advisory Board, International Cooperation Administration, from 1956; Personal Representative of the President to the Middle East, with the rank of Ambassador</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v13/persons#p_JE1</source-url>
+        </remark>
+        <remark source-urls="3">
+            <p>Chairman of the International Development Advisory Board, Foreign Operations Administration (after 1956, International Cooperation Administration)</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v14/persons#p_JE1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v15/persons#p_JE1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v16/persons#p_JE1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Chairman of the International Development Advisory Board, International Cooperation Administration</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v17/persons#p_JEA1</source-url>
+        </remark>
+        <remark source-urls="3">
+            <p>President of the Motion Picture Association of America</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v04/persons#p_JE1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v10p1/persons#p_JE1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v10p2/persons#p_JE1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Personal Representative of the President to the Middle East with rank of Ambassador</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v13/persons#p_JE1</source-url>
+        </remark>
+    </remarks>
+</person>

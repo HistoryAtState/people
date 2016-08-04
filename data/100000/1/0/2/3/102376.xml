@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>102376</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Chancellor, John</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="5">
+                <name>Chancellor, John</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v02/persons#p_CJ1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v03/persons#p_CJ1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v13/persons#p_CJ1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v14/persons#p_CJ8</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v01/persons#p_CJ_1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="4">
+        <remark source-urls="2">
+            <p>Assistant Director of the United States Information Agency after August 27, 1965</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v02/persons#p_CJ1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v03/persons#p_CJ1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>anchor on NBC Nightly News</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v13/persons#p_CJ1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>anchor on the NBC Nightly News</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v14/persons#p_CJ8</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Director, Voice of America, from 1965 until 1967; anchor, NBC Nightly News from 1970</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v01/persons#p_CJ_1</source-url>
+        </remark>
+    </remarks>
+</person>

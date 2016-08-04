@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>107158</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Killough, T. Patrick</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="1">
+                <name>Killough, T. Patrick</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v27/persons#p_KTP_1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="1">
+        <remark source-urls="1">
+            <p>Economic and Commercial Officer, then Acting Principal Officer, U.S. Interests Section in Baghdad, from August until October 1975</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v27/persons#p_KTP_1</source-url>
+        </remark>
+    </remarks>
+</person>

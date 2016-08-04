@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>100130</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Aga Khan, Sadruddin</name>
+        </preferred>
+        <alternates/>
+        <originals variants="5">
+            <original source-urls="1">
+                <name>Aga Khan, Sadruddin</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v25/persons#p_AKS1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Sadruddin Aga Khan</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v05/persons#p_SAK1</source-url>
+            </original>
+            <original source-urls="2">
+                <name>Agha Khan, Prince Sadruddin</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v11/persons#p_AKPS1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve04/persons#p_AKS1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Aga Khan, Prince Sadruddin</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve01/persons#p_AKS1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Agha Khan</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve07/persons#p_AKS1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="1">
+            <title source-urls="4">
+                <name>Prince</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v11/persons#p_AKPS1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve01/persons#p_AKS1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve04/persons#p_AKS1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve07/persons#p_AKS1</source-url>
+            </title>
+        </titles-from-name>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="6">
+        <remark source-urls="1">
+            <p>Deputy UN High Commissioner for Refugees from February 1, 1962</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v25/persons#p_AKS1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Prince, United Nations High Commissioner for Refugees</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v05/persons#p_SAK1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>United Nations High Commissioner for Refugees</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v11/persons#p_AKPS1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>United Nations High Commissioner for Refugees, 1965–1977</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve01/persons#p_AKS1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>UN High Commissioner for Refugees</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve04/persons#p_AKS1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Prince Sadruddin, United Nations High Commissioner for Refugees</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve07/persons#p_AKS1</source-url>
+        </remark>
+    </remarks>
+</person>

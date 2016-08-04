@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>113429</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Tedder, Arthur William</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="1">
+                <name>Tedder, Sir Arthur</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1943CairoTehran/persons#p_TSA1</source-url>
+            </original>
+            <original source-urls="2">
+                <name>Tedder, Air Chief Marshal Sir Arthur</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv01/persons#p_TACMSA1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945Malta/persons#p_T2</source-url>
+            </original>
+            <original source-urls="2">
+                <name>Tedder, Baron (Arthur William Tedder)</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v03p1/persons#p_TBAWT1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v03p2/persons#p_TBAWT1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="3">
+            <title source-urls="1">
+                <name>Sir</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1943CairoTehran/persons#p_TSA1</source-url>
+            </title>
+            <title source-urls="2">
+                <name>Air Chief Marshal Sir</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv01/persons#p_TACMSA1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945Malta/persons#p_T2</source-url>
+            </title>
+            <title source-urls="2">
+                <name>Baron</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v03p1/persons#p_TBAWT1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v03p2/persons#p_TBAWT1</source-url>
+            </title>
+        </titles-from-name>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="4">
+        <remark source-urls="1">
+            <p>Air Chief Marshal, Air Commander-in-Chief, Mediterranean Air Command.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1943CairoTehran/persons#p_TSA1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>(British) Deputy Supreme Commander, Allied Expeditionary Force.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv01/persons#p_TACMSA1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Deputy Supreme Commander, Allied Expeditionary Force.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1945Malta/persons#p_T2</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Marshal of the Royal Air Force; British Permanent Representative, NATO Standing Group, until April 1951.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1951v03p1/persons#p_TBAWT1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1951v03p2/persons#p_TBAWT1</source-url>
+        </remark>
+    </remarks>
+</person>

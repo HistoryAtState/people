@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>105747</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Heck, Louis Douglas</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="3">
+                <name>Heck, L. Douglas</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v25/persons#p_HLD1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v27/persons#p_HLD_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve04/persons#p_HLD1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Heck, Louis Douglas</name>
+                <source-url>https://history.state.gov/departmenthistory/people/heck-louis-douglas</source-url>
+            </original>
+            <original source-urls="1">
+                <name>L. Douglas Heck</name>
+                <source-url>https://history.state.gov/departmenthistory/people/heck-louis-douglas</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1918</birth-year>
+    <death-year/>
+    <remarks variants="4">
+        <remark source-urls="1">
+            <p>Country Director for India, Ceylon, and Nepal-Maldive Affairs, Bureau of Near Eastern and South Asian Affairs, Department of State, October 1966–July 1968</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v25/persons#p_HLD1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Deputy Chief of Mission of the Embassy in Iran from July 1970 until April 1974</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v27/persons#p_HLD_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Deputy Chief of Mission at the Embassy in Iran from July 1970</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve04/persons#p_HLD1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Foreign Service Officer. Director of the Bureau of Counterterrorism; Ambassador Extraordinary and Plenipotentiary (Niger); Ambassador Extraordinary and Plenipotentiary (Nepal); Chargé d'Affaires ad interim (Nepal); Chargé d'Affaires ad interim (Cyprus).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/heck-louis-douglas</source-url>
+        </remark>
+    </remarks>
+</person>

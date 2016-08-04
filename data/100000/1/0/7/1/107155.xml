@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>107155</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Killick, John F.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="1">
+                <name>Killick, John F.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v34/persons#p_KJF1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Killick, Sir John</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v30/persons#p_KJF1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="1">
+            <title source-urls="1">
+                <name>Sir</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v30/persons#p_KJF1</source-url>
+            </title>
+        </titles-from-name>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="2">
+        <remark source-urls="1">
+            <p>Counselor of the British Embassy in Washington</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v34/persons#p_KJF1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Deputy Under Secretary of State, British Foreign and Commonwealth Office from 1973 until 1975; Ambassador and UK Permanent Representative to NATO from 1975</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v30/persons#p_KJF1</source-url>
+        </remark>
+    </remarks>
+</person>

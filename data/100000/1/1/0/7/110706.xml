@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>110706</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Phoui Sananikone</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="5">
+                <name>Phoui Sananikone</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v16/persons#p_PS1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v21/persons#p_PS2</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v16/persons#p_PS1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v24/persons#p_PS1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v28/persons#p_PS2</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="5">
+        <remark source-urls="1">
+            <p>Vice President of the Council of Ministers and Minister of the Interior and of Foreign Affairs of Laos; Head of the Laotian Delegation at the Geneva Conference.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v16/persons#p_PS1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Deputy Prime Minister and Minister of Foreign Affairs of Laos to March 1956; Minister of Foreign Affairs, Public Works, Reconstruction and Urbanism, August–November 1957; thereafter Minister of Foreign Affairs</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v21/persons#p_PS2</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Lao Minister of Foreign Affairs until July 1958; Prime Minister and Minister of Planning, National Economy, Public Works, Posts, and Telecommunications, August 1958–December 1959</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v16/persons#p_PS1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Chairman of the Royal Lao Government Delegation to the Geneva Conference</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v24/persons#p_PS1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>President of the Lao National Assembly until September 1965 and again in 1968</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v28/persons#p_PS2</source-url>
+        </remark>
+    </remarks>
+</person>

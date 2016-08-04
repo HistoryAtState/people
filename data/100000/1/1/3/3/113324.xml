@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>113324</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Talbott, Strobe (Nelson Strobridge), III</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="1">
+                <name>Talbott, Strobe (Nelson Strobridge), III</name>
+                <source-url>https://history.state.gov/departmenthistory/people/talbott-strobe-nelson-strobridge</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Strobe Talbott</name>
+                <source-url>https://history.state.gov/departmenthistory/people/talbott-strobe-nelson-strobridge</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1946</birth-year>
+    <death-year/>
+    <remarks variants="1">
+        <remark source-urls="1">
+            <p>Non-career appointee. Deputy Secretary of State; Ambassador at Large.</p>
+            <source-url>https://history.state.gov/departmenthistory/people/talbott-strobe-nelson-strobridge</source-url>
+        </remark>
+    </remarks>
+</person>

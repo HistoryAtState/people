@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>108311</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Macovescu, Gheorghe</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="1">
+                <name>Macovescu, George</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v06/persons#p_MG1</source-url>
+            </original>
+            <original source-urls="4">
+                <name>Macovescu, Gheorghe</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v29/persons#p_MG1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v39/persons#p_MG4</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve15p1/persons#p_MG4</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v20/persons#p_MG_1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="5">
+        <remark source-urls="1">
+            <p>First Deputy Foreign Minister of RomaniaMai Van Bo, Democratic Republic of Vietnam Representative to France</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v06/persons#p_MG1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Romanian First Deputy Prime Minister</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v29/persons#p_MG1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>First Deputy Minister of Foreign Affairs of Romania until 1972; Minister of Foreign Affairs of Romania from October 1972</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v39/persons#p_MG4</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Romanian First Deputy Prime Minister until February 28, 1974; then Minister of Foreign Affairs until 1978</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve15p1/persons#p_MG4</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Romanian Minister of Foreign Affairs from 1972 until 1978</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v20/persons#p_MG_1</source-url>
+        </remark>
+    </remarks>
+</person>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>102634</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Claxton, Brooke</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="7">
+                <name>Claxton, Brooke</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1946v03/persons#p_CB1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v03p1/persons#p_CB1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v03p2/persons#p_CB1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v05p1/persons#p_CLAXTONB1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v05p2/persons#p_CLAXTONB1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v06p1/persons#p_CLAXTONB1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v06p2/persons#p_CLAXTONB1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="3">
+        <remark source-urls="1">
+            <p>Member of the Canadian Delegation; Canadian Minister of National Health and Welfare</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1946v03/persons#p_CB1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Canadian Minister of National Defense.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1951v03p1/persons#p_CB1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1951v03p2/persons#p_CB1</source-url>
+        </remark>
+        <remark source-urls="4">
+            <p>Canadian Minister of National Defense until July 1, 1954.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v05p1/persons#p_CLAXTONB1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v05p2/persons#p_CLAXTONB1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v06p1/persons#p_CLAXTONB1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v06p2/persons#p_CLAXTONB1</source-url>
+        </remark>
+    </remarks>
+</person>

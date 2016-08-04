@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>112679</id>
+    <authorities>
+        <authority service="viaf">59144119</authority>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Smuts, Jan Christian</name>
+        </preferred>
+        <alternates/>
+        <originals variants="4">
+            <original source-urls="1">
+                <name>Prime Minister Smuts</name>
+                <source-url>https://history.state.gov/departmenthistory/visits/south-africa</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Smuts, Jan Christian</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1943CairoTehran/persons#p_SJC1</source-url>
+            </original>
+            <original source-urls="2">
+                <name>Smuts, Field Marshal Jan Christian</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv01/persons#p_SFMJC1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945v01/persons#p_SMJC1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Smuts, Field Marshal Jan Christiaan</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1946v03/persons#p_SFMJC1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="1">
+            <title source-urls="3">
+                <name>Field Marshal</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv01/persons#p_SFMJC1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945v01/persons#p_SMJC1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1946v03/persons#p_SFMJC1</source-url>
+            </title>
+        </titles-from-name>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="5">
+        <remark source-urls="1">
+            <p>Prime Minister, South Africa; Union of South Africa. Visited U.S. 2 times, 1945–1946</p>
+            <source-url>https://history.state.gov/departmenthistory/visits/south-africa</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Field Marshal, Prime Minister of the Union of South Africa.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1943CairoTehran/persons#p_SJC1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>South African Prime Minister.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv01/persons#p_SFMJC1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>South African Prime Minister and Minister of External Affairs and Defense; Chairman of Delegation of the Union of South Africa.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1945v01/persons#p_SMJC1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Chief of the South African Delegation; Prime Minister and Minister of Defense of the Union of South Africa</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1946v03/persons#p_SFMJC1</source-url>
+        </remark>
+    </remarks>
+</person>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>101408</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Blancke, Wilton Wendell</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="1">
+                <name>Blancké, W. Wendell</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v21/persons#p_BWW1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Blancke, Wilton Wendell</name>
+                <source-url>https://history.state.gov/departmenthistory/people/blancke-wilton-wendell</source-url>
+            </original>
+            <original source-urls="1">
+                <name>W. Wendell Blancke</name>
+                <source-url>https://history.state.gov/departmenthistory/people/blancke-wilton-wendell</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1908</birth-year>
+    <death-year>1971</death-year>
+    <remarks variants="2">
+        <remark source-urls="1">
+            <p>First Secretary of the Embassy in Laos, April–July 1955; Counselor, July 1955–summer 1957</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v21/persons#p_BWW1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Foreign Service Officer. Ambassador Extraordinary and Plenipotentiary (Gabon); Ambassador Extraordinary and Plenipotentiary (Congo (Brazzaville)); Ambassador Extraordinary and Plenipotentiary (Chad); Ambassador Extraordinary and Plenipotentiary (Central African Republic).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/blancke-wilton-wendell</source-url>
+        </remark>
+    </remarks>
+</person>

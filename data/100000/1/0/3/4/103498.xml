@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>103498</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Dingeman, James W.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="2">
+                <name>Dingeman, Major James W.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v03/persons#p_DMJW1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v04/persons#p_DMJW1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="1">
+            <title source-urls="2">
+                <name>Major</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v03/persons#p_DMJW1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v04/persons#p_DMJW1</source-url>
+            </title>
+        </titles-from-name>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="1">
+        <remark source-urls="2">
+            <p>USA, Executive Secretary of the Special Group for Counterinsurgency</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v03/persons#p_DMJW1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v04/persons#p_DMJW1</source-url>
+        </remark>
+    </remarks>
+</person>

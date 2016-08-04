@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>114418</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Welles, Benjamin Sumner</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="1">
+                <name>Welles, Benjamin Sumner</name>
+                <source-url>https://history.state.gov/departmenthistory/people/welles-benjamin-sumner</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Sumner Welles</name>
+                <source-url>https://history.state.gov/departmenthistory/people/welles-benjamin-sumner</source-url>
+            </original>
+            <original source-urls="2">
+                <name>Welles, Sumner</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv01/persons#p_WS1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945Malta/persons#p_WS2</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1892</birth-year>
+    <death-year>1961</death-year>
+    <remarks variants="2">
+        <remark source-urls="1">
+            <p>Foreign Service Officer. Under Secretary of State; Assistant Secretary of State; Ambassador Extraordinary and Plenipotentiary (Cuba).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/welles-benjamin-sumner</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Under Secretary of State, 1937–1943.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv01/persons#p_WS1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1945Malta/persons#p_WS2</source-url>
+        </remark>
+    </remarks>
+</person>

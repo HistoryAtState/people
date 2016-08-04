@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>102460</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Chen Yi</name>
+        </preferred>
+        <alternates>
+            <name>Ch’en I</name>
+            <name>Ch’en Yi</name>
+        </alternates>
+        <originals variants="6">
+            <original source-urls="1">
+                <name>Chen Yi, Marshal</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v01/persons#p_CYM1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Ch’en Yi</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v19/persons#p_CY1</source-url>
+            </original>
+            <original source-urls="2">
+                <name>Chen Yi</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v02/persons#p_CYCY2</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v24/persons#p_CY1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Ch'en Yi (Chen Yi)</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v22/persons#p_CYCY1</source-url>
+            </original>
+            <original source-urls="2">
+                <name>Ch'en Yi</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v02/persons#p_CY1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v03/persons#p_CY1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Chen I</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v30/persons#p_CI1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="1">
+            <title source-urls="1">
+                <name>Marshal</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v01/persons#p_CYM1</source-url>
+            </title>
+        </titles-from-name>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="5">
+        <remark source-urls="1">
+            <p>Foreign Minister of the People’s Republic of China from February 1958</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v01/persons#p_CYM1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Vice Premier of the State Council of the People’s Republic of China; Foreign Minister from February 1958</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v19/persons#p_CY1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>President of the Chinese Institute of Foreign Affairs and People's Republic of China delegate at the Geneva Conference on Laos</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v02/persons#p_CYCY2</source-url>
+        </remark>
+        <remark source-urls="4">
+            <p>Foreign Minister of the People's Republic of China</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v22/persons#p_CYCY1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v02/persons#p_CY1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v03/persons#p_CY1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v30/persons#p_CI1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Foreign Minister of the People's Republic of China and delegate to the Geneva Conference on Laos</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v24/persons#p_CY1</source-url>
+        </remark>
+    </remarks>
+</person>

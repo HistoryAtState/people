@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>108267</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>MacDonald, James Ramsay</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="1">
+                <name>MacDonald, James Ramsay</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v03/persons#p_MJR_1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Prime Minister MacDonald</name>
+                <source-url>https://history.state.gov/departmenthistory/visits/united-kingdom</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="2">
+        <remark source-urls="1">
+            <p>Prime Minister of the United Kingdom from January 1924 until November 1924 and from June 1929 until June 1935</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v03/persons#p_MJR_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Prime Minister, United Kingdom. Visited U.S. 2 times, 1929–1933</p>
+            <source-url>https://history.state.gov/departmenthistory/visits/united-kingdom</source-url>
+        </remark>
+    </remarks>
+</person>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>112954</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Stein, Robert Andrew</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="3">
+                <name>Stein, Robert A.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v16/persons#p_SRA1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v24/persons#p_SRA3</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve09p1/persons#p_SRA_1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Stein, Robert Andrew</name>
+                <source-url>https://history.state.gov/departmenthistory/people/stein-robert-andrew</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Robert A. Stein</name>
+                <source-url>https://history.state.gov/departmenthistory/people/stein-robert-andrew</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1919</birth-year>
+    <death-year/>
+    <remarks variants="4">
+        <remark source-urls="1">
+            <p>Adviser to the Bureau of Near Eastern and South Asian Affairs, Department of State</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v16/persons#p_SRA1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Office of Regional Affairs, Bureau of Near Eastern and South Asian Affairs, Department of State, until February 1970; Deputy Chief of Mission in Nouakchott, Mauritania, from February 1970 until February 1972, Principal Officer, Interests Section, Sanaa, North Yemen, from February until July 1972; Chargé d’Affaires ad interim, Sanaa, from July until November 1972; Deputy Chief of Mission, Sanaa, from November 1972 until January 1973</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v24/persons#p_SRA3</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Chargé d’Affaires ad interim to Libya from December 1973 until December 1974</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve09p1/persons#p_SRA_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Foreign Service Officer. Chargé d'Affaires ad interim (Yemen); Chargé d'Affaires ad interim (Mauritania); Chargé d'Affaires ad interim (Libya).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/stein-robert-andrew</source-url>
+        </remark>
+    </remarks>
+</person>

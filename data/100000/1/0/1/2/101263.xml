@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>101263</id>
+    <authorities>
+        <authority service="viaf">112010772</authority>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Betancourt, Rómulo</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="5">
+                <name>Betancourt, Rómulo</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v04/persons#p_BR1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v06/persons#p_BR1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v07/persons#p_BR1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v06/persons#p_BR1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v31/persons#p_BR1</source-url>
+            </original>
+            <original source-urls="3">
+                <name>Betancourt, Romulo</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v05/persons#p_BR1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v12/persons#p_BR3</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v21/persons#p_BR_1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>President Betancourt</name>
+                <source-url>https://history.state.gov/departmenthistory/visits/venezuela</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="8">
+        <remark source-urls="1">
+            <p>organizer and leader of the Acción Democrática political party in Venezuela; in political exile, 1948–1958.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v04/persons#p_BR1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>organizer and leader of the Acción Democrática political party in Venezuela; in political exile, 1948–1958</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v06/persons#p_BR1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v07/persons#p_BR1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>President of Venezuela from February 13, 1959</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v05/persons#p_BR1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>President of Venezuela from February 1959</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v06/persons#p_BR1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>President of Venezuela</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v12/persons#p_BR3</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>President of Venezuela until March 11, 1964</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v31/persons#p_BR1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>member of Acción Democritica (Democratic Action Party, Venezuela); Venezuelan President from 1958 until March 11, 1964; Venezuelan politician from 1972 until 1973</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v21/persons#p_BR_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>President, Venezuela. Visited U.S. once, 1963</p>
+            <source-url>https://history.state.gov/departmenthistory/visits/venezuela</source-url>
+        </remark>
+    </remarks>
+</person>

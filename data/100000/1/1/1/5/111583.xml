@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>111583</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Roosevelt, Robert Barnwell</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="1">
+                <name>Roosevelt, Robert Barnwell</name>
+                <source-url>https://history.state.gov/departmenthistory/people/roosevelt-robert-barnwell</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Robert D. Roosevelt</name>
+                <source-url>https://history.state.gov/departmenthistory/people/roosevelt-robert-barnwell</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1829</birth-year>
+    <death-year>1906</death-year>
+    <remarks variants="1">
+        <remark source-urls="1">
+            <p>Non-career appointee. Minister Resident (Netherlands); Envoy Extraordinary and Minister Plenipotentiary (Netherlands).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/roosevelt-robert-barnwell</source-url>
+        </remark>
+    </remarks>
+</person>

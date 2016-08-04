@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>111587</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Root, John Frick</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="2">
+                <name>Root, John Frick</name>
+                <source-url>https://history.state.gov/departmenthistory/people/root-john-frick</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v05/persons#p_RJF1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>John F. Root</name>
+                <source-url>https://history.state.gov/departmenthistory/people/root-john-frick</source-url>
+            </original>
+            <original source-urls="6">
+                <name>Root, John F.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v11p1/persons#p_RJF1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v11p2/persons#p_RJF1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v13/persons#p_RJF1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v21/persons#p_RJF2</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v24/persons#p_RJF2</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve05p2/persons#p_RJF1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1918</birth-year>
+    <death-year>1988</death-year>
+    <remarks variants="7">
+        <remark source-urls="1">
+            <p>Foreign Service Officer. Ambassador Extraordinary and Plenipotentiary (Côte d’Ivoire).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/root-john-frick</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Second Secretary of the Embassy in the United Kingdom.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1951v05/persons#p_RJF1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Second Secretary and Vice Consul of the Embassy in the United Kingdom until February 21, 1952; Second Secretary and Consul, February 21–June 25, 1952; thereafter, Office of African Affairs, Bureau of Near Eastern, South Asian, and African Affairs, Department of State.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v11p1/persons#p_RJF1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v11p2/persons#p_RJF1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Deputy Director, Office of Northern African Affairs, Bureau of African Affairs, Department of State, from August 1959</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v13/persons#p_RJF1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Deputy Director, Office of Northern African Affairs, Department of State, until August 1962</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v21/persons#p_RJF2</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Director, Office of Northern African Affairs, Bureau of African Affairs, Department of State, December 1965–June 1967; thereafter Country Director for Algeria, Libya, Morocco, Spanish Sahara, and Tunisia</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v24/persons#p_RJF2</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Country Director for Northern African Affairs, Department of State, to November 1969</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve05p2/persons#p_RJF1</source-url>
+        </remark>
+    </remarks>
+</person>

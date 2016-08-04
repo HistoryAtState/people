@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>107454</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Kristensen, Thorkil</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="5">
+                <name>Kristensen, Thorkil</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v03p1/persons#p_KT1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v03p2/persons#p_KT1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v05p1/persons#p_KRISTENSENT1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v05p2/persons#p_KRISTENSENT1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v09/persons#p_KT4</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="3">
+        <remark source-urls="2">
+            <p>Danish Minister of Finance.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1951v03p1/persons#p_KT1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1951v03p2/persons#p_KT1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Danish Minister of Finance until September 20, 1953.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v05p1/persons#p_KRISTENSENT1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v05p2/persons#p_KRISTENSENT1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Secretary-General of the Organization for Economic Cooperation and Development</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v09/persons#p_KT4</source-url>
+        </remark>
+    </remarks>
+</person>

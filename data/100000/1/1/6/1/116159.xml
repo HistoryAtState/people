@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>116159</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Strasser, Daniel A.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="2">
+                <name>Strasser, Daniel A.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve11p1/persons#p_SDA_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve11p2/persons#p_SDA_1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="2">
+        <remark source-urls="1">
+            <p>Political Officer, U.S. consulate at Rio de Janeiro, until August 1974; Political Officer, U.S. Embassy in Bogotá, from August 1974 until September 1974; Country Officer, U.S. Embassy in Santo Domingo, from 1974; staff member, Office of Caribbean Affairs, Bureau of Inter-American Affairs, as of April 1976</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve11p1/persons#p_SDA_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Political Officer, U.S. Consulate in Rio de Janeiro, to August 1974; Political Officer, U.S. Embassy in Bógota, from August 1974 to September 1974; Country Officer for Dominican Republic, from 1974; Staff, Office of Caribbean Affairs, as of April 1976</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve11p2/persons#p_SDA_1</source-url>
+        </remark>
+    </remarks>
+</person>

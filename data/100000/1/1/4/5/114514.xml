@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>114514</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>White, Robert Edward</name>
+        </preferred>
+        <alternates/>
+        <originals variants="4">
+            <original source-urls="1">
+                <name>White, Robert E.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve10/persons#p_WRE1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>White, Robert</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v02/persons#p_WR_1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>White, Robert Edward</name>
+                <source-url>https://history.state.gov/departmenthistory/people/white-robert-edward</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Robert E. White</name>
+                <source-url>https://history.state.gov/departmenthistory/people/white-robert-edward</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1926</birth-year>
+    <death-year>2015</death-year>
+    <remarks variants="3">
+        <remark source-urls="1">
+            <p>Deputy Chief of Mission, U.S. Embassy in Managua from 1970 until 1972</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve10/persons#p_WRE1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Ambassador to Paraguay from November 30, 1977, until January 27,1980; Ambassador to El Salvador from March 11, 1980</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v02/persons#p_WR_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Foreign Service Officer. Ambassador Extraordinary and Plenipotentiary (Paraguay); Ambassador Extraordinary and Plenipotentiary (El Salvador).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/white-robert-edward</source-url>
+        </remark>
+    </remarks>
+</person>

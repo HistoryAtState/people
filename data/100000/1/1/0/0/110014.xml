@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>110014</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Odría y Amoretti, Manuel A.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="3">
+                <name>Odría y Amoretti, Manuel A.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v04/persons#p_OYAMA1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v06/persons#p_OAMA1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v07/persons#p_OAMA1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Odrié, Manuel</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v12/persons#p_OM3</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="3">
+        <remark source-urls="1">
+            <p>President of Peru from July 28, 1950 until July 28, 1956.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v04/persons#p_OYAMA1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>President of Peru until July 28, 1956</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v06/persons#p_OAMA1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v07/persons#p_OAMA1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>former President of Peru; candidate for the Peruvian Presidency, June 1962, June 1963</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v12/persons#p_OM3</source-url>
+        </remark>
+    </remarks>
+</person>

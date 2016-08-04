@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>113712</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Tran Van Soai</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="1">
+                <name>Soai</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v01/persons#p_Soai1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Tran Van Soai</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v01/persons#p_TVS1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="2">
+        <remark source-urls="1">
+            <p>see Tran Van Soai</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v01/persons#p_Soai1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Vietnamese Commander of Hoa Hao Forces and Minister of State to March 1955</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v01/persons#p_TVS1</source-url>
+        </remark>
+    </remarks>
+</person>

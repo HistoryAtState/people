@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>103008</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Crosby, Oliver Sexsmith</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="2">
+                <name>Crosby, Oliver S.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v05/persons#p_COS1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v28/persons#p_COS_1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Crosby, Oliver Sexsmith</name>
+                <source-url>https://history.state.gov/departmenthistory/people/crosby-oliver-sexsmith</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Oliver S. Crosby</name>
+                <source-url>https://history.state.gov/departmenthistory/people/crosby-oliver-sexsmith</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1920</birth-year>
+    <death-year/>
+    <remarks variants="3">
+        <remark source-urls="1">
+            <p>Country Director for Southern Africa, Bureau of African Affairs, Department of State</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v05/persons#p_COS1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Director of the Office of Southern African Affairs, Bureau of African Affairs, Department of State</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v28/persons#p_COS_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Foreign Service Officer. Ambassador Extraordinary and Plenipotentiary (Guinea).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/crosby-oliver-sexsmith</source-url>
+        </remark>
+    </remarks>
+</person>

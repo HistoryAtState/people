@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>100358</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Alter, Gerald</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="1">
+                <name>Alter, Gerald</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve10/persons#p_AG1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="1">
+        <remark source-urls="1">
+            <p>Director of the Western Hemisphere Department of the World Bank until 1969; Director, South American Department from 1970 until 1971; Regional Vice President of the Latin American Region from 1972</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve10/persons#p_AG1</source-url>
+        </remark>
+    </remarks>
+</person>

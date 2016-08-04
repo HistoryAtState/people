@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>103668</id>
+    <authorities>
+        <authority service="viaf">79424459</authority>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Duarte, Jose Napoleon</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="1">
+                <name>President Jose Napoleon Duarte</name>
+                <source-url>https://history.state.gov/departmenthistory/visits/el-salvador</source-url>
+            </original>
+            <original source-urls="1">
+                <name>President-elect Jose Napoleon Duarte</name>
+                <source-url>https://history.state.gov/departmenthistory/visits/el-salvador</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Duarte, Jose Napoleon</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1981-88v13/persons#p_DJN_1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="3">
+        <remark source-urls="1">
+            <p>President, El Salvador. Visited U.S. 5 times, 1981–1987</p>
+            <source-url>https://history.state.gov/departmenthistory/visits/el-salvador</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>President-elect, El Salvador. Visited U.S. once, 1984</p>
+            <source-url>https://history.state.gov/departmenthistory/visits/el-salvador</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>President of El Salvador</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1981-88v13/persons#p_DJN_1</source-url>
+        </remark>
+    </remarks>
+</person>

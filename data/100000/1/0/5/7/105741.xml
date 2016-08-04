@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>105741</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Heath, William Womack</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="1">
+                <name>Heath, William Womack</name>
+                <source-url>https://history.state.gov/departmenthistory/people/heath-william-womack</source-url>
+            </original>
+            <original source-urls="1">
+                <name>William W. Heath</name>
+                <source-url>https://history.state.gov/departmenthistory/people/heath-william-womack</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1903</birth-year>
+    <death-year>1971</death-year>
+    <remarks variants="1">
+        <remark source-urls="1">
+            <p>Non-career appointee. Ambassador Extraordinary and Plenipotentiary (Sweden).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/heath-william-womack</source-url>
+        </remark>
+    </remarks>
+</person>

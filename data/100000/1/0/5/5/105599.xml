@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>105599</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Harrison, Roger Gran</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="2">
+                <name>Harrison, Roger Gran</name>
+                <source-url>https://history.state.gov/departmenthistory/people/harrison-roger-gran</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve11p2/persons#p_HRG_1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Harrison, Roger G.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve03/persons#p_HRG1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Harrison, Roger</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve06/persons#p_HR5</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1943</birth-year>
+    <death-year/>
+    <remarks variants="4">
+        <remark source-urls="1">
+            <p>Foreign Service Officer. Ambassador Extraordinary and Plenipotentiary (Jordan).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/harrison-roger-gran</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Planning Officer, Planning and Coordination Staff, National Security Council, from July 1975</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve03/persons#p_HRG1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>member of the National Security Council Staff from 1974 to 1976</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve06/persons#p_HR5</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Special Assistant to the Staff Director, Interdepartmental Political-Military Group, National Security Council, from May 1974 until July 1975; member, National Security Council Staff for Planning and Coordination, from July 1975</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve11p2/persons#p_HRG_1</source-url>
+        </remark>
+    </remarks>
+</person>

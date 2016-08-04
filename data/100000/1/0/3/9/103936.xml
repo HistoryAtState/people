@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>103936</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Elliot, William</name>
+        </preferred>
+        <alternates/>
+        <originals variants="6">
+            <original source-urls="1">
+                <name>Elliott, William</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1943CairoTehran/persons#p_EW1</source-url>
+            </original>
+            <original source-urls="2">
+                <name>Elliot, Air Chief Marshal Sir William, Chairman</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v03p1/persons#p_EAMWC1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v03p2/persons#p_EAMWC1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Elliot, William</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v05/persons#p_EMW1</source-url>
+            </original>
+            <original source-urls="2">
+                <name>Elliot, Sir William</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v06p1/persons#p_ELLIOTSW1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v06p2/persons#p_ELLIOTSW1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Elliott, Sir William</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v08/persons#p_ESW1</source-url>
+            </original>
+            <original source-urls="2">
+                <name>Elliot, Air Chief Marshal Sir William</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v09p1/persons#p_EAC1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v09p2/persons#p_EAC1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="3">
+            <title source-urls="2">
+                <name>Air Chief Marshal Sir; Chairman</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v03p1/persons#p_EAMWC1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v03p2/persons#p_EAMWC1</source-url>
+            </title>
+            <title source-urls="3">
+                <name>Sir</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v06p1/persons#p_ELLIOTSW1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v06p2/persons#p_ELLIOTSW1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v08/persons#p_ESW1</source-url>
+            </title>
+            <title source-urls="2">
+                <name>Air Chief Marshal Sir</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v09p1/persons#p_EAC1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v09p2/persons#p_EAC1</source-url>
+            </title>
+        </titles-from-name>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="6">
+        <remark source-urls="1">
+            <p>Air Commodore, R. A. F., Director of Plans, British Air Ministry.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1943CairoTehran/persons#p_EW1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>British Joint Services Mission in the United States, and British Permanent Representative, NATO Standing Group, after April 1951.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1951v03p1/persons#p_EAMWC1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1951v03p2/persons#p_EAMWC1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>RAF, Chairman, British Joint Services Mission.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1951v05/persons#p_EMW1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Marshal of the Royal Air Force; Chairman, British Joint Services Mission in the United States; British Representative on the North Atlantic Treaty Organization Standing Group after April 1951.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v06p1/persons#p_ELLIOTSW1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v06p2/persons#p_ELLIOTSW1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Marshal of the Royal Air Force; Chairman, British Joint Services Mission in the United States; British Permanent Representative on the North Atlantic Treaty Organization Standing Group after April 1951.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v08/persons#p_ESW1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Chairman of the British Joint Services Mission in the United States and British Representative on the Standing Group of the Military Committee of NATO.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v09p1/persons#p_EAC1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v09p2/persons#p_EAC1</source-url>
+        </remark>
+    </remarks>
+</person>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>107005</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Kelly, John M.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="1">
+                <name>Kelly, John M.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v09/persons#p_KJM1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Kelly, Major General John</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v19/persons#p_KMGJ1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="1">
+            <title source-urls="1">
+                <name>Major General</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v19/persons#p_KMGJ1</source-url>
+            </title>
+        </titles-from-name>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="2">
+        <remark source-urls="1">
+            <p>Assistant Secretary of the Interior for Mineral Resources</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v09/persons#p_KJM1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>USA, Chief of the U.S. Military Supply Mission to India</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v19/persons#p_KMGJ1</source-url>
+        </remark>
+    </remarks>
+</person>

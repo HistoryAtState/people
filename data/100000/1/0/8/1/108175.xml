@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>108175</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Luce, William</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="3">
+                <name>Luce, Sir William</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v17/persons#p_LSW2</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v18/persons#p_LSW2</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v24/persons#p_LSW2</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="1">
+            <title source-urls="3">
+                <name>Sir</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v17/persons#p_LSW2</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v18/persons#p_LSW2</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v24/persons#p_LSW2</source-url>
+            </title>
+        </titles-from-name>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="2">
+        <remark source-urls="2">
+            <p>British Political Resident in the Persian Gulf from 1961</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v17/persons#p_LSW2</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v18/persons#p_LSW2</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Deputy Undersecretary in the British Foreign Office, Ambassador and Special Representative to the Persian Gulf</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v24/persons#p_LSW2</source-url>
+        </remark>
+    </remarks>
+</person>

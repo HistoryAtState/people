@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>111737</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Rush, Richard</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="1">
+                <name>Rush, Richard</name>
+                <source-url>https://history.state.gov/departmenthistory/people/rush-richard</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1780</birth-year>
+    <death-year>1859</death-year>
+    <remarks variants="1">
+        <remark source-urls="1">
+            <p>Non-career appointee. Secretary of State ad interim; Envoy Extraordinary and Minister Plenipotentiary (United Kingdom); Envoy Extraordinary and Minister Plenipotentiary (France).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/rush-richard</source-url>
+        </remark>
+    </remarks>
+</person>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>102796</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Constable, Peter Dalton</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="2">
+                <name>Constable, Peter Dalton</name>
+                <source-url>https://history.state.gov/departmenthistory/people/constable-peter-dalton</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v18/persons#p_CPD_1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Constable, Peter</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve08/persons#p_CP4</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Constable, Peter D.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v01/persons#p_CPD_1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1932</birth-year>
+    <death-year>2000</death-year>
+    <remarks variants="4">
+        <remark source-urls="1">
+            <p>Foreign Service Officer. Ambassador Extraordinary and Plenipotentiary (Congo (Kinshasa)).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/constable-peter-dalton</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Country Director for Pakistan, Afghanistan, and Bangladesh, Bureau of Near Eastern and South Asian Affairs, Department of State, from 1973 to 1976</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve08/persons#p_CP4</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Country Director for Pakistan, Afghanistan, and Bangladesh, Bureau of Near Eastern and South Asian Affairs, Department of State, until 1976; Deputy Chief of Mission, U.S. Embassy in Islamabad from 1976 until 1979; Deputy Assistant Secretary of State for Near Eastern and South Asian Affairs from 1979</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v01/persons#p_CPD_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Deputy Assistant Secretary of State for Near Eastern and South Asian Affairs; member of Iran Working Group, Department of State</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v18/persons#p_CPD_1</source-url>
+        </remark>
+    </remarks>
+</person>

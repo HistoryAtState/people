@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>101160</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Ben-Gurion, David</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="1">
+                <name>Prime Minister Ben-Gurion</name>
+                <source-url>https://history.state.gov/departmenthistory/visits/israel</source-url>
+            </original>
+            <original source-urls="2">
+                <name>Ben-Gurion, David</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v05/persons#p_BGD1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v13/persons#p_BGD_1</source-url>
+            </original>
+            <original source-urls="14">
+                <name>Ben Gurion, David</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v09p1/persons#p_BGD1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v09p2/persons#p_BGD1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v12/persons#p_BGD1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v13/persons#p_BGD1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v14/persons#p_BGD1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v15/persons#p_BGD1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v16/persons#p_BGD1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v17/persons#p_BGD1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v11/persons#p_BGD1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v12/persons#p_BGD1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v13/persons#p_BGD1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v17/persons#p_BGD1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v18/persons#p_BGD1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v08/persons#p_BGD_1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="10">
+        <remark source-urls="1">
+            <p>Prime Minister, Israel. Visited U.S. 3 times, 1951–1961</p>
+            <source-url>https://history.state.gov/departmenthistory/visits/israel</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Israeli Prime Minister and Minister of Defense.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1951v05/persons#p_BGD1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Prime Minister of Israel until December 9, 1953; Minister of Defense until January 4, 1954.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v09p1/persons#p_BGD1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v09p2/persons#p_BGD1</source-url>
+        </remark>
+        <remark source-urls="6">
+            <p>Israeli Minister of Defense from February 17, 1955; also Prime Minister from November 3, 1955</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v12/persons#p_BGD1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v13/persons#p_BGD1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v14/persons#p_BGD1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v15/persons#p_BGD1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v16/persons#p_BGD1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v17/persons#p_BGD1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Israeli Prime Minister</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v11/persons#p_BGD1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Prime Minister of Israel</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v12/persons#p_BGD1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Israeli Prime Minister and Defense Minister</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v13/persons#p_BGD1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Prime Minister of Israel and Minister of Defense until June 16, 1963</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v17/persons#p_BGD1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v18/persons#p_BGD1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Israeli Prime Minister from May 1948 until January 1954 and November 1955 until June 1963</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v08/persons#p_BGD_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Prime Minister of Israel from May 1948 until January 1954, and from November 1955 until June 1963.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v13/persons#p_BGD_1</source-url>
+        </remark>
+    </remarks>
+</person>

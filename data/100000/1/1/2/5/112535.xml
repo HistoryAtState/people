@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>112535</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Sirri, Mohsin al-</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="1">
+                <name>Sirri, Mohsin al-, Yemeni</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v21/persons#p_SM1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="1">
+            <title source-urls="1">
+                <name>Yemeni</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v21/persons#p_SM1</source-url>
+            </title>
+        </titles-from-name>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="1">
+        <remark source-urls="1">
+            <p>Foreign Minister May 1964-January 1965</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v21/persons#p_SM1</source-url>
+        </remark>
+    </remarks>
+</person>

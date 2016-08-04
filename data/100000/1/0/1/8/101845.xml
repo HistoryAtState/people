@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>101845</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Brucker, Wilber M.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="13">
+                <name>Brucker, Wilber M.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v06p1/persons#p_BRUCKERWM1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v06p2/persons#p_BRUCKERWM1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v02/persons#p_BWM1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v03/persons#p_BWM1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v19/persons#p_BWM1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v20/persons#p_BWM1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v23p1/persons#p_BWM1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v27/persons#p_BWM1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v01/persons#p_BWM1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v03/persons#p_BWM1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v05/persons#p_BWM1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v18/persons#p_BWM1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v19/persons#p_BWM1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Bruckner, Wilber M.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v23p2/persons#p_BWM1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="5">
+        <remark source-urls="2">
+            <p>General Counsel of the Department of Defense, 1954–1955.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v06p1/persons#p_BRUCKERWM1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v06p2/persons#p_BRUCKERWM1</source-url>
+        </remark>
+        <remark source-urls="3">
+            <p>General Counsel, Department of Defense, to July 1955; thereafter Secretary of the Army</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v02/persons#p_BWM1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v03/persons#p_BWM1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v23p1/persons#p_BWM1</source-url>
+        </remark>
+        <remark source-urls="3">
+            <p>Secretary of the Army from July 1955</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v19/persons#p_BWM1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v20/persons#p_BWM1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v27/persons#p_BWM1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Secretary of the Army after July 1955</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v23p2/persons#p_BWM1</source-url>
+        </remark>
+        <remark source-urls="5">
+            <p>Secretary of the Army</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v01/persons#p_BWM1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v03/persons#p_BWM1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v05/persons#p_BWM1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v18/persons#p_BWM1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v19/persons#p_BWM1</source-url>
+        </remark>
+    </remarks>
+</person>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>113572</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Thurston, Walter Clarence</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="2">
+                <name>Thurston, Walter</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1946v03/persons#p_TW1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1947v02/persons#p_TW1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Thurston, Walter Clarence</name>
+                <source-url>https://history.state.gov/departmenthistory/people/thurston-walter-clarence</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Walter Thurston</name>
+                <source-url>https://history.state.gov/departmenthistory/people/thurston-walter-clarence</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1894</birth-year>
+    <death-year>1974</death-year>
+    <remarks variants="2">
+        <remark source-urls="2">
+            <p>United States Ambassador in Mexico</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1946v03/persons#p_TW1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1947v02/persons#p_TW1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Foreign Service Officer. Ambassador Extraordinary and Plenipotentiary (Mexico); Envoy Extraordinary and Minister Plenipotentiary (El Salvador); Ambassador Extraordinary and Plenipotentiary (El Salvador); Ambassador Extraordinary and Plenipotentiary (Bolivia).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/thurston-walter-clarence</source-url>
+        </remark>
+    </remarks>
+</person>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>111836</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Saleh, Chaerul</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="2">
+                <name>Saleh, Chaerul</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v23/persons#p_SC1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v27/persons#p_SC1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Saleh, Chairul</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v26/persons#p_SC2</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="3">
+        <remark source-urls="1">
+            <p>Indonesian Senior Minister for Reconstruction and Development until March 1962; Minister for Basic Industry and Mining until November 1963; thereafter Deputy First Minister for Development</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v23/persons#p_SC1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Third Deputy Prime Minister of Indonesia and Minister Coordinator for Agriculture until July 1966</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v26/persons#p_SC2</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Indonesian Third Deputy Prime Minister and Coordinator Minister for the Development Compartment, until April 1966.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v27/persons#p_SC1</source-url>
+        </remark>
+    </remarks>
+</person>

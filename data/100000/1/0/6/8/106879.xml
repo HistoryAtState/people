@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>106879</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Karami, Rashid</name>
+        </preferred>
+        <alternates/>
+        <originals variants="4">
+            <original source-urls="5">
+                <name>Karame, Rashid</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v14/persons#p_KR1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v17/persons#p_KR6</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v18/persons#p_KR6</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v18/persons#p_KR6</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v20/persons#p_KR1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Karamé, Rachid</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v11/persons#p_KR4</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Karame, Rachid</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v12/persons#p_KR6</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Karame (Karami), Rashid</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v26/persons#p_KR_1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="7">
+        <remark source-urls="1">
+            <p>Lebanese Prime Minister and Minister of the Interior, September 19, 1955–March 15, 1956</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v14/persons#p_KR1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Lebanese Prime Minister and Minister of the Interior and National Defense from September 23, 1958; after October 15, 1958, Prime Minister and Minister of Defense, Finance, Economic, and Information</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v11/persons#p_KR4</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Prime Minister, Minister of the Interior and National Defense of Lebanon from September 23, 1958; in reorganization on October 15, 1958, became Prime Minister, Defense, Finance, Economic and Information Ministers</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v12/persons#p_KR6</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Prime Minister of Lebanon from October 31, 1961</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v17/persons#p_KR6</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v18/persons#p_KR6</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Prime Minister and Minister of Finance of Lebanon, July 1965–April 1966; and again December 1966–February 1968</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v18/persons#p_KR6</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Prime Minister of Lebanon until February 1968</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v20/persons#p_KR1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Lebanese Prime Minister from July 1, 1975, until December 8, 1976</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v26/persons#p_KR_1</source-url>
+        </remark>
+    </remarks>
+</person>

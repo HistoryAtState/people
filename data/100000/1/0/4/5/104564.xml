@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>104564</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Freshman, C. Arnold</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="1">
+                <name>Freshman, C. Arnold</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v14/persons#p_FCA1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Freshman</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v16/persons#p_Freshman1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="2">
+        <remark source-urls="1">
+            <p>Officer in Charge of German Economic Affairs, Bureau of European Affairs, Department of State</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v14/persons#p_FCA1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>C. Arnold, Embassy in Italy, July 1965–July 1967</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v16/persons#p_Freshman1</source-url>
+        </remark>
+    </remarks>
+</person>

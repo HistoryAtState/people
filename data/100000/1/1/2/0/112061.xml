@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>112061</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Schmid, Carlo</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="5">
+                <name>Schmid, Carlo</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1948v02/persons#p_SC3</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1949v03/persons#p_SC1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v03p1/persons#p_SC1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v03p2/persons#p_SC1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v09/persons#p_SC1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="4">
+        <remark source-urls="1">
+            <p>Deputy Minister President and Minister of Justice in Wuerttemberg-Hohenzollern; Chairman of the German Social Democratic Party (SPD) in Wuerttemberg-Hohenzollern; representative in the Parliamentary Council and Chairman of its Main Committee</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1948v02/persons#p_SC3</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Chairman of the Social Democratic Party (SPD) in Wuerttemberg-Hohenzollern; Representative at the Bonn Parliamentary Council and Chairman of its Main Committee.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1949v03/persons#p_SC1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Deputy Chairman, Social Democratic Party of Germany.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1951v03p1/persons#p_SC1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1951v03p2/persons#p_SC1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>former Chairman of the German Social Democratic Party</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v09/persons#p_SC1</source-url>
+        </remark>
+    </remarks>
+</person>

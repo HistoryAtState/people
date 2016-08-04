@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>102039</id>
+    <authorities>
+        <authority service="viaf">32833332</authority>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Buzek, Jerzy</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="1">
+                <name>Prime Minister Jerzy Buzek</name>
+                <source-url>https://history.state.gov/departmenthistory/visits/poland</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="2">
+        <remark source-urls="1">
+            <p>Prime Minister, Poland. Visited U.S. once, 1999</p>
+            <source-url>https://history.state.gov/departmenthistory/visits/poland</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Prime Minister, Poland. Visited U.S. once, 1998</p>
+            <source-url>https://history.state.gov/departmenthistory/visits/poland</source-url>
+        </remark>
+    </remarks>
+</person>

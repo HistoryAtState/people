@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>102050</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Byrns, Kenneth A.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="6">
+                <name>Byrns, Kenneth A.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v04p1/persons#p_BKA1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v04p2/persons#p_BKA1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v06p1/persons#p_BYRNSKA1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v06p2/persons#p_BYRNSKA1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v07p1/persons#p_BKA1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v07p2/persons#p_BKA1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="3">
+        <remark source-urls="2">
+            <p>Office of British Commonwealth and Northern European Affairs, Department of State</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1951v04p1/persons#p_BKA1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1951v04p2/persons#p_BKA1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Office of British Commonwealth and Northern European Affairs, Department of State, until August 2, 1952.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v06p1/persons#p_BYRNSKA1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v06p2/persons#p_BYRNSKA1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Officer in Charge of Canadian Affairs, Office of British Commonwealth and Northern European Affairs, Bureau of European Affairs, Department of State, June 1958–January 1960</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v07p1/persons#p_BKA1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v07p2/persons#p_BKA1</source-url>
+        </remark>
+    </remarks>
+</person>

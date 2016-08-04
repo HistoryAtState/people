@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>112747</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Song Zhangzhi</name>
+        </preferred>
+        <alternates>
+            <name>Soong Chang-chih</name>
+        </alternates>
+        <originals variants="2">
+            <original source-urls="3">
+                <name>Soong Chang-chih</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v17/persons#p_SC2</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve13/persons#p_SZ1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v13/persons#p_SC_5</source-url>
+            </original>
+            <original source-urls="2">
+                <name>Song Zhangzhi (Soong Chang-chih)</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v18/persons#p_SZ1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v13/persons#p_SZ_1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="5">
+        <remark source-urls="1">
+            <p>Deputy Commander-in-Chief, Republic of China Navy, until 1970; Commander-in-Chief from 1970</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v17/persons#p_SC2</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>ROC Commander-in-Chief</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v18/persons#p_SZ1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Deputy Commander-in-Chief, Republic of China Navy, until 1970;Commander-in-Chief from 1970</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve13/persons#p_SZ1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>see Song Zhangzhi</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v13/persons#p_SC_5</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Chief of the General Staff, Ministry of National Defense, from 1976 until 1981</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v13/persons#p_SZ_1</source-url>
+        </remark>
+    </remarks>
+</person>

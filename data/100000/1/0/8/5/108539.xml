@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>108539</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Marsh, George Perkins</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="1">
+                <name>Marsh, George Perkins</name>
+                <source-url>https://history.state.gov/departmenthistory/people/marsh-george-perkins</source-url>
+            </original>
+            <original source-urls="1">
+                <name>George P. Marsh</name>
+                <source-url>https://history.state.gov/departmenthistory/people/marsh-george-perkins</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1801</birth-year>
+    <death-year>1882</death-year>
+    <remarks variants="1">
+        <remark source-urls="1">
+            <p>Non-career appointee. Minister Resident (Turkey); Envoy Extraordinary and Minister Plenipotentiary (Italy).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/marsh-george-perkins</source-url>
+        </remark>
+    </remarks>
+</person>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>100235</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Alexander, Eben</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="1">
+                <name>Alexander, Eben</name>
+                <source-url>https://history.state.gov/departmenthistory/people/alexander-eben</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1851</birth-year>
+    <death-year>1910</death-year>
+    <remarks variants="1">
+        <remark source-urls="1">
+            <p>Non-career appointee. Envoy Extraordinary and Minister Plenipotentiary/Consul General Envoys Extraordinary and Ministers Plenipotentiary/Consuls General (Yugoslavia); Envoy Extraordinary and Minister Plenipotentiary/Consul General Envoys Extraordinary and Ministers Plenipotentiary/Consuls General (Romania); Envoy Extraordinary and Minister Plenipotentiary/Consul General Envoys Extraordinary and Ministers Plenipotentiary/Consuls General (Greece).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/alexander-eben</source-url>
+        </remark>
+    </remarks>
+</person>

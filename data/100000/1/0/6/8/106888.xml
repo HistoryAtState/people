@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>106888</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Karjalainen, Ahti</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="4">
+                <name>Karjalainen, Ahti</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v10p2/persons#p_KA1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v16/persons#p_KA1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v29/persons#p_KA2</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v39/persons#p_KA5</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="4">
+        <remark source-urls="1">
+            <p>Finnish Minister of Trade from January 1959</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v10p2/persons#p_KA1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Finnish Foreign Minister until April 1962; thereafter Prime Minister</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v16/persons#p_KA1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Finnish Foreign Minister</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v29/persons#p_KA2</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Foreign Minister of Finland from 1972 to 1975</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v39/persons#p_KA5</source-url>
+        </remark>
+    </remarks>
+</person>

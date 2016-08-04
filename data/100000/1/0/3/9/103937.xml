@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>103937</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Elliott, David D.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="5">
+                <name>Elliott, David D.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v16/persons#p_EDD_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v27/persons#p_EDD_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v35/persons#p_EDD_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve03/persons#p_EDD1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve14p2/persons#p_EDD_1</source-url>
+            </original>
+            <original source-urls="2">
+                <name>Elliott, David</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v36/persons#p_ED1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve08/persons#p_ED2</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="6">
+        <remark source-urls="1">
+            <p>Senior Staff Member of the Office of Scientific Affairs, National Security Council Staff</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v16/persons#p_EDD_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>member, National Security Council Staff</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v27/persons#p_EDD_1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>member, National Security Council staff</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v35/persons#p_EDD_1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v36/persons#p_ED1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Member, National Security Council Staff, Scientific Affairs</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve03/persons#p_EDD1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Member of the National Security Council Staff</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve08/persons#p_ED2</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>senior member, Scientific Affairs, National Security Council staff</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve14p2/persons#p_EDD_1</source-url>
+        </remark>
+    </remarks>
+</person>

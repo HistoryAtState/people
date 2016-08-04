@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>103406</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Deshmukh, Chintaman Dwarkanath</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="2">
+                <name>Deshmukh, Sir Chintaman</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v11p1/persons#p_DSC1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v11p2/persons#p_DSC1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Deshmukh, Sir Chintaman Dwarkanath</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v21/persons#p_DSCD1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="1">
+            <title source-urls="3">
+                <name>Sir</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v11p1/persons#p_DSC1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v11p2/persons#p_DSC1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v21/persons#p_DSCD1</source-url>
+            </title>
+        </titles-from-name>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="2">
+        <remark source-urls="2">
+            <p>Indian Minister of Finance.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v11p1/persons#p_DSC1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v11p2/persons#p_DSC1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Indian Finance Minister to July 1956</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v21/persons#p_DSCD1</source-url>
+        </remark>
+    </remarks>
+</person>

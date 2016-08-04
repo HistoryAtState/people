@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>109350</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Moore, Robert Walton</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="1">
+                <name>Moore, R. Walton</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1943CairoTehran/persons#p_MRW2</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Moore, Robert Walton</name>
+                <source-url>https://history.state.gov/departmenthistory/people/moore-robert-walton</source-url>
+            </original>
+            <original source-urls="1">
+                <name>R. Walton Moore</name>
+                <source-url>https://history.state.gov/departmenthistory/people/moore-robert-walton</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1859</birth-year>
+    <death-year>1941</death-year>
+    <remarks variants="2">
+        <remark source-urls="1">
+            <p>Counselor, Department of State, 1937–40.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1943CairoTehran/persons#p_MRW2</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Non-career appointee. Counselor; Assistant Secretary of State.</p>
+            <source-url>https://history.state.gov/departmenthistory/people/moore-robert-walton</source-url>
+        </remark>
+    </remarks>
+</person>

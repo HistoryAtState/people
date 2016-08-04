@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>108567</id>
+    <authorities>
+        <authority service="viaf">48188729</authority>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Martin, Grau San</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="1">
+                <name>President-elect Grau San Martin</name>
+                <source-url>https://history.state.gov/departmenthistory/visits/cuba</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="1">
+        <remark source-urls="1">
+            <p>President-elect, Cuba. Visited U.S. once, 1944</p>
+            <source-url>https://history.state.gov/departmenthistory/visits/cuba</source-url>
+        </remark>
+    </remarks>
+</person>

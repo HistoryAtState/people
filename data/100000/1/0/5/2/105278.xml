@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>105278</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Guevara de la Serna, Ernesto (“Che”)</name>
+        </preferred>
+        <alternates/>
+        <originals variants="5">
+            <original source-urls="1">
+                <name>Guevara Serna, Major Ernesto (Che)</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v05/persons#p_GSMEC1</source-url>
+            </original>
+            <original source-urls="2">
+                <name>Guevara Serna, Ernesto (Che)</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v06/persons#p_GSEC1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v10/persons#p_GSMEC1</source-url>
+            </original>
+            <original source-urls="2">
+                <name>Guevara de la Serna, Major Ernesto “Che,”</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v12/persons#p_GSMEC1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v31/persons#p_GSMEC1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Guevara, Ernesto (Che)</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v21/persons#p_GE_1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Guevara de la Serna, Ernesto (“Che”)</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve16/persons#p_GE_1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="1">
+            <title source-urls="3">
+                <name>Major</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v05/persons#p_GSMEC1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v12/persons#p_GSMEC1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v31/persons#p_GSMEC1</source-url>
+            </title>
+        </titles-from-name>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="6">
+        <remark source-urls="1">
+            <p>Commander of La Cabaña fortress in Cuba from January 1959; head of Industrial Department, National Institute of Industrial Reform from 1959; President of the National Bank of Cuba from November 26, 1959</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v05/persons#p_GSMEC1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>President of the Cuban National Bank from November 1959</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v06/persons#p_GSEC1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>President of the Cuban National Bank</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v10/persons#p_GSMEC1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Cuban Minister of Industry</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v12/persons#p_GSMEC1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Cuban Minister of Industry until 1965</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v31/persons#p_GSMEC1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Argentine revolutionary killed in Bolivia in 1967</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v21/persons#p_GE_1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve16/persons#p_GE_1</source-url>
+        </remark>
+    </remarks>
+</person>

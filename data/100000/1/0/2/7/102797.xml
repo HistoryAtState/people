@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>102797</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Constandy, John P.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="1">
+                <name>Constandy, John</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v27/persons#p_CJ_2</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Constandy, John P.</name>
+                <source-url>https://history.state.gov/departmenthistory/people/constandy-john-p</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1924</birth-year>
+    <death-year/>
+    <remarks variants="2">
+        <remark source-urls="1">
+            <p>Deputy Inspector General for Foreign Assistance, Department of Defense</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v27/persons#p_CJ_2</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Non-career appointee. Deputy Inspector General of Foreign Assistance.</p>
+            <source-url>https://history.state.gov/departmenthistory/people/constandy-john-p</source-url>
+        </remark>
+    </remarks>
+</person>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>109457</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Moses, George Higgins</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="1">
+                <name>Moses, George Higgins</name>
+                <source-url>https://history.state.gov/departmenthistory/people/moses-george-higgins</source-url>
+            </original>
+            <original source-urls="1">
+                <name>George H. Moses</name>
+                <source-url>https://history.state.gov/departmenthistory/people/moses-george-higgins</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1869</birth-year>
+    <death-year>1944</death-year>
+    <remarks variants="1">
+        <remark source-urls="1">
+            <p>Non-career appointee. Envoy Extraordinary and Minister Plenipotentiary (Montenegro); Envoy Extraordinary and Minister Plenipotentiary (Greece).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/moses-george-higgins</source-url>
+        </remark>
+    </remarks>
+</person>

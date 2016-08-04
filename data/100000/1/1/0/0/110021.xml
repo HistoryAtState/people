@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>110021</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Off, Robert B.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="1">
+                <name>Off, Robert B.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v38p2/persons#p_ORB_2</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="1">
+        <remark source-urls="1">
+            <p>Liaison Assistant, Presidential Personnel Office, 1974–1975; thereafter staff member, Bureau of Management, Department of State</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v38p2/persons#p_ORB_2</source-url>
+        </remark>
+    </remarks>
+</person>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>101789</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Brower, Charles N.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="3">
+                <name>Brower, Charles N.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v40/persons#p_BCN1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve01/persons#p_BCN1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve03/persons#p_BCN1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="3">
+        <remark source-urls="1">
+            <p>Assistant Legal Adviser for European Affairs, Department of State, from November 1969 until July 1971; then Deputy Legal Adviser</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v40/persons#p_BCN1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Assistant Legal Adviser for European Affairs, November 1969–July 1971; then Deputy Legal Adviser, Department of State; Chairman of the U.S. Delegation to the Montreal Conference on Sabotage</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve01/persons#p_BCN1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Acting Legal Adviser, Department of State, until July 1974</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve03/persons#p_BCN1</source-url>
+        </remark>
+    </remarks>
+</person>

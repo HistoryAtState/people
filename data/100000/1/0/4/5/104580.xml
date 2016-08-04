@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>104580</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Friedman, Townsend B., Jr.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="1">
+                <name>Friedman, Townsend</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve10/persons#p_FT1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Friedman, Townsend B., Jr.</name>
+                <source-url>https://history.state.gov/departmenthistory/people/friedman-townsend-b</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1940</birth-year>
+    <death-year>1995</death-year>
+    <remarks variants="2">
+        <remark source-urls="1">
+            <p>Political Officer, U.S. Embassy in Santiago from April 1969 until February 1972; information officer in the Department of State from February 1972 until July 1972; Office of Public Affairs, Bureau of Inter-American Affairs from July 1972</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve10/persons#p_FT1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Foreign Service Officer. Ambassador Extraordinary and Plenipotentiary (Mozambique).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/friedman-townsend-b</source-url>
+        </remark>
+    </remarks>
+</person>

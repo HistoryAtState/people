@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>108136</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Lourie, Donold Bradford</name>
+        </preferred>
+        <alternates/>
+        <originals variants="4">
+            <original source-urls="8">
+                <name>Lourie, Donold B.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v02p1/persons#p_LOURIEDB1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v02p2/persons#p_LOURIEDB1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v03/persons#p_LOURIEDONOLDB1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v04/persons#p_LDB1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v11p1/persons#p_LDB1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v11p2/persons#p_LDB1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v14p1/persons#p_LDB1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v14p2/persons#p_LDB1</source-url>
+            </original>
+            <original source-urls="2">
+                <name>Lourie, Donald B.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v09p1/persons#p_LDB1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v09p2/persons#p_LDB1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Lourie, Donold Bradford</name>
+                <source-url>https://history.state.gov/departmenthistory/people/lourie-donold-bradford</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Donold B. Lourie</name>
+                <source-url>https://history.state.gov/departmenthistory/people/lourie-donold-bradford</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1899</birth-year>
+    <death-year>1990</death-year>
+    <remarks variants="6">
+        <remark source-urls="2">
+            <p>Under Secretary of State for Administration, February 16, 1953– March 5, 1954.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v02p1/persons#p_LOURIEDB1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v02p2/persons#p_LOURIEDB1</source-url>
+        </remark>
+        <remark source-urls="3">
+            <p>Under Secretary of State for Administration, February 16, 1953–March 5, 1954.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v03/persons#p_LOURIEDONOLDB1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v11p1/persons#p_LDB1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v11p2/persons#p_LDB1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Under Secretary of State for Administration from February 16, 1953 until March 5, 1954.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v04/persons#p_LDB1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Under Secretary of State for Administration, February 13, 1953–March 5, 1954.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v09p1/persons#p_LDB1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v09p2/persons#p_LDB1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Under Secretary of State for Administration, February 1953–March 1954.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v14p1/persons#p_LDB1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v14p2/persons#p_LDB1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Non-career appointee. Under Secretary of State for Management.</p>
+            <source-url>https://history.state.gov/departmenthistory/people/lourie-donold-bradford</source-url>
+        </remark>
+    </remarks>
+</person>

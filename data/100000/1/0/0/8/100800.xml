@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>100800</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Baldwin, Charles Franklin</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="8">
+                <name>Baldwin, Charles F.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v03p1/persons#p_BCF1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v03p2/persons#p_BCF1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v16/persons#p_BCF1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v08/persons#p_BCF1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v21/persons#p_BCF1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v22/persons#p_BCF1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v23p1/persons#p_BCF1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v23/persons#p_BCF1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Baldwin, Charles Franklin</name>
+                <source-url>https://history.state.gov/departmenthistory/people/baldwin-charles-franklin</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Charles F. Baldwin</name>
+                <source-url>https://history.state.gov/departmenthistory/people/baldwin-charles-franklin</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1902</birth-year>
+    <death-year>1993</death-year>
+    <remarks variants="6">
+        <remark source-urls="2">
+            <p>Counselor of Embassy for Economic Affairs in the United Kingdom until October 4, 1951, Head of the United States Delegation to the Tripartite Conference on Aid to Yugoslavia, London, April–June 1951; Consul General at Singapore from October 4, 1951.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1951v03p1/persons#p_BCF1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1951v03p2/persons#p_BCF1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Economic Coordinator, Bureau of Far Eastern Affairs, Department of State.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v16/persons#p_BCF1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Deputy Assistant Secretary of State for Far Eastern Economic Affairs to December 1955</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v08/persons#p_BCF1</source-url>
+        </remark>
+        <remark source-urls="3">
+            <p>Deputy Assistant Secretary of State for Far Eastern Economic Affairs to July 1955</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v21/persons#p_BCF1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v22/persons#p_BCF1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v23p1/persons#p_BCF1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Ambassador to Malaya (Malaysia after September 16, 1963)</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v23/persons#p_BCF1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Foreign Service Officer. Ambassador Extraordinary and Plenipotentiary (Malaysia).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/baldwin-charles-franklin</source-url>
+        </remark>
+    </remarks>
+</person>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>111920</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Santos Costa, Fernando dos</name>
+        </preferred>
+        <alternates/>
+        <originals variants="4">
+            <original source-urls="2">
+                <name>Santos Costa, Lieutenant Colonel Fernando dos</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v03p1/persons#p_SCLCFD1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v03p2/persons#p_SCLCFD1</source-url>
+            </original>
+            <original source-urls="2">
+                <name>Santos Costa, Fernandos</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v05p1/persons#p_SANTOSCOSTAF1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v05p2/persons#p_SANTOSCOSTAF1</source-url>
+            </original>
+            <original source-urls="2">
+                <name>Santos Costa</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v06p1/persons#p_SANTOSCOSTA1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v06p2/persons#p_SANTOSCOSTA1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Santos da Costa, Fernando</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v27/persons#p_SCF1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="1">
+            <title source-urls="2">
+                <name>Lieutenant Colonel</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v03p1/persons#p_SCLCFD1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v03p2/persons#p_SCLCFD1</source-url>
+            </title>
+        </titles-from-name>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="4">
+        <remark source-urls="2">
+            <p>Portuguese Minister of National Defense.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1951v03p1/persons#p_SCLCFD1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1951v03p2/persons#p_SCLCFD1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Lieutenant Colonel, Portuguese Army; Portuguese Minister of National Defense.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v05p1/persons#p_SANTOSCOSTAF1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v05p2/persons#p_SANTOSCOSTAF1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Fernando dos, Lieutenant Colonel, Portuguese Minister of National Defense from 1951.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v06p1/persons#p_SANTOSCOSTA1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v06p2/persons#p_SANTOSCOSTA1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Portuguese Minister of Defense from February 1955</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v27/persons#p_SCF1</source-url>
+        </remark>
+    </remarks>
+</person>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>115991</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Polk, Judd</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="1">
+                <name>Polk, Judd</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v05/persons#p_POJ1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="1">
+        <remark source-urls="1">
+            <p>Chief, British Commonwealth and Middle East Division, Office of International Finance, Department of the Treasury.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1951v05/persons#p_POJ1</source-url>
+        </remark>
+    </remarks>
+</person>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>112594</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Smirnovsky, Mikhail N.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="4">
+                <name>Smirnovsky, Mikhail N.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v05/persons#p_SMN1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v14/persons#p_SMN1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v15/persons#p_SMN1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v14/persons#p_SMN1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="4">
+        <remark source-urls="1">
+            <p>Minister-Counselor of the Soviet Embassy in the United States until May 1962; thereafter Chief of the American Countries Section, Soviet Foreign Ministry</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v05/persons#p_SMN1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Minister-Counselor of the Soviet Embassy in the United States</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v14/persons#p_SMN1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Chief of the U.S. Section of the Soviet Foreign Ministry</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v15/persons#p_SMN1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Chief of American Department, Soviet Foreign Ministry until January 1966; thereafter Soviet Ambassador to the United Kingdom</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v14/persons#p_SMN1</source-url>
+        </remark>
+    </remarks>
+</person>

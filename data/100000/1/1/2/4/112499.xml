@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>112499</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Simmons, John Farr</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="3">
+                <name>Simmons, John F.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v06p1/persons#p_SIMMONSJF1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v06p2/persons#p_SIMMONSJF1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v08/persons#p_SJF1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Simmons, John Farr</name>
+                <source-url>https://history.state.gov/departmenthistory/people/simmons-john-farr</source-url>
+            </original>
+            <original source-urls="1">
+                <name>John F. Simmons</name>
+                <source-url>https://history.state.gov/departmenthistory/people/simmons-john-farr</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1892</birth-year>
+    <death-year>1968</death-year>
+    <remarks variants="2">
+        <remark source-urls="3">
+            <p>Chief of Protocol, Department of State, after August 1950.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v06p1/persons#p_SIMMONSJF1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v06p2/persons#p_SIMMONSJF1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v08/persons#p_SJF1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Foreign Service Officer. Chief of Protocol; Ambassador Extraordinary and Plenipotentiary (El Salvador); Ambassador Extraordinary and Plenipotentiary (Ecuador).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/simmons-john-farr</source-url>
+        </remark>
+    </remarks>
+</person>

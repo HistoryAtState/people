@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>104596</id>
+    <authorities>
+        <authority service="viaf">93108684</authority>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Frondizi, Arturo</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="2">
+                <name>Frondizi, Arturo</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v05/persons#p_FA1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v12/persons#p_FA2</source-url>
+            </original>
+            <original source-urls="1">
+                <name>President Frondizi</name>
+                <source-url>https://history.state.gov/departmenthistory/visits/argentina</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="3">
+        <remark source-urls="1">
+            <p>President of Argentina from May 1, 1958</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v05/persons#p_FA1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>President of Argentina to March 29, 1962</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v12/persons#p_FA2</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>President, Argentina. Visited U.S. 3 times, 1959–1961</p>
+            <source-url>https://history.state.gov/departmenthistory/visits/argentina</source-url>
+        </remark>
+    </remarks>
+</person>

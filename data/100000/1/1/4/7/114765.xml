@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>114765</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Wollam, Park F.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="1">
+                <name>Wollam, Park F.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v06/persons#p_WPF1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Wollam, Park</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v32/persons#p_WP1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="2">
+        <remark source-urls="1">
+            <p>Staff Assistant to the Assistant Secretary of State for Inter-American Affairs until February 1958; Consul at Santiago de Cuba, February 1958–August 1960</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v06/persons#p_WPF1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Deputy Coordinator of Cuban Affairs, Bureau of Inter-American Affairs, Department of State, 1967–1968</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v32/persons#p_WP1</source-url>
+        </remark>
+    </remarks>
+</person>

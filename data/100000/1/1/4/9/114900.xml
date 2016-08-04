@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>114900</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Ye Jianying</name>
+        </preferred>
+        <alternates>
+            <name>Yeh Chien-ying</name>
+        </alternates>
+        <originals variants="6">
+            <original source-urls="1">
+                <name>Yeh Chien-ying (Ye Jianying)</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v07/persons#p_YC1</source-url>
+            </original>
+            <original source-urls="2">
+                <name>Yeh Chien-ying, Marshall</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v17/persons#p_YCM1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve13/persons#p_YJ2</source-url>
+            </original>
+            <original source-urls="2">
+                <name>Yeh Chien-ying</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v18/persons#p_YC2</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v13/persons#p_YC_1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Ye Jianying (Yeh Chien-ying), Marshall</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v18/persons#p_YJ2</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Yeh, Chien-ying (Yan Jiagan)</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v38p2/persons#p_YC_1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Ye Jianying (Yeh Chien-ying)</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v13/persons#p_YJ_2</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="1">
+            <title source-urls="3">
+                <name>Marshall</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v17/persons#p_YCM1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v18/persons#p_YJ2</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve13/persons#p_YJ2</source-url>
+            </title>
+        </titles-from-name>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="6">
+        <remark source-urls="1">
+            <p>senior Chinese Communist Party (CCP) military cadre; Marshal, People’s Liberation Army; Vice Chairman, Central Military Council of the Chinese Communist party; member of the Central Committee and Politburo</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v07/persons#p_YC1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Vice Chairman, Military Council of the Chinese Communist Party Central Committee,1967; member of the Central Committee and Politburo</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v17/persons#p_YCM1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve13/persons#p_YJ2</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>see Ye Jianying</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v18/persons#p_YC2</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v13/persons#p_YC_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>member of the Central Committee and Politburo; Defense Minister from 1975</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v18/persons#p_YJ2</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Marshal, Vice Chairman, Military Council of the Chinese Communist Party Central Committee, 1967; member of the Central Committee and Politburo; Defense Minister</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v38p2/persons#p_YC_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Head of State of the PRC from 1978 until 1983</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v13/persons#p_YJ_2</source-url>
+        </remark>
+    </remarks>
+</person>

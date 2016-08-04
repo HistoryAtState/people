@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>108780</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>McClory, Robert</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="1">
+                <name>McClory, Robert</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve01/persons#p_MCR3</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="1">
+        <remark source-urls="1">
+            <p>Congressional Adviser; member, delegation to the United Nations Conference on the Human Environment</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve01/persons#p_MCR3</source-url>
+        </remark>
+    </remarks>
+</person>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>114398</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Weiss, Leonard</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="4">
+                <name>Weiss, Leonard</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v04/persons#p_WL1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v13/persons#p_WL1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v36/persons#p_WL1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve14p1/persons#p_WL1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="4">
+        <remark source-urls="1">
+            <p>Deputy Director, Office of International Trade, Bureau of Economic Affairs, Department of State, from September 1960</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v04/persons#p_WL1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Director of the Office of International Trade, Bureau of Economic Affairs, Department of State, September 1961–February 1963</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v13/persons#p_WL1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Deputy Director, Bureau of Intelligence and Research, Department of State from April 1970 until 1974</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v36/persons#p_WL1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Deputy Director for Functional Research, Bureau of Intelligence of Research, Department of State</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve14p1/persons#p_WL1</source-url>
+        </remark>
+    </remarks>
+</person>

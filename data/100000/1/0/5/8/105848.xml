@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>105848</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Herrick, Myron Timothy</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="1">
+                <name>Herrick, Myron T.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1914Supp/persons#p_HMT1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Herrick, Myron Timothy</name>
+                <source-url>https://history.state.gov/departmenthistory/people/herrick-myron-timothy</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Myron T. Herrick</name>
+                <source-url>https://history.state.gov/departmenthistory/people/herrick-myron-timothy</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1854</birth-year>
+    <death-year>1929</death-year>
+    <remarks variants="2">
+        <remark source-urls="1">
+            <p>United States Ambassador in France.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1914Supp/persons#p_HMT1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Non-career appointee. Ambassador Extraordinary and Plenipotentiary (France).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/herrick-myron-timothy</source-url>
+        </remark>
+    </remarks>
+</person>

@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>104809</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>George II</name>
+        </preferred>
+        <alternates/>
+        <originals variants="4">
+            <original source-urls="1">
+                <name>King George II</name>
+                <source-url>https://history.state.gov/departmenthistory/visits/greece</source-url>
+            </original>
+            <original source-urls="6">
+                <name>George II</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1943CairoTehran/persons#p_GII1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv01/persons#p_GII1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv02/persons#p_G12</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv02/persons#p_GI1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv02/persons#p_H2</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945Malta/persons#p_GII1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Greece, The King of</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv01/persons#p_G4</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Hellenes, The King of the</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv01/persons#p_H2</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="1">
+            <title source-urls="1">
+                <name>King</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv01/persons#p_G4</source-url>
+            </title>
+        </titles-from-name>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="5">
+        <remark source-urls="1">
+            <p>King, Greece. Visited U.S. once, 1942</p>
+            <source-url>https://history.state.gov/departmenthistory/visits/greece</source-url>
+        </remark>
+        <remark source-urls="4">
+            <p>King of the Hellenes.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1943CairoTehran/persons#p_GII1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv01/persons#p_GII1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv02/persons#p_GI1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1945Malta/persons#p_GII1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>See George II; Otto.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv01/persons#p_G4</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv01/persons#p_H2</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>The King of. See George II.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv02/persons#p_G12</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>The King of the. See George II.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1945Berlinv02/persons#p_H2</source-url>
+        </remark>
+    </remarks>
+</person>

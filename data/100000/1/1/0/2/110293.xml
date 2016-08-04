@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>110293</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Paik Sun-yup</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="2">
+                <name>Paek Sun Yup</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v15p1/persons#p_PSY1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v15p2/persons#p_PSY1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Paik, Sun-yup</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v18/persons#p_PS8</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="2">
+        <remark source-urls="2">
+            <p>Major General, Chief of Staff, Republic of Korea Army.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v15p1/persons#p_PSY1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v15p2/persons#p_PSY1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>General, Republic of Korea Army Chief of Staff until February 1959; thereafter Chairman of the Joint Chiefs of Staff</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v18/persons#p_PS8</source-url>
+        </remark>
+    </remarks>
+</person>

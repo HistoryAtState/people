@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>107544</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Lacoste, Robert</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="2">
+                <name>Lacoste, M. Robert</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v04p1/persons#p_LMR1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1951v04p2/persons#p_LMR1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Lacoste, Robert</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v18/persons#p_LR1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="2">
+        <remark source-urls="2">
+            <p>leading Socialist member of the French Chamber of Deputies</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1951v04p1/persons#p_LMR1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1951v04p2/persons#p_LMR1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>French Minister Resident in Algeria and Governor–General of Algeria from February 1956</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v18/persons#p_LR1</source-url>
+        </remark>
+    </remarks>
+</person>

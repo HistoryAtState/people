@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>102611</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Clark, Richard C. (“Dick”)</name>
+        </preferred>
+        <alternates/>
+        <originals variants="7">
+            <original source-urls="1">
+                <name>Clark, Richard C.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v10/persons#p_CRC1</source-url>
+            </original>
+            <original source-urls="2">
+                <name>Clark, Richard</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v26/persons#p_CR_2</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v28/persons#p_CR_1</source-url>
+            </original>
+            <original source-urls="2">
+                <name>Clark, Richard C. (Dick)</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v38p1/persons#p_CRC_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v02/persons#p_CRC_1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Clark, Richard Clarence (Dick)</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v38p2/persons#p_CRC_1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Clark, Richard (Dick) Senator</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve06/persons#p_CRDS1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Clark, Richard C. “Dick”</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v01/persons#p_CRC_1</source-url>
+            </original>
+            <original source-urls="2">
+                <name>Clark, Richard C. (“Dick”)</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v26/persons#p_CRD_2</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1977-80v30/persons#p_CRC_1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="9">
+        <remark source-urls="1">
+            <p>Democratic Senator from Iowa</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v10/persons#p_CRC1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Senator (D-Iowa)</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v26/persons#p_CR_2</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Democratic Senator from Iowa from 1973</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v28/persons#p_CR_1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Senator (D–Iowa)</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v38p1/persons#p_CRC_1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v38p2/persons#p_CRC_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>(D—Iowa) from 1973 to 1979</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve06/persons#p_CRDS1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Senator from (D-Iowa) until January 3, 1979; Ambassador-at-Large and U.S. Coordinator for Refugee Affairs, from May 1 until November 1, 1979</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v01/persons#p_CRC_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Senator (D-Iowa) until January 3, 1979; member, Senate Committee on Agriculture, Nutrition, and Forestry until January 3, 1979; member, Commission on CSCE (Helsinki Commission) until January 3, 1979; U.S. Coordinator for Refugee Affairs from May 1 until November 1, 1979</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v02/persons#p_CRC_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Senator (D–Iowa) until January 1979; Ambassador-at-Large and U.S. Coordinator for Refugee Affairs from May until November 1979</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v26/persons#p_CRD_2</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Senator (D-Iowa) until January 3, 1979; Ambassador at Large and U.S. Coordinator for Refugee Affairs from May 1 until November 1, 1979</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1977-80v30/persons#p_CRC_1</source-url>
+        </remark>
+    </remarks>
+</person>

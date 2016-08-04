@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>101964</id>
+    <authorities>
+        <authority service="viaf">32808162</authority>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Burnham, Linden Forbes Sampson</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="1">
+                <name>Prime Minister Forbes Burnham</name>
+                <source-url>https://history.state.gov/departmenthistory/visits/guyana</source-url>
+            </original>
+            <original source-urls="2">
+                <name>Burnham, Forbes</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v12/persons#p_BLFS1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v05/persons#p_BF1</source-url>
+            </original>
+            <original source-urls="4">
+                <name>Burnham, Linden Forbes Sampson</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v31/persons#p_BLFS1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v32/persons#p_BLFS1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve10/persons#p_BLFS1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve11p1/persons#p_BLFS_1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="7">
+        <remark source-urls="1">
+            <p>Prime Minister, Guyana. Visited U.S. 2 times, 1966–1968</p>
+            <source-url>https://history.state.gov/departmenthistory/visits/guyana</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>leader of the People's National Congress of British Guiana</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v12/persons#p_BLFS1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Prime Minister of British Guiana December 1964–May 1966; thereafter Prime Minister of Guyana</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v31/persons#p_BLFS1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>leader of the People's National Congress Party; Premier of British Guiana, December 1964–May 1966, first Prime Minister of independent Guyana from May 1966</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v32/persons#p_BLFS1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Prime Minister of Guyana</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v05/persons#p_BF1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Prime Minister of Guyana from 1969</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve10/persons#p_BLFS1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Prime Minister of Guyana from 1973</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76ve11p1/persons#p_BLFS_1</source-url>
+        </remark>
+    </remarks>
+</person>

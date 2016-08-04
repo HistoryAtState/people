@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>100958</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Bartlett, Frederic Pearson</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="5">
+                <name>Bartlett, Frederic P.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v11p1/persons#p_BFP1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v11p2/persons#p_BFP1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v08/persons#p_BFP1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v12/persons#p_BFP1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v15/persons#p_BFP1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Bartlett, Frederic Pearson</name>
+                <source-url>https://history.state.gov/departmenthistory/people/bartlett-frederic-pearson</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Frederic P. Bartlett</name>
+                <source-url>https://history.state.gov/departmenthistory/people/bartlett-frederic-pearson</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1909</birth-year>
+    <death-year>1970</death-year>
+    <remarks variants="5">
+        <remark source-urls="2">
+            <p>First Secretary and Consul of the Legation in Vietnam until September 1, 1952; loaned to Mutual Security Agency as Chief of the Mutual Security Agency (MSA) Mission at Saigon, September 1, 1952–July 5, 1953; detailed to National War College, July 5, 1953–June 20. 1954; thereafter; Counselor of the Embassy in India for Economic Affairs; also Counselor of the Embassy in Nepal for Economic Affairs from September 21, 1954.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v11p1/persons#p_BFP1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v11p2/persons#p_BFP1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Counselor of Embassy in India to August 1957; thereafter Director of the Office of South Asian Affairs, Department of State</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v08/persons#p_BFP1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Director, Office of South Asian Affairs, Department of State until August 1960</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v12/persons#p_BFP1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Director of the Office of South Asian Affairs, Bureau of Near Eastern and South Asian Affairs, Department of State, until August 1960</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v15/persons#p_BFP1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Foreign Service Officer. Ambassador Extraordinary and Plenipotentiary (Madagascar).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/bartlett-frederic-pearson</source-url>
+        </remark>
+    </remarks>
+</person>

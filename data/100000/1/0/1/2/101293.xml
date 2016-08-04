@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>101293</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Bhutto, Begum Nusrat</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="1">
+                <name>Bhutto, Begum Nusrat</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1969-76v18/persons#p_BBN1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="1">
+        <remark source-urls="1">
+            <p>wife of Zulfikar Ali Bhutto, mother of Benazir Bhutto</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1969-76v18/persons#p_BBN1</source-url>
+        </remark>
+    </remarks>
+</person>

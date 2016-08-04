@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>104829</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Gero, Erno</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="1">
+                <name>Gëro, Erno</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v08/persons#p_GE1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Gero, Erno</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v26/persons#p_GE1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="2">
+        <remark source-urls="1">
+            <p>Hungarian Government and party official; Chief Deputy Prime Minister as of July 1953; also Interior Minister.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v08/persons#p_GE1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Hungarian Deputy Prime Minister through July 1956; member of Council of Ministers Presidium, 1956; Secretary of Hungarian Working People’s Party, October–November 1956; exiled November 1956</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v26/persons#p_GE1</source-url>
+        </remark>
+    </remarks>
+</person>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>103234</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Dayal, Rajeshwar</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="9">
+                <name>Dayal, Rajeshwar</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v03/persons#p_DAYALR1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v11p1/persons#p_DR1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v11p2/persons#p_DR1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v11/persons#p_DR4</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v14/persons#p_DR4</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v19/persons#p_DR1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v20/persons#p_RD1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v23/persons#p_DRA_1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v25/persons#p_DR1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="7">
+        <remark source-urls="1">
+            <p>Permanent Representative of India to the United Nations, 1952–1954; Alternate Representative on the Trusteeship Council, 1954.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v03/persons#p_DAYALR1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Permanent Representative of India at the United Nations; Alternate Representative on the Trusteeship Council, 1954.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v11p1/persons#p_DR1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v11p2/persons#p_DR1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Indian member of the United Nations Observation Group in Lebanon</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v11/persons#p_DR4</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Special Representative of the U.N. Secretary-General in the Congo from September 1960</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v14/persons#p_DR4</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>High Commissioner of India in Pakistan after May 1961</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v19/persons#p_DR1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Special Representative of the U.N. Secretary-General in the Congo until May 1961</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v20/persons#p_RD1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v23/persons#p_DRA_1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Foreign Secretary of the Indian Minister of External Affairs from 1967</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v25/persons#p_DR1</source-url>
+        </remark>
+    </remarks>
+</person>

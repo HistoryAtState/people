@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>106337</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Huynh Van Cao</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="2">
+                <name>Huynh Van Cao, Brigadier General</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v03/persons#p_HVCBG1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v04/persons#p_HVCBG1</source-url>
+            </original>
+            <original source-urls="3">
+                <name>Cao</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v02/persons#p_CAO1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v03/persons#p_Cao1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v04/persons#p_Cao1</source-url>
+            </original>
+            <original source-urls="3">
+                <name>Huynh Van Cao</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v02/persons#p_HVC1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v03/persons#p_HVC1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v04/persons#p_HVC1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="1">
+            <title source-urls="2">
+                <name>Brigadier General</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v03/persons#p_HVCBG1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v04/persons#p_HVCBG1</source-url>
+            </title>
+        </titles-from-name>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="4">
+        <remark source-urls="2">
+            <p>ARVN, IV Corps Commander</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v03/persons#p_HVCBG1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v04/persons#p_HVCBG1</source-url>
+        </remark>
+        <remark source-urls="3">
+            <p>see Huynh Van Cao</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v02/persons#p_CAO1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v03/persons#p_Cao1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v04/persons#p_Cao1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>General, ARVN, Secretary to the Armed Forces Council</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v02/persons#p_HVC1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v03/persons#p_HVC1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>General, ARVN, Commander of I Corps from mid-May to late May 1966</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v04/persons#p_HVC1</source-url>
+        </remark>
+    </remarks>
+</person>

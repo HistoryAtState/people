@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>107013</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Kemper, James Scott</name>
+        </preferred>
+        <alternates/>
+        <originals variants="3">
+            <original source-urls="3">
+                <name>Kemper, James S.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1952-54v04/persons#p_KJS1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v06/persons#p_KJS1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1955-57v07/persons#p_KJS1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Kemper, James Scott</name>
+                <source-url>https://history.state.gov/departmenthistory/people/kemper-james-scott</source-url>
+            </original>
+            <original source-urls="1">
+                <name>James S. Kemper</name>
+                <source-url>https://history.state.gov/departmenthistory/people/kemper-james-scott</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1886</birth-year>
+    <death-year>1981</death-year>
+    <remarks variants="3">
+        <remark source-urls="1">
+            <p>Ambassador in Brazil from August 18, 1953 until January 26, 1955.</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1952-54v04/persons#p_KJS1</source-url>
+        </remark>
+        <remark source-urls="2">
+            <p>Ambassador to Brazil until January 26, 1955</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v06/persons#p_KJS1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1955-57v07/persons#p_KJS1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Non-career appointee. Ambassador Extraordinary and Plenipotentiary (Brazil).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/kemper-james-scott</source-url>
+        </remark>
+    </remarks>
+</person>

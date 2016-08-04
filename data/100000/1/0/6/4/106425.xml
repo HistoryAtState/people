@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>106425</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Irving, Washington</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="1">
+                <name>Irving, Washington</name>
+                <source-url>https://history.state.gov/departmenthistory/people/irving-washington</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year>1783</birth-year>
+    <death-year>1859</death-year>
+    <remarks variants="1">
+        <remark source-urls="1">
+            <p>Non-career appointee. Envoy Extraordinary and Minister Plenipotentiary (Spain).</p>
+            <source-url>https://history.state.gov/departmenthistory/people/irving-washington</source-url>
+        </remark>
+    </remarks>
+</person>

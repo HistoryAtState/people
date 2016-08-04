@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>102354</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Chaderchi, Kamel</name>
+        </preferred>
+        <alternates/>
+        <originals variants="1">
+            <original source-urls="1">
+                <name>Chaderchi, Kamel</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v12/persons#p_CK2</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="1">
+        <remark source-urls="1">
+            <p>head of the National Democratic Party of Iraq</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v12/persons#p_CK2</source-url>
+        </remark>
+    </remarks>
+</person>

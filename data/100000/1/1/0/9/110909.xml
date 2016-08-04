@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>110909</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Powell, Richard R.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="1">
+                <name>Powell, Sir Richard R.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v12/persons#p_PSRR1</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Powell, Sir Richard</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v09/persons#p_PSRR1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="1">
+            <title source-urls="2">
+                <name>Sir</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1958-60v12/persons#p_PSRR1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1961-63v09/persons#p_PSRR1</source-url>
+            </title>
+        </titles-from-name>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="2">
+        <remark source-urls="1">
+            <p>Permanent Secretary, British Ministry of Defense</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1958-60v12/persons#p_PSRR1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Permanent Secretary, British Board of Trade</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1961-63v09/persons#p_PSRR1</source-url>
+        </remark>
+    </remarks>
+</person>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <id>113018</id>
+    <authorities>
+        <authority service="viaf"/>
+    </authorities>
+    <names>
+        <preferred>
+            <name>Stewart, Michael N. F.</name>
+        </preferred>
+        <alternates/>
+        <originals variants="2">
+            <original source-urls="5">
+                <name>Stewart, Michael N.F.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v02/persons#p_SMNF1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v03/persons#p_SMNF1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v04/persons#p_SMNF1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v05/persons#p_SMNF1</source-url>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v34/persons#p_SM12</source-url>
+            </original>
+            <original source-urls="1">
+                <name>Stewart, Michael N. F.</name>
+                <source-url>https://history.state.gov/historicaldocuments/frus1964-68v32/persons#p_SMNF1</source-url>
+            </original>
+        </originals>
+        <titles-from-name variants="0"/>
+    </names>
+    <birth-year/>
+    <death-year/>
+    <remarks variants="5">
+        <remark source-urls="2">
+            <p>Minister of the British Embassy in Washington</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v02/persons#p_SMNF1</source-url>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v03/persons#p_SMNF1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Minister, British Embassy in Washington</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v04/persons#p_SMNF1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>British Ambassador to the United States</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v05/persons#p_SMNF1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>British Foreign Minister</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v32/persons#p_SMNF1</source-url>
+        </remark>
+        <remark source-urls="1">
+            <p>Minister at the British Embassy in Washington</p>
+            <source-url>https://history.state.gov/historicaldocuments/frus1964-68v34/persons#p_SM12</source-url>
+        </remark>
+    </remarks>
+</person>
