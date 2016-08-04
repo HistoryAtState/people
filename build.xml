@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project default="xar" name="people">
+    <xmlproperty file="expath-pkg.xml"/>
+    <property name="project.version" value="${package(version)}"/>
+    <property name="project.app" value="${package(abbrev)}"/>
+    <property name="build.dir" value="build"/>
+    <target name="xar">
+        <mkdir dir="${build.dir}"/>
+        <zip basedir="." destfile="${build.dir}/${project.app}-${project.version}.xar" excludes="${build.dir}/*"/>
+    </target>
+    <target name="clean">
+        <delete>
+            <fileset dir="${build.dir}">
+                <include name="*.xar"/>
+            </fileset>
+        </delete>
+    </target>
+</project>
