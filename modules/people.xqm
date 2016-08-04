@@ -220,7 +220,7 @@ declare function people:consolidate-originals($person-id) {
         )
 };
 
-declare function people:create-new-person($preferred, $birth-year, $death-year, $gender) {
+declare function people:create-new-person($preferred as xs:string, $birth-year as xs:integer, $death-year as xs:integer) as xs:integer {
     let $new-id := max(collection('/db/apps/people/data')//id) + 1
     let $new-person-template :=
         <person>
@@ -238,10 +238,9 @@ declare function people:create-new-person($preferred, $birth-year, $death-year, 
             </names>
             <birth-year>{$birth-year}</birth-year>
             <death-year>{$death-year}</death-year>
-            <gender>{$gender}</gender>
             <remarks variants="0"/>
         </person>
-    let $store := xmldb:store('/db/apps/people/data/consolidated', $new-id || '.xml', $new-person-template)
+    let $store := people:store($person)
     return 
         $new-id
 };
@@ -271,7 +270,7 @@ declare function people:mkcol-recursive($collection, $components) {
         let $newColl := concat($collection, "/", $components[1])
         return (
             xmldb:create-collection($collection, $components[1]),
-            local:mkcol-recursive($newColl, subsequence($components, 2))
+            people:mkcol-recursive($newColl, subsequence($components, 2))
         )
     else
         ()
@@ -296,4 +295,11 @@ declare function people:prepare-collection($id) {
     let $components := people:id-to-collection-components($id) 
     return
         people:mkcol-recursive('/db/apps/people/data', $components)
+};
+
+declare function people:store($person) {
+    let $prepare := people:prepare-collection($id) 
+    let $components := people:id-to-collection-components($id) 
+    return
+        xmldb:store(string-join(('/db/apps/people/data', $components), '/'), $person/id || '.xml', $person)
 };

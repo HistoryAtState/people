@@ -4,19 +4,19 @@ A database of persons included in Office of the Historian publications and datas
 
 ## Data sources
 
-- [_Foreign Relations of the United States_](https://history.state.gov/historicaldocuments) (see raw data at the [HistoryAtState/frus](https://github.com/HistoryAtState) GitHub repository)
-- [_Visits to the United States of Foreign Leaders and Heads of State_](https://history.state.gov/departmenthistory/visits)
-- [_Principal Officers and Chiefs of Mission of the U.S. Department of State_](https://history.state.gov/departmenthistory/principals-chiefs)
+- [The _Foreign Relations of the United States (FRUS)_ series](https://history.state.gov/historicaldocuments) (see raw data at the [HistoryAtState/frus](https://github.com/HistoryAtState/frus) GitHub repository)
+- [_Visits to the United States by Foreign Leaders and Heads of State_](https://history.state.gov/departmenthistory/visits) (see raw data at the [HistoryAtState/visits](https://github.com/HistoryAtState/visits) GitHub repository)
+- [_Principal Officers and Chiefs of Mission of the U.S. Department of State_](https://history.state.gov/departmenthistory/principals-chiefs) (see raw data at the [HistoryAtState/pocom](https://github.com/HistoryAtState/pocom) GitHub repository)
 - Presidents of the United States
 
 ## Status
 
-The data and app are in early beta. Identifiers may change.
+The data and app are in early beta. Caveat: Data identifiers are subject to change.
 
 ## Dependencies
 
-- The data in `data` is XML and so has no dependencies
-- But the application runs in [eXist-db](http://exist-db.org). Requires 3.0RC2.
+- The data in the `data` collection is XML
+- The application runs in [eXist-db](http://exist-db.org). Requires 3.0RC2.
 - Building the installable package requires Apache Ant
 - The OpenRefine Reconciliation Service targets OpenRefine 2.6 Beta
 
