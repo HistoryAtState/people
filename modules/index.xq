@@ -9,10 +9,10 @@ declare namespace tei="http://www.tei-c.org/ns/1.0";
 declare option output:method "html5";
 declare option output:media-type "text/html";
 
-declare function local:wrap-html($content as element(), $title as xs:string) {
+declare function local:wrap-html($content as element(), $title as xs:string+) {
     <html>
         <head>
-            <title>{$title}</title>
+            <title>{string-join(reverse($title), ' | ')}</title>
             <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css" rel="stylesheet"/>
             <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
             <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>
@@ -29,7 +29,7 @@ declare function local:wrap-html($content as element(), $title as xs:string) {
         </head>
         <body>
             <div class="container">
-                <h3>{$title}</h3>
+                <h3><a href="{$local:app-base}">{$title[1]}</a></h3>
                 {$content}
             </div>
         </body>
@@ -51,17 +51,18 @@ declare function local:source-url-to-link($source-url) {
     }</a>
 };
 
-let $app-base := '/exist/apps/people/'
+declare variable $local:app-base := '/exist/apps/people/';
+declare variable $local:open-refine-endpoint-url := '???';
+
+let $local:app-base := '/exist/apps/people/'
 let $people := collection('/db/apps/people/data')
-let $title := 'People Browser'
 let $view-all := request:get-parameter('view', ())
 let $q := request:get-parameter('q', ())
 let $remarks := request:get-parameter('remarks', ())
 let $id := request:get-parameter('id', ())
 let $content := 
     <div>
-        <p>{count($people)} records. (<a href="{$app-base}?view=all">View all</a>.)</p>
-        <form class="form-inline" action="{$app-base}" method="get">
+        <form class="form-inline" action="{$local:app-base}" method="get">
             <div class="form-group">
                 <label for="q" class="control-label">Search Names</label>
                 <input type="text" name="q" id="q" class="form-control" value="{$q}"/>
@@ -72,6 +73,53 @@ let $content :=
             </div>
             <button type="submit" class="btn btn-default">Submit</button>
         </form>
+        {
+        if ($view-all or $q or $remarks or $id) then
+            ()
+        else 
+            <div id="about">
+                <h2>About</h2>
+                <p>“People” is a draft-stage database of persons who played some role in U.S. foreign relations, 1776–present, drawn from select Office of the Historian publications and datasets. It currently contains {format-number(count($people), '#,###.##')} person records, consolidated and de-duplicated from {format-number(count(collection('/db/apps/people/data')//source-url[parent::original]), '#,###.##')} entries, and can be searched using the form above, downloaded as a complete dataset via the <a href="https://github.com/HistoryAtState/people">HistoryAtState/people</a> repository on GitHub, or accessed as an OpenRefine Reconciliation Service (see <a href="#openrefine">OpenRefine</a> below). To view a table with each person’s name and most frequent description, select <a href="{$local:app-base}?view=all">View All</a>.</p>
+                <div id="sources">
+                    <h3>Sources</h3>
+                    <ol>
+                        <li><a href="https://history.state.gov/historicaldocuments">The <em>Foreign Relations of the United States</em> (<em>FRUS</em>) series</a>: The official documentary history of U.S. foreign relations. Many volumes contain a List of Persons, people who played a significant role in the volume. These lists consist of the person’s name and a brief description of their role during the period covered by the volume. (The raw data is available at the <a href="https://github.com/HistoryAtState/frus">HistoryAtState/frus</a> GitHub repository.)</li>
+                        <li><a href="https://history.state.gov/departmenthistory/visits"><em>Visits to the United States by Foreign Leaders and Heads of State</em></a>: A comprehensive database of official visits by foreign leaders and heads of state. (The raw data is available at the <a href="https://github.com/HistoryAtState/visits">HistoryAtState/visits</a> GitHub repository.)</li>
+                        <li><a href="https://history.state.gov/departmenthistory/principals-chiefs"><em>Principal Officers and Chiefs of Mission of the U.S. Department of State</em></a>: A comprehensive database of U.S. ambassadors and principal officers at and above the rank of Assistant Secretary, including dates of birth and death. (The raw data is available at the <a href="https://github.com/HistoryAtState/pocom">HistoryAtState/pocom</a> GitHub repository.)</li>
+                        <li>Presidents of the United States</li>
+                    </ol>
+                </div>
+                <div id="features">
+                    <h3>Features</h3>
+                    <ul>
+                        <li><strong>Many variants:</strong> The database preserves and exposes all variant spellings of a person’s name, as captured in the source datasets. These variants most often arise from changes in the spelling of a person’s name over time (e.g., the change from “Teng Hsiao-p’ing” to “Deng Xiaoping”), orthographic variants (the many spellings of “Muammar Qaddafi”), and house style, but also reflect contemporary usage in archival sources and, occasionally, typos in the source publication or dataset.</li>
+                        <li><strong>Broad descriptions:</strong> The database preserves all descriptions, verbatim, from source publications and datasets, to help in finding people by the positions they held.</li>
+                        <li><strong>Citations:</strong> Each name and description is linked back to its source publication or dataset.</li>
+                        <li><strong>Powerful search:</strong> The database allows all name and descriptions to be searched broadly or precisely. See “Searching the Database” below.</li>
+                        <li><strong>Citable URLs:</strong> Each person record contains a unique, persistent identifier. During the current draft phase, identifiers and the application’s URL may change, but once the application is finalized, the identifiers and thus the URLs for the database’s records will be persistent, facilitating citation and integration with linked data applications.</li>
+                        <li><strong>Integrated with OpenRefine:</strong> OpenRefine, the free, open source tool for cleaning up messy data, can query this database thanks to its support for OpenRefine’s Reconciliation Service API. Researchers can paste names of people into OpenRefine and allow OpenRefine to query this database and provide suggestions.</li>
+                    </ul>
+                    <p>Each person record contains the following information:</p>
+                    <ul>
+                        <li><strong>Names:</strong> Besides all variants from the source publications and datasets, each person entry contains a <em>preferred</em> spelling, which appears as the main entry. Some records also contain <em>alternate</em> spellings, known valid alternates. When source names contained military or royal titles, the titles are listed in a <em>titles extracted from names</em> field.</li>
+                        <li><strong>Remarks:</strong> Either the source description (as in the case of entries from <em>FRUS</em>) or a summary of the information from the source (as in the case of the other datasets).</li>
+                        <li><strong>Dates:</strong> When available, the database captures the year of birth and death. Most of this information currently comes from the <em>Principal Officers and Chiefs of Mission</em> database.</li>
+                        <li><strong>ID:</strong> A unique number identifier serves as the persistent identifier of each person.</li>
+                    </ul>
+                </div>
+                <div id="search">
+                    <h3>Searching the database</h3>
+                    <p>The database allows search within the "names" and "remarks" fields of each person record. By default, the database searches for all terms entered in each field. So a search of the names field for <code>John Smith</code> will return all records with the terms John AND Smith (not necessarily in this order), not all records containing either John OR Smith. To broaden the query, use the boolean <code>OR</code> operator: <code>John or Smith</code>. The database also supports phrase searches (<code>"John Smith"</code>) and wildcards (<code>?</code> for a single character, <code>*</code> for zero or more characters). Punctuation is dropped from searches. Examples of these searches include:</p>
+                    <ul>
+                        <li>[to be added]</li>
+                    </ul>
+                </div>
+                <div id="openrefine">
+                    <h3>OpenRefine Reconciliation Service</h3>
+                    <p>This application’s OpenRefine Reconciliation Service endpoint is <a href="{$local:open-refine-endpoint-url}">{$local:open-refine-endpoint-url}</a>.</p>
+                </div>
+            </div>
+        }
         {
             if ($view-all) then
                 <div>
@@ -120,17 +168,24 @@ let $content :=
         }
         {
             if (($q and $q ne '') or ($remarks and $remarks ne '')) then
+                let $query-options := 
+                    <options>
+                        <default-operator>and</default-operator>
+                        <phrase-slop>0</phrase-slop>
+                        <leading-wildcard>no</leading-wildcard>
+                        <filter-rewrite>yes</filter-rewrite> 
+                    </options>
                 let $hits := 
                     if ($q ne '' and $remarks ne '') then 
                         (
-                            $people//name[ft:query(., $q)]/ancestor::person
-                            | 
-                            $people//p[ft:query(., $remarks)]/ancestor::person
+                            $people//name[ft:query(., $q, $query-options)]/ancestor::person
+                            intersect
+                            $people//p[ft:query(., $remarks, $query-options)]/ancestor::person
                         )
                     else if ($q ne '') then 
-                        $people//name[ft:query(., $q)]/ancestor::person
+                        $people//name[ft:query(., $q, $query-options)]/ancestor::person
                     else 
-                        $people//p[ft:query(., $remarks)]/ancestor::person
+                        $people//p[ft:query(., $remarks, $query-options)]/ancestor::person
                 return
                     <div>
                         <p>{count($hits)} hits for { if ($q ne '') then concat('name “', $q, '”') else ()} { if ($remarks ne '') then concat('remarks “', $remarks, '”') else ()}. {if ($hits) then 'Notes: (1) The name shown is the name that has been selected as the “preferred” form of the name; if acceptable alternates have been identified, these are also shown. The total number of variant spellings is shown in small gray text. (2) The remark shown is the most common description used for the person in the database. The total number of variant descriptions is shown in small gray text. (3) Select a person to see all variant names and remarks, along with other data about the person.' else 'Please try again.'}</p>
@@ -190,7 +245,7 @@ let $content :=
                     <div id="entry">
                         <h2>{$person/names/preferred/name/string(), if (count($preferred/genName) gt 1) then <span class="text-warning">{concat(' [', count($preferred/genName), ' gennames?]')}</span> else ()}</h2>
                         <ul>
-                            <li>ID: {$id}&#0160;<a href="{$app-base}id/{$id}.xml">(View XML)</a></li>
+                            <li>ID: {$id}&#0160;<a href="{$local:app-base}id/{$id}.xml">(View XML)</a></li>
                             <li>Year of Birth: {($person/birth-year/string(), '?')[. ne ''][1]}</li>
                             {if ($person/death-year ne '') then <li>Year of Death: {$person/death-year/string()}</li> else ()}
                             <!--<li>{$person/gender/string()} <em> (note: unless F, this values may be wrong)</em></li>-->
@@ -306,11 +361,14 @@ let $content :=
             else ()
         }
     </div>
+let $site-title := 'People'
+let $page-title := $content//h2
+let $titles := if ($page-title = 'About') then $site-title else ($site-title, $page-title)
 return 
     (
         (: strip search box from google refine results :)
         if (starts-with(request:get-header('Referer'), ('http://localhost:3333', 'http://127.0.0.1:3333'))) then 
-            local:wrap-html($content//div[@id = 'entry'], $title)
+            local:wrap-html($content//div[@id = 'entry'], $titles)
         else
-            local:wrap-html($content, $title)
+            local:wrap-html($content, $titles)
     )
