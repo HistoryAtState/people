@@ -1,6 +1,7 @@
 xquery version "3.1";
 
 import module namespace console="http://exist-db.org/xquery/console";
+import module namespace people="http://history.state.gov/ns/xquery/people" at "/db/apps/people/modules/people.xqm";
 
 declare namespace output = "http://www.w3.org/2010/xslt-xquery-serialization";
 (:declare option output:method "json";:)
@@ -12,9 +13,9 @@ declare function local:service-metadata() {
         "identifierSpace": "HSG People Reconciliation service",
         "schemaSpace": "HSG People Reconciliation service",
         "defaultTypes": array {()},
-        "view": map { "url": "http://localhost:8080/exist/apps/people/id/{{id}}" },
+        "view": map { "url": $people:app-base-url || "id/{{id}}" },
         "preview": map { 
-            "url": "http://localhost:8080/exist/apps/people/id/{{id}}",
+            "url": $people:app-base-url || "id/{{id}}",
             "width": 430,
             "height": 300
         }
@@ -24,7 +25,7 @@ declare function local:service-metadata() {
 declare function local:query($query) {
     if (matches($query, '^\d+$')) then
         let $id := $query
-        let $hit := doc('/db/apps/people/data/consolidated/' || $id || '.xml')/person
+        let $hit := doc('/db/apps/people/data/' || $id || '.xml')/person
         return
             map { "result": 
                 array {

@@ -8,6 +8,11 @@ import module namespace gsh="http://history.state.gov/ns/xquery/geospatialhistor
 
 declare namespace tei="http://www.tei-c.org/ns/1.0";
 
+declare variable $people:app-base := '/exist/apps/people/';
+declare variable $people:server-url := request:get-scheme() || '://' || request:get-server-name() || (if (request:get-server-port() = (80, 443)) then () else (':' || request:get-server-port()));
+declare variable $people:app-base-url := $people:server-url || $people:app-base;
+declare variable $people:open-refine-endpoint-url := $people:app-base-url || 'reconcile';
+
 declare function people:get-original($url) {
     let $is-frus := matches($url, '^https://history\.state\.gov/historicaldocuments')
     let $is-pocom := matches($url, '^https://history\.state\.gov/departmenthistory/people')

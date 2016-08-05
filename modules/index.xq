@@ -2,6 +2,7 @@ xquery version "3.0";
 
 import module namespace console="http://exist-db.org/xquery/console";
 import module namespace templates="http://exist-db.org/xquery/templates";
+import module namespace people="http://history.state.gov/ns/xquery/people" at "/db/apps/people/modules/people.xqm";
 
 declare namespace output="http://www.w3.org/2010/xslt-xquery-serialization";
 declare namespace tei="http://www.tei-c.org/ns/1.0";
@@ -29,7 +30,7 @@ declare function local:wrap-html($content as element(), $title as xs:string+) {
         </head>
         <body>
             <div class="container">
-                <h3><a href="{$local:app-base}">{$title[1]}</a></h3>
+                <h3><a href="{$people:app-base}">{$title[1]}</a></h3>
                 {$content}
             </div>
         </body>
@@ -51,10 +52,6 @@ declare function local:source-url-to-link($source-url) {
     }</a>
 };
 
-declare variable $local:app-base := '/exist/apps/people/';
-declare variable $local:open-refine-endpoint-url := '???';
-
-let $local:app-base := '/exist/apps/people/'
 let $people := collection('/db/apps/people/data')
 let $view-all := request:get-parameter('view', ())
 let $q := request:get-parameter('q', ())
@@ -62,7 +59,7 @@ let $remarks := request:get-parameter('remarks', ())
 let $id := request:get-parameter('id', ())
 let $content := 
     <div>
-        <form class="form-inline" action="{$local:app-base}" method="get">
+        <form class="form-inline" action="{$people:app-base}" method="get">
             <div class="form-group">
                 <label for="q" class="control-label">Search Names</label>
                 <input type="text" name="q" id="q" class="form-control" value="{$q}"/>
@@ -79,7 +76,7 @@ let $content :=
         else 
             <div id="about">
                 <h2>About</h2>
-                <p>“People” is a draft-stage database of persons who played some role in U.S. foreign relations, 1776–present, drawn from select Office of the Historian publications and datasets. It currently contains {format-number(count($people), '#,###.##')} person records, consolidated and de-duplicated from {format-number(count(collection('/db/apps/people/data')//source-url[parent::original]), '#,###.##')} entries, and can be searched using the form above, downloaded as a complete dataset via the <a href="https://github.com/HistoryAtState/people">HistoryAtState/people</a> repository on GitHub, or accessed as an OpenRefine Reconciliation Service (see <a href="#openrefine">OpenRefine</a> below). To view a table with each person’s name and most frequent description, select <a href="{$local:app-base}?view=all">View All</a>.</p>
+                <p>“People” is a draft-stage database of persons who played some role in U.S. foreign relations, 1776–present, drawn from select Office of the Historian publications and datasets. It currently contains {format-number(count($people), '#,###.##')} person records, consolidated and de-duplicated from {format-number(count(collection('/db/apps/people/data')//source-url[parent::original]), '#,###.##')} entries, and can be searched using the form above, downloaded as a complete dataset via the <a href="https://github.com/HistoryAtState/people">HistoryAtState/people</a> repository on GitHub, or accessed as an OpenRefine Reconciliation Service (see <a href="#openrefine">OpenRefine</a> below). To view a table with each person’s name and most frequent description, select <a href="{$people:app-base}?view=all">View All</a>.</p>
                 <div id="sources">
                     <h3>Sources</h3>
                     <ol>
@@ -116,7 +113,7 @@ let $content :=
                 </div>
                 <div id="openrefine">
                     <h3>OpenRefine Reconciliation Service</h3>
-                    <p>This application’s OpenRefine Reconciliation Service endpoint is <a href="{$local:open-refine-endpoint-url}">{$local:open-refine-endpoint-url}</a>.</p>
+                    <p>This application’s OpenRefine Reconciliation Service endpoint is <a href="{$people:open-refine-endpoint-url}">{$people:open-refine-endpoint-url}</a>. Note: The endpoint on history.state.gov is not currently working, but installing this application on your own local system does yield a working endpoint.</p>
                 </div>
             </div>
         }
@@ -245,7 +242,7 @@ let $content :=
                     <div id="entry">
                         <h2>{$person/names/preferred/name/string(), if (count($preferred/genName) gt 1) then <span class="text-warning">{concat(' [', count($preferred/genName), ' gennames?]')}</span> else ()}</h2>
                         <ul>
-                            <li>ID: {$id}&#0160;<a href="{$local:app-base}id/{$id}.xml">(View XML)</a></li>
+                            <li>ID: {$id}&#0160;<a href="{$people:app-base}id/{$id}.xml">(View XML)</a></li>
                             <li>Year of Birth: {($person/birth-year/string(), '?')[. ne ''][1]}</li>
                             {if ($person/death-year ne '') then <li>Year of Death: {$person/death-year/string()}</li> else ()}
                             <!--<li>{$person/gender/string()} <em> (note: unless F, this values may be wrong)</em></li>-->
@@ -367,7 +364,7 @@ let $titles := if ($page-title = 'About') then $site-title else ($site-title, $p
 return 
     (
         (: strip search box from google refine results :)
-        if (starts-with(request:get-header('Referer'), ('http://localhost:3333', 'http://127.0.0.1:3333'))) then 
+        if (contains(request:get-header('Referer'), ':3333/')) then 
             local:wrap-html($content//div[@id = 'entry'], $titles)
         else
             local:wrap-html($content, $titles)
