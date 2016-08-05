@@ -1,6 +1,6 @@
 # People
 
-A database of persons included in Office of the Historian publications and datasets. This application provides searchable list of all entries and an OpenRefine Reconciliation Service. 
+A database of persons included in Office of the Historian publications and datasets. The application provides a searchable list of all entries and an OpenRefine Reconciliation Service. 
 
 ## Data sources
 
