@@ -120,7 +120,7 @@ let $content :=
         {
             if ($view-all) then
                 <div>
-                    <p>Showing all {count($people)} people. Notes: (1) The name shown is the name that has been selected as the “preferred” form of the name; if acceptable alternates have been identified, these are also shown. The total number of variant spellings is shown in small gray text. (2) The remark shown is the most common description used for the person in the database. The total number of variant descriptions is shown in small gray text. (3) Select a person to see all variant names and remarks, along with other data about the person.</p>
+                    <p>Showing all {count($people)} people. (This summary view shows primary name, most frequent remark, the number of variants for each name and remark, and the number of sources.)</p>
                     <table class="table table-bordered table-striped">
                         <thead>
                             <tr>
@@ -185,7 +185,7 @@ let $content :=
                         $people//p[ft:query(., $remarks, $query-options)]/ancestor::person
                 return
                     <div>
-                        <p>{count($hits)} hits for { if ($q ne '') then concat('name “', $q, '”') else ()} { if ($remarks ne '') then concat('remarks “', $remarks, '”') else ()}. {if ($hits) then 'Notes: (1) The name shown is the name that has been selected as the “preferred” form of the name; if acceptable alternates have been identified, these are also shown. The total number of variant spellings is shown in small gray text. (2) The remark shown is the most common description used for the person in the database. The total number of variant descriptions is shown in small gray text. (3) Select a person to see all variant names and remarks, along with other data about the person.' else 'Please try again.'}</p>
+                        <p>{count($hits)} hits for { if ($q ne '') then concat('name “', $q, '”') else ()} { if ($remarks ne '') then concat('remarks “', $remarks, '”') else ()}. {if ($hits) then '(This summary view shows primary name, most frequent remark, the number of variants for each name and remark, and the number of sources.)' else 'Please try again.'}</p>
                         <table class="table table-bordered table-striped">
                             <thead>
                                 <tr>
@@ -245,7 +245,6 @@ let $content :=
                             <li>ID: {$id}&#0160;<a href="{$people:app-base}id/{$id}.xml">(View XML)</a></li>
                             <li>Year of Birth: {($person/birth-year/string(), '?')[. ne ''][1]}</li>
                             {if ($person/death-year ne '') then <li>Year of Death: {$person/death-year/string()}</li> else ()}
-                            <!--<li>{$person/gender/string()} <em> (note: unless F, this values may be wrong)</em></li>-->
                         </ul>
                         <h3><ul class="list-unstyled">{
                             for $name in $person/names/alternates/name
