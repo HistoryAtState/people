@@ -10,48 +10,6 @@ declare namespace tei="http://www.tei-c.org/ns/1.0";
 declare option output:method "html5";
 declare option output:media-type "text/html";
 
-declare function local:wrap-html($content as element(), $title as xs:string+) {
-    <html>
-        <head>
-            <title>{string-join(reverse($title), ' | ')}</title>
-            <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css" rel="stylesheet"/>
-            <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
-            <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>
-            <style type="text/css">
-                body {{ font-family: HelveticaNeue, Helvetica, Arial, sans }}
-                table {{ page-break-inside: avoid }}
-                dl {{ margin-above: 1em }}
-                dt {{ font-weight: bold }}
-            </style>
-            <style type="text/css" media="print">
-                a, a:visited {{ text-decoration: underline; color: #428bca; }}
-                a[href]:after {{ content: "" }}
-            </style>
-        </head>
-        <body>
-            <div class="container">
-                <h3><a href="{$people:app-base}">{$title[1]}</a></h3>
-                {$content}
-            </div>
-        </body>
-    </html>    
-};
-
-declare function local:source-url-to-link($source-url) {
-    <a href="{$source-url}">{
-        if (contains($source-url, 'historicaldocuments')) then
-            substring-before(substring-after($source-url, '/historicaldocuments/'), '/persons')
-        else if (contains($source-url, 'departmenthistory/people')) then
-            concat('pocom/', substring-after($source-url, 'departmenthistory/people/'))
-        else if (contains($source-url, 'visits')) then
-            substring-after($source-url, '/departmenthistory/')
-        else if (contains($source-url, 'presidents')) then
-            substring-after($source-url, '/data/')
-        else
-            $source-url
-    }</a>
-};
-
 let $people := collection('/db/apps/people/data')
 let $view-all := request:get-parameter('view', ())
 let $q := request:get-parameter('q', ())
@@ -276,7 +234,7 @@ let $content :=
                                         for $n in $source-urls 
                                         order by $n 
                                         return 
-                                            <li>{local:source-url-to-link($n)}</li>
+                                            <li>{people:source-url-to-link($n)}</li>
                                     }</ul>
                                 let $serialization-parameters := 
                                     <output:serialization-parameters>
@@ -310,7 +268,7 @@ let $content :=
                                                 for $n in $source-urls 
                                                 order by $n 
                                                 return 
-                                                    <li>{local:source-url-to-link($n)}</li>
+                                                    <li>{people:source-url-to-link($n)}</li>
                                             }</ul>
                                         let $serialization-parameters := 
                                             <output:serialization-parameters>
@@ -347,7 +305,7 @@ let $content :=
                                             for $n in $source-urls 
                                             order by $n 
                                             return 
-                                                <li>{local:source-url-to-link($n)}</li>
+                                                <li>{people:source-url-to-link($n)}</li>
                                         }</ul></td>
                                     </tr>
                             }</tbody>
@@ -364,7 +322,7 @@ return
     (
         (: strip search box from google refine results :)
         if (contains(request:get-header('Referer'), ':3333/')) then 
-            local:wrap-html($content//div[@id = 'entry'], $titles)
+            people:wrap-html($content//div[@id = 'entry'], $titles)
         else
-            local:wrap-html($content, $titles)
+            people:wrap-html($content, $titles)
     )
