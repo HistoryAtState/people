@@ -34,7 +34,7 @@ let $content :=
         else 
             <div id="about">
                 <h2>About</h2>
-                <p>“People” is a draft-stage database of persons who played some role in U.S. foreign relations, 1776–present, drawn from select Office of the Historian publications and datasets. It currently contains {format-number(count($people), '#,###.##')} person records, consolidated and de-duplicated from {format-number(count(collection('/db/apps/people/data')//source-url[parent::original]), '#,###.##')} entries, and can be searched using the form above, downloaded as a complete dataset via the <a href="https://github.com/HistoryAtState/people">HistoryAtState/people</a> repository on GitHub, or accessed as an OpenRefine Reconciliation Service (see <a href="#openrefine">OpenRefine</a> below). To view a table with each person’s name and most frequent description, select <a href="{$people:app-base}?view=all">View All</a>.</p>
+                <p>“People” is a draft-stage database of persons who played some role in U.S. foreign relations, 1776–present, drawn from select Office of the Historian publications and datasets. It currently contains {format-number(count($people), '#,###.##')} person records, consolidated and de-duplicated from {format-number(count(collection('/db/apps/people/data')//source-url[parent::original]), '#,###.##')} entries, and can be searched using the form above, downloaded as a complete dataset via the <a href="https://github.com/HistoryAtState/people">HistoryAtState/people</a> repository on GitHub, installed on ones computer as part of <a href="https://github.com/HistoryAtState/hsg-project">history.state.gov’s suite of eXist applications</a>, or accessed as an OpenRefine Reconciliation Service (see <a href="#openrefine">OpenRefine</a> below). To view a table with each person’s name and most frequent description, select <a href="{$people:app-base}?view=all">View All</a>.</p>
                 <div id="sources">
                     <h3>Sources</h3>
                     <ol>
@@ -50,9 +50,9 @@ let $content :=
                         <li><strong>Many variants:</strong> The database preserves and exposes all variant spellings of a person’s name, as captured in the source datasets. These variants most often arise from changes in the spelling of a person’s name over time (e.g., the change from “Teng Hsiao-p’ing” to “Deng Xiaoping”), orthographic variants (the many spellings of “Muammar Qaddafi”), and house style, but also reflect contemporary usage in archival sources and, occasionally, typos in the source publication or dataset.</li>
                         <li><strong>Broad descriptions:</strong> The database preserves all descriptions, verbatim, from source publications and datasets, to help in finding people by the positions they held.</li>
                         <li><strong>Citations:</strong> Each name and description is linked back to its source publication or dataset.</li>
-                        <li><strong>Powerful search:</strong> The database allows all name and descriptions to be searched broadly or precisely. See “Searching the Database” below.</li>
+                        <li><strong>Search:</strong> The database allows all name and descriptions to be searched broadly or precisely. See <a href="#search">Searching the Database</a> below.</li>
                         <li><strong>Citable URLs:</strong> Each person record contains a unique, persistent identifier. During the current draft phase, identifiers and the application’s URL may change, but once the application is finalized, the identifiers and thus the URLs for the database’s records will be persistent, facilitating citation and integration with linked data applications.</li>
-                        <li><strong>Integrated with OpenRefine:</strong> OpenRefine, the free, open source tool for cleaning up messy data, can query this database thanks to its support for OpenRefine’s Reconciliation Service API. Researchers can paste names of people into OpenRefine and allow OpenRefine to query this database and provide suggestions.</li>
+                        <li><strong>Integrated with OpenRefine:</strong> <a href="http://openrefine.org/">OpenRefine</a>, the free, open source tool for cleaning up messy data, can query this database thanks to its support for OpenRefine’s Reconciliation Service API. Researchers can paste names of people into OpenRefine and allow OpenRefine to query this database and provide suggestions.</li>
                     </ul>
                     <p>Each person record contains the following information:</p>
                     <ul>
@@ -64,10 +64,14 @@ let $content :=
                 </div>
                 <div id="search">
                     <h3>Searching the database</h3>
-                    <p>The database allows search within the "names" and "remarks" fields of each person record. By default, the database searches for all terms entered in each field. So a search of the names field for <code>John Smith</code> will return all records with the terms John AND Smith (not necessarily in this order), not all records containing either John OR Smith. To broaden the query, use the boolean <code>OR</code> operator: <code>John or Smith</code>. The database also supports phrase searches (<code>"John Smith"</code>) and wildcards (<code>?</code> for a single character, <code>*</code> for zero or more characters). Punctuation is dropped from searches. Examples of these searches include:</p>
+                    <p>The database allows search within the “names” and “remarks” fields of each person record. By default, the database searches for all terms entered in each field. So a search of the names field for <code>John Smith</code> will return all records with the terms John AND Smith (not necessarily in this order), not all records containing either John OR Smith. To broaden the query, use the boolean <code>OR</code> operator: <code>John or Smith</code>. The database also supports phrase searches (<code>"John Smith"</code>) and wildcards (<code>?</code> for a single character, <code>*</code> for zero or more characters). Punctuation is dropped from searches. Examples of these searches include:</p>
                     <ul>
                         <li>[to be added]</li>
                     </ul>
+                </div>
+                <div id="contributing">
+                    <h3>Contributing</h3>
+                    <p>If you notice a problem for an entry or have a question, please <a href="https://github.com/HistoryAtState/people/issues/new">file an issue</a> on GitHub (requires a free GitHub account). Pull requests are also welcome.</p>
                 </div>
                 <div id="openrefine">
                     <h3>OpenRefine Reconciliation Service</h3>
