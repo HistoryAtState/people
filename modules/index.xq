@@ -75,7 +75,7 @@ let $content :=
                 </div>
                 <div id="openrefine">
                     <h3>OpenRefine Reconciliation Service</h3>
-                    <p>This application’s OpenRefine Reconciliation Service endpoint is <a href="{$people:open-refine-endpoint-url}">{$people:open-refine-endpoint-url}</a>. Note: The endpoint on history.state.gov is not currently working, but installing this application on your own local system does yield a working endpoint.</p>
+                    <p>This application’s OpenRefine Reconciliation Service endpoint is <a href="{$people:open-refine-endpoint-url}">{$people:open-refine-endpoint-url}</a>. </p>
                 </div>
             </div>
         }
