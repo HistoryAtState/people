@@ -76,12 +76,12 @@ declare function local:query($query) {
 
 declare function local:queries($queries) {
     let $results := 
-        map:new(
-            for $q in $queries?*
+        map:new( 
+            for $q in map:keys($queries)
             let $query := map:get($queries, $q)?query
             return
                 map:entry($q, local:query($query))
-            )
+        )
     return
         (
         $results,
