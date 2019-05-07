@@ -76,7 +76,7 @@ declare function local:query($query) {
 
 declare function local:queries($queries) {
     let $results := 
-        map:new( 
+        map:merge( 
             for $q in map:keys($queries)
             let $query := map:get($queries, $q)?query
             return
